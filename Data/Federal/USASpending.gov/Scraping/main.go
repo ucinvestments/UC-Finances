@@ -74,30 +74,45 @@ type CodeDescription struct {
 }
 
 type Award struct {
-	InternalID                 int         `json:"internal_id"`
-	AwardID                    string      `json:"Award ID"`
-	RecipientName              string      `json:"Recipient Name"`
-	AwardAmount                interface{} `json:"Award Amount"`
-	TotalOutlays               interface{} `json:"Total Outlays"`
-	Description                string      `json:"Description"`
-	ContractAwardType          string          `json:"Contract Award Type"`
-	RecipientUEI               string          `json:"Recipient UEI"`
-	RecipientLocation          Location        `json:"Recipient Location"`
-	PrimaryPlaceOfPerformance  Location        `json:"Primary Place of Performance"`
-	DefCodes                   []string        `json:"def_codes"`
-	COVID19Obligations         interface{}     `json:"COVID-19 Obligations"`
-	COVID19Outlays             interface{}     `json:"COVID-19 Outlays"`
-	InfrastructureObligations  interface{}     `json:"Infrastructure Obligations"`
-	InfrastructureOutlays      interface{}     `json:"Infrastructure Outlays"`
-	AwardingAgency             string          `json:"Awarding Agency"`
-	AwardingSubAgency          string          `json:"Awarding Sub Agency"`
-	StartDate                  string          `json:"Start Date"`
-	EndDate                    string          `json:"End Date"`
-	NAICS                      CodeDescription `json:"NAICS"`
-	PSC                        CodeDescription `json:"PSC"`
-	RecipientID                string      `json:"recipient_id"`
-	PrimeAwardRecipientID      string      `json:"prime_award_recipient_id"`
-	GeneratedInternalID        string      `json:"generated_internal_id"`
+	InternalID                        int         `json:"internal_id"`
+	AwardID                          string      `json:"Award ID"`
+	RecipientName                    string      `json:"Recipient Name"`
+	AwardAmount                      interface{} `json:"Award Amount"`
+	TotalOutlays                     interface{} `json:"Total Outlays"`
+	Description                      string      `json:"Description"`
+	ContractAwardType                string          `json:"Contract Award Type"`
+	RecipientUEI                     string          `json:"Recipient UEI"`
+	RecipientLocation                interface{}     `json:"Recipient Location"` // Can be Location object or string fields
+	PrimaryPlaceOfPerformance        interface{}     `json:"Primary Place of Performance"` // Can be Location object or string fields
+	DefCodes                         []string        `json:"def_codes"`
+	COVID19Obligations               interface{}     `json:"COVID-19 Obligations"`
+	COVID19Outlays                   interface{}     `json:"COVID-19 Outlays"`
+	InfrastructureObligations        interface{}     `json:"Infrastructure Obligations"`
+	InfrastructureOutlays            interface{}     `json:"Infrastructure Outlays"`
+	AwardingAgency                   string          `json:"Awarding Agency"`
+	AwardingSubAgency                string          `json:"Awarding Sub Agency"`
+	StartDate                        string          `json:"Start Date"`
+	EndDate                          string          `json:"End Date"`
+	NAICS                            interface{}     `json:"NAICS"` // Can be CodeDescription or string
+	PSC                              interface{}     `json:"PSC"`   // Can be CodeDescription or string
+	RecipientID                      string          `json:"recipient_id"`
+	PrimeAwardRecipientID            string          `json:"prime_award_recipient_id"`
+	GeneratedInternalID              string          `json:"generated_internal_id"`
+
+	// Loan-specific fields
+	LoanValue                        interface{} `json:"Loan Value"`
+	SubsidyCost                      interface{} `json:"Subsidy Cost"`
+	IssuedDate                       string      `json:"Issued Date"`
+	FundingAgency                    string      `json:"Funding Agency"`
+
+	// Location fields for loans (separate from Location object)
+	RecipientLocationCityName        string `json:"recipient_location_city_name"`
+	RecipientLocationStateCode       string `json:"recipient_location_state_code"`
+	RecipientLocationCountryName     string `json:"recipient_location_country_name"`
+	RecipientLocationAddressLine1    string `json:"recipient_location_address_line1"`
+	POPCityName                      string `json:"pop_city_name"`
+	POPStateCode                     string `json:"pop_state_code"`
+	POPCountryName                   string `json:"pop_country_name"`
 }
 
 type APIResponse struct {
@@ -121,7 +136,93 @@ func NewScraper() *Scraper {
 	}
 }
 
-func (s *Scraper) createRequest() APIRequest {
+// Award type groups as defined by the API
+var awardTypeGroups = map[string][]string{
+	"contracts":                  {"A", "B", "C", "D"},
+	"grants":                     {"02", "03", "04", "05"},
+	"loans":                      {"07", "08"},
+	"idvs":                       {"IDV_A", "IDV_B", "IDV_B_A", "IDV_B_B", "IDV_B_C", "IDV_C", "IDV_D", "IDV_E"},
+	"other_financial_assistance": {"06", "10"},
+	"direct_payments":            {"09", "11"},
+}
+
+// Directory mapping for each award type group - save locally for now due to permissions
+var directoryMapping = map[string]string{
+	"contracts":                  ".",
+	"grants":                     ".",
+	"loans":                      ".",
+	"idvs":                       ".",
+	"other_financial_assistance": ".",
+	"direct_payments":            ".",
+}
+
+// Award type specific configurations
+var awardTypeConfigs = map[string]struct {
+	SortField string
+	Fields    []string
+}{
+	"contracts": {
+		SortField: "Award Amount",
+		Fields: []string{
+			"Award ID", "Recipient Name", "Award Amount", "Total Outlays", "Description",
+			"Contract Award Type", "Recipient UEI", "Recipient Location", "Primary Place of Performance",
+			"def_codes", "COVID-19 Obligations", "COVID-19 Outlays", "Infrastructure Obligations",
+			"Infrastructure Outlays", "Awarding Agency", "Awarding Sub Agency", "Start Date", "End Date",
+			"NAICS", "PSC", "recipient_id", "prime_award_recipient_id",
+		},
+	},
+	"grants": {
+		SortField: "Award Amount",
+		Fields: []string{
+			"Award ID", "Recipient Name", "Award Amount", "Total Outlays", "Description",
+			"Recipient UEI", "Recipient Location", "Primary Place of Performance", "def_codes",
+			"COVID-19 Obligations", "COVID-19 Outlays", "Infrastructure Obligations", "Infrastructure Outlays",
+			"Awarding Agency", "Awarding Sub Agency", "Start Date", "End Date", "recipient_id", "prime_award_recipient_id",
+		},
+	},
+	"loans": {
+		SortField: "Loan Value",
+		Fields: []string{
+			"Award ID", "Recipient Name", "Loan Value", "Subsidy Cost", "Description", "Recipient UEI",
+			"recipient_location_city_name", "recipient_location_state_code", "recipient_location_country_name",
+			"recipient_location_address_line1", "pop_city_name", "pop_state_code", "pop_country_name",
+			"def_codes", "COVID-19 Obligations", "COVID-19 Outlays", "Infrastructure Obligations", "Infrastructure Outlays",
+			"Awarding Agency", "Funding Agency", "Issued Date", "recipient_id", "prime_award_recipient_id",
+		},
+	},
+	"idvs": {
+		SortField: "Award Amount",
+		Fields: []string{
+			"Award ID", "Recipient Name", "Award Amount", "Total Outlays", "Description",
+			"Contract Award Type", "Recipient UEI", "Recipient Location", "Primary Place of Performance",
+			"def_codes", "COVID-19 Obligations", "COVID-19 Outlays", "Infrastructure Obligations",
+			"Infrastructure Outlays", "Awarding Agency", "Awarding Sub Agency", "Start Date", "End Date",
+			"NAICS", "PSC", "recipient_id", "prime_award_recipient_id",
+		},
+	},
+	"other_financial_assistance": {
+		SortField: "Award Amount",
+		Fields: []string{
+			"Award ID", "Recipient Name", "Award Amount", "Total Outlays", "Description", "Recipient UEI",
+			"Recipient Location", "Primary Place of Performance", "def_codes", "COVID-19 Obligations",
+			"COVID-19 Outlays", "Infrastructure Obligations", "Infrastructure Outlays", "Awarding Agency",
+			"Awarding Sub Agency", "Start Date", "End Date", "recipient_id", "prime_award_recipient_id",
+		},
+	},
+	"direct_payments": {
+		SortField: "Award Amount",
+		Fields: []string{
+			"Award ID", "Recipient Name", "Award Amount", "Total Outlays", "Description", "Recipient UEI",
+			"Recipient Location", "Primary Place of Performance", "def_codes", "COVID-19 Obligations",
+			"COVID-19 Outlays", "Infrastructure Obligations", "Infrastructure Outlays", "Awarding Agency",
+			"Awarding Sub Agency", "Start Date", "End Date", "recipient_id", "prime_award_recipient_id",
+		},
+	},
+}
+
+func (s *Scraper) createRequest(groupName string, awardTypeCodes []string) APIRequest {
+	config := awardTypeConfigs[groupName]
+
 	return APIRequest{
 		Filters: Filters{
 			Keywords: []string{"University of California"},
@@ -131,7 +232,7 @@ func (s *Scraper) createRequest() APIRequest {
 					EndDate:   "2025-09-30",
 				},
 			},
-			AwardTypeCodes: []string{"A", "B", "C", "D"},
+			AwardTypeCodes: awardTypeCodes,
 			RecipientTypeNames: []string{
 				"higher_education",
 				"public_institution_of_higher_education",
@@ -148,35 +249,12 @@ func (s *Scraper) createRequest() APIRequest {
 				},
 			},
 		},
-		Page:   1,
-		Limit:  100,
-		Sort:   "Award Amount",
-		Order:  "desc",
-		AuditTrail: "Results Table - Spending by award search",
-		Fields: []string{
-			"Award ID",
-			"Recipient Name",
-			"Award Amount",
-			"Total Outlays",
-			"Description",
-			"Contract Award Type",
-			"Recipient UEI",
-			"Recipient Location",
-			"Primary Place of Performance",
-			"def_codes",
-			"COVID-19 Obligations",
-			"COVID-19 Outlays",
-			"Infrastructure Obligations",
-			"Infrastructure Outlays",
-			"Awarding Agency",
-			"Awarding Sub Agency",
-			"Start Date",
-			"End Date",
-			"NAICS",
-			"PSC",
-			"recipient_id",
-			"prime_award_recipient_id",
-		},
+		Page:          1,
+		Limit:         100,
+		Sort:          config.SortField,
+		Order:         "desc",
+		AuditTrail:    "Results Table - Spending by award search",
+		Fields:        config.Fields,
 		SpendingLevel: "awards",
 	}
 }
@@ -214,11 +292,11 @@ func (s *Scraper) makeRequest(ctx context.Context, request APIRequest) (*APIResp
 	return &apiResponse, nil
 }
 
-func (s *Scraper) scrapeAllData(ctx context.Context) ([]Award, error) {
-	var allAwards []Award
+func (s *Scraper) scrapeGroupData(ctx context.Context, groupName string, awardTypeCodes []string) ([]Award, error) {
+	var groupAwards []Award
 	page := 1
 
-	log.Printf("Starting to scrape University of California data...")
+	log.Printf("Starting to scrape %s data (codes: %v)...", groupName, awardTypeCodes)
 
 	for {
 		select {
@@ -227,24 +305,24 @@ func (s *Scraper) scrapeAllData(ctx context.Context) ([]Award, error) {
 		default:
 		}
 
-		log.Printf("Fetching page %d...", page)
+		log.Printf("[%s] Fetching page %d...", groupName, page)
 
-		request := s.createRequest()
+		request := s.createRequest(groupName, awardTypeCodes)
 		request.Page = page
 
 		response, err := s.makeRequest(ctx, request)
 		if err != nil {
-			return nil, fmt.Errorf("error fetching page %d: %w", page, err)
+			return nil, fmt.Errorf("error fetching %s page %d: %w", groupName, page, err)
 		}
 
-		allAwards = append(allAwards, response.Results...)
+		groupAwards = append(groupAwards, response.Results...)
 
-		log.Printf("Page %d: got %d awards, total so far: %d",
-			page, len(response.Results), len(allAwards))
+		log.Printf("[%s] Page %d: got %d awards, total so far: %d",
+			groupName, page, len(response.Results), len(groupAwards))
 
 		// Check if there are more pages
 		if !response.PageMetadata.HasNext || len(response.Results) == 0 {
-			log.Printf("No more pages. Total awards collected: %d", len(allAwards))
+			log.Printf("[%s] No more pages. Total awards collected: %d", groupName, len(groupAwards))
 			break
 		}
 
@@ -254,7 +332,42 @@ func (s *Scraper) scrapeAllData(ctx context.Context) ([]Award, error) {
 		time.Sleep(s.delay)
 	}
 
-	return allAwards, nil
+	return groupAwards, nil
+}
+
+func (s *Scraper) scrapeAndSaveAllData(ctx context.Context) (int, error) {
+	totalAwards := 0
+	timestamp := time.Now().Format("2006-01-02")
+
+	log.Printf("Starting to scrape University of California data for all award types...")
+
+	for groupName, awardTypeCodes := range awardTypeGroups {
+		groupAwards, err := s.scrapeGroupData(ctx, groupName, awardTypeCodes)
+		if err != nil {
+			return 0, fmt.Errorf("error scraping %s: %w", groupName, err)
+		}
+
+		// Save each group to its respective directory
+		if len(groupAwards) > 0 {
+			directory := directoryMapping[groupName]
+			filename := fmt.Sprintf("%s/uc_%s_%s.json", directory, groupName, timestamp)
+
+			if err := saveToJSON(groupAwards, filename); err != nil {
+				return 0, fmt.Errorf("error saving %s data: %w", groupName, err)
+			}
+
+			log.Printf("Saved %s data to %s", groupName, filename)
+		}
+
+		totalAwards += len(groupAwards)
+		log.Printf("Completed %s: %d awards. Running total: %d", groupName, len(groupAwards), totalAwards)
+
+		// Small delay between groups
+		time.Sleep(s.delay)
+	}
+
+	log.Printf("Completed all award types. Total awards collected: %d", totalAwards)
+	return totalAwards, nil
 }
 
 func saveToJSON(data []Award, filename string) error {
@@ -278,59 +391,14 @@ func main() {
 
 	scraper := NewScraper()
 
-	awards, err := scraper.scrapeAllData(ctx)
+	totalAwards, err := scraper.scrapeAndSaveAllData(ctx)
 	if err != nil {
 		log.Fatalf("Error scraping data: %v", err)
 	}
 
-	// Save to JSON file
-	filename := fmt.Sprintf("uc_awards_%s.json", time.Now().Format("2006-01-02"))
-	if err := saveToJSON(awards, filename); err != nil {
-		log.Fatalf("Error saving data: %v", err)
-	}
-
-	log.Printf("Successfully scraped %d awards and saved to %s", len(awards), filename)
-
-	// Print summary statistics
-	log.Printf("\nSummary:")
-	log.Printf("- Total awards: %d", len(awards))
-
-	if len(awards) > 0 {
-		// Count unique recipients
-		recipients := make(map[string]int)
-		for _, award := range awards {
-			recipients[award.RecipientName]++
-		}
-		log.Printf("- Unique recipients: %d", len(recipients))
-
-		// Show top 5 recipients by number of awards
-		log.Printf("\nTop recipients by number of awards:")
-		type recipientCount struct {
-			name  string
-			count int
-		}
-
-		var sortedRecipients []recipientCount
-		for name, count := range recipients {
-			sortedRecipients = append(sortedRecipients, recipientCount{name, count})
-		}
-
-		// Simple sorting by count (descending)
-		for i := 0; i < len(sortedRecipients)-1; i++ {
-			for j := 0; j < len(sortedRecipients)-i-1; j++ {
-				if sortedRecipients[j].count < sortedRecipients[j+1].count {
-					sortedRecipients[j], sortedRecipients[j+1] = sortedRecipients[j+1], sortedRecipients[j]
-				}
-			}
-		}
-
-		max := 5
-		if len(sortedRecipients) < 5 {
-			max = len(sortedRecipients)
-		}
-
-		for i := 0; i < max; i++ {
-			log.Printf("  %s: %d awards", sortedRecipients[i].name, sortedRecipients[i].count)
-		}
+	log.Printf("Successfully scraped %d awards across all award types", totalAwards)
+	log.Printf("Data saved to respective directories:")
+	for groupName, directory := range directoryMapping {
+		log.Printf("  %s -> %s/", groupName, directory)
 	}
 }
