@@ -2,383 +2,335 @@ package main
 
 import (
 	"bytes"
+	"context"
 	"encoding/json"
 	"fmt"
 	"io"
 	"log"
 	"net/http"
 	"os"
-	"path/filepath"
-	"strings"
-	"sync"
 	"time"
 )
 
-const (
-	baseURL        = "https://api.usaspending.gov/api/v2"
-	searchEndpoint = "/search/spending_by_award"
-	maxWorkers     = 10
-	pageSize       = 100
-	requestTimeout = 30 * time.Second
-	rateLimit      = 100 * time.Millisecond
-)
-
-type SearchRequest struct {
-	Filters Filters  `json:"filters"`
-	Fields  []string `json:"fields,omitempty"`
-	Page    int      `json:"page"`
-	Limit   int      `json:"limit"`
-	Sort    string   `json:"sort"`
-	Order   string   `json:"order"`
-}
-
-type Filters struct {
-	Keywords            []string            `json:"keywords"`
-	RecipientLocations  []RecipientLocation `json:"recipient_locations"`
-	RecipientTypeNames  []string            `json:"recipient_type_names"`
-	TimePeriod          []TimePeriod        `json:"time_period,omitempty"`
-	AwardTypeCodesArray []string            `json:"award_type_codes,omitempty"`
-}
-
-type RecipientLocation struct {
-	Country  string `json:"country"`
-	State    string `json:"state"`
-	County   string `json:"county,omitempty"`
-	District string `json:"district,omitempty"`
-	City     string `json:"city,omitempty"`
-	Zip      string `json:"zip,omitempty"`
-}
-
+// API Request Structures
 type TimePeriod struct {
 	StartDate string `json:"start_date"`
 	EndDate   string `json:"end_date"`
 }
 
-type SearchResponse struct {
-	Page       int         `json:"page"`
-	HasNext    bool        `json:"hasNext"`
-	Next       int         `json:"next,omitempty"`
-	Previous   int         `json:"previous,omitempty"`
-	PageCount  int         `json:"page_count"`
-	Limit      int         `json:"limit"`
-	TotalCount int         `json:"total"`
-	Results    []AwardData `json:"results"`
+type PlaceOfPerformance struct {
+	Country string `json:"country"`
+	State   string `json:"state"`
 }
 
-type AwardData struct {
-	InternalID               string      `json:"internal_id"`
-	AwardID                  interface{} `json:"Award ID"`
-	RecipientName            interface{} `json:"Recipient Name"`
-	RecipientUEI             interface{} `json:"recipient_uei"`
-	StartDate                interface{} `json:"Start Date"`
-	EndDate                  interface{} `json:"End Date"`
-	AwardAmount              interface{} `json:"Award Amount"`
-	TotalObligated           interface{} `json:"Total Outlays"`
-	AwardingAgencyName       interface{} `json:"Awarding Agency"`
-	AwardingSubAgencyName    interface{} `json:"Awarding Sub Agency"`
-	AwardType                interface{} `json:"Award Type"`
-	PrimeAwardType           interface{} `json:"prime_award_type"`
-	FundingAgencyName        interface{} `json:"Funding Agency"`
-	FundingSubAgencyName     interface{} `json:"Funding Sub Agency"`
-	Description              interface{} `json:"Description"`
-	Piid                     interface{} `json:"piid"`
-	Fain                     interface{} `json:"fain"`
-	Uri                      interface{} `json:"uri"`
-	CFDANumber               interface{} `json:"cfda_number"`
-	CFDATitle                interface{} `json:"cfda_title"`
-	PscDescription           interface{} `json:"psc_description"`
-	NaicsCode                interface{} `json:"naics_code"`
-	NaicsDescription         interface{} `json:"naics_description"`
-	RecipientCityName        interface{} `json:"recipient_city_name"`
-	RecipientCountyName      interface{} `json:"recipient_county_name"`
-	RecipientStateCode       interface{} `json:"recipient_state_code"`
-	RecipientZip5            interface{} `json:"recipient_zip5"`
-	RecipientCongressionalDistrict interface{} `json:"recipient_congressional_district"`
-	PrimaryPlaceOfPerformance interface{} `json:"primary_place_of_performance"`
-	BusinessCategories       interface{} `json:"business_categories"`
-	TypeOfContractPricing    interface{} `json:"type_of_contract_pricing"`
-	TypeSetAside             interface{} `json:"type_set_aside"`
-	ExtentCompeted           interface{} `json:"extent_competed"`
+type Filters struct {
+	Keywords                       []string             `json:"keywords"`
+	TimePeriod                     []TimePeriod         `json:"time_period"`
+	AwardTypeCodes                 []string             `json:"award_type_codes"`
+	RecipientTypeNames             []string             `json:"recipient_type_names"`
+	PlaceOfPerformanceLocations    []PlaceOfPerformance `json:"place_of_performance_locations"`
+}
+
+type APIRequest struct {
+	Filters      Filters  `json:"filters"`
+	Page         int      `json:"page"`
+	Limit        int      `json:"limit"`
+	Sort         string   `json:"sort"`
+	Order        string   `json:"order"`
+	AuditTrail   string   `json:"auditTrail"`
+	Fields       []string `json:"fields"`
+	SpendingLevel string  `json:"spending_level"`
+}
+
+// API Response Structures
+type PageMetadata struct {
+	Page                   int    `json:"page"`
+	HasNext                bool   `json:"hasNext"`
+	LastRecordUniqueID     int    `json:"last_record_unique_id"`
+	LastRecordSortValue    string `json:"last_record_sort_value"`
+}
+
+type Location struct {
+	LocationCountryCode   string  `json:"location_country_code"`
+	CountryName           string  `json:"country_name"`
+	StateCode             string  `json:"state_code"`
+	StateName             string  `json:"state_name"`
+	CityName              string  `json:"city_name"`
+	CountyCode            string  `json:"county_code"`
+	CountyName            string  `json:"county_name"`
+	AddressLine1          string  `json:"address_line1"`
+	AddressLine2          *string `json:"address_line2"`
+	AddressLine3          *string `json:"address_line3"`
+	CongressionalCode     string  `json:"congressional_code"`
+	Zip4                  string  `json:"zip4"`
+	Zip5                  string  `json:"zip5"`
+	ForeignPostalCode     *string `json:"foreign_postal_code"`
+	ForeignProvince       *string `json:"foreign_province"`
+}
+
+type CodeDescription struct {
+	Code        string `json:"code"`
+	Description string `json:"description"`
+}
+
+type Award struct {
+	InternalID                 int         `json:"internal_id"`
+	AwardID                    string      `json:"Award ID"`
+	RecipientName              string      `json:"Recipient Name"`
+	AwardAmount                interface{} `json:"Award Amount"`
+	TotalOutlays               interface{} `json:"Total Outlays"`
+	Description                string      `json:"Description"`
+	ContractAwardType          string          `json:"Contract Award Type"`
+	RecipientUEI               string          `json:"Recipient UEI"`
+	RecipientLocation          Location        `json:"Recipient Location"`
+	PrimaryPlaceOfPerformance  Location        `json:"Primary Place of Performance"`
+	DefCodes                   []string        `json:"def_codes"`
+	COVID19Obligations         interface{}     `json:"COVID-19 Obligations"`
+	COVID19Outlays             interface{}     `json:"COVID-19 Outlays"`
+	InfrastructureObligations  interface{}     `json:"Infrastructure Obligations"`
+	InfrastructureOutlays      interface{}     `json:"Infrastructure Outlays"`
+	AwardingAgency             string          `json:"Awarding Agency"`
+	AwardingSubAgency          string          `json:"Awarding Sub Agency"`
+	StartDate                  string          `json:"Start Date"`
+	EndDate                    string          `json:"End Date"`
+	NAICS                      CodeDescription `json:"NAICS"`
+	PSC                        CodeDescription `json:"PSC"`
+	RecipientID                string      `json:"recipient_id"`
+	PrimeAwardRecipientID      string      `json:"prime_award_recipient_id"`
+	GeneratedInternalID        string      `json:"generated_internal_id"`
+}
+
+type APIResponse struct {
+	Results      []Award      `json:"results"`
+	PageMetadata PageMetadata `json:"page_metadata"`
 }
 
 type Scraper struct {
-	client     *http.Client
-	mu         sync.Mutex
-	wg         sync.WaitGroup
-	rateLimiter *time.Ticker
+	client  *http.Client
+	baseURL string
+	delay   time.Duration
 }
 
 func NewScraper() *Scraper {
 	return &Scraper{
 		client: &http.Client{
-			Timeout: requestTimeout,
+			Timeout: 30 * time.Second,
 		},
-		rateLimiter: time.NewTicker(rateLimit),
+		baseURL: "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+		delay:   1 * time.Second, // Be respectful to the API
 	}
 }
 
-func (s *Scraper) fetchAllData() error {
-	defer s.rateLimiter.Stop()
-
-	log.Println("Starting to fetch all award data...")
-
-	awardTypeSets := map[string][]string{
-		"contracts": {"A", "B", "C", "D"},
-		"contract_idvs": {"IDV_A", "IDV_B", "IDV_B_A", "IDV_B_B", "IDV_B_C", "IDV_C", "IDV_D", "IDV_E"},
-		"grants": {"02", "03", "04", "05"},
-		"direct_payments": {"06", "10"},
-		"loans": {"07", "08", "09"},
-		"other": {"11", "99"},
-	}
-
-	allResults := make(map[string][]AwardData)
-	resultsMutex := &sync.Mutex{}
-
-	jobs := make(chan JobData, 100)
-
-	for i := 0; i < maxWorkers; i++ {
-		s.wg.Add(1)
-		go s.worker(jobs, allResults, resultsMutex)
-	}
-
-	currentYear := time.Now().Year()
-	startYear := 2008
-
-	for category, codes := range awardTypeSets {
-		for year := startYear; year <= currentYear; year++ {
-			jobs <- JobData{
-				Category: category,
-				Codes:    codes,
-				Year:     year,
-			}
-		}
-	}
-	close(jobs)
-
-	s.wg.Wait()
-
-	for category, results := range allResults {
-		if len(results) > 0 {
-			if err := s.saveResults(results, category); err != nil {
-				log.Printf("Error saving %s results: %v", category, err)
-			}
-		}
-	}
-
-	return nil
-}
-
-type JobData struct {
-	Category string
-	Codes    []string
-	Year     int
-}
-
-func (s *Scraper) worker(jobs <-chan JobData, allResults map[string][]AwardData, resultsMutex *sync.Mutex) {
-	defer s.wg.Done()
-
-	for job := range jobs {
-		<-s.rateLimiter.C
-
-		log.Printf("Fetching %s for year %d", job.Category, job.Year)
-
-		startDate := fmt.Sprintf("%d-01-01", job.Year)
-		endDate := fmt.Sprintf("%d-12-31", job.Year)
-
-		req := SearchRequest{
-			Filters: Filters{
-				Keywords: []string{"University of California"},
-				RecipientLocations: []RecipientLocation{
-					{
-						Country: "USA",
-						State:   "CA",
-					},
+func (s *Scraper) createRequest() APIRequest {
+	return APIRequest{
+		Filters: Filters{
+			Keywords: []string{"University of California"},
+			TimePeriod: []TimePeriod{
+				{
+					StartDate: "2007-10-01",
+					EndDate:   "2025-09-30",
 				},
-				RecipientTypeNames: []string{"higher_education"},
-				TimePeriod: []TimePeriod{
-					{StartDate: startDate, EndDate: endDate},
+			},
+			AwardTypeCodes: []string{"A", "B", "C", "D"},
+			RecipientTypeNames: []string{
+				"higher_education",
+				"public_institution_of_higher_education",
+				"private_institution_of_higher_education",
+				"minority_serving_institution_of_higher_education",
+				"school_of_forestry",
+				"veterinary_college",
+				"government",
+			},
+			PlaceOfPerformanceLocations: []PlaceOfPerformance{
+				{
+					Country: "USA",
+					State:   "CA",
 				},
-				AwardTypeCodesArray: job.Codes,
 			},
-			Fields: []string{
-				"Award ID",
-				"Recipient Name",
-				"recipient_uei",
-				"Start Date",
-				"End Date",
-				"Award Amount",
-				"Total Outlays",
-				"Awarding Agency",
-				"Awarding Sub Agency",
-				"Award Type",
-				"prime_award_type",
-				"Funding Agency",
-				"Funding Sub Agency",
-				"Description",
-				"piid",
-				"fain",
-				"uri",
-				"cfda_number",
-				"cfda_title",
-				"psc_description",
-				"naics_code",
-				"naics_description",
-				"recipient_city_name",
-				"recipient_county_name",
-				"recipient_state_code",
-				"recipient_zip5",
-				"recipient_congressional_district",
-				"primary_place_of_performance",
-				"business_categories",
-				"type_of_contract_pricing",
-				"type_set_aside",
-				"extent_competed",
-			},
-			Page:  1,
-			Limit: pageSize,
-			Sort:  "Award Amount",
-			Order: "desc",
-		}
-
-		yearResults := []AwardData{}
-
-		for {
-			results, hasNext, err := s.makeAPIRequest(req)
-			if err != nil {
-				log.Printf("Error fetching %s page %d for year %d: %v", job.Category, req.Page, job.Year, err)
-				break
-			}
-
-			yearResults = append(yearResults, results...)
-
-			log.Printf("%s year %d, page %d: fetched %d records (total: %d)",
-				job.Category, job.Year, req.Page, len(results), len(yearResults))
-
-			if !hasNext {
-				break
-			}
-			req.Page++
-		}
-
-		if len(yearResults) > 0 {
-			resultsMutex.Lock()
-			allResults[job.Category] = append(allResults[job.Category], yearResults...)
-			resultsMutex.Unlock()
-			log.Printf("Completed %s for year %d: %d total records", job.Category, job.Year, len(yearResults))
-		}
+		},
+		Page:   1,
+		Limit:  100,
+		Sort:   "Award Amount",
+		Order:  "desc",
+		AuditTrail: "Results Table - Spending by award search",
+		Fields: []string{
+			"Award ID",
+			"Recipient Name",
+			"Award Amount",
+			"Total Outlays",
+			"Description",
+			"Contract Award Type",
+			"Recipient UEI",
+			"Recipient Location",
+			"Primary Place of Performance",
+			"def_codes",
+			"COVID-19 Obligations",
+			"COVID-19 Outlays",
+			"Infrastructure Obligations",
+			"Infrastructure Outlays",
+			"Awarding Agency",
+			"Awarding Sub Agency",
+			"Start Date",
+			"End Date",
+			"NAICS",
+			"PSC",
+			"recipient_id",
+			"prime_award_recipient_id",
+		},
+		SpendingLevel: "awards",
 	}
 }
 
-func (s *Scraper) makeAPIRequest(req SearchRequest) ([]AwardData, bool, error) {
-	jsonData, err := json.Marshal(req)
+func (s *Scraper) makeRequest(ctx context.Context, request APIRequest) (*APIResponse, error) {
+	jsonData, err := json.Marshal(request)
 	if err != nil {
-		return nil, false, fmt.Errorf("marshaling request: %w", err)
+		return nil, fmt.Errorf("error marshaling request: %w", err)
 	}
 
-	httpReq, err := http.NewRequest("POST", baseURL+searchEndpoint+"/", bytes.NewBuffer(jsonData))
+	req, err := http.NewRequestWithContext(ctx, "POST", s.baseURL, bytes.NewBuffer(jsonData))
 	if err != nil {
-		return nil, false, fmt.Errorf("creating request: %w", err)
+		return nil, fmt.Errorf("error creating request: %w", err)
 	}
 
-	httpReq.Header.Set("Content-Type", "application/json")
+	req.Header.Set("Content-Type", "application/json")
+	req.Header.Set("User-Agent", "UC-Holdings-Scraper/1.0")
 
-	resp, err := s.client.Do(httpReq)
+	resp, err := s.client.Do(req)
 	if err != nil {
-		return nil, false, fmt.Errorf("executing request: %w", err)
+		return nil, fmt.Errorf("error making request: %w", err)
 	}
 	defer resp.Body.Close()
 
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return nil, false, fmt.Errorf("reading response: %w", err)
-	}
-
 	if resp.StatusCode != http.StatusOK {
-		return nil, false, fmt.Errorf("API error %d: %s", resp.StatusCode, string(body))
+		body, _ := io.ReadAll(resp.Body)
+		return nil, fmt.Errorf("API returned status %d: %s", resp.StatusCode, string(body))
 	}
 
-	var searchResp SearchResponse
-	if err := json.Unmarshal(body, &searchResp); err != nil {
-		return nil, false, fmt.Errorf("unmarshaling response: %w", err)
+	var apiResponse APIResponse
+	if err := json.NewDecoder(resp.Body).Decode(&apiResponse); err != nil {
+		return nil, fmt.Errorf("error decoding response: %w", err)
 	}
 
-	return searchResp.Results, searchResp.HasNext, nil
+	return &apiResponse, nil
 }
 
-func mapCategoryToDirectory(category string) string {
-	switch category {
-	case "contracts":
-		return "Contracts"
-	case "contract_idvs":
-		return "Contract_IDVs"
-	case "grants":
-		return "Grants"
-	case "direct_payments":
-		return "Direct_Payments"
-	case "loans":
-		return "Loans"
-	case "other":
-		return "Other"
-	default:
-		return "Other"
+func (s *Scraper) scrapeAllData(ctx context.Context) ([]Award, error) {
+	var allAwards []Award
+	page := 1
+
+	log.Printf("Starting to scrape University of California data...")
+
+	for {
+		select {
+		case <-ctx.Done():
+			return nil, ctx.Err()
+		default:
+		}
+
+		log.Printf("Fetching page %d...", page)
+
+		request := s.createRequest()
+		request.Page = page
+
+		response, err := s.makeRequest(ctx, request)
+		if err != nil {
+			return nil, fmt.Errorf("error fetching page %d: %w", page, err)
+		}
+
+		allAwards = append(allAwards, response.Results...)
+
+		log.Printf("Page %d: got %d awards, total so far: %d",
+			page, len(response.Results), len(allAwards))
+
+		// Check if there are more pages
+		if !response.PageMetadata.HasNext || len(response.Results) == 0 {
+			log.Printf("No more pages. Total awards collected: %d", len(allAwards))
+			break
+		}
+
+		page++
+
+		// Be respectful to the API
+		time.Sleep(s.delay)
 	}
+
+	return allAwards, nil
 }
 
-func (s *Scraper) saveResults(results []AwardData, category string) error {
-	timestamp := time.Now().Format("2006-01-02_15-04-05")
-
-	dirName := mapCategoryToDirectory(category)
-	baseDir := filepath.Join("..", dirName)
-	if err := os.MkdirAll(baseDir, 0755); err != nil {
-		return fmt.Errorf("creating directory: %w", err)
-	}
-
-	filename := filepath.Join(baseDir, fmt.Sprintf("UC_%s_%s.json", strings.ToLower(dirName), timestamp))
-
+func saveToJSON(data []Award, filename string) error {
 	file, err := os.Create(filename)
 	if err != nil {
-		return fmt.Errorf("creating file: %w", err)
+		return fmt.Errorf("error creating file: %w", err)
 	}
 	defer file.Close()
 
 	encoder := json.NewEncoder(file)
 	encoder.SetIndent("", "  ")
-
-	data := map[string]interface{}{
-		"source":      "USASpending.gov API",
-		"query": map[string]interface{}{
-			"keywords":           "University of California",
-			"recipient_location": "California",
-			"recipient_type":     "higher_education",
-		},
-		"award_category": category,
-		"timestamp":      timestamp,
-		"total_count":    len(results),
-		"results":        results,
-	}
-
 	if err := encoder.Encode(data); err != nil {
-		return fmt.Errorf("encoding data: %w", err)
+		return fmt.Errorf("error encoding JSON: %w", err)
 	}
 
-	log.Printf("✓ Saved %d %s records to %s", len(results), category, filename)
 	return nil
 }
 
 func main() {
-	log.Println("=== USASpending.gov Data Scraper ===")
-	log.Println("Query Parameters:")
-	log.Println("  Keywords: University of California")
-	log.Println("  Location: California")
-	log.Println("  Recipient Type: Higher Education")
-	log.Println("  Years: 2008-" + fmt.Sprintf("%d", time.Now().Year()))
-	log.Println("=====================================")
+	ctx := context.Background()
 
 	scraper := NewScraper()
 
-	if err := scraper.fetchAllData(); err != nil {
-		log.Fatal("Error during scraping: ", err)
+	awards, err := scraper.scrapeAllData(ctx)
+	if err != nil {
+		log.Fatalf("Error scraping data: %v", err)
 	}
 
-	log.Println("✓ Scraping completed successfully!")
+	// Save to JSON file
+	filename := fmt.Sprintf("uc_awards_%s.json", time.Now().Format("2006-01-02"))
+	if err := saveToJSON(awards, filename); err != nil {
+		log.Fatalf("Error saving data: %v", err)
+	}
+
+	log.Printf("Successfully scraped %d awards and saved to %s", len(awards), filename)
+
+	// Print summary statistics
+	log.Printf("\nSummary:")
+	log.Printf("- Total awards: %d", len(awards))
+
+	if len(awards) > 0 {
+		// Count unique recipients
+		recipients := make(map[string]int)
+		for _, award := range awards {
+			recipients[award.RecipientName]++
+		}
+		log.Printf("- Unique recipients: %d", len(recipients))
+
+		// Show top 5 recipients by number of awards
+		log.Printf("\nTop recipients by number of awards:")
+		type recipientCount struct {
+			name  string
+			count int
+		}
+
+		var sortedRecipients []recipientCount
+		for name, count := range recipients {
+			sortedRecipients = append(sortedRecipients, recipientCount{name, count})
+		}
+
+		// Simple sorting by count (descending)
+		for i := 0; i < len(sortedRecipients)-1; i++ {
+			for j := 0; j < len(sortedRecipients)-i-1; j++ {
+				if sortedRecipients[j].count < sortedRecipients[j+1].count {
+					sortedRecipients[j], sortedRecipients[j+1] = sortedRecipients[j+1], sortedRecipients[j]
+				}
+			}
+		}
+
+		max := 5
+		if len(sortedRecipients) < 5 {
+			max = len(sortedRecipients)
+		}
+
+		for i := 0; i < max; i++ {
+			log.Printf("  %s: %d awards", sortedRecipients[i].name, sortedRecipients[i].count)
+		}
+	}
 }
