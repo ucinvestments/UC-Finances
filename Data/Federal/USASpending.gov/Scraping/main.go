@@ -24,48 +24,48 @@ type PlaceOfPerformance struct {
 }
 
 type Filters struct {
-	Keywords                       []string             `json:"keywords"`
-	TimePeriod                     []TimePeriod         `json:"time_period"`
-	AwardTypeCodes                 []string             `json:"award_type_codes"`
-	RecipientTypeNames             []string             `json:"recipient_type_names"`
-	PlaceOfPerformanceLocations    []PlaceOfPerformance `json:"place_of_performance_locations"`
+	Keywords                    []string             `json:"keywords"`
+	TimePeriod                  []TimePeriod         `json:"time_period"`
+	AwardTypeCodes              []string             `json:"award_type_codes"`
+	RecipientTypeNames          []string             `json:"recipient_type_names"`
+	PlaceOfPerformanceLocations []PlaceOfPerformance `json:"place_of_performance_locations"`
 }
 
 type APIRequest struct {
-	Filters      Filters  `json:"filters"`
-	Page         int      `json:"page"`
-	Limit        int      `json:"limit"`
-	Sort         string   `json:"sort"`
-	Order        string   `json:"order"`
-	AuditTrail   string   `json:"auditTrail"`
-	Fields       []string `json:"fields"`
-	SpendingLevel string  `json:"spending_level"`
+	Filters       Filters  `json:"filters"`
+	Page          int      `json:"page"`
+	Limit         int      `json:"limit"`
+	Sort          string   `json:"sort"`
+	Order         string   `json:"order"`
+	AuditTrail    string   `json:"auditTrail"`
+	Fields        []string `json:"fields"`
+	SpendingLevel string   `json:"spending_level"`
 }
 
 // API Response Structures
 type PageMetadata struct {
-	Page                   int    `json:"page"`
-	HasNext                bool   `json:"hasNext"`
-	LastRecordUniqueID     int    `json:"last_record_unique_id"`
-	LastRecordSortValue    string `json:"last_record_sort_value"`
+	Page                int    `json:"page"`
+	HasNext             bool   `json:"hasNext"`
+	LastRecordUniqueID  int    `json:"last_record_unique_id"`
+	LastRecordSortValue string `json:"last_record_sort_value"`
 }
 
 type Location struct {
-	LocationCountryCode   string  `json:"location_country_code"`
-	CountryName           string  `json:"country_name"`
-	StateCode             string  `json:"state_code"`
-	StateName             string  `json:"state_name"`
-	CityName              string  `json:"city_name"`
-	CountyCode            string  `json:"county_code"`
-	CountyName            string  `json:"county_name"`
-	AddressLine1          string  `json:"address_line1"`
-	AddressLine2          *string `json:"address_line2"`
-	AddressLine3          *string `json:"address_line3"`
-	CongressionalCode     string  `json:"congressional_code"`
-	Zip4                  string  `json:"zip4"`
-	Zip5                  string  `json:"zip5"`
-	ForeignPostalCode     *string `json:"foreign_postal_code"`
-	ForeignProvince       *string `json:"foreign_province"`
+	LocationCountryCode string  `json:"location_country_code"`
+	CountryName         string  `json:"country_name"`
+	StateCode           string  `json:"state_code"`
+	StateName           string  `json:"state_name"`
+	CityName            string  `json:"city_name"`
+	CountyCode          string  `json:"county_code"`
+	CountyName          string  `json:"county_name"`
+	AddressLine1        string  `json:"address_line1"`
+	AddressLine2        *string `json:"address_line2"`
+	AddressLine3        *string `json:"address_line3"`
+	CongressionalCode   string  `json:"congressional_code"`
+	Zip4                string  `json:"zip4"`
+	Zip5                string  `json:"zip5"`
+	ForeignPostalCode   *string `json:"foreign_postal_code"`
+	ForeignProvince     *string `json:"foreign_province"`
 }
 
 type CodeDescription struct {
@@ -74,45 +74,45 @@ type CodeDescription struct {
 }
 
 type Award struct {
-	InternalID                        int         `json:"internal_id"`
-	AwardID                          string      `json:"Award ID"`
-	RecipientName                    string      `json:"Recipient Name"`
-	AwardAmount                      interface{} `json:"Award Amount"`
-	TotalOutlays                     interface{} `json:"Total Outlays"`
-	Description                      string      `json:"Description"`
-	ContractAwardType                string          `json:"Contract Award Type"`
-	RecipientUEI                     string          `json:"Recipient UEI"`
-	RecipientLocation                interface{}     `json:"Recipient Location"` // Can be Location object or string fields
-	PrimaryPlaceOfPerformance        interface{}     `json:"Primary Place of Performance"` // Can be Location object or string fields
-	DefCodes                         []string        `json:"def_codes"`
-	COVID19Obligations               interface{}     `json:"COVID-19 Obligations"`
-	COVID19Outlays                   interface{}     `json:"COVID-19 Outlays"`
-	InfrastructureObligations        interface{}     `json:"Infrastructure Obligations"`
-	InfrastructureOutlays            interface{}     `json:"Infrastructure Outlays"`
-	AwardingAgency                   string          `json:"Awarding Agency"`
-	AwardingSubAgency                string          `json:"Awarding Sub Agency"`
-	StartDate                        string          `json:"Start Date"`
-	EndDate                          string          `json:"End Date"`
-	NAICS                            interface{}     `json:"NAICS"` // Can be CodeDescription or string
-	PSC                              interface{}     `json:"PSC"`   // Can be CodeDescription or string
-	RecipientID                      string          `json:"recipient_id"`
-	PrimeAwardRecipientID            string          `json:"prime_award_recipient_id"`
-	GeneratedInternalID              string          `json:"generated_internal_id"`
+	InternalID                int         `json:"internal_id"`
+	AwardID                   string      `json:"Award ID"`
+	RecipientName             string      `json:"Recipient Name"`
+	AwardAmount               interface{} `json:"Award Amount"`
+	TotalOutlays              interface{} `json:"Total Outlays"`
+	Description               string      `json:"Description"`
+	ContractAwardType         string      `json:"Contract Award Type"`
+	RecipientUEI              string      `json:"Recipient UEI"`
+	RecipientLocation         interface{} `json:"Recipient Location"`           // Can be Location object or string fields
+	PrimaryPlaceOfPerformance interface{} `json:"Primary Place of Performance"` // Can be Location object or string fields
+	DefCodes                  []string    `json:"def_codes"`
+	COVID19Obligations        interface{} `json:"COVID-19 Obligations"`
+	COVID19Outlays            interface{} `json:"COVID-19 Outlays"`
+	InfrastructureObligations interface{} `json:"Infrastructure Obligations"`
+	InfrastructureOutlays     interface{} `json:"Infrastructure Outlays"`
+	AwardingAgency            string      `json:"Awarding Agency"`
+	AwardingSubAgency         string      `json:"Awarding Sub Agency"`
+	StartDate                 string      `json:"Start Date"`
+	EndDate                   string      `json:"End Date"`
+	NAICS                     interface{} `json:"NAICS"` // Can be CodeDescription or string
+	PSC                       interface{} `json:"PSC"`   // Can be CodeDescription or string
+	RecipientID               string      `json:"recipient_id"`
+	PrimeAwardRecipientID     string      `json:"prime_award_recipient_id"`
+	GeneratedInternalID       string      `json:"generated_internal_id"`
 
 	// Loan-specific fields
-	LoanValue                        interface{} `json:"Loan Value"`
-	SubsidyCost                      interface{} `json:"Subsidy Cost"`
-	IssuedDate                       string      `json:"Issued Date"`
-	FundingAgency                    string      `json:"Funding Agency"`
+	LoanValue     interface{} `json:"Loan Value"`
+	SubsidyCost   interface{} `json:"Subsidy Cost"`
+	IssuedDate    string      `json:"Issued Date"`
+	FundingAgency string      `json:"Funding Agency"`
 
 	// Location fields for loans (separate from Location object)
-	RecipientLocationCityName        string `json:"recipient_location_city_name"`
-	RecipientLocationStateCode       string `json:"recipient_location_state_code"`
-	RecipientLocationCountryName     string `json:"recipient_location_country_name"`
-	RecipientLocationAddressLine1    string `json:"recipient_location_address_line1"`
-	POPCityName                      string `json:"pop_city_name"`
-	POPStateCode                     string `json:"pop_state_code"`
-	POPCountryName                   string `json:"pop_country_name"`
+	RecipientLocationCityName     string `json:"recipient_location_city_name"`
+	RecipientLocationStateCode    string `json:"recipient_location_state_code"`
+	RecipientLocationCountryName  string `json:"recipient_location_country_name"`
+	RecipientLocationAddressLine1 string `json:"recipient_location_address_line1"`
+	POPCityName                   string `json:"pop_city_name"`
+	POPStateCode                  string `json:"pop_state_code"`
+	POPCountryName                string `json:"pop_country_name"`
 }
 
 type APIResponse struct {
@@ -146,14 +146,14 @@ var awardTypeGroups = map[string][]string{
 	"direct_payments":            {"09", "11"},
 }
 
-// Directory mapping for each award type group - save locally for now due to permissions
+// Directory mapping for each award type group
 var directoryMapping = map[string]string{
-	"contracts":                  ".",
-	"grants":                     ".",
-	"loans":                      ".",
-	"idvs":                       ".",
-	"other_financial_assistance": ".",
-	"direct_payments":            ".",
+	"contracts":                  "../Contracts",
+	"grants":                     "../Grants",
+	"loans":                      "../Loans",
+	"idvs":                       "../Contract_IDVs",
+	"other_financial_assistance": "../Other_Financial_Assistance",
+	"direct_payments":            "../Direct_Payments",
 }
 
 // Award type specific configurations

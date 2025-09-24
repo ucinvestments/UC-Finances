@@ -1,6 +1,10 @@
-# USASpending.gov Scraper
+# USASpending.gov Scraper ✅ COMPLETE
 
 This Go application scrapes federal spending data related to University of California from the USASpending.gov API.
+
+**Status**: ✅ Collection completed September 23, 2025
+**Total Records**: 16,760 awards across all federal spending categories
+**Data Size**: ~40.5MB total
 
 ## Overview
 
