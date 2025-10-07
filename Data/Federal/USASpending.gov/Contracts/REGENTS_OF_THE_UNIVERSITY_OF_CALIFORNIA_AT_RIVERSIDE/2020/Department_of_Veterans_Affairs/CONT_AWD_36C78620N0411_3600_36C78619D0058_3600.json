@@ -1,0 +1,76 @@
+{
+  "basic_data": {
+    "internal_id": 101305622,
+    "Award ID": "36C78620N0411",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 277331,
+    "Total Outlays": 277331,
+    "Description": "OPTION 1 FOR VETERANS LEGACY PROGRAM",
+    "Contract Award Type": "DELIVERY ORDER",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFFICE BLDG",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925210001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Veterans Affairs",
+    "Awarding Sub Agency": "Department of Veterans Affairs",
+    "Start Date": "2020-04-13",
+    "End Date": "2021-06-30",
+    "NAICS": {
+      "code": "611710",
+      "description": "EDUCATIONAL SUPPORT SERVICES"
+    },
+    "PSC": {
+      "code": "U001",
+      "description": "EDUCATION/TRAINING- LECTURES"
+    },
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_36C78620N0411_3600_36C78619D0058_3600",
+    "awarding_agency_id": 561,
+    "agency_slug": "department-of-veterans-affairs",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  }
+}

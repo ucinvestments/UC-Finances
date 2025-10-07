@@ -1,0 +1,326 @@
+{
+  "basic_data": {
+    "internal_id": 131437977,
+    "Award ID": "NNG09EK06C",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 31562624,
+    "Total Outlays": 12561124.94,
+    "Description": "DIVINER LUNAR RADIOMETER EXPERIMENT (DLRE), UNIVERSITY OF CALIFORNIA-LOS ANGELES (UCLA) SEGMENT, PHASE D/E EFFORT UNDER THE LRO PROJECT",
+    "Contract Award Type": "DEFINITIVE CONTRACT",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "11000 KINROSS AVE STE 102",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "90095"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "32",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "900241406",
+      "zip5": "90024"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2009-01-01",
+    "End Date": "2028-09-30",
+    "NAICS": {
+      "code": "336414",
+      "description": "GUIDED MISSILE AND SPACE VEHICLE MANUFACTURING"
+    },
+    "PSC": {
+      "code": "1820",
+      "description": "SPACE VEHICLE COMPONENTS"
+    },
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_NNG09EK06C_8000_-NONE-_-NONE-",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 131437977,
+    "generated_unique_award_id": "CONT_AWD_NNG09EK06C_8000_-NONE-_-NONE-",
+    "piid": "NNG09EK06C",
+    "category": "contract",
+    "type": "D",
+    "type_description": "DEFINITIVE CONTRACT",
+    "description": "DIVINER LUNAR RADIOMETER EXPERIMENT (DLRE), UNIVERSITY OF CALIFORNIA-LOS ANGELES (UCLA) SEGMENT, PHASE D/E EFFORT UNDER THE LRO PROJECT",
+    "total_obligation": 31562624,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2009-01-01",
+    "base_exercised_options": 37337616,
+    "base_and_all_options": 37337616,
+    "total_account_outlay": 12662463.19,
+    "total_account_obligation": 12681528,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 12662463.19
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 12681528
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": "NNG09EK06R",
+      "solicitation_procedures": "NP",
+      "number_of_offers_received": "1",
+      "extent_competed": "A",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "X",
+      "fed_biz_opps_description": "NOT APPLICABLE",
+      "small_business_competitive": false,
+      "product_or_service_code": "1820",
+      "naics": "336414",
+      "naics_description": "GUIDED MISSILE AND SPACE VEHICLE MANUFACTURING",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "N",
+      "cost_or_pricing_data": "Y",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "C",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "S",
+      "national_interest_action": null,
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "NEGOTIATED PROPOSAL/QUOTE",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "COMMERCIAL PRODUCTS/SERVICES PROCEDURES NOT USED",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "SPACE VEHICLE COMPONENTS",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "N",
+      "construction_wage_rate_description": "NO",
+      "labor_standards_description": "NO",
+      "materials_supplies": "N",
+      "materials_supplies_description": "NO",
+      "cost_or_pricing_data_description": "YES",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "0.00",
+      "subcontracting_plan_description": "PLAN REQUIRED - INCENTIVE NOT INCLUDED",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "COST NO FEE",
+      "national_interest_action_description": null
+    },
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA GODDARD SPACE FLIGHT CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA GODDARD SPACE FLIGHT CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2009-01-01",
+      "end_date": "2028-09-30",
+      "last_modified_date": "2025-09-23",
+      "potential_end_date": "2028-09-30 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "parent_recipient_uei": "RN64EPNH8JC6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Government",
+        "Higher Education",
+        "Hospital",
+        "U.S. National Government",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "U.S. Regional/State Government",
+        "Special Designations",
+        "U.S.-Owned Business"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "11000 KINROSS AVE STE 102",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "0001",
+        "zip5": "90095",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "32",
+      "zip4": "1406",
+      "zip5": "90024",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "18",
+        "description": "SPACE VEHICLES"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "1820",
+        "description": "SPACE VEHICLE COMPONENTS"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "33",
+        "description": "Manufacturing"
+      },
+      "midtier_code": {
+        "code": "3364",
+        "description": "Aerospace Product and Parts Manufacturing"
+      },
+      "base_code": {
+        "code": "336414",
+        "description": "Guided Missile and Space Vehicle Manufacturing"
+      }
+    },
+    "total_outlay": 12662463.19
+  }
+}

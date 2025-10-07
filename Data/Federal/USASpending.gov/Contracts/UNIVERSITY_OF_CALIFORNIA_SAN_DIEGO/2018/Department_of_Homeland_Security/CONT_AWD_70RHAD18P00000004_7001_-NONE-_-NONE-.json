@@ -1,0 +1,311 @@
+{
+  "basic_data": {
+    "internal_id": 111405695,
+    "Award ID": "70RHAD18P00000004",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+    "Award Amount": 564189.23,
+    "Total Outlays": 0,
+    "Description": "REQUEST PR FOR MINDFULNESS RESILIENCE TRAINING FOR DHS PERSONNEL",
+    "Contract Award Type": "PURCHASE ORDER",
+    "Recipient UEI": "S1XTMGJMAJZ7",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN MAIL CDE 0602",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "52",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "49",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "920930934",
+      "zip5": "92093"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Homeland Security",
+    "Awarding Sub Agency": "Office of Procurement Operations",
+    "Start Date": "2018-03-23",
+    "End Date": "2021-05-31",
+    "NAICS": {
+      "code": "611430",
+      "description": "PROFESSIONAL AND MANAGEMENT DEVELOPMENT TRAINING"
+    },
+    "PSC": {
+      "code": "U004",
+      "description": "EDUCATION/TRAINING- SCIENTIFIC/MANAGEMENT"
+    },
+    "recipient_id": "51531877-0b0c-5d7d-996d-58b223933e49-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_70RHAD18P00000004_7001_-NONE-_-NONE-",
+    "awarding_agency_id": 766,
+    "agency_slug": "department-of-homeland-security",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 111405695,
+    "generated_unique_award_id": "CONT_AWD_70RHAD18P00000004_7001_-NONE-_-NONE-",
+    "piid": "70RHAD18P00000004",
+    "category": "contract",
+    "type": "B",
+    "type_description": "PURCHASE ORDER",
+    "description": "REQUEST PR FOR MINDFULNESS RESILIENCE TRAINING FOR DHS PERSONNEL",
+    "total_obligation": 564189.23,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2018-03-23",
+    "base_exercised_options": 564189.23,
+    "base_and_all_options": 564189.23,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": "HSHQDC-17-Q-00457",
+      "solicitation_procedures": "SP1",
+      "number_of_offers_received": "11",
+      "extent_competed": "F",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "Y",
+      "fed_biz_opps_description": "YES",
+      "small_business_competitive": false,
+      "product_or_service_code": "U004",
+      "naics": "611430",
+      "naics_description": "PROFESSIONAL AND MANAGEMENT DEVELOPMENT TRAINING",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "Y",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": "B",
+      "foreign_funding": "X",
+      "major_program": "MINDFULNESS",
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "",
+      "consolidated_contract": "D",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "SIMPLIFIED ACQUISITION",
+      "extent_competed_description": "COMPETED UNDER SAP",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "A",
+      "commercial_item_acquisition_description": "COMMERCIAL ITEM",
+      "commercial_item_test_program": "Y",
+      "commercial_item_test_program_description": "YES",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "EDUCATION/TRAINING- SCIENTIFIC/MANAGEMENT",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "YES",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": "OTHER U.S. ENTITY (E.G. GOVERNMENT)",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NOT CONSOLIDATED",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 798,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Homeland Security",
+        "code": "070",
+        "abbreviation": "DHS",
+        "slug": "department-of-homeland-security"
+      },
+      "subtier_agency": {
+        "name": "Office of the Chief Human Capital Officer",
+        "code": "7059",
+        "abbreviation": ""
+      },
+      "office_agency_name": "OFC OF THE CHIEF HUMAN CAPITAL OFCR"
+    },
+    "awarding_agency": {
+      "id": 767,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Homeland Security",
+        "code": "070",
+        "abbreviation": "DHS",
+        "slug": "department-of-homeland-security"
+      },
+      "subtier_agency": {
+        "name": "Office of Procurement Operations",
+        "code": "7001",
+        "abbreviation": "OPO"
+      },
+      "office_agency_name": "CWMD ACQ DIV"
+    },
+    "period_of_performance": {
+      "start_date": "2018-03-23",
+      "end_date": "2021-05-31",
+      "last_modified_date": "2022-03-02",
+      "potential_end_date": "2021-05-31 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "51531877-0b0c-5d7d-996d-58b223933e49-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+      "recipient_uei": "S1XTMGJMAJZ7",
+      "recipient_unique_id": "167446488",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Government",
+        "Higher Education",
+        "U.S. National Government",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN MAIL CDE 0602",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0001",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0934",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "U",
+        "description": "EDUCATION AND TRAINING"
+      },
+      "midtier_code": {
+        "code": "U0",
+        "description": "EDUCATION AND TRAINING SERVICES"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "U004",
+        "description": "EDUCATION/TRAINING- SCIENTIFIC/MANAGEMENT"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "61",
+        "description": "Educational Services"
+      },
+      "midtier_code": {
+        "code": "6114",
+        "description": "Business Schools and Computer and Management Training"
+      },
+      "base_code": {
+        "code": "611430",
+        "description": "Professional and Management Development Training"
+      }
+    },
+    "total_outlay": 0
+  }
+}

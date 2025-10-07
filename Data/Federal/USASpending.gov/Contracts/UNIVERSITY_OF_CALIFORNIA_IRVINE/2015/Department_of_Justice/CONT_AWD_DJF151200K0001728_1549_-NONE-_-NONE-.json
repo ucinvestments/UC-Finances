@@ -1,0 +1,310 @@
+{
+  "basic_data": {
+    "internal_id": 116509618,
+    "Award ID": "DJF151200K0001728",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 956271.94,
+    "Total Outlays": null,
+    "Description": "IGF::OT::IGF THE BIC PROGRAM WILL BE A MULTIPLE PHASE PROGRAM THAT WILL DEVELOP REVOLUTIONARY BIOTECHNOLOGY FOR LOC PLATFORMS TO DETERMINE THE EXPOSURE STATUS OF AN INDIVIDUAL TO A SUITE OF PATHOGENS AND TOXINS OF INTEREST.",
+    "Contract Award Type": "DEFINITIVE CONTRACT",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "5171 CALIFORNIA AVE STE 150",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "45",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "3067",
+      "zip5": "92617"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "45",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "926970001",
+      "zip5": "92697"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Justice",
+    "Awarding Sub Agency": "Federal Bureau of Investigation",
+    "Start Date": "2015-02-18",
+    "End Date": "2017-04-30",
+    "NAICS": {
+      "code": "541712",
+      "description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT BIOTECHNOLOGY)"
+    },
+    "PSC": {
+      "code": "AJ52",
+      "description": "R\u0026D- GENERAL SCIENCE/TECHNOLOGY: LIFE SCIENCES (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+    },
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_DJF151200K0001728_1549_-NONE-_-NONE-",
+    "awarding_agency_id": 252,
+    "agency_slug": "department-of-justice",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 116509618,
+    "generated_unique_award_id": "CONT_AWD_DJF151200K0001728_1549_-NONE-_-NONE-",
+    "piid": "DJF151200K0001728",
+    "category": "contract",
+    "type": "D",
+    "type_description": "DEFINITIVE CONTRACT",
+    "description": "IGF::OT::IGF THE BIC PROGRAM WILL BE A MULTIPLE PHASE PROGRAM THAT WILL DEVELOP REVOLUTIONARY BIOTECHNOLOGY FOR LOC PLATFORMS TO DETERMINE THE EXPOSURE STATUS OF AN INDIVIDUAL TO A SUITE OF PATHOGENS AND TOXINS OF INTEREST.",
+    "total_obligation": 956271.94,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2015-02-18",
+    "base_exercised_options": 956271.94,
+    "base_and_all_options": 1265056,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": null,
+      "solicitation_procedures": "BR",
+      "number_of_offers_received": "5",
+      "extent_competed": "A",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "Y",
+      "fed_biz_opps_description": "YES",
+      "small_business_competitive": false,
+      "product_or_service_code": "AJ52",
+      "naics": "541712",
+      "naics_description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT BIOTECHNOLOGY)",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "N",
+      "cost_or_pricing_data": "N",
+      "domestic_or_foreign_entity": "B",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "S",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "BASIC RESEARCH",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "COMMERCIAL ITEM PROCEDURES NOT USED",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "R\u0026D- GENERAL SCIENCE/TECHNOLOGY: LIFE SCIENCES (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "N",
+      "construction_wage_rate_description": "NO",
+      "labor_standards_description": "NO",
+      "materials_supplies": "N",
+      "materials_supplies_description": "NO",
+      "cost_or_pricing_data_description": "NO",
+      "domestic_or_foreign_entity_description": "OTHER U.S. ENTITY (E.G. GOVERNMENT)",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "0.00",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "COST NO FEE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 262,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Justice",
+        "code": "015",
+        "abbreviation": "DOJ",
+        "slug": "department-of-justice"
+      },
+      "subtier_agency": {
+        "name": "Federal Bureau of Investigation",
+        "code": "1549",
+        "abbreviation": "FBI"
+      },
+      "office_agency_name": "DIVISION 2300"
+    },
+    "awarding_agency": {
+      "id": 262,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Justice",
+        "code": "015",
+        "abbreviation": "DOJ",
+        "slug": "department-of-justice"
+      },
+      "subtier_agency": {
+        "name": "Federal Bureau of Investigation",
+        "code": "1549",
+        "abbreviation": "FBI"
+      },
+      "office_agency_name": "FBI-JEH"
+    },
+    "period_of_performance": {
+      "start_date": "2015-02-18",
+      "end_date": "2017-04-30",
+      "last_modified_date": "2016-08-08",
+      "potential_end_date": "2017-04-30 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": "046705849",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Corporate Entity Tax Exempt",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "5171 CALIFORNIA AVE STE 150",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "3067",
+        "zip5": "92617",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "0001",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "A",
+        "description": "RESEARCH AND DEVELOPMENT"
+      },
+      "midtier_code": {
+        "code": "AJ",
+        "description": "General Science and Technology R\u0026D Services"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "AJ52",
+        "description": "R\u0026D- GENERAL SCIENCE/TECHNOLOGY: LIFE SCIENCES (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5417",
+        "description": "Scientific Research and Development Services"
+      },
+      "base_code": {
+        "code": "541712",
+        "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology)"
+      }
+    },
+    "total_outlay": 0
+  }
+}

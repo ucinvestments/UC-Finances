@@ -1,0 +1,330 @@
+{
+  "basic_data": {
+    "internal_id": 131042688,
+    "Award ID": "N6600115C4066",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 3376581,
+    "Total Outlays": 96822.81,
+    "Description": "IGF::OT::IGF DESCRITPTION: THIS CONTRACT ADDRESSES THE PROBLEM OF EFFICIENCY OF PRIVACY PRESERVING COMPUTATION.",
+    "Contract Award Type": "DEFINITIVE CONTRACT",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "2150 SHATTUCK AVE RM 313",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5940",
+      "zip5": "94704"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN DIEGO",
+      "congressional_code": "52",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "921525001",
+      "zip5": "92152"
+    },
+    "def_codes": [
+      "N",
+      "Q"
+    ],
+    "COVID-19 Obligations": 164670,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Defense",
+    "Awarding Sub Agency": "Department of the Navy",
+    "Start Date": "2015-09-28",
+    "End Date": "2021-09-27",
+    "NAICS": {
+      "code": "541330",
+      "description": "ENGINEERING SERVICES"
+    },
+    "PSC": {
+      "code": "AD92",
+      "description": "R\u0026D- DEFENSE OTHER: OTHER (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+    },
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_N6600115C4066_9700_-NONE-_-NONE-",
+    "awarding_agency_id": 1173,
+    "agency_slug": "department-of-defense",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 131042688,
+    "generated_unique_award_id": "CONT_AWD_N6600115C4066_9700_-NONE-_-NONE-",
+    "piid": "N6600115C4066",
+    "category": "contract",
+    "type": "D",
+    "type_description": "DEFINITIVE CONTRACT",
+    "description": "IGF::OT::IGF DESCRITPTION: THIS CONTRACT ADDRESSES THE PROBLEM OF EFFICIENCY OF PRIVACY PRESERVING COMPUTATION.",
+    "total_obligation": 3376581,
+    "subaward_count": 3,
+    "total_subaward_amount": 1093455,
+    "date_signed": "2015-09-29",
+    "base_exercised_options": 3376581,
+    "base_and_all_options": 3376581,
+    "total_account_outlay": 96822.81,
+    "total_account_obligation": 67847.19,
+    "account_outlays_by_defc": [
+      {
+        "code": "N",
+        "amount": 0
+      },
+      {
+        "code": "Q",
+        "amount": 96822.81
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "N",
+        "amount": 164670
+      },
+      {
+        "code": "Q",
+        "amount": -96822.81
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": null,
+      "solicitation_procedures": "BR",
+      "number_of_offers_received": "7",
+      "extent_competed": "A",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "N",
+      "fed_biz_opps_description": "NO",
+      "small_business_competitive": false,
+      "product_or_service_code": "AD92",
+      "naics": "541330",
+      "naics_description": "ENGINEERING SERVICES",
+      "sea_transportation": "N",
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "N",
+      "domestic_or_foreign_entity": "B",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "S",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "BASIC RESEARCH",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "COMMERCIAL ITEM PROCEDURES NOT USED",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "R\u0026D- DEFENSE OTHER: OTHER (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)",
+      "dod_claimant_program": "C9E",
+      "dod_claimant_program_description": "ALL OTHERS NOT IDENTIFIABLE TO ANY OTHER PROCUREMENT PROGRAM",
+      "dod_acquisition_program": "000",
+      "dod_acquisition_program_description": "NONE",
+      "information_technology_commercial_item_category": "Z",
+      "information_technology_commercial_item_category_description": "NOT IT PRODUCTS OR SERVICES",
+      "sea_transportation_description": "NO",
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "NO",
+      "domestic_or_foreign_entity_description": "OTHER U.S. ENTITY (E.G. GOVERNMENT)",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "A",
+      "interagency_contracting_authority_description": "ECONOMY ACT",
+      "price_evaluation_adjustment": "0.00",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "COST NO FEE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 1216,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Defense",
+        "code": "097",
+        "abbreviation": "DOD",
+        "slug": "department-of-defense"
+      },
+      "subtier_agency": {
+        "name": "Defense Advanced Research Projects Agency",
+        "code": "97AE",
+        "abbreviation": "DARPA"
+      },
+      "office_agency_name": "DEF ADVANCED RESEARCH PROJECTS AGCY"
+    },
+    "awarding_agency": {
+      "id": 1174,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Defense",
+        "code": "097",
+        "abbreviation": "DOD",
+        "slug": "department-of-defense"
+      },
+      "subtier_agency": {
+        "name": "Department of the Navy",
+        "code": "1700",
+        "abbreviation": "USN"
+      },
+      "office_agency_name": "NIWC PACIFIC"
+    },
+    "period_of_performance": {
+      "start_date": "2015-09-28",
+      "end_date": "2021-09-27",
+      "last_modified_date": "2020-08-25",
+      "potential_end_date": "2021-09-27 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": "124726725",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "2150 SHATTUCK AVE RM 313",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5940",
+        "zip5": "94704",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN DIEGO",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "5001",
+      "zip5": "92152",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "A",
+        "description": "RESEARCH AND DEVELOPMENT"
+      },
+      "midtier_code": {
+        "code": "AD",
+        "description": "DEFENSE (OTHER) R\u0026D"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "AD92",
+        "description": "R\u0026D- DEFENSE OTHER: OTHER (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5413",
+        "description": "Architectural, Engineering, and Related Services"
+      },
+      "base_code": {
+        "code": "541330",
+        "description": "Engineering Services"
+      }
+    },
+    "total_outlay": 96822.81
+  }
+}

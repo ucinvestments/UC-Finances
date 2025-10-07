@@ -1,0 +1,322 @@
+{
+  "basic_data": {
+    "internal_id": 98682897,
+    "Award ID": "140D7018C0010",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 639949.15,
+    "Total Outlays": 350599.92,
+    "Description": "IGF:OT:IGF  AUGMENT SPOOFER PROJECT TO IMPROVE REMEDIATION EFFORTS (ASPIRE)",
+    "Contract Award Type": "DEFINITIVE CONTRACT",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR DEPT 621",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0621",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "920930621",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of the Interior",
+    "Awarding Sub Agency": "Departmental Offices",
+    "Start Date": "2018-09-10",
+    "End Date": "2020-09-19",
+    "NAICS": {
+      "code": "541715",
+      "description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)"
+    },
+    "PSC": {
+      "code": "AZ17",
+      "description": "R\u0026D- OTHER RESEARCH AND DEVELOPMENT (COMMERCIALIZED)"
+    },
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_140D7018C0010_1406_-NONE-_-NONE-",
+    "awarding_agency_id": 209,
+    "agency_slug": "department-of-the-interior",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 98682897,
+    "generated_unique_award_id": "CONT_AWD_140D7018C0010_1406_-NONE-_-NONE-",
+    "piid": "140D7018C0010",
+    "category": "contract",
+    "type": "D",
+    "type_description": "DEFINITIVE CONTRACT",
+    "description": "IGF:OT:IGF  AUGMENT SPOOFER PROJECT TO IMPROVE REMEDIATION EFFORTS (ASPIRE)",
+    "total_obligation": 639949.15,
+    "subaward_count": 1,
+    "total_subaward_amount": 60125,
+    "date_signed": "2018-09-10",
+    "base_exercised_options": 639949.15,
+    "base_and_all_options": 639949.15,
+    "total_account_outlay": 350599.92,
+    "total_account_obligation": -50.85,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 350599.92
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -50.85
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": "DHSST-LRBAA 14-02-CSD.17",
+      "solicitation_procedures": "NP",
+      "number_of_offers_received": "51",
+      "extent_competed": "A",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "Y",
+      "fed_biz_opps_description": "YES",
+      "small_business_competitive": false,
+      "product_or_service_code": "AZ17",
+      "naics": "541715",
+      "naics_description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "N",
+      "domestic_or_foreign_entity": "B",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "N",
+      "consolidated_contract": "D",
+      "type_of_contract_pricing": "S",
+      "national_interest_action": null,
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "NEGOTIATED PROPOSAL/QUOTE",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "COMMERCIAL PRODUCTS/SERVICES PROCEDURES NOT USED",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "R\u0026D- OTHER RESEARCH AND DEVELOPMENT (COMMERCIALIZED)",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "NO",
+      "domestic_or_foreign_entity_description": "OTHER U.S. ENTITY (E.G. GOVERNMENT)",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "B",
+      "interagency_contracting_authority_description": "OTHER STATUTORY AUTHORITY",
+      "price_evaluation_adjustment": "0.00",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NOT CONSOLIDATED",
+      "type_of_contract_pricing_description": "COST NO FEE",
+      "national_interest_action_description": null
+    },
+    "funding_agency": {
+      "id": 787,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Homeland Security",
+        "code": "070",
+        "abbreviation": "DHS",
+        "slug": "department-of-homeland-security"
+      },
+      "subtier_agency": {
+        "name": "Office of the Under Secretary for Science and Technology",
+        "code": "7040",
+        "abbreviation": "S\u0026T"
+      },
+      "office_agency_name": "OFF OF THE USCTY FOR SCIENCE  TECH"
+    },
+    "awarding_agency": {
+      "id": 214,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "Departmental Offices",
+        "code": "1406",
+        "abbreviation": ""
+      },
+      "office_agency_name": "IBC ACQ SVCS DIRECTORATE (00004)"
+    },
+    "period_of_performance": {
+      "start_date": "2018-09-10",
+      "end_date": "2020-09-19",
+      "last_modified_date": "2024-02-29",
+      "potential_end_date": "2020-09-19 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "parent_recipient_uei": "UYTTZT6G9DT1",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Category Business",
+        "Corporate Entity Tax Exempt",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR DEPT 621",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0621",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0621",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "A",
+        "description": "RESEARCH AND DEVELOPMENT"
+      },
+      "midtier_code": {
+        "code": "AZ",
+        "description": "OTHER RESEARCH/DEVELOPMENT"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "AZ17",
+        "description": "R\u0026D- OTHER RESEARCH AND DEVELOPMENT (COMMERCIALIZED)"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5417",
+        "description": "Scientific Research and Development Services"
+      },
+      "base_code": {
+        "code": "541715",
+        "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+      }
+    },
+    "total_outlay": 350599.92
+  }
+}

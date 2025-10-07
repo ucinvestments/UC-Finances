@@ -1,0 +1,76 @@
+{
+  "basic_data": {
+    "internal_id": 127176252,
+    "Award ID": "HHSN27500001",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 156649.89,
+    "Total Outlays": 0,
+    "Description": "IGF::OT::IGF CORE FUNCTION ACTIVITIES.  TO PROVIDE ASSISTANCE IN PROTOCOL REVIEW, PROTOCOL DEVELOPMENT AND ACTIVITIES ASSOCIATED WITH PAST, PRESENT, AND FUITURE OF THE CONTRACEPTIVE CLINICAL TRIALS NETWORK (FEMALE SITES) ACTIVITIES",
+    "Contract Award Type": "DELIVERY ORDER",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6134",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "956186134",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2013-06-28",
+    "End Date": "2020-06-25",
+    "NAICS": {
+      "code": "541712",
+      "description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT BIOTECHNOLOGY)"
+    },
+    "PSC": {
+      "code": "AN12",
+      "description": "HEALTH R\u0026D SERVICES; HEALTH CARE SERVICES; APPLIED RESEARCH"
+    },
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_HHSN27500001_7529_HHSN275201300021I_7529",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  }
+}

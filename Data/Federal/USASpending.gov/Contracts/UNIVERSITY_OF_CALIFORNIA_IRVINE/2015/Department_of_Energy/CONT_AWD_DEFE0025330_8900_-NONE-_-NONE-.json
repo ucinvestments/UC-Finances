@@ -1,0 +1,312 @@
+{
+  "basic_data": {
+    "internal_id": 115664963,
+    "Award ID": "DEFE0025330",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 25000,
+    "Total Outlays": null,
+    "Description": "IGF::OT::IGF  THE PURPOSE OF THIS PURCHASE ORDER REQUEST IS FOR FE-20'S $25,000 CO-SPONSORSHIP OF THE 2015 ICEPAG: THE INTERNATIONAL COLLOQUIUM ON ENVIRONMENTALLY PREFERRED ADVANCED POWER GENERATION FOR WORK THAT IS PERFORMED BY THE APEP AND THE NFCRC AT UC-IRVINE.",
+    "Contract Award Type": "PO",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "5171 CALIFORNIA AVE STE 150",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "45",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "45",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "926173067",
+      "zip5": "92617"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Energy",
+    "Awarding Sub Agency": "Department of Energy",
+    "Start Date": "2015-03-09",
+    "End Date": "2015-03-09",
+    "NAICS": {
+      "code": "611310",
+      "description": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS"
+    },
+    "PSC": {
+      "code": "U009",
+      "description": "EDUCATION/TRAINING- GENERAL"
+    },
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_DEFE0025330_8900_-NONE-_-NONE-",
+    "awarding_agency_id": 930,
+    "agency_slug": "department-of-energy",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 115664963,
+    "generated_unique_award_id": "CONT_AWD_DEFE0025330_8900_-NONE-_-NONE-",
+    "piid": "DEFE0025330",
+    "category": "contract",
+    "type": "B",
+    "type_description": "PO",
+    "description": "IGF::OT::IGF  THE PURPOSE OF THIS PURCHASE ORDER REQUEST IS FOR FE-20'S $25,000 CO-SPONSORSHIP OF THE 2015 ICEPAG: THE INTERNATIONAL COLLOQUIUM ON ENVIRONMENTALLY PREFERRED ADVANCED POWER GENERATION FOR WORK THAT IS PERFORMED BY THE APEP AND THE NFCRC AT UC-IRVINE.",
+    "total_obligation": 25000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2015-03-09",
+    "base_exercised_options": 25000,
+    "base_and_all_options": 25000,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": "NAN",
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": null,
+      "solicitation_procedures": "SP1",
+      "number_of_offers_received": "1",
+      "extent_competed": "F",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "N",
+      "fed_biz_opps_description": "NO",
+      "small_business_competitive": false,
+      "product_or_service_code": "U009",
+      "naics": "611310",
+      "naics_description": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N: NO",
+      "labor_standards": "N",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "U",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "SIMPLIFIED ACQUISITION",
+      "extent_competed_description": "COMPETED UNDER SAP",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": "NAN",
+      "product_or_service_description": "EDUCATION/TRAINING- GENERAL",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "",
+      "construction_wage_rate": "N",
+      "construction_wage_rate_description": "NO",
+      "labor_standards_description": "NO",
+      "materials_supplies": "N",
+      "materials_supplies_description": "NO",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "COST PLUS FIXED FEE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 965,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Energy",
+        "code": "089",
+        "abbreviation": "DOE",
+        "slug": "department-of-energy"
+      },
+      "subtier_agency": {
+        "name": "Assistant Secretary for Fossil Energy",
+        "code": "8944",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 930,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Energy",
+        "code": "089",
+        "abbreviation": "DOE",
+        "slug": "department-of-energy"
+      },
+      "subtier_agency": {
+        "name": "Department of Energy",
+        "code": "8900",
+        "abbreviation": "DOE"
+      },
+      "office_agency_name": "HEADQUARTERS PROCUREMENT SERVICES"
+    },
+    "period_of_performance": {
+      "start_date": "2015-03-09",
+      "end_date": "2015-03-09",
+      "last_modified_date": "2015-03-10",
+      "potential_end_date": "2015-03-09 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": "046705849",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Corporate Entity Tax Exempt",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "Special Designations",
+        "U.S.-Owned Business"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "",
+        "city_name": "IRVINE",
+        "county_code": "",
+        "county_name": "",
+        "address_line1": "5171 CALIFORNIA AVE STE 150",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "926173067",
+        "zip5": "",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "3067",
+      "zip5": "92617",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "U",
+        "description": "EDUCATION AND TRAINING"
+      },
+      "midtier_code": {
+        "code": "U0",
+        "description": "EDUCATION AND TRAINING SERVICES"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "U009",
+        "description": "EDUCATION/TRAINING- GENERAL"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "61",
+        "description": "Educational Services"
+      },
+      "midtier_code": {
+        "code": "6113",
+        "description": "Colleges, Universities, and Professional Schools"
+      },
+      "base_code": {
+        "code": "611310",
+        "description": "Colleges, Universities, and Professional Schools"
+      }
+    },
+    "total_outlay": 0
+  }
+}

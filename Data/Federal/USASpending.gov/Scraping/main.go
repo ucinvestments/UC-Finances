@@ -283,7 +283,7 @@ type DetailedAwardResponse struct {
 	TotalAccountObligation  float64             `json:"total_account_obligation"`
 	AccountOutlaysByDEFC    []AccountObligation `json:"account_outlays_by_defc"`
 	AccountObligationsByDEFC []AccountObligation `json:"account_obligations_by_defc"`
-	ParentAward             *string             `json:"parent_award"`
+	ParentAward             interface{}         `json:"parent_award"`
 	LatestTransactionContractData *ContractData `json:"latest_transaction_contract_data"`
 	FundingAgency           AgencyInfo          `json:"funding_agency"`
 	AwardingAgency          AgencyInfo          `json:"awarding_agency"`

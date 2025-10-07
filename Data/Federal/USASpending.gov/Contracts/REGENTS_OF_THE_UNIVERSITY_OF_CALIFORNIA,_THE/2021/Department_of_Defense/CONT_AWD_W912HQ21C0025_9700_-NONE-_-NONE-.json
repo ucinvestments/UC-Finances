@@ -1,0 +1,323 @@
+{
+  "basic_data": {
+    "internal_id": 167922511,
+    "Award ID": "W912HQ21C0025",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 654399,
+    "Total Outlays": 0,
+    "Description": "SERDP PROJECT RC21-1028",
+    "Contract Award Type": "DEFINITIVE CONTRACT",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "1608 4TH ST STE 220",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1749",
+      "zip5": "94710"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "947203114",
+      "zip5": "94720"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Defense",
+    "Awarding Sub Agency": "Department of the Army",
+    "Start Date": "2021-06-11",
+    "End Date": "2024-04-05",
+    "NAICS": {
+      "code": "541715",
+      "description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)"
+    },
+    "PSC": {
+      "code": "AH15",
+      "description": "NATURAL RESOURCES \u0026 ENVIRONMENT R\u0026D SVCS; WATER RESOURCES; R\u0026D FACILITIES \u0026 MAJ EQUIP"
+    },
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_W912HQ21C0025_9700_-NONE-_-NONE-",
+    "awarding_agency_id": 1173,
+    "agency_slug": "department-of-defense",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 167922511,
+    "generated_unique_award_id": "CONT_AWD_W912HQ21C0025_9700_-NONE-_-NONE-",
+    "piid": "W912HQ21C0025",
+    "category": "contract",
+    "type": "D",
+    "type_description": "DEFINITIVE CONTRACT",
+    "description": "SERDP PROJECT RC21-1028",
+    "total_obligation": 654399,
+    "subaward_count": 1,
+    "total_subaward_amount": 136425,
+    "date_signed": "2021-06-21",
+    "base_exercised_options": 654399,
+    "base_and_all_options": 654399,
+    "total_account_outlay": 0,
+    "total_account_obligation": -242757.7,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -242757.7
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": "W912HQ20S0004",
+      "solicitation_procedures": "NP",
+      "number_of_offers_received": "86",
+      "extent_competed": "A",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "X",
+      "fed_biz_opps_description": "NOT APPLICABLE",
+      "small_business_competitive": false,
+      "product_or_service_code": "AH15",
+      "naics": "541715",
+      "naics_description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)",
+      "sea_transportation": "U",
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "N",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "N",
+      "consolidated_contract": "D",
+      "type_of_contract_pricing": "S",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "NEGOTIATED PROPOSAL/QUOTE",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "COMMERCIAL PRODUCTS/SERVICES PROCEDURES NOT USED",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "NATURAL RESOURCES \u0026 ENVIRONMENT R\u0026D SVCS; WATER RESOURCES; R\u0026D FACILITIES \u0026 MAJ EQUIP",
+      "dod_claimant_program": "S1",
+      "dod_claimant_program_description": "SERVICES",
+      "dod_acquisition_program": "000",
+      "dod_acquisition_program_description": "NONE",
+      "information_technology_commercial_item_category": "Z",
+      "information_technology_commercial_item_category_description": "NOT IT PRODUCTS OR SERVICES",
+      "sea_transportation_description": "UNKNOWN",
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "NO",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "0.00",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NOT CONSOLIDATED",
+      "type_of_contract_pricing_description": "COST NO FEE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 1188,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Defense",
+        "code": "097",
+        "abbreviation": "DOD",
+        "slug": "department-of-defense"
+      },
+      "subtier_agency": {
+        "name": "Department of the Army",
+        "code": "2100",
+        "abbreviation": "USA"
+      },
+      "office_agency_name": "W0JV HQ USACE MIL PROGRAMS"
+    },
+    "awarding_agency": {
+      "id": 1188,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Defense",
+        "code": "097",
+        "abbreviation": "DOD",
+        "slug": "department-of-defense"
+      },
+      "subtier_agency": {
+        "name": "Department of the Army",
+        "code": "2100",
+        "abbreviation": "USA"
+      },
+      "office_agency_name": "W4LD USA HECSA"
+    },
+    "period_of_performance": {
+      "start_date": "2021-06-11",
+      "end_date": "2024-04-05",
+      "last_modified_date": "2023-08-08",
+      "potential_end_date": "2024-04-05 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "Special Designations",
+        "U.S.-Owned Business"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1608 4TH ST STE 220",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "1749",
+        "zip5": "94710",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "3114",
+      "zip5": "94720",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "A",
+        "description": "RESEARCH AND DEVELOPMENT"
+      },
+      "midtier_code": {
+        "code": "AH",
+        "description": "Natural Resources and Environment R\u0026D Services"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "AH15",
+        "description": "NATURAL RESOURCES \u0026 ENVIRONMENT R\u0026D SVCS; WATER RESOURCES; R\u0026D FACILITIES \u0026 MAJ EQUIP"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5417",
+        "description": "Scientific Research and Development Services"
+      },
+      "base_code": {
+        "code": "541715",
+        "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+      }
+    },
+    "total_outlay": 0
+  }
+}

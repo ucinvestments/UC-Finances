@@ -1,0 +1,323 @@
+{
+  "basic_data": {
+    "internal_id": 111678706,
+    "Award ID": "75F40123P00051",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 25000,
+    "Total Outlays": 12500,
+    "Description": "OLS EOSH TRAINING MATERIALS-SAFETY TRAINING CONSORTIUM",
+    "Contract Award Type": "PURCHASE ORDER",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4201",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "900249740",
+      "zip5": "90024"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "Food and Drug Administration",
+    "Start Date": "2023-05-16",
+    "End Date": "2025-08-31",
+    "NAICS": {
+      "code": "611430",
+      "description": "PROFESSIONAL AND MANAGEMENT DEVELOPMENT TRAINING"
+    },
+    "PSC": {
+      "code": "U099",
+      "description": "EDUCATION/TRAINING- OTHER"
+    },
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_75F40123P00051_7524_-NONE-_-NONE-",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 111678706,
+    "generated_unique_award_id": "CONT_AWD_75F40123P00051_7524_-NONE-_-NONE-",
+    "piid": "75F40123P00051",
+    "category": "contract",
+    "type": "B",
+    "type_description": "PURCHASE ORDER",
+    "description": "OLS EOSH TRAINING MATERIALS-SAFETY TRAINING CONSORTIUM",
+    "total_obligation": 25000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-05-16",
+    "base_exercised_options": 25000,
+    "base_and_all_options": 25000,
+    "total_account_outlay": 12500,
+    "total_account_obligation": 25000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 12500
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 25000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": "75F40123P00051",
+      "solicitation_procedures": "SSS",
+      "number_of_offers_received": "1",
+      "extent_competed": "C",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "Y",
+      "fed_biz_opps_description": "YES",
+      "small_business_competitive": false,
+      "product_or_service_code": "U099",
+      "naics": "611430",
+      "naics_description": "PROFESSIONAL AND MANAGEMENT DEVELOPMENT TRAINING",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "N",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": "B",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "",
+      "consolidated_contract": "D",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": null,
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "ONLY ONE SOURCE",
+      "extent_competed_description": "NOT COMPETED",
+      "other_than_full_and_open": "ONE",
+      "other_than_full_and_open_description": "ONLY ONE SOURCE-OTHER (FAR 6.302-1 OTHER)",
+      "commercial_item_acquisition": "A",
+      "commercial_item_acquisition_description": "COMMERCIAL PRODUCTS/SERVICES",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "EDUCATION/TRAINING- OTHER",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "N",
+      "construction_wage_rate_description": "NO",
+      "labor_standards_description": "NO",
+      "materials_supplies": "N",
+      "materials_supplies_description": "NO",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": "OTHER U.S. ENTITY (E.G. GOVERNMENT)",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NOT CONSOLIDATED",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": null
+    },
+    "funding_agency": {
+      "id": 825,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Food and Drug Administration",
+        "code": "7524",
+        "abbreviation": "FDA"
+      },
+      "office_agency_name": "FDA OFFICE OF ACQ  GRANT SVCS"
+    },
+    "awarding_agency": {
+      "id": 825,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Food and Drug Administration",
+        "code": "7524",
+        "abbreviation": "FDA"
+      },
+      "office_agency_name": "FDA OFFICE OF ACQ  GRANT SVCS"
+    },
+    "period_of_performance": {
+      "start_date": "2023-05-16",
+      "end_date": "2025-08-31",
+      "last_modified_date": "2024-09-06",
+      "potential_end_date": "2025-08-31 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "parent_recipient_uei": "RN64EPNH8JC6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Government",
+        "Higher Education",
+        "U.S. National Government",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4201",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "9740",
+      "zip5": "90024",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "U",
+        "description": "EDUCATION AND TRAINING"
+      },
+      "midtier_code": {
+        "code": "U0",
+        "description": "EDUCATION AND TRAINING SERVICES"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "U099",
+        "description": "EDUCATION/TRAINING- OTHER"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "61",
+        "description": "Educational Services"
+      },
+      "midtier_code": {
+        "code": "6114",
+        "description": "Business Schools and Computer and Management Training"
+      },
+      "base_code": {
+        "code": "611430",
+        "description": "Professional and Management Development Training"
+      }
+    },
+    "total_outlay": 12500
+  }
+}

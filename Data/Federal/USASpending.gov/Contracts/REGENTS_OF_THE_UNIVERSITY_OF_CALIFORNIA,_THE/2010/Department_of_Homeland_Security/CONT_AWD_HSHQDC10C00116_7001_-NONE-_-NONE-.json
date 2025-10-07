@@ -1,0 +1,310 @@
+{
+  "basic_data": {
+    "internal_id": 127916871,
+    "Award ID": "HSHQDC10C00116",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 461543.76,
+    "Total Outlays": 0,
+    "Description": "DIVISION:  CHEMICAL \u0026 BIOLOGICAL PPA:  CHEMICAL \u0026 BIOLOGICAL THRUST:  AGRICULTURE PROGRAM:  FOREIGN ANIMAL DISEASES (FAD) PROJECT:  FAD MODELING PERFORMER:  UC DAVIS APPROPRIATION YEAR:  FY10 (02 FUNDS) BUDGET AUTHORITY:  THREE YEAR R\u0026D FUNDS  PROJECT MANAGER:  LELAND ELLIS, 202-254-5769 LEAD SUPPORT STAFF:  ROBERT ORR, 202-254-6606  ALC: 70-08-1513 APPS: 70020800",
+    "Contract Award Type": "DEFINITIVE CONTRACT",
+    "Recipient UEI": "XL8JKK8M4V75",
+    "Recipient Location": {
+      "address_line1": "2132 WICKSON HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": null,
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0000",
+      "zip5": "95616"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "956168576",
+      "zip5": "95616"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Homeland Security",
+    "Awarding Sub Agency": "Office of Procurement Operations",
+    "Start Date": "2010-09-01",
+    "End Date": "2013-06-21",
+    "NAICS": {
+      "code": "541712",
+      "description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT BIOTECHNOLOGY)"
+    },
+    "PSC": {
+      "code": "AA11",
+      "description": "AGRICULTURE R\u0026D SERVICES; AGRICULTURAL RESEARCH AND SERVICES; BASIC RESEARCH"
+    },
+    "recipient_id": "336a8f3a-1fbb-ef70-f592-e8a2e7828133-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_HSHQDC10C00116_7001_-NONE-_-NONE-",
+    "awarding_agency_id": 766,
+    "agency_slug": "department-of-homeland-security",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 127916871,
+    "generated_unique_award_id": "CONT_AWD_HSHQDC10C00116_7001_-NONE-_-NONE-",
+    "piid": "HSHQDC10C00116",
+    "category": "contract",
+    "type": "D",
+    "type_description": "DEFINITIVE CONTRACT",
+    "description": "DIVISION:  CHEMICAL \u0026 BIOLOGICAL PPA:  CHEMICAL \u0026 BIOLOGICAL THRUST:  AGRICULTURE PROGRAM:  FOREIGN ANIMAL DISEASES (FAD) PROJECT:  FAD MODELING PERFORMER:  UC DAVIS APPROPRIATION YEAR:  FY10 (02 FUNDS) BUDGET AUTHORITY:  THREE YEAR R\u0026D FUNDS  PROJECT MANAGER:  LELAND ELLIS, 202-254-5769 LEAD SUPPORT STAFF:  ROBERT ORR, 202-254-6606  ALC: 70-08-1513 APPS: 70020800",
+    "total_obligation": 461543.76,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2010-09-01",
+    "base_exercised_options": 461543.76,
+    "base_and_all_options": 461543.76,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": null,
+      "solicitation_procedures": "NP",
+      "number_of_offers_received": "1",
+      "extent_competed": "A",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "Y",
+      "fed_biz_opps_description": "YES",
+      "small_business_competitive": false,
+      "product_or_service_code": "AA11",
+      "naics": "541712",
+      "naics_description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT BIOTECHNOLOGY)",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "N",
+      "cost_or_pricing_data": "N",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "S",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "NEGOTIATED PROPOSAL/QUOTE",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "COMMERCIAL ITEM PROCEDURES NOT USED",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "R\u0026D- AGRICULTURE: INSECT AND DISEASE CONTROL (BASIC RESEARCH)",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "N",
+      "construction_wage_rate_description": "NO",
+      "labor_standards_description": "NO",
+      "materials_supplies": "N",
+      "materials_supplies_description": "NO",
+      "cost_or_pricing_data_description": "NO",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "0.00",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "COST NO FEE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 787,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Homeland Security",
+        "code": "070",
+        "abbreviation": "DHS",
+        "slug": "department-of-homeland-security"
+      },
+      "subtier_agency": {
+        "name": "Office of the Under Secretary for Science and Technology",
+        "code": "7040",
+        "abbreviation": "S\u0026T"
+      },
+      "office_agency_name": "OFF OF THE USCTY FOR SCIENCE  TECH"
+    },
+    "awarding_agency": {
+      "id": 767,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Homeland Security",
+        "code": "070",
+        "abbreviation": "DHS",
+        "slug": "department-of-homeland-security"
+      },
+      "subtier_agency": {
+        "name": "Office of Procurement Operations",
+        "code": "7001",
+        "abbreviation": "OPO"
+      },
+      "office_agency_name": "SCI  TECH ACQ DIV"
+    },
+    "period_of_performance": {
+      "start_date": "2010-09-01",
+      "end_date": "2013-06-21",
+      "last_modified_date": "2017-03-10",
+      "potential_end_date": "2019-03-07 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "336a8f3a-1fbb-ef70-f592-e8a2e7828133-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "XL8JKK8M4V75",
+      "recipient_unique_id": "781579560",
+      "parent_recipient_hash": "336a8f3a-1fbb-ef70-f592-e8a2e7828133-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "parent_recipient_uei": "XL8JKK8M4V75",
+      "parent_recipient_unique_id": "781579560",
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Higher Education",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "Special Designations",
+        "U.S.-Owned Business"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "2132 WICKSON HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "0000",
+        "zip5": "95616",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "8576",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "A",
+        "description": "RESEARCH AND DEVELOPMENT"
+      },
+      "midtier_code": {
+        "code": "AA",
+        "description": "AGRICULTURE R\u0026D SERVICES"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "AA11",
+        "description": "AGRICULTURE R\u0026D SERVICES; AGRICULTURAL RESEARCH AND SERVICES; BASIC RESEARCH"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5417",
+        "description": "Scientific Research and Development Services"
+      },
+      "base_code": {
+        "code": "541712",
+        "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology)"
+      }
+    },
+    "total_outlay": 0
+  }
+}

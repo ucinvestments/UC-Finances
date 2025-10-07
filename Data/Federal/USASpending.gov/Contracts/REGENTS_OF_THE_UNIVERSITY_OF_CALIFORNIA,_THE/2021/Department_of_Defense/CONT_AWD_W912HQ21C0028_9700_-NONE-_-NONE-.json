@@ -1,0 +1,321 @@
+{
+  "basic_data": {
+    "internal_id": 167922514,
+    "Award ID": "W912HQ21C0028",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 2167869,
+    "Total Outlays": 0,
+    "Description": "SERDP PROJECT RC21-1034",
+    "Contract Award Type": "DEFINITIVE CONTRACT",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "1608 4TH ST STE 220",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1749",
+      "zip5": "94710"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "947101749",
+      "zip5": "94710"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Defense",
+    "Awarding Sub Agency": "Department of the Army",
+    "Start Date": "2021-09-13",
+    "End Date": "2026-09-13",
+    "NAICS": {
+      "code": "541715",
+      "description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)"
+    },
+    "PSC": {
+      "code": "AJ11",
+      "description": "GENERAL SCIENCE AND TECHNOLOGY R\u0026D SERVICES; GENERAL SCIENCE AND TECHNOLOGY; BASIC RESEARCH"
+    },
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_W912HQ21C0028_9700_-NONE-_-NONE-",
+    "awarding_agency_id": 1173,
+    "agency_slug": "department-of-defense",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 167922514,
+    "generated_unique_award_id": "CONT_AWD_W912HQ21C0028_9700_-NONE-_-NONE-",
+    "piid": "W912HQ21C0028",
+    "category": "contract",
+    "type": "D",
+    "type_description": "DEFINITIVE CONTRACT",
+    "description": "SERDP PROJECT RC21-1034",
+    "total_obligation": 2167869,
+    "subaward_count": 2,
+    "total_subaward_amount": 417527,
+    "date_signed": "2021-09-13",
+    "base_exercised_options": 2965631,
+    "base_and_all_options": 2965631,
+    "total_account_outlay": 0,
+    "total_account_obligation": 882563,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 882563
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": "W912HQ20S0004",
+      "solicitation_procedures": "BR",
+      "number_of_offers_received": "18",
+      "extent_competed": "A",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "Y",
+      "fed_biz_opps_description": "YES",
+      "small_business_competitive": false,
+      "product_or_service_code": "AJ11",
+      "naics": "541715",
+      "naics_description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)",
+      "sea_transportation": "U",
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "N",
+      "cost_or_pricing_data": "N",
+      "domestic_or_foreign_entity": "B",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "F",
+      "multi_year_contract": "N",
+      "consolidated_contract": "D",
+      "type_of_contract_pricing": "S",
+      "national_interest_action": null,
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "BASIC RESEARCH",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "COMMERCIAL PRODUCTS/SERVICES PROCEDURES NOT USED",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "GENERAL SCIENCE AND TECHNOLOGY R\u0026D SERVICES; GENERAL SCIENCE AND TECHNOLOGY; BASIC RESEARCH",
+      "dod_claimant_program": "S1",
+      "dod_claimant_program_description": "SERVICES",
+      "dod_acquisition_program": "000",
+      "dod_acquisition_program_description": "NONE",
+      "information_technology_commercial_item_category": "Z",
+      "information_technology_commercial_item_category_description": "NOT IT PRODUCTS OR SERVICES",
+      "sea_transportation_description": "UNKNOWN",
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "N",
+      "construction_wage_rate_description": "NO",
+      "labor_standards_description": "NO",
+      "materials_supplies": "N",
+      "materials_supplies_description": "NO",
+      "cost_or_pricing_data_description": "NO",
+      "domestic_or_foreign_entity_description": "OTHER U.S. ENTITY (E.G. GOVERNMENT)",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "0.00",
+      "subcontracting_plan_description": "INDIVIDUAL SUBCONTRACT PLAN",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NOT CONSOLIDATED",
+      "type_of_contract_pricing_description": "COST NO FEE",
+      "national_interest_action_description": null
+    },
+    "funding_agency": {
+      "id": 1188,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Defense",
+        "code": "097",
+        "abbreviation": "DOD",
+        "slug": "department-of-defense"
+      },
+      "subtier_agency": {
+        "name": "Department of the Army",
+        "code": "2100",
+        "abbreviation": "USA"
+      },
+      "office_agency_name": "W0JV HQ USACE MIL PROGRAMS"
+    },
+    "awarding_agency": {
+      "id": 1188,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Defense",
+        "code": "097",
+        "abbreviation": "DOD",
+        "slug": "department-of-defense"
+      },
+      "subtier_agency": {
+        "name": "Department of the Army",
+        "code": "2100",
+        "abbreviation": "USA"
+      },
+      "office_agency_name": "W4LD USA HECSA"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-13",
+      "end_date": "2026-09-13",
+      "last_modified_date": "2025-06-23",
+      "potential_end_date": "2026-09-13 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "parent_recipient_uei": "GS3YEVSS12N6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1608 4TH ST STE 220",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "1749",
+        "zip5": "94710",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "1749",
+      "zip5": "94710",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "A",
+        "description": "RESEARCH AND DEVELOPMENT"
+      },
+      "midtier_code": {
+        "code": "AJ",
+        "description": "General Science and Technology R\u0026D Services"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "AJ11",
+        "description": "GENERAL SCIENCE AND TECHNOLOGY R\u0026D SERVICES; GENERAL SCIENCE AND TECHNOLOGY; BASIC RESEARCH"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5417",
+        "description": "Scientific Research and Development Services"
+      },
+      "base_code": {
+        "code": "541715",
+        "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+      }
+    },
+    "total_outlay": 0
+  }
+}

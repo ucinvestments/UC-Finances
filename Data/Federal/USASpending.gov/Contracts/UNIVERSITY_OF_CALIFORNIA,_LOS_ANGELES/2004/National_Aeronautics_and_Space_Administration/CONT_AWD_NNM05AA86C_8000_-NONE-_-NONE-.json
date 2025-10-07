@@ -1,0 +1,321 @@
+{
+  "basic_data": {
+    "internal_id": 131497923,
+    "Award ID": "NNM05AA86C",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 25395446.97,
+    "Total Outlays": 0,
+    "Description": "TAS::80 0120::TAS DAWN DISCOVERY MISSION PHASE C/D THE FOLLOWING TASKS SHALL BE PERFORMED BY THE PRINCIPAL INVESTIGATOR AT THE UNIVERSITY OF CALIFORNIA, LOS ANGELES FOR THE DAWN PROJECT PHASE C/D. BASED ON THE PHASE B EFFORTS, THE UNIVERSITY OF CALIFORNIA, LOS ANGELES WILL CONTINUE TO PROVIDE SUPPORT TO THE DAWN PI, IN HIS PERFORMANCE OF THE FOLLOWING TASKS DURING THE DESIGN, DEVELOPMENT, FABRICATION, ASSEMBLY, INTEGRATION, TEST AND LAUNCH PHASE OF THE DAWN MISSION IMPLEMENTATION, INCLUDING: 1. PROVIDE CONTINUING OVERALL LEADERSHIP, MANAGEMENT, AND OVERSIGHT OF THE DAWN PROJECT. 2. CONTINUE TO CHAIR THE DAWN SCIENCE TEAM. 3. UPDATE, AS NECESSARY, THE SCIENCE MANAGEMENT PLAN, AND OVERSEE ALL PLANNING, SOFTWARE DEVELOPMENT, AND PROCUREMENT ACTIVITIES REQUIRED TO PREPARE THE MISSION OPERATIONS CENTER (MOC), SCIENCE DATA CENTER, AND SCIENCE OPERATIONS CENTER (SOC) TO SUPPORT MISSION OPERATIONS, SCIENCE DATA RETRIEVAL AND VALIDATION, AND DELIVERY OF VALIDATED DATA TO PUBLIC AREAS. 4. SUPPORT MISSION PLANNING ACTIVITIES IN PREPARATION FOR LAUNCH. 5. OVERSEE DAWN E/PO ACTIVITIES AND PARTICIPATE IN REGULAR MEETINGS OF THE DAWN E/PO PARTNERS. 6. LEAD THE INVESTIGATION IMPLEMENTATION TASKS. 7. DEVELOP THE DAWN SCIENCE DATA ANALYSIS AND ARCHIVE PLAN. 8. LEAD THE PREPARATION OF A PLAN FOR THE PUBLICATION OF DAWN SCIENTIFIC RESULTS IN REFERRED JOURNALS. 9. LEAD THE PREPARATION OF A PLAN FOR THE TIMELY DISSEMINATION OF DAWN DATA AND SCIENTIFIC FINDINGS. 10. WITHIN THE FIRST 30 DAYS AFTER LAUNCH, OVERSEE INITIAL ENGINEERING AND SCIENCE CHECKOUT AND VERIFICATION OF SPACECRAFT IN FLIGHT OPERATION INCLUDING ACTIVATION AND CHECKOUT OF THE PAYLOAD. 11. PROVIDE MANAGEMENT AND OVERSIGHT OF SUBCONTRACTS TO CO-INVESTIGATOR AND EDUCATION/PUBLIC OUTREACH TEAM MEMBER INSTITUTION FOR THEIR PARTICIPATION IN DAWN PROJECT. 12. CONTINUE DAILY MANAGEMENT AND ADMINISTRATION OF PHASE C/D IMPLEMENTATION ACTIVITIES. MONTHLY STATUS REPORTING ON ALL ASPECTS OF SCIENCE AND IMPLEMENTATION SHALL BE PERFORMED AND SUBMITTED TO THE DISCOVERY PROGRAM MANAGER ON TECHNICAL, SCHEDULE, AND FISCAL PROGRESS. PREPARATION AND PLANNING FOR PHASE E ACTIVITIES SHALL BE PERFORMED IN ACCORDANCE WITH THE PROJECT MASTER SCHEDULE, SUBCONTRACTING PLANS AND DOCUMENTATION, RISK ASSESSMENT LIST, AND DETAILED TASK DESCRIPTIONS AND COST ESTIMATED FOR PHASE E CONTRACTING.",
+    "Contract Award Type": "DEFINITIVE CONTRACT",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10920 WILSHIRE BLVD # 1200",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6523",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "32",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "900246523",
+      "zip5": "90024"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2004-12-09",
+    "End Date": "2019-06-30",
+    "NAICS": {
+      "code": "611310",
+      "description": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS"
+    },
+    "PSC": {
+      "code": "AR22",
+      "description": "R\u0026D- SPACE: SCIENCE/APPLICATIONS (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+    },
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_NNM05AA86C_8000_-NONE-_-NONE-",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 131497923,
+    "generated_unique_award_id": "CONT_AWD_NNM05AA86C_8000_-NONE-_-NONE-",
+    "piid": "NNM05AA86C",
+    "category": "contract",
+    "type": "D",
+    "type_description": "DEFINITIVE CONTRACT",
+    "description": "TAS::80 0120::TAS DAWN DISCOVERY MISSION PHASE C/D THE FOLLOWING TASKS SHALL BE PERFORMED BY THE PRINCIPAL INVESTIGATOR AT THE UNIVERSITY OF CALIFORNIA, LOS ANGELES FOR THE DAWN PROJECT PHASE C/D. BASED ON THE PHASE B EFFORTS, THE UNIVERSITY OF CALIFORNIA, LOS ANGELES WILL CONTINUE TO PROVIDE SUPPORT TO THE DAWN PI, IN HIS PERFORMANCE OF THE FOLLOWING TASKS DURING THE DESIGN, DEVELOPMENT, FABRICATION, ASSEMBLY, INTEGRATION, TEST AND LAUNCH PHASE OF THE DAWN MISSION IMPLEMENTATION, INCLUDING: 1. PROVIDE CONTINUING OVERALL LEADERSHIP, MANAGEMENT, AND OVERSIGHT OF THE DAWN PROJECT. 2. CONTINUE TO CHAIR THE DAWN SCIENCE TEAM. 3. UPDATE, AS NECESSARY, THE SCIENCE MANAGEMENT PLAN, AND OVERSEE ALL PLANNING, SOFTWARE DEVELOPMENT, AND PROCUREMENT ACTIVITIES REQUIRED TO PREPARE THE MISSION OPERATIONS CENTER (MOC), SCIENCE DATA CENTER, AND SCIENCE OPERATIONS CENTER (SOC) TO SUPPORT MISSION OPERATIONS, SCIENCE DATA RETRIEVAL AND VALIDATION, AND DELIVERY OF VALIDATED DATA TO PUBLIC AREAS. 4. SUPPORT MISSION PLANNING ACTIVITIES IN PREPARATION FOR LAUNCH. 5. OVERSEE DAWN E/PO ACTIVITIES AND PARTICIPATE IN REGULAR MEETINGS OF THE DAWN E/PO PARTNERS. 6. LEAD THE INVESTIGATION IMPLEMENTATION TASKS. 7. DEVELOP THE DAWN SCIENCE DATA ANALYSIS AND ARCHIVE PLAN. 8. LEAD THE PREPARATION OF A PLAN FOR THE PUBLICATION OF DAWN SCIENTIFIC RESULTS IN REFERRED JOURNALS. 9. LEAD THE PREPARATION OF A PLAN FOR THE TIMELY DISSEMINATION OF DAWN DATA AND SCIENTIFIC FINDINGS. 10. WITHIN THE FIRST 30 DAYS AFTER LAUNCH, OVERSEE INITIAL ENGINEERING AND SCIENCE CHECKOUT AND VERIFICATION OF SPACECRAFT IN FLIGHT OPERATION INCLUDING ACTIVATION AND CHECKOUT OF THE PAYLOAD. 11. PROVIDE MANAGEMENT AND OVERSIGHT OF SUBCONTRACTS TO CO-INVESTIGATOR AND EDUCATION/PUBLIC OUTREACH TEAM MEMBER INSTITUTION FOR THEIR PARTICIPATION IN DAWN PROJECT. 12. CONTINUE DAILY MANAGEMENT AND ADMINISTRATION OF PHASE C/D IMPLEMENTATION ACTIVITIES. MONTHLY STATUS REPORTING ON ALL ASPECTS OF SCIENCE AND IMPLEMENTATION SHALL BE PERFORMED AND SUBMITTED TO THE DISCOVERY PROGRAM MANAGER ON TECHNICAL, SCHEDULE, AND FISCAL PROGRESS. PREPARATION AND PLANNING FOR PHASE E ACTIVITIES SHALL BE PERFORMED IN ACCORDANCE WITH THE PROJECT MASTER SCHEDULE, SUBCONTRACTING PLANS AND DOCUMENTATION, RISK ASSESSMENT LIST, AND DETAILED TASK DESCRIPTIONS AND COST ESTIMATED FOR PHASE E CONTRACTING.",
+    "total_obligation": 25395446.97,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2005-02-07",
+    "base_exercised_options": 26479097.6,
+    "base_and_all_options": 26479097.6,
+    "total_account_outlay": 0,
+    "total_account_obligation": -135176.03,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -135176.03
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": null,
+      "solicitation_procedures": "NP",
+      "number_of_offers_received": "1",
+      "extent_competed": "A",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "X",
+      "fed_biz_opps_description": "NOT APPLICABLE",
+      "small_business_competitive": false,
+      "product_or_service_code": "AR22",
+      "naics": "611310",
+      "naics_description": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "N",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": null,
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "Y",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "S",
+      "national_interest_action": null,
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "NEGOTIATED PROPOSAL/QUOTE",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "COMMERCIAL PRODUCTS/SERVICES PROCEDURES NOT USED",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "R\u0026D- SPACE: SCIENCE/APPLICATIONS (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NO",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": null,
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "0.00",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "YES",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "COST NO FEE",
+      "national_interest_action_description": null
+    },
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA MARSHALL SPACE FLIGHT CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA MARSHALL SPACE FLIGHT CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2004-12-09",
+      "end_date": "2019-06-30",
+      "last_modified_date": "2024-09-13",
+      "potential_end_date": "2019-06-30 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "parent_recipient_uei": "RN64EPNH8JC6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Category Business",
+        "Higher Education",
+        "Hospital",
+        "Higher Education (Minority Serving)",
+        "Not Designated a Small Business",
+        "Special Designations"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10920 WILSHIRE BLVD # 1200",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "32",
+        "zip4": "6523",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "32",
+      "zip4": "6523",
+      "zip5": "90024",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "A",
+        "description": "RESEARCH AND DEVELOPMENT"
+      },
+      "midtier_code": {
+        "code": "AR",
+        "description": "Space R\u0026D Services"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "AR22",
+        "description": "R\u0026D- SPACE: SCIENCE/APPLICATIONS (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "61",
+        "description": "Educational Services"
+      },
+      "midtier_code": {
+        "code": "6113",
+        "description": "Colleges, Universities, and Professional Schools"
+      },
+      "base_code": {
+        "code": "611310",
+        "description": "Colleges, Universities, and Professional Schools"
+      }
+    },
+    "total_outlay": 0
+  }
+}
