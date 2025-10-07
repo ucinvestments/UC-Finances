@@ -1,41 +1,51 @@
-# USASpending.gov Scraper ✅ COMPLETE
+# USASpending.gov Enhanced Scraper ✅ ENHANCED VERSION
 
-This Go application scrapes federal spending data related to University of California from the USASpending.gov API.
+This Go application scrapes comprehensive federal spending data related to University of California from the USASpending.gov API, including detailed award information and organized file storage.
 
-**Status**: ✅ Collection completed September 23, 2025
-**Total Records**: 16,760 awards across all federal spending categories
-**Data Size**: ~40.5MB total
+**Status**: ✅ Enhanced version with detailed data collection and hierarchical organization
+**Previous Collection**: 16,760 awards across all federal spending categories (Sept 23, 2025)
+**New Features**: Individual detailed award data + organized file structure
 
 ## Overview
 
-The scraper targets the `/api/v2/search/spending_by_award/` endpoint to collect comprehensive award data for University of California institutions from 2007 to present.
+The enhanced scraper combines two API endpoints:
+1. `/api/v2/search/spending_by_award/` - Collects comprehensive award listings
+2. `/api/v2/awards/{id}/` - Fetches detailed information for each individual award
 
-## Features
+## Enhanced Features
 
-- **Complete Data Collection**: Automatically paginates through all results
-- **Rate Limiting**: Includes 1-second delays between requests to be respectful to the API
-- **Comprehensive Fields**: Collects all available award metadata including:
-  - Award details (ID, amount, type, description)
-  - Recipient information (name, UEI, location)
-  - Performance location data
-  - Agency and sub-agency information
-  - NAICS and PSC classification codes
-  - COVID-19 and Infrastructure funding flags
-  - Timeline information (start/end dates)
+- **Two-Phase Data Collection**: 
+  - Phase 1: Collect all basic award data (search endpoint)
+  - Phase 2: Fetch detailed information for each award (detail endpoint)
+- **Complete Field Coverage**: Captures ALL available fields from both API responses
+- **Hierarchical Organization**: Organizes awards by `[Type]/[Recipient]/[Year]/[Agency]/[Award_ID].json`
+- **Rate Limiting**: Includes 1-second delays between requests to respect API limits
+- **Error Resilience**: Continues processing if individual detail fetches fail
+- **Comprehensive Details**: Includes contract specifics, agency hierarchies, executive compensation, business categories, and more
 
 ## Usage
 
 ```bash
-# Build the scraper
-go build -o usaspending-scraper main.go
+# Build the enhanced scraper
+go build -o usaspending-enhanced-scraper main.go
 
-# Run the scraper
-./usaspending-scraper
+# Run the enhanced scraper
+./usaspending-enhanced-scraper
 ```
 
-## Output
+## Enhanced Output Structure
 
-The scraper creates a JSON file named `uc_awards_YYYY-MM-DD.json` containing all collected award data.
+Instead of single JSON files per award type, awards are now organized hierarchically:
+
+```
+../Contracts/
+  └── THE_REGENTS_OF_THE_UNIVERSITY_OF_CALIFORNIA/
+      └── 2024/
+          └── Department_of_Energy/
+              └── CONT_AWD_DEAC0205CH11231_8900_-NONE-_-NONE-.json
+```
+
+Each JSON file contains both basic search data and detailed award information.
 
 ## Data Structure
 

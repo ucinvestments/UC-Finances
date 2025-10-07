@@ -9,6 +9,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
 	"time"
 )
 
@@ -99,6 +100,10 @@ type Award struct {
 	PrimeAwardRecipientID     string      `json:"prime_award_recipient_id"`
 	GeneratedInternalID       string      `json:"generated_internal_id"`
 
+	// Missing fields from search response
+	AwardingAgencyID int    `json:"awarding_agency_id"`
+	AgencySlug       string `json:"agency_slug"`
+
 	// Loan-specific fields
 	LoanValue     interface{} `json:"Loan Value"`
 	SubsidyCost   interface{} `json:"Subsidy Cost"`
@@ -118,6 +123,183 @@ type Award struct {
 type APIResponse struct {
 	Results      []Award      `json:"results"`
 	PageMetadata PageMetadata `json:"page_metadata"`
+}
+
+// Detailed Award Response Structures
+type AgencyInfo struct {
+	ID           int `json:"id"`
+	HasAgencyPage bool `json:"has_agency_page"`
+	ToptierAgency struct {
+		Name         string `json:"name"`
+		Code         string `json:"code"`
+		Abbreviation string `json:"abbreviation"`
+		Slug         string `json:"slug"`
+	} `json:"toptier_agency"`
+	SubtierAgency struct {
+		Name         string `json:"name"`
+		Code         string `json:"code"`
+		Abbreviation string `json:"abbreviation"`
+	} `json:"subtier_agency"`
+	OfficeAgencyName string `json:"office_agency_name"`
+}
+
+type PeriodOfPerformance struct {
+	StartDate         string `json:"start_date"`
+	EndDate           string `json:"end_date"`
+	LastModifiedDate  string `json:"last_modified_date"`
+	PotentialEndDate  string `json:"potential_end_date"`
+}
+
+type RecipientDetail struct {
+	RecipientHash         string   `json:"recipient_hash"`
+	RecipientName         string   `json:"recipient_name"`
+	RecipientUEI          string   `json:"recipient_uei"`
+	RecipientUniqueID     *string  `json:"recipient_unique_id"`
+	ParentRecipientHash   string   `json:"parent_recipient_hash"`
+	ParentRecipientName   string   `json:"parent_recipient_name"`
+	ParentRecipientUEI    string   `json:"parent_recipient_uei"`
+	ParentRecipientUniqueID *string `json:"parent_recipient_unique_id"`
+	BusinessCategories    []string `json:"business_categories"`
+	Location              Location `json:"location"`
+}
+
+type ExecutiveDetails struct {
+	Officers []struct {
+		Name   *string `json:"name"`
+		Amount *string `json:"amount"`
+	} `json:"officers"`
+}
+
+type HierarchyCode struct {
+	Code        string `json:"code"`
+	Description string `json:"description"`
+}
+
+type PSCHierarchy struct {
+	ToptierCode  HierarchyCode `json:"toptier_code"`
+	MidtierCode  HierarchyCode `json:"midtier_code"`
+	SubtierCode  interface{}   `json:"subtier_code"` // Can be empty
+	BaseCode     HierarchyCode `json:"base_code"`
+}
+
+type NAICSHierarchy struct {
+	ToptierCode HierarchyCode `json:"toptier_code"`
+	MidtierCode HierarchyCode `json:"midtier_code"`
+	BaseCode    HierarchyCode `json:"base_code"`
+}
+
+type ContractData struct {
+	IDVTypeDescription                               *string `json:"idv_type_description"`
+	TypeOfIDCDescription                             *string `json:"type_of_idc_description"`
+	ReferencedIDVAgencyIden                          *string `json:"referenced_idv_agency_iden"`
+	ReferencedIDVAgencyDesc                          *string `json:"referenced_idv_agency_desc"`
+	SolicitationIdentifier                           *string `json:"solicitation_identifier"`
+	SolicitationProcedures                           string  `json:"solicitation_procedures"`
+	NumberOfOffersReceived                           string  `json:"number_of_offers_received"`
+	ExtentCompeted                                   string  `json:"extent_competed"`
+	TypeSetAside                                     string  `json:"type_set_aside"`
+	TypeSetAsideDescription                          string  `json:"type_set_aside_description"`
+	EvaluatedPreference                              string  `json:"evaluated_preference"`
+	FedBizOpps                                       string  `json:"fed_biz_opps"`
+	FedBizOppsDescription                            string  `json:"fed_biz_opps_description"`
+	SmallBusinessCompetitive                         bool    `json:"small_business_competitive"`
+	ProductOrServiceCode                             string  `json:"product_or_service_code"`
+	NAICS                                            string  `json:"naics"`
+	NAICSDescription                                 string  `json:"naics_description"`
+	SeaTransportation                                *string `json:"sea_transportation"`
+	ClingerCohenActPlanning                          string  `json:"clinger_cohen_act_planning"`
+	LaborStandards                                   string  `json:"labor_standards"`
+	CostOrPricingData                                string  `json:"cost_or_pricing_data"`
+	DomesticOrForeignEntity                          *string `json:"domestic_or_foreign_entity"`
+	ForeignFunding                                   string  `json:"foreign_funding"`
+	MajorProgram                                     *string `json:"major_program"`
+	ProgramAcronym                                   *string `json:"program_acronym"`
+	SubcontractingPlan                               string  `json:"subcontracting_plan"`
+	MultiYearContract                                string  `json:"multi_year_contract"`
+	ConsolidatedContract                             string  `json:"consolidated_contract"`
+	TypeOfContractPricing                            string  `json:"type_of_contract_pricing"`
+	NationalInterestAction                           *string `json:"national_interest_action"`
+	MultipleOrSingleAwardDescription                 *string `json:"multiple_or_single_award_description"`
+	SolicitationProceduresDescription                string  `json:"solicitation_procedures_description"`
+	ExtentCompetedDescription                        string  `json:"extent_competed_description"`
+	OtherThanFullAndOpen                             *string `json:"other_than_full_and_open"`
+	OtherThanFullAndOpenDescription                  *string `json:"other_than_full_and_open_description"`
+	CommercialItemAcquisition                        string  `json:"commercial_item_acquisition"`
+	CommercialItemAcquisitionDescription             string  `json:"commercial_item_acquisition_description"`
+	CommercialItemTestProgram                        string  `json:"commercial_item_test_program"`
+	CommercialItemTestProgramDescription             string  `json:"commercial_item_test_program_description"`
+	EvaluatedPreferenceDescription                   string  `json:"evaluated_preference_description"`
+	FairOpportunityLimited                           *string `json:"fair_opportunity_limited"`
+	FairOpportunityLimitedDescription                *string `json:"fair_opportunity_limited_description"`
+	ProductOrServiceDescription                      string  `json:"product_or_service_description"`
+	DODClaimantProgram                               *string `json:"dod_claimant_program"`
+	DODClaimantProgramDescription                    *string `json:"dod_claimant_program_description"`
+	DODAcquisitionProgram                            *string `json:"dod_acquisition_program"`
+	DODAcquisitionProgramDescription                 *string `json:"dod_acquisition_program_description"`
+	InformationTechnologyCommercialItemCategory      *string `json:"information_technology_commercial_item_category"`
+	InformationTechnologyCommercialItemCategoryDescription *string `json:"information_technology_commercial_item_category_description"`
+	SeaTransportationDescription                     *string `json:"sea_transportation_description"`
+	ClingerCohenActPlanningDescription               string  `json:"clinger_cohen_act_planning_description"`
+	ConstructionWageRate                             string  `json:"construction_wage_rate"`
+	ConstructionWageRateDescription                  string  `json:"construction_wage_rate_description"`
+	LaborStandardsDescription                        string  `json:"labor_standards_description"`
+	MaterialsSupplies                                string  `json:"materials_supplies"`
+	MaterialsSuppliesDescription                     string  `json:"materials_supplies_description"`
+	CostOrPricingDataDescription                     string  `json:"cost_or_pricing_data_description"`
+	DomesticOrForeignEntityDescription               *string `json:"domestic_or_foreign_entity_description"`
+	ForeignFundingDescription                        string  `json:"foreign_funding_description"`
+	InteragencyContractingAuthority                  string  `json:"interagency_contracting_authority"`
+	InteragencyContractingAuthorityDescription       string  `json:"interagency_contracting_authority_description"`
+	PriceEvaluationAdjustment                        string  `json:"price_evaluation_adjustment"`
+	SubcontractingPlanDescription                    string  `json:"subcontracting_plan_description"`
+	MultiYearContractDescription                     string  `json:"multi_year_contract_description"`
+	PurchaseCardAsPaymentMethod                      string  `json:"purchase_card_as_payment_method"`
+	PurchaseCardAsPaymentMethodDescription           string  `json:"purchase_card_as_payment_method_description"`
+	ConsolidatedContractDescription                  string  `json:"consolidated_contract_description"`
+	TypeOfContractPricingDescription                 string  `json:"type_of_contract_pricing_description"`
+	NationalInterestActionDescription                *string `json:"national_interest_action_description"`
+}
+
+type AccountObligation struct {
+	Code   string  `json:"code"`
+	Amount float64 `json:"amount"`
+}
+
+type DetailedAwardResponse struct {
+	ID                      int                 `json:"id"`
+	GeneratedUniqueAwardID  string              `json:"generated_unique_award_id"`
+	PIID                    string              `json:"piid"`
+	Category                string              `json:"category"`
+	Type                    string              `json:"type"`
+	TypeDescription         string              `json:"type_description"`
+	Description             string              `json:"description"`
+	TotalObligation         float64             `json:"total_obligation"`
+	SubawardCount           int                 `json:"subaward_count"`
+	TotalSubawardAmount     *float64            `json:"total_subaward_amount"`
+	DateSigned              string              `json:"date_signed"`
+	BaseExercisedOptions    float64             `json:"base_exercised_options"`
+	BaseAndAllOptions       float64             `json:"base_and_all_options"`
+	TotalAccountOutlay      float64             `json:"total_account_outlay"`
+	TotalAccountObligation  float64             `json:"total_account_obligation"`
+	AccountOutlaysByDEFC    []AccountObligation `json:"account_outlays_by_defc"`
+	AccountObligationsByDEFC []AccountObligation `json:"account_obligations_by_defc"`
+	ParentAward             *string             `json:"parent_award"`
+	LatestTransactionContractData *ContractData `json:"latest_transaction_contract_data"`
+	FundingAgency           AgencyInfo          `json:"funding_agency"`
+	AwardingAgency          AgencyInfo          `json:"awarding_agency"`
+	PeriodOfPerformance     PeriodOfPerformance `json:"period_of_performance"`
+	Recipient               RecipientDetail     `json:"recipient"`
+	ExecutiveDetails        ExecutiveDetails    `json:"executive_details"`
+	PlaceOfPerformance      Location            `json:"place_of_performance"`
+	PSCHierarchy            PSCHierarchy        `json:"psc_hierarchy"`
+	NAICSHierarchy          NAICSHierarchy      `json:"naics_hierarchy"`
+	TotalOutlay             float64             `json:"total_outlay"`
+}
+
+// Combined structure that holds both basic and detailed award data
+type EnhancedAward struct {
+	BasicData    Award                 `json:"basic_data"`
+	DetailedData *DetailedAwardResponse `json:"detailed_data,omitempty"`
 }
 
 type Scraper struct {
@@ -292,6 +474,36 @@ func (s *Scraper) makeRequest(ctx context.Context, request APIRequest) (*APIResp
 	return &apiResponse, nil
 }
 
+func (s *Scraper) fetchDetailedAward(ctx context.Context, generatedInternalID string) (*DetailedAwardResponse, error) {
+	detailURL := fmt.Sprintf("https://api.usaspending.gov/api/v2/awards/%s/", generatedInternalID)
+	
+	req, err := http.NewRequestWithContext(ctx, "GET", detailURL, nil)
+	if err != nil {
+		return nil, fmt.Errorf("error creating detail request: %w", err)
+	}
+
+	req.Header.Set("User-Agent", "UC-Holdings-Scraper/1.0")
+	req.Header.Set("Accept", "application/json")
+
+	resp, err := s.client.Do(req)
+	if err != nil {
+		return nil, fmt.Errorf("error making detail request: %w", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		body, _ := io.ReadAll(resp.Body)
+		return nil, fmt.Errorf("detail API returned status %d: %s", resp.StatusCode, string(body))
+	}
+
+	var detailResponse DetailedAwardResponse
+	if err := json.NewDecoder(resp.Body).Decode(&detailResponse); err != nil {
+		return nil, fmt.Errorf("error decoding detail response: %w", err)
+	}
+
+	return &detailResponse, nil
+}
+
 func (s *Scraper) scrapeGroupData(ctx context.Context, groupName string, awardTypeCodes []string) ([]Award, error) {
 	var groupAwards []Award
 	page := 1
@@ -370,6 +582,164 @@ func (s *Scraper) scrapeAndSaveAllData(ctx context.Context) (int, error) {
 	return totalAwards, nil
 }
 
+func (s *Scraper) scrapeAndSaveEnhancedData(ctx context.Context) (int, error) {
+	totalAwards := 0
+	totalEnhanced := 0
+
+	log.Printf("Starting enhanced scraping: collecting basic data and detailed information...")
+
+	for groupName, awardTypeCodes := range awardTypeGroups {
+		log.Printf("Processing %s awards...", groupName)
+		
+		// Step 1: Collect basic award data
+		groupAwards, err := s.scrapeGroupData(ctx, groupName, awardTypeCodes)
+		if err != nil {
+			return 0, fmt.Errorf("error scraping %s: %w", groupName, err)
+		}
+		
+		totalAwards += len(groupAwards)
+		log.Printf("Collected %d basic %s awards. Now fetching detailed data...", len(groupAwards), groupName)
+
+		// Step 2: Fetch detailed data and save organized files
+		for i, award := range groupAwards {
+			select {
+			case <-ctx.Done():
+				return totalEnhanced, ctx.Err()
+			default:
+			}
+
+			if award.GeneratedInternalID == "" {
+				log.Printf("Skipping award %d/%d in %s: missing generated_internal_id", i+1, len(groupAwards), groupName)
+				continue
+			}
+
+			log.Printf("Fetching details for award %d/%d in %s: %s", i+1, len(groupAwards), groupName, award.GeneratedInternalID)
+
+			// Fetch detailed award data
+			detailedData, err := s.fetchDetailedAward(ctx, award.GeneratedInternalID)
+			if err != nil {
+				log.Printf("Warning: Failed to fetch details for %s: %v", award.GeneratedInternalID, err)
+				// Continue with basic data only
+				detailedData = nil
+			}
+
+			// Create enhanced award structure
+			enhancedAward := EnhancedAward{
+				BasicData:    award,
+				DetailedData: detailedData,
+			}
+
+			// Determine file organization
+			year := extractYearFromDate(award.StartDate)
+			if year == "unknown" && detailedData != nil {
+				year = extractYearFromDate(detailedData.DateSigned)
+			}
+
+			recipientName := award.RecipientName
+			if recipientName == "" {
+				recipientName = "Unknown_Recipient"
+			}
+
+			awardingAgency := award.AwardingAgency
+			if awardingAgency == "" && detailedData != nil {
+				awardingAgency = detailedData.AwardingAgency.ToptierAgency.Name
+			}
+			if awardingAgency == "" {
+				awardingAgency = "Unknown_Agency"
+			}
+
+			// Create organized file path
+			dirPath := createDirectoryPath(groupName, recipientName, year, awardingAgency)
+			fileName := fmt.Sprintf("%s.json", sanitizeFileName(award.GeneratedInternalID))
+			filePath := fmt.Sprintf("%s/%s", dirPath, fileName)
+
+			// Save enhanced award data
+			if err := saveEnhancedAwardToJSON(enhancedAward, filePath); err != nil {
+				log.Printf("Error saving award %s: %v", award.GeneratedInternalID, err)
+				continue
+			}
+
+			totalEnhanced++
+			
+			// Rate limiting between detail requests
+			time.Sleep(s.delay)
+		}
+
+		log.Printf("Completed %s: saved %d enhanced awards", groupName, len(groupAwards))
+
+		// Small delay between groups
+		time.Sleep(s.delay)
+	}
+
+	log.Printf("Enhanced scraping completed!")
+	log.Printf("Total basic awards collected: %d", totalAwards)
+	log.Printf("Total enhanced awards saved: %d", totalEnhanced)
+	return totalEnhanced, nil
+}
+
+// Utility functions for directory and file organization
+func sanitizeFileName(name string) string {
+	// Replace spaces and special characters with underscores
+	sanitized := strings.ReplaceAll(name, " ", "_")
+	sanitized = strings.ReplaceAll(sanitized, "/", "_")
+	sanitized = strings.ReplaceAll(sanitized, "\\", "_")
+	sanitized = strings.ReplaceAll(sanitized, ":", "_")
+	sanitized = strings.ReplaceAll(sanitized, "*", "_")
+	sanitized = strings.ReplaceAll(sanitized, "?", "_")
+	sanitized = strings.ReplaceAll(sanitized, "\"", "_")
+	sanitized = strings.ReplaceAll(sanitized, "<", "_")
+	sanitized = strings.ReplaceAll(sanitized, ">", "_")
+	sanitized = strings.ReplaceAll(sanitized, "|", "_")
+	return sanitized
+}
+
+func extractYearFromDate(dateStr string) string {
+	if dateStr == "" {
+		return "unknown"
+	}
+	// Handle various date formats
+	if len(dateStr) >= 4 {
+		return dateStr[:4]
+	}
+	return "unknown"
+}
+
+func createDirectoryPath(groupName, recipientName, year, awardingAgency string) string {
+	baseDir := directoryMapping[groupName]
+	if baseDir == "" {
+		baseDir = "../Other"
+	}
+	
+	sanitizedRecipient := sanitizeFileName(recipientName)
+	sanitizedAgency := sanitizeFileName(awardingAgency)
+	
+	return fmt.Sprintf("%s/%s/%s/%s", baseDir, sanitizedRecipient, year, sanitizedAgency)
+}
+
+func ensureDirectoryExists(dirPath string) error {
+	return os.MkdirAll(dirPath, 0755)
+}
+
+func saveEnhancedAwardToJSON(award EnhancedAward, filepath string) error {
+	if err := ensureDirectoryExists(filepath[:strings.LastIndex(filepath, "/")]); err != nil {
+		return fmt.Errorf("error creating directory: %w", err)
+	}
+
+	file, err := os.Create(filepath)
+	if err != nil {
+		return fmt.Errorf("error creating file: %w", err)
+	}
+	defer file.Close()
+
+	encoder := json.NewEncoder(file)
+	encoder.SetIndent("", "  ")
+	if err := encoder.Encode(award); err != nil {
+		return fmt.Errorf("error encoding JSON: %w", err)
+	}
+
+	return nil
+}
+
 func saveToJSON(data []Award, filename string) error {
 	file, err := os.Create(filename)
 	if err != nil {
@@ -391,14 +761,18 @@ func main() {
 
 	scraper := NewScraper()
 
-	totalAwards, err := scraper.scrapeAndSaveAllData(ctx)
+	log.Printf("Starting USASpending.gov Enhanced Scraper")
+	log.Printf("This will collect basic award data and detailed information for each award")
+	log.Printf("Awards will be organized by: [Award Type]/[Recipient]/[Year]/[Agency]/[Award ID].json")
+	
+	totalAwards, err := scraper.scrapeAndSaveEnhancedData(ctx)
 	if err != nil {
-		log.Fatalf("Error scraping data: %v", err)
+		log.Fatalf("Error scraping enhanced data: %v", err)
 	}
 
-	log.Printf("Successfully scraped %d awards across all award types", totalAwards)
-	log.Printf("Data saved to respective directories:")
+	log.Printf("Successfully scraped and saved %d enhanced awards", totalAwards)
+	log.Printf("Data organized in hierarchical directory structure:")
 	for groupName, directory := range directoryMapping {
-		log.Printf("  %s -> %s/", groupName, directory)
+		log.Printf("  %s -> %s/[Recipient]/[Year]/[Agency]/", groupName, directory)
 	}
 }
