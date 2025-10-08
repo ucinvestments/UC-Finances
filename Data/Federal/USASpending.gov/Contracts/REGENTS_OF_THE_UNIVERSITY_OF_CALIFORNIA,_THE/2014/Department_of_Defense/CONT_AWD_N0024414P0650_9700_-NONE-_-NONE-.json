@@ -1,0 +1,311 @@
+{
+  "basic_data": {
+    "internal_id": 130201375,
+    "Award ID": "N0024414P0650",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 5000,
+    "Total Outlays": null,
+    "Description": "IGF::OT::IGF TELEPHONE SERVICES",
+    "Contract Award Type": "PO",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "2150 SHATTUCK AVE RM 313",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": null,
+      "country_name": "UNITED STATES OF AMERICA",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": "94704"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES OF AMERICA",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "947045940",
+      "zip5": "94704"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Defense",
+    "Awarding Sub Agency": "Department of the Navy",
+    "Start Date": "2014-10-01",
+    "End Date": "2015-09-30",
+    "NAICS": {
+      "code": "517110",
+      "description": "WIRED TELECOMMUNICATIONS CARRIERS"
+    },
+    "PSC": {
+      "code": "D304",
+      "description": "IT AND TELECOM- TELECOMMUNICATIONS AND TRANSMISSION"
+    },
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_N0024414P0650_9700_-NONE-_-NONE-",
+    "awarding_agency_id": 1173,
+    "agency_slug": "department-of-defense",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 130201375,
+    "generated_unique_award_id": "CONT_AWD_N0024414P0650_9700_-NONE-_-NONE-",
+    "piid": "N0024414P0650",
+    "category": "contract",
+    "type": "B",
+    "type_description": "PO",
+    "description": "IGF::OT::IGF TELEPHONE SERVICES",
+    "total_obligation": 5000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2014-09-24",
+    "base_exercised_options": 5000,
+    "base_and_all_options": 5000,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": "NAN",
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": null,
+      "solicitation_procedures": "SP1",
+      "number_of_offers_received": "1",
+      "extent_competed": "G",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "X",
+      "fed_biz_opps_description": "NOT APPLICABLE",
+      "small_business_competitive": false,
+      "product_or_service_code": "D304",
+      "naics": "517110",
+      "naics_description": "WIRED TELECOMMUNICATIONS CARRIERS",
+      "sea_transportation": "N",
+      "clinger_cohen_act_planning": "N: NO",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "SIMPLIFIED ACQUISITION",
+      "extent_competed_description": "NOT COMPETED UNDER SAP",
+      "other_than_full_and_open": "SP2",
+      "other_than_full_and_open_description": "SAP NON-COMPETITION",
+      "commercial_item_acquisition": "A",
+      "commercial_item_acquisition_description": "",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": "NAN",
+      "product_or_service_description": "IT AND TELECOM- TELECOMMUNICATIONS AND TRANSMISSION",
+      "dod_claimant_program": "S1",
+      "dod_claimant_program_description": "SERVICES",
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": "E",
+      "information_technology_commercial_item_category_description": "COMMERCIAL SERVICE",
+      "sea_transportation_description": "NO",
+      "clinger_cohen_act_planning_description": "",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 1174,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Defense",
+        "code": "097",
+        "abbreviation": "DOD",
+        "slug": "department-of-defense"
+      },
+      "subtier_agency": {
+        "name": "Department of the Navy",
+        "code": "1700",
+        "abbreviation": "USN"
+      },
+      "office_agency_name": "NROTCU UC BERKELEY"
+    },
+    "awarding_agency": {
+      "id": 1174,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Defense",
+        "code": "097",
+        "abbreviation": "DOD",
+        "slug": "department-of-defense"
+      },
+      "subtier_agency": {
+        "name": "Department of the Navy",
+        "code": "1700",
+        "abbreviation": "USN"
+      },
+      "office_agency_name": "NAVSUP FLT LOG CTR  SAN DIEGO"
+    },
+    "period_of_performance": {
+      "start_date": "2014-10-01",
+      "end_date": "2015-09-30",
+      "last_modified_date": "2015-01-28",
+      "potential_end_date": "2015-09-30 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": "124726725",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "Special Designations",
+        "U.S.-Owned Business"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES OF AMERICA",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "2150 SHATTUCK AVE RM 313",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "94704",
+        "zip5": "94704",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES OF AMERICA",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "5940",
+      "zip5": "94704",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "D",
+        "description": "IT AND TELECOM - INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS"
+      },
+      "midtier_code": {
+        "code": "D3",
+        "description": "ADP AND TELECOMMUNICATIONS"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "D304",
+        "description": "IT AND TELECOM- TELECOMMUNICATIONS AND TRANSMISSION"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "51",
+        "description": "Information"
+      },
+      "midtier_code": {
+        "code": "5171",
+        "description": "Wired Telecommunications Carriers"
+      },
+      "base_code": {
+        "code": "517110",
+        "description": "Wired Telecommunications Carriers"
+      }
+    },
+    "total_outlay": 0
+  }
+}

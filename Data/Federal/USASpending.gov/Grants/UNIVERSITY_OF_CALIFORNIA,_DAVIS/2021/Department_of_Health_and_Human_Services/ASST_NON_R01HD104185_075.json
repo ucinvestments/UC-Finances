@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91204022,
+    "Award ID": "R01HD104185",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1754368,
+    "Total Outlays": 1524586.35,
+    "Description": "UNDERSTANDING THE DEVELOPMENT OF SOCIAL DISCONNECTION IN YOUTH - PROJECT SUMMARY SOCIAL DISCONNECTION AND LONELINESS SURGE IN ADOLESCENCE AND HAVE A NEGATIVE IMPACT ON YOUTH PHYSICAL AND MENTAL HEALTH. FURTHERMORE, SOCIAL DISCONNECTION DURING THIS LIFE STAGE PREDICTS DIFFICULTIES FORMING AND MAINTAINING RELATIONSHIPS IN ADULTHOOD, WITH SIMILARLY NEGATIVE CONSEQUENCES FOR ADULT PHYSICAL AND MENTAL HEALTH. A KEY UNDERLYING PROCESS FOR ADOLESCENTS’ RISK OF SOCIAL DISCONNECTION MAY BE THEIR HEIGHTENED BIOLOGICAL STRESS REACTIVITY. A MAJOR THEORY BY TAYLOR POSTULATED THAT THE STRESS RESPONSE CAN ACTIVATE TWO PRIMARY SOCIAL- BEHAVIORAL PROFILES, “FIGHT-OR-FLIGHT” (I.E., AN INCREASE IN CONFLICT OR SOCIAL WITHDRAWAL), OR “TEND-AND-BEFRIEND” (I.E., AN INCREASE IN PROSOCIAL AND AFFILIATIVE BEHAVIOR). HOWEVER, MOST PRIOR RESEARCH ON TAYLOR’S MODEL HAS BEEN WITH ADULTS, CREATING A GAP IN OUR UNDERSTANDING OF WHEN AND WHY THESE PROFILES EMERGE IN DEVELOPMENT, AND HOW BIOLOGY, PERSONALITY, AND SOCIAL RELATIONSHIPS CONTRIBUTE TO YOUTHS’ TENDENCIES TO RESPOND TO SOCIAL CHALLENGES WITH SOCIALLY DISTANCING VERSUS SOCIALLY ENGAGING BEHAVIORS. THE CURRENT PROJECT AIMS TO FILL THESE CRITICAL GAPS BY REVEALING THE BIOLOGICAL, PERSONALITY, AND RELATIONSHIP CHARACTERISTICS THAT DIFFERENTIATE THESE TWO SOCIAL-BEHAVIORAL STRESS PROFILES. TO MEET THIS OBJECTIVE, THE RESEARCH TEAM WILL UNDERTAKE TWO SPECIFIC AIMS. FIRST, THE TEAM WILL RECRUIT A NEW SAMPLE OF 280 ADOLESCENTS AGES 11-16 YEARS OLD TO COMPLETE A SOCIAL EVALUATION STRESSOR AND BIOBEHAVIORAL ASSESSMENTS IN THE LABORATORY, FOLLOWED BY PSYCHOSOCIAL ASSESSMENTS ONE YEAR LATER. THE TEAM WILL TEST THE ROLE OF SOCIAL RELATIONSHIPS, PERSONALITY, AND BIOLOGICAL CHARACTERISTICS (OXYTOCIN, ADRENOCORTICAL, AUTONOMIC, AND INFLAMMATORY ACTIVITY) IN DIFFERENTIATING “FIGHT-OR-FLIGHT” VERSUS “TEND-AND-BEFRIEND” PROFILES IN RESPONSE TO THE SOCIAL EVALUATION STRESSOR, AND PREDICT LONGITUDINAL CHANGE IN LONELINESS USING THESE PROFILES. FOR THE SECOND AIM, THE TEAM WILL CONDUCT NEW ANALYSES OF EXISTING DATA FROM A LONGITUDINAL STUDY OF 674 PREDOMINANTLY LOW-INCOME MEXICAN-ORIGIN HISPANIC YOUTH IN CALIFORNIA, WHO HAVE BEEN FOLLOWED FROM AGE 10 TO AGE 24. NEW ASSAYS OF STORED, FROZEN SAMPLES FOR OXYTOCIN WILL ALSO BE CONDUCTED IN A SUBSAMPLE OF 229 YOUTH FROM THIS STUDY WHO AT AGE 17 COMPLETED A SOCIAL EXCLUSION PROTOCOL WITH BIOLOGICAL ASSESSMENTS (ADRENOCORTICAL, AUTONOMIC, AND INFLAMMATORY ACTIVITY). THE SECOND AIM IS TO IDENTIFY THE PROSPECTIVE CONTRIBUTIONS OF SOCIAL RELATIONSHIPS AND PERSONALITY TO ADOLESCENTS’ “FIGHT-OR-FLIGHT” VERSUS “TEND-AND-BEFRIEND” PROFILES IN RESPONSE TO A SOCIAL EXCLUSION STRESSOR, AND USE THESE TWO PROFILES TO PREDICT CHANGE IN TIME SPENT ALONE LONGITUDINALLY. WITH THE FULL SAMPLE OF 674 MEXICAN-ORIGIN YOUTH, WE WILL TEST THAT RELATIONSHIP QUALITY AND YOUTH PERSONALITY WILL PREDICT INCREASED VERSUS DECREASED TIME SPENT ALONE DURING WAVES WHEN SCHOOL TRANSITIONS OCCUR. BY ACCOMPLISHING THESE AIMS, THIS PROJECT WILL DELIVER A MULTI-FACETED UNDERSTANDING OF HOW SOCIAL DISCONNECTION DEVELOPS AND IDENTIFY KEY BIOBEHAVIORAL TARGETS THAT CAN BE MODIFIED TO IMPROVE SOCIAL CONNECTEDNESS IN ADOLESCENCE AND BEYOND.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-08-01",
+    "End Date": "2026-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HD104185_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91204022,
+    "generated_unique_award_id": "ASST_NON_R01HD104185_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "UNDERSTANDING THE DEVELOPMENT OF SOCIAL DISCONNECTION IN YOUTH - PROJECT SUMMARY SOCIAL DISCONNECTION AND LONELINESS SURGE IN ADOLESCENCE AND HAVE A NEGATIVE IMPACT ON YOUTH PHYSICAL AND MENTAL HEALTH. FURTHERMORE, SOCIAL DISCONNECTION DURING THIS LIFE STAGE PREDICTS DIFFICULTIES FORMING AND MAINTAINING RELATIONSHIPS IN ADULTHOOD, WITH SIMILARLY NEGATIVE CONSEQUENCES FOR ADULT PHYSICAL AND MENTAL HEALTH. A KEY UNDERLYING PROCESS FOR ADOLESCENTS’ RISK OF SOCIAL DISCONNECTION MAY BE THEIR HEIGHTENED BIOLOGICAL STRESS REACTIVITY. A MAJOR THEORY BY TAYLOR POSTULATED THAT THE STRESS RESPONSE CAN ACTIVATE TWO PRIMARY SOCIAL- BEHAVIORAL PROFILES, “FIGHT-OR-FLIGHT” (I.E., AN INCREASE IN CONFLICT OR SOCIAL WITHDRAWAL), OR “TEND-AND-BEFRIEND” (I.E., AN INCREASE IN PROSOCIAL AND AFFILIATIVE BEHAVIOR). HOWEVER, MOST PRIOR RESEARCH ON TAYLOR’S MODEL HAS BEEN WITH ADULTS, CREATING A GAP IN OUR UNDERSTANDING OF WHEN AND WHY THESE PROFILES EMERGE IN DEVELOPMENT, AND HOW BIOLOGY, PERSONALITY, AND SOCIAL RELATIONSHIPS CONTRIBUTE TO YOUTHS’ TENDENCIES TO RESPOND TO SOCIAL CHALLENGES WITH SOCIALLY DISTANCING VERSUS SOCIALLY ENGAGING BEHAVIORS. THE CURRENT PROJECT AIMS TO FILL THESE CRITICAL GAPS BY REVEALING THE BIOLOGICAL, PERSONALITY, AND RELATIONSHIP CHARACTERISTICS THAT DIFFERENTIATE THESE TWO SOCIAL-BEHAVIORAL STRESS PROFILES. TO MEET THIS OBJECTIVE, THE RESEARCH TEAM WILL UNDERTAKE TWO SPECIFIC AIMS. FIRST, THE TEAM WILL RECRUIT A NEW SAMPLE OF 280 ADOLESCENTS AGES 11-16 YEARS OLD TO COMPLETE A SOCIAL EVALUATION STRESSOR AND BIOBEHAVIORAL ASSESSMENTS IN THE LABORATORY, FOLLOWED BY PSYCHOSOCIAL ASSESSMENTS ONE YEAR LATER. THE TEAM WILL TEST THE ROLE OF SOCIAL RELATIONSHIPS, PERSONALITY, AND BIOLOGICAL CHARACTERISTICS (OXYTOCIN, ADRENOCORTICAL, AUTONOMIC, AND INFLAMMATORY ACTIVITY) IN DIFFERENTIATING “FIGHT-OR-FLIGHT” VERSUS “TEND-AND-BEFRIEND” PROFILES IN RESPONSE TO THE SOCIAL EVALUATION STRESSOR, AND PREDICT LONGITUDINAL CHANGE IN LONELINESS USING THESE PROFILES. FOR THE SECOND AIM, THE TEAM WILL CONDUCT NEW ANALYSES OF EXISTING DATA FROM A LONGITUDINAL STUDY OF 674 PREDOMINANTLY LOW-INCOME MEXICAN-ORIGIN HISPANIC YOUTH IN CALIFORNIA, WHO HAVE BEEN FOLLOWED FROM AGE 10 TO AGE 24. NEW ASSAYS OF STORED, FROZEN SAMPLES FOR OXYTOCIN WILL ALSO BE CONDUCTED IN A SUBSAMPLE OF 229 YOUTH FROM THIS STUDY WHO AT AGE 17 COMPLETED A SOCIAL EXCLUSION PROTOCOL WITH BIOLOGICAL ASSESSMENTS (ADRENOCORTICAL, AUTONOMIC, AND INFLAMMATORY ACTIVITY). THE SECOND AIM IS TO IDENTIFY THE PROSPECTIVE CONTRIBUTIONS OF SOCIAL RELATIONSHIPS AND PERSONALITY TO ADOLESCENTS’ “FIGHT-OR-FLIGHT” VERSUS “TEND-AND-BEFRIEND” PROFILES IN RESPONSE TO A SOCIAL EXCLUSION STRESSOR, AND USE THESE TWO PROFILES TO PREDICT CHANGE IN TIME SPENT ALONE LONGITUDINALLY. WITH THE FULL SAMPLE OF 674 MEXICAN-ORIGIN YOUTH, WE WILL TEST THAT RELATIONSHIP QUALITY AND YOUTH PERSONALITY WILL PREDICT INCREASED VERSUS DECREASED TIME SPENT ALONE DURING WAVES WHEN SCHOOL TRANSITIONS OCCUR. BY ACCOMPLISHING THESE AIMS, THIS PROJECT WILL DELIVER A MULTI-FACETED UNDERSTANDING OF HOW SOCIAL DISCONNECTION DEVELOPS AND IDENTIFY KEY BIOBEHAVIORAL TARGETS THAT CAN BE MODIFIED TO IMPROVE SOCIAL CONNECTEDNESS IN ADOLESCENCE AND BEYOND.",
+    "total_obligation": 1754368,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-08-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1524586.35,
+    "total_account_obligation": 1754368,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1524586.35
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1754368
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2021-08-01",
+      "end_date": "2026-04-30",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1524586.35
+  }
+}

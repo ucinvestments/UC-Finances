@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56338355,
+    "Award ID": "20236801539269",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 999618,
+    "Total Outlays": 230396.33,
+    "Description": "AGRICULTURE ACCOUNTS FOR MORE THAN 80% OF THE NATION\u0026#39;S WATER CONSUMPTION. AS GLOBAL POPULATIONS GROW, MORE WATER WILL BE REQUIRED FOR AGRICULTURAL PRODUCTION. RECLAIMED WATER IS HIGHLY TREATED WASTEWATER THAT CAN BE REUSED FOR VARIOUS PURPOSES, INCLUDING AGRICULTURE AND LANDSCAPE IRRIGATION. USING RECLAIMED WATER FOR AGRICULTURE WILL FREE UP DRINKING WATER AND INCREASE OUR WATER SUPPLY RELIABILITY.CONVENTIONAL MUNICIPAL WASTEWATER TREATMENT PLANTS PRODUCE RECLAIMED WATER BY TREATING WASTEWATER. THESE TREATMENT PLANTS RECEIVE WASTEWATER CONTAINING VARIOUS POLLUTANTS, INCLUDING ANTIBIOTICS AND MICROORGANISMS. WHEN THESE MICROORGANISMS ARE EXPOSED TO ANTIBIOTICS, THEY CAN EVOLVE ANTIMICROBIAL RESISTANCE LEADING TO AN INCREASE IN ANTIBIOTIC-RESISTANCE GENES (ARGS), ANTIBIOTIC-RESISTANT BACTERIA (ARBS), AND MOBILE GENETIC ELEMENTS (MGES). ANTIBIOTICS, ARGS, ARBS, AND MGES, ARE COLLECTIVELY KNOWN AS ANTIBIOTIC RESISTANCE DETERMINANTS (ARDS). WASTEWATER TREATMENT PLANTS DO NOT ADEQUATELYREMOVE ARDS; THEREFORE, SUBSEQUENT POLISHING TO REMOVE THE ARDS FROM TREATED MUNICIPAL WASTEWATER IS DESIRABLE TO CURTAIL ANTIBIOTIC RESISTANCE IN AGRICULTURAL FIELDS IRRIGATED WITH RECLAIMED WATER AND THE ENVIRONMENT.OUR TEAM HAS DEVELOPED A NOVEL BIOCHAR-BASED LABORATORY-SCALE POLISHING SYSTEM THAT EFFICIENTLY REMOVES ANTIBIOTICS FROM RECLAIMED WATER. BIOCHARS ARE ORGANIC MATTER BURNT IN AN OXYGEN-STARVED ENVIRONMENT. THEY HAVE HIGH ADSORPTION POTENTIAL FOR ORGANIC COMPOUNDS AND CAN BE USED AS A COST-EFFECTIVE MATERIAL FOR FILTRATION. BIOCHARS PREPARED (ENGINEERED) FROM VARIOUS FEEDSTOCKS,PYROLYSIS TEMPERATURES, AND POST-PYROLYSIS MODIFICATIONS, HAVE DIFFERENT ANTIBIOTIC ADSORPTION PROPERTIES AND PHYSICOCHEMICAL CHARACTERISTICS. BASED ON THIS KNOWLEDGE, A BIOCHAR TYPE CAN BE DESIGNED FOR THE SPECIFIC ANTIBIOTIC COMPOUNDS FOUND INRECLAIMED WATER.IN THE CURRENT STUDY, WE PROPOSE DEVELOPING A LARGE-SCALE, HIGHLY-EFFECTIVE ANTIMICROBIAL RESISTANCE MITIGATION SYSTEM THAT INCORPORATES ENGINEERED BIOCHAR ADSORBENTS TAILORED TO SPECIFIC CONTAMINANTS IN RECLAIMED WATER. WE WILL ASSESS THE SYSTEM\u0026#39;S PERFORMANCE REGARDING REMOVING ARDS FROM TARGET RECLAIMED WATER. MOREOVER, WE WILL USE SUBSEQUENT POTTED EDIBLE PLANTS (E.G., SPINACH AND RADISH) GROWN UNDER GREENHOUSE CONDITIONS TO STUDY THE EFFECT OF RECLAIMED WATER ON ARD DISSEMINATION AND LINK TREATMENT SYSTEM EFFICACY TO ECOLOGICAL PARAMETERS INDICATIVE OF ANTIMICROBIAL MITIGATION. LASTLY, A PILOT-SCALE SYSTEM WILL BE DEVELOPED FOR COUPLING WITH A CONVENTIONAL FIELD-SCALE CROP IRRIGATION SYSTEM. THE PILOT BIOCHAR-BASED POLISHING SYSTEM WILL BE ASSESSED FOR PERFORMANCE IN REDUCING ANTIMICROBIAL RESISTANCE DISSEMINATION IN SOILS AND PLANTS IRRIGATED WITH RECLAIMED WATER. EXTENSION WORKSHOPS FOR FARMERS AND STAKEHOLDERS WILL BE CONDUCTED ON THE RISKS OF ANTIMICROBIAL RESISTANCE DISSEMINATION IN AGRICULTURE AND THEIR MITIGATION WITH OUR BIOCHAR-BASED POLISHING SYSTEMS. AT WORKSHOPS, WE WILL DEMONSTRATE THE BIOCHAR-BASED POL,ISHING SYSTEM FOR RECLAIMED WATER AND OUR FINDINGS ON REDUCING ANTIMICROBIAL RESISTANCE IN SOIL AND CROPS IRRIGATED WITH POLISHED RECLAIMED WATER. RISK ASSESSMENTS WILL ALSO BE CONDUCTED TO QUANTIFY THE EXTENT TO WHICH THE POLISHING SYSTEM REDUCES HUMAN EXPOSURE TO ANTIMICROBIAL RESISTANCE VIA THE FOOD CHAIN. THE WORK WILL ASSIST IN CURTAILING ANTIMICROBIAL RESISTANCE DISSEMINATION IN AGRICULTURE TO PROTECTHUMAN HEALTH AND THE ENVIRONMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2023-03-01",
+    "End Date": "2027-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20236801539269_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56338355,
+    "generated_unique_award_id": "ASST_NON_20236801539269_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AGRICULTURE ACCOUNTS FOR MORE THAN 80% OF THE NATION\u0026#39;S WATER CONSUMPTION. AS GLOBAL POPULATIONS GROW, MORE WATER WILL BE REQUIRED FOR AGRICULTURAL PRODUCTION. RECLAIMED WATER IS HIGHLY TREATED WASTEWATER THAT CAN BE REUSED FOR VARIOUS PURPOSES, INCLUDING AGRICULTURE AND LANDSCAPE IRRIGATION. USING RECLAIMED WATER FOR AGRICULTURE WILL FREE UP DRINKING WATER AND INCREASE OUR WATER SUPPLY RELIABILITY.CONVENTIONAL MUNICIPAL WASTEWATER TREATMENT PLANTS PRODUCE RECLAIMED WATER BY TREATING WASTEWATER. THESE TREATMENT PLANTS RECEIVE WASTEWATER CONTAINING VARIOUS POLLUTANTS, INCLUDING ANTIBIOTICS AND MICROORGANISMS. WHEN THESE MICROORGANISMS ARE EXPOSED TO ANTIBIOTICS, THEY CAN EVOLVE ANTIMICROBIAL RESISTANCE LEADING TO AN INCREASE IN ANTIBIOTIC-RESISTANCE GENES (ARGS), ANTIBIOTIC-RESISTANT BACTERIA (ARBS), AND MOBILE GENETIC ELEMENTS (MGES). ANTIBIOTICS, ARGS, ARBS, AND MGES, ARE COLLECTIVELY KNOWN AS ANTIBIOTIC RESISTANCE DETERMINANTS (ARDS). WASTEWATER TREATMENT PLANTS DO NOT ADEQUATELYREMOVE ARDS; THEREFORE, SUBSEQUENT POLISHING TO REMOVE THE ARDS FROM TREATED MUNICIPAL WASTEWATER IS DESIRABLE TO CURTAIL ANTIBIOTIC RESISTANCE IN AGRICULTURAL FIELDS IRRIGATED WITH RECLAIMED WATER AND THE ENVIRONMENT.OUR TEAM HAS DEVELOPED A NOVEL BIOCHAR-BASED LABORATORY-SCALE POLISHING SYSTEM THAT EFFICIENTLY REMOVES ANTIBIOTICS FROM RECLAIMED WATER. BIOCHARS ARE ORGANIC MATTER BURNT IN AN OXYGEN-STARVED ENVIRONMENT. THEY HAVE HIGH ADSORPTION POTENTIAL FOR ORGANIC COMPOUNDS AND CAN BE USED AS A COST-EFFECTIVE MATERIAL FOR FILTRATION. BIOCHARS PREPARED (ENGINEERED) FROM VARIOUS FEEDSTOCKS,PYROLYSIS TEMPERATURES, AND POST-PYROLYSIS MODIFICATIONS, HAVE DIFFERENT ANTIBIOTIC ADSORPTION PROPERTIES AND PHYSICOCHEMICAL CHARACTERISTICS. BASED ON THIS KNOWLEDGE, A BIOCHAR TYPE CAN BE DESIGNED FOR THE SPECIFIC ANTIBIOTIC COMPOUNDS FOUND INRECLAIMED WATER.IN THE CURRENT STUDY, WE PROPOSE DEVELOPING A LARGE-SCALE, HIGHLY-EFFECTIVE ANTIMICROBIAL RESISTANCE MITIGATION SYSTEM THAT INCORPORATES ENGINEERED BIOCHAR ADSORBENTS TAILORED TO SPECIFIC CONTAMINANTS IN RECLAIMED WATER. WE WILL ASSESS THE SYSTEM\u0026#39;S PERFORMANCE REGARDING REMOVING ARDS FROM TARGET RECLAIMED WATER. MOREOVER, WE WILL USE SUBSEQUENT POTTED EDIBLE PLANTS (E.G., SPINACH AND RADISH) GROWN UNDER GREENHOUSE CONDITIONS TO STUDY THE EFFECT OF RECLAIMED WATER ON ARD DISSEMINATION AND LINK TREATMENT SYSTEM EFFICACY TO ECOLOGICAL PARAMETERS INDICATIVE OF ANTIMICROBIAL MITIGATION. LASTLY, A PILOT-SCALE SYSTEM WILL BE DEVELOPED FOR COUPLING WITH A CONVENTIONAL FIELD-SCALE CROP IRRIGATION SYSTEM. THE PILOT BIOCHAR-BASED POLISHING SYSTEM WILL BE ASSESSED FOR PERFORMANCE IN REDUCING ANTIMICROBIAL RESISTANCE DISSEMINATION IN SOILS AND PLANTS IRRIGATED WITH RECLAIMED WATER. EXTENSION WORKSHOPS FOR FARMERS AND STAKEHOLDERS WILL BE CONDUCTED ON THE RISKS OF ANTIMICROBIAL RESISTANCE DISSEMINATION IN AGRICULTURE AND THEIR MITIGATION WITH OUR BIOCHAR-BASED POLISHING SYSTEMS. AT WORKSHOPS, WE WILL DEMONSTRATE THE BIOCHAR-BASED POL,ISHING SYSTEM FOR RECLAIMED WATER AND OUR FINDINGS ON REDUCING ANTIMICROBIAL RESISTANCE IN SOIL AND CROPS IRRIGATED WITH POLISHED RECLAIMED WATER. RISK ASSESSMENTS WILL ALSO BE CONDUCTED TO QUANTIFY THE EXTENT TO WHICH THE POLISHING SYSTEM REDUCES HUMAN EXPOSURE TO ANTIMICROBIAL RESISTANCE VIA THE FOOD CHAIN. THE WORK WILL ASSIST IN CURTAILING ANTIMICROBIAL RESISTANCE DISSEMINATION IN AGRICULTURE TO PROTECTHUMAN HEALTH AND THE ENVIRONMENT.",
+    "total_obligation": 999618,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-02-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 239130.46,
+    "total_account_obligation": 999618,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 239130.46
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 999618
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2023-03-01",
+      "end_date": "2027-02-28",
+      "last_modified_date": "2023-02-19",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 239130.46
+  }
+}

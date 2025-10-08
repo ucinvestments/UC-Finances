@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89093735,
+    "Award ID": "K01CA262351",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 832680,
+    "Total Outlays": 610455.67,
+    "Description": "DEFINING PARP INHIBITOR RESPONSE AND RESISTANCE IN PROSTATE CANCER - PROJECT SUMMARY/ABSTRACT THE OBJECTIVE OF THIS K01 AWARD IS TO PROMOTE THE DEVELOPMENT OF DR. ALAN LOMBARD INTO AN INDEPENDENT PROSTATE CANCER RESEARCHER. THE PROPOSED PROJECT WILL EXPAND UNDERSTANDING OF PARP INHIBITION FOR THE TREATMENT OF PROSTATE CANCER AND POSITION DR. LOMBARD, THE PRINCIPAL INVESTIGATOR, TO LAUNCH AN INDEPENDENT LINE OF STUDY. FURTHERMORE, INTENSE MENTORING AND FOCUSED TRAINING GOALS ARE DESCRIBED TO FACILITATE DR. LOMBARD'S TRANSITION FROM MENTEE TO INDEPENDENT INVESTIGATOR. ADVANCED PROSTATE CANCER REMAINS AN INCURABLE DISEASE. PARP INHIBITORS (PARPI), SUCH AS RUCAPARIB AND OLAPARIB, ARE AN EXCITING NEW THERAPY RECENTLY APPROVED FOR THE TREATMENT OF A SUBSET OF PATIENTS. IT IS THOUGHT THAT PARPI'S FUNCTION BY CAUSING DNA DAMAGE AND EXACERBATING HOMOLOGOUS RECOMBINATION DEFICIENCY TO ELICIT SYNTHETIC LETHALITY. WHILE PARP INHIBITION PROMISES TO SIGNIFICANTLY IMPROVE THE MANAGEMENT OF PROSTATE CANCER PATIENTS, QUESTIONS REMAIN REGARDING THEIR USE INCLUDING 1) HOW DO PARP INHIBITOR SENSITIVE PROSTATE TUMOR CELLS RESPOND TO TREATMENT AND 2) WHAT MECHANISMS WILL ULTIMATELY GIVE RISE TO PARP INHIBITOR RESISTANCE. TO ADDRESS THESE QUESTIONS, TWO OLAPARIB RESISTANT PROSTATE CANCER MODELS WERE DEVELOPED, LN-OLAPR AND 2B-OLAPR, USING THE PARPI SENSITIVE LNCAP AND C4-2B CELL LINES, RESPECTIVELY. OLAPR MODELS EXHIBIT ROBUST RESISTANCE TO OLAPARIB AND CROSS-RESISTANCE TO OTHER CLINICALLY RELEVANT PARPI'S. PRELIMINARY DATA SUGGESTS THAT PARPI SENSITIVE CELLS RESPOND TO TREATMENT NOT ONLY THROUGH CELL DEATH BUT ALSO THROUGH G2/M ARRESTED, P21 DEPENDENT SENESCENCE, WHICH MAY PROVIDE A REPOSITORY OF SURVIVING CELLS THAT EVADE PARPI CYTOTOXICITY AND GIVE RISE TO RESISTANCE. PARPI INDUCED SENESCENCE LEADS TO ACTIVATION OF THE SENESCENCE ASSOCIATED SECRETORY PHENOTYPE (SASP) WHICH PROMOTES MAINTENANCE OF SENESCENCE AND CELLULAR VIABILITY. INTERESTINGLY, OLAPR CELLS 1) DO NOT INCREASE P21 EXPRESSION, 2) DO NOT G2/M ARREST, AND 3) BLUNT SENESCENCE IN RESPONSE TO PARP INHIBITION, SUGGESTING THAT RESISTANCE IS PREDICATED UPON CELL CYCLE CHECKPOINT OVERRIDE, WHICH DATA SUGGESTS CAN BE TARGETED THROUGH INHIBITION OF CDK1. THE OBSERVATIONS LEAD TO THE HYPOTHESIS THAT PARPI INDUCED P21 DEPENDENT SENESCENCE IS OVERCOME IN RESISTANCE THROUGH CELL CYCLE CHECKPOINT OVERRIDE. IN AIM 1, STUDIES WILL DETERMINE WHETHER SENESCENCE IS A GENERAL RESPONSE TO PARPI'S AND MECHANISTICALLY DEFINE THE IMPORTANCE OF P21 IN THIS PHENOTYPE. IN AIM 2, CHARACTERIZATION OF THE PARPI INDUCED SASP WILL BE UNDERTAKEN, WITH EMPHASIS ON UNDERSTANDING THE ROLE OF IGFBP3, A KNOWN SASP FACTOR. LASTLY, AIM 3 WILL FURTHER DEVELOP THE STRATEGY OF TARGETING CDK1 FOR THE TREATMENT OF PARPI RESISTANT PROSTATE CANCER AND SEEK TO UNDERSTAND HOW RESISTANT CELLS OVERRIDE THE G2/M CHECKPOINT. THE ENVIRONMENT AT UC DAVIS IS REPLETE WITH ALL THE RESOURCES, EXPERTISE, AND FACULTY NEEDED TO FOSTER THE DEVELOPMENT OF DR. LOMBARD AND COMPLETION OF PROPOSED STUDIES. DR. LOMBARD WILL UNDERGO A NUMBER OF TRAINING ACTIVITIES, INCLUDING WORKSHOPS IN PROTEOMICS, GENOMICS, DISEASE MODELING, AND GRANT WRITING, AND WILL BE MENTORED BY AN EXPERT TEAM TO GUIDE HIM TO INDEPENDENCE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958171337",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-07-01",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K01CA262351_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89093735,
+    "generated_unique_award_id": "ASST_NON_K01CA262351_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DEFINING PARP INHIBITOR RESPONSE AND RESISTANCE IN PROSTATE CANCER - PROJECT SUMMARY/ABSTRACT THE OBJECTIVE OF THIS K01 AWARD IS TO PROMOTE THE DEVELOPMENT OF DR. ALAN LOMBARD INTO AN INDEPENDENT PROSTATE CANCER RESEARCHER. THE PROPOSED PROJECT WILL EXPAND UNDERSTANDING OF PARP INHIBITION FOR THE TREATMENT OF PROSTATE CANCER AND POSITION DR. LOMBARD, THE PRINCIPAL INVESTIGATOR, TO LAUNCH AN INDEPENDENT LINE OF STUDY. FURTHERMORE, INTENSE MENTORING AND FOCUSED TRAINING GOALS ARE DESCRIBED TO FACILITATE DR. LOMBARD'S TRANSITION FROM MENTEE TO INDEPENDENT INVESTIGATOR. ADVANCED PROSTATE CANCER REMAINS AN INCURABLE DISEASE. PARP INHIBITORS (PARPI), SUCH AS RUCAPARIB AND OLAPARIB, ARE AN EXCITING NEW THERAPY RECENTLY APPROVED FOR THE TREATMENT OF A SUBSET OF PATIENTS. IT IS THOUGHT THAT PARPI'S FUNCTION BY CAUSING DNA DAMAGE AND EXACERBATING HOMOLOGOUS RECOMBINATION DEFICIENCY TO ELICIT SYNTHETIC LETHALITY. WHILE PARP INHIBITION PROMISES TO SIGNIFICANTLY IMPROVE THE MANAGEMENT OF PROSTATE CANCER PATIENTS, QUESTIONS REMAIN REGARDING THEIR USE INCLUDING 1) HOW DO PARP INHIBITOR SENSITIVE PROSTATE TUMOR CELLS RESPOND TO TREATMENT AND 2) WHAT MECHANISMS WILL ULTIMATELY GIVE RISE TO PARP INHIBITOR RESISTANCE. TO ADDRESS THESE QUESTIONS, TWO OLAPARIB RESISTANT PROSTATE CANCER MODELS WERE DEVELOPED, LN-OLAPR AND 2B-OLAPR, USING THE PARPI SENSITIVE LNCAP AND C4-2B CELL LINES, RESPECTIVELY. OLAPR MODELS EXHIBIT ROBUST RESISTANCE TO OLAPARIB AND CROSS-RESISTANCE TO OTHER CLINICALLY RELEVANT PARPI'S. PRELIMINARY DATA SUGGESTS THAT PARPI SENSITIVE CELLS RESPOND TO TREATMENT NOT ONLY THROUGH CELL DEATH BUT ALSO THROUGH G2/M ARRESTED, P21 DEPENDENT SENESCENCE, WHICH MAY PROVIDE A REPOSITORY OF SURVIVING CELLS THAT EVADE PARPI CYTOTOXICITY AND GIVE RISE TO RESISTANCE. PARPI INDUCED SENESCENCE LEADS TO ACTIVATION OF THE SENESCENCE ASSOCIATED SECRETORY PHENOTYPE (SASP) WHICH PROMOTES MAINTENANCE OF SENESCENCE AND CELLULAR VIABILITY. INTERESTINGLY, OLAPR CELLS 1) DO NOT INCREASE P21 EXPRESSION, 2) DO NOT G2/M ARREST, AND 3) BLUNT SENESCENCE IN RESPONSE TO PARP INHIBITION, SUGGESTING THAT RESISTANCE IS PREDICATED UPON CELL CYCLE CHECKPOINT OVERRIDE, WHICH DATA SUGGESTS CAN BE TARGETED THROUGH INHIBITION OF CDK1. THE OBSERVATIONS LEAD TO THE HYPOTHESIS THAT PARPI INDUCED P21 DEPENDENT SENESCENCE IS OVERCOME IN RESISTANCE THROUGH CELL CYCLE CHECKPOINT OVERRIDE. IN AIM 1, STUDIES WILL DETERMINE WHETHER SENESCENCE IS A GENERAL RESPONSE TO PARPI'S AND MECHANISTICALLY DEFINE THE IMPORTANCE OF P21 IN THIS PHENOTYPE. IN AIM 2, CHARACTERIZATION OF THE PARPI INDUCED SASP WILL BE UNDERTAKEN, WITH EMPHASIS ON UNDERSTANDING THE ROLE OF IGFBP3, A KNOWN SASP FACTOR. LASTLY, AIM 3 WILL FURTHER DEVELOP THE STRATEGY OF TARGETING CDK1 FOR THE TREATMENT OF PARPI RESISTANT PROSTATE CANCER AND SEEK TO UNDERSTAND HOW RESISTANT CELLS OVERRIDE THE G2/M CHECKPOINT. THE ENVIRONMENT AT UC DAVIS IS REPLETE WITH ALL THE RESOURCES, EXPERTISE, AND FACULTY NEEDED TO FOSTER THE DEVELOPMENT OF DR. LOMBARD AND COMPLETION OF PROPOSED STUDIES. DR. LOMBARD WILL UNDERGO A NUMBER OF TRAINING ACTIVITIES, INCLUDING WORKSHOPS IN PROTEOMICS, GENOMICS, DISEASE MODELING, AND GRANT WRITING, AND WILL BE MENTORED BY AN EXPERT TEAM TO GUIDE HIM TO INDEPENDENCE.",
+    "total_obligation": 832680,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-06-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 610455.67,
+    "total_account_obligation": 832680,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 610455.67
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 832680
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2021-07-01",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "1337",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 610455.67
+  }
+}

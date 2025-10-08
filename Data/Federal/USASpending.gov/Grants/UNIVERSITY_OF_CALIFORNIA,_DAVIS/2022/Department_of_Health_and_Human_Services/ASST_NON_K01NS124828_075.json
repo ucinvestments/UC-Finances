@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89096946,
+    "Award ID": "K01NS124828",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 871280,
+    "Total Outlays": 650322.06,
+    "Description": "A NOVEL ROLE FOR NAV1.1 IN MAMMALIAN THERMOSENSATION - PROJECT SUMMARY. DETECTION OF COLD TEMPERATURES IS FUNDAMENTAL FOR SURVIVAL AND ALLOWS FOR AVOIDANCE OF HARMFUL ENVIRONMENTAL CONDITIONS THAT PRODUCE SKIN DAMAGE AND EVENTUALLY LEAD TO HYPOTHERMIA. DESPITE THE ESSENTIAL NATURE OF COLD SENSING, THE CELLULAR AND MOLECULAR MECHANISMS THAT TRANSMIT COLD INFORMATION IN PERIPHERAL DORSAL ROOT GANGLION (DRG) SENSORY NEURONS REMAIN POORLY DEFINED. MOREOVER, PERIPHERAL NERVE DAMAGE OFTEN RESULTS IN COLD ALLODYNIA, A HYPERSENSITIVITY TO MILDLY COLD TEMPERATURES, AND IT IS UNCLEAR WHETHER THE MECHANISMS THAT TRANSMIT INNOCUOUS COLD SIGNALS ARE HIGHJACKED OR IF CONVERSELY, SEPARATE SIGNALING PATHWAYS ARE ENGAGED. IN THIS PROPOSAL, WE WILL ADDRESS THESE CRITICAL QUESTIONS BY INVESTIGATING A NOVEL ROLE FOR THE VOLTAGE-GATED SODIUM CHANNEL, NAV1.1, IN TRANSMITTING COLD SIGNALS IN A PHYSIOLOGICAL CONTEXT, AS WELL AS DURING PAIN. PHARMACOLOGICAL INHIBITION OF NAV1.1 IN VITRO ROLE DRASTICALLY ATTENUATES ACTION POTENTIAL FIRING IN TRPM8-EXPRESSING NEURONS, PROVIDING EVIDENCE THAT NAV1.1 MAY BE CRITICAL FOR COLD-SENSING IN VIVO. WE HAVE DEVELOPED NEW MOUSE MODELS TO TEST THE CENTRAL HYPOTHESIS THAT NAV1.1 CHANNELS TRANSMIT COLD SIGNALS SPECIFICALLY IN TRPM8-EXPRESSING DRG NEURONS AND BECOME OVERACTIVE DURING PAIN STATES THAT PRODUCE COLD ALLODYNIA. WE WILL USE AN INNOVATIVE COMBINATION OF CONDITIONAL KNOCKOUT MOUSE LINES, DIVERSE SOMATOSENSORY BEHAVIORAL ASSAYS, AND MECHANISTIC PATCH-CLAMP ELECTROPHYSIOLOGICAL EXPERIMENTS FROM GENETICALLY IDENTIFIED COLD-SENSING NEURONS TO GENERATE FUNDAMENTAL INSIGHTS INTO PERIPHERAL MECHANISMS OF COLD TRANSMISSION IN BOTH HEALTH AND DISEASE. THIS WORK WILL ADVANCE OUR BASIC UNDERSTANDING OF MAMMALIAN THERMOSENSATION AND DEFINE A NEW ROLE FOR NAV1.1 IN PERIPHERAL NERVOUS SYSTEM FUNCTION. IMPORTANTLY, COMPLETION OF THE PROPOSED WORK IS A CRITICAL STEP TOWARDS MY LONG-TERM GOAL OF DEVELOPING A LEADING RESEARCH PROGRAM THAT TACKLES BASIC AND TRANSLATION QUESTIONS ABOUT HOW THE MAMMALIAN NERVOUS SYSTEM TRANSMITS AND ENCODES THERMAL SENSATIONS. TO ACCOMPLISH THIS GOAL, I HAVE DEVELOPED A DETAILED CAREER DEVELOPMENT PLAN THAT INCLUDES A MENTORSHIP COMMITTEE, A SCIENTIFIC ADVISORY COMMITTEE, AND TARGETED PROFESSIONAL DEVELOPMENT ACTIVITIES THAT WILL FOCUS ON: 1) GAINING EXPERTISE IN BEHAVIORAL ASSAYS AND PRECLINICAL PAIN PARADIGMS, 2) ACQUIRING ADVANCED BIOSTATISTICAL ANALYSIS SKILLS TO ENSURE RIGOROUS EXPERIMENTAL DESIGN, 3) REFINING MY WRITTEN AND ORAL SCIENTIFIC COMMUNICATION SKILLS, AND 4) LEARNING EFFECTIVE MENTORSHIP AND LAB MANAGEMENT. THE TRAINING RECEIVED UNDER THIS AWARD WILL UNIQUELY POISE ME TO DEVELOP A SUCCESSFUL RESEARCH PROGRAM IN THE FIELD OF SOMATOSENSORY NEUROSCIENCE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K01NS124828_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89096946,
+    "generated_unique_award_id": "ASST_NON_K01NS124828_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A NOVEL ROLE FOR NAV1.1 IN MAMMALIAN THERMOSENSATION - PROJECT SUMMARY. DETECTION OF COLD TEMPERATURES IS FUNDAMENTAL FOR SURVIVAL AND ALLOWS FOR AVOIDANCE OF HARMFUL ENVIRONMENTAL CONDITIONS THAT PRODUCE SKIN DAMAGE AND EVENTUALLY LEAD TO HYPOTHERMIA. DESPITE THE ESSENTIAL NATURE OF COLD SENSING, THE CELLULAR AND MOLECULAR MECHANISMS THAT TRANSMIT COLD INFORMATION IN PERIPHERAL DORSAL ROOT GANGLION (DRG) SENSORY NEURONS REMAIN POORLY DEFINED. MOREOVER, PERIPHERAL NERVE DAMAGE OFTEN RESULTS IN COLD ALLODYNIA, A HYPERSENSITIVITY TO MILDLY COLD TEMPERATURES, AND IT IS UNCLEAR WHETHER THE MECHANISMS THAT TRANSMIT INNOCUOUS COLD SIGNALS ARE HIGHJACKED OR IF CONVERSELY, SEPARATE SIGNALING PATHWAYS ARE ENGAGED. IN THIS PROPOSAL, WE WILL ADDRESS THESE CRITICAL QUESTIONS BY INVESTIGATING A NOVEL ROLE FOR THE VOLTAGE-GATED SODIUM CHANNEL, NAV1.1, IN TRANSMITTING COLD SIGNALS IN A PHYSIOLOGICAL CONTEXT, AS WELL AS DURING PAIN. PHARMACOLOGICAL INHIBITION OF NAV1.1 IN VITRO ROLE DRASTICALLY ATTENUATES ACTION POTENTIAL FIRING IN TRPM8-EXPRESSING NEURONS, PROVIDING EVIDENCE THAT NAV1.1 MAY BE CRITICAL FOR COLD-SENSING IN VIVO. WE HAVE DEVELOPED NEW MOUSE MODELS TO TEST THE CENTRAL HYPOTHESIS THAT NAV1.1 CHANNELS TRANSMIT COLD SIGNALS SPECIFICALLY IN TRPM8-EXPRESSING DRG NEURONS AND BECOME OVERACTIVE DURING PAIN STATES THAT PRODUCE COLD ALLODYNIA. WE WILL USE AN INNOVATIVE COMBINATION OF CONDITIONAL KNOCKOUT MOUSE LINES, DIVERSE SOMATOSENSORY BEHAVIORAL ASSAYS, AND MECHANISTIC PATCH-CLAMP ELECTROPHYSIOLOGICAL EXPERIMENTS FROM GENETICALLY IDENTIFIED COLD-SENSING NEURONS TO GENERATE FUNDAMENTAL INSIGHTS INTO PERIPHERAL MECHANISMS OF COLD TRANSMISSION IN BOTH HEALTH AND DISEASE. THIS WORK WILL ADVANCE OUR BASIC UNDERSTANDING OF MAMMALIAN THERMOSENSATION AND DEFINE A NEW ROLE FOR NAV1.1 IN PERIPHERAL NERVOUS SYSTEM FUNCTION. IMPORTANTLY, COMPLETION OF THE PROPOSED WORK IS A CRITICAL STEP TOWARDS MY LONG-TERM GOAL OF DEVELOPING A LEADING RESEARCH PROGRAM THAT TACKLES BASIC AND TRANSLATION QUESTIONS ABOUT HOW THE MAMMALIAN NERVOUS SYSTEM TRANSMITS AND ENCODES THERMAL SENSATIONS. TO ACCOMPLISH THIS GOAL, I HAVE DEVELOPED A DETAILED CAREER DEVELOPMENT PLAN THAT INCLUDES A MENTORSHIP COMMITTEE, A SCIENTIFIC ADVISORY COMMITTEE, AND TARGETED PROFESSIONAL DEVELOPMENT ACTIVITIES THAT WILL FOCUS ON: 1) GAINING EXPERTISE IN BEHAVIORAL ASSAYS AND PRECLINICAL PAIN PARADIGMS, 2) ACQUIRING ADVANCED BIOSTATISTICAL ANALYSIS SKILLS TO ENSURE RIGOROUS EXPERIMENTAL DESIGN, 3) REFINING MY WRITTEN AND ORAL SCIENTIFIC COMMUNICATION SKILLS, AND 4) LEARNING EFFECTIVE MENTORSHIP AND LAB MANAGEMENT. THE TRAINING RECEIVED UNDER THIS AWARD WILL UNIQUELY POISE ME TO DEVELOP A SUCCESSFUL RESEARCH PROGRAM IN THE FIELD OF SOMATOSENSORY NEUROSCIENCE.",
+    "total_obligation": 871280,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-07-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 650322.06,
+    "total_account_obligation": 871280,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 650322.06
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 871280
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 650322.06
+  }
+}

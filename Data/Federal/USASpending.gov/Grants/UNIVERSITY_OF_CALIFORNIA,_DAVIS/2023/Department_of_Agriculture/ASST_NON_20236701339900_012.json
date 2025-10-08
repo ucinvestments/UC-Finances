@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56337706,
+    "Award ID": "20236701339900",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 750000,
+    "Total Outlays": 249636.69,
+    "Description": "PLANT VIRUSES ENCODE MOVEMENT PROTEIN (MP) FOR CELL-TO-CELL MOVEMENT THAT PROMOTE SYSTEMIC INFECTION OF PLANTS. A RECENT OUTBREAK OF A NEW TOBAMOVIRUS, TOMATO BROWN RUGOSE FRUIT VIRUS (TOBRFV) THREATENS THE GLOBAL TOMATO INDUSTRY. TOBRFV OVERCOMES ALL KNOWN TOBAMOVIRUS RESISTANCES IN TOMATOES, INCLUDING THE DURABLE TM-2(2)-MEDIATED RESISTANCE. THE TM-2(2) RECOGNIZES TOBAMOVIRUS MP TO CONFER RESISTANCE. HOWEVER, TM-2(2) FAILS TO RECOGNIZE THE TOBRFV MP AND HENCE TOBRFV CAN CAUSE DISEASE.THE GOAL OF THIS PROJECT IS TO UNDERSTAND HOW MP OF TOBRFV CAUSES DISEASE. WE WILL DETERMINE ELEMENTS IN MP THAT BOTH REGULATE VIRAL MOVEMENT AND PROMOTE EVASION OF HOST IMMUNITY (OBJECTIVE 1). WE WILL CHARACTERIZE NOVEL MP-INTERACTING PROTEINS USING GENETIC, CELLULAR AND BIOCHEMICAL APPROACHES TO UNDERSTAND THEIR ROLE IN TOBAMOVIRUS PATHOGENESIS AND EVASION OF HOST IMMUNITY (OBJECTIVE 2). USING CRISPR/CAS9, WE WILL MUTATE GENES ENCODING MP INTERACTORS IN TOMATO AND TEST THEIR FUNCTION IN TOBAMOVIRUS RESISTANCE (OBJECTIVE 3).AT THE COMPLETION OF THE PROJECT, WE EXPECT TO GAIN FUNDAMENTAL INSIGHTS ON THE MECHANISMS UNDERLYING MP FUNCTION IN VIRAL PATHOGENESIS AND IMMUNITY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2023-05-01",
+    "End Date": "2026-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20236701339900_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56337706,
+    "generated_unique_award_id": "ASST_NON_20236701339900_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PLANT VIRUSES ENCODE MOVEMENT PROTEIN (MP) FOR CELL-TO-CELL MOVEMENT THAT PROMOTE SYSTEMIC INFECTION OF PLANTS. A RECENT OUTBREAK OF A NEW TOBAMOVIRUS, TOMATO BROWN RUGOSE FRUIT VIRUS (TOBRFV) THREATENS THE GLOBAL TOMATO INDUSTRY. TOBRFV OVERCOMES ALL KNOWN TOBAMOVIRUS RESISTANCES IN TOMATOES, INCLUDING THE DURABLE TM-2(2)-MEDIATED RESISTANCE. THE TM-2(2) RECOGNIZES TOBAMOVIRUS MP TO CONFER RESISTANCE. HOWEVER, TM-2(2) FAILS TO RECOGNIZE THE TOBRFV MP AND HENCE TOBRFV CAN CAUSE DISEASE.THE GOAL OF THIS PROJECT IS TO UNDERSTAND HOW MP OF TOBRFV CAUSES DISEASE. WE WILL DETERMINE ELEMENTS IN MP THAT BOTH REGULATE VIRAL MOVEMENT AND PROMOTE EVASION OF HOST IMMUNITY (OBJECTIVE 1). WE WILL CHARACTERIZE NOVEL MP-INTERACTING PROTEINS USING GENETIC, CELLULAR AND BIOCHEMICAL APPROACHES TO UNDERSTAND THEIR ROLE IN TOBAMOVIRUS PATHOGENESIS AND EVASION OF HOST IMMUNITY (OBJECTIVE 2). USING CRISPR/CAS9, WE WILL MUTATE GENES ENCODING MP INTERACTORS IN TOMATO AND TEST THEIR FUNCTION IN TOBAMOVIRUS RESISTANCE (OBJECTIVE 3).AT THE COMPLETION OF THE PROJECT, WE EXPECT TO GAIN FUNDAMENTAL INSIGHTS ON THE MECHANISMS UNDERLYING MP FUNCTION IN VIRAL PATHOGENESIS AND IMMUNITY.",
+    "total_obligation": 750000,
+    "subaward_count": 1,
+    "total_subaward_amount": 149600,
+    "date_signed": "2023-04-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 264902.73,
+    "total_account_obligation": 750000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 264902.73
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 750000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2023-05-01",
+      "end_date": "2026-04-30",
+      "last_modified_date": "2023-05-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 264902.73
+  }
+}

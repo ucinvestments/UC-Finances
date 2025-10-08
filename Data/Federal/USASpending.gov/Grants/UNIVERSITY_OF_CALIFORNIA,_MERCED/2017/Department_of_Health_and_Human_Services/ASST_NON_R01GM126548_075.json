@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91195779,
+    "Award ID": "R01GM126548",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, MERCED",
+    "Award Amount": 849096.99,
+    "Total Outlays": 73987.75,
+    "Description": "MATHEMATICAL STRATEGIES TO UNCOVER THE MOLECULAR BASIS OF PRION TRANSITIONS",
+    "Contract Award Type": "",
+    "Recipient UEI": "FFM7VPAG8P92",
+    "Recipient Location": {
+      "address_line1": "5200 N LAKE RD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "MERCED",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5001",
+      "zip5": "95343"
+    },
+    "Primary Place of Performance": {
+      "city_name": "MERCED",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "953435001",
+      "zip5": "95343"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2017-07-01",
+    "End Date": "2023-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "e5d977d0-85fb-65b4-d649-335857133b76-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01GM126548_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91195779,
+    "generated_unique_award_id": "ASST_NON_R01GM126548_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MATHEMATICAL STRATEGIES TO UNCOVER THE MOLECULAR BASIS OF PRION TRANSITIONS",
+    "total_obligation": 849096.99,
+    "subaward_count": 1,
+    "total_subaward_amount": 87498,
+    "date_signed": "2017-06-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 73987.75,
+    "total_account_obligation": -5147.01,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 73987.75
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -5147.01
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2017-07-01",
+      "end_date": "2023-03-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "e5d977d0-85fb-65b4-d649-335857133b76-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, MERCED",
+      "recipient_uei": "FFM7VPAG8P92",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "MERCED",
+        "county_code": "047",
+        "county_name": "MERCED",
+        "address_line1": "5200 N LAKE RD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "13",
+        "zip4": "5001",
+        "zip5": "95343",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "MERCED",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "13",
+      "zip4": "5001",
+      "zip5": "95343",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 73987.75
+  }
+}

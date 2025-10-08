@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173706799,
+    "Award ID": "R24AI191868",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 721721,
+    "Total Outlays": null,
+    "Description": "UCLA RAPID, RIGOROUS, RELEVANT IMPLEMENTATION SCIENCE HUB: LEVERAGING IMPLEMENTATION SCIENCE TO END THE HIV EPIDEMIC - MODIFIED PROJECT SUMMARY/ABSTRACT SECTION WITH ITS FOCUS ON DEVELOPING AND DEPLOYING EVIDENCE-BASED STRATEGIES INTO ROUTINE PRACTICE TO OPTIMIZE  HEALTHCARE VALUE AND POPULATION HEALTH, IMPLEMENTATION SCIENCE (IS) PLAYS A CROSS-CUTTING ROLE IN ENDING THE  HIV EPIDEMIC. MOVING SUBSTANTIAL INVESTMENTS IN HIV RESEARCH INTO IMPLEMENTATION IN RAPID, RIGOROUS, AND  RELEVANT (3R) WAYS IS CRITICAL. NOW ENTERING ITS FIFTH YEAR, THE UCLA RAPID, RIGOROUS, RELEVANT IMPLEMENTATION  SCIENCE HUB (UCLA 3R HUB) PROPOSES TO PROVIDE THE NIH AND THE COORDINATION, CONSULTATION, AND DATA  MANAGEMENT CENTER (CCDMC) WITH IS EXPERTISE AND, IN COLLABORATION WITH OTHER REGIONAL CONSULTATION HUBS  (RCHS), MEET THE DEMAND FOR EFFECTIVE AND EFFICIENT WAYS TO TRANSLATE HIV RESEARCH INTO PRACTICE. THE GOAL OF  THE UCLA 3R HUB IS TO PROVIDE LEADERSHIP, RESOURCES, AND SUPPORT FOR 3R HIV-RELATED IMPLEMENTATION RESEARCH  EMPHASIZING PRAGMATIC STUDY DESIGNS AND COMMUNITY-INVOLVED METHODS AND STRATEGIES TO IMPROVE HIV  OUTCOMES. OVER THE NEXT FIVE YEARS, IN RESPONSE TO CALLS TO INTEGRATE IS WITH QUALITY IMPROVEMENT (QI, A RAPID  AND ITERATIVE APPROACH TO CHANGE), THE UCLA 3R HUB WILL ALSO BUILD CAPACITY AT THE INTERSECTION OF IS AND  IMPROVEMENT SCIENCE (THE FOUNDATIONAL SCIENCE AND METHODS OF QI). OUR SPECIFIC AIMS ARE TO: 1) PROVIDE  TECHNICAL ASSISTANCE (TA), COACHING, AND CONSULTATION TO A DEFINED SET OF RESEARCH PROJECTS BY: A) OFFERING  EXPERT GUIDANCE AND SUPPORT TO INFORM PROJECT PLANNING, EXECUTION, EVALUATION, AND DISSEMINATION; B)  SUPPORTING THE PROJECTS WITH DATA HARMONIZATION AND REPORTING REQUIREMENTS; C) HIGHLIGHTING BEST PRACTICES THAT  WILL SUPPORT IMPLEMENTING AGENCIES; AND D) FOSTERING OPPORTUNITIES FOR COLLABORATION ACROSS RESEARCH TEAMS. 2)  COLLABORATE AND COORDINATE WITH THE CCDMC BY: A) COLLECTING SPECIFIED DATA FROM AWARDED PROJECTS; B)  CONDUCTING A SYSTEMATIC REVIEW OF PROMISING STRATEGIES IDENTIFIED IN PREVIOUS PROJECTS AND DEVELOPING EVIDENCE\u0002BASED POLICY/PRACTICE RECOMMENDATIONS; AND C) ENGAGING IN CROSS-NETWORK ACTIVITIES. 3) ENHANCE IS CAPACITY IN  THE INSTITUTIONAL, LOCAL, REGIONAL, AND NATIONAL HIV RESEARCH COMMUNITIES BY: A) DELIVERING BEACHSIDE CHATS AND  HIGH-QUALITY WORKSHOPS ON PRAGMATIC METHODS AND STRATEGIES; B) FOSTERING MULTIDISCIPLINARY, MULTI-INSTITUTIONAL  RESEARCH TEAMS; AND C) BUILDING A CENTRALIZED INFRASTRUCTURE AT UCLA TO ADVANCE HIGH-IMPACT IMPLEMENTATION  RESEARCH FOCUSED ON ENDING THE HIV EPIDEMIC AND RELATED CONDITIONS. 4) ENABLE LOCALLY DRIVEN SOLUTIONS TO  IMPLEMENTATION CHALLENGES THROUGH INTEGRATING IMPROVEMENT SCIENCE INTO OUR IS CAPACITY-BUILDING EFFORTS BY: A)  PROVIDING TRAINING AND MENTORING ON IMPROVEMENT SCIENCE METHODS, INCLUDING EVIDENCE-BASED QI (EBQI); AND  B) WORKING WITH PRACTITIONERS AND HEALTHCARE PARTNERS TO IDENTIFY OPPORTUNITIES FOR, AND TO DEMONSTRATE,  APPLICATION OF THESE METHODS. THE UCLA 3R HUB WILL BE LED BY AN OUTSTANDING CADRE OF IMPLEMENTATION  SCIENTISTS, IMPROVEMENT SCIENTISTS, AND HIV RESEARCHERS, ALL OF WHOM HAVE STRONG EXPERTISE IN PRIORITIZING HEALTH  EQUITY AND ENGAGING INVESTIGATORS AND PRACTITIONERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4200",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "900958353",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-08-01",
+    "End Date": "2030-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R24AI191868_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173706799,
+    "generated_unique_award_id": "ASST_NON_R24AI191868_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "UCLA RAPID, RIGOROUS, RELEVANT IMPLEMENTATION SCIENCE HUB: LEVERAGING IMPLEMENTATION SCIENCE TO END THE HIV EPIDEMIC - MODIFIED PROJECT SUMMARY/ABSTRACT SECTION WITH ITS FOCUS ON DEVELOPING AND DEPLOYING EVIDENCE-BASED STRATEGIES INTO ROUTINE PRACTICE TO OPTIMIZE  HEALTHCARE VALUE AND POPULATION HEALTH, IMPLEMENTATION SCIENCE (IS) PLAYS A CROSS-CUTTING ROLE IN ENDING THE  HIV EPIDEMIC. MOVING SUBSTANTIAL INVESTMENTS IN HIV RESEARCH INTO IMPLEMENTATION IN RAPID, RIGOROUS, AND  RELEVANT (3R) WAYS IS CRITICAL. NOW ENTERING ITS FIFTH YEAR, THE UCLA RAPID, RIGOROUS, RELEVANT IMPLEMENTATION  SCIENCE HUB (UCLA 3R HUB) PROPOSES TO PROVIDE THE NIH AND THE COORDINATION, CONSULTATION, AND DATA  MANAGEMENT CENTER (CCDMC) WITH IS EXPERTISE AND, IN COLLABORATION WITH OTHER REGIONAL CONSULTATION HUBS  (RCHS), MEET THE DEMAND FOR EFFECTIVE AND EFFICIENT WAYS TO TRANSLATE HIV RESEARCH INTO PRACTICE. THE GOAL OF  THE UCLA 3R HUB IS TO PROVIDE LEADERSHIP, RESOURCES, AND SUPPORT FOR 3R HIV-RELATED IMPLEMENTATION RESEARCH  EMPHASIZING PRAGMATIC STUDY DESIGNS AND COMMUNITY-INVOLVED METHODS AND STRATEGIES TO IMPROVE HIV  OUTCOMES. OVER THE NEXT FIVE YEARS, IN RESPONSE TO CALLS TO INTEGRATE IS WITH QUALITY IMPROVEMENT (QI, A RAPID  AND ITERATIVE APPROACH TO CHANGE), THE UCLA 3R HUB WILL ALSO BUILD CAPACITY AT THE INTERSECTION OF IS AND  IMPROVEMENT SCIENCE (THE FOUNDATIONAL SCIENCE AND METHODS OF QI). OUR SPECIFIC AIMS ARE TO: 1) PROVIDE  TECHNICAL ASSISTANCE (TA), COACHING, AND CONSULTATION TO A DEFINED SET OF RESEARCH PROJECTS BY: A) OFFERING  EXPERT GUIDANCE AND SUPPORT TO INFORM PROJECT PLANNING, EXECUTION, EVALUATION, AND DISSEMINATION; B)  SUPPORTING THE PROJECTS WITH DATA HARMONIZATION AND REPORTING REQUIREMENTS; C) HIGHLIGHTING BEST PRACTICES THAT  WILL SUPPORT IMPLEMENTING AGENCIES; AND D) FOSTERING OPPORTUNITIES FOR COLLABORATION ACROSS RESEARCH TEAMS. 2)  COLLABORATE AND COORDINATE WITH THE CCDMC BY: A) COLLECTING SPECIFIED DATA FROM AWARDED PROJECTS; B)  CONDUCTING A SYSTEMATIC REVIEW OF PROMISING STRATEGIES IDENTIFIED IN PREVIOUS PROJECTS AND DEVELOPING EVIDENCE\u0002BASED POLICY/PRACTICE RECOMMENDATIONS; AND C) ENGAGING IN CROSS-NETWORK ACTIVITIES. 3) ENHANCE IS CAPACITY IN  THE INSTITUTIONAL, LOCAL, REGIONAL, AND NATIONAL HIV RESEARCH COMMUNITIES BY: A) DELIVERING BEACHSIDE CHATS AND  HIGH-QUALITY WORKSHOPS ON PRAGMATIC METHODS AND STRATEGIES; B) FOSTERING MULTIDISCIPLINARY, MULTI-INSTITUTIONAL  RESEARCH TEAMS; AND C) BUILDING A CENTRALIZED INFRASTRUCTURE AT UCLA TO ADVANCE HIGH-IMPACT IMPLEMENTATION  RESEARCH FOCUSED ON ENDING THE HIV EPIDEMIC AND RELATED CONDITIONS. 4) ENABLE LOCALLY DRIVEN SOLUTIONS TO  IMPLEMENTATION CHALLENGES THROUGH INTEGRATING IMPROVEMENT SCIENCE INTO OUR IS CAPACITY-BUILDING EFFORTS BY: A)  PROVIDING TRAINING AND MENTORING ON IMPROVEMENT SCIENCE METHODS, INCLUDING EVIDENCE-BASED QI (EBQI); AND  B) WORKING WITH PRACTITIONERS AND HEALTHCARE PARTNERS TO IDENTIFY OPPORTUNITIES FOR, AND TO DEMONSTRATE,  APPLICATION OF THESE METHODS. THE UCLA 3R HUB WILL BE LED BY AN OUTSTANDING CADRE OF IMPLEMENTATION  SCIENTISTS, IMPROVEMENT SCIENTISTS, AND HIV RESEARCHERS, ALL OF WHOM HAVE STRONG EXPERTISE IN PRIORITIZING HEALTH  EQUITY AND ENGAGING INVESTIGATORS AND PRACTITIONERS.",
+    "total_obligation": 721721,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 721721,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 721721
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2030-07-31",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4200",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "8353",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

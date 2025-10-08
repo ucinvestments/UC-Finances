@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91204617,
+    "Award ID": "R01HD112362",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1927578,
+    "Total Outlays": 1183449.89,
+    "Description": "LEVERAGING TELEHEALTH TO IDENTIFY INFANTS AT ELEVATED LIKELIHOOD FOR AUTISM IN THE FIRST YEAR OF LIFE - PROJECT SUMMARY DESPITE MANY DECADES OF RESEARCH IN EARLY IDENTIFICATION OF AUTISM, THERE REMAIN LENGTHY GAPS BETWEEN PARENTS’ FIRST CONCERNS AND FORMAL DIAGNOSIS AND SUBSEQUENT ACCESS TO SPECIALIZED SERVICES. CHALLENGES IN REDUCING THIS GAP INCLUDE LONG WAITLISTS, LACK OF SPECIALIZED PROVIDERS IN MANY COMMUNITIES, AND THE LACK OF VALIDATED SCREENING TOOLS FOR INFANTS UNDER 18 MONTHS OF AGE. DUE TO METHODOLOGICAL CHALLENGES IN RECRUITING SUFFICIENT NUMBERS OF INFANTS WITH EARLY SPECIFIC CONCERN FOR AUTISM IN ANY ONE GEOGRAPHIC AREA, MOST STUDIES OF EARLY DEVELOPMENT HAVE FOCUSED ON INFANT SIBLINGS OF CHILDREN WITH AUTISM. TELEHEALTH OFFERS THE OPPORTUNITY TO EXPAND THE SCOPE OF EARLY IDENTIFICATION STUDIES AND CONDUCT THE CRUCIAL FOUNDATIONAL WORK NEEDED TO DETERMINE THE DEVELOPMENTAL TRAJECTORIES AND OUTCOMES OF INFANTS WITH EARLY DEVELOPMENTAL CONCERNS IN COMMUNITY SETTINGS THROUGHOUT THE UNITED STATES. WE HAVE PREVIOUSLY DEMONSTRATED THE INITIAL FEASIBILITY OF THIS APPROACH IN OUR PRELIMINARY WORK DEVELOPING THE TELEHEALTH EVALUATION OF DEVELOPMENT FOR INFANTS (TEDI; R21 HD100372 AND R21 HD 105161, PI TALBOTT). BEHAVIORAL MEASURES OBTAINED VIA TEDI ARE RELIABLE, VALID, AND HIGHLY SATISFACTORY TO FAMILIES. IMPORTANTLY, WE HAVE ALSO FOUND THAT THE MAJORITY OF INFANTS IN OUR SAMPLE HAVE ELEVATED SCORES ON EARLY MEASURES OF AUTISM TRAITS, DEVELOPMENTAL CHALLENGES IN COMMUNICATION, LANGUAGE, AND MOTOR SKILLS, AND ELEVATED LIKELIHOOD OF AUTISM RELATIVE TO GENERAL POPULATION NORMS. THIS PRELIMINARY WORK INDICATES THE NEED FOR MORE THOROUGH EXAMINATION OF THIS GROUP OF INFANTS. WE PROPOSE TO PROSPECTIVELY FOLLOW A GROUP OF 100 INFANTS AGES 6 – 12 MONTHS WITH EARLY PARENT CONCERNS. WE WILL EVALUATE THEM USING THE TEDI TELEHEALTH PROTOCOL AT FOUR VISITS EACH 3 MONTHS APART. AT 36 MONTHS, WE WILL CONDUCT AN OUTCOME VISIT VIA TELEHEALTH TO GENERATE CLINICAL BEST ESTIMATE OUTCOMES. THE PROJECT WILL ADDRESS 3 SPECIFIC AIMS. IN AIM 1, WE WILL DETERMINE THE PROPORTION AND PREDICTORS OF AUTISM OUTCOMES. UNDER AIM 2, WE SEEK TO CHARACTERIZE THE DEVELOPMENT OF A COMMUNITY-BASED SAMPLE OF INFANTS LATER DIAGNOSED WITH AUTISM BY EXAMINING DIFFERENCES IN DEVELOPMENTAL TRAJECTORIES BETWEEN OUTCOME GROUPS, AS WELL AS PREDICTORS OF DEVELOPMENTAL OUTCOMES ACROSS GROUPS. FINALLY, IN AIM 3, WE WILL IDENTIFY BEST PRACTICES FOR SUPPORTING FAMILY ENGAGEMENT AND SATISFACTION WITH TELEHEALTH-BASED ASSESSMENTS, AND THE CULTURAL APPROPRIATENESS OF THE TEDI FOR DIVERSE COMMUNITIES, WHICH WILL DIRECTLY SUPPORT THE IMPLEMENTATION OF TELEHEALTH SCREENING AND ASSESSMENT IN COMMUNITY SETTINGS BEYOND THE COVID-19 PANDEMIC. SUCCESSFUL COMPLETION OF THESE AIMS HAS THE POTENTIAL TO SIGNIFICANTLY INCREASE FAMILIES’ ACCESS TO SPECIALIZED EVALUATIONS AND INCREASE THE CAPACITY FOR EARLY IDENTIFICATION OF INFANTS IN NEED OF SERVICES. IT WILL ALSO LAY THE GROUNDWORK FOR FUTURE EFFORTS TO CONDUCT SCREENING AND INTERVENTION TRIALS AND MAY ULTIMATELY HELP TO INCREASE ACCESS TO HIGH-QUALITY INTERVENTIONS AND IMPROVE THE DEVELOPMENTAL OUTCOMES OF MANY MORE UNDERSERVED CHILDREN WITH AUTISM AND OTHER NDD’S.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172310",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-08-15",
+    "End Date": "2028-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HD112362_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91204617,
+    "generated_unique_award_id": "ASST_NON_R01HD112362_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "LEVERAGING TELEHEALTH TO IDENTIFY INFANTS AT ELEVATED LIKELIHOOD FOR AUTISM IN THE FIRST YEAR OF LIFE - PROJECT SUMMARY DESPITE MANY DECADES OF RESEARCH IN EARLY IDENTIFICATION OF AUTISM, THERE REMAIN LENGTHY GAPS BETWEEN PARENTS’ FIRST CONCERNS AND FORMAL DIAGNOSIS AND SUBSEQUENT ACCESS TO SPECIALIZED SERVICES. CHALLENGES IN REDUCING THIS GAP INCLUDE LONG WAITLISTS, LACK OF SPECIALIZED PROVIDERS IN MANY COMMUNITIES, AND THE LACK OF VALIDATED SCREENING TOOLS FOR INFANTS UNDER 18 MONTHS OF AGE. DUE TO METHODOLOGICAL CHALLENGES IN RECRUITING SUFFICIENT NUMBERS OF INFANTS WITH EARLY SPECIFIC CONCERN FOR AUTISM IN ANY ONE GEOGRAPHIC AREA, MOST STUDIES OF EARLY DEVELOPMENT HAVE FOCUSED ON INFANT SIBLINGS OF CHILDREN WITH AUTISM. TELEHEALTH OFFERS THE OPPORTUNITY TO EXPAND THE SCOPE OF EARLY IDENTIFICATION STUDIES AND CONDUCT THE CRUCIAL FOUNDATIONAL WORK NEEDED TO DETERMINE THE DEVELOPMENTAL TRAJECTORIES AND OUTCOMES OF INFANTS WITH EARLY DEVELOPMENTAL CONCERNS IN COMMUNITY SETTINGS THROUGHOUT THE UNITED STATES. WE HAVE PREVIOUSLY DEMONSTRATED THE INITIAL FEASIBILITY OF THIS APPROACH IN OUR PRELIMINARY WORK DEVELOPING THE TELEHEALTH EVALUATION OF DEVELOPMENT FOR INFANTS (TEDI; R21 HD100372 AND R21 HD 105161, PI TALBOTT). BEHAVIORAL MEASURES OBTAINED VIA TEDI ARE RELIABLE, VALID, AND HIGHLY SATISFACTORY TO FAMILIES. IMPORTANTLY, WE HAVE ALSO FOUND THAT THE MAJORITY OF INFANTS IN OUR SAMPLE HAVE ELEVATED SCORES ON EARLY MEASURES OF AUTISM TRAITS, DEVELOPMENTAL CHALLENGES IN COMMUNICATION, LANGUAGE, AND MOTOR SKILLS, AND ELEVATED LIKELIHOOD OF AUTISM RELATIVE TO GENERAL POPULATION NORMS. THIS PRELIMINARY WORK INDICATES THE NEED FOR MORE THOROUGH EXAMINATION OF THIS GROUP OF INFANTS. WE PROPOSE TO PROSPECTIVELY FOLLOW A GROUP OF 100 INFANTS AGES 6 – 12 MONTHS WITH EARLY PARENT CONCERNS. WE WILL EVALUATE THEM USING THE TEDI TELEHEALTH PROTOCOL AT FOUR VISITS EACH 3 MONTHS APART. AT 36 MONTHS, WE WILL CONDUCT AN OUTCOME VISIT VIA TELEHEALTH TO GENERATE CLINICAL BEST ESTIMATE OUTCOMES. THE PROJECT WILL ADDRESS 3 SPECIFIC AIMS. IN AIM 1, WE WILL DETERMINE THE PROPORTION AND PREDICTORS OF AUTISM OUTCOMES. UNDER AIM 2, WE SEEK TO CHARACTERIZE THE DEVELOPMENT OF A COMMUNITY-BASED SAMPLE OF INFANTS LATER DIAGNOSED WITH AUTISM BY EXAMINING DIFFERENCES IN DEVELOPMENTAL TRAJECTORIES BETWEEN OUTCOME GROUPS, AS WELL AS PREDICTORS OF DEVELOPMENTAL OUTCOMES ACROSS GROUPS. FINALLY, IN AIM 3, WE WILL IDENTIFY BEST PRACTICES FOR SUPPORTING FAMILY ENGAGEMENT AND SATISFACTION WITH TELEHEALTH-BASED ASSESSMENTS, AND THE CULTURAL APPROPRIATENESS OF THE TEDI FOR DIVERSE COMMUNITIES, WHICH WILL DIRECTLY SUPPORT THE IMPLEMENTATION OF TELEHEALTH SCREENING AND ASSESSMENT IN COMMUNITY SETTINGS BEYOND THE COVID-19 PANDEMIC. SUCCESSFUL COMPLETION OF THESE AIMS HAS THE POTENTIAL TO SIGNIFICANTLY INCREASE FAMILIES’ ACCESS TO SPECIALIZED EVALUATIONS AND INCREASE THE CAPACITY FOR EARLY IDENTIFICATION OF INFANTS IN NEED OF SERVICES. IT WILL ALSO LAY THE GROUNDWORK FOR FUTURE EFFORTS TO CONDUCT SCREENING AND INTERVENTION TRIALS AND MAY ULTIMATELY HELP TO INCREASE ACCESS TO HIGH-QUALITY INTERVENTIONS AND IMPROVE THE DEVELOPMENTAL OUTCOMES OF MANY MORE UNDERSERVED CHILDREN WITH AUTISM AND OTHER NDD’S.",
+    "total_obligation": 1927578,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-08-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1183449.89,
+    "total_account_obligation": 1927578,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1183449.89
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1927578
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2023-08-15",
+      "end_date": "2028-05-31",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2310",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1183449.89
+  }
+}

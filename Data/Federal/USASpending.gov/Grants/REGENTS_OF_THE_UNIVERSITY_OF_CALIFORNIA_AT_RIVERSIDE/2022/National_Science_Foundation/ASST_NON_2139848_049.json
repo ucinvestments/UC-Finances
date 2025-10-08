@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56634200,
+    "Award ID": "2139848",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 667306,
+    "Total Outlays": 437200.13,
+    "Description": "ATMOSPHERIC CHEMISTRY OF METHYLATED SELENIUM COMPOUNDS AND PHYSICOCHEMICAL PROPERTIES OF THE RESULTING AEROSOLS -THIS PROJECT INVOLVES THE STUDY OF THE FATE AND DISTRIBUTION OF ATMOSPHERIC SELENIUM (SE). AN ENVIRONMENTAL CHAMBER WILL BE USED TO QUANTIFY THE FORMATION OF SECONDARY ORGANIC AEROSOL FROM SELENIUM (SE)-CONTAINING ORGANIC COMPOUNDS AND DETERMINE THE MAJOR GAS AND AEROSOL PRODUCTS GENERATED USING A SUITE OF ONLINE AND OFFLINE INSTRUMENTATION. THE RESULTS OBTAINED FROM THIS PROJECT WILL IMPROVE THE UNDERSTANDING OF HOW LONG-TERM EXPOSURE TO ORGANIC SE COMPOUNDS, ESPECIALLY IN AREAS WITH SE-RICH SOILS AND SEDIMENTS SUCH AS AGRICULTURAL VALLEYS IN THE WESTERN US, MIGHT NEGATIVELY INFLUENCE PUBLIC HEALTH. SYSTEMATIC STUDIES OF GAS AND AQUEOUS PHASE OXIDATION OF SEVERAL METHYLATED SE COMPOUNDS WILL BE CONDUCTED UNDER VARIABLE NITROGEN OXIDE LEVELS USING VARIOUS OXIDANTS (OH, NO3 AND O3) AND OXIDATION TIME SCALES. THE OBJECTIVES OF THIS RESEARCH ARE TO DEVELOP AN IMPROVED UNDERSTANDING OF SECONDARY AEROSOL FORMATION FROM GAS AND AQUEOUS PHASE OXIDATION OF SELECTED METHYLATED SE SPECIES AND IMPROVE KNOWLEDGE ABOUT THE CHEMICAL AND MICROPHYSICAL PROPERTIES OF THE RESULTING AEROSOLS THAT CONTROL THE IMPACTS ON HUMAN HEALTH AND ENVIRONMENTAL CHEMISTRY. THE HYPOTHESES INCLUDE THE FOLLOWING: (1) PHOTOOXIDATION AND NITRATE RADICAL OXIDATION OF THE SELECTED ORGANOSELENIUM COMPOUNDS LEAD TO SIGNIFICANT SECONDARY AEROSOL FORMATION AND THE FORMATION YIELDS ARE NOX-DEPENDENT; THE YIELD OF THE NITRATE OXIDATION PATHWAY IS EXPECTED TO BE LIKE THAT OF PHOTOOXIDATION IN THE PRESENCE OF HIGH NOX; (2) LONG OXIDATION TIMES LEAD TO SIGNIFICANT FRAGMENTATION OF THE PRODUCTS AND, THEREFORE, A REDUCTION IN SECONDARY AEROSOL MASS; AND (3) AQUEOUS PHASE OXIDATION OF METHYLATED SE INTERMEDIATE OXIDATION PRODUCTS UNDER LOW NOX CONDITIONS LEADS TO FORMATION OF SE-CONTAINING SECONDARY AEROSOL SPECIES AND A HIGHER CONCENTRATION OF HYDROPEROXIDES, WHICH RESULTS IN THE INCREASED PRODUCTION OF REACTIVE OXYGEN SPECIES. THIS EFFORT INVOLVES THE TRAINING AND MENTORING OF SEVERAL GRADUATE AND UNDERGRADUATE STUDENTS AND INCLUDES OUTREACH AND EDUCATIONAL ACTIVITIES AT LOCAL HIGH SCHOOLS AND MIDDLE SCHOOLS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "900 UNIVERSITY AVE",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "9800",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-04-01",
+    "End Date": "2025-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2139848_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56634200,
+    "generated_unique_award_id": "ASST_NON_2139848_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ATMOSPHERIC CHEMISTRY OF METHYLATED SELENIUM COMPOUNDS AND PHYSICOCHEMICAL PROPERTIES OF THE RESULTING AEROSOLS -THIS PROJECT INVOLVES THE STUDY OF THE FATE AND DISTRIBUTION OF ATMOSPHERIC SELENIUM (SE). AN ENVIRONMENTAL CHAMBER WILL BE USED TO QUANTIFY THE FORMATION OF SECONDARY ORGANIC AEROSOL FROM SELENIUM (SE)-CONTAINING ORGANIC COMPOUNDS AND DETERMINE THE MAJOR GAS AND AEROSOL PRODUCTS GENERATED USING A SUITE OF ONLINE AND OFFLINE INSTRUMENTATION. THE RESULTS OBTAINED FROM THIS PROJECT WILL IMPROVE THE UNDERSTANDING OF HOW LONG-TERM EXPOSURE TO ORGANIC SE COMPOUNDS, ESPECIALLY IN AREAS WITH SE-RICH SOILS AND SEDIMENTS SUCH AS AGRICULTURAL VALLEYS IN THE WESTERN US, MIGHT NEGATIVELY INFLUENCE PUBLIC HEALTH. SYSTEMATIC STUDIES OF GAS AND AQUEOUS PHASE OXIDATION OF SEVERAL METHYLATED SE COMPOUNDS WILL BE CONDUCTED UNDER VARIABLE NITROGEN OXIDE LEVELS USING VARIOUS OXIDANTS (OH, NO3 AND O3) AND OXIDATION TIME SCALES. THE OBJECTIVES OF THIS RESEARCH ARE TO DEVELOP AN IMPROVED UNDERSTANDING OF SECONDARY AEROSOL FORMATION FROM GAS AND AQUEOUS PHASE OXIDATION OF SELECTED METHYLATED SE SPECIES AND IMPROVE KNOWLEDGE ABOUT THE CHEMICAL AND MICROPHYSICAL PROPERTIES OF THE RESULTING AEROSOLS THAT CONTROL THE IMPACTS ON HUMAN HEALTH AND ENVIRONMENTAL CHEMISTRY. THE HYPOTHESES INCLUDE THE FOLLOWING: (1) PHOTOOXIDATION AND NITRATE RADICAL OXIDATION OF THE SELECTED ORGANOSELENIUM COMPOUNDS LEAD TO SIGNIFICANT SECONDARY AEROSOL FORMATION AND THE FORMATION YIELDS ARE NOX-DEPENDENT; THE YIELD OF THE NITRATE OXIDATION PATHWAY IS EXPECTED TO BE LIKE THAT OF PHOTOOXIDATION IN THE PRESENCE OF HIGH NOX; (2) LONG OXIDATION TIMES LEAD TO SIGNIFICANT FRAGMENTATION OF THE PRODUCTS AND, THEREFORE, A REDUCTION IN SECONDARY AEROSOL MASS; AND (3) AQUEOUS PHASE OXIDATION OF METHYLATED SE INTERMEDIATE OXIDATION PRODUCTS UNDER LOW NOX CONDITIONS LEADS TO FORMATION OF SE-CONTAINING SECONDARY AEROSOL SPECIES AND A HIGHER CONCENTRATION OF HYDROPEROXIDES, WHICH RESULTS IN THE INCREASED PRODUCTION OF REACTIVE OXYGEN SPECIES. THIS EFFORT INVOLVES THE TRAINING AND MENTORING OF SEVERAL GRADUATE AND UNDERGRADUATE STUDENTS AND INCLUDES OUTREACH AND EDUCATIONAL ACTIVITIES AT LOCAL HIGH SCHOOLS AND MIDDLE SCHOOLS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 667306,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-02-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 437200.13,
+    "total_account_obligation": 667306,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 437200.13
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 667306
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ATMOSPHERIC AND"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ATMOSPHERIC AND"
+    },
+    "period_of_performance": {
+      "start_date": "2022-04-01",
+      "end_date": "2025-03-31",
+      "last_modified_date": "2022-03-02",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": "627797426",
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "900 UNIVERSITY AVE",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "9800",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 437200.13
+  }
+}

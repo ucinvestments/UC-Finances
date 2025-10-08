@@ -70,5 +70,253 @@
     "pop_city_name": "",
     "pop_state_code": "",
     "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 126713202,
+    "generated_unique_award_id": "CONT_AWD_HHSA29000002_7528_HHSA290200600023I_7528",
+    "piid": "HHSA29000002",
+    "category": "contract",
+    "type": "C",
+    "type_description": "DO",
+    "description": "OTHER ADMINISTRATIVE SUPPORT SVCS",
+    "total_obligation": 199230.81,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2006-11-27",
+    "base_exercised_options": 199230.81,
+    "base_and_all_options": 199230.81,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": {
+      "agency_id": 806,
+      "agency_name": "Department of Health and Human Services",
+      "agency_slug": "department-of-health-and-human-services",
+      "award_id": 169301620,
+      "generated_unique_award_id": "CONT_IDV_HHSA290200600023I_7528",
+      "idv_type_description": "IDC",
+      "multiple_or_single_aw_desc": "MULTIPLE AWARD",
+      "piid": "HHSA290200600023I",
+      "sub_agency_id": "7528",
+      "sub_agency_name": "Agency for Healthcare Research and Quality",
+      "type_of_idc_description": "INDEFINITE DELIVERY / INDEFINITE QUANTITY"
+    },
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": "NAN",
+      "referenced_idv_agency_iden": "7528",
+      "referenced_idv_agency_desc": "AGENCY FOR HEALTHCARE RESEARCH AND QUALITY",
+      "solicitation_identifier": null,
+      "solicitation_procedures": "NP",
+      "number_of_offers_received": "24",
+      "extent_competed": "CDO",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "Y",
+      "fed_biz_opps_description": "YES",
+      "small_business_competitive": false,
+      "product_or_service_code": "R699",
+      "naics": "541611",
+      "naics_description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N: NO",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": null,
+      "foreign_funding": "B",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "S",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "NEGOTIATED PROPOSAL/QUOTE",
+      "extent_competed_description": "COMPETITIVE DELIVERY ORDER",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": "NAN",
+      "product_or_service_description": "SUPPORT- ADMINISTRATIVE: OTHER",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": "F",
+      "information_technology_commercial_item_category_description": "NON-COMMERCIAL SERVICE",
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": null,
+      "foreign_funding_description": "FOREIGN FUNDS NON-FMS",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "COST NO FEE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 829,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Agency for Healthcare Research and Quality",
+        "code": "7528",
+        "abbreviation": "AHRQ"
+      },
+      "office_agency_name": "PHS AHRQ, HHS, ROCKVILLE, MD"
+    },
+    "awarding_agency": {
+      "id": 829,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Agency for Healthcare Research and Quality",
+        "code": "7528",
+        "abbreviation": "AHRQ"
+      },
+      "office_agency_name": "PHS AHRQ, HHS, ROCKVILLE, MD"
+    },
+    "period_of_performance": {
+      "start_date": "2006-12-01",
+      "end_date": "2009-02-04",
+      "last_modified_date": "2015-08-01",
+      "potential_end_date": "2009-02-04 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "recipient_uei": "KMH5K9V7S518",
+      "recipient_unique_id": "094878337",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Government",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES OF AMERICA",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN FRANCISCO",
+        "county_code": "075",
+        "county_name": "SAN FRANCISCO",
+        "address_line1": "1855 FOLSOM ST STE 425",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "11",
+        "zip4": "94103",
+        "zip5": "94103",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES OF AMERICA",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN FRANCISCO",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "11",
+      "zip4": "6215",
+      "zip5": "94118",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "R",
+        "description": "SUPPORT SVCS (PROF, ADMIN, MGMT)"
+      },
+      "midtier_code": {
+        "code": "R6",
+        "description": "ADMINISTRATIVE SUPPORT SERVICES"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "R699",
+        "description": "SUPPORT- ADMINISTRATIVE: OTHER"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5416",
+        "description": "Management, Scientific, and Technical Consulting Services"
+      },
+      "base_code": {
+        "code": "541611",
+        "description": "Administrative Management and General Management Consulting Services"
+      }
+    },
+    "total_outlay": 0
   }
 }

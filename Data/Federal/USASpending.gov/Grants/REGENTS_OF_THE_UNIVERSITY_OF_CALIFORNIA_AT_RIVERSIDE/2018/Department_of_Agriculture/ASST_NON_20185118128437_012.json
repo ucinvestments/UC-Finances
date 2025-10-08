@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56302625,
+    "Award ID": "20185118128437",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 4031294,
+    "Total Outlays": 3637389.34,
+    "Description": "WALNUTS ARE AN IMPORTANT PART OF THE ECONOMY OF CALIFORNIA AND REPRESENT A 2 BILLION DOLLAR A YEAR INDUSTRY IN THE U.S.A. MULTIPLE SOIL-BORNE PESTS AND PATHOGENS ALONG WITH NUMEROUS ABIOTIC STRESSES IMPACT THIS CROP NEGATIVELY. SUSTAINABILITY-ENCUMBERING CULPRITS INCLUDE: BLACK LINE DISEASE, CROWN GALL, PHYTOPHTHORA ROOT AND CROWN ROT, AND PLANT-PARASITIC NEMATODES. WATER QUANTITY AND QUALITY STRESSES ARE ALSO ROBBING YIELD. IN CALIFORNIA, ENGLISH WALNUT TREES ARE TRADITIONALLY, GROWN ON ROOTSTOCKS WITH THE MOST COMMON BEING, TO HUMANS AND THE ENVIRONMENT. IN ADDITION, USE OF MANY OF THE REMAINING CHEMICAL FUMIGANTS IS BECOMING COST PROHIBITIVE. IN A PRIOR SCRI SUPPORTED PROJECT, PROGENY FROM CROSSES OF J. MICROCARPA MOTHERT TREES WITH J. REGIA RESISTANCE TO CROWN GALL, PHYTOPHTHORA ROOT ROTS, ROOT LESION NEMATODE AND ROOT-KNOT NEMATODE. BREEDING POPULATIONS (\u0026GT;300 OFFSPRING) FROM EACH OF TWO SELECTED MOTHER TREES WERE GENERATED, GENETICALLY CHARACTERIZED, AND THEN EXAMINED FOR THEIR RESISTANCE TO THE DISEASES MENTIONED ABOVE. BY COMBINING THE DISEASE RESISTANCE DATA WITH THE GENETIC CHARACTERIZATION MULTIPLE REGIONS ON CHROMOSOME 11 WERE IDENTIFIED THAT APPEAR TO BE ASSOCIATED WITH THE OBSERVED DISEASE RESISTANCE. GENETIC MARKES ARE BEING DEVLOPED WITHIN THESE GENETIC REGIONS AND WILL BE USED TO SCREEN YOUNG WALUT SEEDINGS. THIS PROCESS WILL ALLOW DISCARDING GENOTYPES THAT DO NOT CARRY THE MARKERS ASSOCIATED WITH DISEASE REISTANCE. IN THIS PROCESS, MULTIPLE MOLECULAR SIGNALS ASSOCIATED WITH RESISTANCE WILL BE TESTED IN A POPULATION OF \u0026GT;5,000 SEEDLINGS AND ONLY THOSE WITH THE GENETIC MARKERS, PUTATIVELY CARRYING (MULITPLE) REISTANCE WILL BE SELECTED. LESS THAN 10% OF THIS POPULATION IS EXPECTED TO EXHIBIT RESISTANCE TO MULTIPLE PATHOGENS. THESE INDIVIDUALS WILL BE TESTED TO CONFIRM DISEASE RESISTANCE. IN A PARALLEL SERIES OF EXPERIMENTS WE WILL EXAMINE THESE OFF-SPRING TO VALIDATE TESTING SYSTEMS DESIGNED TO EXAMINE WATER STRESS TOLERANCE AND TOLERANCE TO BLACK LINE DISEASE. ELITE ROOTSTOCK CANDIDATES IDENTIFIED BY THESE PROCEDURES WILL BE PLACED IN FIELD TRIALS IN DIFFERENT GROWING REGIONS OF CALIFORNIA WHERE THEY WILL CONCOMITANTLY SERVE AS OUTREACH TEACHING TOOLS. OTHER MEMBERS OF THESE BREEDING POPULATIONS WILL BE USED FOR REFINEMENT OF SPECTRAL ANALYSIS FOR DETECTION OF (A)BIOTIC STRESSES. COMPREHENSIVE ECONOMIC ANALYSIS WILL DETERMINE BENEFITS OF USING NEW ROOTSTOCKS IN WALNUT PRODUCTION. BUILT ON PREVIOUS SUCCESS WITH SCRI SUPPORT, THIS PROJECT WILL PROVIDE URGENTLY NEEDED DISEASE RESISTANT ROOTSTOCKS AND BREEDING TOOLS FOR FUTURE DEVELOPMENT OF ENHANCED WALNUT ROOTSTOCKS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFFICE BLDG",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2018-09-01",
+    "End Date": "2023-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20185118128437_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56302625,
+    "generated_unique_award_id": "ASST_NON_20185118128437_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "WALNUTS ARE AN IMPORTANT PART OF THE ECONOMY OF CALIFORNIA AND REPRESENT A 2 BILLION DOLLAR A YEAR INDUSTRY IN THE U.S.A. MULTIPLE SOIL-BORNE PESTS AND PATHOGENS ALONG WITH NUMEROUS ABIOTIC STRESSES IMPACT THIS CROP NEGATIVELY. SUSTAINABILITY-ENCUMBERING CULPRITS INCLUDE: BLACK LINE DISEASE, CROWN GALL, PHYTOPHTHORA ROOT AND CROWN ROT, AND PLANT-PARASITIC NEMATODES. WATER QUANTITY AND QUALITY STRESSES ARE ALSO ROBBING YIELD. IN CALIFORNIA, ENGLISH WALNUT TREES ARE TRADITIONALLY, GROWN ON ROOTSTOCKS WITH THE MOST COMMON BEING, TO HUMANS AND THE ENVIRONMENT. IN ADDITION, USE OF MANY OF THE REMAINING CHEMICAL FUMIGANTS IS BECOMING COST PROHIBITIVE. IN A PRIOR SCRI SUPPORTED PROJECT, PROGENY FROM CROSSES OF J. MICROCARPA MOTHERT TREES WITH J. REGIA RESISTANCE TO CROWN GALL, PHYTOPHTHORA ROOT ROTS, ROOT LESION NEMATODE AND ROOT-KNOT NEMATODE. BREEDING POPULATIONS (\u0026GT;300 OFFSPRING) FROM EACH OF TWO SELECTED MOTHER TREES WERE GENERATED, GENETICALLY CHARACTERIZED, AND THEN EXAMINED FOR THEIR RESISTANCE TO THE DISEASES MENTIONED ABOVE. BY COMBINING THE DISEASE RESISTANCE DATA WITH THE GENETIC CHARACTERIZATION MULTIPLE REGIONS ON CHROMOSOME 11 WERE IDENTIFIED THAT APPEAR TO BE ASSOCIATED WITH THE OBSERVED DISEASE RESISTANCE. GENETIC MARKES ARE BEING DEVLOPED WITHIN THESE GENETIC REGIONS AND WILL BE USED TO SCREEN YOUNG WALUT SEEDINGS. THIS PROCESS WILL ALLOW DISCARDING GENOTYPES THAT DO NOT CARRY THE MARKERS ASSOCIATED WITH DISEASE REISTANCE. IN THIS PROCESS, MULTIPLE MOLECULAR SIGNALS ASSOCIATED WITH RESISTANCE WILL BE TESTED IN A POPULATION OF \u0026GT;5,000 SEEDLINGS AND ONLY THOSE WITH THE GENETIC MARKERS, PUTATIVELY CARRYING (MULITPLE) REISTANCE WILL BE SELECTED. LESS THAN 10% OF THIS POPULATION IS EXPECTED TO EXHIBIT RESISTANCE TO MULTIPLE PATHOGENS. THESE INDIVIDUALS WILL BE TESTED TO CONFIRM DISEASE RESISTANCE. IN A PARALLEL SERIES OF EXPERIMENTS WE WILL EXAMINE THESE OFF-SPRING TO VALIDATE TESTING SYSTEMS DESIGNED TO EXAMINE WATER STRESS TOLERANCE AND TOLERANCE TO BLACK LINE DISEASE. ELITE ROOTSTOCK CANDIDATES IDENTIFIED BY THESE PROCEDURES WILL BE PLACED IN FIELD TRIALS IN DIFFERENT GROWING REGIONS OF CALIFORNIA WHERE THEY WILL CONCOMITANTLY SERVE AS OUTREACH TEACHING TOOLS. OTHER MEMBERS OF THESE BREEDING POPULATIONS WILL BE USED FOR REFINEMENT OF SPECTRAL ANALYSIS FOR DETECTION OF (A)BIOTIC STRESSES. COMPREHENSIVE ECONOMIC ANALYSIS WILL DETERMINE BENEFITS OF USING NEW ROOTSTOCKS IN WALNUT PRODUCTION. BUILT ON PREVIOUS SUCCESS WITH SCRI SUPPORT, THIS PROJECT WILL PROVIDE URGENTLY NEEDED DISEASE RESISTANT ROOTSTOCKS AND BREEDING TOOLS FOR FUTURE DEVELOPMENT OF ENHANCED WALNUT ROOTSTOCKS.",
+    "total_obligation": 4031294,
+    "subaward_count": 1,
+    "total_subaward_amount": 48069,
+    "date_signed": "2018-07-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 3637389.34,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3637389.34
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2018-09-01",
+      "end_date": "2023-08-31",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFFICE BLDG",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 3637389.34
+  }
+}

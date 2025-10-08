@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91229693,
+    "Award ID": "R01MH135937",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1546376,
+    "Total Outlays": 708097.8,
+    "Description": "DEVELOPMENTAL PROGRAMMING OF STRESS-SENSITIVE NEURAL CIRCUITS UNDERLYING SOCIAL BEHAVIOR - PROJECT SUMMARY  EXPOSURE TO SOCIAL STRESSORS IS AN IMPORTANT RISK FACTOR FOR THE DEVELOPMENT OF MENTAL ILLNESSES SUCH AS ANXIETY, DEPRESSION, AND POST-TRAUMATIC STRESS DISORDER. STRESS-RELATED MENTAL ILLNESSES ARE MORE COMMON IN WOMEN THAN MEN, AND THESE DIFFERENCES ARISE DURING ADOLESCENCE. ANDROGENS WORK TO CHANGE BRAIN STRUCTURE AND FUNCTION DURING ADOLESCENCE, HOW THIS TRANSFORMATION IMPACTS BEHAVIOR IS POORLY UNDERSTOOD. WE WILL TEST THE HYPOTHESIS THAT THE ACTIVATION OF ANDROGEN RECEPTORS DURING PUBERTY PERMANENTLY PROGRAMS NEURAL CIRCUITS OF SOCIAL BEHAVIOR TO BE LESS SENSITIVE TO SOCIAL STRESS. OUR STUDIES WILL BE CONDUCTED USING CALIFORNIA MICE (PEROMYSCUS CALIFORNICUS), AN IDEAL MODEL SYSTEM FOR STUDYING ADOLESCENT DEVELOPMENT. IN THIS SPECIES ADOLESCENCE LASTS ALMOST TWICE AS LONG AS CONVENTIONAL MICE AND RATS, WHICH WILL ALLOW US TO APPLY ADVANCED NEUROSCIENCE AND MOLECULAR METHODS IN WAY THAT WOULD BE DIFFICULT OR IMPOSSIBLE IN STANDARD MODEL SYSTEMS.  IN ADULT CALIFORNIA MICE, FEMALES BUT NOT MALES EXPOSED TO SOCIAL DEFEAT STRESS ORIENT TOWARDS AN UNFAMILIAR TARGET MOUSE WHILE SIMULTANEOUSLY AVOIDING IT, A BEHAVIOR WE DEFINE AS SOCIAL VIGILANCE. HOWEVER, IN JUVENILE CALIFORNIA MICE, SOCIAL STRESS INCREASES SOCIAL VIGILANCE IN BOTH MALES AND FEMALES. IN MALES, PREPUBERTAL CASTRATION RESULTS IN FEMALE-TYPICAL SOCIAL VIGILANCE RESPONSES IN ADULTHOOD, WHILE PUBERTAL TREATMENT WITH THE NON-AROMATIZABLE ANDROGEN DIHYDROTESTOSTERONE REDUCES SENSITIVITY TO SOCIAL STRESS IN BOTH MALES AND FEMALES. WE WILL TEST THE HYPOTHESIS THAT ACTIVATION OF THE ANDROGEN RECEPTOR (AR) DURING PUBERTY PERMANENTLY PROGRAMS NEURAL CIRCUITS OF SOCIAL BEHAVIOR TO BE LESS SENSITIVE TO SOCIAL STRESS.  FIRST, WE WILL USE CRISPR-BASED GENE EDITING TO KNOCK-DOWN AR EXPRESSION IN VENTRAL HIPPOCAMPUS (VHPC) NEURONS PROJECTING TO THE BED NUCLEUS OF THE STRIA TERMINALIS (BNST) OR NUCLEUS ACCUMBENS (NAC). THE PROLONGED DEVELOPMENT OF THIS SPECIES WILL ALLOW US TO KNOCK-DOWN AR EXPRESSION BEFORE THE ONSET OF ADOLESCENT DEVELOPMENT. SECOND, WE WILL USE STATE-OF-THE-ART SEQUENCING METHODS TO IDENTIFY AR GENOMIC BINDING SITES IN THE VHPC AND ASSESS MATURATION OF HIPPOCAMPAL CELLS WITH SINGLE-CELL RESOLUTION. FINALLY, WE WILL DETERMINE HOW CIRCUIT-SPECIFIC AR KNOCK-DOWN ALTERS MEMBRANE EXCITABILITY OF VHPC NEURONS USING WHOLE- CELL SLICE ELECTROPHYSIOLOGY. THESE ANALYSES BRIDGE THE GAP BETWEEN THE MOLECULAR AND BEHAVIORAL DATA IN THE OTHER AIMS. OUR TEAM IS IDEALLY SUITED TO EXECUTE THESE STUDIES. DR. TRAINOR IS A LEADER IN DEVELOPING THE CALIFORNIA MOUSE STRESS MODEL AND OPEN ACCESS TOOLS. DR. TOLLKUHN IS A LEADER IN THE APPLICATION OF MODERN SEQUENCING METHODS TO IDENTIFY THE MOLECULAR MECHANISMS OF SEXUAL DIFFERENTIATION OF THE BRAIN. DR. ROBISON IS A LEADING EXPERT IN THE USE OF ELECTROPHYSIOLOGICAL APPROACHES TO STUDY THE IMPACT OF STRESS ON NEURAL CIRCUITS. THE PROPOSED STUDIES WILL BE THE FIRST TO IDENTIFY ANDROGEN-DEPENDENT MOLECULAR PATHWAYS ACTIVATED DURING ADOLESCENT DEVELOPMENT IN NEURAL CIRCUITS THAT DRIVE TRANSLATIONALLY RELEVANT BEHAVIORAL RESPONSES TO STRESS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-04-22",
+    "End Date": "2029-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01MH135937_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91229693,
+    "generated_unique_award_id": "ASST_NON_R01MH135937_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DEVELOPMENTAL PROGRAMMING OF STRESS-SENSITIVE NEURAL CIRCUITS UNDERLYING SOCIAL BEHAVIOR - PROJECT SUMMARY  EXPOSURE TO SOCIAL STRESSORS IS AN IMPORTANT RISK FACTOR FOR THE DEVELOPMENT OF MENTAL ILLNESSES SUCH AS ANXIETY, DEPRESSION, AND POST-TRAUMATIC STRESS DISORDER. STRESS-RELATED MENTAL ILLNESSES ARE MORE COMMON IN WOMEN THAN MEN, AND THESE DIFFERENCES ARISE DURING ADOLESCENCE. ANDROGENS WORK TO CHANGE BRAIN STRUCTURE AND FUNCTION DURING ADOLESCENCE, HOW THIS TRANSFORMATION IMPACTS BEHAVIOR IS POORLY UNDERSTOOD. WE WILL TEST THE HYPOTHESIS THAT THE ACTIVATION OF ANDROGEN RECEPTORS DURING PUBERTY PERMANENTLY PROGRAMS NEURAL CIRCUITS OF SOCIAL BEHAVIOR TO BE LESS SENSITIVE TO SOCIAL STRESS. OUR STUDIES WILL BE CONDUCTED USING CALIFORNIA MICE (PEROMYSCUS CALIFORNICUS), AN IDEAL MODEL SYSTEM FOR STUDYING ADOLESCENT DEVELOPMENT. IN THIS SPECIES ADOLESCENCE LASTS ALMOST TWICE AS LONG AS CONVENTIONAL MICE AND RATS, WHICH WILL ALLOW US TO APPLY ADVANCED NEUROSCIENCE AND MOLECULAR METHODS IN WAY THAT WOULD BE DIFFICULT OR IMPOSSIBLE IN STANDARD MODEL SYSTEMS.  IN ADULT CALIFORNIA MICE, FEMALES BUT NOT MALES EXPOSED TO SOCIAL DEFEAT STRESS ORIENT TOWARDS AN UNFAMILIAR TARGET MOUSE WHILE SIMULTANEOUSLY AVOIDING IT, A BEHAVIOR WE DEFINE AS SOCIAL VIGILANCE. HOWEVER, IN JUVENILE CALIFORNIA MICE, SOCIAL STRESS INCREASES SOCIAL VIGILANCE IN BOTH MALES AND FEMALES. IN MALES, PREPUBERTAL CASTRATION RESULTS IN FEMALE-TYPICAL SOCIAL VIGILANCE RESPONSES IN ADULTHOOD, WHILE PUBERTAL TREATMENT WITH THE NON-AROMATIZABLE ANDROGEN DIHYDROTESTOSTERONE REDUCES SENSITIVITY TO SOCIAL STRESS IN BOTH MALES AND FEMALES. WE WILL TEST THE HYPOTHESIS THAT ACTIVATION OF THE ANDROGEN RECEPTOR (AR) DURING PUBERTY PERMANENTLY PROGRAMS NEURAL CIRCUITS OF SOCIAL BEHAVIOR TO BE LESS SENSITIVE TO SOCIAL STRESS.  FIRST, WE WILL USE CRISPR-BASED GENE EDITING TO KNOCK-DOWN AR EXPRESSION IN VENTRAL HIPPOCAMPUS (VHPC) NEURONS PROJECTING TO THE BED NUCLEUS OF THE STRIA TERMINALIS (BNST) OR NUCLEUS ACCUMBENS (NAC). THE PROLONGED DEVELOPMENT OF THIS SPECIES WILL ALLOW US TO KNOCK-DOWN AR EXPRESSION BEFORE THE ONSET OF ADOLESCENT DEVELOPMENT. SECOND, WE WILL USE STATE-OF-THE-ART SEQUENCING METHODS TO IDENTIFY AR GENOMIC BINDING SITES IN THE VHPC AND ASSESS MATURATION OF HIPPOCAMPAL CELLS WITH SINGLE-CELL RESOLUTION. FINALLY, WE WILL DETERMINE HOW CIRCUIT-SPECIFIC AR KNOCK-DOWN ALTERS MEMBRANE EXCITABILITY OF VHPC NEURONS USING WHOLE- CELL SLICE ELECTROPHYSIOLOGY. THESE ANALYSES BRIDGE THE GAP BETWEEN THE MOLECULAR AND BEHAVIORAL DATA IN THE OTHER AIMS. OUR TEAM IS IDEALLY SUITED TO EXECUTE THESE STUDIES. DR. TRAINOR IS A LEADER IN DEVELOPING THE CALIFORNIA MOUSE STRESS MODEL AND OPEN ACCESS TOOLS. DR. TOLLKUHN IS A LEADER IN THE APPLICATION OF MODERN SEQUENCING METHODS TO IDENTIFY THE MOLECULAR MECHANISMS OF SEXUAL DIFFERENTIATION OF THE BRAIN. DR. ROBISON IS A LEADING EXPERT IN THE USE OF ELECTROPHYSIOLOGICAL APPROACHES TO STUDY THE IMPACT OF STRESS ON NEURAL CIRCUITS. THE PROPOSED STUDIES WILL BE THE FIRST TO IDENTIFY ANDROGEN-DEPENDENT MOLECULAR PATHWAYS ACTIVATED DURING ADOLESCENT DEVELOPMENT IN NEURAL CIRCUITS THAT DRIVE TRANSLATIONALLY RELEVANT BEHAVIORAL RESPONSES TO STRESS.",
+    "total_obligation": 1546376,
+    "subaward_count": 1,
+    "total_subaward_amount": 167037.62,
+    "date_signed": "2024-04-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 708097.8,
+    "total_account_obligation": 1432712,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 708097.8
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1432712
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2024-04-22",
+      "end_date": "2029-01-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 708097.8
+  }
+}

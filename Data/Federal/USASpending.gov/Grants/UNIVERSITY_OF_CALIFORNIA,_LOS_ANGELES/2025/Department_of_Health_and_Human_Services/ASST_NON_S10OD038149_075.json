@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 170722057,
+    "Award ID": "S10OD038149",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 1574994,
+    "Total Outlays": 0,
+    "Description": "HIGH-RESOLUTION TANDEM MASS SPECTROMETER TO SUPPORT LARGE MOLECULE STRUCTURAL CHARACTERIZATION - PROJECT SUMMARY/ABSTRACT A UNIQUE STATE-OF-THE-ART HYBRID HIGH-RESOLUTION TANDEM MASS SPECTROMETER EQUIPPED WITH ELECTROSPRAY IONIZATION (ESI) AND A VARIETY OF ACTIVATION/DISSOCIATION METHODS FOR STRUCTURAL CHARACTERIZATION OF A BROAD RANGE OF LARGE BIOLOGICAL AND SYNTHETIC MOLECULES IS REQUESTED. THIS INSTRUMENT WILL BE A VITAL COMPONENT TO ADVANCE THE RESEARCH AIMS OF OVER 11 NIH-SUPPORTED PROJECTS. THE STUDIES INVOLVE A VARIETY OF BIOMOLECULE STRUCTURE RELATED RESEARCH, INCLUDING THE CHARACTERIZATION OF PROTEIN-PROTEIN AND PROTEIN-LIGAND (METALS, LIPIDS, INHIBITORS, CO-FACTORS) INTERACTIONS, MEMBRANE PROTEINS AND THEIR INTERACTIONS WITH LIPIDS, PROTEIN AGGREGATES, THERAPEUTICS, RNA- INHIBITOR COMPLEXES, AND PROTEIN-BIOCONJUGATED MOLECULES. THE RESEARCH PROJECTS IMPACT A RANGE OF HUMAN HEALTH ISSUES, INCLUDING NEURODEGENERATIVE DISEASES, SUCH AS ALZHEIMER’S AND PARKINSON’S DISEASES, BACTERIAL INFECTIOUS DISEASES, HYPERTROPHIC CARDIOMYOPATHY, CANCER, ORAL CAVITY INFECTIONS, AND VIRAL INFECTIONS. THE HIGH- RESOLUTION MASS SPECTROMETER WILL BE CAPABLE OF LOW-PARTS-PER-MILLION MASS MEASUREMENT ACCURACY FOR INTACT BIOMOLECULES AND PRODUCT IONS DERIVED FROM TANDEM MASS SPECTROMETRY (MS/MS) EXPERIMENTS. IT WILL HAVE CAPABILITIES FOR MULTISTAGE MS-N EXPERIMENTS (WHERE N IS GREATER THAN 2), THUS PERMITTING ADVANCED TOP-DOWN MS ANALYSIS USING COLLISION-, ELECTRON-, AND PHOTON-BASED FRAGMENTATION METHODS FOR EFFICIENT ION ACTIVATION AND DISSOCIATION. ACCESS TO MULTIPLE FRAGMENTATION METHODS ON THE SAME INSTRUMENT GREATLY IMPROVES THE ABILITY TO DISSOCIATE LARGE INTACT BIOMOLECULES TO DERIVE COMPLETE SEQUENCE/STRUCTURE INFORMATION, AS WELL AS THE DIRECT DETECTION OF POSTTRANSLATIONAL MODIFICATIONS AND PROTEOFORMS. THE PROPOSED HIGH-RESOLUTION TANDEM MASS SPECTROMETRY SYSTEM WILL BE SUPPORTED AND ADMINISTERED BY THE UCLA MOLECULAR INSTRUMENTATION CENTER (MIC), A CAMPUS-WIDE, INTEGRATED FACILITY FORMED TO ENHANCE THE ACCESSIBILITY OF EXISTING SHARED, SOPHISTICATED INSTRUMENTATION FACILITIES TO THE BROADER RESEARCH COMMUNITY AT THE INSTITUTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4200",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "900950001",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-05-15",
+    "End Date": "2026-05-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD038149_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 170722057,
+    "generated_unique_award_id": "ASST_NON_S10OD038149_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "HIGH-RESOLUTION TANDEM MASS SPECTROMETER TO SUPPORT LARGE MOLECULE STRUCTURAL CHARACTERIZATION - PROJECT SUMMARY/ABSTRACT A UNIQUE STATE-OF-THE-ART HYBRID HIGH-RESOLUTION TANDEM MASS SPECTROMETER EQUIPPED WITH ELECTROSPRAY IONIZATION (ESI) AND A VARIETY OF ACTIVATION/DISSOCIATION METHODS FOR STRUCTURAL CHARACTERIZATION OF A BROAD RANGE OF LARGE BIOLOGICAL AND SYNTHETIC MOLECULES IS REQUESTED. THIS INSTRUMENT WILL BE A VITAL COMPONENT TO ADVANCE THE RESEARCH AIMS OF OVER 11 NIH-SUPPORTED PROJECTS. THE STUDIES INVOLVE A VARIETY OF BIOMOLECULE STRUCTURE RELATED RESEARCH, INCLUDING THE CHARACTERIZATION OF PROTEIN-PROTEIN AND PROTEIN-LIGAND (METALS, LIPIDS, INHIBITORS, CO-FACTORS) INTERACTIONS, MEMBRANE PROTEINS AND THEIR INTERACTIONS WITH LIPIDS, PROTEIN AGGREGATES, THERAPEUTICS, RNA- INHIBITOR COMPLEXES, AND PROTEIN-BIOCONJUGATED MOLECULES. THE RESEARCH PROJECTS IMPACT A RANGE OF HUMAN HEALTH ISSUES, INCLUDING NEURODEGENERATIVE DISEASES, SUCH AS ALZHEIMER’S AND PARKINSON’S DISEASES, BACTERIAL INFECTIOUS DISEASES, HYPERTROPHIC CARDIOMYOPATHY, CANCER, ORAL CAVITY INFECTIONS, AND VIRAL INFECTIONS. THE HIGH- RESOLUTION MASS SPECTROMETER WILL BE CAPABLE OF LOW-PARTS-PER-MILLION MASS MEASUREMENT ACCURACY FOR INTACT BIOMOLECULES AND PRODUCT IONS DERIVED FROM TANDEM MASS SPECTROMETRY (MS/MS) EXPERIMENTS. IT WILL HAVE CAPABILITIES FOR MULTISTAGE MS-N EXPERIMENTS (WHERE N IS GREATER THAN 2), THUS PERMITTING ADVANCED TOP-DOWN MS ANALYSIS USING COLLISION-, ELECTRON-, AND PHOTON-BASED FRAGMENTATION METHODS FOR EFFICIENT ION ACTIVATION AND DISSOCIATION. ACCESS TO MULTIPLE FRAGMENTATION METHODS ON THE SAME INSTRUMENT GREATLY IMPROVES THE ABILITY TO DISSOCIATE LARGE INTACT BIOMOLECULES TO DERIVE COMPLETE SEQUENCE/STRUCTURE INFORMATION, AS WELL AS THE DIRECT DETECTION OF POSTTRANSLATIONAL MODIFICATIONS AND PROTEOFORMS. THE PROPOSED HIGH-RESOLUTION TANDEM MASS SPECTROMETRY SYSTEM WILL BE SUPPORTED AND ADMINISTERED BY THE UCLA MOLECULAR INSTRUMENTATION CENTER (MIC), A CAMPUS-WIDE, INTEGRATED FACILITY FORMED TO ENHANCE THE ACCESSIBILITY OF EXISTING SHARED, SOPHISTICATED INSTRUMENTATION FACILITIES TO THE BROADER RESEARCH COMMUNITY AT THE INSTITUTION.",
+    "total_obligation": 1574994,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-05-07",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 1574994,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1574994
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2025-05-15",
+      "end_date": "2026-05-14",
+      "last_modified_date": "2025-05-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4200",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "0001",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

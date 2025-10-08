@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56342167,
+    "Award ID": "20246702242532",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 728000,
+    "Total Outlays": 24184.64,
+    "Description": "RECENT ADVANCES IN ROBOTICS AND AUTOMATION, SENSING, ARTIFICIAL INTELLIGENCE (AI) AND DATA SCIENCES HAVE CREATED THE POSSIBILITY OF GATHERING AND ASSESSING DIFFERENT CROP-SPECIFIC MULTI-MODAL FIELD DATA AT VARYING SPATIO-TEMPORAL SCALES AND RESOLUTION. THIS HAS SUBSTANTIALLY INCREASED THE AVAILABLE AMOUNT OF DIVERSE MULTI-MODAL AGRICULTURE-RELEVANT DATA. IN TURN, AVAILABILITY OF MORE DATA HAS PROPELLED FORWARD AI-POWERED ANALYSIS, TO PROVIDE MORE ACCURATE AND DETAILED INFORMATION TO VARIOUS STAKEHOLDERS (GROWERS, FARM ADVISORS, AGRONOMISTS), TO IMPROVE SEVERAL AGRICULTURAL PRODUCTION OUTCOMES LIKE SOIL HEALTH MAPPING.  DESPITE THE AVAILABILITY OF SUCH LARGE BODIES OF MULTI-MODAL DATA, THE LATENCY BETWEEN DATA COLLECTIONS AND FOLLOW-ON DATA ANALYSIS REMAINS HIGH. FURTHER, EXISTING SOLUTIONS TO GATHER DATA ARE OFTEN LIMITED AS TO THE TYPE OF DATA THAT CAN BE ACQUIRED (DETERMINED A-PRIORI BY THE SENSORS A DATA COLLECTING SYSTEM [E.G., AERIAL ROBOTS CONSIDERED HEREIN] CARRIES), AND SYSTEM CONFIGURABILITY TO FACILITATE COLLECTION OF OTHER TYPES OF DATA. EXISTING AERIAL ROBOTS ARE LIMITED IN TERMS OF THEIR RECONFIGURABILITY AND CUSTOMIZABILITY, AND SELDOM PROVIDE ACTIONABLE DATA IN REAL TIME. TO ADDRESS THESE LIMITATIONS, THIS PROJECT PROPOSES TO LEVERAGE GENERATIVE AI TO DEVELOP AND DEPLOY CUSTOMIZABLE AERIAL ROBOTS THAT AFFORD MULTI-SCALE AND MULTI-TYPE FIELD DATA COLLECTIONS, AND ENDOW THEM WITH EDGE AI CAPABILITIES TO ENSURE REAL-TIME DATA PROCESSING AND ANALYTICS THAT OFFER ON-DEMAND CROP INFORMATION TO STAKEHOLDERS. THE AGRONOMIC TASKS CONSIDERED INCLUDE OPTIMAL HARVESTING TIME IDENTIFICATION FOR GRAPES, EFFICIENT NUTRIENT MANAGEMENT FOR CITRUS, AND SOIL HEALTH MONITORING IN BOTH VINEYARDS AND CITRUS GROVES, OVER DISTINCT CLIMATIC ZONES ([SOUTHERN] CALIFORNIA, FLORIDA, AND [NORTHERN] GREECE). ?",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2024-09-01",
+    "End Date": "2027-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20246702242532_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56342167,
+    "generated_unique_award_id": "ASST_NON_20246702242532_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "RECENT ADVANCES IN ROBOTICS AND AUTOMATION, SENSING, ARTIFICIAL INTELLIGENCE (AI) AND DATA SCIENCES HAVE CREATED THE POSSIBILITY OF GATHERING AND ASSESSING DIFFERENT CROP-SPECIFIC MULTI-MODAL FIELD DATA AT VARYING SPATIO-TEMPORAL SCALES AND RESOLUTION. THIS HAS SUBSTANTIALLY INCREASED THE AVAILABLE AMOUNT OF DIVERSE MULTI-MODAL AGRICULTURE-RELEVANT DATA. IN TURN, AVAILABILITY OF MORE DATA HAS PROPELLED FORWARD AI-POWERED ANALYSIS, TO PROVIDE MORE ACCURATE AND DETAILED INFORMATION TO VARIOUS STAKEHOLDERS (GROWERS, FARM ADVISORS, AGRONOMISTS), TO IMPROVE SEVERAL AGRICULTURAL PRODUCTION OUTCOMES LIKE SOIL HEALTH MAPPING.  DESPITE THE AVAILABILITY OF SUCH LARGE BODIES OF MULTI-MODAL DATA, THE LATENCY BETWEEN DATA COLLECTIONS AND FOLLOW-ON DATA ANALYSIS REMAINS HIGH. FURTHER, EXISTING SOLUTIONS TO GATHER DATA ARE OFTEN LIMITED AS TO THE TYPE OF DATA THAT CAN BE ACQUIRED (DETERMINED A-PRIORI BY THE SENSORS A DATA COLLECTING SYSTEM [E.G., AERIAL ROBOTS CONSIDERED HEREIN] CARRIES), AND SYSTEM CONFIGURABILITY TO FACILITATE COLLECTION OF OTHER TYPES OF DATA. EXISTING AERIAL ROBOTS ARE LIMITED IN TERMS OF THEIR RECONFIGURABILITY AND CUSTOMIZABILITY, AND SELDOM PROVIDE ACTIONABLE DATA IN REAL TIME. TO ADDRESS THESE LIMITATIONS, THIS PROJECT PROPOSES TO LEVERAGE GENERATIVE AI TO DEVELOP AND DEPLOY CUSTOMIZABLE AERIAL ROBOTS THAT AFFORD MULTI-SCALE AND MULTI-TYPE FIELD DATA COLLECTIONS, AND ENDOW THEM WITH EDGE AI CAPABILITIES TO ENSURE REAL-TIME DATA PROCESSING AND ANALYTICS THAT OFFER ON-DEMAND CROP INFORMATION TO STAKEHOLDERS. THE AGRONOMIC TASKS CONSIDERED INCLUDE OPTIMAL HARVESTING TIME IDENTIFICATION FOR GRAPES, EFFICIENT NUTRIENT MANAGEMENT FOR CITRUS, AND SOIL HEALTH MONITORING IN BOTH VINEYARDS AND CITRUS GROVES, OVER DISTINCT CLIMATIC ZONES ([SOUTHERN] CALIFORNIA, FLORIDA, AND [NORTHERN] GREECE). ?",
+    "total_obligation": 728000,
+    "subaward_count": 2,
+    "total_subaward_amount": 329893,
+    "date_signed": "2024-07-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 31939.46,
+    "total_account_obligation": 728000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 31939.46
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 728000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-01",
+      "end_date": "2027-08-31",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 31939.46
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57229412,
+    "Award ID": "2319580",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1000000,
+    "Total Outlays": 151072.99,
+    "Description": "NCS-FO: UNDERSTANDING THE COMPUTATIONS THE BRAIN PERFORMS DURING CHOICE -THIS PROPOSAL SEEKS TO UNDERSTAND HOW THE BRAIN SUPPORTS AND ENCODES DECISION MAKING BY TAKING AN INTERDISCIPLINARY APPROACH. THE RESEARCHERS PLAN TO USE NEURAL ACTIVITY RECORDED WHILE PARTICIPANTS MAKE COMPLEX DECISIONS. THIS BRAIN ACTIVITY CAN THEN BE CAPTURED IN A MODEL THAT MAKES PARTICULAR PREDICTIONS ABOUT HOW EACH BRAIN AREA CONTRIBUTES TO DECISION-MAKING. IN TURN, THE RESEARCHERS HOPE TO USE THAT MODEL TO TEST SPECIFIC HYPOTHESIS ABOUT HOW DECISION-MAKING IS AFFECTED BY NEUROSTIMULATION TO THOSE AREAS. KNOWLEDGE OF HOW THE BRAIN SUPPORTS DECISION MAKING CAN PROVIDE INVALUABLE INSIGHT FOR THE DEVELOPMENT OF EDUCATIONAL CURRICULA. INFORMATION IS BEST PRESENTED TO STUDENTS IN A WAY THAT WORKS IN CONCERT WITH THE BRAIN. FURTHER, INSIGHTS FROM THIS PROJECT MAY PROVIDE INSIGHT INTO THE DEVELOPMENT OF ARTIFICIAL INTELLIGENCE. THIS POTENTIAL APPLICATION HAS PROFOUND ETHICAL IMPLICATIONS THAT THE RESEARCHERS AIM TO STUDY IN THIS PROPOSAL. FINALLY, THIS WORK FOCUSES ON ASSESSING THE VALUE UNDERLYING DECISION MAKING WHICH IS FUNDAMENTAL TO ECONOMICS. SPECIFICALLY, VALUATION MAINTAINS AND/OR UPDATES OUR UNDERSTANDING OF GAINS OR LOSSES BASED ON EXPERIENCE. OVERLY RISKY OR RISK-AVERSE BEHAVIOR CAN LEAD TO SUBOPTIMAL DECISIONS AND HAVE BEEN LINKED TO NEUROPSYCHOLOGICAL DISORDERS. THE PROPOSED RESEARCH IS SPLIT INTO THREE SIMULTANEOUS OBJECTIVES. IN THE FIRST, THE RESEARCHERS PROPOSE TO IDENTIFY WHICH FEATURES OF THE DATA (E.G., AMPLITUDE OF THE NEURAL ACTIVITY) PROVIDE INFORMATION ABOUT THE DECISION-MAKING PROCESS. IN THE SECOND, THE RESEARCHERS AIM TO BUILD DECODERS THAT EXPLICITLY COMBINE THOSE FEATURES TO PREDICT WHICH DECISION THE PERSON WILL MAKE. IN THE FINAL OBJECTIVE THE RESEARCHERS AIM TO DEVELOP A CONTROL ALGORITHM WHICH PREDICTS THE PERSON?S DECISION AND THEN INTERVENES BY APPLYING NEUROSTIMULATION TO ALTER THAT DECISION. THIS CLOSED LOOP STIMULATION MAY PROVE IMPORTANT FOR DEVELOPING INTERVENTIONS THAT COULD, FOR EXAMPLE, HELP REDUCE RISK SEEKING IN COMPULSIVE GAMBLERS. ALTERNATIVELY, IN SOME PEOPLE THAT ARE TOO RISK AVERSE (NEVER LEAVE THE HOUSE), AT DIFFERENT TYPE OF STIMULATION COULD REDUCE THIS AVERSION TO RISK. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-09-01",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2319580_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57229412,
+    "generated_unique_award_id": "ASST_NON_2319580_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NCS-FO: UNDERSTANDING THE COMPUTATIONS THE BRAIN PERFORMS DURING CHOICE -THIS PROPOSAL SEEKS TO UNDERSTAND HOW THE BRAIN SUPPORTS AND ENCODES DECISION MAKING BY TAKING AN INTERDISCIPLINARY APPROACH. THE RESEARCHERS PLAN TO USE NEURAL ACTIVITY RECORDED WHILE PARTICIPANTS MAKE COMPLEX DECISIONS. THIS BRAIN ACTIVITY CAN THEN BE CAPTURED IN A MODEL THAT MAKES PARTICULAR PREDICTIONS ABOUT HOW EACH BRAIN AREA CONTRIBUTES TO DECISION-MAKING. IN TURN, THE RESEARCHERS HOPE TO USE THAT MODEL TO TEST SPECIFIC HYPOTHESIS ABOUT HOW DECISION-MAKING IS AFFECTED BY NEUROSTIMULATION TO THOSE AREAS. KNOWLEDGE OF HOW THE BRAIN SUPPORTS DECISION MAKING CAN PROVIDE INVALUABLE INSIGHT FOR THE DEVELOPMENT OF EDUCATIONAL CURRICULA. INFORMATION IS BEST PRESENTED TO STUDENTS IN A WAY THAT WORKS IN CONCERT WITH THE BRAIN. FURTHER, INSIGHTS FROM THIS PROJECT MAY PROVIDE INSIGHT INTO THE DEVELOPMENT OF ARTIFICIAL INTELLIGENCE. THIS POTENTIAL APPLICATION HAS PROFOUND ETHICAL IMPLICATIONS THAT THE RESEARCHERS AIM TO STUDY IN THIS PROPOSAL. FINALLY, THIS WORK FOCUSES ON ASSESSING THE VALUE UNDERLYING DECISION MAKING WHICH IS FUNDAMENTAL TO ECONOMICS. SPECIFICALLY, VALUATION MAINTAINS AND/OR UPDATES OUR UNDERSTANDING OF GAINS OR LOSSES BASED ON EXPERIENCE. OVERLY RISKY OR RISK-AVERSE BEHAVIOR CAN LEAD TO SUBOPTIMAL DECISIONS AND HAVE BEEN LINKED TO NEUROPSYCHOLOGICAL DISORDERS. THE PROPOSED RESEARCH IS SPLIT INTO THREE SIMULTANEOUS OBJECTIVES. IN THE FIRST, THE RESEARCHERS PROPOSE TO IDENTIFY WHICH FEATURES OF THE DATA (E.G., AMPLITUDE OF THE NEURAL ACTIVITY) PROVIDE INFORMATION ABOUT THE DECISION-MAKING PROCESS. IN THE SECOND, THE RESEARCHERS AIM TO BUILD DECODERS THAT EXPLICITLY COMBINE THOSE FEATURES TO PREDICT WHICH DECISION THE PERSON WILL MAKE. IN THE FINAL OBJECTIVE THE RESEARCHERS AIM TO DEVELOP A CONTROL ALGORITHM WHICH PREDICTS THE PERSON?S DECISION AND THEN INTERVENES BY APPLYING NEUROSTIMULATION TO ALTER THAT DECISION. THIS CLOSED LOOP STIMULATION MAY PROVE IMPORTANT FOR DEVELOPING INTERVENTIONS THAT COULD, FOR EXAMPLE, HELP REDUCE RISK SEEKING IN COMPULSIVE GAMBLERS. ALTERNATIVELY, IN SOME PEOPLE THAT ARE TOO RISK AVERSE (NEVER LEAVE THE HOUSE), AT DIFFERENT TYPE OF STIMULATION COULD REDUCE THIS AVERSION TO RISK. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 1000000,
+    "subaward_count": 1,
+    "total_subaward_amount": 205701,
+    "date_signed": "2023-08-09",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 169372.64,
+    "total_account_obligation": 1000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 169372.64
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF RESEARCH ON LEARNING IN"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF BEHAVIORAL  COGNITIVE SCI"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2023-08-17",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 169372.64
+  }
+}

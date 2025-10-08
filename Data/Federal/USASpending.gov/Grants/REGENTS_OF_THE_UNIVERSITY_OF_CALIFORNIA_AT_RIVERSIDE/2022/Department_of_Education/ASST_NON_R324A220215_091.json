@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91323809,
+    "Award ID": "R324A220215",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 2379916,
+    "Total Outlays": 1688348.63,
+    "Description": "READING ENHANCEMENTS FOR STUDENTS WITH AUTISM SPECTRUM DISORDERS (PROJECT READ): A READING COMPREHENSION INTERVENTION",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "9800",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-9800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Education",
+    "Awarding Sub Agency": "Department of Education",
+    "Start Date": "2022-08-01",
+    "End Date": "2025-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R324A220215_091",
+    "awarding_agency_id": 1068,
+    "agency_slug": "department-of-education",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91323809,
+    "generated_unique_award_id": "ASST_NON_R324A220215_091",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "READING ENHANCEMENTS FOR STUDENTS WITH AUTISM SPECTRUM DISORDERS (PROJECT READ): A READING COMPREHENSION INTERVENTION",
+    "total_obligation": 2379916,
+    "subaward_count": 1,
+    "total_subaward_amount": 761812,
+    "date_signed": "2022-04-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1688348.63,
+    "total_account_obligation": 2379916,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1688348.63
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2379916
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 1068,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Education",
+        "code": "091",
+        "abbreviation": "ED",
+        "slug": "department-of-education"
+      },
+      "subtier_agency": {
+        "name": "Department of Education",
+        "code": "9100",
+        "abbreviation": "ED"
+      },
+      "office_agency_name": "INSTITUTE OF EDUCATION SCIENCES"
+    },
+    "awarding_agency": {
+      "id": 1068,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Education",
+        "code": "091",
+        "abbreviation": "ED",
+        "slug": "department-of-education"
+      },
+      "subtier_agency": {
+        "name": "Department of Education",
+        "code": "9100",
+        "abbreviation": "ED"
+      },
+      "office_agency_name": "INSTITUTE OF EDUCATION SCIENCES"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2025-07-31",
+      "last_modified_date": "2024-08-22",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "9800",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1688348.63
+  }
+}

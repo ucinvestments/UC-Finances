@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91217342,
+    "Award ID": "R01HL155907",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1783166,
+    "Total Outlays": 1517041.18,
+    "Description": "FUMARATE DRUGS RESCUE CARDIAC DYSFUNCTION IN MOUSE MODELS OF FRIEDREICH'S ATAXIA - FRIEDREICH'S ATAXIA (FA) IS THE MOST COMMON INHERITED RECESSIVE ATAXIA, FOR WHICH THERE IS NO FDA-APPROVED THERAPY. FA'S PATHOPHYSIOLOGICAL MECHANISM IS CAUSED BY THE REDUCTION OF JUST ONE MITOCHONDRIAL PROTEIN, FRATAXIN (FXN), THAT FUNCTIONS IN IRON-SULFUR (FE-S) CLUSTER BIOGENESIS. SYMPTOMS TYPICALLY BEGIN BETWEEN THE AGES OF 5 AND 15 YEARS AND WORSEN OVER TIME. ALTHOUGH SENSORY AND BALANCE DEFICITS PUT FA PATIENTS IN WHEELCHAIRS, NEARLY ALL FA PATIENTS DIE OF CARDIOMYOPATHY. CURRENTLY, THERE ARE NO DRUG THERAPIES THAT AMELIORATE FA CARDIOMYOPATHY AND MOST WITH FA DIE OF THE CARDIOMYOPATHY IN THEIR 30S.  WE IDENTIFIED REDOX DEFICIENCY IN FA HUMAN FIBROBLASTS, AND USED THIS TO SCREEN A LIBRARY OF 1600 DRUGS ALREADY SAFELY USED IN HUMANS, TO TEST FOR THEIR ABILITY TO PREVENT CELL DEATH IN FA. WE IDENTIFIED DIMETHYL FUMARATE (DMF), A PRODRUG PRECURSOR OF MONOMETHYL FUMARATE (MMF), AS THE MOST PROTECTIVE AMONG ALL TESTED DRUGS. DMF (ALSO KNOWN AS TECFIDERA AND SKILARENCE) IS THE FDA APPROVED DRUG FOR TREATMENT OF MULTIPLE SCLEROSIS (MS) AND PSORIASIS. IN THE MOST PHYSIOLOGICAL MOUSE MODEL OF FA (THE FXNKD), WE FOUND THAT 1) DMF DOSE-DEPENDENTLY RESCUED FXN LEVELS AND THE MITOCHONDRIAL FE-S CLUSTER ENZYMES ACONITASE AND SUCCINATE DEHYDROGENASE ACTIVITY IN THE HEART; 2) DMF SIGNIFICANTLY RESCUED THREE CRITICAL CARDIAC DEFICITS IN MICE THAT RESEMBLE HUMAN FA CARDIAC DEFECTS: A) LEFT VENTRICULAR HYPERTROPHY; B) DECREASED STROKE VOLUME; AND C) DECREASED CARDIAC OUTPUT. PRELIMINARY DATA SUPPORT THE CLAIM THAT DMF IS PROVIDING MITOCHONDRIAL-\u003eFRATAXIN-\u003e FE-S CLUSTER SUPPORT VIA NRF2-DEPENDENT MECHANISM.  ADDITIONALLY, WE RECENTLY SYNTHESIZED AN ALTERNATIVE MMF PRODRUG CALLED IMF, WITH IMPROVED PHARMACOKINETICS THAT MAY BE EVEN MORE POTENT THAN DMF. THEREFORE, WE HYPOTHESIZE THAT FUMARATES DMF/IMF REPRESENT A NOVEL THERAPEUTIC STRATEGY THAT CAN POTENTIALLY BE REPURPOSED FOR THE LETHAL CARDIOMYOPATHY IN FA. THE AIM OF THE CURRENT WORK IS TO DETERMINE THE EFFECTS OF DMF/IMF ON THE FUNCTION OF MOST AFFECTED TISSUES IN FA (HEART AND SKELETAL MUSCLES), AND TO DETERMINE THE MECHANISM OF PROTECTIVE ACTION. DMF HAS ALREADY PASSED THROUGH FDA'S SAFETY, TOXICOLOGY AND DMPK HURDLES, AND THUS COULD ENTER CLINICAL TRIALS MUCH MORE QUICKLY THAN A NEW COMPOUND THAT MUST PASS THROUGH EXTENSIVE SAFETY AND TOXICOLOGY TESTING BEFORE IT COULD BE USED IN CLINICAL TRIALS. HOWEVER, BEFORE ATTEMPTING TO USE THE DRUG IN HUMANS WITH FA, COMPLETION OF THE 'PRE-CLINICAL PACKAGE' FOR DMF/IMF AND THEIR ROLE FOR CARDIAC/SKELETAL MUSCLE PROTECTION IN FA ARE IMPORTANT, AND CAN BE ADDRESSED IN THE THREE SPECIFIC AIMS. AIM 1 IS DESIGNED TO DETERMINE OPTIMAL DOSING OF DMF \u0026 IMF THAT RESCUE CARDIAC AND SKELETAL MUSCLES DEFICITS. AIM 2 IS DESIGNED TO DETERMINE THE MECHANISM RESPONSIBLE FOR FUNCTIONAL RECOVERY IN THE FXNKD MOUSE. AIM 3 IS DESIGNED TO DETERMINE WHETHER OPTIMAL DOSING OF DMF/IMF EXTENDS THE LIFE SPAN OF MOUSE WITH CARDIAC-SPECIFIC FXN KO (MCK-CRE). CUMULATIVELY THESE AIMS WILL GENERATE PRE-CLINICAL DATA FOR THE POTENTIAL USE OF DMF AND IMF FOR LETHAL CARDIOMYOPATHY IN FA. BECAUSE DMF IS ALREADY APPROVED FOR USE IN HUMANS WITH SAFETY/DMPK/TOXICOLOGY AND PHASE I STUDIES ALREADY COMPLETED, IT HAS A GREATER OPPORTUNITY TO BE 'FAST-TRACKED' FOR TREATMENT OF CARDIAC MYOPATHY IN FA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2020-12-20",
+    "End Date": "2024-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL155907_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91217342,
+    "generated_unique_award_id": "ASST_NON_R01HL155907_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FUMARATE DRUGS RESCUE CARDIAC DYSFUNCTION IN MOUSE MODELS OF FRIEDREICH'S ATAXIA - FRIEDREICH'S ATAXIA (FA) IS THE MOST COMMON INHERITED RECESSIVE ATAXIA, FOR WHICH THERE IS NO FDA-APPROVED THERAPY. FA'S PATHOPHYSIOLOGICAL MECHANISM IS CAUSED BY THE REDUCTION OF JUST ONE MITOCHONDRIAL PROTEIN, FRATAXIN (FXN), THAT FUNCTIONS IN IRON-SULFUR (FE-S) CLUSTER BIOGENESIS. SYMPTOMS TYPICALLY BEGIN BETWEEN THE AGES OF 5 AND 15 YEARS AND WORSEN OVER TIME. ALTHOUGH SENSORY AND BALANCE DEFICITS PUT FA PATIENTS IN WHEELCHAIRS, NEARLY ALL FA PATIENTS DIE OF CARDIOMYOPATHY. CURRENTLY, THERE ARE NO DRUG THERAPIES THAT AMELIORATE FA CARDIOMYOPATHY AND MOST WITH FA DIE OF THE CARDIOMYOPATHY IN THEIR 30S.  WE IDENTIFIED REDOX DEFICIENCY IN FA HUMAN FIBROBLASTS, AND USED THIS TO SCREEN A LIBRARY OF 1600 DRUGS ALREADY SAFELY USED IN HUMANS, TO TEST FOR THEIR ABILITY TO PREVENT CELL DEATH IN FA. WE IDENTIFIED DIMETHYL FUMARATE (DMF), A PRODRUG PRECURSOR OF MONOMETHYL FUMARATE (MMF), AS THE MOST PROTECTIVE AMONG ALL TESTED DRUGS. DMF (ALSO KNOWN AS TECFIDERA AND SKILARENCE) IS THE FDA APPROVED DRUG FOR TREATMENT OF MULTIPLE SCLEROSIS (MS) AND PSORIASIS. IN THE MOST PHYSIOLOGICAL MOUSE MODEL OF FA (THE FXNKD), WE FOUND THAT 1) DMF DOSE-DEPENDENTLY RESCUED FXN LEVELS AND THE MITOCHONDRIAL FE-S CLUSTER ENZYMES ACONITASE AND SUCCINATE DEHYDROGENASE ACTIVITY IN THE HEART; 2) DMF SIGNIFICANTLY RESCUED THREE CRITICAL CARDIAC DEFICITS IN MICE THAT RESEMBLE HUMAN FA CARDIAC DEFECTS: A) LEFT VENTRICULAR HYPERTROPHY; B) DECREASED STROKE VOLUME; AND C) DECREASED CARDIAC OUTPUT. PRELIMINARY DATA SUPPORT THE CLAIM THAT DMF IS PROVIDING MITOCHONDRIAL-\u003eFRATAXIN-\u003e FE-S CLUSTER SUPPORT VIA NRF2-DEPENDENT MECHANISM.  ADDITIONALLY, WE RECENTLY SYNTHESIZED AN ALTERNATIVE MMF PRODRUG CALLED IMF, WITH IMPROVED PHARMACOKINETICS THAT MAY BE EVEN MORE POTENT THAN DMF. THEREFORE, WE HYPOTHESIZE THAT FUMARATES DMF/IMF REPRESENT A NOVEL THERAPEUTIC STRATEGY THAT CAN POTENTIALLY BE REPURPOSED FOR THE LETHAL CARDIOMYOPATHY IN FA. THE AIM OF THE CURRENT WORK IS TO DETERMINE THE EFFECTS OF DMF/IMF ON THE FUNCTION OF MOST AFFECTED TISSUES IN FA (HEART AND SKELETAL MUSCLES), AND TO DETERMINE THE MECHANISM OF PROTECTIVE ACTION. DMF HAS ALREADY PASSED THROUGH FDA'S SAFETY, TOXICOLOGY AND DMPK HURDLES, AND THUS COULD ENTER CLINICAL TRIALS MUCH MORE QUICKLY THAN A NEW COMPOUND THAT MUST PASS THROUGH EXTENSIVE SAFETY AND TOXICOLOGY TESTING BEFORE IT COULD BE USED IN CLINICAL TRIALS. HOWEVER, BEFORE ATTEMPTING TO USE THE DRUG IN HUMANS WITH FA, COMPLETION OF THE 'PRE-CLINICAL PACKAGE' FOR DMF/IMF AND THEIR ROLE FOR CARDIAC/SKELETAL MUSCLE PROTECTION IN FA ARE IMPORTANT, AND CAN BE ADDRESSED IN THE THREE SPECIFIC AIMS. AIM 1 IS DESIGNED TO DETERMINE OPTIMAL DOSING OF DMF \u0026 IMF THAT RESCUE CARDIAC AND SKELETAL MUSCLES DEFICITS. AIM 2 IS DESIGNED TO DETERMINE THE MECHANISM RESPONSIBLE FOR FUNCTIONAL RECOVERY IN THE FXNKD MOUSE. AIM 3 IS DESIGNED TO DETERMINE WHETHER OPTIMAL DOSING OF DMF/IMF EXTENDS THE LIFE SPAN OF MOUSE WITH CARDIAC-SPECIFIC FXN KO (MCK-CRE). CUMULATIVELY THESE AIMS WILL GENERATE PRE-CLINICAL DATA FOR THE POTENTIAL USE OF DMF AND IMF FOR LETHAL CARDIOMYOPATHY IN FA. BECAUSE DMF IS ALREADY APPROVED FOR USE IN HUMANS WITH SAFETY/DMPK/TOXICOLOGY AND PHASE I STUDIES ALREADY COMPLETED, IT HAS A GREATER OPPORTUNITY TO BE 'FAST-TRACKED' FOR TREATMENT OF CARDIAC MYOPATHY IN FA.",
+    "total_obligation": 1783166,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2020-12-20",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1517041.18,
+    "total_account_obligation": 1783166,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1517041.18
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1783166
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2020-12-20",
+      "end_date": "2024-11-30",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1517041.18
+  }
+}

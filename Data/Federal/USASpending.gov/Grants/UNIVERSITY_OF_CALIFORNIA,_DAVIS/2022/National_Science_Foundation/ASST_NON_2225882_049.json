@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56961395,
+    "Award ID": "2225882",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 599939,
+    "Total Outlays": 344840.32,
+    "Description": "CNS CORE:SMALL:A HW/SW CODESIGN FRAMEWORK FOR DYNAMIC COMPOSITION OF DISAGGREGATED HARDWARE SYSTEMS SECURELY -TRADITIONALLY DATACENTERS AND HIGH PERFORMANCE COMPUTING (HPC) FACILITIES INCREASE COMPUTE CAPACITY BY ADDING ADDITIONAL SERVERS, WHICH IS INCREASINGLY BECOMING INEFFICIENT SINCE EMERGING WORKLOADS EXHIBIT VERY HIGH PEAK TO AVERAGE MEMORY REQUIREMENTS. MOREOVER, THE FUNDAMENTAL BUILDING BLOCKS OF A MODERN DATA CENTERS AND HPC FACILITIES (THE PROCESSORS) ARE BECOMING INCREASINGLY SPECIALIZED WITH DEDICATED HARDWARE FOR VECTOR/TENSOR PROCESSING, DEEP LEARNING, DIFFERENT MEMORY POOLS SUCH AS DRAM, SRAM, AND NVRAM, AND SPECIAL-PURPOSE INTERCONNECT. REPLICATING SUCH PROCESSORS INVARIABLY RESULTS IN HARDWARE THAT IS NEITHER REQUIRED NOR USEFUL ALL THE TIME BY ALL THE APPLICATIONS. A DISAGGREGATED APPROACH TO COMPUTING SYSTEM DESIGN CAN OVERCOME THESE INEFFICIENCIES BY SELECTING AND COMPOSING THE REQUIRED HARDWARE RESOURCES (E.G., ACCELERATORS, MEMORY) TO MEET THE REQUIREMENTS OF A SPECIFIC WORKFLOW OR APPLICATION. THIS PROJECT AIMS TO MAKE THE DESIGN AND IMPLEMENTATION OF SUCH SYSTEMS PRACTICAL BY ADDRESSING SYSTEM SECURITY AND PERFORMANCE. THE INTELLECTUAL MERIT OF THE PROPOSED WORK LIES IN DEVELOPING A NEW HARDWARE SOFTWARE/CODESIGN FRAMEWORK THAT IS BASED ON VIRTUALIZED REMOTE MEMORY, OBJECT-LEVEL TRACKING FOR EFFICIENT DATA TIERING AND COHERENCE, AND FLEXIBLE MECHANISMS TO CREATE AND ENFORCE HARDWARE-BASED TRUSTED EXECUTION ENVIRONMENTS. WE WILL EVALUATE OUR SOLUTIONS USING A RIGOROUS EVALUATION PLAN BASED ON SYSTEM-LEVEL MODELING AND SIMULATION USING THE GEM5 SOFTWARE INFRASTRUCTURE. ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING ARE EXPECTED TO ACCELERATE SCIENTIFIC DISCOVERY AND PLAY A VERY CRUCIAL ROLE IN ADDRESSING THE GRAND CHALLENGES OF THE 21ST CENTURY SUCH AS CLIMATE CHANGE, SUSTAINABILITY, AND DRUG/VACCINE DISCOVERY WITH BROAD SOCIETAL IMPACT. THIS PROJECT WILL ENABLE TRAINING LARGE SCALE MACHINE LEARNING MODELS AND PERFORM LARGE SCALE DATA ANALYTICS ON DISAGGREGATED HARDWARE SYSTEMS WHICH WILL ALLOW THEM TO BE MORE PERFORMANT AND COST-EFFECTIVE. IN ADDITION, THE MODELING AND SIMULATION ENVIRONMENT IN GEM5 BROADLY IMPACTS COMPUTER ARCHITECTURE AND COMPUTER SYSTEMS RESEARCHERS BEYOND THIS PROJECT. THE MODELS CREATED IN THIS PROJECT WILL BE COMMITTED TO THE UPSTREAM GEM5 PROJECT SO THAT OTHER RESEARCHERS CAN USE THESE MODELS AND BUILD OFF OF OUR DESIGNS. THESE CONTRIBUTIONS WILL IMPACT THE REPRODUCIBILITY AND SUSTAINABILITY OF THIS SOFTWARE INFRASTRUCTURE AND ADVANCE COMPUTER ARCHITECTURE RESEARCH IN GENERAL. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-10-01",
+    "End Date": "2025-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2225882_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56961395,
+    "generated_unique_award_id": "ASST_NON_2225882_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CNS CORE:SMALL:A HW/SW CODESIGN FRAMEWORK FOR DYNAMIC COMPOSITION OF DISAGGREGATED HARDWARE SYSTEMS SECURELY -TRADITIONALLY DATACENTERS AND HIGH PERFORMANCE COMPUTING (HPC) FACILITIES INCREASE COMPUTE CAPACITY BY ADDING ADDITIONAL SERVERS, WHICH IS INCREASINGLY BECOMING INEFFICIENT SINCE EMERGING WORKLOADS EXHIBIT VERY HIGH PEAK TO AVERAGE MEMORY REQUIREMENTS. MOREOVER, THE FUNDAMENTAL BUILDING BLOCKS OF A MODERN DATA CENTERS AND HPC FACILITIES (THE PROCESSORS) ARE BECOMING INCREASINGLY SPECIALIZED WITH DEDICATED HARDWARE FOR VECTOR/TENSOR PROCESSING, DEEP LEARNING, DIFFERENT MEMORY POOLS SUCH AS DRAM, SRAM, AND NVRAM, AND SPECIAL-PURPOSE INTERCONNECT. REPLICATING SUCH PROCESSORS INVARIABLY RESULTS IN HARDWARE THAT IS NEITHER REQUIRED NOR USEFUL ALL THE TIME BY ALL THE APPLICATIONS. A DISAGGREGATED APPROACH TO COMPUTING SYSTEM DESIGN CAN OVERCOME THESE INEFFICIENCIES BY SELECTING AND COMPOSING THE REQUIRED HARDWARE RESOURCES (E.G., ACCELERATORS, MEMORY) TO MEET THE REQUIREMENTS OF A SPECIFIC WORKFLOW OR APPLICATION. THIS PROJECT AIMS TO MAKE THE DESIGN AND IMPLEMENTATION OF SUCH SYSTEMS PRACTICAL BY ADDRESSING SYSTEM SECURITY AND PERFORMANCE. THE INTELLECTUAL MERIT OF THE PROPOSED WORK LIES IN DEVELOPING A NEW HARDWARE SOFTWARE/CODESIGN FRAMEWORK THAT IS BASED ON VIRTUALIZED REMOTE MEMORY, OBJECT-LEVEL TRACKING FOR EFFICIENT DATA TIERING AND COHERENCE, AND FLEXIBLE MECHANISMS TO CREATE AND ENFORCE HARDWARE-BASED TRUSTED EXECUTION ENVIRONMENTS. WE WILL EVALUATE OUR SOLUTIONS USING A RIGOROUS EVALUATION PLAN BASED ON SYSTEM-LEVEL MODELING AND SIMULATION USING THE GEM5 SOFTWARE INFRASTRUCTURE. ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING ARE EXPECTED TO ACCELERATE SCIENTIFIC DISCOVERY AND PLAY A VERY CRUCIAL ROLE IN ADDRESSING THE GRAND CHALLENGES OF THE 21ST CENTURY SUCH AS CLIMATE CHANGE, SUSTAINABILITY, AND DRUG/VACCINE DISCOVERY WITH BROAD SOCIETAL IMPACT. THIS PROJECT WILL ENABLE TRAINING LARGE SCALE MACHINE LEARNING MODELS AND PERFORM LARGE SCALE DATA ANALYTICS ON DISAGGREGATED HARDWARE SYSTEMS WHICH WILL ALLOW THEM TO BE MORE PERFORMANT AND COST-EFFECTIVE. IN ADDITION, THE MODELING AND SIMULATION ENVIRONMENT IN GEM5 BROADLY IMPACTS COMPUTER ARCHITECTURE AND COMPUTER SYSTEMS RESEARCHERS BEYOND THIS PROJECT. THE MODELS CREATED IN THIS PROJECT WILL BE COMMITTED TO THE UPSTREAM GEM5 PROJECT SO THAT OTHER RESEARCHERS CAN USE THESE MODELS AND BUILD OFF OF OUR DESIGNS. THESE CONTRIBUTIONS WILL IMPACT THE REPRODUCIBILITY AND SUSTAINABILITY OF THIS SOFTWARE INFRASTRUCTURE AND ADVANCE COMPUTER ARCHITECTURE RESEARCH IN GENERAL. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 599939,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-07-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 387056.58,
+    "total_account_obligation": 599939,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 387056.58
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 599939
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF COMPUTER  NETWORK SYSTEMS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF COMPUTER  NETWORK SYSTEMS"
+    },
+    "period_of_performance": {
+      "start_date": "2022-10-01",
+      "end_date": "2025-09-30",
+      "last_modified_date": "2022-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 387056.58
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173194645,
+    "Award ID": "R01DK142845",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 647290,
+    "Total Outlays": null,
+    "Description": "INTERPLAY BETWEEN BRAIN OXYTOCIN AND CRF SYSTEMS IN STRESS-RELATED VISCERAL ANALGESIA VS HYPERALGESIA: IMPLICATIONS IN IBS - PROJECT ABSTRACT IRRITABLE BOWEL SYNDROME (IBS), THE MAIN BOWEL DISORDER OF THE GUT-BRAIN INTERACTION (DGBI), AFFECTS UP TO 10% OF THE US POPULATION AND IS CHARACTERIZED BY CHRONIC ABDOMINAL PAIN AND ALTERED BOWEL HABITS. EARLY LIFE ADVERSITY (ELA) IS RECOGNIZED AS A MAJOR PREDISPOSING FACTOR FOR THE DEVELOPMENT OF IBS LATER IN LIFE. DESPITE YEARS OF RESEARCH, ABDOMINAL PAIN, THE MOST IMPORTANT DETERMINANT OF IBS SEVERITY, QUALITY OF LIFE IMPAIRMENT AND HEALTHCARE UTILIZATION, REMAINS A SIGNIFICANT CHALLENGE IN IBS MANAGEMENT AND AN UNMET NEED IN PATIENTS. MOUNTING EVIDENCE INDICATES THAT IBS PATIENTS HAVE COMPROMISED ENGAGEMENT OF THE INHIBITORY DESCENDING PAIN MODULATION SYSTEMS, AND CONTRARY TO HEALTHY SUBJECTS, DO NOT RESPOND WITH A DECREASED VISCERAL PAIN TO RECTAL DISTENTION UNDER CONDITIONS OF HETEROTYPIC STIMULUS. USING A NOVEL NON-INVASIVE METHOD OF VISCERAL PAIN MONITORING, WE DISCOVERED THAT RATS EXPOSED TO AN ACUTE OR REPEATED WATER AVOIDANCE STRESS (RWAS), A PSYCHOLOGICAL STRESSOR, DISPLAY A STRESS-INDUCED VISCERAL ANALGESIA (SIVA). ACUTE WAS-INDUCED SIVA IN NAÏVE MALE RATS CAN BE REPRODUCED BY LOW DOSE CENTRAL INJECTIONS OF CRF, SUPPORTING A ROLE FOR BRAIN CRF SIGNALING IN SIVA. IN ADDITION, WE ESTABLISHED THAT RWAS-INDUCED SIVA IS PARTLY OPIATE-DEPENDENT IN FEMALE AND OPIATE- INDEPENDENT IN MALE RATS. IN PRELIMINARY DATA, WE SHOW THAT SIVA INDUCED BY ACUTE WAS OR ICV CRF DEPENDS ON THE CENTRAL OXYTOCIN (OT) SYSTEM, WHICH ALSO EXERTS AN INHIBITORY TONE ON BASAL VISCERAL PAIN IN MALE RATS. WE FURTHER SHOW THAT BOTH MALE AND FEMALE ADULT RATS EXPOSED TO ELA IN THE FORM OF LIMITED BEDDING STRESS (LBS) AS NEONATES LOSE THEIR ABILITY TO MOUNT A SIVA IN RESPONSE TO RWAS, AND MALES, BUT NOT FEMALES, DEVELOP A DELAYED STRESS-INDUCED VISCERAL HYPERALGESIA (SIVH). BASED ON EXISTING AND OUR NOVEL FINDINGS, WE PROPOSE THAT THE LOSS OF SIVA AND RESULTING SIVH TO RWAS WITH PRIOR EXPOSURE TO ELA IS LINKED TO A DYSREGULATION OF BRAIN OXYTOCINERGIC PATHWAYS. THE HYPOTHESIS WILL BE TESTED IN THREE AIMS: AIM 1 WILL ESTABLISH THAT BOTH BRAIN CRF AND OT SIGNALING CONTRIBUTE TO VISCERAL ANALGESIA AND INTERACT THROUGHOUT THE PAIN MODULATING PATHWAYS TO PRODUCE SIVA IN A SEX- DEPENDENT MANNER. IN AIM 2, WE WILL ESTABLISH THE DYSFUNCTION OF CENTRAL OT FOLLOWING ELA, AND INVESTIGATE WHETHER ALTERATIONS OCCURRING AT THE FUNCTIONAL (OT RELEASE, OT RECEPTOR EXPRESSION, OXYTOCINASE, EPIGENETIC ALTERATIONS) UNDERLIE THE LOSS OF SIVA AND DEVELOPMENT OF HYPERALGESIA IN ADULT RATS EXPOSED TO LIMITED BEDDING STRESS (LBS) AS NEONATES. IN AIM 3, WE WILL TEST WHETHER THE ELA-INDUCED CENTRAL OXYTOCIN DYSFUNCTION CAN BE CORRECTED USING BRAIN- OR MICROBIOTA-TARGETED APPROACHES. WE WILL USE INTEGRATIVE APPROACHES INCLUDING MOLECULAR, PHARMACOLOGICAL, BIOASSAY, IMMUNOHISTOCHEMISTRY, IN VIVO FUNCTIONAL ASSAYS AND STATE OF THE ART TECHNIQUES SUCH AS RNASCOPE-ISH-IHC COMBINED ANALYSIS. STUDYING HOW ALTERATIONS IN THE INTERACTION BETWEEN THE CENTRAL OXYTOCIN AND CRF SYSTEMS PARTICIPATE IN THE EXPRESSION OF STRESS-RELATED VISCERAL ANALGESIA OR LOSS THEREOF COULD HELP EXPLAIN THE DIFFERENT DEGREES OF VISCERAL HYPERSENSITIVITY IN IBS AND INFORM THE DEVELOPMENT OF SAFER AND MORE EFFECTIVE TREATMENTS FOR ABDOMINAL PAIN IN STRESS-SENSITIVE IBS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4200",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-07-01",
+    "End Date": "2030-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DK142845_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173194645,
+    "generated_unique_award_id": "ASST_NON_R01DK142845_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INTERPLAY BETWEEN BRAIN OXYTOCIN AND CRF SYSTEMS IN STRESS-RELATED VISCERAL ANALGESIA VS HYPERALGESIA: IMPLICATIONS IN IBS - PROJECT ABSTRACT IRRITABLE BOWEL SYNDROME (IBS), THE MAIN BOWEL DISORDER OF THE GUT-BRAIN INTERACTION (DGBI), AFFECTS UP TO 10% OF THE US POPULATION AND IS CHARACTERIZED BY CHRONIC ABDOMINAL PAIN AND ALTERED BOWEL HABITS. EARLY LIFE ADVERSITY (ELA) IS RECOGNIZED AS A MAJOR PREDISPOSING FACTOR FOR THE DEVELOPMENT OF IBS LATER IN LIFE. DESPITE YEARS OF RESEARCH, ABDOMINAL PAIN, THE MOST IMPORTANT DETERMINANT OF IBS SEVERITY, QUALITY OF LIFE IMPAIRMENT AND HEALTHCARE UTILIZATION, REMAINS A SIGNIFICANT CHALLENGE IN IBS MANAGEMENT AND AN UNMET NEED IN PATIENTS. MOUNTING EVIDENCE INDICATES THAT IBS PATIENTS HAVE COMPROMISED ENGAGEMENT OF THE INHIBITORY DESCENDING PAIN MODULATION SYSTEMS, AND CONTRARY TO HEALTHY SUBJECTS, DO NOT RESPOND WITH A DECREASED VISCERAL PAIN TO RECTAL DISTENTION UNDER CONDITIONS OF HETEROTYPIC STIMULUS. USING A NOVEL NON-INVASIVE METHOD OF VISCERAL PAIN MONITORING, WE DISCOVERED THAT RATS EXPOSED TO AN ACUTE OR REPEATED WATER AVOIDANCE STRESS (RWAS), A PSYCHOLOGICAL STRESSOR, DISPLAY A STRESS-INDUCED VISCERAL ANALGESIA (SIVA). ACUTE WAS-INDUCED SIVA IN NAÏVE MALE RATS CAN BE REPRODUCED BY LOW DOSE CENTRAL INJECTIONS OF CRF, SUPPORTING A ROLE FOR BRAIN CRF SIGNALING IN SIVA. IN ADDITION, WE ESTABLISHED THAT RWAS-INDUCED SIVA IS PARTLY OPIATE-DEPENDENT IN FEMALE AND OPIATE- INDEPENDENT IN MALE RATS. IN PRELIMINARY DATA, WE SHOW THAT SIVA INDUCED BY ACUTE WAS OR ICV CRF DEPENDS ON THE CENTRAL OXYTOCIN (OT) SYSTEM, WHICH ALSO EXERTS AN INHIBITORY TONE ON BASAL VISCERAL PAIN IN MALE RATS. WE FURTHER SHOW THAT BOTH MALE AND FEMALE ADULT RATS EXPOSED TO ELA IN THE FORM OF LIMITED BEDDING STRESS (LBS) AS NEONATES LOSE THEIR ABILITY TO MOUNT A SIVA IN RESPONSE TO RWAS, AND MALES, BUT NOT FEMALES, DEVELOP A DELAYED STRESS-INDUCED VISCERAL HYPERALGESIA (SIVH). BASED ON EXISTING AND OUR NOVEL FINDINGS, WE PROPOSE THAT THE LOSS OF SIVA AND RESULTING SIVH TO RWAS WITH PRIOR EXPOSURE TO ELA IS LINKED TO A DYSREGULATION OF BRAIN OXYTOCINERGIC PATHWAYS. THE HYPOTHESIS WILL BE TESTED IN THREE AIMS: AIM 1 WILL ESTABLISH THAT BOTH BRAIN CRF AND OT SIGNALING CONTRIBUTE TO VISCERAL ANALGESIA AND INTERACT THROUGHOUT THE PAIN MODULATING PATHWAYS TO PRODUCE SIVA IN A SEX- DEPENDENT MANNER. IN AIM 2, WE WILL ESTABLISH THE DYSFUNCTION OF CENTRAL OT FOLLOWING ELA, AND INVESTIGATE WHETHER ALTERATIONS OCCURRING AT THE FUNCTIONAL (OT RELEASE, OT RECEPTOR EXPRESSION, OXYTOCINASE, EPIGENETIC ALTERATIONS) UNDERLIE THE LOSS OF SIVA AND DEVELOPMENT OF HYPERALGESIA IN ADULT RATS EXPOSED TO LIMITED BEDDING STRESS (LBS) AS NEONATES. IN AIM 3, WE WILL TEST WHETHER THE ELA-INDUCED CENTRAL OXYTOCIN DYSFUNCTION CAN BE CORRECTED USING BRAIN- OR MICROBIOTA-TARGETED APPROACHES. WE WILL USE INTEGRATIVE APPROACHES INCLUDING MOLECULAR, PHARMACOLOGICAL, BIOASSAY, IMMUNOHISTOCHEMISTRY, IN VIVO FUNCTIONAL ASSAYS AND STATE OF THE ART TECHNIQUES SUCH AS RNASCOPE-ISH-IHC COMBINED ANALYSIS. STUDYING HOW ALTERATIONS IN THE INTERACTION BETWEEN THE CENTRAL OXYTOCIN AND CRF SYSTEMS PARTICIPATE IN THE EXPRESSION OF STRESS-RELATED VISCERAL ANALGESIA OR LOSS THEREOF COULD HELP EXPLAIN THE DIFFERENT DEGREES OF VISCERAL HYPERSENSITIVITY IN IBS AND INFORM THE DEVELOPMENT OF SAFER AND MORE EFFECTIVE TREATMENTS FOR ABDOMINAL PAIN IN STRESS-SENSITIVE IBS.",
+    "total_obligation": 647290,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 647290,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 647290
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-07-01",
+      "end_date": "2030-04-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4200",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

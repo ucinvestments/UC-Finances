@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 175158838,
+    "Award ID": "97T44201",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 959752,
+    "Total Outlays": null,
+    "Description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO UNIVERSITY OF CALIFORNIA DAVIS TO IMPLEMENT THE IN-LAKE WATER TREATMENT SYSTEM AT CLEAR LAKE AS DIRECTED IN THE 2024 CONSOLIDATED APPROPRIATIONS ACT. THE FUNDING AWARDED TO THE UNIVERSITY IS INTENDED FOR THE RENTAL AND SUPPLY OF OXYGEN THAT WILL BE USED TO SUPPORT ACTIVITIES OF A WATER TREATMENT SYSTEM THAT WILL BE PLACED IN CLEAR LAKE TO OFFSET THE IMPACTS OF LOW OXYGEN WHICH INCLUDE NUTRIENT AND HEAVY METAL CYCLING WITHIN THE WATER.\n\nTHIS ASSISTANCE AGREEMENT PROVIDES FULL FEDERAL FUNDING IN THE AMOUNT OF $959,752.  \nACTIVITIES:THE ACTIVITIES TO BE PERFORMED INCLUDE THE EXECUTION AND IMPLEMENTATION OF THE IN-LAKE WATER TREATMENT SYSTEM AT CLEAR LAKE. WORKPLAN ACTIVITIES CONSIST OF: THE RENTAL OF EQUIPMENT INCLUDING HOS ON-LAND EQUIPMENT (TASK 1), AND SUPPLY OF LIQUID OXYGEN DURING DEMONSTRATION BY A SPECIALIZED SUPPLIER (TASK 2), PERSONNEL COSTS FOR PLANNING AND MANAGEMENT, FRINGE BENEFITS, SUPPLIES OF LIQUID OXYGEN, AND INDIRECT COSTS. \n\nSUBRECIPIENT:NO SUBAWARDS ARE INCLUDED IN THIS ASSISTANCE AGREEMENT.OUTCOMES:THE ANTICIPATED DELIVERABLES INCLUDE DRAFT AND FINAL DESIGN OF HOS (PDF AND TWO LARGE-FORMAT PRINTED COPIES) STAMPED BY A PROFESSIONAL ENGINEER REGISTERED IN CALIFORNIA; DOCUMENT SUMMARIZING HOW DRAFT COMMENTS WERE ADDRESSED; CONSTRUCTION PLANS (SCHEDULE, SITE WORK PLAN). ALSO, A SUPPLY CONTRACT AND SELECTION OF A SUITABLE SUPPLIER FOR THE RENTAL EQUIPMENT AND THE SUPPLY OF LIQUID OXYGEN. PROJECT MANAGEMENT DELIVERABLE INCLUDES REPORTING ON COMPLETED WORK. PROGRESS AND COMPLETION WILL BE DOCUMENTED IN QUARTERLY PROJECT REPORTS SUBMITTED TO EPA.\n\nTHE EXPECTED OUTCOMES INCLUDE OXYGEN BEING SUPPLIED TO LAKE BOTTOM, DECREASED SEVERITY OF ALGAL BLOOMS, MOVEMENT OF OXYGEN ACROSS BASIN, REDUCTION IN INTERNAL PHOSPHORUS LOADING.\n\nTHE INTENDED BENEFICIARIES INCLUDE THE RESIDENTS OF THE AREA, AND THE POPULATION WHO VISITS CLEAR LAKE. CLEAR LAKE, CA IS THE LARGEST LAKE IN CALIFORNIA, AND VITAL FOR THE LOCAL CULTURE AND ECONOMY OF LAKE COUNTY, YET THE LAKE IS HIGHLY IMPAIRED IN KEY WATER USES. CLEAR LAKE IS ESSENTIAL FOR THE CULTURAL AND ECONOMIC ACTIVITIES, A VITAL SOURCE OF DRINKING WATER SUPPLY FOR MANY COMMUNITIES, AND CRUCIAL FOR TOURISM AND RECREATIONAL ACTIVITIES SUCH AS FISHING AND BOATING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "CLEARLAKE",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "033",
+      "county_name": "LAKE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95422",
+      "zip5": "95422"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Environmental Protection Agency",
+    "Awarding Sub Agency": "Environmental Protection Agency",
+    "Start Date": "2025-10-01",
+    "End Date": "2027-10-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_97T44201_068",
+    "awarding_agency_id": 700,
+    "agency_slug": "environmental-protection-agency",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 175158838,
+    "generated_unique_award_id": "ASST_NON_97T44201_068",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "DESCRIPTION:THIS AGREEMENT PROVIDES FUNDING TO UNIVERSITY OF CALIFORNIA DAVIS TO IMPLEMENT THE IN-LAKE WATER TREATMENT SYSTEM AT CLEAR LAKE AS DIRECTED IN THE 2024 CONSOLIDATED APPROPRIATIONS ACT. THE FUNDING AWARDED TO THE UNIVERSITY IS INTENDED FOR THE RENTAL AND SUPPLY OF OXYGEN THAT WILL BE USED TO SUPPORT ACTIVITIES OF A WATER TREATMENT SYSTEM THAT WILL BE PLACED IN CLEAR LAKE TO OFFSET THE IMPACTS OF LOW OXYGEN WHICH INCLUDE NUTRIENT AND HEAVY METAL CYCLING WITHIN THE WATER.\n\nTHIS ASSISTANCE AGREEMENT PROVIDES FULL FEDERAL FUNDING IN THE AMOUNT OF $959,752.  \nACTIVITIES:THE ACTIVITIES TO BE PERFORMED INCLUDE THE EXECUTION AND IMPLEMENTATION OF THE IN-LAKE WATER TREATMENT SYSTEM AT CLEAR LAKE. WORKPLAN ACTIVITIES CONSIST OF: THE RENTAL OF EQUIPMENT INCLUDING HOS ON-LAND EQUIPMENT (TASK 1), AND SUPPLY OF LIQUID OXYGEN DURING DEMONSTRATION BY A SPECIALIZED SUPPLIER (TASK 2), PERSONNEL COSTS FOR PLANNING AND MANAGEMENT, FRINGE BENEFITS, SUPPLIES OF LIQUID OXYGEN, AND INDIRECT COSTS. \n\nSUBRECIPIENT:NO SUBAWARDS ARE INCLUDED IN THIS ASSISTANCE AGREEMENT.OUTCOMES:THE ANTICIPATED DELIVERABLES INCLUDE DRAFT AND FINAL DESIGN OF HOS (PDF AND TWO LARGE-FORMAT PRINTED COPIES) STAMPED BY A PROFESSIONAL ENGINEER REGISTERED IN CALIFORNIA; DOCUMENT SUMMARIZING HOW DRAFT COMMENTS WERE ADDRESSED; CONSTRUCTION PLANS (SCHEDULE, SITE WORK PLAN). ALSO, A SUPPLY CONTRACT AND SELECTION OF A SUITABLE SUPPLIER FOR THE RENTAL EQUIPMENT AND THE SUPPLY OF LIQUID OXYGEN. PROJECT MANAGEMENT DELIVERABLE INCLUDES REPORTING ON COMPLETED WORK. PROGRESS AND COMPLETION WILL BE DOCUMENTED IN QUARTERLY PROJECT REPORTS SUBMITTED TO EPA.\n\nTHE EXPECTED OUTCOMES INCLUDE OXYGEN BEING SUPPLIED TO LAKE BOTTOM, DECREASED SEVERITY OF ALGAL BLOOMS, MOVEMENT OF OXYGEN ACROSS BASIN, REDUCTION IN INTERNAL PHOSPHORUS LOADING.\n\nTHE INTENDED BENEFICIARIES INCLUDE THE RESIDENTS OF THE AREA, AND THE POPULATION WHO VISITS CLEAR LAKE. CLEAR LAKE, CA IS THE LARGEST LAKE IN CALIFORNIA, AND VITAL FOR THE LOCAL CULTURE AND ECONOMY OF LAKE COUNTY, YET THE LAKE IS HIGHLY IMPAIRED IN KEY WATER USES. CLEAR LAKE IS ESSENTIAL FOR THE CULTURAL AND ECONOMIC ACTIVITIES, A VITAL SOURCE OF DRINKING WATER SUPPLY FOR MANY COMMUNITIES, AND CRUCIAL FOR TOURISM AND RECREATIONAL ACTIVITIES SUCH AS FISHING AND BOATING.",
+    "total_obligation": 959752,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-08-05",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 959752,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 959752
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 700,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "068",
+        "abbreviation": "EPA",
+        "slug": "environmental-protection-agency"
+      },
+      "subtier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "6800",
+        "abbreviation": "EPA"
+      },
+      "office_agency_name": "REGION 9 (FUNDING OFFICE)"
+    },
+    "awarding_agency": {
+      "id": 700,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "068",
+        "abbreviation": "EPA",
+        "slug": "environmental-protection-agency"
+      },
+      "subtier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "6800",
+        "abbreviation": "EPA"
+      },
+      "office_agency_name": "REGION 9 (GRANTS OFFICE)"
+    },
+    "period_of_performance": {
+      "start_date": "2025-10-01",
+      "end_date": "2027-10-31",
+      "last_modified_date": "2025-09-08",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "CLEARLAKE",
+      "county_code": "033",
+      "county_name": "LAKE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95422",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

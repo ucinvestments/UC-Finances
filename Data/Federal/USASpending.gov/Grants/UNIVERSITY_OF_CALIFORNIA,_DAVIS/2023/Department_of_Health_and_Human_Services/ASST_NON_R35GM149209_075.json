@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91330128,
+    "Award ID": "R35GM149209",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1397125,
+    "Total Outlays": 1074089.05,
+    "Description": "STUDIES IN THE SYNTHESIS OF COMPLEX ORGANIC MOLECULES WITH DONOR-DONOR CARBENES - PROJECT SUMMARY/ABSTRACT AN URGENT NEED EXISTS FOR NEW METHODS TO RAPIDLY PREPARE COMPLEX MOLECULES WITH THE POTENTIAL TO BECOME NEW DRUGS. THERE IS A WIDENING GAP IN BOTH THE ACCESSIBILITY OF COMPLEX CORE STRUCTURES THAT ARE DIFFICULT TO EXPLOIT AND IN THE AVAILABILITY OF CORE STRUCTURES THAT ARE NOT ALREADY THE SUBJECT OF NUMEROUS PATENTS. THIS GAP WILL BE ADDRESSED BY IDENTIFYING NEW SYNTHETIC METHODS THAT ACHIEVE THE DUAL GOALS OF ENABLING EFFICIENT ACCESS TO USEFUL CORES AND EXPLORING PREVIOUSLY INACCESSIBLE \"CHEMICAL SPACE.\" THE LONG-TERM GOAL OF OUR RESEARCH PROGRAM IS TO UNDERSTAND THE REACTIVITY OF UNSTABILIZED METAL CARBENES. THE OBJECTIVE OF THIS APPLICATION IS TO EXPLORE THE ABILITY OF RHODIUM DONOR-DONOR CARBENES TO ENGAGE IN A WIDE VARIETY OF USEFUL NEW APPLICATIONS. THE CENTRAL HYPOTHESIS IS THAT APPENDING TWO \"DONOR\" GROUPS TO A CARBENE OPENS UP NEW AVENUES OF REACTIVITY FOR ORGANIC CHEMISTRY. THIS HYPOTHESIS IS SUPPORTED BY PRELIMINARY RESULTS REGARDING A) THE UNIQUE ABILITY OF DONOR/DONOR CARBENES TO ENGAGE IN HIGHLY ENANTIOSELECTIVE C–H INSERTION REACTIONS AND B) A NEW MILD AND CATALYTIC PROCESS FOR THE FORMATION OF REACTIVE DIENES FOR CYCLOADDITION REACTIONS! SMALL MOLECULES COMPRISE THE VAST MAJORITY OF TREATMENTS FOR BOTH ACUTE AND CHRONIC DISEASES IN BOTH THE DEVELOPED AND DEVELOPING WORLD. RESEARCH IN THIS APPLICATION WILL LAY THE GROUNDWORK TO SAVE LIVES AND ENABLE THE NEXT GENERATION OF PHARMACEUTICAL DISCOVERY BY FOCUSING ON THREE AREAS OF RESEARCH. FIRST, WE WILL EXPLORE NEW C–H INSERTION REACTIONS THE ENABLE THE SYNTHESIS OF COMPLEX CARBA- AND HETEROCYCLIC STRUCTURES, CULMINATING IN AN EFFICIENT SYNTHESIS OF POLYCYCLIC ALKALOID NATURAL PRODUCTS THAT WILL BE STUDIES FOR THE ABILITY TO INDUCE NEUROPLASTICITY FOR THE TREATMENT OF PTSD, DEPRESSION AND OTHER NEUROLOGICAL DISORDERS. SECOND, WE WILL EXPLORE NEW REACTIONS OF RHODIUM DONOR-DONOR CARBENES THAT BRANCH OUT FORM C–H INSERTION INTO NEW REACTIONS THAT ACCESS NEW CHEMOTYPES. FINALLY, WE WILL, FOR THE FIRST TIME, BUILD A QSSR MODEL THAT WILL ENABLE THE DESIGN, SYNTHESIS AND EXPLORATION OF NEW CATALYSTS THAT ARE CUSTOM-DESIGNED TO ENHANCE THE REACTIVITY OF DONOR-DONOR CARBENES. THE PROPOSED APPROACH IS INNOVATIVE BECAUSE IT IS BASED ON A NEW METHODOLOGICAL PLATFORM THAT ENABLES PREVIOUSLY INACCESSIBLE CHEMICAL REACTIVITY. THIS RESEARCH IS SIGNIFICANT BECAUSE IT WILL CHANGE THE WAY SYNTHETIC CHEMISTS APPROACH TARGETS WHILE AT THE SAME TIME OPENING UP NEW VISTAS FOR DISCOVERY OF USEFUL MOLECULES FOR MEDICINE AND OTHER FIELDS. ULTIMATELY, THE DISCOVERIES EMERGING FROM OUR RESEARCH WILL REPRESENT A VERTICAL STEP IN THE ASSEMBLY OF MOLECULAR ARCHITECTURES THAT WILL TRANSLATE INTO NEW MEDICINES TO ADDRESS OUR SOCIETY'S MOST PRESSING HEALTH CHALLENGES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-01",
+    "End Date": "2028-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM149209_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91330128,
+    "generated_unique_award_id": "ASST_NON_R35GM149209_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "STUDIES IN THE SYNTHESIS OF COMPLEX ORGANIC MOLECULES WITH DONOR-DONOR CARBENES - PROJECT SUMMARY/ABSTRACT AN URGENT NEED EXISTS FOR NEW METHODS TO RAPIDLY PREPARE COMPLEX MOLECULES WITH THE POTENTIAL TO BECOME NEW DRUGS. THERE IS A WIDENING GAP IN BOTH THE ACCESSIBILITY OF COMPLEX CORE STRUCTURES THAT ARE DIFFICULT TO EXPLOIT AND IN THE AVAILABILITY OF CORE STRUCTURES THAT ARE NOT ALREADY THE SUBJECT OF NUMEROUS PATENTS. THIS GAP WILL BE ADDRESSED BY IDENTIFYING NEW SYNTHETIC METHODS THAT ACHIEVE THE DUAL GOALS OF ENABLING EFFICIENT ACCESS TO USEFUL CORES AND EXPLORING PREVIOUSLY INACCESSIBLE \"CHEMICAL SPACE.\" THE LONG-TERM GOAL OF OUR RESEARCH PROGRAM IS TO UNDERSTAND THE REACTIVITY OF UNSTABILIZED METAL CARBENES. THE OBJECTIVE OF THIS APPLICATION IS TO EXPLORE THE ABILITY OF RHODIUM DONOR-DONOR CARBENES TO ENGAGE IN A WIDE VARIETY OF USEFUL NEW APPLICATIONS. THE CENTRAL HYPOTHESIS IS THAT APPENDING TWO \"DONOR\" GROUPS TO A CARBENE OPENS UP NEW AVENUES OF REACTIVITY FOR ORGANIC CHEMISTRY. THIS HYPOTHESIS IS SUPPORTED BY PRELIMINARY RESULTS REGARDING A) THE UNIQUE ABILITY OF DONOR/DONOR CARBENES TO ENGAGE IN HIGHLY ENANTIOSELECTIVE C–H INSERTION REACTIONS AND B) A NEW MILD AND CATALYTIC PROCESS FOR THE FORMATION OF REACTIVE DIENES FOR CYCLOADDITION REACTIONS! SMALL MOLECULES COMPRISE THE VAST MAJORITY OF TREATMENTS FOR BOTH ACUTE AND CHRONIC DISEASES IN BOTH THE DEVELOPED AND DEVELOPING WORLD. RESEARCH IN THIS APPLICATION WILL LAY THE GROUNDWORK TO SAVE LIVES AND ENABLE THE NEXT GENERATION OF PHARMACEUTICAL DISCOVERY BY FOCUSING ON THREE AREAS OF RESEARCH. FIRST, WE WILL EXPLORE NEW C–H INSERTION REACTIONS THE ENABLE THE SYNTHESIS OF COMPLEX CARBA- AND HETEROCYCLIC STRUCTURES, CULMINATING IN AN EFFICIENT SYNTHESIS OF POLYCYCLIC ALKALOID NATURAL PRODUCTS THAT WILL BE STUDIES FOR THE ABILITY TO INDUCE NEUROPLASTICITY FOR THE TREATMENT OF PTSD, DEPRESSION AND OTHER NEUROLOGICAL DISORDERS. SECOND, WE WILL EXPLORE NEW REACTIONS OF RHODIUM DONOR-DONOR CARBENES THAT BRANCH OUT FORM C–H INSERTION INTO NEW REACTIONS THAT ACCESS NEW CHEMOTYPES. FINALLY, WE WILL, FOR THE FIRST TIME, BUILD A QSSR MODEL THAT WILL ENABLE THE DESIGN, SYNTHESIS AND EXPLORATION OF NEW CATALYSTS THAT ARE CUSTOM-DESIGNED TO ENHANCE THE REACTIVITY OF DONOR-DONOR CARBENES. THE PROPOSED APPROACH IS INNOVATIVE BECAUSE IT IS BASED ON A NEW METHODOLOGICAL PLATFORM THAT ENABLES PREVIOUSLY INACCESSIBLE CHEMICAL REACTIVITY. THIS RESEARCH IS SIGNIFICANT BECAUSE IT WILL CHANGE THE WAY SYNTHETIC CHEMISTS APPROACH TARGETS WHILE AT THE SAME TIME OPENING UP NEW VISTAS FOR DISCOVERY OF USEFUL MOLECULES FOR MEDICINE AND OTHER FIELDS. ULTIMATELY, THE DISCOVERIES EMERGING FROM OUR RESEARCH WILL REPRESENT A VERTICAL STEP IN THE ASSEMBLY OF MOLECULAR ARCHITECTURES THAT WILL TRANSLATE INTO NEW MEDICINES TO ADDRESS OUR SOCIETY'S MOST PRESSING HEALTH CHALLENGES.",
+    "total_obligation": 1397125,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-08-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1074089.05,
+    "total_account_obligation": 1397125,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1074089.05
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1397125
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2028-06-30",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1074089.05
+  }
+}

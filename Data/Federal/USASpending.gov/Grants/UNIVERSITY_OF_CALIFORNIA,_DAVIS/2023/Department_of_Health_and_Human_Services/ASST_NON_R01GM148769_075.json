@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91197569,
+    "Award ID": "R01GM148769",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1301675,
+    "Total Outlays": 950976.66,
+    "Description": "ACTIN GATING OF CROSSTALK BETWEEN RHO GTPASES IN CELL MIGRATION - PROJECT SUMMARY/ABSTRACT PERSISTENT CELL MIGRATION IS FUNDAMENTAL FOR IMMUNE RESPONSES, DEVELOPMENT, AND THE DISSEMINATION OF CANCER CELLS. THIS MIGRATION REQUIRES THE ESTABLISHMENT AND MAINTENANCE OF STABLE CELL POLARITY, EVEN WHILE A CELL INTEGRATES NOISY HETEROGENEOUS CUES FROM ITS ENVIRONMENT. TO ACHIEVE THIS, RHO FAMILY GTPASES ACT AS CENTRAL HUBS THAT ORGANIZE SIGNALING CASCADES AND CYTOSKELETAL REARRANGEMENTS INTO SUBCELLULAR DOMAINS. FEEDBACK AND CROSSTALK CONNECTIONS ARE THOUGHT TO BE CENTRAL TO THIS PATTERN-FORMING ABILITY. HOWEVER, THE WIRING OF THIS CIRCUIT IS STILL INCOMPLETELY UNDERSTOOD, AND THERE ARE MAJOR GAPS IN OUR UNDERSTANDING OF HOW NEGATIVE REGULATORS LIMIT AND SEPARATE SPATIAL DOMAINS. DETERMINING THESE MOLECULAR CONNECTIONS IN MIGRATING LEUKOCYTES WOULD IDENTIFY NEW THERAPEUTIC TARGETS FOR TREATING INFLAMMATION AND WOULD BE BROADLY RELEVANT FOR UNDERSTANDING RHO GTPASE FUNCTION IN MANY CELL TYPES AND BIOLOGICAL PROCESSES. MAJOR OBSTACLES TO PROGRESS HAVE BEEN THE FAST TIMESCALE AND INHERENTLY SPATIAL NATURE OF THE SIGNALING SYSTEM. TO ADDRESS THESE CHALLENGES, WE HAVE DEVELOPED NEW MOLECULAR TOOLS THAT ALLOW US TO CONTROL THE ACTIVITY OF INDIVIDUAL KEY COMPONENTS WITH LIGHT WHILE MEASURING THE RESPONSE OF A SECOND COMPONENT WITH SUBCELLULAR RESOLUTION IN LIVE SINGLE CELLS. OUR PRELIMINARY RESULTS INDICATE THAT IN ADDITION TO ACTING AS OUTPUTS TO MOVE THE CELL, DIFFERENT ACTIN ASSEMBLIES ARE INTIMATELY INVOLVED IN THE BIOCHEMICAL WIRING OF RHO GTPASE CROSSTALK. WE HAVE IDENTIFIED AN “ACTIN-GATED” CROSSTALK CONNECTION BETWEEN RHOA AND CDC42, AND WE HAVE IDENTIFIED THE PROTEIN ARHGAP30 AS A PREVIOUSLY UNAPPRECIATED PRIMARY REGULATOR OF CDC42 THAT IS CRITICAL FOR POLARIZATION AND MIGRATION IN LEUKOCYTES. WE HYPOTHESIZE THAT DIFFERENT ACTIN ASSEMBLIES ACT AS SCAFFOLDS TO LOCALIZE REGULATORS OF RHO GTPASE CROSSTALK, CREATING SUBCELLULAR ZONES WITH DISTINCT SIGNAL WIRING TO PROMOTE STABLE CELL POLARITY. SPECIFICALLY, WE AIM TO 1) DETERMINE HOW BRANCHED ACTIN ASSEMBLY REGULATES CDC42 AND RHOA ACTIVITIES IN LEUKOCYTE CELLS, 2) DETERMINE HOW THE LOCAL ACTIN NETWORK STRUCTURE CONTROLS CROSSTALK BETWEEN RHOA AND CDC42, AND 3) DETERMINE THE REGULATION AND ROLE OF ARHGAP30 IN CROSSTALK AND POLARITY SIGNALING. OUR APPROACH WILL COMBINE NEW TOOL SETS FOR OPTICAL CONTROL OF SIGNALING AND CYTOSKELETAL COMPONENTS WITH SIMULTANEOUS MEASUREMENT OF ACTIN ASSEMBLIES AND RHO GTPASE ACTIVITIES IN SINGLE CELLS. IN COMBINATION, WE WILL USE CHEMICAL PERTURBATIONS, MUTATIONAL ANALYSIS, AND BIOCHEMICAL APPROACHES TO CHARACTERIZE MOLECULAR CONNECTIONS. OUR LONG-TERM GOALS ARE TO DETERMINE HOW RECIPROCAL REGULATION BETWEEN ACTIN AND RHO GTPASES CREATES ROBUST POLARITY IN MULTIPLE CELL TYPES, INCLUDING LEUKOCYTES AND DISSEMINATING CANCER CELLS. THE PROPOSED RESEARCH WILL ADVANCE OUR BASIC UNDERSTANDING OF HOW BIOCHEMICAL SIGNALING PATHWAYS BOTH GENERATE AND STABILIZE SUBCELLULAR DOMAINS TO CONTROL BEHAVIORS SUCH AS CELL MIGRATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-07-25",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01GM148769_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91197569,
+    "generated_unique_award_id": "ASST_NON_R01GM148769_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ACTIN GATING OF CROSSTALK BETWEEN RHO GTPASES IN CELL MIGRATION - PROJECT SUMMARY/ABSTRACT PERSISTENT CELL MIGRATION IS FUNDAMENTAL FOR IMMUNE RESPONSES, DEVELOPMENT, AND THE DISSEMINATION OF CANCER CELLS. THIS MIGRATION REQUIRES THE ESTABLISHMENT AND MAINTENANCE OF STABLE CELL POLARITY, EVEN WHILE A CELL INTEGRATES NOISY HETEROGENEOUS CUES FROM ITS ENVIRONMENT. TO ACHIEVE THIS, RHO FAMILY GTPASES ACT AS CENTRAL HUBS THAT ORGANIZE SIGNALING CASCADES AND CYTOSKELETAL REARRANGEMENTS INTO SUBCELLULAR DOMAINS. FEEDBACK AND CROSSTALK CONNECTIONS ARE THOUGHT TO BE CENTRAL TO THIS PATTERN-FORMING ABILITY. HOWEVER, THE WIRING OF THIS CIRCUIT IS STILL INCOMPLETELY UNDERSTOOD, AND THERE ARE MAJOR GAPS IN OUR UNDERSTANDING OF HOW NEGATIVE REGULATORS LIMIT AND SEPARATE SPATIAL DOMAINS. DETERMINING THESE MOLECULAR CONNECTIONS IN MIGRATING LEUKOCYTES WOULD IDENTIFY NEW THERAPEUTIC TARGETS FOR TREATING INFLAMMATION AND WOULD BE BROADLY RELEVANT FOR UNDERSTANDING RHO GTPASE FUNCTION IN MANY CELL TYPES AND BIOLOGICAL PROCESSES. MAJOR OBSTACLES TO PROGRESS HAVE BEEN THE FAST TIMESCALE AND INHERENTLY SPATIAL NATURE OF THE SIGNALING SYSTEM. TO ADDRESS THESE CHALLENGES, WE HAVE DEVELOPED NEW MOLECULAR TOOLS THAT ALLOW US TO CONTROL THE ACTIVITY OF INDIVIDUAL KEY COMPONENTS WITH LIGHT WHILE MEASURING THE RESPONSE OF A SECOND COMPONENT WITH SUBCELLULAR RESOLUTION IN LIVE SINGLE CELLS. OUR PRELIMINARY RESULTS INDICATE THAT IN ADDITION TO ACTING AS OUTPUTS TO MOVE THE CELL, DIFFERENT ACTIN ASSEMBLIES ARE INTIMATELY INVOLVED IN THE BIOCHEMICAL WIRING OF RHO GTPASE CROSSTALK. WE HAVE IDENTIFIED AN “ACTIN-GATED” CROSSTALK CONNECTION BETWEEN RHOA AND CDC42, AND WE HAVE IDENTIFIED THE PROTEIN ARHGAP30 AS A PREVIOUSLY UNAPPRECIATED PRIMARY REGULATOR OF CDC42 THAT IS CRITICAL FOR POLARIZATION AND MIGRATION IN LEUKOCYTES. WE HYPOTHESIZE THAT DIFFERENT ACTIN ASSEMBLIES ACT AS SCAFFOLDS TO LOCALIZE REGULATORS OF RHO GTPASE CROSSTALK, CREATING SUBCELLULAR ZONES WITH DISTINCT SIGNAL WIRING TO PROMOTE STABLE CELL POLARITY. SPECIFICALLY, WE AIM TO 1) DETERMINE HOW BRANCHED ACTIN ASSEMBLY REGULATES CDC42 AND RHOA ACTIVITIES IN LEUKOCYTE CELLS, 2) DETERMINE HOW THE LOCAL ACTIN NETWORK STRUCTURE CONTROLS CROSSTALK BETWEEN RHOA AND CDC42, AND 3) DETERMINE THE REGULATION AND ROLE OF ARHGAP30 IN CROSSTALK AND POLARITY SIGNALING. OUR APPROACH WILL COMBINE NEW TOOL SETS FOR OPTICAL CONTROL OF SIGNALING AND CYTOSKELETAL COMPONENTS WITH SIMULTANEOUS MEASUREMENT OF ACTIN ASSEMBLIES AND RHO GTPASE ACTIVITIES IN SINGLE CELLS. IN COMBINATION, WE WILL USE CHEMICAL PERTURBATIONS, MUTATIONAL ANALYSIS, AND BIOCHEMICAL APPROACHES TO CHARACTERIZE MOLECULAR CONNECTIONS. OUR LONG-TERM GOALS ARE TO DETERMINE HOW RECIPROCAL REGULATION BETWEEN ACTIN AND RHO GTPASES CREATES ROBUST POLARITY IN MULTIPLE CELL TYPES, INCLUDING LEUKOCYTES AND DISSEMINATING CANCER CELLS. THE PROPOSED RESEARCH WILL ADVANCE OUR BASIC UNDERSTANDING OF HOW BIOCHEMICAL SIGNALING PATHWAYS BOTH GENERATE AND STABILIZE SUBCELLULAR DOMAINS TO CONTROL BEHAVIORS SUCH AS CELL MIGRATION.",
+    "total_obligation": 1301675,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-07-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 950976.66,
+    "total_account_obligation": 1301675,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 950976.66
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1301675
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-07-25",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 950976.66
+  }
+}

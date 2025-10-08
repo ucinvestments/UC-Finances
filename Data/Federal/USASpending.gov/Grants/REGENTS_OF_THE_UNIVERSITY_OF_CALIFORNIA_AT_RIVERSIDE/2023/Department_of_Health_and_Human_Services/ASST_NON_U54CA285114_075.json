@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92635641,
+    "Award ID": "U54CA285114",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 4005977,
+    "Total Outlays": 2168057.88,
+    "Description": "2/2 DRUG DEVELOPMENT AND CAPACITY BUILDING: A UCR/COH-CCC PARTNERSHIP - THE UNITED STATES (U.S.) HAS LED THE WORLD IN DRUG DISCOVERY FOR OVER 50 YEARS. WHILE THIS IS A SIGNIFICANT ACCOMPLISHMENT, U.S. DRUGS HAVE BEEN ALMOST EXCLUSIVELY OPTIMIZED AND TESTED IN NON-HISPANIC EUROPEAN- AMERICANS AND BEEN MINIMALLY EVALUATED IN MEN- OR WOMEN-OF-COLOR. AS A RESULT, DRUGS THAT WORK WELL IN NON- HISPANIC EUROPEAN-AMERICANS (ANGLOS), MAY HAVE UNEXPECTED TOXICITY OR DECREASED EFFICACY IN MOST OF THE WORLD’S POPULATION. DISPARITIES IN U.S. DRUG DEVELOPMENT OCCUR THROUGHOUT THE ENTIRE DRUG DISCOVERY PIPELINE. ONLY A SMALL NUMBER OF BASIC SCIENTISTS ARE LATINO/HISPANIC- OR AFRICAN-AMERICAN. INITIAL DRUG DEVELOPMENT AND OPTIMIZATION TAKES PLACE IN CELL LINES DERIVED FROM ANGLOS. LESS THAN 2% OF PHYSICIANS CONDUCTING CLINICAL TRIALS ARE LATINO/HISPANIC- OR AFRICAN-AMERICAN6. MOST CLINICAL TRIALS PARTICIPANTS ARE ANGLOS. YET, NEW DRUGS ARE FDA APPROVED FOR LATINOS/HISPANICS- AND AFRICAN-AMERICANS/AFRICANS WITHOUT SUFFICIENT TESTING. IT IS UNACCEPTABLE THAT DRUGS ARE DEVELOPED BY, AND OPTIMIZED FOR, ONLY A FRACTION OF OUR CITIZENS. IN THIS U54 PARTNERSHIP WE AIM TO DEVELOP THE RESOURCES, INFRASTRUCTURE, AND TRAINING TO MENTOR THE NEXT GENERATION OF RESEARCHERS THAT REFLECT THE DIVERSITY OF OUR CATCHMENT AREA. BUILDING ON OUR SUCCESSFUL P20 GRANT, HERE IN THIS U54 PARTNERSHIP, UCR AND COHCCC AIM TO DEVELOP THE COLLABORATIONS, RESOURCES, AND TRAINING PROGRAMS TO REDUCE DISPARITIES IN DRUG DEVELOPMENT THROUGHOUT THE ENTIRE DRUG DEVELOPMENT PIPELINE. OUR GOAL IS FOR THIS PROGRAM TO BECOME A FOCAL POINT FOR UCR AND COHCCC TO MENTOR AND TRAIN A DIVERSE FORCE OF CANCER BIOLOGISTS AND ADDRESS THE DISPARITIES IN CANCER THERAPEUTICS AND DRUG DEVELOPMENT. ALREADY, OUR P20 HAS FOSTERED JOINT R01 GRANTS, K01 GRANTS, AND PRE-/POST-DOCTORAL FELLOWSHIPS. BOTH INSTITUTIONS ARE HIGHLY COMMITTED - COHCCC CONTRIBUTED OVER $800K TO OUR P20 GRANT AND WILL CONTRIBUTE $250K/YEAR TO ENSURE THE SUCCESS OF THIS U54 PARTNERSHIP. AIM 1 WILL STRENGTHEN UCR’S CANCER RESEARCH CAPACITY AND DEVELOP THE RESOURCES TO INCREASE UCR/COHCCC’S ABILITY TO JOINTLY DEVELOP THERAPEUTIC AGENTS OPTIMIZED FOR THE DIVERSE POPULATIONS IN OUR CATCHMENT AREA. AIM 2 WILL INCREASE THE CAPACITY OF UCR AND COHCCC TO JOINTLY DEVELOP DRUGS THAT TARGET DISPARITIES IN SURVIVAL AFFECTING THE DIVERSE INDIVIDUALS LIVING IN OUR SOUTHERN CALIFORNIA COMMUNITIES. AIM 3 WILL PROVIDE THE TRAINING, OPPORTUNITY, AND MENTORSHIP TO ENSURE THAT THE NEXT GENERATION OF THERAPEUTIC SCIENTISTS AND CLINICAL TRIALISTS REFLECT THE DIVERSITY OF SOUTHERN CALIFORNIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-22",
+    "End Date": "2028-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U54CA285114_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92635641,
+    "generated_unique_award_id": "ASST_NON_U54CA285114_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "2/2 DRUG DEVELOPMENT AND CAPACITY BUILDING: A UCR/COH-CCC PARTNERSHIP - THE UNITED STATES (U.S.) HAS LED THE WORLD IN DRUG DISCOVERY FOR OVER 50 YEARS. WHILE THIS IS A SIGNIFICANT ACCOMPLISHMENT, U.S. DRUGS HAVE BEEN ALMOST EXCLUSIVELY OPTIMIZED AND TESTED IN NON-HISPANIC EUROPEAN- AMERICANS AND BEEN MINIMALLY EVALUATED IN MEN- OR WOMEN-OF-COLOR. AS A RESULT, DRUGS THAT WORK WELL IN NON- HISPANIC EUROPEAN-AMERICANS (ANGLOS), MAY HAVE UNEXPECTED TOXICITY OR DECREASED EFFICACY IN MOST OF THE WORLD’S POPULATION. DISPARITIES IN U.S. DRUG DEVELOPMENT OCCUR THROUGHOUT THE ENTIRE DRUG DISCOVERY PIPELINE. ONLY A SMALL NUMBER OF BASIC SCIENTISTS ARE LATINO/HISPANIC- OR AFRICAN-AMERICAN. INITIAL DRUG DEVELOPMENT AND OPTIMIZATION TAKES PLACE IN CELL LINES DERIVED FROM ANGLOS. LESS THAN 2% OF PHYSICIANS CONDUCTING CLINICAL TRIALS ARE LATINO/HISPANIC- OR AFRICAN-AMERICAN6. MOST CLINICAL TRIALS PARTICIPANTS ARE ANGLOS. YET, NEW DRUGS ARE FDA APPROVED FOR LATINOS/HISPANICS- AND AFRICAN-AMERICANS/AFRICANS WITHOUT SUFFICIENT TESTING. IT IS UNACCEPTABLE THAT DRUGS ARE DEVELOPED BY, AND OPTIMIZED FOR, ONLY A FRACTION OF OUR CITIZENS. IN THIS U54 PARTNERSHIP WE AIM TO DEVELOP THE RESOURCES, INFRASTRUCTURE, AND TRAINING TO MENTOR THE NEXT GENERATION OF RESEARCHERS THAT REFLECT THE DIVERSITY OF OUR CATCHMENT AREA. BUILDING ON OUR SUCCESSFUL P20 GRANT, HERE IN THIS U54 PARTNERSHIP, UCR AND COHCCC AIM TO DEVELOP THE COLLABORATIONS, RESOURCES, AND TRAINING PROGRAMS TO REDUCE DISPARITIES IN DRUG DEVELOPMENT THROUGHOUT THE ENTIRE DRUG DEVELOPMENT PIPELINE. OUR GOAL IS FOR THIS PROGRAM TO BECOME A FOCAL POINT FOR UCR AND COHCCC TO MENTOR AND TRAIN A DIVERSE FORCE OF CANCER BIOLOGISTS AND ADDRESS THE DISPARITIES IN CANCER THERAPEUTICS AND DRUG DEVELOPMENT. ALREADY, OUR P20 HAS FOSTERED JOINT R01 GRANTS, K01 GRANTS, AND PRE-/POST-DOCTORAL FELLOWSHIPS. BOTH INSTITUTIONS ARE HIGHLY COMMITTED - COHCCC CONTRIBUTED OVER $800K TO OUR P20 GRANT AND WILL CONTRIBUTE $250K/YEAR TO ENSURE THE SUCCESS OF THIS U54 PARTNERSHIP. AIM 1 WILL STRENGTHEN UCR’S CANCER RESEARCH CAPACITY AND DEVELOP THE RESOURCES TO INCREASE UCR/COHCCC’S ABILITY TO JOINTLY DEVELOP THERAPEUTIC AGENTS OPTIMIZED FOR THE DIVERSE POPULATIONS IN OUR CATCHMENT AREA. AIM 2 WILL INCREASE THE CAPACITY OF UCR AND COHCCC TO JOINTLY DEVELOP DRUGS THAT TARGET DISPARITIES IN SURVIVAL AFFECTING THE DIVERSE INDIVIDUALS LIVING IN OUR SOUTHERN CALIFORNIA COMMUNITIES. AIM 3 WILL PROVIDE THE TRAINING, OPPORTUNITY, AND MENTORSHIP TO ENSURE THAT THE NEXT GENERATION OF THERAPEUTIC SCIENTISTS AND CLINICAL TRIALISTS REFLECT THE DIVERSITY OF SOUTHERN CALIFORNIA.",
+    "total_obligation": 4005977,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-09-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2168057.88,
+    "total_account_obligation": 2649170,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2168057.88
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2649170
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-22",
+      "end_date": "2028-08-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2168057.88
+  }
+}

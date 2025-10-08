@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56341832,
+    "Award ID": "20246701342770",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 735923,
+    "Total Outlays": 135327.16,
+    "Description": "TRADITIONALLY, IT WAS THOUGHT THAT THE BACTERIA MUST RAPIDLY REPROGRAM THEMSELVES FOR THE PLANT LIFESTYLE, BUT WE WILL TEST THE HYPOTHESIS THAT BACTERIA ALSO SENSE THE FLUID DYNAMICS THAT OCCUR DURING THE TRANSMISSION PROCESS WITHIN THE INSECT TO NOT ONLY INITIATE GENE EXPRESSION CASCADES THAT ENABLE DETACHMENT FROM THE FOREGUT, BUT ALSO TURN ON GENES THAT ARE IMPORTANT FOR INITIAL PLANT COLONIZATION PRIOR TO DEPOSITION IN THE PLANT. THUS, THE BACTERIAL SENSING OF FLUID HYDRODYNAMIC FORCES EXPERIENCED IN THE INSECT PRIME THE BACTERIA SO THEY ARE PRE-PROGRAMMED FOR A PLANT LIFESTYLE AS THEY ARE LEAVING THE INSECT HEAD. OUR GOAL IS TO IDENTIFY COMPONENTS OF THE X. FASTIDIOSA/INSECT/PLANT INTERFACE THAT CAN BE USED AS TARGETS TO DISRUPT VECTOR TRANSMISSION AND READINESS FOR THE TRANSITION TO THE PLANT ENVIRONMENT. SIMULTANEOUSLY, WE WILL LEARN A VAST AMOUNT ABOUT THE BIOLOGY OF THE X. FASTIDIOSA/INSECT/PLANT INTERFACE. IN THE NEXT PHASE OF THIS WORK, WE WILL FOCUS ON THE INSECT COMPONENT OF THIS TRI-TROPHIC INTERACTION AND TEST SELECT X. FASTIDIOSA MUTANTS FOR THEIR ACQUISITION AND TRANSMISSION PHENOTYPES USING THE BLUE-GREEN SHARPSHOOTER AND V. VINIFERA AS OUR MODEL SYSTEMS. IN THE AMERICAS, X. FASTIDIOSA HAS CAUSED SIGNIFICANT DAMAGE AND REMAINS A MAJOR THREAT TO AGRICULTURAL CROPS AND ECOLOGICAL AND ORNAMENTAL LANDSCAPES. IN TERMS OF AGRICULTURAL CROPS THIS INCLUDES NOT ONLY GRAPES BUT ALSO CITRUS (CITRUS VARIEGATED CHLOROSIS), COFFEE (COFFEE LEAF SCORCH), STONE FRUITS (PHONY PEACH) AMONG MANY OTHERS. IN ADDITION, EUROPE WAS HISTORICALLY CONSIDERED TO BE FREE OF X. FASTIDIOSA, BUT THE BACTERIUM WAS RECENTLY DETECTED IN ITALY. IN 2013, OLIVE TREES IN THE APULIA REGION OF SOUTHERN ITALY BEGAN EXHIBITING LEAF SCORCH SYMPTOMS THAT WERE LATER CONFIRMED TO BE CAUSED BY X. FASTIDIOSA. SINCE THEN, THOUSANDS OF OLIVE TREES HAVE DIED FROM OLIVE QUICK DECLINE, AND X. FASTIDIOSA HAS BEEN DETECTED IN VARIOUS PLANTS SPECIES IN FRANCE, SPAIN, AND PORTUGAL. THUS, THE FINDINGS OF THIS WORK MAY HAVE DIRECT IMPLICATIONS IN IDENTIFYING VULNERABILITIES IN THE TRI-TROPHIC PATHOGEN/INSECT/PLANT INTERFACE THAT CAN BE LEVERAGED FOR DISEASE CONTROL FOR OTHER VERY IMPORTANT DISEASES CAUSED BY X. FASTIDIOSA, SUCH AS OLIVE QUICK DECLINE AND CITRUS VARIEGATED CHLOROSIS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2024-07-01",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20246701342770_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56341832,
+    "generated_unique_award_id": "ASST_NON_20246701342770_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TRADITIONALLY, IT WAS THOUGHT THAT THE BACTERIA MUST RAPIDLY REPROGRAM THEMSELVES FOR THE PLANT LIFESTYLE, BUT WE WILL TEST THE HYPOTHESIS THAT BACTERIA ALSO SENSE THE FLUID DYNAMICS THAT OCCUR DURING THE TRANSMISSION PROCESS WITHIN THE INSECT TO NOT ONLY INITIATE GENE EXPRESSION CASCADES THAT ENABLE DETACHMENT FROM THE FOREGUT, BUT ALSO TURN ON GENES THAT ARE IMPORTANT FOR INITIAL PLANT COLONIZATION PRIOR TO DEPOSITION IN THE PLANT. THUS, THE BACTERIAL SENSING OF FLUID HYDRODYNAMIC FORCES EXPERIENCED IN THE INSECT PRIME THE BACTERIA SO THEY ARE PRE-PROGRAMMED FOR A PLANT LIFESTYLE AS THEY ARE LEAVING THE INSECT HEAD. OUR GOAL IS TO IDENTIFY COMPONENTS OF THE X. FASTIDIOSA/INSECT/PLANT INTERFACE THAT CAN BE USED AS TARGETS TO DISRUPT VECTOR TRANSMISSION AND READINESS FOR THE TRANSITION TO THE PLANT ENVIRONMENT. SIMULTANEOUSLY, WE WILL LEARN A VAST AMOUNT ABOUT THE BIOLOGY OF THE X. FASTIDIOSA/INSECT/PLANT INTERFACE. IN THE NEXT PHASE OF THIS WORK, WE WILL FOCUS ON THE INSECT COMPONENT OF THIS TRI-TROPHIC INTERACTION AND TEST SELECT X. FASTIDIOSA MUTANTS FOR THEIR ACQUISITION AND TRANSMISSION PHENOTYPES USING THE BLUE-GREEN SHARPSHOOTER AND V. VINIFERA AS OUR MODEL SYSTEMS. IN THE AMERICAS, X. FASTIDIOSA HAS CAUSED SIGNIFICANT DAMAGE AND REMAINS A MAJOR THREAT TO AGRICULTURAL CROPS AND ECOLOGICAL AND ORNAMENTAL LANDSCAPES. IN TERMS OF AGRICULTURAL CROPS THIS INCLUDES NOT ONLY GRAPES BUT ALSO CITRUS (CITRUS VARIEGATED CHLOROSIS), COFFEE (COFFEE LEAF SCORCH), STONE FRUITS (PHONY PEACH) AMONG MANY OTHERS. IN ADDITION, EUROPE WAS HISTORICALLY CONSIDERED TO BE FREE OF X. FASTIDIOSA, BUT THE BACTERIUM WAS RECENTLY DETECTED IN ITALY. IN 2013, OLIVE TREES IN THE APULIA REGION OF SOUTHERN ITALY BEGAN EXHIBITING LEAF SCORCH SYMPTOMS THAT WERE LATER CONFIRMED TO BE CAUSED BY X. FASTIDIOSA. SINCE THEN, THOUSANDS OF OLIVE TREES HAVE DIED FROM OLIVE QUICK DECLINE, AND X. FASTIDIOSA HAS BEEN DETECTED IN VARIOUS PLANTS SPECIES IN FRANCE, SPAIN, AND PORTUGAL. THUS, THE FINDINGS OF THIS WORK MAY HAVE DIRECT IMPLICATIONS IN IDENTIFYING VULNERABILITIES IN THE TRI-TROPHIC PATHOGEN/INSECT/PLANT INTERFACE THAT CAN BE LEVERAGED FOR DISEASE CONTROL FOR OTHER VERY IMPORTANT DISEASES CAUSED BY X. FASTIDIOSA, SUCH AS OLIVE QUICK DECLINE AND CITRUS VARIEGATED CHLOROSIS.",
+    "total_obligation": 735923,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-05-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 143137.21,
+    "total_account_obligation": 735923,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 143137.21
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 735923
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-01",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2024-06-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 143137.21
+  }
+}

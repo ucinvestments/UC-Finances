@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 175949317,
+    "Award ID": "K01TW013200",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 899426,
+    "Total Outlays": null,
+    "Description": "IMPACT OF MULTIDISCIPLINARY EVALUATION OF TREATMENT AND OUTCOME FOR HEPATOCELLULAR CARCINOMA IN TANZANIA - PROJECT SUMMARY THIS MENTORED IRSDA-K01 FROM UNIVERSITY OF CALIFORNIA DAVIS (UCD) AND MUHIMBILI UNIVERSITY OF HEALTH AND ALLIED HEALTH SCIENCE (MUHAS) TANZANIA WILL SUPPORT DR. CAMERON GASKILL, ASSISTANT PROFESSOR OF SURGERY, TO ESTABLISH AN IMPACTFUL, INDEPENDENT GLOBAL HEALTH RESEARCH PROGRAM ADDRESSING LIVER CANCER IN SUB-SAHARAN AFRICA (SSA). LIVER CANCER, OR HEPATOCELLULAR CARCINOMA (HCC), IS THE THIRD LEADING CAUSE OF CANCER RELATED MORTALITY WORLDWIDE. IN SSA, \u003c 5% OF PATIENTS RECEIVE CURATIVE TREATMENTS. IN TANZANIA, IMPROVING CARE FOR HCC PATIENTS HAS BECOME A TOP PRIORITY FOR THE MINISTRY OF HEALTH. THIS K01 WILL ESTABLISH A KNOWLEDGE BASE AND INFRASTRUCTURE THAT PROSPECTIVELY CAPTURES HIGHLY ANNOTATED TREATMENT INFORMATION AND OUTCOME METRICS. THE GOAL IS TO EVALUATE CARE DELIVERY FACTORS AND IDENTIFY AREAS TO EXPAND CURATIVE TREATMENT STRATEGIES CULMINATING IN A CLINICAL TRIAL INVESTIGATING THE SAFETY AND EFFICACY OF SURGICAL RESECTION FOR HCC BEYOND CURRENT PRACTICES. THE AIMS ARE TO 1) PILOT A NATIONAL LIVER CANCER TREATMENT OUTCOMES REGISTRY TO ASSESS THE IMPACT OF LOCATION AND RESOURCE AVAILABILITY; 2) UTILIZE MULTIDISCIPLINARY TUMOR BOARD PERFORMANCE INDEX TO ASSESS IMPACTS OF THE MULTIDISCIPLINARY LIVER TUMOR BOARD ON CARE DELIVERY AND OUTCOMES IN TANZANIA; AND 3) EVALUATE THE SAFETY AND EFFICACY OF CURATIVE SURGICAL RESECTION OF HCC EXTENDED BEYOND BARCELONA CLINIC LIVER CANCER STAGING RECOMMENDATIONS. PAIRED WITH THESE RESEARCH AIMS, THE TRAINING GOALS WILL PROVIDE DR. GASKILL WITH THE SKILLS AND EXPERIENCES NECESSARY TO BUILD AN INDEPENDENT GLOBAL HEALTH RESEARCH PROGRAM AS WELL AS RUN CLINICAL TRIALS IN SSA. THE TRAINING GOALS WILL DEVELOP SKILLS TO 1) IMPLEMENT CLINICAL REGISTRIES; 2) ASSESS KEY PERFORMANCE INDICATORS OF CLINICAL PROGRAMS; 3) PERFORM ADVANCED STATISTICAL ANALYSIS OF EPIDEMIOLOGIC AND CLINICAL DATA; 4) DESIGN EFFECTIVE AND RESOURCE APPROPRIATE CLINICAL TRIALS; 5) BECOME AN EFFECTIVE GLOBAL ONCOLOGY LEADER AND MENTOR; 6) DEVELOP AN R- LEVEL PROPOSAL BASED ON THESE RESEARCH FINDINGS. THROUGH THIS PROCESS DR. GASKILL WILL CULTIVATE THE LEADERSHIP, PROFESSIONAL SKILLS, AND RESEARCH PARTNERSHIPS NECESSARY TO BECOME AN INDEPENDENT GLOBAL HEALTH RESEARCH SCIENTIST. DR. GASKILL WILL BE GUIDED BY A TEAM OF EXPERIENCED MENTORS LED BY DR. ELIA MMBAGA (LMIC MENTOR, MUHAS), A GLOBALLY RECOGNIZED LEADER IN CANCER EPIDEMIOLOGY IN TANZANIA, AND DR. BRAD POLLOCK (UCD MENTOR), NATIONAL LEADER WITH EXPERTISE IN EPIDEMIOLOGY AND CLINICAL TRIAL STUDY DESIGN. IN ADDITION, AN OUTSTANDING TEAM OF CONTRIBUTORS WILL PROVIDE CONTENT EXPERTISE INCLUDING DR. KATHERINE VAN LOON, GLOBAL CANCER CARE RESEARCH, TRAINING, AND LEADERSHIP EXPERTISE, DR. ALLY MWANGA, HEPATOBILIARY SURGERY AND GLOBAL ONCOLOGY RESEARCH EXPERTISE AT MUHAS, AND DR. EDWARD KIM, CLINICAL TRIAL DESIGN AND ADMINISTRATION EXPERTISE AT UCD. THE PROLONGED FIELD EXPERIENCE AND COLLABORATIVE RESEARCH SUPPORTED BY THIS IRSDA-K01, COUPLED WITH STRONG INSTITUTIONAL SUPPORT FROM UCD WILL CULTIVATE A SUSTAINED INTERNATIONAL RESEARCH PARTNERSHIP WITH DR. GASKILL AND MUHAS AIMED AT IMPROVING HCC OUTCOMES IN SSA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-09-22",
+    "End Date": "2030-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K01TW013200_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 175949317,
+    "generated_unique_award_id": "ASST_NON_K01TW013200_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "IMPACT OF MULTIDISCIPLINARY EVALUATION OF TREATMENT AND OUTCOME FOR HEPATOCELLULAR CARCINOMA IN TANZANIA - PROJECT SUMMARY THIS MENTORED IRSDA-K01 FROM UNIVERSITY OF CALIFORNIA DAVIS (UCD) AND MUHIMBILI UNIVERSITY OF HEALTH AND ALLIED HEALTH SCIENCE (MUHAS) TANZANIA WILL SUPPORT DR. CAMERON GASKILL, ASSISTANT PROFESSOR OF SURGERY, TO ESTABLISH AN IMPACTFUL, INDEPENDENT GLOBAL HEALTH RESEARCH PROGRAM ADDRESSING LIVER CANCER IN SUB-SAHARAN AFRICA (SSA). LIVER CANCER, OR HEPATOCELLULAR CARCINOMA (HCC), IS THE THIRD LEADING CAUSE OF CANCER RELATED MORTALITY WORLDWIDE. IN SSA, \u003c 5% OF PATIENTS RECEIVE CURATIVE TREATMENTS. IN TANZANIA, IMPROVING CARE FOR HCC PATIENTS HAS BECOME A TOP PRIORITY FOR THE MINISTRY OF HEALTH. THIS K01 WILL ESTABLISH A KNOWLEDGE BASE AND INFRASTRUCTURE THAT PROSPECTIVELY CAPTURES HIGHLY ANNOTATED TREATMENT INFORMATION AND OUTCOME METRICS. THE GOAL IS TO EVALUATE CARE DELIVERY FACTORS AND IDENTIFY AREAS TO EXPAND CURATIVE TREATMENT STRATEGIES CULMINATING IN A CLINICAL TRIAL INVESTIGATING THE SAFETY AND EFFICACY OF SURGICAL RESECTION FOR HCC BEYOND CURRENT PRACTICES. THE AIMS ARE TO 1) PILOT A NATIONAL LIVER CANCER TREATMENT OUTCOMES REGISTRY TO ASSESS THE IMPACT OF LOCATION AND RESOURCE AVAILABILITY; 2) UTILIZE MULTIDISCIPLINARY TUMOR BOARD PERFORMANCE INDEX TO ASSESS IMPACTS OF THE MULTIDISCIPLINARY LIVER TUMOR BOARD ON CARE DELIVERY AND OUTCOMES IN TANZANIA; AND 3) EVALUATE THE SAFETY AND EFFICACY OF CURATIVE SURGICAL RESECTION OF HCC EXTENDED BEYOND BARCELONA CLINIC LIVER CANCER STAGING RECOMMENDATIONS. PAIRED WITH THESE RESEARCH AIMS, THE TRAINING GOALS WILL PROVIDE DR. GASKILL WITH THE SKILLS AND EXPERIENCES NECESSARY TO BUILD AN INDEPENDENT GLOBAL HEALTH RESEARCH PROGRAM AS WELL AS RUN CLINICAL TRIALS IN SSA. THE TRAINING GOALS WILL DEVELOP SKILLS TO 1) IMPLEMENT CLINICAL REGISTRIES; 2) ASSESS KEY PERFORMANCE INDICATORS OF CLINICAL PROGRAMS; 3) PERFORM ADVANCED STATISTICAL ANALYSIS OF EPIDEMIOLOGIC AND CLINICAL DATA; 4) DESIGN EFFECTIVE AND RESOURCE APPROPRIATE CLINICAL TRIALS; 5) BECOME AN EFFECTIVE GLOBAL ONCOLOGY LEADER AND MENTOR; 6) DEVELOP AN R- LEVEL PROPOSAL BASED ON THESE RESEARCH FINDINGS. THROUGH THIS PROCESS DR. GASKILL WILL CULTIVATE THE LEADERSHIP, PROFESSIONAL SKILLS, AND RESEARCH PARTNERSHIPS NECESSARY TO BECOME AN INDEPENDENT GLOBAL HEALTH RESEARCH SCIENTIST. DR. GASKILL WILL BE GUIDED BY A TEAM OF EXPERIENCED MENTORS LED BY DR. ELIA MMBAGA (LMIC MENTOR, MUHAS), A GLOBALLY RECOGNIZED LEADER IN CANCER EPIDEMIOLOGY IN TANZANIA, AND DR. BRAD POLLOCK (UCD MENTOR), NATIONAL LEADER WITH EXPERTISE IN EPIDEMIOLOGY AND CLINICAL TRIAL STUDY DESIGN. IN ADDITION, AN OUTSTANDING TEAM OF CONTRIBUTORS WILL PROVIDE CONTENT EXPERTISE INCLUDING DR. KATHERINE VAN LOON, GLOBAL CANCER CARE RESEARCH, TRAINING, AND LEADERSHIP EXPERTISE, DR. ALLY MWANGA, HEPATOBILIARY SURGERY AND GLOBAL ONCOLOGY RESEARCH EXPERTISE AT MUHAS, AND DR. EDWARD KIM, CLINICAL TRIAL DESIGN AND ADMINISTRATION EXPERTISE AT UCD. THE PROLONGED FIELD EXPERIENCE AND COLLABORATIVE RESEARCH SUPPORTED BY THIS IRSDA-K01, COUPLED WITH STRONG INSTITUTIONAL SUPPORT FROM UCD WILL CULTIVATE A SUSTAINED INTERNATIONAL RESEARCH PARTNERSHIP WITH DR. GASKILL AND MUHAS AIMED AT IMPROVING HCC OUTCOMES IN SSA.",
+    "total_obligation": 899426,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-09-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Fogarty International Center"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Fogarty International Center"
+    },
+    "period_of_performance": {
+      "start_date": "2025-09-22",
+      "end_date": "2030-08-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

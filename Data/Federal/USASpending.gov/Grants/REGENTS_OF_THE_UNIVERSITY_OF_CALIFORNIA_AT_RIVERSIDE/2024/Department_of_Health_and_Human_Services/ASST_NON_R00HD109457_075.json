@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91115624,
+    "Award ID": "R00HD109457",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 623345.22,
+    "Total Outlays": 258674.55,
+    "Description": "REGULATION AND FUNCTION OF SUBCELLULAR RNA LOCALIZATION IN NEURAL CREST CELLS AND THEIR DERIVATIVES - PROJECT SUMMARY THE LONG-TERM OBJECTIVE OF THIS PROJECT IS TO DETERMINE THE GENERAL PRINCIPLES AND CAUSAL MECHANISMS UNDERLYING SUBCELLULAR RNA LOCALIZATION, AND THE PHYSIOLOGICAL IMPLICATIONS DURING DEVELOPMENT AND DISEASE. IN PARTICULAR, THE SUBCELLULAR LOCALIZATION OF MESSENGER RNA (MRNA) TO CELL PROTRUSIONS IS KNOWN TO BE REQUIRED FOR CELL MIGRATION, BUT THE MECHANISMS BY WHICH MRNA LOCALIZATION REGULATES PROTEIN FUNCTION IN THIS SETTING ARE UNCLEAR. MANY GENES IMPLICATED IN MRNA LOCALIZATION ARE EXPRESSED IN NEURAL CREST CELLS, WHICH ARE A PARTICULARLY MIGRATORY CELL TYPE THAT GIVES RISE TO MUCH OF THE VERTEBRATE HEAD, AS WELL AS NEURONS, MELANOCYTES, AND AGGRESSIVE CANCERS INCLUDING MELANOMA. AS SUCH, NEURAL CREST CELLS PROVIDE A RICH ENVIRONMENT TO UNCOVER MOLECULAR MECHANISMS OF MRNA LOCALIZATION IN CELL MIGRATION AS WELL AS THE RELEVANCE THERE OF TO MAMMALIAN PHYSIOLOGY. IN THIS PROJECT, I WILL USE CULTURED MELANOMA CELLS TO IDENTIFY AND CHARACTERIZE TRANS-ACTING REGULATORS OF MRNA LOCALIZATION AND ELUCIDATE THE ROLE OF MRNA LOCALIZATION ON PROTEIN FUNCTION. I WILL ALSO USE IN VIVO MOUSE MODELS TO CATALOG MRNA LOCALIZATION THAT OCCURS DURING NEURAL CREST CELL DEVELOPMENT AND DIRECTLY TEST THE ROLE OF A WELL CHARACTERIZED LOCALIZED MRNA, KIF1C, DURING DEVELOPMENT AND CANCER ONSET AND PROGRESSION. AS NEURAL CREST AND CANCER GENETICS FIELDS RELY HEAVILY ON TRANSCRIPTIONAL STUDIES, THE MECHANISTIC UNDERSTANDING OF A POST-TRANSCRIPTIONAL PROCESS AS DESCRIBED HERE MAY PROVIDE UNIQUE INSIGHT INTO THE CAUSE, DIAGNOSIS AND TREATMENT OF CRANIOFACIAL BIRTH DEFECTS AND MELANOMA ONSET AND PROGRESSION. MY CAREER GOAL IS TO RUN AN ACADEMIC RESEARCH PROGRAM ANALYZING THE ROLE AND REGULATION OF SUBCELLULAR RNA LOCALIZATION DURING EMBRYOGENESIS, WITH SPECIAL ATTENTION TO NEURAL CREST CELLS AND THEIR DERIVATIVES. MY AMBITION IS TO HAVE A LAB THAT CAN DETERMINE MOLECULAR MECHANISMS AT THE SINGLE-MOLECULE LEVEL AND CAUSALLY LINK THOSE PROCESSES TO PHYSIOLOGICAL OUTCOMES IN VIVO. TO THIS END, THE PROPOSED EXPERIMENTS AND TRAINING PLAN ARE DESIGNED TO DEVELOP EXPERTISE IN CUTTING-EDGE TECHNOLOGIES SUCH AS TIRF MICROSCOPY, COMPUTATIONAL IMAGE ANALYSIS, GENETIC ENGINEERING AND IN VIVO DISEASE ASSAYS. TRAINING IN THESE ADVANCED TECHNIQUES WILL BE DIRECTLY SUPPORTED BY THE RESOURCE-RICH AND COLLABORATIVE ENVIRONMENT AT UT SOUTHWESTERN, AND ESPECIALLY MENTORSHIP FROM DR. GAUDENZ DANUSER, DR. ONDINE CLEAVER, DR. KHULOUD JAQAMAN, DR. LU LE AND DR. SEAN MORRISON, WHO MAKE UP MY ADVISORY COMMITTEE. THE PATHWAY TO INDEPENDENCE AWARD WILL PROVIDE THE TIME, RESOURCES AND AUTONOMY TO FULLY DEVELOP AND INITIATE THIS AMBITIOUS RESEARCH PROGRAM AND ACCRUE THE RESOURCES, EXPERTISE AND EXPERIENCE NECESSARY TO LAUNCH AN IMPACTFUL, THRIVING RESEARCH LAB IN FALL 2024.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R00HD109457_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91115624,
+    "generated_unique_award_id": "ASST_NON_R00HD109457_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "REGULATION AND FUNCTION OF SUBCELLULAR RNA LOCALIZATION IN NEURAL CREST CELLS AND THEIR DERIVATIVES - PROJECT SUMMARY THE LONG-TERM OBJECTIVE OF THIS PROJECT IS TO DETERMINE THE GENERAL PRINCIPLES AND CAUSAL MECHANISMS UNDERLYING SUBCELLULAR RNA LOCALIZATION, AND THE PHYSIOLOGICAL IMPLICATIONS DURING DEVELOPMENT AND DISEASE. IN PARTICULAR, THE SUBCELLULAR LOCALIZATION OF MESSENGER RNA (MRNA) TO CELL PROTRUSIONS IS KNOWN TO BE REQUIRED FOR CELL MIGRATION, BUT THE MECHANISMS BY WHICH MRNA LOCALIZATION REGULATES PROTEIN FUNCTION IN THIS SETTING ARE UNCLEAR. MANY GENES IMPLICATED IN MRNA LOCALIZATION ARE EXPRESSED IN NEURAL CREST CELLS, WHICH ARE A PARTICULARLY MIGRATORY CELL TYPE THAT GIVES RISE TO MUCH OF THE VERTEBRATE HEAD, AS WELL AS NEURONS, MELANOCYTES, AND AGGRESSIVE CANCERS INCLUDING MELANOMA. AS SUCH, NEURAL CREST CELLS PROVIDE A RICH ENVIRONMENT TO UNCOVER MOLECULAR MECHANISMS OF MRNA LOCALIZATION IN CELL MIGRATION AS WELL AS THE RELEVANCE THERE OF TO MAMMALIAN PHYSIOLOGY. IN THIS PROJECT, I WILL USE CULTURED MELANOMA CELLS TO IDENTIFY AND CHARACTERIZE TRANS-ACTING REGULATORS OF MRNA LOCALIZATION AND ELUCIDATE THE ROLE OF MRNA LOCALIZATION ON PROTEIN FUNCTION. I WILL ALSO USE IN VIVO MOUSE MODELS TO CATALOG MRNA LOCALIZATION THAT OCCURS DURING NEURAL CREST CELL DEVELOPMENT AND DIRECTLY TEST THE ROLE OF A WELL CHARACTERIZED LOCALIZED MRNA, KIF1C, DURING DEVELOPMENT AND CANCER ONSET AND PROGRESSION. AS NEURAL CREST AND CANCER GENETICS FIELDS RELY HEAVILY ON TRANSCRIPTIONAL STUDIES, THE MECHANISTIC UNDERSTANDING OF A POST-TRANSCRIPTIONAL PROCESS AS DESCRIBED HERE MAY PROVIDE UNIQUE INSIGHT INTO THE CAUSE, DIAGNOSIS AND TREATMENT OF CRANIOFACIAL BIRTH DEFECTS AND MELANOMA ONSET AND PROGRESSION. MY CAREER GOAL IS TO RUN AN ACADEMIC RESEARCH PROGRAM ANALYZING THE ROLE AND REGULATION OF SUBCELLULAR RNA LOCALIZATION DURING EMBRYOGENESIS, WITH SPECIAL ATTENTION TO NEURAL CREST CELLS AND THEIR DERIVATIVES. MY AMBITION IS TO HAVE A LAB THAT CAN DETERMINE MOLECULAR MECHANISMS AT THE SINGLE-MOLECULE LEVEL AND CAUSALLY LINK THOSE PROCESSES TO PHYSIOLOGICAL OUTCOMES IN VIVO. TO THIS END, THE PROPOSED EXPERIMENTS AND TRAINING PLAN ARE DESIGNED TO DEVELOP EXPERTISE IN CUTTING-EDGE TECHNOLOGIES SUCH AS TIRF MICROSCOPY, COMPUTATIONAL IMAGE ANALYSIS, GENETIC ENGINEERING AND IN VIVO DISEASE ASSAYS. TRAINING IN THESE ADVANCED TECHNIQUES WILL BE DIRECTLY SUPPORTED BY THE RESOURCE-RICH AND COLLABORATIVE ENVIRONMENT AT UT SOUTHWESTERN, AND ESPECIALLY MENTORSHIP FROM DR. GAUDENZ DANUSER, DR. ONDINE CLEAVER, DR. KHULOUD JAQAMAN, DR. LU LE AND DR. SEAN MORRISON, WHO MAKE UP MY ADVISORY COMMITTEE. THE PATHWAY TO INDEPENDENCE AWARD WILL PROVIDE THE TIME, RESOURCES AND AUTONOMY TO FULLY DEVELOP AND INITIATE THIS AMBITIOUS RESEARCH PROGRAM AND ACCRUE THE RESOURCES, EXPERTISE AND EXPERIENCE NECESSARY TO LAUNCH AN IMPACTFUL, THRIVING RESEARCH LAB IN FALL 2024.",
+    "total_obligation": 623345.22,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-06-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 258674.55,
+    "total_account_obligation": 623345.22,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 258674.55
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 623345.22
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2024-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 258674.55
+  }
+}

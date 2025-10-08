@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57286438,
+    "Award ID": "2342374",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 661152,
+    "Total Outlays": 45095.65,
+    "Description": "AEROACOUSTICS OF THE QUIET FLIGHT OF HUNTING OWLS -QUIET OWL FLIGHT HAS BEEN AN INSPIRATION FOR QUIET AIRFOILS, AND OWL HEARING IS A MODEL FOR HOW THE BRAIN LOCALIZES SOUND. YET THESE TWO WELL-STUDIED TOPICS HAVE A VIRTUALLY UNEXPLORED EVOLUTIONARY AND ECOLOGICAL NEXUS: HOW OWLS USE QUIET FLIGHT TO HUNT. THIS PROJECT WILL ADDRESS THIS KNOWLEDGE GAP WITH THREE INTER-RELATED EXPERIMENTS. OWL ATTACKS ON PREY WILL BE RECORDED TO ASK: DO OWLS EMPLOY A ?STEALTH MODE?, I.E., DO OWLS ALTER THEIR BEHAVIOR TO MINIMIZE SOUND PRODUCTION? SECOND, THIS PROJECT WILL CONDUCT EXPERIMENTS ON THE QUIETING FEATURES OF OWL FEATHERS TO TEST HOW THEY WORK. AND THIRD, IF OWLS ARE QUIET, VIRTUALLY NOTHING IS KNOWN ABOUT THE ?NOISY? FLIGHT OF REGULAR BIRDS. A PHYLOGENETICALLY DIVERSE ARRAY OF BIRD SPECIES WILL BE FLOWN THROUGH A SIMPLE, STANDARDIZED ?FLIGHT TUBE? TO MEASURE THEIR SOUND FIELD IN THREE DIMENSIONS DURING ORDINARY FLIGHT. THIS PROJECT?S INTELLECTUAL MERITS INCLUDE SUGGESTING NEW DIRECTIONS FOR BOTH THE NEUROBIOLOGY OF OWL HEARING AND ?BIOINSPIRATION? OF QUIET FLIGHT FOR TECHNICAL DEVICES SUCH AS WINDMILLS OR DRONES. BROADER IMPACTS INCLUDE INCORPORATING UNDERSERVED STUDENTS AS RESEARCHERS, AND OUTREACH ABOUT SOUND WITH STUDENTS AT THE CALIFORNIA SCHOOL FOR THE DEAF. AIM 1 OF THIS PROJECT TESTS TWO HYPOTHESES OF HOW WING FEATURES REDUCE FLIGHT SOUNDS: THAT THEY AMELIORATE AERODYNAMIC (TURBULENCE) SOUNDS, OR FRICTIONAL SOUNDS OF FEATHERS RUBBING AGAINST FEATHERS. THESE HYPOTHESES WILL BE TESTED USING EXPERIMENTAL MANIPULATIONS OF WING FEATURES ON CAPTIVE ANIMALS. AIM 2 OF THIS PROJECT WILL RECORD THE WING KINEMATICS AND ACOUSTIC SIGNATURE OF HUNTING OWLS AND OTHER RAPTORS (HAWKS, FALCONS) IN BOTH CAPTIVE AND WILD SETTINGS TO ASK: HOW DO THE ACOUSTICS OF FLAPPING FLIGHT VARY WITH KINEMATICS? QUIETING FEATURES OF OWL WINGS MAY PLAY A PARTICULARLY IMPORTANT ROLE IN REDUCING SOUND IN HUNTING KINEMATICS, SUCH AS WHEN AN OWL HOVERS OVER PREY AND THE WINGS ARE AT HIGH ANGLE OF ATTACK, NEAR AERODYNAMIC STALL. FINALLY, OWL FLIGHT HAS RECEIVED MORE ATTENTION THAN SOUND PRODUCTION MECHANISMS PRESENT IN ?ORDINARY? BIRD FLIGHT. ORDINARY BIRDS WILL BE FLOWN THROUGH A ?FLIGHT TUBE? TO MEASURE 3D SOUND PRODUCTION IN CRUISING FLIGHT. DATA TO BE RECORDED AND ANALYZED IN PHYLOGENETIC CONTEXT ARE LOAD (GUTIN) SOUND, FRICTIONAL SOUNDS, AND TURBULENCE SOUNDS. BY RIGOROUSLY DOCUMENTING THE ACOUSTIC MECHANISMS OF ORDINARY FLIGHT, INCLUDING MULTIPLE INDEPENDENTLY EVOLVED INSTANCES OF QUIET FLIGHT, THIS 3RD AIM WILL DOCUMENT THE ACOUSTIC SUBSTRATE OUT OF WHICH QUIET FLIGHT HAS EVOLVED. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-12-01",
+    "End Date": "2027-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2342374_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57286438,
+    "generated_unique_award_id": "ASST_NON_2342374_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AEROACOUSTICS OF THE QUIET FLIGHT OF HUNTING OWLS -QUIET OWL FLIGHT HAS BEEN AN INSPIRATION FOR QUIET AIRFOILS, AND OWL HEARING IS A MODEL FOR HOW THE BRAIN LOCALIZES SOUND. YET THESE TWO WELL-STUDIED TOPICS HAVE A VIRTUALLY UNEXPLORED EVOLUTIONARY AND ECOLOGICAL NEXUS: HOW OWLS USE QUIET FLIGHT TO HUNT. THIS PROJECT WILL ADDRESS THIS KNOWLEDGE GAP WITH THREE INTER-RELATED EXPERIMENTS. OWL ATTACKS ON PREY WILL BE RECORDED TO ASK: DO OWLS EMPLOY A ?STEALTH MODE?, I.E., DO OWLS ALTER THEIR BEHAVIOR TO MINIMIZE SOUND PRODUCTION? SECOND, THIS PROJECT WILL CONDUCT EXPERIMENTS ON THE QUIETING FEATURES OF OWL FEATHERS TO TEST HOW THEY WORK. AND THIRD, IF OWLS ARE QUIET, VIRTUALLY NOTHING IS KNOWN ABOUT THE ?NOISY? FLIGHT OF REGULAR BIRDS. A PHYLOGENETICALLY DIVERSE ARRAY OF BIRD SPECIES WILL BE FLOWN THROUGH A SIMPLE, STANDARDIZED ?FLIGHT TUBE? TO MEASURE THEIR SOUND FIELD IN THREE DIMENSIONS DURING ORDINARY FLIGHT. THIS PROJECT?S INTELLECTUAL MERITS INCLUDE SUGGESTING NEW DIRECTIONS FOR BOTH THE NEUROBIOLOGY OF OWL HEARING AND ?BIOINSPIRATION? OF QUIET FLIGHT FOR TECHNICAL DEVICES SUCH AS WINDMILLS OR DRONES. BROADER IMPACTS INCLUDE INCORPORATING UNDERSERVED STUDENTS AS RESEARCHERS, AND OUTREACH ABOUT SOUND WITH STUDENTS AT THE CALIFORNIA SCHOOL FOR THE DEAF. AIM 1 OF THIS PROJECT TESTS TWO HYPOTHESES OF HOW WING FEATURES REDUCE FLIGHT SOUNDS: THAT THEY AMELIORATE AERODYNAMIC (TURBULENCE) SOUNDS, OR FRICTIONAL SOUNDS OF FEATHERS RUBBING AGAINST FEATHERS. THESE HYPOTHESES WILL BE TESTED USING EXPERIMENTAL MANIPULATIONS OF WING FEATURES ON CAPTIVE ANIMALS. AIM 2 OF THIS PROJECT WILL RECORD THE WING KINEMATICS AND ACOUSTIC SIGNATURE OF HUNTING OWLS AND OTHER RAPTORS (HAWKS, FALCONS) IN BOTH CAPTIVE AND WILD SETTINGS TO ASK: HOW DO THE ACOUSTICS OF FLAPPING FLIGHT VARY WITH KINEMATICS? QUIETING FEATURES OF OWL WINGS MAY PLAY A PARTICULARLY IMPORTANT ROLE IN REDUCING SOUND IN HUNTING KINEMATICS, SUCH AS WHEN AN OWL HOVERS OVER PREY AND THE WINGS ARE AT HIGH ANGLE OF ATTACK, NEAR AERODYNAMIC STALL. FINALLY, OWL FLIGHT HAS RECEIVED MORE ATTENTION THAN SOUND PRODUCTION MECHANISMS PRESENT IN ?ORDINARY? BIRD FLIGHT. ORDINARY BIRDS WILL BE FLOWN THROUGH A ?FLIGHT TUBE? TO MEASURE 3D SOUND PRODUCTION IN CRUISING FLIGHT. DATA TO BE RECORDED AND ANALYZED IN PHYLOGENETIC CONTEXT ARE LOAD (GUTIN) SOUND, FRICTIONAL SOUNDS, AND TURBULENCE SOUNDS. BY RIGOROUSLY DOCUMENTING THE ACOUSTIC MECHANISMS OF ORDINARY FLIGHT, INCLUDING MULTIPLE INDEPENDENTLY EVOLVED INSTANCES OF QUIET FLIGHT, THIS 3RD AIM WILL DOCUMENT THE ACOUSTIC SUBSTRATE OUT OF WHICH QUIET FLIGHT HAS EVOLVED. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 661152,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-08-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 45095.65,
+    "total_account_obligation": 661152,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 45095.65
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 661152
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "period_of_performance": {
+      "start_date": "2024-12-01",
+      "end_date": "2027-11-30",
+      "last_modified_date": "2025-04-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 45095.65
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91122800,
+    "Award ID": "R01AG066748",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 4248927,
+    "Total Outlays": 3029517.81,
+    "Description": "COMPENSATION TRAINING AND LIFESTYLE MODIFICATIONS TO PROMOTE HEALTHY AGING IN PERSONS AT RISK FOR ALZHEIMER'S DISEASE: A DIGITAL APPLICATION SUPPORTED INTERVENTION - THE PREVALENCE OF ALZHEIMER'S DISEASE AND OTHER DISORDERS (ADRDS) IS NOW A PUBLIC HEALTH CRISIS. IN THE ABSENCE OF EFFECTIVE MEDICAL TREATMENT, THERE IS A CRITICAL NEED FOR BEHAVIORAL INTERVENTIONS TO PREVENT OR DELAY SYMPTOM ONSET. MULTIDOMAIN INTERVENTIONS SIMULTANEOUSLY TARGETING MULTIPLE MODIFIABLE RISKS FOR ADRD HAVE SHOWN PROMISE, BUT ADDITIONAL INNOVATIVE APPROACHES THAT COULD BE HIGHLY ACCESSIBLE BY CAPITALIZING ON USER- FRIENDLY DIGITAL APPLICATIONS TO SUPPORT AND STRENGTHEN BEHAVIOR MODIFICATION ARE NEEDED. TRAINING IN THE USE OF COMPENSATORY AIDS (E.G., CALENDARS AND NOTE TAKING SYSTEMS) CAN IMPROVE DAILY INDEPENDENCE. THESE SAME COMPENSATORY TOOLS CAN BE EMPLOYED TO FACILITATE THE ADOPTION OF LIFESTYLE CHANGES THAT SUPPORT BRAIN HEALTH (E.G., EXERCISE, COGNITIVE ENGAGEMENT, STRESS MANAGEMENT) THROUGH MANAGEMENT OF GOAL-SETTING, BEHAVIORAL MONITORING, TRACKING AND FEEDBACK. THE CURRENT PROJECT WILL TEST A 6-MONTH INTERVENTION THAT PROVIDES TRAINING IN BOTH COMPENSATORY AIDS AND LIFESTYLE MODIFICATION. A COMPREHENSIVE SUITE OF DIGITAL TOOLS ENCAPSULATED IN THE DIGITAL MEMORY NOTEBOOK (DMN), AN EASY TO USE, INTERACTIVE APPLICATION, WILL BE USED TO FACILITATE BEHAVIORAL CHANGE AND ENHANCE PARTICIPANT MOTIVATION. FURTHER, THE DMN ALLOWS COLLECTION OF REAL-TIME DATA TO TRACK INTERVENTION ADHERENCE. THE DMN HAS BEEN SUCCESSFULLY APPLIED TO IMPROVING COMPENSATION AMONG INDIVIDUALS WITH MILD COGNITIVE IMPAIRMENT. THE PROPOSED WORK CAPITALIZES ON A CRITICAL WINDOW FOR BUILDING RESILIENCE BY TARGETING INDIVIDUALS AT RISK FOR ADRD DUE TO A SUBJECTIVE COGNITIVE CONCERN (SCC) BUT WHO REMAIN COGNITIVELY NORMAL. WE WILL CONDUCT A RANDOMIZED CONTROLLED TRIAL (RCT) AMONG ETHNORACIALLY DIVERSE OLDER ADULTS WITH SCC TO COMPARE OUR DIGITAL APP SUPPORTED COMPENSATION TRAINING AND LIFESTYLE MODIFICATION INTERVENTION TO AN EDUCATION ONLY CONTROL GROUP THAT WILL NOT USE THE DMN OR BE PROVIDED WITH GUIDANCE ON HOW TO IMPLEMENT THE EDUCATIONAL MATERIAL INTO THEIR DAILY LIVES. SPECIFIC AIMS OF THE PROJECT INCLUDE: 1) EVALUATE INTERVENTION EFFICACY ON PRIMARY OUTCOMES (GLOBAL COGNITION AND EVERYDAY FUNCTION); SECONDARY OUTCOMES FOCUS ON WELL-BEING, COGNITIVE DOMAINS (MEMORY AND EXECUTIVE FUNCTION), ACTIVITIES OF DAILY LIVING (IADLS), PHYSICAL FUNCTION, COMPENSATION, AND HEALTH BEHAVIORS; 2) EVALUATE CHARACTERISTICS OF TREATMENT RESPONDERS; 3) EVALUATE ADHERENCE AND IDENTIFY THE EFFECTIVE COMPONENTS OF THE TARGET INTERVENTION USING A MIXED-METHOD APPROACH; AND 4) DESIGN MACHINE LEARNING ALGORITHMS THAT USE PATTERNS OF CHANGE IN REAL-TIME DMN DATA METRICS TO IDENTIFY INCIPIENT DECLINES IN TREATMENT ADHERENCE AND CHANGES IN HEALTH STATUS. THE INTERVENTION UNDER STUDY IS NOVEL BECAUSE IT APPLIES TRAINING IN COMPENSATION TO SUPPORT LIFESTYLE MODIFICATIONS AND EVERYDAY FUNCTIONING USING A DIGITAL APP THAT ALSO MONITORS ADHERENCE TO EACH COMPONENT OF THE INTERVENTION IN REAL-TIME. THE PROJECT IS EXPECTED TO EXPAND UNDERSTANDING OF FACTORS THAT MAY IMPACT ADHERENCE TO AND OUTCOMES OF A PREVENTATIVE INTERVENTION LEADING TO OPTIMIZATION OF A SCALABLE INTERVENTION TO REDUCE DEMENTIA RISK APPLICABLE TO DIVERSE POPULATIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-01-15",
+    "End Date": "2025-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG066748_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91122800,
+    "generated_unique_award_id": "ASST_NON_R01AG066748_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "COMPENSATION TRAINING AND LIFESTYLE MODIFICATIONS TO PROMOTE HEALTHY AGING IN PERSONS AT RISK FOR ALZHEIMER'S DISEASE: A DIGITAL APPLICATION SUPPORTED INTERVENTION - THE PREVALENCE OF ALZHEIMER'S DISEASE AND OTHER DISORDERS (ADRDS) IS NOW A PUBLIC HEALTH CRISIS. IN THE ABSENCE OF EFFECTIVE MEDICAL TREATMENT, THERE IS A CRITICAL NEED FOR BEHAVIORAL INTERVENTIONS TO PREVENT OR DELAY SYMPTOM ONSET. MULTIDOMAIN INTERVENTIONS SIMULTANEOUSLY TARGETING MULTIPLE MODIFIABLE RISKS FOR ADRD HAVE SHOWN PROMISE, BUT ADDITIONAL INNOVATIVE APPROACHES THAT COULD BE HIGHLY ACCESSIBLE BY CAPITALIZING ON USER- FRIENDLY DIGITAL APPLICATIONS TO SUPPORT AND STRENGTHEN BEHAVIOR MODIFICATION ARE NEEDED. TRAINING IN THE USE OF COMPENSATORY AIDS (E.G., CALENDARS AND NOTE TAKING SYSTEMS) CAN IMPROVE DAILY INDEPENDENCE. THESE SAME COMPENSATORY TOOLS CAN BE EMPLOYED TO FACILITATE THE ADOPTION OF LIFESTYLE CHANGES THAT SUPPORT BRAIN HEALTH (E.G., EXERCISE, COGNITIVE ENGAGEMENT, STRESS MANAGEMENT) THROUGH MANAGEMENT OF GOAL-SETTING, BEHAVIORAL MONITORING, TRACKING AND FEEDBACK. THE CURRENT PROJECT WILL TEST A 6-MONTH INTERVENTION THAT PROVIDES TRAINING IN BOTH COMPENSATORY AIDS AND LIFESTYLE MODIFICATION. A COMPREHENSIVE SUITE OF DIGITAL TOOLS ENCAPSULATED IN THE DIGITAL MEMORY NOTEBOOK (DMN), AN EASY TO USE, INTERACTIVE APPLICATION, WILL BE USED TO FACILITATE BEHAVIORAL CHANGE AND ENHANCE PARTICIPANT MOTIVATION. FURTHER, THE DMN ALLOWS COLLECTION OF REAL-TIME DATA TO TRACK INTERVENTION ADHERENCE. THE DMN HAS BEEN SUCCESSFULLY APPLIED TO IMPROVING COMPENSATION AMONG INDIVIDUALS WITH MILD COGNITIVE IMPAIRMENT. THE PROPOSED WORK CAPITALIZES ON A CRITICAL WINDOW FOR BUILDING RESILIENCE BY TARGETING INDIVIDUALS AT RISK FOR ADRD DUE TO A SUBJECTIVE COGNITIVE CONCERN (SCC) BUT WHO REMAIN COGNITIVELY NORMAL. WE WILL CONDUCT A RANDOMIZED CONTROLLED TRIAL (RCT) AMONG ETHNORACIALLY DIVERSE OLDER ADULTS WITH SCC TO COMPARE OUR DIGITAL APP SUPPORTED COMPENSATION TRAINING AND LIFESTYLE MODIFICATION INTERVENTION TO AN EDUCATION ONLY CONTROL GROUP THAT WILL NOT USE THE DMN OR BE PROVIDED WITH GUIDANCE ON HOW TO IMPLEMENT THE EDUCATIONAL MATERIAL INTO THEIR DAILY LIVES. SPECIFIC AIMS OF THE PROJECT INCLUDE: 1) EVALUATE INTERVENTION EFFICACY ON PRIMARY OUTCOMES (GLOBAL COGNITION AND EVERYDAY FUNCTION); SECONDARY OUTCOMES FOCUS ON WELL-BEING, COGNITIVE DOMAINS (MEMORY AND EXECUTIVE FUNCTION), ACTIVITIES OF DAILY LIVING (IADLS), PHYSICAL FUNCTION, COMPENSATION, AND HEALTH BEHAVIORS; 2) EVALUATE CHARACTERISTICS OF TREATMENT RESPONDERS; 3) EVALUATE ADHERENCE AND IDENTIFY THE EFFECTIVE COMPONENTS OF THE TARGET INTERVENTION USING A MIXED-METHOD APPROACH; AND 4) DESIGN MACHINE LEARNING ALGORITHMS THAT USE PATTERNS OF CHANGE IN REAL-TIME DMN DATA METRICS TO IDENTIFY INCIPIENT DECLINES IN TREATMENT ADHERENCE AND CHANGES IN HEALTH STATUS. THE INTERVENTION UNDER STUDY IS NOVEL BECAUSE IT APPLIES TRAINING IN COMPENSATION TO SUPPORT LIFESTYLE MODIFICATIONS AND EVERYDAY FUNCTIONING USING A DIGITAL APP THAT ALSO MONITORS ADHERENCE TO EACH COMPONENT OF THE INTERVENTION IN REAL-TIME. THE PROJECT IS EXPECTED TO EXPAND UNDERSTANDING OF FACTORS THAT MAY IMPACT ADHERENCE TO AND OUTCOMES OF A PREVENTATIVE INTERVENTION LEADING TO OPTIMIZATION OF A SCALABLE INTERVENTION TO REDUCE DEMENTIA RISK APPLICABLE TO DIVERSE POPULATIONS.",
+    "total_obligation": 4248927,
+    "subaward_count": 1,
+    "total_subaward_amount": 779713,
+    "date_signed": "2021-01-05",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 3029517.81,
+    "total_account_obligation": 4248927,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3029517.81
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 4248927
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-01-15",
+      "end_date": "2025-12-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 3029517.81
+  }
+}

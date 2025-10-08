@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91228894,
+    "Award ID": "R01MH127046",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3059045,
+    "Total Outlays": 2563387.18,
+    "Description": "NEURAL AND DEVELOPMENTAL TRAJECTORIES OF FEMALES WITH AUTISM SPECTRUM DISORDER - GIRLS AND WOMEN ARE UNDERSTUDIED IN AUTISM SPECTRUM DISORDER (ASD) RESEARCH BECAUSE STUDY SAMPLES OFTEN REFLECT THE MALE PREDOMINANCE IN ASD PREVALENCE, WITH 3-4 BOYS DIAGNOSED FOR EVERY GIRL. LONGITUDINAL IMAGING STUDIES WITH SUFFICIENT NUMBERS OF FEMALES ARE COMPLETELY LACKING. TO ADDRESS THIS IMPORTANT GAP IN KNOWLEDGE, WE AIM TO EVALUATE BRAIN AND BEHAVIORAL TRAJECTORIES FROM EARLY TO MIDDLE CHILDHOOD IN A LARGE, LONGITUDINAL COHORT OF NEARLY 100 GIRLS WITH AUTISM. AS THE FIELD MOVES TOWARDS IDENTIFYING NEURAL BIOMARKERS FOR ASD RISK AND PREDICTING OUTCOMES, IT IS CRITICAL TO UNDERSTAND SIMILARITIES AND DIFFERENCES BETWEEN MALES AND FEMALES WITH ASD ACROSS THE LIFESPAN. ANOTHER SERIOUS NEED IS TO BETTER UNDERSTAND CO-OCCURRING PSYCHIATRIC CONDITIONS IN FEMALES WITH ASD. IT IS WELL-RECOGNIZED THAT INDIVIDUALS WITH AUTISM HAVE HIGH RATES OF CO-OCCURRING PSYCHOPATHOLOGY, BUT LITTLE IS KNOWN ABOUT EARLY BEHAVIORAL AND NEURAL RISK FACTORS THAT MAY BE SPECIFIC TO GIRLS. AS IN SO MANY OTHER AREAS OF MEDICINE, THE OPTIMAL TREATMENT OF GIRLS AND WOMEN WITH ASD WILL ONLY EMERGE WHEN SEX-RELATED AUTISM ATTRIBUTES AND PROBLEMS ARE ADEQUATELY UNDERSTOOD. IN 2014, WE ESTABLISHED THE GIRLS WITH AUTISM – NEUROIMAGING OF DEVELOPMENT (GAIN) STUDY, WHICH INCREASED REPRESENTATION OF FEMALES WITH ASD IN A LARGER ONGOING PROJECT CALLED THE AUTISM PHENOME PROJECT AND FOLLOWED A COHORT OF GIRLS ACROSS THREE TIME POINTS FROM 2-6 YEARS OF AGE. WITH THIS APPLICATION, WE PLAN TO CONDUCT A FOURTH LONGITUDINAL TIME POINT IN GAIN PARTICIPANTS DURING MIDDLE CHILDHOOD (9-12 YEARS OF AGE). IN ADDITION, IN ORDER TO INCREASE GENERALIZABILITY OF FINDINGS, WE PLAN TO ENROLL NEW GIRLS INTO THE STUDY WITH A FOCUS ON RACIAL AND ETHNIC MINORITY GROUPS THAT HAVE HISTORICALLY BEEN UNDER-REPRESENTED. NEWLY ENROLLED GIRLS WILL FOLLOW THE SAME STUDY PROTOCOLS ESTABLISHED BY THE GAIN STUDY AND DATA WILL BE COMBINED. WE PROPOSE THE FOLLOWING AIMS: 1) TO IDENTIFY SEX-SPECIFIC NEURAL AND BEHAVIORAL PATTERNS IN GIRLS WITH ASD IN EARLY AND MIDDLE CHILDHOOD. 2) TO IDENTIFY SEX DIFFERENCES IN NEURAL RISK FACTORS ASSOCIATED WITH SYMPTOMS OF INTERNALIZING AND EXTERNALIZING PSYCHOPATHOLOGY IN MIDDLE CHILDHOOD. 3) TO CHARACTERIZE THE EMERGENCE AND IMPACT OF SYMPTOMS OF ATTENTION DEFICIT/HYPERACTIVITY DISORDER (ADHD) IN GIRLS WITH ASD. EVALUATING FEMALES WITH ASD IS A CROSS-CUTTING GOAL THAT SPANS ALL OBJECTIVES OF THE US DEPARTMENT OF HEALTH \u0026 HUMAN SERVICES INTERAGENCY AUTISM COORDINATING COMMITTEE AND IS ALSO CONSISTENT WITH THE GOALS OF THE TRANS-NIH STRATEGIC PLAN FOR WOMEN’S HEALTH RESEARCH.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172310",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-05-01",
+    "End Date": "2027-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01MH127046_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91228894,
+    "generated_unique_award_id": "ASST_NON_R01MH127046_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NEURAL AND DEVELOPMENTAL TRAJECTORIES OF FEMALES WITH AUTISM SPECTRUM DISORDER - GIRLS AND WOMEN ARE UNDERSTUDIED IN AUTISM SPECTRUM DISORDER (ASD) RESEARCH BECAUSE STUDY SAMPLES OFTEN REFLECT THE MALE PREDOMINANCE IN ASD PREVALENCE, WITH 3-4 BOYS DIAGNOSED FOR EVERY GIRL. LONGITUDINAL IMAGING STUDIES WITH SUFFICIENT NUMBERS OF FEMALES ARE COMPLETELY LACKING. TO ADDRESS THIS IMPORTANT GAP IN KNOWLEDGE, WE AIM TO EVALUATE BRAIN AND BEHAVIORAL TRAJECTORIES FROM EARLY TO MIDDLE CHILDHOOD IN A LARGE, LONGITUDINAL COHORT OF NEARLY 100 GIRLS WITH AUTISM. AS THE FIELD MOVES TOWARDS IDENTIFYING NEURAL BIOMARKERS FOR ASD RISK AND PREDICTING OUTCOMES, IT IS CRITICAL TO UNDERSTAND SIMILARITIES AND DIFFERENCES BETWEEN MALES AND FEMALES WITH ASD ACROSS THE LIFESPAN. ANOTHER SERIOUS NEED IS TO BETTER UNDERSTAND CO-OCCURRING PSYCHIATRIC CONDITIONS IN FEMALES WITH ASD. IT IS WELL-RECOGNIZED THAT INDIVIDUALS WITH AUTISM HAVE HIGH RATES OF CO-OCCURRING PSYCHOPATHOLOGY, BUT LITTLE IS KNOWN ABOUT EARLY BEHAVIORAL AND NEURAL RISK FACTORS THAT MAY BE SPECIFIC TO GIRLS. AS IN SO MANY OTHER AREAS OF MEDICINE, THE OPTIMAL TREATMENT OF GIRLS AND WOMEN WITH ASD WILL ONLY EMERGE WHEN SEX-RELATED AUTISM ATTRIBUTES AND PROBLEMS ARE ADEQUATELY UNDERSTOOD. IN 2014, WE ESTABLISHED THE GIRLS WITH AUTISM – NEUROIMAGING OF DEVELOPMENT (GAIN) STUDY, WHICH INCREASED REPRESENTATION OF FEMALES WITH ASD IN A LARGER ONGOING PROJECT CALLED THE AUTISM PHENOME PROJECT AND FOLLOWED A COHORT OF GIRLS ACROSS THREE TIME POINTS FROM 2-6 YEARS OF AGE. WITH THIS APPLICATION, WE PLAN TO CONDUCT A FOURTH LONGITUDINAL TIME POINT IN GAIN PARTICIPANTS DURING MIDDLE CHILDHOOD (9-12 YEARS OF AGE). IN ADDITION, IN ORDER TO INCREASE GENERALIZABILITY OF FINDINGS, WE PLAN TO ENROLL NEW GIRLS INTO THE STUDY WITH A FOCUS ON RACIAL AND ETHNIC MINORITY GROUPS THAT HAVE HISTORICALLY BEEN UNDER-REPRESENTED. NEWLY ENROLLED GIRLS WILL FOLLOW THE SAME STUDY PROTOCOLS ESTABLISHED BY THE GAIN STUDY AND DATA WILL BE COMBINED. WE PROPOSE THE FOLLOWING AIMS: 1) TO IDENTIFY SEX-SPECIFIC NEURAL AND BEHAVIORAL PATTERNS IN GIRLS WITH ASD IN EARLY AND MIDDLE CHILDHOOD. 2) TO IDENTIFY SEX DIFFERENCES IN NEURAL RISK FACTORS ASSOCIATED WITH SYMPTOMS OF INTERNALIZING AND EXTERNALIZING PSYCHOPATHOLOGY IN MIDDLE CHILDHOOD. 3) TO CHARACTERIZE THE EMERGENCE AND IMPACT OF SYMPTOMS OF ATTENTION DEFICIT/HYPERACTIVITY DISORDER (ADHD) IN GIRLS WITH ASD. EVALUATING FEMALES WITH ASD IS A CROSS-CUTTING GOAL THAT SPANS ALL OBJECTIVES OF THE US DEPARTMENT OF HEALTH \u0026 HUMAN SERVICES INTERAGENCY AUTISM COORDINATING COMMITTEE AND IS ALSO CONSISTENT WITH THE GOALS OF THE TRANS-NIH STRATEGIC PLAN FOR WOMEN’S HEALTH RESEARCH.",
+    "total_obligation": 3059045,
+    "subaward_count": 1,
+    "total_subaward_amount": 72036,
+    "date_signed": "2022-04-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2563387.18,
+    "total_account_obligation": 3059045,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2563387.18
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3059045
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2022-05-01",
+      "end_date": "2027-02-28",
+      "last_modified_date": "2025-09-26",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2310",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2563387.18
+  }
+}

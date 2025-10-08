@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91180148,
+    "Award ID": "R01EB034279",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1844687,
+    "Total Outlays": 1464786.17,
+    "Description": "BOTTOM-UP, HIGH-THROUGHPUT PROTOTYPING OF EXTRACELLULAR VESICLE MIMETICS USING CELL-FREE SYNTHETIC BIOLOGY - PROJECT SUMMARY BOTTOM-UP, HIGH-THROUGHPUT PROTOTYPING OF EXTRACELLULAR VESICLE MIMETICS USING CELL-FREE SYNTHETIC BIOLOGY CELLS SECRETE EXTRACELLULAR VESICLES (EVS) THAT FUNCTION AS PRIMARY MESSENGERS OF INTERCELLULAR COMMUNICATION AND ARE STUDIED AS PROMISING DRUG-DELIVERY VEHICLES AND THERAPEUTICS. HOWEVER, THE CLINICAL APPLICATION OF NATIVE EVS HAS BEEN HINDERED BY THEIR LOW PRODUCTION YIELD, IMPURITY, AND INHERENT HETEROGENEITY. NATIVE EVS CONTAIN MANY BIOLOGICALLY ACTIVE COMPONENTS, SUCH AS RNAS AND PROTEINS, SPREAD OUT OVER NUMEROUS SUBPOPULATIONS. THIS BIOLOGICAL COMPLEXITY IS BOTH THE STRENGTH AND THE ACHILLES’ HEEL OF NATIVE EVS. WHILE VARIOUS FEATURES OF THIS COMPLEXITY ENABLE THE BENEFICIAL THERAPEUTIC EFFECTS OF EVS, IT IS NOT CLEAR WHICH PLAYS A DOMINANT ROLE. HOWEVER, THE COMPLEX SET OF PROTEINS AND RNAS RESULTS IN HETEROGENEOUS EVS THAT ARE CHALLENGING TO STUDY AND USE AS A STANDARDIZED TREATMENT. THEREFORE, SEPARATING OUT AND DEFINING THE CRITICAL BIOMOLECULAR FEATURES FROM THE OVERALL HETEROGENEOUS SET WILL ALLOW US TO PERFORM QUALITY CONTROL OF EVS AND TO REPRODUCIBLY PRODUCE OR STUDY EVS. A MAJOR BOTTLENECK IN FINDING THE CRITICAL MOLECULAR PARTS OF EVS IS THE LACK OF HIGH-THROUGHPUT METHODS. TO OVERCOME THIS DIFFICULTY, OUR TEAM WILL CREATE A SYNTHETIC BIOLOGY-BASED, CELL-FREE HIGH-THROUGHPUT DISCOVERY PLATFORM. THE PLATFORM WILL BE ABLE TO SYNTHESIZE EV MIMETICS USING A CELL-FREE SYNTHESIS APPROACH (AIM 1), COUPLED WITH HIGH-THROUGHPUT EXAMINATION OF EV MIMETIC POTENCY IN VITRO (AIM 2). SELECT EV MIMETICS WILL ALSO BE INVESTIGATED USING AN IN VIVO MODEL SYSTEM OF NEUROPROTECTION AND IMMUNE MODULATION (AIM 3). THROUGHOUT THE STUDY, WE WILL USE NATIVE MESENCHYMAL STEM/STROMAL CELL EVS AND NEUROLOGICAL DISEASES AS OUR MODEL SYSTEM TO EVALUATE THE PLATFORM. OUR WORK WILL ENABLE THE HIGH-THROUGHPUT STUDY OF EVS FOR ANY DISEASE AND BIOLOGICAL QUESTIONS OF INTEREST. IN ADDITION, WE WILL UNVEIL NEW INSIGHTS INTO EVS THAT ADDRESS KEY DEBATED TOPICS IN THE EV FIELD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-07-01",
+    "End Date": "2027-02-27",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01EB034279_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91180148,
+    "generated_unique_award_id": "ASST_NON_R01EB034279_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "BOTTOM-UP, HIGH-THROUGHPUT PROTOTYPING OF EXTRACELLULAR VESICLE MIMETICS USING CELL-FREE SYNTHETIC BIOLOGY - PROJECT SUMMARY BOTTOM-UP, HIGH-THROUGHPUT PROTOTYPING OF EXTRACELLULAR VESICLE MIMETICS USING CELL-FREE SYNTHETIC BIOLOGY CELLS SECRETE EXTRACELLULAR VESICLES (EVS) THAT FUNCTION AS PRIMARY MESSENGERS OF INTERCELLULAR COMMUNICATION AND ARE STUDIED AS PROMISING DRUG-DELIVERY VEHICLES AND THERAPEUTICS. HOWEVER, THE CLINICAL APPLICATION OF NATIVE EVS HAS BEEN HINDERED BY THEIR LOW PRODUCTION YIELD, IMPURITY, AND INHERENT HETEROGENEITY. NATIVE EVS CONTAIN MANY BIOLOGICALLY ACTIVE COMPONENTS, SUCH AS RNAS AND PROTEINS, SPREAD OUT OVER NUMEROUS SUBPOPULATIONS. THIS BIOLOGICAL COMPLEXITY IS BOTH THE STRENGTH AND THE ACHILLES’ HEEL OF NATIVE EVS. WHILE VARIOUS FEATURES OF THIS COMPLEXITY ENABLE THE BENEFICIAL THERAPEUTIC EFFECTS OF EVS, IT IS NOT CLEAR WHICH PLAYS A DOMINANT ROLE. HOWEVER, THE COMPLEX SET OF PROTEINS AND RNAS RESULTS IN HETEROGENEOUS EVS THAT ARE CHALLENGING TO STUDY AND USE AS A STANDARDIZED TREATMENT. THEREFORE, SEPARATING OUT AND DEFINING THE CRITICAL BIOMOLECULAR FEATURES FROM THE OVERALL HETEROGENEOUS SET WILL ALLOW US TO PERFORM QUALITY CONTROL OF EVS AND TO REPRODUCIBLY PRODUCE OR STUDY EVS. A MAJOR BOTTLENECK IN FINDING THE CRITICAL MOLECULAR PARTS OF EVS IS THE LACK OF HIGH-THROUGHPUT METHODS. TO OVERCOME THIS DIFFICULTY, OUR TEAM WILL CREATE A SYNTHETIC BIOLOGY-BASED, CELL-FREE HIGH-THROUGHPUT DISCOVERY PLATFORM. THE PLATFORM WILL BE ABLE TO SYNTHESIZE EV MIMETICS USING A CELL-FREE SYNTHESIS APPROACH (AIM 1), COUPLED WITH HIGH-THROUGHPUT EXAMINATION OF EV MIMETIC POTENCY IN VITRO (AIM 2). SELECT EV MIMETICS WILL ALSO BE INVESTIGATED USING AN IN VIVO MODEL SYSTEM OF NEUROPROTECTION AND IMMUNE MODULATION (AIM 3). THROUGHOUT THE STUDY, WE WILL USE NATIVE MESENCHYMAL STEM/STROMAL CELL EVS AND NEUROLOGICAL DISEASES AS OUR MODEL SYSTEM TO EVALUATE THE PLATFORM. OUR WORK WILL ENABLE THE HIGH-THROUGHPUT STUDY OF EVS FOR ANY DISEASE AND BIOLOGICAL QUESTIONS OF INTEREST. IN ADDITION, WE WILL UNVEIL NEW INSIGHTS INTO EVS THAT ADDRESS KEY DEBATED TOPICS IN THE EV FIELD.",
+    "total_obligation": 1844687,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-02-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1464786.17,
+    "total_account_obligation": 1844687,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1464786.17
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1844687
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "period_of_performance": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-02-27",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1464786.17
+  }
+}

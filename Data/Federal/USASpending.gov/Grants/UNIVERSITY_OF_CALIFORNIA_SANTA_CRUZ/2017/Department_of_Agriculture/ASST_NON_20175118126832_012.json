@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56294224,
+    "Award ID": "20175118126832",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+    "Award Amount": 2490173.19,
+    "Total Outlays": 1719257.08,
+    "Description": "STRAWBERRY PRODUCTION IS A $2.8 BILLION INDUSTRY THAT PROVIDES LIVELIHOODS FOR MANY HUNDREDS OF GROWERS AND EMPLOYS OVER 80,000 WORKERS IN THE US. THE INDUSTRY WAS BUILT AROUND THE USE OF FUMIGANTS TO MANAGE SOILBORNE DISEASES AND PESTS. INCREASING RESTRICTIONS ON FUMIGANT USE DUE TO HEALTH AND ENVIRONMENTAL CONCERNS MAKE THE DEVELOPMENT OF EFFECTIVE REDUCED/NON-FUMIGANT BASED MANAGEMENT SYSTEMS CRITICAL FOR SURVIVAL OF THE INDUSTRY IN THE US. THIS SREP PROJECT BRINGS TOGETHER A NATIONAL TEAM OF RESEARCHERS AND STAKEHOLDERS TO DEVELOP AND IMPLEMENT EFFECTIVE NON/REDUCED FUMIGANT MANAGEMENT SYSTEMS TAILORED FOR SPECIFIC REGIONS, PATHOGENS AND PESTS.BIOLOGICALLY-BASED TECHNIQUES, NOTABLY ANAEROBIC SOIL DISINFESTATION (ASD), CROP ROTATION AND CULTIVAR RESISTANCE ARE PROMISING ALTERNATIVES TO FUMIGATION IN STRAWBERRIES; BUT THEIR EFFICACY IS DEPENDENT ON ENVIRONMENTAL AND BIOLOGICAL VARIABLES. IMPROVED UNDERSTANDING OF MANAGEMENT/ENVIRONMENT/ PATHOGEN INTERACTIONS WITH ASD IS NEEDED TO DEVELOP SITE AND PATHOGEN SPECIFIC MANAGEMENT STRATEGIES. ANY SINGLE BIOLOGICAL TECHNIQUE IS UNLIKELY TO PROVIDE EFFICACY IN ALL SITUATIONS, BUT COMBINING MULTIPLE STRATEGIES SHOULD INCREASE THE RELIABILITY OF PATHOGEN CONTROL. HERE WE PROPOSE TO OPTIMIZE ASD MANAGEMENT IN TERMS OF CARBON SOURCES,SOIL TEMPERATURES, WATER AND NITROGEN MANAGMENT, AND TEST ITS USE WITH BIOLOGICAL CONTROL AGENTS AND HERBICIDES, REDUCED WATER APPLICATION, IMPROVED NITROGEN MANAGEMENT AND USE OFRESISTANT CULTIVARS. WE WILLTHEN COMBINE THESE APPROACHES WITH CROP ROTATION TO DESIGN INTEGRATED SYSTEMS TARGETED FOR SPECIFIC PATHOGENS AND STRAWBERRY GROWING REGIONS IN CALIFORNIA, FLORIDA, NORTH CAROLINA AND TENNESSEE.FINDINGS FROM THIS PROJECT WILL ALSO BENEFIT OTHER SPECIALTY CROPS WHERE FUMIGANTS ARE USED, AND ADDRESS SCRI PRIORITIES: IDENTIFY AND ADDRESS THREATS FROM PESTS AND DISEASES; IMPROVE PRODUCTION EFFICIENCY; AND RESEARCH ON PLANT BREEDING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "VXUFPE4MCZH5",
+    "Recipient Location": {
+      "address_line1": "1156 HIGH ST",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SANTA CRUZ",
+      "congressional_code": "19",
+      "country_name": "UNITED STATES",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1077",
+      "zip5": "95064"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SANTA CRUZ",
+      "congressional_code": "19",
+      "country_name": "UNITED STATES",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95064-1077",
+      "zip5": "95064"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2017-08-15",
+    "End Date": "2023-08-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "427ea0fd-a29e-756b-4973-911cb119bc8d-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20175118126832_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56294224,
+    "generated_unique_award_id": "ASST_NON_20175118126832_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "STRAWBERRY PRODUCTION IS A $2.8 BILLION INDUSTRY THAT PROVIDES LIVELIHOODS FOR MANY HUNDREDS OF GROWERS AND EMPLOYS OVER 80,000 WORKERS IN THE US. THE INDUSTRY WAS BUILT AROUND THE USE OF FUMIGANTS TO MANAGE SOILBORNE DISEASES AND PESTS. INCREASING RESTRICTIONS ON FUMIGANT USE DUE TO HEALTH AND ENVIRONMENTAL CONCERNS MAKE THE DEVELOPMENT OF EFFECTIVE REDUCED/NON-FUMIGANT BASED MANAGEMENT SYSTEMS CRITICAL FOR SURVIVAL OF THE INDUSTRY IN THE US. THIS SREP PROJECT BRINGS TOGETHER A NATIONAL TEAM OF RESEARCHERS AND STAKEHOLDERS TO DEVELOP AND IMPLEMENT EFFECTIVE NON/REDUCED FUMIGANT MANAGEMENT SYSTEMS TAILORED FOR SPECIFIC REGIONS, PATHOGENS AND PESTS.BIOLOGICALLY-BASED TECHNIQUES, NOTABLY ANAEROBIC SOIL DISINFESTATION (ASD), CROP ROTATION AND CULTIVAR RESISTANCE ARE PROMISING ALTERNATIVES TO FUMIGATION IN STRAWBERRIES; BUT THEIR EFFICACY IS DEPENDENT ON ENVIRONMENTAL AND BIOLOGICAL VARIABLES. IMPROVED UNDERSTANDING OF MANAGEMENT/ENVIRONMENT/ PATHOGEN INTERACTIONS WITH ASD IS NEEDED TO DEVELOP SITE AND PATHOGEN SPECIFIC MANAGEMENT STRATEGIES. ANY SINGLE BIOLOGICAL TECHNIQUE IS UNLIKELY TO PROVIDE EFFICACY IN ALL SITUATIONS, BUT COMBINING MULTIPLE STRATEGIES SHOULD INCREASE THE RELIABILITY OF PATHOGEN CONTROL. HERE WE PROPOSE TO OPTIMIZE ASD MANAGEMENT IN TERMS OF CARBON SOURCES,SOIL TEMPERATURES, WATER AND NITROGEN MANAGMENT, AND TEST ITS USE WITH BIOLOGICAL CONTROL AGENTS AND HERBICIDES, REDUCED WATER APPLICATION, IMPROVED NITROGEN MANAGEMENT AND USE OFRESISTANT CULTIVARS. WE WILLTHEN COMBINE THESE APPROACHES WITH CROP ROTATION TO DESIGN INTEGRATED SYSTEMS TARGETED FOR SPECIFIC PATHOGENS AND STRAWBERRY GROWING REGIONS IN CALIFORNIA, FLORIDA, NORTH CAROLINA AND TENNESSEE.FINDINGS FROM THIS PROJECT WILL ALSO BENEFIT OTHER SPECIALTY CROPS WHERE FUMIGANTS ARE USED, AND ADDRESS SCRI PRIORITIES: IDENTIFY AND ADDRESS THREATS FROM PESTS AND DISEASES; IMPROVE PRODUCTION EFFICIENCY; AND RESEARCH ON PLANT BREEDING.",
+    "total_obligation": 2490173.19,
+    "subaward_count": 16,
+    "total_subaward_amount": 1450901,
+    "date_signed": "2017-08-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1719257.08,
+    "total_account_obligation": -22866.81,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1719257.08
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -22866.81
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2017-08-15",
+      "end_date": "2023-08-14",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "427ea0fd-a29e-756b-4973-911cb119bc8d-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+      "recipient_uei": "VXUFPE4MCZH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SANTA CRUZ",
+        "county_code": "087",
+        "county_name": "SANTA CRUZ",
+        "address_line1": "1156 HIGH ST",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "19",
+        "zip4": "1077",
+        "zip5": "95064",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SANTA CRUZ",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "19",
+      "zip4": "1077",
+      "zip5": "95064",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1719257.08
+  }
+}

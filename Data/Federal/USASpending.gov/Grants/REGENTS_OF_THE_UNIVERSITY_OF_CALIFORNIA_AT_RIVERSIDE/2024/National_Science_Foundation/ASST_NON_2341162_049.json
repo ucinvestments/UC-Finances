@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57283773,
+    "Award ID": "2341162",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1000000,
+    "Total Outlays": 368464.53,
+    "Description": "DEVELOPMENTAL SYSTEM DRIFT IN NEMATODE GUT SPECIFICATION -DURING EMBRYONIC DEVELOPMENT, GENE NETWORKS CAUSE CELLS TO DEVELOP ALONG PATHWAYS OF DIFFERENTIATION. CHANGES IN SUCH NETWORKS UNDERLIE DIFFERENCES IN FORM AND FUNCTION THAT EMERGE OVER EVOLUTIONARY TIME. HOWEVER, GENE NETWORKS CAN ALSO UNDERGO CHANGES WITHOUT ANY MAJOR PHENOTYPE CHANGE, A PHENOMENON CALLED DEVELOPMENTAL SYSTEM DRIFT (DSD). DSD IS INFERRED WHEN A COMMON DEVELOPMENTAL PROCESS IS FOUND TO HAVE DIFFERENCES IN THE UNDERLYING GENE NETWORKS BETWEEN TWO SPECIES, EVEN THOUGH THE PHENOTYPE IS THE SAME. AMONG THE MORE SURPRISING EXAMPLES OF DSD ARE THOSE INVOLVING THE REWIRING OF A TRANSCRIPTION FACTOR NETWORK, WHERE A NEW NETWORK REPLACES AN ANCESTRAL ONE. NEMATODES OF THE GENUS PRISTIONCHUS ARE A DISTANT RELATIVE OF THE WELL-STUDIED SPECIES C. ELEGANS. THIS PROJECT WILL USE A COMBINATION OF BIOINFORMATIC AND GENETICS METHODS TO UNDERSTAND HOW A SIMPLE EMBRYONIC GENE NETWORK IN ANCESTRAL PRISTIONCHUS SPECIES UNDERWENT EXPANSION OVER EVOLUTIONARY TIME TO FORM A MORE COMPLEX NETWORK. THE PROJECT WILL ALSO PROVIDE TEACHING AND TRAINING OPPORTUNITIES FOR GRADUATE AND UNDERGRADUATE STUDENTS, INCLUDING THROUGH A FRESHMAN LABORATORY COURSE IN NEMATODE GENETICS, BIOINFORMATICS, MICROSCOPY, AND MOLECULAR BIOLOGY. OVER THE PAST 20 YEARS, NETWORK OF ZYGOTIC GATA TRANSCRIPTION FACTORS HAS BEEN ELUCIDATED THAT SPECIFIES THE GUT PRECURSOR IN THE C. ELEGANS EMBRYO. IN THIS NETWORK, FACTORS ACT IN THE ORDER MED-1,2 \u003e END-1,3 \u003e ELT-2,7, WITH ELT-2 ACTING AS THE MAIN TERMINAL INTESTINAL DIFFERENTIATION FACTOR. THE MED/END/ELT-7 FACTORS ARE FOUND ONLY IN CLOSE RELATIVES OF C. ELEGANS. WE RECENTLY REPORTED THAT IN THE MORE DISTANT RELATIVE C. ANGARIA, GUT IS SPECIFIED BY A SIMPLER NETWORK CONSISTING OF ONLY ELT-3 \u003e ELT-2. IN C. ELEGANS, THE GUT SPECIFICATION ROLE OF ELT-3 HAS BEEN REPLACED BY THE MED/END/ELT-7 FACTORS. WE HAVE FOUND EVIDENCE THAT THE MORE DISTANT RELATIVE PRISTIONCHUS PACIFICUS SPECIFIES ENDODERM WITH AN EXPANDED GATA FACTOR NETWORK AS C. ELEGANS. LIKE CAENORHABDITIS, THIS NETWORK SEEMS TO ALSO BE DERIVED FROM A SIMPLER ANCESTRAL VERSION, WITH EARLIER STATES REPRESENTED BY EXTANT SPECIES IN THE PRISTIONCHUS GENUS. ALL UPSTREAM FACTORS APPEAR TO BE DERIVED FROM AN ANCESTRAL ELT-3-LIKE FACTOR. IN THIS PROPOSAL, WE WILL DETERMINE THE ARCHITECTURE OF THE GUT SPECIFICATION NETWORK IN PRISTIONCHUS SPECIES TO IDENTIFY PATTERNS OF NETWORK EVOLUTION, AND AS A COMPARISON TO CAENORHABDITIS. THE PROPOSED STUDIES PROMISE NEW INSIGHTS INTO EMBRYONIC DEVELOPMENT OF PRISTIONCHUS NEMATODES, THE EVOLUTION OF GENE NETWORKS, AND DEVELOPMENTAL SYSTEM DRIFT. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-01-15",
+    "End Date": "2027-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2341162_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57283773,
+    "generated_unique_award_id": "ASST_NON_2341162_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DEVELOPMENTAL SYSTEM DRIFT IN NEMATODE GUT SPECIFICATION -DURING EMBRYONIC DEVELOPMENT, GENE NETWORKS CAUSE CELLS TO DEVELOP ALONG PATHWAYS OF DIFFERENTIATION. CHANGES IN SUCH NETWORKS UNDERLIE DIFFERENCES IN FORM AND FUNCTION THAT EMERGE OVER EVOLUTIONARY TIME. HOWEVER, GENE NETWORKS CAN ALSO UNDERGO CHANGES WITHOUT ANY MAJOR PHENOTYPE CHANGE, A PHENOMENON CALLED DEVELOPMENTAL SYSTEM DRIFT (DSD). DSD IS INFERRED WHEN A COMMON DEVELOPMENTAL PROCESS IS FOUND TO HAVE DIFFERENCES IN THE UNDERLYING GENE NETWORKS BETWEEN TWO SPECIES, EVEN THOUGH THE PHENOTYPE IS THE SAME. AMONG THE MORE SURPRISING EXAMPLES OF DSD ARE THOSE INVOLVING THE REWIRING OF A TRANSCRIPTION FACTOR NETWORK, WHERE A NEW NETWORK REPLACES AN ANCESTRAL ONE. NEMATODES OF THE GENUS PRISTIONCHUS ARE A DISTANT RELATIVE OF THE WELL-STUDIED SPECIES C. ELEGANS. THIS PROJECT WILL USE A COMBINATION OF BIOINFORMATIC AND GENETICS METHODS TO UNDERSTAND HOW A SIMPLE EMBRYONIC GENE NETWORK IN ANCESTRAL PRISTIONCHUS SPECIES UNDERWENT EXPANSION OVER EVOLUTIONARY TIME TO FORM A MORE COMPLEX NETWORK. THE PROJECT WILL ALSO PROVIDE TEACHING AND TRAINING OPPORTUNITIES FOR GRADUATE AND UNDERGRADUATE STUDENTS, INCLUDING THROUGH A FRESHMAN LABORATORY COURSE IN NEMATODE GENETICS, BIOINFORMATICS, MICROSCOPY, AND MOLECULAR BIOLOGY. OVER THE PAST 20 YEARS, NETWORK OF ZYGOTIC GATA TRANSCRIPTION FACTORS HAS BEEN ELUCIDATED THAT SPECIFIES THE GUT PRECURSOR IN THE C. ELEGANS EMBRYO. IN THIS NETWORK, FACTORS ACT IN THE ORDER MED-1,2 \u003e END-1,3 \u003e ELT-2,7, WITH ELT-2 ACTING AS THE MAIN TERMINAL INTESTINAL DIFFERENTIATION FACTOR. THE MED/END/ELT-7 FACTORS ARE FOUND ONLY IN CLOSE RELATIVES OF C. ELEGANS. WE RECENTLY REPORTED THAT IN THE MORE DISTANT RELATIVE C. ANGARIA, GUT IS SPECIFIED BY A SIMPLER NETWORK CONSISTING OF ONLY ELT-3 \u003e ELT-2. IN C. ELEGANS, THE GUT SPECIFICATION ROLE OF ELT-3 HAS BEEN REPLACED BY THE MED/END/ELT-7 FACTORS. WE HAVE FOUND EVIDENCE THAT THE MORE DISTANT RELATIVE PRISTIONCHUS PACIFICUS SPECIFIES ENDODERM WITH AN EXPANDED GATA FACTOR NETWORK AS C. ELEGANS. LIKE CAENORHABDITIS, THIS NETWORK SEEMS TO ALSO BE DERIVED FROM A SIMPLER ANCESTRAL VERSION, WITH EARLIER STATES REPRESENTED BY EXTANT SPECIES IN THE PRISTIONCHUS GENUS. ALL UPSTREAM FACTORS APPEAR TO BE DERIVED FROM AN ANCESTRAL ELT-3-LIKE FACTOR. IN THIS PROPOSAL, WE WILL DETERMINE THE ARCHITECTURE OF THE GUT SPECIFICATION NETWORK IN PRISTIONCHUS SPECIES TO IDENTIFY PATTERNS OF NETWORK EVOLUTION, AND AS A COMPARISON TO CAENORHABDITIS. THE PROPOSED STUDIES PROMISE NEW INSIGHTS INTO EMBRYONIC DEVELOPMENT OF PRISTIONCHUS NEMATODES, THE EVOLUTION OF GENE NETWORKS, AND DEVELOPMENTAL SYSTEM DRIFT. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 1000000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-01-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 368464.53,
+    "total_account_obligation": 1000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 368464.53
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "period_of_performance": {
+      "start_date": "2024-01-15",
+      "end_date": "2027-12-31",
+      "last_modified_date": "2025-08-12",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 368464.53
+  }
+}

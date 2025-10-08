@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173705380,
+    "Award ID": "R01AI188897",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3248576,
+    "Total Outlays": null,
+    "Description": "VACCINE-MEDIATED CROSS-ALPHAVIRUS PROTECTION FOR A LIVE ATTENUATED FDA LICENSED CHIKUNGUNYA VIRUS VACCINE - PROJECT SUMMARY/ABSTRACT CHIKUNGUNYA VIRUS (CHIKV) IS AN EMERGING MOSQUITO-BORNE ALPHAVIRUS ENDEMIC IN 110 COUNTRIES THAT CAUSES FEBRILE ILLNESS AND ARTHRITIC DISEASE. IN NOVEMBER 2023, FDA APPROVED THE FIRST CHIKV VACCINE, A LIVE ATTENUATED VACCINE (LAV) MARKETED AS IXCHIQ. ALTHOUGH THERE ARE MANY IMPORTANT HUMAN PATHOGENIC ALPHAVIRUSES WITH A NEAR GLOBAL DISTRIBUTION, IXCHIQ IS THE FIRST ALPHAVIRUS VACCINE LICENSED FOR HUMANS. NO STUDIES HAVE EVALUATED THE ABILITY OF IXCHIQ TO PROTECT AGAINST INFECTION, VIREMIA, AND DISEASE AFTER EXPOSURE TO OTHER ALPHAVIRUSES THAT ALSO OCCUR IN LATIN AMERICA IN AREAS WITH CHIKV OR DETERMINED HOW PRIOR HETEROLOGOUS ALPHAVIRUS INFECTION IMPACTS IXCHIQ EFFICACY. THIS INFORMATION IS IMPORTANT TO KNOW AS IT WILL IDENTIFY IMPACTS OF IXCHIQ CAMPAIGNS IN CONTEXTS WHERE THE VACCINE IS ADMINISTERED TO POPULATIONS WITH OR WITHOUT PRIOR ALPHAVIRUS EXPOSURE. AS A LAV, IXCHIQ PRODUCES HUMAN VIREMIAS UP TO 5 LOG10 GENOMES/ML THAT PEAK AT 3 DAYS AND LAST 1 WEEK. THESE VIREMIAS EXCEED INFECTION AND TRANSMISSION THRESHOLDS FOR CHIKV VECTOR MOSQUITOES AEDES AEGYPTI AND AEDES ALBOPICTUS IN STUDIES WE AND OTHERS PERFORMED WITH THE SAME OR NEARLY IDENTICAL CHIKV STRAINS AS THE BACKBONE USED FOR IXCHIQ. HOWEVER, NO STUDIES HAVE EXAMINED WHETHER IXCHIQ IS CAPABLE OF TRANSMISSION BY MOSQUITO VECTORS. IF IXCHIQ IS TRANSMITTED BY AEDES, IT COULD BE SPREAD BY MOSQUITOES INFECTED FROM VIREMIC VACCINEES, LEADING TO INFECTION OF CHILDREN, IMMUNOSUPPRESSED, AND PREGNANT PEOPLE FOR WHICH THE VACCINE IS NOT APPROVED. THE GOALS OF THIS PROJECT ARE TO UNDERSTAND ALPHAVIRUS CIRCULATION DYNAMICS IN THE NOVEL LANDSCAPE OF IXCHIQ ROLLOUT. THESE GOALS WILL BE ACCOMPLISHED VIA THE FOLLOWING 3 PROJECT AIMS: 1) DETERMINE CROSS-PROTECTIVE EFFICACY OF IXCHIQ- INDUCED IMMUNITY AGAINST HETEROLOGOUS ALPHAVIRUS SPECIES AND DEFINE THE ROLE OF CROSS-REACTIVE ANTIBODY IN PROTECTION, 2) DEFINE INFECTIVITY AND TRANSMISSIBILITY OF IXCHIQ IN AE. AEGYPTI AND AE. ALBOPICTUS MOSQUITOES AND DETERMINE PROTECTIVE EFFICACY OF MOSQUITO-DELIVERED IXCHIQ, AND 3) DETERMINE THE IMPACT OF PRIOR INFECTION WITH A HETEROLOGOUS ALPHAVIRUS ON IXCHIQ-INDUCED IMMUNE RESPONSES AND EFFICACY AGAINST CHIKV AND DEFINE THE ROLE OF CROSS-REACTIVE HETEROLOGOUS ANTIBODY IN PROTECTION OR DISEASE ENHANCEMENT. WE WILL USE 4 HETEROLOGOUS ALPHAVIRUS SPECIES THAT OCCUR IN LATIN AMERICA WHERE IXCHIQ ROLLOUT IS EXPECTED AS WELL AS CHIKV IN ESTABLISHED MOUSE AND NON-HUMAN PRIMATE MODELS, INCLUDING A NEW MAYARO VIRUS RHESUS MACAQUE MODEL WE DEVELOPED. THIS PROJECT WILL IDENTIFY CONSEQUENCES OF IXCHIQ ROLLOUT IN CONTEXTS WHERE THE VACCINE IS ADMINISTERED TO PEOPLE WITH OR WITHOUT PRIOR ALPHAVIRUS EXPOSURE AND IT WILL DEFINE THE POTENTIAL FOR MOSQUITO-BORNE IXCHIQ SPREAD IN AREAS WITH AEDES, WHICH CAN INFORM RECOMMENDATIONS FOR RECENT VACCINEES TO PREVENT MOSQUITO EXPOSURE. IF IXCHIQ PROTECTS AGAINST DISEASE CAUSED BY OTHER ALPHAVIRUSES, VACCINE ROLLOUT COULD REDUCE INCIDENCE AND BURDEN OF OTHER ALPHAVIRUSES IN ADDITION TO CHIKV.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-07-25",
+    "End Date": "2029-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI188897_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173705380,
+    "generated_unique_award_id": "ASST_NON_R01AI188897_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "VACCINE-MEDIATED CROSS-ALPHAVIRUS PROTECTION FOR A LIVE ATTENUATED FDA LICENSED CHIKUNGUNYA VIRUS VACCINE - PROJECT SUMMARY/ABSTRACT CHIKUNGUNYA VIRUS (CHIKV) IS AN EMERGING MOSQUITO-BORNE ALPHAVIRUS ENDEMIC IN 110 COUNTRIES THAT CAUSES FEBRILE ILLNESS AND ARTHRITIC DISEASE. IN NOVEMBER 2023, FDA APPROVED THE FIRST CHIKV VACCINE, A LIVE ATTENUATED VACCINE (LAV) MARKETED AS IXCHIQ. ALTHOUGH THERE ARE MANY IMPORTANT HUMAN PATHOGENIC ALPHAVIRUSES WITH A NEAR GLOBAL DISTRIBUTION, IXCHIQ IS THE FIRST ALPHAVIRUS VACCINE LICENSED FOR HUMANS. NO STUDIES HAVE EVALUATED THE ABILITY OF IXCHIQ TO PROTECT AGAINST INFECTION, VIREMIA, AND DISEASE AFTER EXPOSURE TO OTHER ALPHAVIRUSES THAT ALSO OCCUR IN LATIN AMERICA IN AREAS WITH CHIKV OR DETERMINED HOW PRIOR HETEROLOGOUS ALPHAVIRUS INFECTION IMPACTS IXCHIQ EFFICACY. THIS INFORMATION IS IMPORTANT TO KNOW AS IT WILL IDENTIFY IMPACTS OF IXCHIQ CAMPAIGNS IN CONTEXTS WHERE THE VACCINE IS ADMINISTERED TO POPULATIONS WITH OR WITHOUT PRIOR ALPHAVIRUS EXPOSURE. AS A LAV, IXCHIQ PRODUCES HUMAN VIREMIAS UP TO 5 LOG10 GENOMES/ML THAT PEAK AT 3 DAYS AND LAST 1 WEEK. THESE VIREMIAS EXCEED INFECTION AND TRANSMISSION THRESHOLDS FOR CHIKV VECTOR MOSQUITOES AEDES AEGYPTI AND AEDES ALBOPICTUS IN STUDIES WE AND OTHERS PERFORMED WITH THE SAME OR NEARLY IDENTICAL CHIKV STRAINS AS THE BACKBONE USED FOR IXCHIQ. HOWEVER, NO STUDIES HAVE EXAMINED WHETHER IXCHIQ IS CAPABLE OF TRANSMISSION BY MOSQUITO VECTORS. IF IXCHIQ IS TRANSMITTED BY AEDES, IT COULD BE SPREAD BY MOSQUITOES INFECTED FROM VIREMIC VACCINEES, LEADING TO INFECTION OF CHILDREN, IMMUNOSUPPRESSED, AND PREGNANT PEOPLE FOR WHICH THE VACCINE IS NOT APPROVED. THE GOALS OF THIS PROJECT ARE TO UNDERSTAND ALPHAVIRUS CIRCULATION DYNAMICS IN THE NOVEL LANDSCAPE OF IXCHIQ ROLLOUT. THESE GOALS WILL BE ACCOMPLISHED VIA THE FOLLOWING 3 PROJECT AIMS: 1) DETERMINE CROSS-PROTECTIVE EFFICACY OF IXCHIQ- INDUCED IMMUNITY AGAINST HETEROLOGOUS ALPHAVIRUS SPECIES AND DEFINE THE ROLE OF CROSS-REACTIVE ANTIBODY IN PROTECTION, 2) DEFINE INFECTIVITY AND TRANSMISSIBILITY OF IXCHIQ IN AE. AEGYPTI AND AE. ALBOPICTUS MOSQUITOES AND DETERMINE PROTECTIVE EFFICACY OF MOSQUITO-DELIVERED IXCHIQ, AND 3) DETERMINE THE IMPACT OF PRIOR INFECTION WITH A HETEROLOGOUS ALPHAVIRUS ON IXCHIQ-INDUCED IMMUNE RESPONSES AND EFFICACY AGAINST CHIKV AND DEFINE THE ROLE OF CROSS-REACTIVE HETEROLOGOUS ANTIBODY IN PROTECTION OR DISEASE ENHANCEMENT. WE WILL USE 4 HETEROLOGOUS ALPHAVIRUS SPECIES THAT OCCUR IN LATIN AMERICA WHERE IXCHIQ ROLLOUT IS EXPECTED AS WELL AS CHIKV IN ESTABLISHED MOUSE AND NON-HUMAN PRIMATE MODELS, INCLUDING A NEW MAYARO VIRUS RHESUS MACAQUE MODEL WE DEVELOPED. THIS PROJECT WILL IDENTIFY CONSEQUENCES OF IXCHIQ ROLLOUT IN CONTEXTS WHERE THE VACCINE IS ADMINISTERED TO PEOPLE WITH OR WITHOUT PRIOR ALPHAVIRUS EXPOSURE AND IT WILL DEFINE THE POTENTIAL FOR MOSQUITO-BORNE IXCHIQ SPREAD IN AREAS WITH AEDES, WHICH CAN INFORM RECOMMENDATIONS FOR RECENT VACCINEES TO PREVENT MOSQUITO EXPOSURE. IF IXCHIQ PROTECTS AGAINST DISEASE CAUSED BY OTHER ALPHAVIRUSES, VACCINE ROLLOUT COULD REDUCE INCIDENCE AND BURDEN OF OTHER ALPHAVIRUSES IN ADDITION TO CHIKV.",
+    "total_obligation": 3248576,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 3248576,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3248576
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-07-25",
+      "end_date": "2029-06-30",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

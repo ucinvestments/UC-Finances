@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57283358,
+    "Award ID": "2340979",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 770000,
+    "Total Outlays": 169442.99,
+    "Description": "CAREER: SATURATED AND UNSATURATED SILICON FOR SINGLE-MOLECULE ELECTRONICS -WITH SUPPORT FROM THE CHEMICAL STRUCTURE, DYNAMICS \u0026 MECHANISMS B PROGRAM OF THE CHEMISTRY DIVISION, TIMOTHY SU OF THE DEPARTMENT OF CHEMISTRY AT THE UNIVERSITY OF CALIFORNIA, RIVERSIDE (UCR) IS DEVELOPING SILICON-BASED ELECTRONICS AT THE SMALLEST LENGTH SCALES (I.E., MOLECULES). SILICON IS THE HALLMARK MATERIAL OF MODERN MICROELECTRONICS AND EMERGING QUANTUM ELECTRONIC TECHNOLOGIES. WITH SILICON ELECTRONICS BECOMING INCREASINGLY MINIATURIZED, IT IS EVER IMPORTANT TO UNDERSTAND HOW THE STRUCTURE OF SILICON AT MOLECULAR LENGTH SCALES CAN BE DESIGNED AND CONTROLLED TO GIVE TAILORED ELECTRONIC PROPERTIES. THE CENTRAL HYPOTHESIS IS THAT BY CONTROLLING THE STRUCTURE OF THE MOLECULAR BACKBONE, SILICON-BASED MOLECULAR CIRCUITS CAN BE MADE TO BE HIGHLY RESISTIVE, HIGHLY CONDUCTING, OR ELECTRONICALLY SWITCHABLE TO EXTENTS THAT OUTPERFORM CURRENT MOLECULAR ELECTRONIC TECHNOLOGIES. THE EDUCATIONAL ACTIVITIES FOCUS ON ATTRACTING AND RETAINING DISADVANTAGED AND UNDERREPRESENTED STUDENTS IN THE STEM (SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS) PIPELINE FROM THE ELEMENTARY SCHOOL LEVEL TO THE UNIVERSITY LEVEL. TOWARD THIS GOAL, STUDENT-CREATED SOCIAL MEDIA VIDEOS WILL BE LEVERAGED TO: (1) IMPROVE LEARNING OUTCOMES AND CLOSE THE ACHIEVEMENT GAP FOR UCR STUDENTS AT THE ENTRY POINT OF THEIR STEM COURSEWORK, (2) CREATE A CYBERINFRASTRUCTURE TO DEMYSTIFY CHEMICAL CONCEPTS AND STEM CAREERS, (3) ENGAGE LOCAL 5TH AND 6TH GRADE STUDENTS IN SCIENCE THROUGH SILICON MATERIALS EXPERIMENTS, AND (4) BROADEN PARTICIPATION IN CHEMICAL RESEARCH. THESE ACTIVITIES HEAVILY TARGET THE NEEDS OF STUDENTS AT UC RIVERSIDE, A DESIGNATED HISPANIC SERVING INSTITUTION (HSI), WHERE OVER FIFTY PERCENT OF STUDENTS ARE PELL GRANT RECIPIENTS AND THE FIRST IN THEIR FAMILIES TO ATTEND A 4-YEAR COLLEGE. THIS PROPOSAL DESCRIBES THE SYNTHESIS, FUNCTIONALIZATION, AND INTEGRATION OF CONJUGATED MOLECULAR SILICON INTO SINGLE-MOLECULE CIRCUITS STUDIED WITH A SCANNING TUNNELING MICROSCOPY BREAK-JUNCTION (STM-BJ) APPROACH. IT WILL: (1) EXPLORE THE IMPACT OF GE-ATOM INCORPORATION AND CLUSTER DIMERIZATION ON DESTRUCTIVE QUANTUM INTERFERENCE (DQI) IN BICYCLIC OLIGOSILANE INSULATORS, (2) USE MECHANICAL STIMULI TO PROMOTE OR DISRUPT WEAK INTRAMOLECULAR BONDING INTERACTIONS WITHIN THE POLYSILANE BACKBONE TO ACCESS REVERSIBLE CONDUCTANCE SWITCHES, AND (3) PROBE UNSATURATED SILICON MOLECULES AS AN UNEXPLORED CLASS OF NANOELECTRONIC MATERIALS ANTICIPATED TO BE SEVERAL ORDERS OF MAGNITUDE MORE CONDUCTIVE THAN THEIR ORGANIC ANALOGS. THESE EFFORTS ARE AIMED AT ESTABLISHING THE FOUNDATION OF THE PRINCIPAL INVESTIGATOR?S PROGRAM TO EXPLORE AN EMERGING AREA OF WORK TERMED MAIN GROUP MOLECULAR ELECTRONICS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-06-01",
+    "End Date": "2029-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2340979_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57283358,
+    "generated_unique_award_id": "ASST_NON_2340979_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAREER: SATURATED AND UNSATURATED SILICON FOR SINGLE-MOLECULE ELECTRONICS -WITH SUPPORT FROM THE CHEMICAL STRUCTURE, DYNAMICS \u0026 MECHANISMS B PROGRAM OF THE CHEMISTRY DIVISION, TIMOTHY SU OF THE DEPARTMENT OF CHEMISTRY AT THE UNIVERSITY OF CALIFORNIA, RIVERSIDE (UCR) IS DEVELOPING SILICON-BASED ELECTRONICS AT THE SMALLEST LENGTH SCALES (I.E., MOLECULES). SILICON IS THE HALLMARK MATERIAL OF MODERN MICROELECTRONICS AND EMERGING QUANTUM ELECTRONIC TECHNOLOGIES. WITH SILICON ELECTRONICS BECOMING INCREASINGLY MINIATURIZED, IT IS EVER IMPORTANT TO UNDERSTAND HOW THE STRUCTURE OF SILICON AT MOLECULAR LENGTH SCALES CAN BE DESIGNED AND CONTROLLED TO GIVE TAILORED ELECTRONIC PROPERTIES. THE CENTRAL HYPOTHESIS IS THAT BY CONTROLLING THE STRUCTURE OF THE MOLECULAR BACKBONE, SILICON-BASED MOLECULAR CIRCUITS CAN BE MADE TO BE HIGHLY RESISTIVE, HIGHLY CONDUCTING, OR ELECTRONICALLY SWITCHABLE TO EXTENTS THAT OUTPERFORM CURRENT MOLECULAR ELECTRONIC TECHNOLOGIES. THE EDUCATIONAL ACTIVITIES FOCUS ON ATTRACTING AND RETAINING DISADVANTAGED AND UNDERREPRESENTED STUDENTS IN THE STEM (SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS) PIPELINE FROM THE ELEMENTARY SCHOOL LEVEL TO THE UNIVERSITY LEVEL. TOWARD THIS GOAL, STUDENT-CREATED SOCIAL MEDIA VIDEOS WILL BE LEVERAGED TO: (1) IMPROVE LEARNING OUTCOMES AND CLOSE THE ACHIEVEMENT GAP FOR UCR STUDENTS AT THE ENTRY POINT OF THEIR STEM COURSEWORK, (2) CREATE A CYBERINFRASTRUCTURE TO DEMYSTIFY CHEMICAL CONCEPTS AND STEM CAREERS, (3) ENGAGE LOCAL 5TH AND 6TH GRADE STUDENTS IN SCIENCE THROUGH SILICON MATERIALS EXPERIMENTS, AND (4) BROADEN PARTICIPATION IN CHEMICAL RESEARCH. THESE ACTIVITIES HEAVILY TARGET THE NEEDS OF STUDENTS AT UC RIVERSIDE, A DESIGNATED HISPANIC SERVING INSTITUTION (HSI), WHERE OVER FIFTY PERCENT OF STUDENTS ARE PELL GRANT RECIPIENTS AND THE FIRST IN THEIR FAMILIES TO ATTEND A 4-YEAR COLLEGE. THIS PROPOSAL DESCRIBES THE SYNTHESIS, FUNCTIONALIZATION, AND INTEGRATION OF CONJUGATED MOLECULAR SILICON INTO SINGLE-MOLECULE CIRCUITS STUDIED WITH A SCANNING TUNNELING MICROSCOPY BREAK-JUNCTION (STM-BJ) APPROACH. IT WILL: (1) EXPLORE THE IMPACT OF GE-ATOM INCORPORATION AND CLUSTER DIMERIZATION ON DESTRUCTIVE QUANTUM INTERFERENCE (DQI) IN BICYCLIC OLIGOSILANE INSULATORS, (2) USE MECHANICAL STIMULI TO PROMOTE OR DISRUPT WEAK INTRAMOLECULAR BONDING INTERACTIONS WITHIN THE POLYSILANE BACKBONE TO ACCESS REVERSIBLE CONDUCTANCE SWITCHES, AND (3) PROBE UNSATURATED SILICON MOLECULES AS AN UNEXPLORED CLASS OF NANOELECTRONIC MATERIALS ANTICIPATED TO BE SEVERAL ORDERS OF MAGNITUDE MORE CONDUCTIVE THAN THEIR ORGANIC ANALOGS. THESE EFFORTS ARE AIMED AT ESTABLISHING THE FOUNDATION OF THE PRINCIPAL INVESTIGATOR?S PROGRAM TO EXPLORE AN EMERGING AREA OF WORK TERMED MAIN GROUP MOLECULAR ELECTRONICS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 770000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-12-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 169442.99,
+    "total_account_obligation": 770000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 169442.99
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 770000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF CHEMISTRY"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF CHEMISTRY"
+    },
+    "period_of_performance": {
+      "start_date": "2024-06-01",
+      "end_date": "2029-05-31",
+      "last_modified_date": "2024-09-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 169442.99
+  }
+}

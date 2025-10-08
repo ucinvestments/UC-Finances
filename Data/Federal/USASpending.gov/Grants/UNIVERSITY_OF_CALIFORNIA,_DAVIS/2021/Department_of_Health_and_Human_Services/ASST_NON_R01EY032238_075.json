@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91185345,
+    "Award ID": "R01EY032238",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3241037,
+    "Total Outlays": 2321714.16,
+    "Description": "SOFT DRUSEN IN RHESUS MACAQUES AS A NONHUMAN PRIMATE MODEL OF EARLY AGE-RELATED MACULAR DEGENERATION - PROJECT SUMMARY AGE-RELATED MACULAR DEGENERATION (AMD) IS THE LEADING CAUSE OF VISION LOSS IN THE ELDERLY, BUT CURRENT TREATMENTS TARGET ADVANCED STAGES WHEN INTERVENTIONS MAY BE LIMITED BY IRREVERSIBLE CELL LOSS. SOFT DRUSEN ARE THE INITIAL AND HALLMARK FEATURE OF AMD, BUT THEIR PATHOGENESIS IS UNCLEAR AND THE DEVELOPMENT OF TREATMENTS IS LIMITED BY THE LACK OF GOOD ANIMAL MODELS. UNLIKE MOST LABORATORY ANIMALS, NONHUMAN PRIMATES (NHPS) POSSESS A TRUE MACULA AND SPONTANEOUSLY DEVELOP SOFT DRUSEN RESEMBLING EARLY HUMAN AMD. PRIOR STUDIES OF NHP DRUSEN HAVE BEEN OBSERVATIONAL, CROSS-SECTIONAL, AND QUALITATIVE, OWING TO THE HIGH COSTS OF MAINTAINING AGED ANIMALS, LIMITED LONGITUDINAL IMAGING CAPABILITIES, AND LACK OF NEXT-GENERATION SEQUENCING (NGS) AND BIOINFORMATICS SUPPORT. WE RECENTLY SURVEYED A UNIQUE COLONY OF GERIATRIC RHESUS MACAQUES AT THE CALIFORNIA NATIONAL PRIMATE RESEARCH CENTER (CNPRC), AND FOUND A 30.6% PREVALENCE OF DRUSEN. USING HIGH-RESOLUTION MULTIMODAL IN VIVO IMAGING, WE PRECISELY MEASURED DRUSEN PROGRESSION OVER 2 YEARS, WITH HISTOLOGICAL AND ULTRASTRUCTURAL CORRELATES DEMONSTRATING LIPID ACCUMULATION RESEMBLING HUMAN SOFT DRUSEN. SIMILAR TO CARDIOVASCULAR DISEASES, AMD SHARE EPIDEMIOLOGIC RISK FACTORS SUCH AS HIGH FAT DIETS, SUSCEPTIBILITY GENES IN LIPID METABOLISM, AND DEPOSITS SIMILAR TO ATHEROSCLEROTIC PLAQUES WITH LIPOPROTEIN ACCUMULATION, LIPID OXIDATION, AND COMPLEMENT-BASED INFLAMMATORY RESPONSES. RECENT PILOT STUDIES SUGGEST THAT HIGH-DOSE ORAL ATORVASTATIN CAN CAUSE DRUSEN REGRESSION IN SOME AMD PATIENTS, BUT HUMAN STUDIES ARE LIMITED BY THE HETEROGENEITY OF AMD PHENOTYPES AND VARIABILITY IN SUBJECT DIETS AND SERUM LIPID CONCENTRATIONS. IN THIS STUDY, WE PLAN TO ESTABLISH A NEW, UNIQUE COHORT OF AGED RHESUS MACAQUES WITH SOFT DRUSEN, AND PERFORM 1) DETAILED OPHTHALMIC CHARACTERIZATION USING SPECTRAL-DOMAIN OPTICAL COHERENCE TOMOGRAPHY (SD-OCT) TO PRECISELY MEASURE RETINAL LAYERS AND TRACK DRUSEN VOLUME, AND FUNDUS AUTOFLUORESCENCE (FAF) TO MEASURE RPE LIPOFUSCIN, 2) METABOLIC PROFILING TO MEASURE FASTING PLASMA METABOLITES, LIPOPROTEINS, AND APOLIPOPROTEINS, AND 3) WHOLE-GENOME SEQUENCING TO IDENTIFY GENETIC VARIANTS IN ANIMALS WITH DRUSEN THAT MAY BE SHARED WITH HUMAN AMD. NEXT, WE WILL ESTABLISH THE IMPACT OF A “WESTERN-STYLE” HIGH-FAT/SUGAR (HFS) DIET AND HIGH-DOSE ATORVASTATIN ON DRUSEN PROGRESSION AND RPE HEALTH OVER 2 YEARS, AND DETERMINE POSSIBLE CORRELATIONS WITH DIETARY FATS AND SERUM LIPIDS. FINALLY, WE WILL EMPLOY NGS-BASED SINGLE-CELL RNA-SEQUENCING (SCRNA-SEQ) TO DETERMINE THE GENE EXPRESSION PROFILE IN MACULAR RPE CELLS WITH AND WITHOUT SOFT DRUSEN, EXPOSURE TO HFS DIET, OR TREATMENT WITH HIGH-DOSE STATIN, FOLLOWED BY IMMUNOHISTOCHEMISTRY OF CONTRALATERAL EYES TO EVALUATE AND VALIDATE IDENTIFIED GENE SETS OR PATHWAYS, AS WELL AS COMPLEMENT AND OTHER IMMUNE PATHWAYS. TOGETHER, THESE STUDIES WILL NOT ONLY ESTABLISH A HIGHLY-VALUABLE AND UNIQUE COHORT OF AGED RHESUS MACAQUES WITH SOFT DRUSEN SUITABLE FOR TRANSLATIONAL STUDIES, BUT ALSO EXPLORE THE ROLE OF DIETARY LIPIDS, ORAL STATINS, RPE GENE EXPRESSION, AND IMMUNE PATHWAYS IN THIS NHP MODEL OF EARLY AMD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-01-01",
+    "End Date": "2025-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01EY032238_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91185345,
+    "generated_unique_award_id": "ASST_NON_R01EY032238_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SOFT DRUSEN IN RHESUS MACAQUES AS A NONHUMAN PRIMATE MODEL OF EARLY AGE-RELATED MACULAR DEGENERATION - PROJECT SUMMARY AGE-RELATED MACULAR DEGENERATION (AMD) IS THE LEADING CAUSE OF VISION LOSS IN THE ELDERLY, BUT CURRENT TREATMENTS TARGET ADVANCED STAGES WHEN INTERVENTIONS MAY BE LIMITED BY IRREVERSIBLE CELL LOSS. SOFT DRUSEN ARE THE INITIAL AND HALLMARK FEATURE OF AMD, BUT THEIR PATHOGENESIS IS UNCLEAR AND THE DEVELOPMENT OF TREATMENTS IS LIMITED BY THE LACK OF GOOD ANIMAL MODELS. UNLIKE MOST LABORATORY ANIMALS, NONHUMAN PRIMATES (NHPS) POSSESS A TRUE MACULA AND SPONTANEOUSLY DEVELOP SOFT DRUSEN RESEMBLING EARLY HUMAN AMD. PRIOR STUDIES OF NHP DRUSEN HAVE BEEN OBSERVATIONAL, CROSS-SECTIONAL, AND QUALITATIVE, OWING TO THE HIGH COSTS OF MAINTAINING AGED ANIMALS, LIMITED LONGITUDINAL IMAGING CAPABILITIES, AND LACK OF NEXT-GENERATION SEQUENCING (NGS) AND BIOINFORMATICS SUPPORT. WE RECENTLY SURVEYED A UNIQUE COLONY OF GERIATRIC RHESUS MACAQUES AT THE CALIFORNIA NATIONAL PRIMATE RESEARCH CENTER (CNPRC), AND FOUND A 30.6% PREVALENCE OF DRUSEN. USING HIGH-RESOLUTION MULTIMODAL IN VIVO IMAGING, WE PRECISELY MEASURED DRUSEN PROGRESSION OVER 2 YEARS, WITH HISTOLOGICAL AND ULTRASTRUCTURAL CORRELATES DEMONSTRATING LIPID ACCUMULATION RESEMBLING HUMAN SOFT DRUSEN. SIMILAR TO CARDIOVASCULAR DISEASES, AMD SHARE EPIDEMIOLOGIC RISK FACTORS SUCH AS HIGH FAT DIETS, SUSCEPTIBILITY GENES IN LIPID METABOLISM, AND DEPOSITS SIMILAR TO ATHEROSCLEROTIC PLAQUES WITH LIPOPROTEIN ACCUMULATION, LIPID OXIDATION, AND COMPLEMENT-BASED INFLAMMATORY RESPONSES. RECENT PILOT STUDIES SUGGEST THAT HIGH-DOSE ORAL ATORVASTATIN CAN CAUSE DRUSEN REGRESSION IN SOME AMD PATIENTS, BUT HUMAN STUDIES ARE LIMITED BY THE HETEROGENEITY OF AMD PHENOTYPES AND VARIABILITY IN SUBJECT DIETS AND SERUM LIPID CONCENTRATIONS. IN THIS STUDY, WE PLAN TO ESTABLISH A NEW, UNIQUE COHORT OF AGED RHESUS MACAQUES WITH SOFT DRUSEN, AND PERFORM 1) DETAILED OPHTHALMIC CHARACTERIZATION USING SPECTRAL-DOMAIN OPTICAL COHERENCE TOMOGRAPHY (SD-OCT) TO PRECISELY MEASURE RETINAL LAYERS AND TRACK DRUSEN VOLUME, AND FUNDUS AUTOFLUORESCENCE (FAF) TO MEASURE RPE LIPOFUSCIN, 2) METABOLIC PROFILING TO MEASURE FASTING PLASMA METABOLITES, LIPOPROTEINS, AND APOLIPOPROTEINS, AND 3) WHOLE-GENOME SEQUENCING TO IDENTIFY GENETIC VARIANTS IN ANIMALS WITH DRUSEN THAT MAY BE SHARED WITH HUMAN AMD. NEXT, WE WILL ESTABLISH THE IMPACT OF A “WESTERN-STYLE” HIGH-FAT/SUGAR (HFS) DIET AND HIGH-DOSE ATORVASTATIN ON DRUSEN PROGRESSION AND RPE HEALTH OVER 2 YEARS, AND DETERMINE POSSIBLE CORRELATIONS WITH DIETARY FATS AND SERUM LIPIDS. FINALLY, WE WILL EMPLOY NGS-BASED SINGLE-CELL RNA-SEQUENCING (SCRNA-SEQ) TO DETERMINE THE GENE EXPRESSION PROFILE IN MACULAR RPE CELLS WITH AND WITHOUT SOFT DRUSEN, EXPOSURE TO HFS DIET, OR TREATMENT WITH HIGH-DOSE STATIN, FOLLOWED BY IMMUNOHISTOCHEMISTRY OF CONTRALATERAL EYES TO EVALUATE AND VALIDATE IDENTIFIED GENE SETS OR PATHWAYS, AS WELL AS COMPLEMENT AND OTHER IMMUNE PATHWAYS. TOGETHER, THESE STUDIES WILL NOT ONLY ESTABLISH A HIGHLY-VALUABLE AND UNIQUE COHORT OF AGED RHESUS MACAQUES WITH SOFT DRUSEN SUITABLE FOR TRANSLATIONAL STUDIES, BUT ALSO EXPLORE THE ROLE OF DIETARY LIPIDS, ORAL STATINS, RPE GENE EXPRESSION, AND IMMUNE PATHWAYS IN THIS NHP MODEL OF EARLY AMD.",
+    "total_obligation": 3241037,
+    "subaward_count": 6,
+    "total_subaward_amount": 198524,
+    "date_signed": "2020-12-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2321714.16,
+    "total_account_obligation": 3241037,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2321714.16
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3241037
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2021-01-01",
+      "end_date": "2025-12-31",
+      "last_modified_date": "2025-01-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2321714.16
+  }
+}

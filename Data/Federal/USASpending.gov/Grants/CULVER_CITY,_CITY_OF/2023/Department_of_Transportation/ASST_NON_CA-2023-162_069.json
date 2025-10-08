@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 80989458,
+    "Award ID": "CA-2023-162",
+    "Recipient Name": "CULVER CITY, CITY OF",
+    "Award Amount": 2315999,
+    "Total Outlays": 1434628,
+    "Description": "APPLICATION PURPOSE: FUNDING WILL PROVIDE CAPITAL FINANCING FOR IMPROVEMENTS TO THE CULVER CITY MUNICIPAL BUS SYSTEM TO IMPROVE OVERALL SYSTEM PERFORMANCE AND RELIABILITY.; ACTIVITIES PERFORMED: THIS GRANT WILL INCLUDE THE IMPROVEMENT OF TRANSPORTATION DEPARTMENT FACILITIES BY REPLACING OBSOLETE BUILDING SYSTEMS INCLUDING HEATING VENTILATION/EXHAUST/VACUUM AND FACILITY POWER BACKUP FROM GENERATOR. THIS GRANT WILL ALSO REPLACE THREE DEMAND RESPONSE VEHICLES AT THE END OF USEFUL LIFE. FUNDING WILL BE USED TO REPLACE TWIN-POST VEHICLE SHOP LIFT TIRE LEASING ACTIVITY AS WELL AS COSTS TO REHAB/REBUILD EXISTING CNG 40 BUSES TO EXTEND SERVICE LIFE.; EXPECTED OUTCOMES: REPLACEMENT OF FACILITY EQUIPMENT AND ELECTRIFICATION INFRASTRUCTURE TO SUPPORT FUTURE BEB DEPLOYMENT AND CENTRAL MAINTENANCE FACILITY OPERATIONS. REPLACEMENT OF THREE END OF LIFE DEMAND RESPONSE VEHICLES FOR IMPROVED SERVICE PERFORMANCE. REPLACEMENT OF VEHICLE SHOPLIFT TO ENSURE AVAILABILITY OF MAINTENANCE BAYS FOR SYSTEM VEHICLES. ONGOING SERVICE AND REPLACEMENT OF VEHICLE TIRES THROUGH ONGOING LEASE AND EXTENDED SERVICE OF BUSES. ALL GRANT ACTIVITIES AND PROJECTS AIM TO REDUCE MAINTENANCE COSTS ENHANCE PASSENGER COMFORT AND SAFETY AND LOWER GREENHOUSE GAS EMISSIONS.; INTENDED BENEFICIARIES: CULVER CITY TRANSIT RIDERS AND RESIDENTS OF THE CULVER CITY MUNICIPAL BUS SERVICE AREA. CULVER CITYBUS OPERATES SEVEN FIXED-ROUTE LOCAL BUS ROUTES AND ONE BUS RAPID TRANSIT LINE. THE CULVER CITYBUS SERVICE AREA ENCOMPASSES CULVER CITY AND THE LOS ANGELES COMMUNITIES OF CENTURY CITY MARINA DEL REY MAR VISTA PALMS PLAYA VISTA RANCHO PARK VENICE WEST LOS ANGELES WESTCHESTER AND WESTWOOD. SERVICE RUNS FROM THE UNIVERSITY OF CALIFORNIA AT LOS ANGELES (UCLA) TO THE NORTH TO THE METRO GREEN LINE STATION TO THE SOUTH AND FROM FAIRFAX AVE. TO THE EAST TO VENICE BEACH TO THE WEST; CULVER CITYBUS SERVICE ALSO CONNECTS WITH THE EXPOSITION LIGHT RAIL LINE (E LINE). CULVER CITYBUS SERVICE AREA ENCOMPASSES APPROXIMATELY 43 SQUARE MILES. THE POPULATION OF THIS AREA IS APPROXIMATELY 530000.; SUBRECIPIENT ACTIVITIES: CULVER CITY DOES NOT INTEND TO USE SUBRECIPIENTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "M5B9GLV2LQN7",
+    "Recipient Location": {
+      "address_line1": "9770 CULVER BLVD",
+      "address_line2": "N/A",
+      "address_line3": null,
+      "city_name": "CULVER CITY",
+      "congressional_code": "37",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2703",
+      "zip5": "90232"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Transportation",
+    "Awarding Sub Agency": "Federal Transit Administration",
+    "Start Date": "2023-08-21",
+    "End Date": "2028-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "c720a5a3-5997-9235-ef1b-6aea641c3d56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_CA-2023-162_069",
+    "awarding_agency_id": 731,
+    "agency_slug": "department-of-transportation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 80989458,
+    "generated_unique_award_id": "ASST_NON_CA-2023-162_069",
+    "piid": "",
+    "category": "grant",
+    "type": "03",
+    "type_description": "FORMULA GRANT (A)",
+    "description": "APPLICATION PURPOSE: FUNDING WILL PROVIDE CAPITAL FINANCING FOR IMPROVEMENTS TO THE CULVER CITY MUNICIPAL BUS SYSTEM TO IMPROVE OVERALL SYSTEM PERFORMANCE AND RELIABILITY.; ACTIVITIES PERFORMED: THIS GRANT WILL INCLUDE THE IMPROVEMENT OF TRANSPORTATION DEPARTMENT FACILITIES BY REPLACING OBSOLETE BUILDING SYSTEMS INCLUDING HEATING VENTILATION/EXHAUST/VACUUM AND FACILITY POWER BACKUP FROM GENERATOR. THIS GRANT WILL ALSO REPLACE THREE DEMAND RESPONSE VEHICLES AT THE END OF USEFUL LIFE. FUNDING WILL BE USED TO REPLACE TWIN-POST VEHICLE SHOP LIFT TIRE LEASING ACTIVITY AS WELL AS COSTS TO REHAB/REBUILD EXISTING CNG 40 BUSES TO EXTEND SERVICE LIFE.; EXPECTED OUTCOMES: REPLACEMENT OF FACILITY EQUIPMENT AND ELECTRIFICATION INFRASTRUCTURE TO SUPPORT FUTURE BEB DEPLOYMENT AND CENTRAL MAINTENANCE FACILITY OPERATIONS. REPLACEMENT OF THREE END OF LIFE DEMAND RESPONSE VEHICLES FOR IMPROVED SERVICE PERFORMANCE. REPLACEMENT OF VEHICLE SHOPLIFT TO ENSURE AVAILABILITY OF MAINTENANCE BAYS FOR SYSTEM VEHICLES. ONGOING SERVICE AND REPLACEMENT OF VEHICLE TIRES THROUGH ONGOING LEASE AND EXTENDED SERVICE OF BUSES. ALL GRANT ACTIVITIES AND PROJECTS AIM TO REDUCE MAINTENANCE COSTS ENHANCE PASSENGER COMFORT AND SAFETY AND LOWER GREENHOUSE GAS EMISSIONS.; INTENDED BENEFICIARIES: CULVER CITY TRANSIT RIDERS AND RESIDENTS OF THE CULVER CITY MUNICIPAL BUS SERVICE AREA. CULVER CITYBUS OPERATES SEVEN FIXED-ROUTE LOCAL BUS ROUTES AND ONE BUS RAPID TRANSIT LINE. THE CULVER CITYBUS SERVICE AREA ENCOMPASSES CULVER CITY AND THE LOS ANGELES COMMUNITIES OF CENTURY CITY MARINA DEL REY MAR VISTA PALMS PLAYA VISTA RANCHO PARK VENICE WEST LOS ANGELES WESTCHESTER AND WESTWOOD. SERVICE RUNS FROM THE UNIVERSITY OF CALIFORNIA AT LOS ANGELES (UCLA) TO THE NORTH TO THE METRO GREEN LINE STATION TO THE SOUTH AND FROM FAIRFAX AVE. TO THE EAST TO VENICE BEACH TO THE WEST; CULVER CITYBUS SERVICE ALSO CONNECTS WITH THE EXPOSITION LIGHT RAIL LINE (E LINE). CULVER CITYBUS SERVICE AREA ENCOMPASSES APPROXIMATELY 43 SQUARE MILES. THE POPULATION OF THIS AREA IS APPROXIMATELY 530000.; SUBRECIPIENT ACTIVITIES: CULVER CITY DOES NOT INTEND TO USE SUBRECIPIENTS.",
+    "total_obligation": 2315999,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-08-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1434628,
+    "total_account_obligation": 2315999,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1434628
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2315999
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 760,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Transportation",
+        "code": "069",
+        "abbreviation": "DOT",
+        "slug": "department-of-transportation"
+      },
+      "subtier_agency": {
+        "name": "Federal Transit Administration",
+        "code": "6955",
+        "abbreviation": "FTA"
+      },
+      "office_agency_name": "OFFICE OF BUDGET AND POLICY(TBP)"
+    },
+    "awarding_agency": {
+      "id": 760,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Transportation",
+        "code": "069",
+        "abbreviation": "DOT",
+        "slug": "department-of-transportation"
+      },
+      "subtier_agency": {
+        "name": "Federal Transit Administration",
+        "code": "6955",
+        "abbreviation": "FTA"
+      },
+      "office_agency_name": "REGION 9 DOT  FTA"
+    },
+    "period_of_performance": {
+      "start_date": "2023-08-21",
+      "end_date": "2028-09-30",
+      "last_modified_date": "2025-03-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "c720a5a3-5997-9235-ef1b-6aea641c3d56-R",
+      "recipient_name": "CULVER CITY, CITY OF",
+      "recipient_uei": "M5B9GLV2LQN7",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Local Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "CULVER CITY",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "9770 CULVER BLVD",
+        "address_line2": "N/A",
+        "address_line3": null,
+        "congressional_code": "37",
+        "zip4": "2703",
+        "zip5": "90232",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1434628
+  }
+}

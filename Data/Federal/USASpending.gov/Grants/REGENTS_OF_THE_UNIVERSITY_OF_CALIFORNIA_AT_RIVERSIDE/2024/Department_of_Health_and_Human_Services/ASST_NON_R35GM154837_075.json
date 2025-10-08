@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91330765,
+    "Award ID": "R35GM154837",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 765480,
+    "Total Outlays": 284536.99,
+    "Description": "THE EVOLUTION AND GENETICS OF RECOMBINATION RATE VARIATION - PROJECT SUMMARY MEIOTIC RECOMBINATION IS A FUNDAMENTAL ASPECT OF REPRODUCTION IN MOST EUKARYOTES. RECOMBINATION RATE, I.E. THE NUMBER OF CROSSOVERS PER GENERATION, IS ALSO A KEY MODULATOR OF GENETIC AND EVOLUTIONARY PROCESSES, HAVING PROFOUND EFFECTS ON BASIC PATTERNS OF GENETIC INHERITANCE, AS WELL AS HIGH-LEVEL PHENOMENA LIKE ADAPTATION AND SPECIATION. ERRORS IN RECOMBINATION (E.G., NONDISJUNCTION) ALSO CONTRIBUTE TO A VARIETY OF HUMAN CHROMOSOMAL DISORDERS, INCLUDING TRISOMY 21 AND KLINEFELTER SYNDROME. DESPITE ITS WIDE-RANGING IMPORTANCE ACROSS MANY DOMAINS OF BIOLOGY, WE HAVE A POOR UNDERSTANDING OF HOW AND WHY RECOMBINATION RATE VARIES ACROSS BIOLOGICAL SCALES. OVER THE NEXT FIVE YEARS, MY LAB WILL SHED LIGHT ON THE GENETIC AND EVOLUTIONARY CAUSES AND CONSEQUENCES OF RECOMBINATION RATE VARIATION BY TESTING LONG-STANDING HYPOTHESES USING MODERN GENOMIC TOOLS. THIS WORK WILL LEVERAGE EMPIRICAL TOOLS FROM TWO MODEL SYSTEMS, THREESPINE STICKLEBACKS AND DROSOPHILA, AND SEVERAL NEW KEY GENOMIC TECHNOLOGIES. WE WILL UNDERTAKE FOUR LINES OF RESEARCH TO TEST HYPOTHESES REGARDING THE EVOLUTIONARY DRIVERS OF RECOMBINATION RATE VARIATION IN NATURAL POPULATIONS. FIRST, WE WILL EXPLORE THE EVOLUTIONARY DRIVERS OF RECOMBINATION RATE VARIATION IN A MODEL VERTEBRATE, THREESPINE STICKLEBACKS, USING GAMETE SEQUENCING. SECOND, WE WILL PERFORM THE FIRST EXPERIMENTAL TEST FOR THE ROLE OF STRUCTURAL VARIANTS IN DETERMINING GENOME-WIDE RECOMBINATION RATE VARIATION IN VERTEBRATES. THIRD, WE WILL PERFORM A NOVEL EXPERIMENTAL TEST OF THE ROLE OF CHROMOSOMAL INVERSIONS IN ADAPTATION USING RECENT ADVANCEMENTS IN CRISPR-MEDIATED CHROMOSOMAL ENGINEERING TO CREATE AND “UNDO” CHROMOSOMAL ARRANGEMENTS IN A DROSOPHILA MODEL SPECIES. FINALLY, WE WILL DEVELOP MODERN AND USER-FRIENDLY STATISTICAL METHODS FOR COMPARING RECOMBINATION MAPS WITHIN AND BETWEEN SPECIES AND POPULATIONS. THIS RESEARCH PROGRAM WILL GREATLY ADVANCE OUR UNDERSTANDING OF THE FUNDAMENTAL BIOLOGY OF MEIOTIC RECOMBINATION, CREATE MYRIAD NEW RESOURCES AND TOOLS, AND TRAIN PERSONNEL IN CUTTING-EDGE TECHNIQUES THAT SPAN GENOMICS, COMPUTATIONAL BIOLOGY, AND EVOLUTIONARY BIOLOGY. THESE ADVANCES WILL BE APPLICABLE ACROSS ALL DOMAINS OF BIOLOGY, FROM UNDERSTANDING THE EVOLUTION OF DISEASES LIKE SARS-COV-2, TO UNDERSTANDING THE FUNDAMENTAL MECHANICS OF EVOLUTION IN NATURAL POPULATIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-01",
+    "End Date": "2029-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM154837_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91330765,
+    "generated_unique_award_id": "ASST_NON_R35GM154837_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE EVOLUTION AND GENETICS OF RECOMBINATION RATE VARIATION - PROJECT SUMMARY MEIOTIC RECOMBINATION IS A FUNDAMENTAL ASPECT OF REPRODUCTION IN MOST EUKARYOTES. RECOMBINATION RATE, I.E. THE NUMBER OF CROSSOVERS PER GENERATION, IS ALSO A KEY MODULATOR OF GENETIC AND EVOLUTIONARY PROCESSES, HAVING PROFOUND EFFECTS ON BASIC PATTERNS OF GENETIC INHERITANCE, AS WELL AS HIGH-LEVEL PHENOMENA LIKE ADAPTATION AND SPECIATION. ERRORS IN RECOMBINATION (E.G., NONDISJUNCTION) ALSO CONTRIBUTE TO A VARIETY OF HUMAN CHROMOSOMAL DISORDERS, INCLUDING TRISOMY 21 AND KLINEFELTER SYNDROME. DESPITE ITS WIDE-RANGING IMPORTANCE ACROSS MANY DOMAINS OF BIOLOGY, WE HAVE A POOR UNDERSTANDING OF HOW AND WHY RECOMBINATION RATE VARIES ACROSS BIOLOGICAL SCALES. OVER THE NEXT FIVE YEARS, MY LAB WILL SHED LIGHT ON THE GENETIC AND EVOLUTIONARY CAUSES AND CONSEQUENCES OF RECOMBINATION RATE VARIATION BY TESTING LONG-STANDING HYPOTHESES USING MODERN GENOMIC TOOLS. THIS WORK WILL LEVERAGE EMPIRICAL TOOLS FROM TWO MODEL SYSTEMS, THREESPINE STICKLEBACKS AND DROSOPHILA, AND SEVERAL NEW KEY GENOMIC TECHNOLOGIES. WE WILL UNDERTAKE FOUR LINES OF RESEARCH TO TEST HYPOTHESES REGARDING THE EVOLUTIONARY DRIVERS OF RECOMBINATION RATE VARIATION IN NATURAL POPULATIONS. FIRST, WE WILL EXPLORE THE EVOLUTIONARY DRIVERS OF RECOMBINATION RATE VARIATION IN A MODEL VERTEBRATE, THREESPINE STICKLEBACKS, USING GAMETE SEQUENCING. SECOND, WE WILL PERFORM THE FIRST EXPERIMENTAL TEST FOR THE ROLE OF STRUCTURAL VARIANTS IN DETERMINING GENOME-WIDE RECOMBINATION RATE VARIATION IN VERTEBRATES. THIRD, WE WILL PERFORM A NOVEL EXPERIMENTAL TEST OF THE ROLE OF CHROMOSOMAL INVERSIONS IN ADAPTATION USING RECENT ADVANCEMENTS IN CRISPR-MEDIATED CHROMOSOMAL ENGINEERING TO CREATE AND “UNDO” CHROMOSOMAL ARRANGEMENTS IN A DROSOPHILA MODEL SPECIES. FINALLY, WE WILL DEVELOP MODERN AND USER-FRIENDLY STATISTICAL METHODS FOR COMPARING RECOMBINATION MAPS WITHIN AND BETWEEN SPECIES AND POPULATIONS. THIS RESEARCH PROGRAM WILL GREATLY ADVANCE OUR UNDERSTANDING OF THE FUNDAMENTAL BIOLOGY OF MEIOTIC RECOMBINATION, CREATE MYRIAD NEW RESOURCES AND TOOLS, AND TRAIN PERSONNEL IN CUTTING-EDGE TECHNIQUES THAT SPAN GENOMICS, COMPUTATIONAL BIOLOGY, AND EVOLUTIONARY BIOLOGY. THESE ADVANCES WILL BE APPLICABLE ACROSS ALL DOMAINS OF BIOLOGY, FROM UNDERSTANDING THE EVOLUTION OF DISEASES LIKE SARS-COV-2, TO UNDERSTANDING THE FUNDAMENTAL MECHANICS OF EVOLUTION IN NATURAL POPULATIONS.",
+    "total_obligation": 765480,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-08-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 284536.99,
+    "total_account_obligation": 765480,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 284536.99
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 765480
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-01",
+      "end_date": "2029-06-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 284536.99
+  }
+}

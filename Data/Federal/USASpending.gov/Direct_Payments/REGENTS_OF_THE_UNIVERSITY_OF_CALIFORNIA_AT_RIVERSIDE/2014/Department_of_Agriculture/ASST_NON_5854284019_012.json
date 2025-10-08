@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 69564257,
+    "Award ID": "5854284019",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 9448,
+    "Total Outlays": 0,
+    "Description": "PROBIOTIC PROSPECTING FOR ALFALFA LEAFCUTTING BEES - ALTHOUGH CHALKBROOD CAN BE A MAJOR SOURCE OF MORTALITY FOR THE ALFALFA LEAFCUTTING BEE, NO EFFECTIVE CONTROL STRATEGY CURRENTLY EXISTS. IN ORDER TO CONTRIBUTE TO THE AVAILABILITY OF A HEALTHY SOURCE OF POLLINATORS FOR ALFALFA SEED PRODUCTION, WE HAVE BEEN STUDYING INTERACTIONS BETWEEN BACTERIA AND FUNGI THAT RESIDE IN THE ALFALFA LEAFCUTTING BEE LARVAL GUT. THE GOAL OF THIS WORK IS TO DISCOVER MICROBES THAT HINDER THE GROWTH OF ASCOSPHAERA AGGREGATA, THE FUNGUS THAT CAUSES CHALKBROOD. PREVIOUSLY, A. AGGREGATA WAS FOUND TO INHIBIT THE GROWTH OF OTHER FUNGI IN THE LARVAL GUT, BUT NO ANY SINGLE MICROBE WAS FOUND THAT INHIBITS THE GROWTH OF A. AGGREGATA. IN PREVIOUS WORK, ONE HINDRANCE TO TESTING THE EFFECT OF CERTAIN BACTERIA ON A. AGGREGATA WAS THAT THESE BACTERIA WERE RESISTANT TO THE ANTIBACTERIAL TREATMENTS WE USED TO REMOVE BACTERIA. ADDITIONALLY, IT MAY BE THAT COMBINATIONS OF BACTERIA WORK IN CONCERT TO INHIBIT A. AGGREGATA, WHICH WAS IMPOSSIBLE TO TEASE OUT IN OUR PREVIOUS STUDY. THEREFORE, THE PURPOSE OF THIS PROJECT IS TO STUDY HOW MANIPULATED BACTERIAL COMMUNITIES AFFECT THE GROWTH OF A. AGGREGATA IN THE LARVAL GUT AND SUBSEQUENTLY, THE INCIDENCE OF THE DISEASE CHALKBROOD. LACTOBACILLUS KUNKEEI, A BACTERIUM THAT WAS FOUND TO BE ASSOCIATED WITH ALFALFA LEAFCUTTING BEE LARVAE, IS ONE OF A MIXTURE OF LACTIC ACID BACTERIA THAT PROTECTS HONEY BEE LARVAE FROM PATHOGENS. THIS SUGGESTS THAT THESE BACTERIA MAY ACT AS PROBIOTICS (BACTERIA WHICH, WHEN INGESTED, INCREASE THE HEALTH OF AN ORGANISM), POSSIBLY BY INHIBITING A. AGGREGATA. THE FIRST STEP IN DETERMINING IF THESE BACTERIA CAN ACT AS PROBIOTICS FOR THE ALFALFA LEAFCUTTING BEE IS TO EXPERIMENTALLY DETERMINE IF THESE BACTERIA AFFECT BEE HEALTH. SPECIFIC OBJECTIVES ARE 1) TO DETERMINE IF LACTOBACILLUS KUNKEEI CAN LOWER THE ABUNDANCE OF A. AGGREGATA IN THE LARVAL GUT AND THEREBY LOWER INCIDENCE OF CHALKBROOD AND 2) TO DETERMINE IF COMBINATIONS OF BACTERIA CAN LOW",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSITY OFFICE BLDG",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521",
+      "zip5": "92521"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Agricultural Research Service",
+    "Start Date": "2014-09-01",
+    "End Date": "2018-05-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_5854284019_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 69564257,
+    "generated_unique_award_id": "ASST_NON_5854284019_012",
+    "piid": "",
+    "category": "other",
+    "type": "11",
+    "type_description": "OTHER REIMBURSABLE, CONTINGENT, INTANGIBLE, OR INDIRECT FINANCIAL ASSISTANCE",
+    "description": "PROBIOTIC PROSPECTING FOR ALFALFA LEAFCUTTING BEES - ALTHOUGH CHALKBROOD CAN BE A MAJOR SOURCE OF MORTALITY FOR THE ALFALFA LEAFCUTTING BEE, NO EFFECTIVE CONTROL STRATEGY CURRENTLY EXISTS. IN ORDER TO CONTRIBUTE TO THE AVAILABILITY OF A HEALTHY SOURCE OF POLLINATORS FOR ALFALFA SEED PRODUCTION, WE HAVE BEEN STUDYING INTERACTIONS BETWEEN BACTERIA AND FUNGI THAT RESIDE IN THE ALFALFA LEAFCUTTING BEE LARVAL GUT. THE GOAL OF THIS WORK IS TO DISCOVER MICROBES THAT HINDER THE GROWTH OF ASCOSPHAERA AGGREGATA, THE FUNGUS THAT CAUSES CHALKBROOD. PREVIOUSLY, A. AGGREGATA WAS FOUND TO INHIBIT THE GROWTH OF OTHER FUNGI IN THE LARVAL GUT, BUT NO ANY SINGLE MICROBE WAS FOUND THAT INHIBITS THE GROWTH OF A. AGGREGATA. IN PREVIOUS WORK, ONE HINDRANCE TO TESTING THE EFFECT OF CERTAIN BACTERIA ON A. AGGREGATA WAS THAT THESE BACTERIA WERE RESISTANT TO THE ANTIBACTERIAL TREATMENTS WE USED TO REMOVE BACTERIA. ADDITIONALLY, IT MAY BE THAT COMBINATIONS OF BACTERIA WORK IN CONCERT TO INHIBIT A. AGGREGATA, WHICH WAS IMPOSSIBLE TO TEASE OUT IN OUR PREVIOUS STUDY. THEREFORE, THE PURPOSE OF THIS PROJECT IS TO STUDY HOW MANIPULATED BACTERIAL COMMUNITIES AFFECT THE GROWTH OF A. AGGREGATA IN THE LARVAL GUT AND SUBSEQUENTLY, THE INCIDENCE OF THE DISEASE CHALKBROOD. LACTOBACILLUS KUNKEEI, A BACTERIUM THAT WAS FOUND TO BE ASSOCIATED WITH ALFALFA LEAFCUTTING BEE LARVAE, IS ONE OF A MIXTURE OF LACTIC ACID BACTERIA THAT PROTECTS HONEY BEE LARVAE FROM PATHOGENS. THIS SUGGESTS THAT THESE BACTERIA MAY ACT AS PROBIOTICS (BACTERIA WHICH, WHEN INGESTED, INCREASE THE HEALTH OF AN ORGANISM), POSSIBLY BY INHIBITING A. AGGREGATA. THE FIRST STEP IN DETERMINING IF THESE BACTERIA CAN ACT AS PROBIOTICS FOR THE ALFALFA LEAFCUTTING BEE IS TO EXPERIMENTALLY DETERMINE IF THESE BACTERIA AFFECT BEE HEALTH. SPECIFIC OBJECTIVES ARE 1) TO DETERMINE IF LACTOBACILLUS KUNKEEI CAN LOWER THE ABUNDANCE OF A. AGGREGATA IN THE LARVAL GUT AND THEREBY LOWER INCIDENCE OF CHALKBROOD AND 2) TO DETERMINE IF COMBINATIONS OF BACTERIA CAN LOW",
+    "total_obligation": 9448,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2017-07-06",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": ""
+    },
+    "period_of_performance": {
+      "start_date": "2014-09-01",
+      "end_date": "2018-05-30",
+      "last_modified_date": "2018-08-15",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": "627797426",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSITY OFFICE BLDG",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91371418,
+    "Award ID": "RF1AG055357",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1723996.12,
+    "Total Outlays": 1645126.23,
+    "Description": "DYSREGULATION OF CAV1.2 BY BETA AMYLOID PEPTIDE - ABSTRACT DYSREGULATION OF CAV1.2 BY BETA AMYLOID PEPTIDE L-TYPE CA2+ CHANNELS (LTCC) ARE KEY REGULATORS OF GENE TRANSCRIPTION, NEURONAL EXCITABILITY, AND SYNAPTIC FUNCTIONS. CAV1.2 IS THE PREVALENT LTCC IN BRAIN (HELL ET AL., 1993, JCB 123, 949-962). CHRONICALLY INCREASED CA2+ INFLUX VIA LTCCS HAS BEEN IMPLICATED EARLY ON IN SENILE SYMPTOMS AND ALZHEIMER’S DISEASE (AD) (E.G., SCIENCE 272, 1017). WE FOUND THAT AGED RATS HAVE SIGNIFICANTLY INCREASED PKA-MEDIATED PHOSPHORYLATION OF CAV1.2 ON SERINE 1928 (DAVARE AND HELL, 2003, PNAS 100, 16018-23), WHICH INCREASES CAV1.2 CHANNEL ACTIVITY (QIAN, …, HELL, 2017, SCI SIG 10, EAAF9659). WE ALSO FOUND THAT CAV1.2 FORMS A UNIQUE SIGNALING COMPLEX WITH THE B2 ADRENERGIC RECEPTOR (B2 AR) THAT ALSO CONTAINS ALL OTHER PROTEINS NECESSARY FOR THE CAMP-MEDIATED REGULATION OF CAV1.2 (E.G., DAVARE ET AL., 2001, SCIENCE 293, 98), MAKING CAV1.2 A PRIME TARGET FOR B2 AR SIGNALING. B AMYLOID PEPTIDE 1-42 (AB) IS A HALLMARK OF AD. OLIGOMERIC ABO STIMULATES THE B2 AR. SUPPORTIVE EVIDENCE FROM SINGLE CHANNEL RECORDING INDICATES THAT ABO INCREASE CAV1.2 ACTIVITY VIA THE B2 AR. WE HYPOTHESIZE THAT THIS INCREASE IS MEDIATED BY PHOSPHORYLATION OF S1928, THE MAIN PKA SITE OF CAV1.2, AND TRIGGERS DOWNSTREAM EVENTS THAT ULTIMATELY CAUSE NEURONAL DAMAGE. AIM 1 IS TO TEST WHETHER CAV1.2 DYSREGULATION BY ABO VIA CAV1.2- ASSOCIATED B2 AR OCCURS IN DENDRITES AND SPINES (CA2+ IMAGING), WHETHER IT IS IN PART MEDIATED BY INCREASED SURFACE INSERTION OF CAV1.2, AND WHETHER BLOCKING THIS SIGNALING PHARMACOLOGICALLY OR IN INNOVATIVE S1928A KNOCK-IN (KI) MICE ALLEVIATES ABO NEUROTOXICITY. AIM 2 IS TO TEST WHETHER ABO - B2 AR - S1928 SIGNALING STIMULATES SURFACE INSERTION OF CA2+ PERMEABLE (CP) AMPARS (GLUA1 HOMOMERS) AND BLOCKING CP-AMPARS ALLEVIATES ABO NEUROTOXICITY. WE WILL USE CUTTING EDGE LIVE IMAGING OF SEP-TAGGED GLUA1 AND GLUA2 AND ANALYZE FIELD EPSPS AND MEPSC BEFORE AND AFTER INHIBITION OF GLUTAMATE RE-UPTAKE TO MEASURE AMPAR ACTIVITY IN THE PERISYNAPTIC SPACE. AIM 3 WILL TEST THE ROLE OF ABO - B2 AR - S1928 SIGNALING IN AUGMENTATION OF LONG-TERM DEPRESSION BY ABO, AND IN LONG-TERM POTENTIATION, WHICH IS IMPAIRED BY ABO. CROSSING OUR S1928A KI MICE WITH HIGHLY AMYLOIDOGENIC 5XFAD MICE WILL SHOW WHETHER ABO - B2 AR - S1928 SIGNALING IS IMPORTANT FOR AB-INDUCED DYSFUNCTION OF CAV1.2 ACTIVITY AND SYNAPTIC TRANSMISSION AND ITS PLASTICITY. THIS PROJECT IS FOCUSED ON WHAT WE HYPOTHESIZE IS AN EARLY EFFECT OF ABO (MINUTE RANGE) THAT TRIGGERS SUBSEQUENT NEUROTOXIC EVENTS BECAUSE WE NEED TO UNDERSTAND ALL ASPECTS OF ABO TOXICITY. ALSO, AS AN EARLY EVENT THE ABO - B2 AR - S1928 SIGNALING CONSTITUTES A POTENTIAL TARGET FOR EARLY PHARMACOLOGICAL INTERVENTION IN AD. WE WILL TO SOME DEGREE EXPLORE LATER EVENTS DOWNSTREAM OF CAV1.2 DYSREGULATION BY TESTING WHETHER NEUROTOXICITY IN THE 6-48H RANGE CAN BE IMPROVED BY BLOCKERS OF ABO - B2AR - CAV1.2 SIGNALING AND OF CP-AMPAR IN NEURONAL CULTURES. WE WILL ALSO EXPLORE WHETHER BLOCKING THIS SIGNALING IN THE 5XFAD MOUSE MODEL OF AD WILL IMPROVE SYNAPSE FUNCTION IN THESE MICE. THE DEVELOPMENT OF OUR PEPTIDE THAT DISRUPTS BINDING OF THE B2 AR TO CAV1.2 IS HIGHLY INNOVATIVE BECAUSE IT ALLOWS TO SPECIFICALLY BLOCK SIGNALING BY ABO VIA THE B2 AR WITHOUT AFFECTING OTHER SIGNALING PATHWAYS THAT INVOLVE THE B2 AR.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2016-08-15",
+    "End Date": "2025-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_RF1AG055357_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91371418,
+    "generated_unique_award_id": "ASST_NON_RF1AG055357_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DYSREGULATION OF CAV1.2 BY BETA AMYLOID PEPTIDE - ABSTRACT DYSREGULATION OF CAV1.2 BY BETA AMYLOID PEPTIDE L-TYPE CA2+ CHANNELS (LTCC) ARE KEY REGULATORS OF GENE TRANSCRIPTION, NEURONAL EXCITABILITY, AND SYNAPTIC FUNCTIONS. CAV1.2 IS THE PREVALENT LTCC IN BRAIN (HELL ET AL., 1993, JCB 123, 949-962). CHRONICALLY INCREASED CA2+ INFLUX VIA LTCCS HAS BEEN IMPLICATED EARLY ON IN SENILE SYMPTOMS AND ALZHEIMER’S DISEASE (AD) (E.G., SCIENCE 272, 1017). WE FOUND THAT AGED RATS HAVE SIGNIFICANTLY INCREASED PKA-MEDIATED PHOSPHORYLATION OF CAV1.2 ON SERINE 1928 (DAVARE AND HELL, 2003, PNAS 100, 16018-23), WHICH INCREASES CAV1.2 CHANNEL ACTIVITY (QIAN, …, HELL, 2017, SCI SIG 10, EAAF9659). WE ALSO FOUND THAT CAV1.2 FORMS A UNIQUE SIGNALING COMPLEX WITH THE B2 ADRENERGIC RECEPTOR (B2 AR) THAT ALSO CONTAINS ALL OTHER PROTEINS NECESSARY FOR THE CAMP-MEDIATED REGULATION OF CAV1.2 (E.G., DAVARE ET AL., 2001, SCIENCE 293, 98), MAKING CAV1.2 A PRIME TARGET FOR B2 AR SIGNALING. B AMYLOID PEPTIDE 1-42 (AB) IS A HALLMARK OF AD. OLIGOMERIC ABO STIMULATES THE B2 AR. SUPPORTIVE EVIDENCE FROM SINGLE CHANNEL RECORDING INDICATES THAT ABO INCREASE CAV1.2 ACTIVITY VIA THE B2 AR. WE HYPOTHESIZE THAT THIS INCREASE IS MEDIATED BY PHOSPHORYLATION OF S1928, THE MAIN PKA SITE OF CAV1.2, AND TRIGGERS DOWNSTREAM EVENTS THAT ULTIMATELY CAUSE NEURONAL DAMAGE. AIM 1 IS TO TEST WHETHER CAV1.2 DYSREGULATION BY ABO VIA CAV1.2- ASSOCIATED B2 AR OCCURS IN DENDRITES AND SPINES (CA2+ IMAGING), WHETHER IT IS IN PART MEDIATED BY INCREASED SURFACE INSERTION OF CAV1.2, AND WHETHER BLOCKING THIS SIGNALING PHARMACOLOGICALLY OR IN INNOVATIVE S1928A KNOCK-IN (KI) MICE ALLEVIATES ABO NEUROTOXICITY. AIM 2 IS TO TEST WHETHER ABO - B2 AR - S1928 SIGNALING STIMULATES SURFACE INSERTION OF CA2+ PERMEABLE (CP) AMPARS (GLUA1 HOMOMERS) AND BLOCKING CP-AMPARS ALLEVIATES ABO NEUROTOXICITY. WE WILL USE CUTTING EDGE LIVE IMAGING OF SEP-TAGGED GLUA1 AND GLUA2 AND ANALYZE FIELD EPSPS AND MEPSC BEFORE AND AFTER INHIBITION OF GLUTAMATE RE-UPTAKE TO MEASURE AMPAR ACTIVITY IN THE PERISYNAPTIC SPACE. AIM 3 WILL TEST THE ROLE OF ABO - B2 AR - S1928 SIGNALING IN AUGMENTATION OF LONG-TERM DEPRESSION BY ABO, AND IN LONG-TERM POTENTIATION, WHICH IS IMPAIRED BY ABO. CROSSING OUR S1928A KI MICE WITH HIGHLY AMYLOIDOGENIC 5XFAD MICE WILL SHOW WHETHER ABO - B2 AR - S1928 SIGNALING IS IMPORTANT FOR AB-INDUCED DYSFUNCTION OF CAV1.2 ACTIVITY AND SYNAPTIC TRANSMISSION AND ITS PLASTICITY. THIS PROJECT IS FOCUSED ON WHAT WE HYPOTHESIZE IS AN EARLY EFFECT OF ABO (MINUTE RANGE) THAT TRIGGERS SUBSEQUENT NEUROTOXIC EVENTS BECAUSE WE NEED TO UNDERSTAND ALL ASPECTS OF ABO TOXICITY. ALSO, AS AN EARLY EVENT THE ABO - B2 AR - S1928 SIGNALING CONSTITUTES A POTENTIAL TARGET FOR EARLY PHARMACOLOGICAL INTERVENTION IN AD. WE WILL TO SOME DEGREE EXPLORE LATER EVENTS DOWNSTREAM OF CAV1.2 DYSREGULATION BY TESTING WHETHER NEUROTOXICITY IN THE 6-48H RANGE CAN BE IMPROVED BY BLOCKERS OF ABO - B2AR - CAV1.2 SIGNALING AND OF CP-AMPAR IN NEURONAL CULTURES. WE WILL ALSO EXPLORE WHETHER BLOCKING THIS SIGNALING IN THE 5XFAD MOUSE MODEL OF AD WILL IMPROVE SYNAPSE FUNCTION IN THESE MICE. THE DEVELOPMENT OF OUR PEPTIDE THAT DISRUPTS BINDING OF THE B2 AR TO CAV1.2 IS HIGHLY INNOVATIVE BECAUSE IT ALLOWS TO SPECIFICALLY BLOCK SIGNALING BY ABO VIA THE B2 AR WITHOUT AFFECTING OTHER SIGNALING PATHWAYS THAT INVOLVE THE B2 AR.",
+    "total_obligation": 1723996.12,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-07-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1645126.23,
+    "total_account_obligation": 1723996.12,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1645126.23
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1723996.12
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2016-08-15",
+      "end_date": "2025-07-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1645126.23
+  }
+}

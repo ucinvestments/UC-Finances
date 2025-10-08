@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92423316,
+    "Award ID": "T32AR079099",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 684189,
+    "Total Outlays": 461689,
+    "Description": "MUSCLE: MUSCULOSKELETAL CLINICAL LEARNING EXPERIENCE TRANSDISCIPLINARY MUSCULOSKELETAL RESEARCH TRAINING PROGRAM - PROJECT SUMMARY WITHIN THE UNITED STATES, MUSCULOSKELETAL DISEASE AFFECTS MORE THAN HALF OF PEOPLE AGED 18 AND OVER AND NEARLY THREE OUT OF FOUR AGED 65 AND OVER. THE IMPACT OF MUSCULOSKELETAL DISEASE WILL BECOME EVEN MORE PRONOUNCED WITH THE INCREASE IN THE AGING POPULATION. MECHANISTIC RESEARCH THAT IS INTEGRATED WITH CLINICAL NEED IS IMPERATIVE TO DEVELOP NEW TREATMENT APPROACHES, YET THERE IS A STARK MISMATCH BETWEEN FUNDING LEVELS IN MUSCULOSKELETAL RESEARCH AND ITS FINANCIAL AND PERSONAL TOLL ON OUR HEALTHCARE SYSTEM. OUR INSTITUTION AND THE ORTHOPAEDIC COMMUNITY, DUE TO A LACK OF INTEGRATED PROGRAMS, HAVE STRUGGLED TO OVERCOME THE DISCONNECT BETWEEN MECHANISTIC RESEARCH IN MUSCULOSKELETAL HEALTH AND EFFECTIVE TRANSLATION INTO THE CLINIC. WE DEVELOPED THE MUSCULOSKELETAL CLINICAL LEARNING EXPERIENCE (MUSCLE) T32 TRANSDISCIPLINARY TRAINING PROGRAM AT UC DAVIS TO MEET THIS NEED. THE OVERALL OBJECTIVE OF THIS TRAINING PROGRAM IS TO INCREASE THE NUMBER OF BIOMEDICAL SCIENTISTS TRAINED IN MUSCULOSKELETAL-RELATED RESEARCH WITH AN EMPHASIS ON UNDERSTANDING CLINICAL NEEDS AND OBSTACLES. A NOVEL ASPECT OF OUR PROGRAM IS THE FREQUENT INTERACTION AND INTEGRATION OF PREMIER MUSCULOSKELETAL RESEARCH FACULTY WITH LEADING CLINICIANS AT UC DAVIS, COUPLED WITH CO-MENTORSHIP BY MECHANISTIC AND CLINICAL SCIENTISTS, PROVIDING AN ELITE TRAINING EXPERIENCE FOR FUTURE RESEARCHERS IN MUSCULOSKELETAL HEALTH. THE OBJECTIVE OF THE MUSCLE T32 IS TO PROVIDE TWO YEARS OF FUNDED, TRANSDISCIPLINARY, INTEGRATED RESEARCH TRAINING TO DEVELOP PREDOCTORAL STUDENTS INTO RESEARCHERS CAPABLE OF SOLVING ISSUES RELEVANT TO THE UNDERSTANDING, PREVENTION, AND TREATMENT OF MUSCULOSKELETAL DISEASES. THIS UNIQUE AND INTEGRATED FORMAT BENEFITS FROM CO-DIRECTORSHIP BY MECHANISTIC AND CLINICAL RESEARCHERS ALIKE, COORDINATING A SELECT GROUP OF EXEMPLARY ENGINEERS, BIOLOGISTS, MATERIALS SCIENTISTS, VETERINARIANS, AND HUMAN CLINICIANS TO CO-MENTOR OUR STUDENTS, IN COMBINATION WITH A CAREFULLY DESIGNED, FLEXIBLE CURRICULUM THAT PROVIDES IN-DEPTH TRAINING FOR PREDOCTORAL STUDENTS IN MUSCULOSKELETAL HEALTH RESEARCH. WITH THE RECRUITMENT OF 3 NEW PARTICIPANTS EACH YEAR, TRAINEES WILL PARTAKE IN SEVERAL CLINICAL IMMERSIVE EXPERIENCES, WHERE THEY WILL DISCUSS THE NEEDS OF THE CLINICIAN AND HOW RESEARCH ADVANCEMENTS CAN ADDRESS THESE CHALLENGES. OUR PROGRAM EMPHASIZES FUNDAMENTALS IN RESEARCH TECHNIQUES THAT BROADEN RESEARCH TRAINING AT THE BENCH WITH QUANTITATIVE SKILLS, PROVIDES OPPORTUNITIES FOR PUBLIC SPEAKING AND OUTREACH, BUILDS PROPOSAL WRITING SKILLS, PROVIDES A RANGE OF ENRICHING EXTRACURRICULAR OPPORTUNITIES, AND INTEGRATES MEDICINE AND SCIENCE/ENGINEERING THROUGHOUT ALL YEARS OF TRAINING. DEFINED OVERSIGHT MECHANISMS ARE IN PLACE TO TRACK THE PROGRESS OF THE 15 TRAINEES THROUGHOUT THE PROGRAM. BY TRAINING IN AN ENVIRONMENT AND CULTURE THAT GIVES STRONG INTERDISCIPLINARY SUPPORT FOR MECHANISTIC RESEARCH AND FREQUENT CLINICAL ENGAGEMENT, THERE IS A SIGNIFICANT PROBABILITY THAT THE TRAINEES WILL SUSTAIN AN INTEREST IN MUSCULOSKELETAL HEALTH RESEARCH OVER THEIR CAREERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-05-01",
+    "End Date": "2027-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_T32AR079099_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92423316,
+    "generated_unique_award_id": "ASST_NON_T32AR079099_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MUSCLE: MUSCULOSKELETAL CLINICAL LEARNING EXPERIENCE TRANSDISCIPLINARY MUSCULOSKELETAL RESEARCH TRAINING PROGRAM - PROJECT SUMMARY WITHIN THE UNITED STATES, MUSCULOSKELETAL DISEASE AFFECTS MORE THAN HALF OF PEOPLE AGED 18 AND OVER AND NEARLY THREE OUT OF FOUR AGED 65 AND OVER. THE IMPACT OF MUSCULOSKELETAL DISEASE WILL BECOME EVEN MORE PRONOUNCED WITH THE INCREASE IN THE AGING POPULATION. MECHANISTIC RESEARCH THAT IS INTEGRATED WITH CLINICAL NEED IS IMPERATIVE TO DEVELOP NEW TREATMENT APPROACHES, YET THERE IS A STARK MISMATCH BETWEEN FUNDING LEVELS IN MUSCULOSKELETAL RESEARCH AND ITS FINANCIAL AND PERSONAL TOLL ON OUR HEALTHCARE SYSTEM. OUR INSTITUTION AND THE ORTHOPAEDIC COMMUNITY, DUE TO A LACK OF INTEGRATED PROGRAMS, HAVE STRUGGLED TO OVERCOME THE DISCONNECT BETWEEN MECHANISTIC RESEARCH IN MUSCULOSKELETAL HEALTH AND EFFECTIVE TRANSLATION INTO THE CLINIC. WE DEVELOPED THE MUSCULOSKELETAL CLINICAL LEARNING EXPERIENCE (MUSCLE) T32 TRANSDISCIPLINARY TRAINING PROGRAM AT UC DAVIS TO MEET THIS NEED. THE OVERALL OBJECTIVE OF THIS TRAINING PROGRAM IS TO INCREASE THE NUMBER OF BIOMEDICAL SCIENTISTS TRAINED IN MUSCULOSKELETAL-RELATED RESEARCH WITH AN EMPHASIS ON UNDERSTANDING CLINICAL NEEDS AND OBSTACLES. A NOVEL ASPECT OF OUR PROGRAM IS THE FREQUENT INTERACTION AND INTEGRATION OF PREMIER MUSCULOSKELETAL RESEARCH FACULTY WITH LEADING CLINICIANS AT UC DAVIS, COUPLED WITH CO-MENTORSHIP BY MECHANISTIC AND CLINICAL SCIENTISTS, PROVIDING AN ELITE TRAINING EXPERIENCE FOR FUTURE RESEARCHERS IN MUSCULOSKELETAL HEALTH. THE OBJECTIVE OF THE MUSCLE T32 IS TO PROVIDE TWO YEARS OF FUNDED, TRANSDISCIPLINARY, INTEGRATED RESEARCH TRAINING TO DEVELOP PREDOCTORAL STUDENTS INTO RESEARCHERS CAPABLE OF SOLVING ISSUES RELEVANT TO THE UNDERSTANDING, PREVENTION, AND TREATMENT OF MUSCULOSKELETAL DISEASES. THIS UNIQUE AND INTEGRATED FORMAT BENEFITS FROM CO-DIRECTORSHIP BY MECHANISTIC AND CLINICAL RESEARCHERS ALIKE, COORDINATING A SELECT GROUP OF EXEMPLARY ENGINEERS, BIOLOGISTS, MATERIALS SCIENTISTS, VETERINARIANS, AND HUMAN CLINICIANS TO CO-MENTOR OUR STUDENTS, IN COMBINATION WITH A CAREFULLY DESIGNED, FLEXIBLE CURRICULUM THAT PROVIDES IN-DEPTH TRAINING FOR PREDOCTORAL STUDENTS IN MUSCULOSKELETAL HEALTH RESEARCH. WITH THE RECRUITMENT OF 3 NEW PARTICIPANTS EACH YEAR, TRAINEES WILL PARTAKE IN SEVERAL CLINICAL IMMERSIVE EXPERIENCES, WHERE THEY WILL DISCUSS THE NEEDS OF THE CLINICIAN AND HOW RESEARCH ADVANCEMENTS CAN ADDRESS THESE CHALLENGES. OUR PROGRAM EMPHASIZES FUNDAMENTALS IN RESEARCH TECHNIQUES THAT BROADEN RESEARCH TRAINING AT THE BENCH WITH QUANTITATIVE SKILLS, PROVIDES OPPORTUNITIES FOR PUBLIC SPEAKING AND OUTREACH, BUILDS PROPOSAL WRITING SKILLS, PROVIDES A RANGE OF ENRICHING EXTRACURRICULAR OPPORTUNITIES, AND INTEGRATES MEDICINE AND SCIENCE/ENGINEERING THROUGHOUT ALL YEARS OF TRAINING. DEFINED OVERSIGHT MECHANISMS ARE IN PLACE TO TRACK THE PROGRESS OF THE 15 TRAINEES THROUGHOUT THE PROGRAM. BY TRAINING IN AN ENVIRONMENT AND CULTURE THAT GIVES STRONG INTERDISCIPLINARY SUPPORT FOR MECHANISTIC RESEARCH AND FREQUENT CLINICAL ENGAGEMENT, THERE IS A SIGNIFICANT PROBABILITY THAT THE TRAINEES WILL SUSTAIN AN INTEREST IN MUSCULOSKELETAL HEALTH RESEARCH OVER THEIR CAREERS.",
+    "total_obligation": 684189,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-04-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 461689,
+    "total_account_obligation": 684189,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 461689
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 684189
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2022-05-01",
+      "end_date": "2027-04-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 461689
+  }
+}

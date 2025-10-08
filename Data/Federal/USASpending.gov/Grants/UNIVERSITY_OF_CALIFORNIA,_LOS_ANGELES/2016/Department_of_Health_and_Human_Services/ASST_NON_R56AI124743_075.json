@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91361148,
+    "Award ID": "R56AI124743",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 817307.97,
+    "Total Outlays": 808313.68,
+    "Description": "HIV LATENCY REVERSAL THROUGH NOVEL, POTENT PKC MODULATORS - ABSTRACT ALTHOUGH ANTI-RETROVIRAL THERAPY (ART) SLOWS DISEASE PROGRESSION, ART IS A LIFE-LONG THERAPY, WHICH REQUIRES STRICT MEDICAL COMPLIANCE TO AVOID VIRAL RESISTANCE AND IS ASSOCIATED WITH SIGNIFICANT COSTS AND LONG-TERM MEDICALLY ADVERSE EFFECTS. IN ADDITION, ART IS NOT CURATIVE BECAUSE IT DOES NOT ELIMINATE RESERVOIRS OF REPLICATION-COMPETENT VIRUS. THUS, IF ART IS DISCONTINUED, HIV CAN EMERGE FROM RESERVOIRS AND RAPIDLY SPREAD, LEADING TO DISEASE PROGRESSION TOWARDS AIDS. ONE POTENTIAL STRATEGY FOR CLEARING THESE RESERVOIRS OF LATENTLY INFECTED CELLS IS TO USE A KICK AND KILL APPROACH, IN WHICH LATENT CELLS ARE “KICKED” OR ACTIVATED FROM LATENCY, ALLOWING THEIR SUBSEQUENT “KILLING” BY VIRAL CYTOPATHIC EFFECTS, IMMUNE EFFECTOR CELLS OR ADDITIONAL THERAPIES TARGETED AT HIV-INFECTED CELLS. LATENCY REVERSING AGENTS (LRA) HAVE BEEN USED TO “KICK” OR INDUCE HIV EXPRESSION FROM LATENT CELLS, BUT THUS FAR HAVE BEEN LIMITED BY SUBOPTIMAL EFFICACY, DRUG TOXICITY, AND/OR BIODISTRIBUTION ISSUES. IN THIS RENEWAL APPLICATION, WE ADDRESS THESE PROBLEMS USING A NEW LRA CONCEPT TO IMPROVE EFFICACY AND TOLERABILITY AND CONTROL BIODISTRIBUTION. WE INVESTIGATE PROTEIN KINASE C (PKC) MODULATORS, WHICH ARE THE MOST POTENT AND EFFICACIOUS LRAS, FOCUSING PARTICULARLY ON THE BEST-PERFORMERS - BRYOSTATIN-1, PROSTRATIN AND INGENOL ESTERS AND POTENTIALLY NEW LRAS OF THE INGENANE AND TIGLIANE FAMILIES. WE HAVE FOUND THAT THE CHEMICAL CONVERSION OF BRYOSTATIN-1 INTO A PRODRUG (SLOW-RELEASE) VERSION RESULTS IN A NOVEL LRA WITH SUPERIOR ACTIVITY AND IMPROVED TOLERABILITY. THUS, THE GOAL OF THIS RENEWAL APPLICATION IS TO ADVANCE THE STUDY OF THIS NEW CONCEPT AND NEW CLASS OF CHEMICALLY SYNTHESIZED PRODRUG LRAS USING A HIGHLY COLLABORATIVE TEAM WITH EXPERTISE IN NOVEL COMPUTER-BASED DESIGN, SYNTHESIS, MEDICINAL CHEMISTRY, STATE-OF-THE-ART IN VITRO ASSAYS, AND SOPHISTICATED IN VIVO ANIMAL MODELING. OPTIMAL PRODRUG LRAS WILL BE USED IN CONJUNCTION WITH A “KILL” APPROACH (NATURAL KILLER CELLS) IN HUMANIZED MICE LATENTLY INFECTED WITH HIV TO ASSESS THE EFFICACY OF THE KICK AND KILL APPROACH. WE WILL ACCOMPLISH OUR GOALS THROUGH THE FOLLOWING SPECIFIC AIMS: 1) EVALUATE IN VITRO AND IN VIVO A NEW CONCEPT FOR LATENCY REVERSAL BASED ON NEW LRA PRODRUGS, 2) DEFINE THE SPECIFIC PKC ISOFORMS AND NON-PKC PATHWAYS THAT CONTRIBUTE TO HIV LATENCY REVERSAL, AND 3) INVESTIGATE SYNERGIES OF NEW AND KNOWN LRAS THAT ENHANCE HIV RESERVOIR DEPLETION. COLLECTIVELY THESE STUDIES WILL ADVANCE OUR UNIQUE AND SUPERIOR PRECLINICAL LRAS TOWARDS CLINICAL TESTING AND PROVIDE INFORMATION CRITICALLY NEEDED FOR IMPLEMENTATION OF KICK AND KILL APPROACHES FOR HIV ERADICATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4201",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "33",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2016-07-01",
+    "End Date": "2022-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R56AI124743_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91361148,
+    "generated_unique_award_id": "ASST_NON_R56AI124743_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "HIV LATENCY REVERSAL THROUGH NOVEL, POTENT PKC MODULATORS - ABSTRACT ALTHOUGH ANTI-RETROVIRAL THERAPY (ART) SLOWS DISEASE PROGRESSION, ART IS A LIFE-LONG THERAPY, WHICH REQUIRES STRICT MEDICAL COMPLIANCE TO AVOID VIRAL RESISTANCE AND IS ASSOCIATED WITH SIGNIFICANT COSTS AND LONG-TERM MEDICALLY ADVERSE EFFECTS. IN ADDITION, ART IS NOT CURATIVE BECAUSE IT DOES NOT ELIMINATE RESERVOIRS OF REPLICATION-COMPETENT VIRUS. THUS, IF ART IS DISCONTINUED, HIV CAN EMERGE FROM RESERVOIRS AND RAPIDLY SPREAD, LEADING TO DISEASE PROGRESSION TOWARDS AIDS. ONE POTENTIAL STRATEGY FOR CLEARING THESE RESERVOIRS OF LATENTLY INFECTED CELLS IS TO USE A KICK AND KILL APPROACH, IN WHICH LATENT CELLS ARE “KICKED” OR ACTIVATED FROM LATENCY, ALLOWING THEIR SUBSEQUENT “KILLING” BY VIRAL CYTOPATHIC EFFECTS, IMMUNE EFFECTOR CELLS OR ADDITIONAL THERAPIES TARGETED AT HIV-INFECTED CELLS. LATENCY REVERSING AGENTS (LRA) HAVE BEEN USED TO “KICK” OR INDUCE HIV EXPRESSION FROM LATENT CELLS, BUT THUS FAR HAVE BEEN LIMITED BY SUBOPTIMAL EFFICACY, DRUG TOXICITY, AND/OR BIODISTRIBUTION ISSUES. IN THIS RENEWAL APPLICATION, WE ADDRESS THESE PROBLEMS USING A NEW LRA CONCEPT TO IMPROVE EFFICACY AND TOLERABILITY AND CONTROL BIODISTRIBUTION. WE INVESTIGATE PROTEIN KINASE C (PKC) MODULATORS, WHICH ARE THE MOST POTENT AND EFFICACIOUS LRAS, FOCUSING PARTICULARLY ON THE BEST-PERFORMERS - BRYOSTATIN-1, PROSTRATIN AND INGENOL ESTERS AND POTENTIALLY NEW LRAS OF THE INGENANE AND TIGLIANE FAMILIES. WE HAVE FOUND THAT THE CHEMICAL CONVERSION OF BRYOSTATIN-1 INTO A PRODRUG (SLOW-RELEASE) VERSION RESULTS IN A NOVEL LRA WITH SUPERIOR ACTIVITY AND IMPROVED TOLERABILITY. THUS, THE GOAL OF THIS RENEWAL APPLICATION IS TO ADVANCE THE STUDY OF THIS NEW CONCEPT AND NEW CLASS OF CHEMICALLY SYNTHESIZED PRODRUG LRAS USING A HIGHLY COLLABORATIVE TEAM WITH EXPERTISE IN NOVEL COMPUTER-BASED DESIGN, SYNTHESIS, MEDICINAL CHEMISTRY, STATE-OF-THE-ART IN VITRO ASSAYS, AND SOPHISTICATED IN VIVO ANIMAL MODELING. OPTIMAL PRODRUG LRAS WILL BE USED IN CONJUNCTION WITH A “KILL” APPROACH (NATURAL KILLER CELLS) IN HUMANIZED MICE LATENTLY INFECTED WITH HIV TO ASSESS THE EFFICACY OF THE KICK AND KILL APPROACH. WE WILL ACCOMPLISH OUR GOALS THROUGH THE FOLLOWING SPECIFIC AIMS: 1) EVALUATE IN VITRO AND IN VIVO A NEW CONCEPT FOR LATENCY REVERSAL BASED ON NEW LRA PRODRUGS, 2) DEFINE THE SPECIFIC PKC ISOFORMS AND NON-PKC PATHWAYS THAT CONTRIBUTE TO HIV LATENCY REVERSAL, AND 3) INVESTIGATE SYNERGIES OF NEW AND KNOWN LRAS THAT ENHANCE HIV RESERVOIR DEPLETION. COLLECTIVELY THESE STUDIES WILL ADVANCE OUR UNIQUE AND SUPERIOR PRECLINICAL LRAS TOWARDS CLINICAL TESTING AND PROVIDE INFORMATION CRITICALLY NEEDED FOR IMPLEMENTATION OF KICK AND KILL APPROACHES FOR HIV ERADICATION.",
+    "total_obligation": 817307.97,
+    "subaward_count": 1,
+    "total_subaward_amount": 315381,
+    "date_signed": "2021-08-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 808313.68,
+    "total_account_obligation": 817307.97,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 808313.68
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 817307.97
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2016-07-01",
+      "end_date": "2022-07-31",
+      "last_modified_date": "2023-10-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4201",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 808313.68
+  }
+}

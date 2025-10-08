@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56344463,
+    "Award ID": "20253960144632",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 999374,
+    "Total Outlays": 785.86,
+    "Description": "THE CURRENT HPAI OUTBREAK IN THE U.S. IS UNPRECEDENTED AND EXPANDING. PREVIOUS USDA EFFORTSEMPLOYED EBIRD WATERFOWL OBSERVATIONS AND FARMER SURVEYS TO IDENTIFY WATERFOWL PRESENCE AS ONEOF THE SIGNIFICANT FACTORS FOR OUTBREAKS OF HPAI IN COMMERCIAL POULTRY. USING RADAR AND TELEMETRY-BASEDMODELS OF WATERFOWL ABUNDANCE, WE IDENTIFIED SIMILAR PATTERNS AT 144X HIGHER SPATIALRESOLUTION FACILITATING MORE TARGETED RISK MANAGEMENT AT THE FARM LEVEL. IN ADDITION, BY COMBININGTHESE HIGHER RESOLUTION RISK FACTORS WITH ON-FARM RISK FACTORS (I.E. OPERATIONAL AND PHYSICALBIOSECURITY), THE POSITIVE PREDICTIVE VALUE OF AN HPAI OUTBREAK AT THE FARM LEVEL INCREASED BY 3.5X.HERE WE PROPOSE TO COMPREHENSIVELY EVALUATE THE RELATIONSHIPS BETWEEN ON-FARM AND OFF-FARM RISKFACTORS ON OVER 9,000 PREMISES IN 30 STATES. SPECIFICALLY, AN AGENT-BASED MODEL FOR PREDICTION OFHPAI RISK FROM WATERFOWL WILL BE COMBINED WITH STANDARDIZED BIOSECURITY SCORING TO PREDICT OVERALLRISK TO COMMERCIAL POULTRY FACILITIES. THIS RISK MODEL WILL BE INTEGRATED INTO AN EXISTING COMMERCIALWEB-TOOL (WATERFOWLALERTNETWORK) WHERE UTILIZATION OF THE TOOL AND ADOPTION OF BEST PRACTICESSUGGESTED BY THE MODEL WILL BE EVALUATED AT A COMPANY, INDUSTRY AND GOVERNMENT LEVEL. FINALLY,STAKEHOLDER MEETINGS WILL BE ORGANIZED IN ORDER TO EXTEND KNOWLEDGE WITH A FOCUS ON SHARING OFFFARM(E.G. HABITAT, SEASON) BASED INSIGHTS. OUR OVERALL GOAL IS TO PROVIDE AN INTUITIVE AND ACCESSIBLERISK ASSESSMENT TOOL TO STAKEHOLDERS TO GUIDE IMPLEMENTATION OF A COMPREHENSIVE BIOSECURITY PLAN TOPREVENT HPAI OUTBREAKS AND TRANSMISSION AT A FARM, COMPANY AND REGIONAL LEVEL",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2025-03-15",
+    "End Date": "2029-03-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20253960144632_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56344463,
+    "generated_unique_award_id": "ASST_NON_20253960144632_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE CURRENT HPAI OUTBREAK IN THE U.S. IS UNPRECEDENTED AND EXPANDING. PREVIOUS USDA EFFORTSEMPLOYED EBIRD WATERFOWL OBSERVATIONS AND FARMER SURVEYS TO IDENTIFY WATERFOWL PRESENCE AS ONEOF THE SIGNIFICANT FACTORS FOR OUTBREAKS OF HPAI IN COMMERCIAL POULTRY. USING RADAR AND TELEMETRY-BASEDMODELS OF WATERFOWL ABUNDANCE, WE IDENTIFIED SIMILAR PATTERNS AT 144X HIGHER SPATIALRESOLUTION FACILITATING MORE TARGETED RISK MANAGEMENT AT THE FARM LEVEL. IN ADDITION, BY COMBININGTHESE HIGHER RESOLUTION RISK FACTORS WITH ON-FARM RISK FACTORS (I.E. OPERATIONAL AND PHYSICALBIOSECURITY), THE POSITIVE PREDICTIVE VALUE OF AN HPAI OUTBREAK AT THE FARM LEVEL INCREASED BY 3.5X.HERE WE PROPOSE TO COMPREHENSIVELY EVALUATE THE RELATIONSHIPS BETWEEN ON-FARM AND OFF-FARM RISKFACTORS ON OVER 9,000 PREMISES IN 30 STATES. SPECIFICALLY, AN AGENT-BASED MODEL FOR PREDICTION OFHPAI RISK FROM WATERFOWL WILL BE COMBINED WITH STANDARDIZED BIOSECURITY SCORING TO PREDICT OVERALLRISK TO COMMERCIAL POULTRY FACILITIES. THIS RISK MODEL WILL BE INTEGRATED INTO AN EXISTING COMMERCIALWEB-TOOL (WATERFOWLALERTNETWORK) WHERE UTILIZATION OF THE TOOL AND ADOPTION OF BEST PRACTICESSUGGESTED BY THE MODEL WILL BE EVALUATED AT A COMPANY, INDUSTRY AND GOVERNMENT LEVEL. FINALLY,STAKEHOLDER MEETINGS WILL BE ORGANIZED IN ORDER TO EXTEND KNOWLEDGE WITH A FOCUS ON SHARING OFFFARM(E.G. HABITAT, SEASON) BASED INSIGHTS. OUR OVERALL GOAL IS TO PROVIDE AN INTUITIVE AND ACCESSIBLERISK ASSESSMENT TOOL TO STAKEHOLDERS TO GUIDE IMPLEMENTATION OF A COMPREHENSIVE BIOSECURITY PLAN TOPREVENT HPAI OUTBREAKS AND TRANSMISSION AT A FARM, COMPANY AND REGIONAL LEVEL",
+    "total_obligation": 999374,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-03-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 97857.1,
+    "total_account_obligation": 999374,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 97857.1
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 999374
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2025-03-15",
+      "end_date": "2029-03-14",
+      "last_modified_date": "2025-03-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 97857.1
+  }
+}

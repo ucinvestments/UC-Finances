@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56337923,
+    "Award ID": "20236701739359",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 610766,
+    "Total Outlays": 207644.52,
+    "Description": "ACCORDING TO CDC AND FDA, FOODBORNE OUTBREAKS FROM BACTERIAL PATHOGENS ARE PERSISTING AND SLIGHTLY INCREASING, DEPENDING ON THE CAUSAL PATHOGEN. THIS TREND IS, IN SPITE AN EXTENSIVE EFFORT TO CONTROL AND REDUCE ENTERIC PATHOGENS FROM FOOD, IS CONSISTENT AND RESULTS IN THE NEED FOR NEW APPROACHES TO UNDERSTAND WHY THE PATHOGENS ARE CONTINUING TO PERSIST IN THE FOOD SUPPLY. NON-CULTURABLE BACTERIA ARE EVER PRESENT IN THE FOOD CHAIN. GENETIC DIVERSITY IS ASSOCIATED WITH NON-CULTURABLE CAPABILITIES THAT HAVE NOT BE SYSTEMATICALLY DEFINED AS TO HOW THIS LEADS TO PERSISTANCE. WITH THE INCREASED USE OF WHOLE GENOME SEQUENCING (WGS) IT IS APPARENT THAT GENOMIC DIVERSITY HAS A ROLE IN THWARTING THE CONTROL EFFORTS IN NON-CULTURABLE BACTERIA BUT IN PATHOGEN DETECTION AS WELL. COUPLED TO EXPANSIVE GENOME DIVERSITY, THE MOST PREVALENT ORGANISMS ADAPT QUICKLY TO COMMON BACTERIAL CONTROL METHODS THAT LEAD TO GENOME EVOLUTION. IN CONJUNCTION WITH DIVERSITY, VARIABLE GENE EXPRESSION REGULATION HAS BEEN FOUND TO ALTER FOODBORNE PATHOGEN SUCCESS FOR PERSISTENCE AND ENTRY TO NON-CULTURABLILITY. THESE THREE AREAS HAVE NOT YET BEEN LINKED TO INCREASES IN OUTBREAKS IN PART BECAUSE OF THE COMPLEX INTERPLAY BETWEEN THESE UNDERLYING MECHANISMS THAT WERE NOT PREVIOUSLY ALIGNED FOR EASY INVESTIGATION. HOWEVER, IT IS EXTREMELY PLAUSIBLE THAT THE ORGANISMS PERSIST TO CAUSE DISEASE IN HUMANS VIA FOOD VEHICLES THAT ACCOUNT FOR THE LONG-TERM PERSISTENCE OF FOOD-ASSOCIATED PATHOGENS. ONE OF THE METABOLIC CHANGES THAT IS UNDER-RECOGNIZED IS THE ABILITY OF THESE BACTERIA TO BECOME NON-CULTURABLE (NC). AS WE SEE WITH MICROBIOME STUDIES, NC ORGANISMS ARE DOMINANT IN THE GUT, THE ENVIRONMENT, AND FOOD. INDUCTION OF THIS METABOLIC STATE IS EASILY ACHIEVED WITH PROCESSING METHODS (I.E. SALT, RESTRICTED SUGAR, TEMPERATURE CHANGES, REDOX ALTERATION) THAT WOULD LEAD TO FALSE NEGATIVE SURVEILLANCE TESTS. RELATIVELY LITTLE INFORMATION IS AVAILABLE FOR THIS CAPABILITY FOR FOODBORNE PATHOGENS. HOWEVER, BY MERGING THE CURRENT TECHNOLOGIES - GENOME DIVERSITY, GENE EXPRESSION REGULATION, AND INDUCED EVOLUTION (NICHE ADAPTATION) - IT IS NOW POSSIBLE TO UNTANGLE THIS POSSIBILITY THAT WOULD LIKELY CREATE NEW TARGETS FOR PATHOGEN CONTROL IN THE FOOD CHAIN.THIS SHIFT IS LEADING TO MORE POINTS OF CONTROL THAT ARE DIFFICULT TO MANAGE OR LEAD TO EVOLUTION OF NICHE ADAPTATION BY EMERGING GENOTYPES THAT LEAD TO NEW OUTBREAKS. CONTROLLING PATHOGENS IS A GROWING CHALLENGE THAT NEEDS NEW METHODS AND IDEAS OF HOW TO ACHIEVE THIS IMPORTANT GOAL. WE PROPOSE TO USE BACTERIOPHAGE SPECIFICALLY TUNED TO NC CELLS AS A METHOD TO DIRECTLY INHIBIT OR KILL SO THAT THEY CANNOT RESUSCITATE WHEN IN CONTACT WITH THE HOST CELLS. THIS APPROACH IS BEING USED FOR BIOCONTROL OF FOOD PATHOGENS AND HAS EXPANSIVE POTENTIAL AS A METHOD TO CLEAR THE NC PATHOGEN DIRECTLY WITHIN THE FOOD.THIS PROPOSAL WILL DEFINE NEW CONTROL OPTIONS FOR NC PATHOGENS. THE LARGE GENOMIC DIVERSITY OF PATHOGENS IS A NEW CONCEPT BUT ONE THAT IS EXPANDING WI,TH EVERY NEW WGS. THIS COUPLED TO THE LIMITATIONS OF ENRICHMENT METHODS TO FIND SALMONELLA AND LISTERIA, IT IS IMPERATIVE THAT WE PROVIDE NEW OPTIONS FOR PROCESSING TO RESTRICT THE GROWTH AND INFECTIVITY OF BACTERIA. IMPORTANTLY, THE ENTERIC PATHOGENS IN FOOD ALSO BECOME NC AND CAN REMAIN \u0026#39;HIDDEN\u0026#39; FROM DETECTION BECAUSE THEY DON\u0026#39;T GROW DURING ENRICHMENT OR ON PLATES. THIS PROPOSAL WORKS AT THE INTERSECTION OF: 1) POPULATION GENOMICS, 2) INFECTIVITY AND METABOLIC CHANGES AT NC, AND 3) MITIGATION OF NC CELLS WITH PHAGE. IN COMBINATION THIS WORK WILL DEFINE NEW TARGETS TO CONTROL NC PATHOGEN PERSISTENCE, AND INFECTIVITY USING SALMONELLA AND LISTERIA AS EXEMPLARS NC FOR FOODBORNE PATHOGENS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2023-03-01",
+    "End Date": "2026-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20236701739359_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56337923,
+    "generated_unique_award_id": "ASST_NON_20236701739359_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ACCORDING TO CDC AND FDA, FOODBORNE OUTBREAKS FROM BACTERIAL PATHOGENS ARE PERSISTING AND SLIGHTLY INCREASING, DEPENDING ON THE CAUSAL PATHOGEN. THIS TREND IS, IN SPITE AN EXTENSIVE EFFORT TO CONTROL AND REDUCE ENTERIC PATHOGENS FROM FOOD, IS CONSISTENT AND RESULTS IN THE NEED FOR NEW APPROACHES TO UNDERSTAND WHY THE PATHOGENS ARE CONTINUING TO PERSIST IN THE FOOD SUPPLY. NON-CULTURABLE BACTERIA ARE EVER PRESENT IN THE FOOD CHAIN. GENETIC DIVERSITY IS ASSOCIATED WITH NON-CULTURABLE CAPABILITIES THAT HAVE NOT BE SYSTEMATICALLY DEFINED AS TO HOW THIS LEADS TO PERSISTANCE. WITH THE INCREASED USE OF WHOLE GENOME SEQUENCING (WGS) IT IS APPARENT THAT GENOMIC DIVERSITY HAS A ROLE IN THWARTING THE CONTROL EFFORTS IN NON-CULTURABLE BACTERIA BUT IN PATHOGEN DETECTION AS WELL. COUPLED TO EXPANSIVE GENOME DIVERSITY, THE MOST PREVALENT ORGANISMS ADAPT QUICKLY TO COMMON BACTERIAL CONTROL METHODS THAT LEAD TO GENOME EVOLUTION. IN CONJUNCTION WITH DIVERSITY, VARIABLE GENE EXPRESSION REGULATION HAS BEEN FOUND TO ALTER FOODBORNE PATHOGEN SUCCESS FOR PERSISTENCE AND ENTRY TO NON-CULTURABLILITY. THESE THREE AREAS HAVE NOT YET BEEN LINKED TO INCREASES IN OUTBREAKS IN PART BECAUSE OF THE COMPLEX INTERPLAY BETWEEN THESE UNDERLYING MECHANISMS THAT WERE NOT PREVIOUSLY ALIGNED FOR EASY INVESTIGATION. HOWEVER, IT IS EXTREMELY PLAUSIBLE THAT THE ORGANISMS PERSIST TO CAUSE DISEASE IN HUMANS VIA FOOD VEHICLES THAT ACCOUNT FOR THE LONG-TERM PERSISTENCE OF FOOD-ASSOCIATED PATHOGENS. ONE OF THE METABOLIC CHANGES THAT IS UNDER-RECOGNIZED IS THE ABILITY OF THESE BACTERIA TO BECOME NON-CULTURABLE (NC). AS WE SEE WITH MICROBIOME STUDIES, NC ORGANISMS ARE DOMINANT IN THE GUT, THE ENVIRONMENT, AND FOOD. INDUCTION OF THIS METABOLIC STATE IS EASILY ACHIEVED WITH PROCESSING METHODS (I.E. SALT, RESTRICTED SUGAR, TEMPERATURE CHANGES, REDOX ALTERATION) THAT WOULD LEAD TO FALSE NEGATIVE SURVEILLANCE TESTS. RELATIVELY LITTLE INFORMATION IS AVAILABLE FOR THIS CAPABILITY FOR FOODBORNE PATHOGENS. HOWEVER, BY MERGING THE CURRENT TECHNOLOGIES - GENOME DIVERSITY, GENE EXPRESSION REGULATION, AND INDUCED EVOLUTION (NICHE ADAPTATION) - IT IS NOW POSSIBLE TO UNTANGLE THIS POSSIBILITY THAT WOULD LIKELY CREATE NEW TARGETS FOR PATHOGEN CONTROL IN THE FOOD CHAIN.THIS SHIFT IS LEADING TO MORE POINTS OF CONTROL THAT ARE DIFFICULT TO MANAGE OR LEAD TO EVOLUTION OF NICHE ADAPTATION BY EMERGING GENOTYPES THAT LEAD TO NEW OUTBREAKS. CONTROLLING PATHOGENS IS A GROWING CHALLENGE THAT NEEDS NEW METHODS AND IDEAS OF HOW TO ACHIEVE THIS IMPORTANT GOAL. WE PROPOSE TO USE BACTERIOPHAGE SPECIFICALLY TUNED TO NC CELLS AS A METHOD TO DIRECTLY INHIBIT OR KILL SO THAT THEY CANNOT RESUSCITATE WHEN IN CONTACT WITH THE HOST CELLS. THIS APPROACH IS BEING USED FOR BIOCONTROL OF FOOD PATHOGENS AND HAS EXPANSIVE POTENTIAL AS A METHOD TO CLEAR THE NC PATHOGEN DIRECTLY WITHIN THE FOOD.THIS PROPOSAL WILL DEFINE NEW CONTROL OPTIONS FOR NC PATHOGENS. THE LARGE GENOMIC DIVERSITY OF PATHOGENS IS A NEW CONCEPT BUT ONE THAT IS EXPANDING WI,TH EVERY NEW WGS. THIS COUPLED TO THE LIMITATIONS OF ENRICHMENT METHODS TO FIND SALMONELLA AND LISTERIA, IT IS IMPERATIVE THAT WE PROVIDE NEW OPTIONS FOR PROCESSING TO RESTRICT THE GROWTH AND INFECTIVITY OF BACTERIA. IMPORTANTLY, THE ENTERIC PATHOGENS IN FOOD ALSO BECOME NC AND CAN REMAIN \u0026#39;HIDDEN\u0026#39; FROM DETECTION BECAUSE THEY DON\u0026#39;T GROW DURING ENRICHMENT OR ON PLATES. THIS PROPOSAL WORKS AT THE INTERSECTION OF: 1) POPULATION GENOMICS, 2) INFECTIVITY AND METABOLIC CHANGES AT NC, AND 3) MITIGATION OF NC CELLS WITH PHAGE. IN COMBINATION THIS WORK WILL DEFINE NEW TARGETS TO CONTROL NC PATHOGEN PERSISTENCE, AND INFECTIVITY USING SALMONELLA AND LISTERIA AS EXEMPLARS NC FOR FOODBORNE PATHOGENS.",
+    "total_obligation": 610766,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-03-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 207644.52,
+    "total_account_obligation": 610766,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 207644.52
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 610766
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2023-03-01",
+      "end_date": "2026-02-28",
+      "last_modified_date": "2023-03-19",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 207644.52
+  }
+}

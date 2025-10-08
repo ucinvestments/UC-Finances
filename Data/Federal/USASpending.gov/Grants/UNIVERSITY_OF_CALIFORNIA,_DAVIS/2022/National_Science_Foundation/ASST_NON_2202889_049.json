@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56799088,
+    "Award ID": "2202889",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 627539,
+    "Total Outlays": 348150.5,
+    "Description": "P2C2: COLLABORATIVE RESEARCH: DEFINING THE PALEOCLIMATE-FIRE RELATIONSHIP IN CA ACROSS TEMPORAL SCALES THROUGH INTEGRATED MONITORING, STALAGMITE STUDIES, AND PROXY SYSTEM MODELING -DESPITE OBSERVABLE INCREASES IN THE FREQUENCY AND INTENSITY OF WILDFIRES, THE RELATIONSHIP BETWEEN FIRE, WARMING, AND RAINFALL VARIABILITY IN CALIFORNIA (CA) REMAINS POORLY UNDERSTOOD. THIS PROJECT WILL DEFINE THE RELATIONSHIP BETWEEN PAST CLIMATE CHANGE AND WILDFIRE BEHAVIOR IN CA OVER THE LAST 70,000 YEARS. THIS WILL BE ACCOMPLISHED BY MONITORING CAVES IN CA AND BY ASSESSING EVIDENCE OF CLIMATE CHANGE AND OF WILDFIRES PRESERVED IN CAVE MINERAL DEPOSITS. THESE DEPOSITS, CALLED STALAGMITES, ARE CAPABLE OF DOCUMENTING PAST ENVIRONMENTAL CHANGES CONTINUOUSLY OVER 1000S TO 10S OF THOUSANDS OF YEARS. AN ENVIRONMENTAL MODEL THAT LINKS CLIMATE, CAVE, AND WILDFIRE PROCESSES WILL BE DEVELOPED THAT WILL ADVANCE THE UNDERSTANDING OF HOW THE CLIMATE AND FIRE SIGNALS ARE ARCHIVED IN STALAGMITES. THE MODEL WILL ALSO BE USED TO BUILD ROBUST RECONSTRUCTIONS OF THE CLIMATE-FIRE RELATIONSHIP AT INDIVIDUAL CAVE SITES AND FOR TRANSECTS OF CAVES ACROSS CA. COLLECTIVELY, THIS RESEARCH WILL CONTRIBUTE TO BUILDING A COHESIVE PICTURE OF HOW CLIMATE IN THIS REGION RESPONDS TO GLOBAL CLIMATE CHANGE, INCLUDING WARMING, AND HOW THESE CHANGES INFLUENCE WILDFIRE BEHAVIOR. ADDITIONAL DELIVERABLES INCLUDE AN OPEN-ACCESS, STANDARDIZED DATABASE OF ALL STALAGMITE RECORDS AND COMMUNITY ACCESSIBLE SOFTWARE. A COHORT OF DIVERSE EARLY CAREER SCIENTISTS AND UNDERGRADUATE AND GRADUATE STUDENTS WILL BE TRAINED THROUGH THE PROJECT USING A VERTICALLY AND LATERALLY INTEGRATED TRAINING AND MENTORING PROGRAM, ?C3 ?CLIMATE CHANGE IN CALIFORNIA?. THIS PROJECT WILL TEST THREE HYPOTHESES LINKED BY THE PRIMARY GOAL OF INVESTIGATING THE RELATIONSHIP BETWEEN REGIONAL HYDROCLIMATE CONDITIONS AND WILDFIRE IN THE FIRE-PRONE REGION OF CA, OVER A VARIETY OF TIMESCALES AND BACKGROUND CLIMATE STATES INCLUDING PERIODS WITH NO OR MINIMAL ANTHROPOGENIC INFLUENCE. THIS WILL BE ACCOMPLISHED BY ADDRESSING FOUR RESEARCH OBJECTIVES. FIRST, A PROCESS-BASED, ?SURFACE-TO-STALAGMITE? UNDERSTANDING OF THE EVOLUTION OF A SUITE OF HYDROCLIMATE AND FIRE TRACERS WILL BE DEVELOPED THROUGH MONITORING OF THREE KARST SYSTEMS REPRESENTATIVE OF DIFFERENT CLIMATE CONDITIONS IN CA. THIS COMPONENT WILL FURTHER CALIBRATE PROMISING NEW PROXIES (DELTA-44CA, 87SR/86SR, AND A SUITE OF BIOMARKERS) THAT TO DATE HAVE BEEN APPLIED TO FEW KARST SYSTEMS. SECOND, A NEXT-GENERATION, MULTI-PROXY KARST SYSTEM MODEL WILL BE BUILT THAT LEVERAGES EXISTING PROXY SYSTEM MODELS AND LINKS HYDROCLIMATE AND FIRE PROXIES MECHANISTICALLY TO THEIR SUITE OF ENVIRONMENTAL AND ECOLOGIC DRIVERS. THIRD, A COMPARABLE SET OF CALCITE, INCLUSION-FLUID, AND BIOMARKER PROXY RECORDS, INCLUDING NOVEL HYDROLOGIC AND FIRE PROXIES, WILL BE DEVELOPED FOR TEN STALAGMITES THAT DEFINE LATITUDINAL AND COASTAL-TO-SIERRA NEVADA TRANSECTS IN CA. FOURTH, SITE-SPECIFIC AND REGIONAL PROXY-MODEL COMPARISONS WILL BE CARRIED OUT USING BAYESIAN INVERSION TO PRODUCE DATA-DRIVEN QUANTITATIVE RECONSTRUCTIONS OF THE HYDROCLIMATE AND FIRE ACTIVITY IN CA OVER THE PAST 70 KA. COLLECTIVELY, THIS RESEARCH WILL PROVIDE THE BASIS FOR FUTURE CLIMATE MODELING EFFORTS FOCUSED ON CONSTRAINING THE DRIVERS OF HYDROCLIMATE CHANGE AND FIRE ACTIVITY IN THE WESTERN U.S. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616-8671",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-08-01",
+    "End Date": "2025-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2202889_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56799088,
+    "generated_unique_award_id": "ASST_NON_2202889_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "P2C2: COLLABORATIVE RESEARCH: DEFINING THE PALEOCLIMATE-FIRE RELATIONSHIP IN CA ACROSS TEMPORAL SCALES THROUGH INTEGRATED MONITORING, STALAGMITE STUDIES, AND PROXY SYSTEM MODELING -DESPITE OBSERVABLE INCREASES IN THE FREQUENCY AND INTENSITY OF WILDFIRES, THE RELATIONSHIP BETWEEN FIRE, WARMING, AND RAINFALL VARIABILITY IN CALIFORNIA (CA) REMAINS POORLY UNDERSTOOD. THIS PROJECT WILL DEFINE THE RELATIONSHIP BETWEEN PAST CLIMATE CHANGE AND WILDFIRE BEHAVIOR IN CA OVER THE LAST 70,000 YEARS. THIS WILL BE ACCOMPLISHED BY MONITORING CAVES IN CA AND BY ASSESSING EVIDENCE OF CLIMATE CHANGE AND OF WILDFIRES PRESERVED IN CAVE MINERAL DEPOSITS. THESE DEPOSITS, CALLED STALAGMITES, ARE CAPABLE OF DOCUMENTING PAST ENVIRONMENTAL CHANGES CONTINUOUSLY OVER 1000S TO 10S OF THOUSANDS OF YEARS. AN ENVIRONMENTAL MODEL THAT LINKS CLIMATE, CAVE, AND WILDFIRE PROCESSES WILL BE DEVELOPED THAT WILL ADVANCE THE UNDERSTANDING OF HOW THE CLIMATE AND FIRE SIGNALS ARE ARCHIVED IN STALAGMITES. THE MODEL WILL ALSO BE USED TO BUILD ROBUST RECONSTRUCTIONS OF THE CLIMATE-FIRE RELATIONSHIP AT INDIVIDUAL CAVE SITES AND FOR TRANSECTS OF CAVES ACROSS CA. COLLECTIVELY, THIS RESEARCH WILL CONTRIBUTE TO BUILDING A COHESIVE PICTURE OF HOW CLIMATE IN THIS REGION RESPONDS TO GLOBAL CLIMATE CHANGE, INCLUDING WARMING, AND HOW THESE CHANGES INFLUENCE WILDFIRE BEHAVIOR. ADDITIONAL DELIVERABLES INCLUDE AN OPEN-ACCESS, STANDARDIZED DATABASE OF ALL STALAGMITE RECORDS AND COMMUNITY ACCESSIBLE SOFTWARE. A COHORT OF DIVERSE EARLY CAREER SCIENTISTS AND UNDERGRADUATE AND GRADUATE STUDENTS WILL BE TRAINED THROUGH THE PROJECT USING A VERTICALLY AND LATERALLY INTEGRATED TRAINING AND MENTORING PROGRAM, ?C3 ?CLIMATE CHANGE IN CALIFORNIA?. THIS PROJECT WILL TEST THREE HYPOTHESES LINKED BY THE PRIMARY GOAL OF INVESTIGATING THE RELATIONSHIP BETWEEN REGIONAL HYDROCLIMATE CONDITIONS AND WILDFIRE IN THE FIRE-PRONE REGION OF CA, OVER A VARIETY OF TIMESCALES AND BACKGROUND CLIMATE STATES INCLUDING PERIODS WITH NO OR MINIMAL ANTHROPOGENIC INFLUENCE. THIS WILL BE ACCOMPLISHED BY ADDRESSING FOUR RESEARCH OBJECTIVES. FIRST, A PROCESS-BASED, ?SURFACE-TO-STALAGMITE? UNDERSTANDING OF THE EVOLUTION OF A SUITE OF HYDROCLIMATE AND FIRE TRACERS WILL BE DEVELOPED THROUGH MONITORING OF THREE KARST SYSTEMS REPRESENTATIVE OF DIFFERENT CLIMATE CONDITIONS IN CA. THIS COMPONENT WILL FURTHER CALIBRATE PROMISING NEW PROXIES (DELTA-44CA, 87SR/86SR, AND A SUITE OF BIOMARKERS) THAT TO DATE HAVE BEEN APPLIED TO FEW KARST SYSTEMS. SECOND, A NEXT-GENERATION, MULTI-PROXY KARST SYSTEM MODEL WILL BE BUILT THAT LEVERAGES EXISTING PROXY SYSTEM MODELS AND LINKS HYDROCLIMATE AND FIRE PROXIES MECHANISTICALLY TO THEIR SUITE OF ENVIRONMENTAL AND ECOLOGIC DRIVERS. THIRD, A COMPARABLE SET OF CALCITE, INCLUSION-FLUID, AND BIOMARKER PROXY RECORDS, INCLUDING NOVEL HYDROLOGIC AND FIRE PROXIES, WILL BE DEVELOPED FOR TEN STALAGMITES THAT DEFINE LATITUDINAL AND COASTAL-TO-SIERRA NEVADA TRANSECTS IN CA. FOURTH, SITE-SPECIFIC AND REGIONAL PROXY-MODEL COMPARISONS WILL BE CARRIED OUT USING BAYESIAN INVERSION TO PRODUCE DATA-DRIVEN QUANTITATIVE RECONSTRUCTIONS OF THE HYDROCLIMATE AND FIRE ACTIVITY IN CA OVER THE PAST 70 KA. COLLECTIVELY, THIS RESEARCH WILL PROVIDE THE BASIS FOR FUTURE CLIMATE MODELING EFFORTS FOCUSED ON CONSTRAINING THE DRIVERS OF HYDROCLIMATE CHANGE AND FIRE ACTIVITY IN THE WESTERN U.S. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 627539,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-07-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 370298.57,
+    "total_account_obligation": 627539,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 370298.57
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 627539
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF EARTH SCIENCES"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF EARTH SCIENCES"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2025-07-31",
+      "last_modified_date": "2022-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "8671",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 370298.57
+  }
+}

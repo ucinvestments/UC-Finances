@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91229030,
+    "Award ID": "R01MH128814",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3200757,
+    "Total Outlays": 2284813,
+    "Description": "BRAIN AND BEHAVIORAL DEVELOPMENT IN AUTISM SPECTRUM DISORDER - ADOLESCENCE IS A COMPLEX TIME OF HEIGHTENED SELF-CONSCIOUSNESS, RISK TAKING AND PEER ORIENTATION WHICH MAY BE ESPECIALLY CHALLENGING FOR TEENS DIAGNOSED WITH AUTISM SPECTRUM DISORDER (ASD). LONGITUDINAL MAGNETIC RESONANCE IMAGING (MRI) STUDIES OF CHILDREN WITH ASD THAT BEGIN AT DIAGNOSIS AND EXTEND INTO ADOLESCENCE ARE EXTREMELY RARE. THIS IS A CRITICAL GAP SINCE ADOLESCENCE IS ALSO A PERIOD OF PROFOUND BRAIN CHANGES. THE MIND INSTITUTE AUTISM PHENOME PROJECT (APP) WAS INITIATED IN 2006 TO DISCOVER MULTILEVEL PHENOTYPIC INFORMATION ENABLING DEFINITION OF CLINICALLY MEANINGFUL SUBTYPES OF ASD. NEARLY 300 FAMILIES HAVE COMPLETED AN INITIAL ASSESSMENT WITH SUCCESSFUL MRI. THE APP INCLUDES AUTISTIC CHILDREN WITH ALL SEVERITY LEVELS AND CO-OCCURRING CONDITIONS SUCH AS ANXIETY AND INTELLECTUAL DISABILITY. CHILDREN WITH ASD AND AGE-MATCHED TYPICALLY DEVELOPING CONTROLS HAD THEIR FIRST MRI AT 2-3.5 YEARS OF AGE AND UP TO 3 ADDITIONAL SCANS BETWEEN ~4 AND ~12; 773 MRI SCANS HAVE BEEN ACQUIRED. WE PROPOSE TO EXTEND THIS STUDY TO A 5TH TIME POINT IN MIDDLE ADOLESCENCE (14-17 YEARS). A GUIDING THEME OF THIS RESEARCH IS THAT DIFFERENT TRAJECTORIES OF BRAIN DEVELOPMENT WILL DIFFERENTIATE SUBSETS OF CHILDREN WITH ASD AND SOME OF THESE DIFFERENCES WILL BECOME MOST APPARENT AS THE CHILD ENTERS ADOLESCENCE, WHICH COINCIDES WITH PUBERTAL DEVELOPMENT. BECAUSE WE HAVE CARRIED OUT PEDIATRICIAN-BASED TANNER STAGING AT MULTIPLE TIME POINTS, WE WILL BE ABLE TO EVALUATE HOW PUBERTY INFLUENCES THE EMERGENCE OF THESE DEVELOPMENTAL BRAIN DIFFERENCES ACROSS ALL AIMS. CAPITALIZING ON THE LARGE AMOUNT OF LONGITUDINAL STRUCTURAL MRI DATA ACQUIRED TO DATE, WE WILL USE STRUCTURAL COVARIANCE ANALYSIS AND OTHER NETWORK LEVEL STRATEGIES TO EVALUATE DEVELOPMENTAL DIFFERENCES IN GRAY MATTER STRUCTURE ACROSS SEVERAL DOMAIN SPECIFIC NETWORKS. FOCUSING ON INTRINSIC CONNECTIVITY NETWORKS IMPLICATED IN THE TRIPLE NETWORK MODEL OF AUTISM, WE PREDICT REDUCED MAGNITUDE AND EXTENT OF SALIENCE AND CENTRAL EXECUTIVE NETWORKS IN ASD AND GREATER EXTENT WITH ANTERIOR-POSTERIOR DECOUPLING IN THE DEFAULT MODE NETWORK. THE AMYGDALA IS A BRAIN REGION CONSISTENTLY REPORTED TO BE ALTERED IN ASD. OUR PREVIOUS MRI AND POSTMORTEM RESEARCH INDICATE THAT THERE IS AN ABNORMAL TRAJECTORY OF AMYGDALA GROWTH IN AUTISM WITH ENLARGEMENT EARLY ON AND ATROPHY IN ADOLESCENCE. WE WILL INVESTIGATE LONGITUDINAL GROWTH OF THE AMYGDALA TO TEST THE HYPOTHESIS THAT IT UNDERGOES ATROPHY IN ADOLESCENCE IN ASD. WE HYPOTHESIZE THAT THIS PREFERENTIALLY INVOLVES THOSE WITH A FORM OF CO-OCCURRING ANXIETY DISORDER AND IS DIFFERENT FROM TEENS WITH ANXIETY BUT NOT ASD. WE WILL ALSO ADDRESS THE CRITICAL UNDER-STUDIED QUESTION OF WHAT NEURAL ALTERATIONS DIFFERENTIATE CHILDREN WITH ASD WITH, AND WITHOUT, INTELLECTUAL DISABILITY. WE WILL INVESTIGATE THE MATURATION OF BRAIN REGIONS AND NETWORKS ASSOCIATED WITH INTELLECTUAL AND LANGUAGE FUNCTION TO EXPLORE DIFFERENCES BETWEEN CHILDREN WITH ASD AND LOW VERBAL/COGNITIVE PERFORMANCE FROM THOSE WITH NORMAL VERBAL/COGNITIVE PERFORMANCE. FINALLY, WE WILL EVALUATE TRAJECTORIES OF AUTISM SEVERITY CHANGE INTO MID ADOLESCENCE AND EXPLORE THE NEUROBIOLOGICAL UNDERPINNINGS OF THESE CHANGES. WE PREDICT THAT PERSISTENT ALTERATIONS IN THE SALIENCE NETWORK WILL BE ASSOCIATED WITH INCREASED SEVERITY OVER TIME.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172310",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-05",
+    "End Date": "2027-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01MH128814_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91229030,
+    "generated_unique_award_id": "ASST_NON_R01MH128814_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "BRAIN AND BEHAVIORAL DEVELOPMENT IN AUTISM SPECTRUM DISORDER - ADOLESCENCE IS A COMPLEX TIME OF HEIGHTENED SELF-CONSCIOUSNESS, RISK TAKING AND PEER ORIENTATION WHICH MAY BE ESPECIALLY CHALLENGING FOR TEENS DIAGNOSED WITH AUTISM SPECTRUM DISORDER (ASD). LONGITUDINAL MAGNETIC RESONANCE IMAGING (MRI) STUDIES OF CHILDREN WITH ASD THAT BEGIN AT DIAGNOSIS AND EXTEND INTO ADOLESCENCE ARE EXTREMELY RARE. THIS IS A CRITICAL GAP SINCE ADOLESCENCE IS ALSO A PERIOD OF PROFOUND BRAIN CHANGES. THE MIND INSTITUTE AUTISM PHENOME PROJECT (APP) WAS INITIATED IN 2006 TO DISCOVER MULTILEVEL PHENOTYPIC INFORMATION ENABLING DEFINITION OF CLINICALLY MEANINGFUL SUBTYPES OF ASD. NEARLY 300 FAMILIES HAVE COMPLETED AN INITIAL ASSESSMENT WITH SUCCESSFUL MRI. THE APP INCLUDES AUTISTIC CHILDREN WITH ALL SEVERITY LEVELS AND CO-OCCURRING CONDITIONS SUCH AS ANXIETY AND INTELLECTUAL DISABILITY. CHILDREN WITH ASD AND AGE-MATCHED TYPICALLY DEVELOPING CONTROLS HAD THEIR FIRST MRI AT 2-3.5 YEARS OF AGE AND UP TO 3 ADDITIONAL SCANS BETWEEN ~4 AND ~12; 773 MRI SCANS HAVE BEEN ACQUIRED. WE PROPOSE TO EXTEND THIS STUDY TO A 5TH TIME POINT IN MIDDLE ADOLESCENCE (14-17 YEARS). A GUIDING THEME OF THIS RESEARCH IS THAT DIFFERENT TRAJECTORIES OF BRAIN DEVELOPMENT WILL DIFFERENTIATE SUBSETS OF CHILDREN WITH ASD AND SOME OF THESE DIFFERENCES WILL BECOME MOST APPARENT AS THE CHILD ENTERS ADOLESCENCE, WHICH COINCIDES WITH PUBERTAL DEVELOPMENT. BECAUSE WE HAVE CARRIED OUT PEDIATRICIAN-BASED TANNER STAGING AT MULTIPLE TIME POINTS, WE WILL BE ABLE TO EVALUATE HOW PUBERTY INFLUENCES THE EMERGENCE OF THESE DEVELOPMENTAL BRAIN DIFFERENCES ACROSS ALL AIMS. CAPITALIZING ON THE LARGE AMOUNT OF LONGITUDINAL STRUCTURAL MRI DATA ACQUIRED TO DATE, WE WILL USE STRUCTURAL COVARIANCE ANALYSIS AND OTHER NETWORK LEVEL STRATEGIES TO EVALUATE DEVELOPMENTAL DIFFERENCES IN GRAY MATTER STRUCTURE ACROSS SEVERAL DOMAIN SPECIFIC NETWORKS. FOCUSING ON INTRINSIC CONNECTIVITY NETWORKS IMPLICATED IN THE TRIPLE NETWORK MODEL OF AUTISM, WE PREDICT REDUCED MAGNITUDE AND EXTENT OF SALIENCE AND CENTRAL EXECUTIVE NETWORKS IN ASD AND GREATER EXTENT WITH ANTERIOR-POSTERIOR DECOUPLING IN THE DEFAULT MODE NETWORK. THE AMYGDALA IS A BRAIN REGION CONSISTENTLY REPORTED TO BE ALTERED IN ASD. OUR PREVIOUS MRI AND POSTMORTEM RESEARCH INDICATE THAT THERE IS AN ABNORMAL TRAJECTORY OF AMYGDALA GROWTH IN AUTISM WITH ENLARGEMENT EARLY ON AND ATROPHY IN ADOLESCENCE. WE WILL INVESTIGATE LONGITUDINAL GROWTH OF THE AMYGDALA TO TEST THE HYPOTHESIS THAT IT UNDERGOES ATROPHY IN ADOLESCENCE IN ASD. WE HYPOTHESIZE THAT THIS PREFERENTIALLY INVOLVES THOSE WITH A FORM OF CO-OCCURRING ANXIETY DISORDER AND IS DIFFERENT FROM TEENS WITH ANXIETY BUT NOT ASD. WE WILL ALSO ADDRESS THE CRITICAL UNDER-STUDIED QUESTION OF WHAT NEURAL ALTERATIONS DIFFERENTIATE CHILDREN WITH ASD WITH, AND WITHOUT, INTELLECTUAL DISABILITY. WE WILL INVESTIGATE THE MATURATION OF BRAIN REGIONS AND NETWORKS ASSOCIATED WITH INTELLECTUAL AND LANGUAGE FUNCTION TO EXPLORE DIFFERENCES BETWEEN CHILDREN WITH ASD AND LOW VERBAL/COGNITIVE PERFORMANCE FROM THOSE WITH NORMAL VERBAL/COGNITIVE PERFORMANCE. FINALLY, WE WILL EVALUATE TRAJECTORIES OF AUTISM SEVERITY CHANGE INTO MID ADOLESCENCE AND EXPLORE THE NEUROBIOLOGICAL UNDERPINNINGS OF THESE CHANGES. WE PREDICT THAT PERSISTENT ALTERATIONS IN THE SALIENCE NETWORK WILL BE ASSOCIATED WITH INCREASED SEVERITY OVER TIME.",
+    "total_obligation": 3200757,
+    "subaward_count": 3,
+    "total_subaward_amount": 120360,
+    "date_signed": "2022-08-04",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2284813,
+    "total_account_obligation": 3200757,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2284813
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3200757
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-05",
+      "end_date": "2027-05-31",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2310",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2284813
+  }
+}

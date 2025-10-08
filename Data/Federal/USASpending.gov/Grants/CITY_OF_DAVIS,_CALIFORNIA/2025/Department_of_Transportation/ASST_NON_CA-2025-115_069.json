@@ -1,0 +1,250 @@
+{
+  "basic_data": {
+    "internal_id": 173183979,
+    "Award ID": "CA-2025-115",
+    "Recipient Name": "CITY OF DAVIS, CALIFORNIA",
+    "Award Amount": 11619125,
+    "Total Outlays": 0,
+    "Description": "APPLICATION PURPOSE: THE PROJECT WILL BE USED BY ASUCD UNITRANS (WHICH IS A DEPARTMENT OF THE UNIVERSITY OF CALIFORNIA - DAVIS AND SUB-RECIPIENT TO THE CITY OF DAVIS PROVIDING FIXED-ROUTE LOCAL TRANSIT SERVICE FOR THE CITY OF DAVIS AND UC DAVIS) AND BY THE CITY OF DAVIS (FOR PARATRANSIT SERVICE).A MINIMUM OF ONE PERCENT OF THE FTA SECTION 5307 FUNDS OBLIGATED IN THIS GRANT WILL BE USED FOR TRANSIT SECURITY ACTIVITIES INCLUDING BUT NOT LIMITED TO IMPROVE FACILITY/FLEET SECURITY AND VIDEO SURVEILLANCE UPGRADES.; ACTIVITIES PERFORMED: FUNDS FROM THIS AWARD WILL BE USED TO COVER A PORTION OF ANNUAL OPERATING EXPENSES FOR UNITRANS LOCAL FIXED-ROUTE TRANSIT SERVICES FOR FISCAL YEARS 2025 2026. IN ADDITION FUNDS WILL BE USED FOR CAPITAL ASSISTANCE FOR THE PURCHASE OF BUS ROLLING STOCK REPLACE FOR BOTH THE CITY OF DAVIS (PARATRANSIT) AND UNITRANS (FIXED-ROUTE) PLANNING ACTIVITIES RELATED TO THE POSSIBLE RELOCATION OF A BUS TERMINAL PLANNING AND PRELIMINARY ENGINEERING FOR UNITRANS FACILITY BUILDING RENOVATION AND EXPANSION PURCHASE OF NEW AND REPLACEMENT EQUIPMENT USED TO OPERATE AND MAINTAIN UNITRANS SERVICES AND REPLACEMENT OF UNITRANS MAINTENANCE INFORMATION SOFTWARE AND SERVICES.; EXPECTED OUTCOMES: EXPECTED OUTCOMES INCLUDE CONTINUITY OF FIXED ROUTE AND PARATRANSIT BUS SERVICES IMPROVED SYSTEM RELIABILITY IMPROVED EFFICIENCY REDUCED OPERATING AND MAINTENANCE COSTS.; INTENDED BENEFICIARIES: INTENDED BENEFICIARIES INCLUDE RESIDENTS AND VISITORS TO THE CITY OF DAVIS THE UNIVERSITY OF CALIFORNIA-DAVIS AND TRANSIT CUSTOMERS WHO WILL BENEFIT FROM CONTINUED SERVICE THAT IS RELIABLE AND MORE SUSTAINABLE.; SUBRECIPIENT ACTIVITIES: ALL ACTIVITIES EXCEPT FOR PARATRANSIT VEHICLE REPLACEMENT WILL BE UNDERTAKEN BY THE CITYS DESIGNATED SUB-RECIPIENT THE REGENTS OF THE UNIVERSITY OF CALIFORNIA-DAVIS THROUGH ITS OPERATING UNIT ASUCD UNITRANS. ASUCD UNITRANS IS THE LOCAL FIXED-ROUTE PROVIDER IN DAVIS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "VKLKHSYNDZ99",
+    "Recipient Location": {
+      "address_line1": "23 RUSSELL BLVD STE 1",
+      "address_line2": "N/A",
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "3852",
+      "zip5": "95616"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "1",
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 10273408,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Transportation",
+    "Awarding Sub Agency": "Federal Transit Administration",
+    "Start Date": "2025-07-18",
+    "End Date": "2028-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "52e3e4f4-afaa-1378-b315-fb08e45ce171-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_CA-2025-115_069",
+    "awarding_agency_id": 731,
+    "agency_slug": "department-of-transportation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173183979,
+    "generated_unique_award_id": "ASST_NON_CA-2025-115_069",
+    "piid": "",
+    "category": "grant",
+    "type": "03",
+    "type_description": "FORMULA GRANT (A)",
+    "description": "APPLICATION PURPOSE: THE PROJECT WILL BE USED BY ASUCD UNITRANS (WHICH IS A DEPARTMENT OF THE UNIVERSITY OF CALIFORNIA - DAVIS AND SUB-RECIPIENT TO THE CITY OF DAVIS PROVIDING FIXED-ROUTE LOCAL TRANSIT SERVICE FOR THE CITY OF DAVIS AND UC DAVIS) AND BY THE CITY OF DAVIS (FOR PARATRANSIT SERVICE).A MINIMUM OF ONE PERCENT OF THE FTA SECTION 5307 FUNDS OBLIGATED IN THIS GRANT WILL BE USED FOR TRANSIT SECURITY ACTIVITIES INCLUDING BUT NOT LIMITED TO IMPROVE FACILITY/FLEET SECURITY AND VIDEO SURVEILLANCE UPGRADES.; ACTIVITIES PERFORMED: FUNDS FROM THIS AWARD WILL BE USED TO COVER A PORTION OF ANNUAL OPERATING EXPENSES FOR UNITRANS LOCAL FIXED-ROUTE TRANSIT SERVICES FOR FISCAL YEARS 2025 2026. IN ADDITION FUNDS WILL BE USED FOR CAPITAL ASSISTANCE FOR THE PURCHASE OF BUS ROLLING STOCK REPLACE FOR BOTH THE CITY OF DAVIS (PARATRANSIT) AND UNITRANS (FIXED-ROUTE) PLANNING ACTIVITIES RELATED TO THE POSSIBLE RELOCATION OF A BUS TERMINAL PLANNING AND PRELIMINARY ENGINEERING FOR UNITRANS FACILITY BUILDING RENOVATION AND EXPANSION PURCHASE OF NEW AND REPLACEMENT EQUIPMENT USED TO OPERATE AND MAINTAIN UNITRANS SERVICES AND REPLACEMENT OF UNITRANS MAINTENANCE INFORMATION SOFTWARE AND SERVICES.; EXPECTED OUTCOMES: EXPECTED OUTCOMES INCLUDE CONTINUITY OF FIXED ROUTE AND PARATRANSIT BUS SERVICES IMPROVED SYSTEM RELIABILITY IMPROVED EFFICIENCY REDUCED OPERATING AND MAINTENANCE COSTS.; INTENDED BENEFICIARIES: INTENDED BENEFICIARIES INCLUDE RESIDENTS AND VISITORS TO THE CITY OF DAVIS THE UNIVERSITY OF CALIFORNIA-DAVIS AND TRANSIT CUSTOMERS WHO WILL BENEFIT FROM CONTINUED SERVICE THAT IS RELIABLE AND MORE SUSTAINABLE.; SUBRECIPIENT ACTIVITIES: ALL ACTIVITIES EXCEPT FOR PARATRANSIT VEHICLE REPLACEMENT WILL BE UNDERTAKEN BY THE CITYS DESIGNATED SUB-RECIPIENT THE REGENTS OF THE UNIVERSITY OF CALIFORNIA-DAVIS THROUGH ITS OPERATING UNIT ASUCD UNITRANS. ASUCD UNITRANS IS THE LOCAL FIXED-ROUTE PROVIDER IN DAVIS.",
+    "total_obligation": 11619125,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 11619125,
+    "account_outlays_by_defc": [
+      {
+        "code": "1",
+        "amount": 0
+      },
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "1",
+        "amount": 10273408
+      },
+      {
+        "code": "Q",
+        "amount": 1345717
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 760,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Transportation",
+        "code": "069",
+        "abbreviation": "DOT",
+        "slug": "department-of-transportation"
+      },
+      "subtier_agency": {
+        "name": "Federal Transit Administration",
+        "code": "6955",
+        "abbreviation": "FTA"
+      },
+      "office_agency_name": "OFFICE OF BUDGET AND POLICY(TBP)"
+    },
+    "awarding_agency": {
+      "id": 760,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Transportation",
+        "code": "069",
+        "abbreviation": "DOT",
+        "slug": "department-of-transportation"
+      },
+      "subtier_agency": {
+        "name": "Federal Transit Administration",
+        "code": "6955",
+        "abbreviation": "FTA"
+      },
+      "office_agency_name": "REGION 9 DOT  FTA"
+    },
+    "period_of_performance": {
+      "start_date": "2025-07-18",
+      "end_date": "2028-09-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "52e3e4f4-afaa-1378-b315-fb08e45ce171-R",
+      "recipient_name": "CITY OF DAVIS, CALIFORNIA",
+      "recipient_uei": "VKLKHSYNDZ99",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "CITY OF DAVIS",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Local Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "23 RUSSELL BLVD STE 1",
+        "address_line2": "N/A",
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "3852",
+        "zip5": "95616",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

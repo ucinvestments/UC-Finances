@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91229644,
+    "Award ID": "R01MH135266",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1479044,
+    "Total Outlays": 529830.8,
+    "Description": "QUANTIFICATION OF DISTRACTION IN ACADEMIC SETTINGS: A TRANSLATIONAL APPROACH - DISTRACTIBILITY POSES A SIGNIFICANT PUBLIC HEALTH CONCERN FOR OUR YOUTH, DUE TO THE SEEMINGLY NEVER-ENDING BARRAGE OF VISUAL AND AUDITORY STIMULATION IN OUR REAL-LIFE AND DIGITAL ENVIRONMENTS. THE INFLUX OF TEXTS AND SOCIAL MEDIA ALERTS, TRAFFIC, AND NEAR PEER DISCUSSIONS CAN INTERFERE WITH THEIR ABILITY TO SUSTAIN ON-TASK ATTENTION. THIS CHALLENGE IS FURTHER COMPOUNDED BY INTERNAL DISTRACTIONS SUCH AS MIND WANDERING AND RUMINATIONS. FOR YOUTH, DISTRACTIBILITY TAKES ITS HEAVIEST TOLL IN ACADEMIC SITUATIONS, WHETHER IN THE CLASSROOM OR WHEN STUDYING AT HOME. HOWEVER, TRADITIONAL METRICS OF DISTRACTIBILITY, FROM THE CLINIC OR LABORATORY, TEND TO BE BROAD BASED OR LACK CONTEXTUAL INFORMATION LIMITING THEIR ABILITY TO PREDICT REAL-LIFE PERFORMANCE. WE PROPOSE TO USE THREE INNOVATIVE, STATE-OF-THE-ART APPROACHES TO ENHANCE THE MEASUREMENT OF DISTRACTIBILITY TO BETTER CAPTURE WHAT YOUTH EXPERIENCE IN LEARNING SITUATIONS. WE WILL APPLY A RESEARCH DOMAIN OF CRITERIA (RDOC) FRAMEWORK, WITH THE GOAL OF IMPROVING UNDERSTANDING OF ATTENTION IN THE RDOC COGNITIVE SYSTEM DOMAIN AND HOW THE DISTRACTIBILITY SUBFACTOR MANIFESTS IN VARYING DEGREES ACROSS NATURALISTIC LEARNING CONTEXTS. WE WILL STUDY DISTRACTIBILITY IN NEUROTYPICAL (NT) ADOLESCENTS AND YOUTH WITH VARYING DEGREES OF IMPAIRING DISTRACTIBILITY, INCLUDING THOSE WITH DIAGNOSABLE ATTENTION-DEFICIT/HYPERACTIVITY DISORDER (ADHD). OUR TRANSLATIONAL TEAM FROM UC DAVIS AND BAR ILAN UNIVERSITY WILL ASSESS DISTRACTIBILITY, USING DIFFERENT METHODS, ACROSS THREE NATURALISTIC LEARNING ENVIRONMENTS: 1) A VIRTUAL REALITY (VR) CLASSROOM USING REAL ACADEMIC TASKS, WHILE CAPTURING EYE-GAZE AND BEHAVIORAL PERFORMANCE; 2) A LIVE REAL CLASSROOM, USING MOBILE EEG TO MEASURE NEURAL PROCESSING AND OBSERVING BEHAVIORAL MANIFESTATIONS OF DISTRACTION; AND 3) THROUGHOUT THE COURSE OF STUDENTS' REAL-LIFE LEARNING ACTIVITIES, BOTH AT SCHOOL AND DURING HOMEWORK, USING ECOLOGICAL MOMENTARY ASSESSMENT (EMA) OF ATTENTION. AS THE RDOC FRAMEWORK RECOMMENDS, WE ARE EXAMINING DISTRACTIBILITY ACROSS MULTIPLE UNITS OF ANALYSIS INCLUDING MULTI-INFORMANT (SELF, PARENT, TEACHER) BEHAVIORAL RATINGS, SELF-REPORT LIVE RATINGS (EMA), BEHAVIORAL PERFORMANCE, EYE GAZE, NEURAL ACTIVITY AND A VARIETY OF FUNCTIONAL MEASURES RELATED TO LEARNING AND EXECUTIVE FUNCTIONING. THE UC DAVIS TEAM WILL STUDY ADOLESCENTS RECRUITED TO REPRESENT A DIMENSION OF ATTENTIONAL FUNCTIONING FROM NT THROUGH ADHD. THE BAR ILAN RESEARCH TEAM IS EMBEDDED IN A HIGH SCHOOL AND WILL RECRUIT “NATURAL COHORTS” OF TYPICAL HIGH-SCHOOL STUDENTS (9TH GRADE), REPRESENTATIVE OF THE GENERAL POPULATION. WE WILL ASSESS HOW OUR MEASURES PREDICT REAL-LIFE FUNCTIONING AND DISTINCT ATTENTIONAL PROFILES (SUBGROUPS) OF ATTENTIONAL CHALLENGES USING LATENT PROFILE ANALYSES WITHIN THESE HETEROGENEOUS SAMPLES. THIS INNOVATIVE, TRANSLATIONAL AND CROSS-CULTURAL COLLABORATION WILL GREATLY ADVANCE OUR UNDERSTANDING AND MEASUREMENT OF DISTRACTIBILITY IN ECOLOGICALLY-RELEVANT CIRCUMSTANCES. RESULTS WILL INFORM THE DEVELOPMENT OF MEASURES FOR THE CLINIC AND LABORATORY AND PRECISION INTERVENTIONS TO MITIGATE DISTRACTIBILITY'S ADVERSE EFFECTS ON YOUTH'S EVERYDAY FUNCTIONING, BRIDGING THE TRANSLATIONAL GAP BETWEEN RESEARCH, CLINICAL PRACTICE, AND EDUCATIONAL ACTIVITIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172201",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-18",
+    "End Date": "2029-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01MH135266_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91229644,
+    "generated_unique_award_id": "ASST_NON_R01MH135266_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "QUANTIFICATION OF DISTRACTION IN ACADEMIC SETTINGS: A TRANSLATIONAL APPROACH - DISTRACTIBILITY POSES A SIGNIFICANT PUBLIC HEALTH CONCERN FOR OUR YOUTH, DUE TO THE SEEMINGLY NEVER-ENDING BARRAGE OF VISUAL AND AUDITORY STIMULATION IN OUR REAL-LIFE AND DIGITAL ENVIRONMENTS. THE INFLUX OF TEXTS AND SOCIAL MEDIA ALERTS, TRAFFIC, AND NEAR PEER DISCUSSIONS CAN INTERFERE WITH THEIR ABILITY TO SUSTAIN ON-TASK ATTENTION. THIS CHALLENGE IS FURTHER COMPOUNDED BY INTERNAL DISTRACTIONS SUCH AS MIND WANDERING AND RUMINATIONS. FOR YOUTH, DISTRACTIBILITY TAKES ITS HEAVIEST TOLL IN ACADEMIC SITUATIONS, WHETHER IN THE CLASSROOM OR WHEN STUDYING AT HOME. HOWEVER, TRADITIONAL METRICS OF DISTRACTIBILITY, FROM THE CLINIC OR LABORATORY, TEND TO BE BROAD BASED OR LACK CONTEXTUAL INFORMATION LIMITING THEIR ABILITY TO PREDICT REAL-LIFE PERFORMANCE. WE PROPOSE TO USE THREE INNOVATIVE, STATE-OF-THE-ART APPROACHES TO ENHANCE THE MEASUREMENT OF DISTRACTIBILITY TO BETTER CAPTURE WHAT YOUTH EXPERIENCE IN LEARNING SITUATIONS. WE WILL APPLY A RESEARCH DOMAIN OF CRITERIA (RDOC) FRAMEWORK, WITH THE GOAL OF IMPROVING UNDERSTANDING OF ATTENTION IN THE RDOC COGNITIVE SYSTEM DOMAIN AND HOW THE DISTRACTIBILITY SUBFACTOR MANIFESTS IN VARYING DEGREES ACROSS NATURALISTIC LEARNING CONTEXTS. WE WILL STUDY DISTRACTIBILITY IN NEUROTYPICAL (NT) ADOLESCENTS AND YOUTH WITH VARYING DEGREES OF IMPAIRING DISTRACTIBILITY, INCLUDING THOSE WITH DIAGNOSABLE ATTENTION-DEFICIT/HYPERACTIVITY DISORDER (ADHD). OUR TRANSLATIONAL TEAM FROM UC DAVIS AND BAR ILAN UNIVERSITY WILL ASSESS DISTRACTIBILITY, USING DIFFERENT METHODS, ACROSS THREE NATURALISTIC LEARNING ENVIRONMENTS: 1) A VIRTUAL REALITY (VR) CLASSROOM USING REAL ACADEMIC TASKS, WHILE CAPTURING EYE-GAZE AND BEHAVIORAL PERFORMANCE; 2) A LIVE REAL CLASSROOM, USING MOBILE EEG TO MEASURE NEURAL PROCESSING AND OBSERVING BEHAVIORAL MANIFESTATIONS OF DISTRACTION; AND 3) THROUGHOUT THE COURSE OF STUDENTS' REAL-LIFE LEARNING ACTIVITIES, BOTH AT SCHOOL AND DURING HOMEWORK, USING ECOLOGICAL MOMENTARY ASSESSMENT (EMA) OF ATTENTION. AS THE RDOC FRAMEWORK RECOMMENDS, WE ARE EXAMINING DISTRACTIBILITY ACROSS MULTIPLE UNITS OF ANALYSIS INCLUDING MULTI-INFORMANT (SELF, PARENT, TEACHER) BEHAVIORAL RATINGS, SELF-REPORT LIVE RATINGS (EMA), BEHAVIORAL PERFORMANCE, EYE GAZE, NEURAL ACTIVITY AND A VARIETY OF FUNCTIONAL MEASURES RELATED TO LEARNING AND EXECUTIVE FUNCTIONING. THE UC DAVIS TEAM WILL STUDY ADOLESCENTS RECRUITED TO REPRESENT A DIMENSION OF ATTENTIONAL FUNCTIONING FROM NT THROUGH ADHD. THE BAR ILAN RESEARCH TEAM IS EMBEDDED IN A HIGH SCHOOL AND WILL RECRUIT “NATURAL COHORTS” OF TYPICAL HIGH-SCHOOL STUDENTS (9TH GRADE), REPRESENTATIVE OF THE GENERAL POPULATION. WE WILL ASSESS HOW OUR MEASURES PREDICT REAL-LIFE FUNCTIONING AND DISTINCT ATTENTIONAL PROFILES (SUBGROUPS) OF ATTENTIONAL CHALLENGES USING LATENT PROFILE ANALYSES WITHIN THESE HETEROGENEOUS SAMPLES. THIS INNOVATIVE, TRANSLATIONAL AND CROSS-CULTURAL COLLABORATION WILL GREATLY ADVANCE OUR UNDERSTANDING AND MEASUREMENT OF DISTRACTIBILITY IN ECOLOGICALLY-RELEVANT CIRCUMSTANCES. RESULTS WILL INFORM THE DEVELOPMENT OF MEASURES FOR THE CLINIC AND LABORATORY AND PRECISION INTERVENTIONS TO MITIGATE DISTRACTIBILITY'S ADVERSE EFFECTS ON YOUTH'S EVERYDAY FUNCTIONING, BRIDGING THE TRANSLATIONAL GAP BETWEEN RESEARCH, CLINICAL PRACTICE, AND EDUCATIONAL ACTIVITIES.",
+    "total_obligation": 1479044,
+    "subaward_count": 1,
+    "total_subaward_amount": 133019,
+    "date_signed": "2024-09-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 529830.8,
+    "total_account_obligation": 1479044,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 529830.8
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1479044
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-18",
+      "end_date": "2029-06-30",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2201",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 529830.8
+  }
+}

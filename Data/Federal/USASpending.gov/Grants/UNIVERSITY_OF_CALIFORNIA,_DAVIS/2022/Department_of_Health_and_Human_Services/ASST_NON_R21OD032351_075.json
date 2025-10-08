@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91312364,
+    "Award ID": "R21OD032351",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 640250,
+    "Total Outlays": 502301.33,
+    "Description": "MESENCHYMAL STEM/STROMAL CELLS TO ENHANCE CYTOTOXIC T CELL IMMUNITY DURING HIV INFECTION - MULTIPOTENT STEM/STROMAL CELLS (MSC) ARE PROMISING CANDIDATE THERAPEUTICS FOR HIV INFECTION, GIVEN THEIR POTENT IMMUNOMODULATORY PROPERTIES AND WIDE SAFETY MARGINS. IT REMAINS UNKNOWN IF MSC CAN REVERSE CD8 T CELL EXHAUSTION AND PROMOTE TRAFFICKING OF CD8 T CELLS INTO PRIVILEGED SITES DURING CHRONIC HIV INFECTION. THUS, THERE IS A CRITICAL NEED TO DETERMINE WHETHER CD8 T CELL EXHAUSTION CAN BE THERAPEUTICALLY TARGETED BY MSC. OUR LONG-TERM GOAL IS TO DEFINE MECHANISMS OF MSC-INDUCED IMMUNE-MODULATION DURING CHRONIC VIRAL INFECTIONS SO THAT IMPROVED THERAPEUTIC STRATEGIES BE DEVELOPED. OUR OVERALL OBJECTIVE IN THIS APPLICATION IS TO DETERMINE IF MSC TREATMENT CAN ENHANCE VIRAL CLEARANCE VIA REVERSAL OF EXHAUSTED CD8 T CELLS IN CHRONIC SIV-INFECTED MACAQUES. OUR CENTRAL HYPOTHESIS IS THAT SYSTEMIC INFUSIONS OF ALLOGENEIC MSC ENHANCE VIRAL CLEARANCE IN ART-NAÏVE, AND DELAY VIRAL REBOUND UPON ART INTERRUPTION IN ART-TREATED SIV-INFECTED MACAQUES, VIA REVERSAL OF CD8 T CELL EXHAUSTION AND INFILTRATION OF PRIVILEGED SITES. THE RATIONALE THAT UNDERLIES THE PROPOSED RESEARCH IS THAT CD8 T CELL EXHAUSTION AND VIRAL SEQUESTRATION ARE MAJOR MECHANISMS OF HIV VIRAL PERSISTENCE THAT MAY BE TARGETED WITH MSC TREATMENT. TO TEST OUR HYPOTHESIS WE WILL USE THE SIV-INFECTED NON-HUMAN PRIMATE MODEL OF AIDS. SIV-INFECTED ANIMALS WILL BE TREATED WITH A COMBINATION OF ART AND/OR MSC AND SAMPLES FROM PERIPHERAL BLOOD, GUT TISSUE, AND LYMPH NODES WILL BE COLLECTED DURING NECROPSIES. THE CENTRAL HYPOTHESIS WILL BE TESTED BY PURSUING TWO SPECIFIC AIMS: 1) DETERMINE THE IMPACT OF MSC TREATMENT ON EXHAUSTED CD8 T CELL POPULATIONS IN RHESUS MACAQUES CHRONICALLY INFECTED WITH SIV. OUR WORKING HYPOTHESIS IS THAT MSC TREATMENT REVERSES CD8 T CELL EXHAUSTION THAT IS DRIVEN BY CHRONIC SIV INFECTION. WE WILL SORT CD8 T CELLS FROM BLOOD, GUT TISSUE, AND LYMPH NODES AND PERFORM SINGLE-CELL RNASEQ ANALYSIS, MULTI-COLOR FLOW CYTOMETRY, AND EX-VIVO STIMULATION ASSAYS. 2) DETERMINE THE IMPACT OF MSC TREATMENT ON CD8 T CELL TRAFFICKING INTO LYMPHOID FOLLICLES IN RHESUS MACAQUES CHRONICALLY INFECTED WITH SIV. OUR WORKING HYPOTHESIS IS THAT MSC TREATMENT IN CHRONIC SIV-INFECTED MACAQUES ENHANCES CXCR5+/CD8 T CELL TRAFFICKING INTO B-CELL FOLLICLES. WE WILL DETERMINE THE MICRO-ANATOMICAL DISTRIBUTION AND PHENOTYPE OF SIV-SPECIFIC CD8 T CELLS AND VIRAL RESERVOIRS IN GUT TISSUE AND LYMPH NODES VIA IN SITU MHC-TETRAMER, AND IMMUNOHISTOCHEMISTRY STAINING, AND CONFOCAL MICROSCOPY. THE RESEARCH PROPOSED IN THE APPLICATION IS INNOVATIVE BECAUSE IT EXPLORES A NEW THERAPEUTIC PARADIGM OF TARGETING MULTIPLE MECHANISMS OF HIV PERSISTENCE CONCURRENTLY ON MULTIPLE MECHANISTIC LEVELS. THE PROPOSED RESEARCH IS SIGNIFICANT BECAUSE HIV/AIDS REMAINS A SIGNIFICANT GLOBAL HEALTH CRISIS THAT IS PARTIALLY DRIVEN BY VIRAL PERSISTENCE DESPITE EFFECTIVE ANTIRETROVIRAL THERAPY AND SUPPRESSION OF VIRAL REPLICATION. MOREOVER, AS CD8 T CELL EXHAUSTION HAS BEEN IMPLICATED IN THE PATHOGENESIS OF MULTIPLE OTHER CHRONIC VIRAL DISEASES AND MALIGNANCIES, FINDINGS STEMMING FROM THIS STUDY HAVE THE POTENTIAL TO IMPACT BROADLY AND DEEPLY. FINDINGS FROM THIS STUDY ARE DIRECTLY TRANSLATABLE AS MSC ARE READILY AVAILABLE FOR CLINICAL TRIALS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-12-15",
+    "End Date": "2024-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R21OD032351_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91312364,
+    "generated_unique_award_id": "ASST_NON_R21OD032351_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MESENCHYMAL STEM/STROMAL CELLS TO ENHANCE CYTOTOXIC T CELL IMMUNITY DURING HIV INFECTION - MULTIPOTENT STEM/STROMAL CELLS (MSC) ARE PROMISING CANDIDATE THERAPEUTICS FOR HIV INFECTION, GIVEN THEIR POTENT IMMUNOMODULATORY PROPERTIES AND WIDE SAFETY MARGINS. IT REMAINS UNKNOWN IF MSC CAN REVERSE CD8 T CELL EXHAUSTION AND PROMOTE TRAFFICKING OF CD8 T CELLS INTO PRIVILEGED SITES DURING CHRONIC HIV INFECTION. THUS, THERE IS A CRITICAL NEED TO DETERMINE WHETHER CD8 T CELL EXHAUSTION CAN BE THERAPEUTICALLY TARGETED BY MSC. OUR LONG-TERM GOAL IS TO DEFINE MECHANISMS OF MSC-INDUCED IMMUNE-MODULATION DURING CHRONIC VIRAL INFECTIONS SO THAT IMPROVED THERAPEUTIC STRATEGIES BE DEVELOPED. OUR OVERALL OBJECTIVE IN THIS APPLICATION IS TO DETERMINE IF MSC TREATMENT CAN ENHANCE VIRAL CLEARANCE VIA REVERSAL OF EXHAUSTED CD8 T CELLS IN CHRONIC SIV-INFECTED MACAQUES. OUR CENTRAL HYPOTHESIS IS THAT SYSTEMIC INFUSIONS OF ALLOGENEIC MSC ENHANCE VIRAL CLEARANCE IN ART-NAÏVE, AND DELAY VIRAL REBOUND UPON ART INTERRUPTION IN ART-TREATED SIV-INFECTED MACAQUES, VIA REVERSAL OF CD8 T CELL EXHAUSTION AND INFILTRATION OF PRIVILEGED SITES. THE RATIONALE THAT UNDERLIES THE PROPOSED RESEARCH IS THAT CD8 T CELL EXHAUSTION AND VIRAL SEQUESTRATION ARE MAJOR MECHANISMS OF HIV VIRAL PERSISTENCE THAT MAY BE TARGETED WITH MSC TREATMENT. TO TEST OUR HYPOTHESIS WE WILL USE THE SIV-INFECTED NON-HUMAN PRIMATE MODEL OF AIDS. SIV-INFECTED ANIMALS WILL BE TREATED WITH A COMBINATION OF ART AND/OR MSC AND SAMPLES FROM PERIPHERAL BLOOD, GUT TISSUE, AND LYMPH NODES WILL BE COLLECTED DURING NECROPSIES. THE CENTRAL HYPOTHESIS WILL BE TESTED BY PURSUING TWO SPECIFIC AIMS: 1) DETERMINE THE IMPACT OF MSC TREATMENT ON EXHAUSTED CD8 T CELL POPULATIONS IN RHESUS MACAQUES CHRONICALLY INFECTED WITH SIV. OUR WORKING HYPOTHESIS IS THAT MSC TREATMENT REVERSES CD8 T CELL EXHAUSTION THAT IS DRIVEN BY CHRONIC SIV INFECTION. WE WILL SORT CD8 T CELLS FROM BLOOD, GUT TISSUE, AND LYMPH NODES AND PERFORM SINGLE-CELL RNASEQ ANALYSIS, MULTI-COLOR FLOW CYTOMETRY, AND EX-VIVO STIMULATION ASSAYS. 2) DETERMINE THE IMPACT OF MSC TREATMENT ON CD8 T CELL TRAFFICKING INTO LYMPHOID FOLLICLES IN RHESUS MACAQUES CHRONICALLY INFECTED WITH SIV. OUR WORKING HYPOTHESIS IS THAT MSC TREATMENT IN CHRONIC SIV-INFECTED MACAQUES ENHANCES CXCR5+/CD8 T CELL TRAFFICKING INTO B-CELL FOLLICLES. WE WILL DETERMINE THE MICRO-ANATOMICAL DISTRIBUTION AND PHENOTYPE OF SIV-SPECIFIC CD8 T CELLS AND VIRAL RESERVOIRS IN GUT TISSUE AND LYMPH NODES VIA IN SITU MHC-TETRAMER, AND IMMUNOHISTOCHEMISTRY STAINING, AND CONFOCAL MICROSCOPY. THE RESEARCH PROPOSED IN THE APPLICATION IS INNOVATIVE BECAUSE IT EXPLORES A NEW THERAPEUTIC PARADIGM OF TARGETING MULTIPLE MECHANISMS OF HIV PERSISTENCE CONCURRENTLY ON MULTIPLE MECHANISTIC LEVELS. THE PROPOSED RESEARCH IS SIGNIFICANT BECAUSE HIV/AIDS REMAINS A SIGNIFICANT GLOBAL HEALTH CRISIS THAT IS PARTIALLY DRIVEN BY VIRAL PERSISTENCE DESPITE EFFECTIVE ANTIRETROVIRAL THERAPY AND SUPPRESSION OF VIRAL REPLICATION. MOREOVER, AS CD8 T CELL EXHAUSTION HAS BEEN IMPLICATED IN THE PATHOGENESIS OF MULTIPLE OTHER CHRONIC VIRAL DISEASES AND MALIGNANCIES, FINDINGS STEMMING FROM THIS STUDY HAVE THE POTENTIAL TO IMPACT BROADLY AND DEEPLY. FINDINGS FROM THIS STUDY ARE DIRECTLY TRANSLATABLE AS MSC ARE READILY AVAILABLE FOR CLINICAL TRIALS.",
+    "total_obligation": 640250,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-12-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 502301.33,
+    "total_account_obligation": 640250,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 502301.33
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 640250
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2022-12-15",
+      "end_date": "2024-11-30",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 502301.33
+  }
+}

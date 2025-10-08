@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91165658,
+    "Award ID": "R01DC019135",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1623057,
+    "Total Outlays": 1187606.32,
+    "Description": "MOLECULAR AND NEURAL MECHANISMS OF PREDATOR CUE SENSATION - UNDERSTANDING HOW ANIMALS MAKE BEHAVIORAL DECISIONS IS ONE OF THE BIGGEST PROBLEMS IN NEUROSCIENCE. THE PROPOSED STUDY AIMS TO UNDERSTAND MOLECULAR AND NEURAL MECHANISMS UNDERLYING INNATE DEFENSIVE BEHAVIORS ELICITED BY CHEMICAL CUES FROM PREDATOR SPECIES. DEFENSIVE RESPONSES TO PREDATORY THREATS ARE MADE THROUGH A PRE-PROGRAMMED DEFENSIVE BRAIN CIRCUIT, WHICH HAS AN ABILITY TO INSTANTLY MAKE AN APPROPRIATE BEHAVIORAL DECISION UPON SENSING PREDATOR-DERIVED SENSORY STIMULI. IT IS WIDELY APPRECIATED THAT OLFACTION IS ONE OF THE MAJOR SENSORY MODALITIES THROUGH WHICH PREDATOR-DERIVED CHEMICAL CUES TRIGGER BEHAVIORAL RESPONSES IN PREY SPECIES. WHEN PREY ANIMALS DETECT IMMEDIATE DANGER IN PREDATOR CUES, THEY EXHIBIT ACUTE DEFENSE BEHAVIORS SUCH AS FREEZING OR FLIGHT. ON THE OTHER HAND, WHEN PREY ANIMALS DETECT ONLY POTENTIAL DANGER IN PREDATOR CUES, THEY EXHIBIT VIGILANCE AND RISK ASSESSMENT BEHAVIORS SUCH AS REPETITIVE STRETCHED SNIFFING. AN IMPORTANT QUESTION IN BEHAVIORAL NEUROSCIENCE IS WHETHER THESE DEFENSIVE DECISIONS FOR PREDATORY THREATS ARE MADE THROUGH DISTINCT NEURAL CIRCUITS OR BY A SHARED NEURAL POPULATION. OUR PRELIMINARY DATA ESTABLISH A FRAMEWORK OF THE PROPOSED STUDY TO DISSECT DEFENSIVE BEHAVIORAL CIRCUITRIES ACTIVATED BY PREDATOR CUES THROUGH THE VOMERONASAL CHEMOSENSORY ORGAN (VNO), WHICH TRIGGER EITHER FREEZING OR RISK ASSESSMENT BEHAVIORS IN MICE. IN THIS PROPOSAL, WE AIM TO IDENTIFY THE FREEZING- AND RISK ASSESSMENT-INDUCING PREDATOR CUES AND THEIR SENSORY RECEPTORS IN THE VNO, AND TO ASSESS WHETHER THE SENSORY SIGNALS INDUCE BEHAVIORAL OUTPUTS THROUGH INDEPENDENT, PARALLEL CIRCUITRIES, OR THEY ARE INTEGRATED IN THE BRAIN TO INDUCE AN APPROPRIATE BEHAVIOR. OUR CENTRAL HYPOTHESIS IS THAT DIFFERENT PREDATOR CUES ARE DETECTED BY DISTINCT SENSORY RECEPTOR CIRCUITRIES AND ELICIT DISTINCT DEFENSIVE BEHAVIORAL OUTPUTS IN PARALLEL. TO TEST THIS HYPOTHESIS, WE WILL INVESTIGATE MECHANISMS OF THE PREDATOR CUE SENSATION AT MOLECULAR LEVELS; MORE SPECIFICALLY, WE WILL FIRST IDENTIFY THE SENSORY STIMULI (AIM 1) AND THE SENSORY RECEPTORS (AIM 2). MOREOVER, USING FREEZING- AND RISK ASSESSMENT-INDUCING SENSORY CUES AS TOOLS, WE WILL FURTHER EXAMINE WHETHER THE DEFENSIVE DECISION TOWARDS PREDATOR CUES IS MADE BY INDEPENDENT NEURAL CIRCUITRIES OR NOT (AIM 3). THE RESULTS FROM THESE EXPERIMENTS WILL PROVIDE NEW INSIGHTS INTO THE MOLECULAR MECHANISMS UNDERLYING THE SENSORY PROCESSING IN PREDATOR CUE SENSATION, AND WILL REVEAL AN OPERATIONAL PRINCIPLE OF DECISION MAKING CIRCUITRIES FOR EMOTIONAL BEHAVIORS. THIS WILL CRITICALLY CONTRIBUTE TO OUR UNDERSTANDING OF PRE-PROGRAMMED BRAIN MACHINERY THAT UNDERLIES MULTIPLE LEVELS OF FEAR AND STRESS PROCESSING IN RESPONSE TO THREAT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-02-01",
+    "End Date": "2026-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DC019135_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91165658,
+    "generated_unique_award_id": "ASST_NON_R01DC019135_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MOLECULAR AND NEURAL MECHANISMS OF PREDATOR CUE SENSATION - UNDERSTANDING HOW ANIMALS MAKE BEHAVIORAL DECISIONS IS ONE OF THE BIGGEST PROBLEMS IN NEUROSCIENCE. THE PROPOSED STUDY AIMS TO UNDERSTAND MOLECULAR AND NEURAL MECHANISMS UNDERLYING INNATE DEFENSIVE BEHAVIORS ELICITED BY CHEMICAL CUES FROM PREDATOR SPECIES. DEFENSIVE RESPONSES TO PREDATORY THREATS ARE MADE THROUGH A PRE-PROGRAMMED DEFENSIVE BRAIN CIRCUIT, WHICH HAS AN ABILITY TO INSTANTLY MAKE AN APPROPRIATE BEHAVIORAL DECISION UPON SENSING PREDATOR-DERIVED SENSORY STIMULI. IT IS WIDELY APPRECIATED THAT OLFACTION IS ONE OF THE MAJOR SENSORY MODALITIES THROUGH WHICH PREDATOR-DERIVED CHEMICAL CUES TRIGGER BEHAVIORAL RESPONSES IN PREY SPECIES. WHEN PREY ANIMALS DETECT IMMEDIATE DANGER IN PREDATOR CUES, THEY EXHIBIT ACUTE DEFENSE BEHAVIORS SUCH AS FREEZING OR FLIGHT. ON THE OTHER HAND, WHEN PREY ANIMALS DETECT ONLY POTENTIAL DANGER IN PREDATOR CUES, THEY EXHIBIT VIGILANCE AND RISK ASSESSMENT BEHAVIORS SUCH AS REPETITIVE STRETCHED SNIFFING. AN IMPORTANT QUESTION IN BEHAVIORAL NEUROSCIENCE IS WHETHER THESE DEFENSIVE DECISIONS FOR PREDATORY THREATS ARE MADE THROUGH DISTINCT NEURAL CIRCUITS OR BY A SHARED NEURAL POPULATION. OUR PRELIMINARY DATA ESTABLISH A FRAMEWORK OF THE PROPOSED STUDY TO DISSECT DEFENSIVE BEHAVIORAL CIRCUITRIES ACTIVATED BY PREDATOR CUES THROUGH THE VOMERONASAL CHEMOSENSORY ORGAN (VNO), WHICH TRIGGER EITHER FREEZING OR RISK ASSESSMENT BEHAVIORS IN MICE. IN THIS PROPOSAL, WE AIM TO IDENTIFY THE FREEZING- AND RISK ASSESSMENT-INDUCING PREDATOR CUES AND THEIR SENSORY RECEPTORS IN THE VNO, AND TO ASSESS WHETHER THE SENSORY SIGNALS INDUCE BEHAVIORAL OUTPUTS THROUGH INDEPENDENT, PARALLEL CIRCUITRIES, OR THEY ARE INTEGRATED IN THE BRAIN TO INDUCE AN APPROPRIATE BEHAVIOR. OUR CENTRAL HYPOTHESIS IS THAT DIFFERENT PREDATOR CUES ARE DETECTED BY DISTINCT SENSORY RECEPTOR CIRCUITRIES AND ELICIT DISTINCT DEFENSIVE BEHAVIORAL OUTPUTS IN PARALLEL. TO TEST THIS HYPOTHESIS, WE WILL INVESTIGATE MECHANISMS OF THE PREDATOR CUE SENSATION AT MOLECULAR LEVELS; MORE SPECIFICALLY, WE WILL FIRST IDENTIFY THE SENSORY STIMULI (AIM 1) AND THE SENSORY RECEPTORS (AIM 2). MOREOVER, USING FREEZING- AND RISK ASSESSMENT-INDUCING SENSORY CUES AS TOOLS, WE WILL FURTHER EXAMINE WHETHER THE DEFENSIVE DECISION TOWARDS PREDATOR CUES IS MADE BY INDEPENDENT NEURAL CIRCUITRIES OR NOT (AIM 3). THE RESULTS FROM THESE EXPERIMENTS WILL PROVIDE NEW INSIGHTS INTO THE MOLECULAR MECHANISMS UNDERLYING THE SENSORY PROCESSING IN PREDATOR CUE SENSATION, AND WILL REVEAL AN OPERATIONAL PRINCIPLE OF DECISION MAKING CIRCUITRIES FOR EMOTIONAL BEHAVIORS. THIS WILL CRITICALLY CONTRIBUTE TO OUR UNDERSTANDING OF PRE-PROGRAMMED BRAIN MACHINERY THAT UNDERLIES MULTIPLE LEVELS OF FEAR AND STRESS PROCESSING IN RESPONSE TO THREAT.",
+    "total_obligation": 1623057,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-01-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1187606.32,
+    "total_account_obligation": 1623057,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1187606.32
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1623057
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute on Deafness and Other Communication Disorders"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute on Deafness and Other Communication Disorders"
+    },
+    "period_of_performance": {
+      "start_date": "2021-02-01",
+      "end_date": "2026-01-31",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1187606.32
+  }
+}

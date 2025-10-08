@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 172768735,
+    "Award ID": "R01DE034970",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 804478,
+    "Total Outlays": 0,
+    "Description": "SINGLE-CELL-RESOLVED MAPPING AND EVOLUTION-DRIVEN FUNCTIONAL INTERROGATION OF HUMAN MIDFACE ENHANCERS - SUMMARY DEVELOPMENTAL ANOMALIES OF THE MIDFACE, INCLUDING CLEFTS OF THE LIP AND PALATE, ARE A COMMON FEATURE OF CONGENITAL DISORDERS. THEY CAN SUBSTANTIALLY IMPACT RESPIRATION, FEEDING, SPEECH, AND SOCIAL CONNECTION, AND OFTEN REQUIRE STRESSFUL AND EXPENSIVE SURGICAL INTERVENTIONS IN AFFECTED CHILDREN. DESPITE THEIR CLINICAL IMPORTANCE, THE GENETIC BASIS OF MOST MIDFACE DEFECTS REMAINS UNCLEAR DUE TO OUR LIMITED UNDERSTANDING OF THE GENES INVOLVED, AS WELL AS THEIR CELL TYPE-SPECIFIC REGULATION IN TIME AND SPACE DURING HUMAN FACE DEVELOPMENT. THIS PROPOSAL WILL GENERATE RESOURCES TO ADDRESS THE CURRENT LACK OF A CELL TYPE-RESOLVED UNDERSTANDING OF GENE REGULATION IN HUMAN MIDFACE DEVELOPMENT AND APPLY THESE FINDINGS FOR IN-DEPTH COMPUTATIONAL AND EXPERIMENTAL STUDIES OF INDIVIDUAL ENHANCERS INVOLVED IN HUMAN MIDFACE DEVELOPMENT. WE PROPOSE TO GENERATE A SINGLE-CELL MULTIMODAL ATLAS OF HUMAN CRANIOFACIAL DEVELOPMENT, FOLLOWED BY EVOLUTION-DRIVEN COMPARATIVE ANALYSIS TO PRIORITIZE ENHANCERS LIKELY TO AFFECT MIDFACE DEVELOPMENT, AND DETAILED HYPOTHESIS-DRIVEN INTERROGATION OF ENHANCERS USING TRANSGENIC AND KNOCK-IN MOUSE MODELS. FIRST, WE WILL APPLY A SUITE OF STATE-OF-THE-ART MULTIMODAL SINGLE-CELL ASSAYS TO HUMAN CRANIOFACIAL TISSUES AT STAGES CRITICAL FOR MIDFACE DEVELOPMENT. THIS WILL INCLUDE SINGLE-CELL ASSAYS DEVELOPED BY THE INVESTIGATORS AND UNIQUELY AVAILABLE IN THEIR LABORATORIES. USING A DATA INTEGRATION STRATEGY DEMONSTRATED IN PRELIMINARY STUDIES, THIS WILL PROVIDE A DETAILED ATLAS OF THE TRANSCRIPTOME AND ENHANCER LANDSCAPE AT CELL TYPE RESOLUTION, INCLUDING THE GENOMIC LOCATION OF ENHANCERS, THEIR ACTIVITY STATES (POISED OR ACTIVE), AND THEIR 3D INTERACTIONS WITH TARGET PROMOTERS. THIS INFORMATION CANNOT BE GAINED FROM CURRENTLY AVAILABLE BULK TISSUE-DERIVED HUMAN DATA BUT IS CRITICAL FOR STUDIES OF ENHANCERS AFFECTING HUMAN MIDFACE DEVELOPMENT. BUILDING ON THIS UNIQUE RESOURCE, WE WILL USE THE SUBSTANTIAL DIVERSITY IN MIDFACE MORPHOLOGY PRESENT IN HUNDREDS OF MAMMALIAN SPECIES WITH SEQUENCED GENOMES TO IDENTIFY ENHANCERS THAT SHOW ACCELERATED EVOLUTIONARY SEQUENCE SIGNATURES THAT CORRELATE WITH RECURRENT CHANGES IN MIDFACE MORPHOLOGY. INTERSECTING SUCH EVOLUTIONARY SIGNATURES WITH CELL TYPE-RESOLVED MAPS OF HUMAN MIDFACE ENHANCERS WILL IDENTIFY HIGH-CONFIDENCE CANDIDATE MIDFACE ENHANCERS AT LOCI IMPLICATED IN HUMAN MIDFACE VARIATION AND BIRTH DEFECTS. FINALLY, WE WILL USE MOUSE TRANSGENIC ASSAYS, SINGLE-CELL REPORTER ASSAYS, AND KNOCK-IN ENHANCER REPLACEMENT ENGINEERING, TO VALIDATE PREDICTED ENHANCERS IN VIVO, CHARACTERIZE THEIR ACTIVITY IN CRANIOFACIAL DEVELOPMENT, AND STUDY THEIR IMPACT ON MIDFACE DEVELOPMENT THROUGH LANDMARK-BASED 3D MORPHOMETRICS OF KNOCK-IN MICE. WE WILL RESERVE A PROPORTION OF OUR TRANSGENIC AND MOUSE ENGINEERING CAPABILITIES UNDER THIS PROPOSAL TO SUPPORT ONGOING COLLABORATIVE STUDIES WITH PROMISING INITIAL DATA, AS WELL AS NEW NOMINATIONS FROM THE COMMUNITY. CONSISTENT WITH OUR COMMITMENT TO COMMUNITY SUPPORT AND FAIR DATA PRINCIPLES, WE WILL MAKE ALL DATA FROM THIS PROPOSAL AVAILABLE TO THE CRANIOFACIAL COMMUNITY THROUGH FACEBASE, WITH WHICH DR. VISEL HAS BEEN CONTINUOUSLY INVOLVED SINCE ITS INCEPTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "ENBLDJUN4N73",
+    "Recipient Location": {
+      "address_line1": "1 CYCLOTRON RD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "8099",
+      "zip5": "94720"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-07-01",
+    "End Date": "2030-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DE034970_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 172768735,
+    "generated_unique_award_id": "ASST_NON_R01DE034970_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SINGLE-CELL-RESOLVED MAPPING AND EVOLUTION-DRIVEN FUNCTIONAL INTERROGATION OF HUMAN MIDFACE ENHANCERS - SUMMARY DEVELOPMENTAL ANOMALIES OF THE MIDFACE, INCLUDING CLEFTS OF THE LIP AND PALATE, ARE A COMMON FEATURE OF CONGENITAL DISORDERS. THEY CAN SUBSTANTIALLY IMPACT RESPIRATION, FEEDING, SPEECH, AND SOCIAL CONNECTION, AND OFTEN REQUIRE STRESSFUL AND EXPENSIVE SURGICAL INTERVENTIONS IN AFFECTED CHILDREN. DESPITE THEIR CLINICAL IMPORTANCE, THE GENETIC BASIS OF MOST MIDFACE DEFECTS REMAINS UNCLEAR DUE TO OUR LIMITED UNDERSTANDING OF THE GENES INVOLVED, AS WELL AS THEIR CELL TYPE-SPECIFIC REGULATION IN TIME AND SPACE DURING HUMAN FACE DEVELOPMENT. THIS PROPOSAL WILL GENERATE RESOURCES TO ADDRESS THE CURRENT LACK OF A CELL TYPE-RESOLVED UNDERSTANDING OF GENE REGULATION IN HUMAN MIDFACE DEVELOPMENT AND APPLY THESE FINDINGS FOR IN-DEPTH COMPUTATIONAL AND EXPERIMENTAL STUDIES OF INDIVIDUAL ENHANCERS INVOLVED IN HUMAN MIDFACE DEVELOPMENT. WE PROPOSE TO GENERATE A SINGLE-CELL MULTIMODAL ATLAS OF HUMAN CRANIOFACIAL DEVELOPMENT, FOLLOWED BY EVOLUTION-DRIVEN COMPARATIVE ANALYSIS TO PRIORITIZE ENHANCERS LIKELY TO AFFECT MIDFACE DEVELOPMENT, AND DETAILED HYPOTHESIS-DRIVEN INTERROGATION OF ENHANCERS USING TRANSGENIC AND KNOCK-IN MOUSE MODELS. FIRST, WE WILL APPLY A SUITE OF STATE-OF-THE-ART MULTIMODAL SINGLE-CELL ASSAYS TO HUMAN CRANIOFACIAL TISSUES AT STAGES CRITICAL FOR MIDFACE DEVELOPMENT. THIS WILL INCLUDE SINGLE-CELL ASSAYS DEVELOPED BY THE INVESTIGATORS AND UNIQUELY AVAILABLE IN THEIR LABORATORIES. USING A DATA INTEGRATION STRATEGY DEMONSTRATED IN PRELIMINARY STUDIES, THIS WILL PROVIDE A DETAILED ATLAS OF THE TRANSCRIPTOME AND ENHANCER LANDSCAPE AT CELL TYPE RESOLUTION, INCLUDING THE GENOMIC LOCATION OF ENHANCERS, THEIR ACTIVITY STATES (POISED OR ACTIVE), AND THEIR 3D INTERACTIONS WITH TARGET PROMOTERS. THIS INFORMATION CANNOT BE GAINED FROM CURRENTLY AVAILABLE BULK TISSUE-DERIVED HUMAN DATA BUT IS CRITICAL FOR STUDIES OF ENHANCERS AFFECTING HUMAN MIDFACE DEVELOPMENT. BUILDING ON THIS UNIQUE RESOURCE, WE WILL USE THE SUBSTANTIAL DIVERSITY IN MIDFACE MORPHOLOGY PRESENT IN HUNDREDS OF MAMMALIAN SPECIES WITH SEQUENCED GENOMES TO IDENTIFY ENHANCERS THAT SHOW ACCELERATED EVOLUTIONARY SEQUENCE SIGNATURES THAT CORRELATE WITH RECURRENT CHANGES IN MIDFACE MORPHOLOGY. INTERSECTING SUCH EVOLUTIONARY SIGNATURES WITH CELL TYPE-RESOLVED MAPS OF HUMAN MIDFACE ENHANCERS WILL IDENTIFY HIGH-CONFIDENCE CANDIDATE MIDFACE ENHANCERS AT LOCI IMPLICATED IN HUMAN MIDFACE VARIATION AND BIRTH DEFECTS. FINALLY, WE WILL USE MOUSE TRANSGENIC ASSAYS, SINGLE-CELL REPORTER ASSAYS, AND KNOCK-IN ENHANCER REPLACEMENT ENGINEERING, TO VALIDATE PREDICTED ENHANCERS IN VIVO, CHARACTERIZE THEIR ACTIVITY IN CRANIOFACIAL DEVELOPMENT, AND STUDY THEIR IMPACT ON MIDFACE DEVELOPMENT THROUGH LANDMARK-BASED 3D MORPHOMETRICS OF KNOCK-IN MICE. WE WILL RESERVE A PROPORTION OF OUR TRANSGENIC AND MOUSE ENGINEERING CAPABILITIES UNDER THIS PROPOSAL TO SUPPORT ONGOING COLLABORATIVE STUDIES WITH PROMISING INITIAL DATA, AS WELL AS NEW NOMINATIONS FROM THE COMMUNITY. CONSISTENT WITH OUR COMMITMENT TO COMMUNITY SUPPORT AND FAIR DATA PRINCIPLES, WE WILL MAKE ALL DATA FROM THIS PROPOSAL AVAILABLE TO THE CRANIOFACIAL COMMUNITY THROUGH FACEBASE, WITH WHICH DR. VISEL HAS BEEN CONTINUOUSLY INVOLVED SINCE ITS INCEPTION.",
+    "total_obligation": 804478,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-06-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 804478,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 804478
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Dental \u0026 Craniofacial Research"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Dental \u0026 Craniofacial Research"
+    },
+    "period_of_performance": {
+      "start_date": "2025-07-01",
+      "end_date": "2030-03-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "ENBLDJUN4N73",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1 CYCLOTRON RD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "8099",
+        "zip5": "94720",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

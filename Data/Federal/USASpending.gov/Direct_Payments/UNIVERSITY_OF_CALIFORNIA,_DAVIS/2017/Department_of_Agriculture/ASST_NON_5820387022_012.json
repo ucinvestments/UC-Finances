@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 69491800,
+    "Award ID": "5820387022",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 6090,
+    "Total Outlays": 6090,
+    "Description": "ENUMERATION OF FUSARIUM OXYSPORUM F SP. FRAGARIAE IN SOIL - 1. THE OBJECTIVE IS TO VALIDATE MOLECULAR QUANTIFICATION ASSAYS OF SOIL BY COMPARISON WITH SOIL PLATING ASSAYS TO DETERMINE THE RELATIONSHIP BETWEEN COLONY COUNTS AND RESULTS FROM REAL TIME POLYMERASE CHAIN REACTION (PCR) ASSAYS. WHEN APPROPRIATE GENOMIC SEQUENCING OF IMPORTANT ISOLATES WILL BE CONDUCTED TO CONFIRM RESULTS AND SUPPORT DIAGNOSTIC ASSAY VALIDATION. 2. THE OBJECTIVE OF THIS WORK IS TO ANALYZE GENOMIC AND TRANSCRIPTOMIC DATA FROM FUSARIUM OXYSPORUM F. SP. FRAGARIAE AND MACROPHOMINA PHASEOLINA INFECTING STRAWBERRY ROOTS. THIS WORK WILL PROVIDE INSIGHT INTO THE SIGNALING AND METABOLIC PATHWAYS THAT ARE TRIGGED IN THE PLANT DURING INFECTION BY THESE PATHOGENS. RESULTS CAN BE USED TO INFORM METHODS THAT WILL BLOCK HOST COLONIZATION BY INTERFERING WITH THE DISRUPTED SIGNALING NETWORKS. IN ADDITION TO ANALYZING HOST RESPONSE, WE WILL IDENTIFY GENES THAT ARE UP-REGULATED DURING INFECTION BY THE FUNGUS. TRANSCRIPTOMIC DATA WAS COLLECTED FOR MULTIPLE ISOLATES OF FUSARIUM OXYSPORUM F. SP. FRAGARIAE AND IT WILL BE POSSIBLE TO IDENTIFY HOMOLOGS THAT ARE CONSISTENTLY UP-EXPRESSED BETWEEN ISOLATES. FURTHERMORE, GENES UNIQUE TO EACH GENOTYPE OF THIS PATHOGEN THAT ARE EXPRESSED DURING INFECTION WILL BE IDENTIFIED. GENOMIC COMPARISON WILL FOCUS ON IDENTIFYING EVOLUTIONARY MECHANISMS RESULTING IN HOST SPECIFICITY. THE OUTCOME OF THIS WORK WILL BE A FOUNDATIONAL UNDERSTANDING OF THE INTERACTION BETWEEN THIS HOST AND PATHOGEN AT THE TRANSCRIPTIONAL LEVEL.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR. STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616-5270",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Agricultural Research Service",
+    "Start Date": "2017-09-01",
+    "End Date": "2021-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_5820387022_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 69491800,
+    "generated_unique_award_id": "ASST_NON_5820387022_012",
+    "piid": "",
+    "category": "other",
+    "type": "11",
+    "type_description": "OTHER REIMBURSABLE, CONTINGENT, INTANGIBLE, OR INDIRECT FINANCIAL ASSISTANCE",
+    "description": "ENUMERATION OF FUSARIUM OXYSPORUM F SP. FRAGARIAE IN SOIL - 1. THE OBJECTIVE IS TO VALIDATE MOLECULAR QUANTIFICATION ASSAYS OF SOIL BY COMPARISON WITH SOIL PLATING ASSAYS TO DETERMINE THE RELATIONSHIP BETWEEN COLONY COUNTS AND RESULTS FROM REAL TIME POLYMERASE CHAIN REACTION (PCR) ASSAYS. WHEN APPROPRIATE GENOMIC SEQUENCING OF IMPORTANT ISOLATES WILL BE CONDUCTED TO CONFIRM RESULTS AND SUPPORT DIAGNOSTIC ASSAY VALIDATION. 2. THE OBJECTIVE OF THIS WORK IS TO ANALYZE GENOMIC AND TRANSCRIPTOMIC DATA FROM FUSARIUM OXYSPORUM F. SP. FRAGARIAE AND MACROPHOMINA PHASEOLINA INFECTING STRAWBERRY ROOTS. THIS WORK WILL PROVIDE INSIGHT INTO THE SIGNALING AND METABOLIC PATHWAYS THAT ARE TRIGGED IN THE PLANT DURING INFECTION BY THESE PATHOGENS. RESULTS CAN BE USED TO INFORM METHODS THAT WILL BLOCK HOST COLONIZATION BY INTERFERING WITH THE DISRUPTED SIGNALING NETWORKS. IN ADDITION TO ANALYZING HOST RESPONSE, WE WILL IDENTIFY GENES THAT ARE UP-REGULATED DURING INFECTION BY THE FUNGUS. TRANSCRIPTOMIC DATA WAS COLLECTED FOR MULTIPLE ISOLATES OF FUSARIUM OXYSPORUM F. SP. FRAGARIAE AND IT WILL BE POSSIBLE TO IDENTIFY HOMOLOGS THAT ARE CONSISTENTLY UP-EXPRESSED BETWEEN ISOLATES. FURTHERMORE, GENES UNIQUE TO EACH GENOTYPE OF THIS PATHOGEN THAT ARE EXPRESSED DURING INFECTION WILL BE IDENTIFIED. GENOMIC COMPARISON WILL FOCUS ON IDENTIFYING EVOLUTIONARY MECHANISMS RESULTING IN HOST SPECIFICITY. THE OUTCOME OF THIS WORK WILL BE A FOUNDATIONAL UNDERSTANDING OF THE INTERACTION BETWEEN THIS HOST AND PATHOGEN AT THE TRANSCRIPTIONAL LEVEL.",
+    "total_obligation": 6090,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2019-09-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 6090,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 6090
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "awarding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "period_of_performance": {
+      "start_date": "2017-09-01",
+      "end_date": "2021-08-31",
+      "last_modified_date": "2020-05-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": "047120084",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR. STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "5270",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 6090
+  }
+}

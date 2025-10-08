@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91219098,
+    "Award ID": "R01HL171057",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1198684,
+    "Total Outlays": 389641.9,
+    "Description": "PHENOTYPE-SPECIFIC MODELS, MECHANISMS, AND TREATMENT OF HFPEF - PROJECT SUMMARY HEART FAILURE (HF) WITH PRESERVED EJECTION FRACTION (HFPEF) IS A MAJOR PUBLIC HEALTH BURDEN CURRENTLY AFFECTING MORE THAN THREE MILLION AMERICANS AND LEADING TO SIGNIFICANT MORBIDITY AND MORTALITY. HFPEF PREVALENCE IS EXPECTED TO FURTHER INCREASE WITH THE AGING POPULATION AND THE CONCOMITANT DIFFUSION OF RECOGNIZED RISK FACTORS SUCH AS OBESITY, DIABETES MELLITUS, AND HYPERTENSION. HFPEF IS A COMPLEX MULTI-ORGAN, SYSTEMIC SYNDROME THAT DRASTICALLY REDUCES PATIENTS’ QUALITY OF LIFE. IMPORTANTLY, PATIENTS’ SURVIVAL RATE AFTER FIRST HOSPITALIZATION IS VERY LIMITED, AS EFFECTIVE TREATMENT OPTIONS FOR HFPEF ARE CURRENTLY INADEQUATE. NOTABLY, ALMOST ALL THERAPIES DEVELOPED FOR THE BETTER CHARACTERIZED HF WITH REDUCED EJECTION FRACTION (HFREF) HAVE BEEN SHOWN TO BE INEFFECTIVE IN HFPEF, IMPLYING THE EXISTENCE OF DIFFERENT UNDERLYING MECHANISMS OF DISEASE YET TO BE IDENTIFIED. THE LACK OF EFFECTIVE TREATMENT OPTIONS FOR HFPEF IS NOW ONE OF THE MAJOR UNMET NEEDS IN THE MEDICAL FIELD AND MAY BE DUE ALSO TO THE LARGE PHENOTYPIC HETEROGENEITY OBSERVED IN PATIENTS. IN FACT, HFPEF PHENOTYPIC DIVERSITY REPRESENTS AN OBSTACLE FOR TIMELY DIAGNOSIS OF HFPEF AND IS NOT ENTIRELY CAPTURED BY MOST PRECLINICAL ANIMAL MODELS AND CLINICAL TRIALS. SEX DIFFERENCES ARE THOUGHT TO CONTRIBUTE TO THIS PHENOTYPIC VARIABILITY. INDEED, HFPEF IS MORE COMMON IN WOMEN, WHO EXPERIENCE WORSE SYMPTOMS BUT HAVE LOWER RISK OF MORTALITY THAN MEN. OVERALL, HFPEF PHENOTYPIC HETEROGENEITY HAMPERS OUR UNDERSTANDING OF THE MECHANISMS UNDERLYING ALTERED EXCITATION- CONTRACTION COUPLING (ECC) AND INCREASED PROPENSITY FOR VENTRICULAR ARRHYTHMIAS (I.E., ONE OF THE LEADING CAUSES OF DEATH AMONG HFPEF PATIENTS). OUR OVERARCHING HYPOTHESIS IS THAT, BECAUSE OF THE PRESENCE OF DIFFERENT HFPEF SUBPHENOTYPES, AN EFFECTIVE THERAPY MAY BENEFIT FROM A SUBGROUP-TARGETED APPROACH. WE HAVE PREVIOUSLY DEMONSTRATED THE POWER OF MECHANISTIC MODELING AND DATA-DRIVEN PRECISION MEDICINE TECHNIQUES TO CLASSIFY AND DISCRIMINATE CARDIAC PHENOTYPES. IN THIS PROJECT, WE PROPOSE A NOVEL INTEGRATIVE COMPUTATIONAL/EXPERIMENTAL APPROACH AIMED AT I) IDENTIFYING THE KEY MOLECULAR AND CELLULAR FUNCTIONAL CHANGES IN HFPEF IN A PRECLINICAL ANIMAL MODEL, AND II) CONCOMITANTLY INVESTIGATING THE IMPACT OF HFPEF HETEROGENEITY IN DISEASE MECHANISMS AND THERAPY. INFORMED BY NOVEL FUNCTIONAL AND TRANSCRIPTOMIC DATA, WE WILL DEVELOP A REFINED MODELING PLATFORM THAT ALLOWS FOR NEW QUANTITATIVE PREDICTIONS AMENABLE TO EXPERIMENTAL TESTING, AS WELL AS TRANSLATION OF EXPERIMENTAL FINDINGS ACROSS SPECIES. IN SYNERGY WITH THE NHLBI INITIATIVES HEARTSHARE AND ACCELERATING MEDICINES PARTNERSHIP, COMPLETION OF THE STUDIES PROPOSED IN THIS PROJECT WILL PROVIDE NEW MECHANISTIC INSIGHTS INTO HFPEF PHENOTYPIC DIVERSITY IN CONTRACTILE DYSFUNCTION AND ARRHYTHMOGENESIS AND HELP TARGETING NEW THERAPEUTIC STRATEGIES TO DIFFERENT SUBPOPULATIONS OF HFPEF PATIENTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-07-01",
+    "End Date": "2029-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL171057_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91219098,
+    "generated_unique_award_id": "ASST_NON_R01HL171057_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PHENOTYPE-SPECIFIC MODELS, MECHANISMS, AND TREATMENT OF HFPEF - PROJECT SUMMARY HEART FAILURE (HF) WITH PRESERVED EJECTION FRACTION (HFPEF) IS A MAJOR PUBLIC HEALTH BURDEN CURRENTLY AFFECTING MORE THAN THREE MILLION AMERICANS AND LEADING TO SIGNIFICANT MORBIDITY AND MORTALITY. HFPEF PREVALENCE IS EXPECTED TO FURTHER INCREASE WITH THE AGING POPULATION AND THE CONCOMITANT DIFFUSION OF RECOGNIZED RISK FACTORS SUCH AS OBESITY, DIABETES MELLITUS, AND HYPERTENSION. HFPEF IS A COMPLEX MULTI-ORGAN, SYSTEMIC SYNDROME THAT DRASTICALLY REDUCES PATIENTS’ QUALITY OF LIFE. IMPORTANTLY, PATIENTS’ SURVIVAL RATE AFTER FIRST HOSPITALIZATION IS VERY LIMITED, AS EFFECTIVE TREATMENT OPTIONS FOR HFPEF ARE CURRENTLY INADEQUATE. NOTABLY, ALMOST ALL THERAPIES DEVELOPED FOR THE BETTER CHARACTERIZED HF WITH REDUCED EJECTION FRACTION (HFREF) HAVE BEEN SHOWN TO BE INEFFECTIVE IN HFPEF, IMPLYING THE EXISTENCE OF DIFFERENT UNDERLYING MECHANISMS OF DISEASE YET TO BE IDENTIFIED. THE LACK OF EFFECTIVE TREATMENT OPTIONS FOR HFPEF IS NOW ONE OF THE MAJOR UNMET NEEDS IN THE MEDICAL FIELD AND MAY BE DUE ALSO TO THE LARGE PHENOTYPIC HETEROGENEITY OBSERVED IN PATIENTS. IN FACT, HFPEF PHENOTYPIC DIVERSITY REPRESENTS AN OBSTACLE FOR TIMELY DIAGNOSIS OF HFPEF AND IS NOT ENTIRELY CAPTURED BY MOST PRECLINICAL ANIMAL MODELS AND CLINICAL TRIALS. SEX DIFFERENCES ARE THOUGHT TO CONTRIBUTE TO THIS PHENOTYPIC VARIABILITY. INDEED, HFPEF IS MORE COMMON IN WOMEN, WHO EXPERIENCE WORSE SYMPTOMS BUT HAVE LOWER RISK OF MORTALITY THAN MEN. OVERALL, HFPEF PHENOTYPIC HETEROGENEITY HAMPERS OUR UNDERSTANDING OF THE MECHANISMS UNDERLYING ALTERED EXCITATION- CONTRACTION COUPLING (ECC) AND INCREASED PROPENSITY FOR VENTRICULAR ARRHYTHMIAS (I.E., ONE OF THE LEADING CAUSES OF DEATH AMONG HFPEF PATIENTS). OUR OVERARCHING HYPOTHESIS IS THAT, BECAUSE OF THE PRESENCE OF DIFFERENT HFPEF SUBPHENOTYPES, AN EFFECTIVE THERAPY MAY BENEFIT FROM A SUBGROUP-TARGETED APPROACH. WE HAVE PREVIOUSLY DEMONSTRATED THE POWER OF MECHANISTIC MODELING AND DATA-DRIVEN PRECISION MEDICINE TECHNIQUES TO CLASSIFY AND DISCRIMINATE CARDIAC PHENOTYPES. IN THIS PROJECT, WE PROPOSE A NOVEL INTEGRATIVE COMPUTATIONAL/EXPERIMENTAL APPROACH AIMED AT I) IDENTIFYING THE KEY MOLECULAR AND CELLULAR FUNCTIONAL CHANGES IN HFPEF IN A PRECLINICAL ANIMAL MODEL, AND II) CONCOMITANTLY INVESTIGATING THE IMPACT OF HFPEF HETEROGENEITY IN DISEASE MECHANISMS AND THERAPY. INFORMED BY NOVEL FUNCTIONAL AND TRANSCRIPTOMIC DATA, WE WILL DEVELOP A REFINED MODELING PLATFORM THAT ALLOWS FOR NEW QUANTITATIVE PREDICTIONS AMENABLE TO EXPERIMENTAL TESTING, AS WELL AS TRANSLATION OF EXPERIMENTAL FINDINGS ACROSS SPECIES. IN SYNERGY WITH THE NHLBI INITIATIVES HEARTSHARE AND ACCELERATING MEDICINES PARTNERSHIP, COMPLETION OF THE STUDIES PROPOSED IN THIS PROJECT WILL PROVIDE NEW MECHANISTIC INSIGHTS INTO HFPEF PHENOTYPIC DIVERSITY IN CONTRACTILE DYSFUNCTION AND ARRHYTHMOGENESIS AND HELP TARGETING NEW THERAPEUTIC STRATEGIES TO DIFFERENT SUBPOPULATIONS OF HFPEF PATIENTS.",
+    "total_obligation": 1198684,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-06-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 389641.9,
+    "total_account_obligation": 1198684,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 389641.9
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1198684
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-05-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 389641.9
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89446059,
+    "Award ID": "MG-40-18-0005-18",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 857615.99,
+    "Total Outlays": 771267.61,
+    "Description": "OVER A THREE-YEAR PERIOD, THE LAWRENCE HALL OF SCIENCE WILL CONDUCT RESEARCH ON THE CONVERSATIONS OF GROUPS AND FAMILIES ENCOUNTERING AN AUGMENTED REALITY (AR) EXPERIENCE IN A MUSEUM ENVIRONMENT. THE RESEARCH PROGRAM WILL IDENTIFY WHICH DESIGN ELEMENTS BEST FACILITATE CONVERSATIONS AMONG GROUPS OF VISITORS, AND DETERMINE IF THESE CONVERSATIONS ARE BOTH RICH IN SCIENTIFIC CONTENT AND GENDER-BALANCED. THE PROJECT WILL FOCUS ON FOUR SPECIFIC ACTIVITIES:  UNDERSTANDING THE LEARNING ASSOCIATED WITH CURRENT AR ACTIVITIES, IMPLEMENTING DESIGN-BASED RESEARCH TO DEVELOP VISITOR CONVERSATION SUPPORTS, DESIGNING AND DEVELOPING NEW AR PROGRAMS WITH EMBEDDED CONVERSATION SUPPORTS, AND CONDUCTING ITERATIVE HYPOTHESIS-BASED RESEARCH ON HOW LEARNING CONVERSATIONS HAPPEN IN AR LEARNING ENVIRONMENTS. THE MUSEUM COMMUNITY WILL GAIN INSIGHTS ON DESIGN PRINCIPLES FOR SUPPORTING COLLABORATIVE LEARNING USING AR. PROJECT STAFF WILL DISSEMINATE RESULTS VIA CONFERENCE WORKSHOPS FOR MUSEUM PROFESSIONALS ON DESIGNING AR TO ENHANCE FAMILY LEARNING, AND THROUGH PUBLICATION IN PROFESSIONAL JOURNALS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "1608 4TH STREET",
+      "address_line2": "SUITE 220",
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1749",
+      "zip5": "94710"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94710-1749",
+      "zip5": "94710"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Institute of Museum and Library Services",
+    "Awarding Sub Agency": "Institute of Museum and Library Services",
+    "Start Date": "2018-10-01",
+    "End Date": "2023-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_MG-40-18-0005-18_474",
+    "awarding_agency_id": 1474,
+    "agency_slug": "institute-of-museum-and-library-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89446059,
+    "generated_unique_award_id": "ASST_NON_MG-40-18-0005-18_474",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "OVER A THREE-YEAR PERIOD, THE LAWRENCE HALL OF SCIENCE WILL CONDUCT RESEARCH ON THE CONVERSATIONS OF GROUPS AND FAMILIES ENCOUNTERING AN AUGMENTED REALITY (AR) EXPERIENCE IN A MUSEUM ENVIRONMENT. THE RESEARCH PROGRAM WILL IDENTIFY WHICH DESIGN ELEMENTS BEST FACILITATE CONVERSATIONS AMONG GROUPS OF VISITORS, AND DETERMINE IF THESE CONVERSATIONS ARE BOTH RICH IN SCIENTIFIC CONTENT AND GENDER-BALANCED. THE PROJECT WILL FOCUS ON FOUR SPECIFIC ACTIVITIES:  UNDERSTANDING THE LEARNING ASSOCIATED WITH CURRENT AR ACTIVITIES, IMPLEMENTING DESIGN-BASED RESEARCH TO DEVELOP VISITOR CONVERSATION SUPPORTS, DESIGNING AND DEVELOPING NEW AR PROGRAMS WITH EMBEDDED CONVERSATION SUPPORTS, AND CONDUCTING ITERATIVE HYPOTHESIS-BASED RESEARCH ON HOW LEARNING CONVERSATIONS HAPPEN IN AR LEARNING ENVIRONMENTS. THE MUSEUM COMMUNITY WILL GAIN INSIGHTS ON DESIGN PRINCIPLES FOR SUPPORTING COLLABORATIVE LEARNING USING AR. PROJECT STAFF WILL DISSEMINATE RESULTS VIA CONFERENCE WORKSHOPS FOR MUSEUM PROFESSIONALS ON DESIGNING AR TO ENHANCE FAMILY LEARNING, AND THROUGH PUBLICATION IN PROFESSIONAL JOURNALS.",
+    "total_obligation": 857615.99,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2018-08-20",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 771267.61,
+    "total_account_obligation": -0.01,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 771267.61
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -0.01
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 1474,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Institute of Museum and Library Services",
+        "code": "474",
+        "abbreviation": "IMLS",
+        "slug": "institute-of-museum-and-library-services"
+      },
+      "subtier_agency": {
+        "name": "Institute of Museum and Library Services",
+        "code": "5300",
+        "abbreviation": "IMLS"
+      },
+      "office_agency_name": "INSTITUTE OF MUSEUM  LIBRARY SVCS"
+    },
+    "awarding_agency": {
+      "id": 1423,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Institute of Museum and Library Services",
+        "code": "474",
+        "abbreviation": "IMLS",
+        "slug": "institute-of-museum-and-library-services"
+      },
+      "subtier_agency": {
+        "name": "Institute of Museum and Library Services",
+        "code": "5950",
+        "abbreviation": "IMLS"
+      },
+      "office_agency_name": "INSTITUTE OF MUSEUM  LIBRARY SVCS"
+    },
+    "period_of_performance": {
+      "start_date": "2018-10-01",
+      "end_date": "2023-03-31",
+      "last_modified_date": "2023-07-14",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1608 4TH STREET",
+        "address_line2": "SUITE 220",
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "1749",
+        "zip5": "94710",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "1749",
+      "zip5": "94710",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 771267.61
+  }
+}

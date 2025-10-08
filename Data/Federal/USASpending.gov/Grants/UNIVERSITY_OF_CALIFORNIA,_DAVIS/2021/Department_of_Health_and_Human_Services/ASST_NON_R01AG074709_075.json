@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91123646,
+    "Award ID": "R01AG074709",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1880148.38,
+    "Total Outlays": 1001419.73,
+    "Description": "TRAFFIC-RELATED AIR POLLUTION EXACERBATES AD-RELEVANT PHENOTYPES IN A GENETICALLY SUSCEPTIBLE RAT MODEL VIA NEUROINFLAMMATORY MECHANISM(S) - PROJECT SUMMARY ALZHEIMER’S DISEASE (AD) IS THE MOST PREVALENT AGE-RELATED NEURODEGENERATIVE DISEASE IN THE UNITED STATES. MORE THAN 90% OF CASES ARE IDIOPATHIC AND THERE IS GROWING CONSENSUS THAT GENE X ENVIRONMENT INTERACTIONS INFLUENCE THE AGE OF ONSET AND PROGRESSION OF THIS DEVASTATING DISEASE. EPIDEMIOLOGICAL STUDIES HAVE REPORTED A POSITIVE CORRELATION BETWEEN EXPOSURE TO TRAFFIC-RELATED AIR POLLUTION (TRAP) AND THE OCCURRENCE OF THE HALLMARK CLINICAL CHARACTERISTICS OF AD. PRECLINICAL STUDIES SUPPORT A CAUSAL RELATIONSHIP BETWEEN TRAP AND INCREASED AD RISK, BUT MANY OF THESE STUDIES USED CONCENTRATED AMBIENT PARTICLES OR DIESEL EXHAUST THAT DO NOT RECAPITULATE THE COMPLEXITY OF CURRENT REAL-WORLD TRAP EXPOSURES. WE HAVE DESIGNED A UNIQUE EXPOSURE MODEL IN WHICH TGF344-AD RATS EXPRESSING HUMAN AD SUSCEPTIBILITY GENES ARE EXPOSED IN REAL-TIME TO TRAP COLLECTED FROM A MAJOR FREEWAY TUNNEL SYSTEM, WHICH PRESERVES THE GASEOUS AND PARTICULATE COMPONENTS OF REAL-WORLD TRAP AND CAPTURES DAILY FLUCTUATIONS IN POLLUTANT LEVELS. WE WILL LEVERAGE THIS MODEL TO TEST OUR CENTRAL HYPOTHESIS THAT TRAP DECREASES THE TIME TO ONSET AND/OR INCREASES SEVERITY OF AD-LIKE PHENOTYPES VIA MICROGLIAL CELL ACTIVATION SECONDARY TO LUNG INFLAMMATION BY ADDRESSING THE FOLLOWING SPECIFIC AIMS: (1) DETERMINE WHICH VEHICLE EMISSION COMPONENT(S) CAUSE NEUROINFLAMMATION AND NEURODEGENERATION IN THE TGF344-AD RAT; AND (2) INVESTIGATE THE ROLE OF THE LUNG-BRAIN AXIS IN MEDIATING TRAP EFFECTS ON AD PHENOTYPES IN THE GENETICALLY SUSCEPTIBLE TGF344-AD RAT. IN AIM 1, MALE AND FEMALE TGF344-AD RATS WILL BE TRANSPORTED TO THE TUNNEL VIVARIUM AT 1 MONTH OF AGE AND THEN EXPOSED TO GASES, PARTICULATE MATTER (PM), OR BOTH FROM LIGHT DUTY ONLY VS. LIGHT AND HEAVY-DUTY VEHICLE EXHAUST. OUTCOMES INCLUDING BLOOD BRAIN BARRIER (BBB) INTEGRITY, PARTICULATE MATTER IN THE BRAIN, MICROGLIAL AND ASTROGLIAL ACTIVATION, AD-RELEVANT PATHOLOGY, LUNG PATHOLOGY, AND SPATIOTEMPORAL PROFILES OF SOLUBLE INFLAMMATORY MEDIATORS AND IMMUNE CELLS IN THE LUNG, BLOOD, AND BRAIN, WILL BE ASSESSED AT 4, 9, 12, AND 15 MONTHS OF AGE. IN AIM 2, WE WILL ASSESS THE CONTRIBUTIONS OF PULMONARY INFLAMMATION AND MICROGLIAL ACTIVATION TO TRAP EFFECTS ON AD BY QUANTIFYING AD PHENOTYPES IN TRAP-EXPOSED MALE AND FEMALE TGF344-AD RATS FED CHOW SUPPLEMENTED WITH PIRFENIDONE OR SENICAPOC, WHICH BLOCK PULMONARY FIBROSIS VIA INHIBITION OF TGF-Β SIGNALING OR INHIBITION OF KCA3.1 ION CHANNELS, RESPECTIVELY. OUTCOMES, WHICH INCLUDE COGNITIVE BEHAVIOR PLUS THE ENDPOINTS MEASURED IN AIM 1, WILL BE ASSESSED AT 12 AND 15 MONTHS OF AGE. OUR BROAD LONG-TERM OBJECTIVES ARE TO INFORM REGULATORY AND HEALTH INTERVENTIONS AIMED AT REDUCING AD RISK FOR INDIVIDUALS LIVING, WORKING, OR ATTENDING SCHOOL NEAR BUSY ROADWAYS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-05-01",
+    "End Date": "2026-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG074709_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91123646,
+    "generated_unique_award_id": "ASST_NON_R01AG074709_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TRAFFIC-RELATED AIR POLLUTION EXACERBATES AD-RELEVANT PHENOTYPES IN A GENETICALLY SUSCEPTIBLE RAT MODEL VIA NEUROINFLAMMATORY MECHANISM(S) - PROJECT SUMMARY ALZHEIMER’S DISEASE (AD) IS THE MOST PREVALENT AGE-RELATED NEURODEGENERATIVE DISEASE IN THE UNITED STATES. MORE THAN 90% OF CASES ARE IDIOPATHIC AND THERE IS GROWING CONSENSUS THAT GENE X ENVIRONMENT INTERACTIONS INFLUENCE THE AGE OF ONSET AND PROGRESSION OF THIS DEVASTATING DISEASE. EPIDEMIOLOGICAL STUDIES HAVE REPORTED A POSITIVE CORRELATION BETWEEN EXPOSURE TO TRAFFIC-RELATED AIR POLLUTION (TRAP) AND THE OCCURRENCE OF THE HALLMARK CLINICAL CHARACTERISTICS OF AD. PRECLINICAL STUDIES SUPPORT A CAUSAL RELATIONSHIP BETWEEN TRAP AND INCREASED AD RISK, BUT MANY OF THESE STUDIES USED CONCENTRATED AMBIENT PARTICLES OR DIESEL EXHAUST THAT DO NOT RECAPITULATE THE COMPLEXITY OF CURRENT REAL-WORLD TRAP EXPOSURES. WE HAVE DESIGNED A UNIQUE EXPOSURE MODEL IN WHICH TGF344-AD RATS EXPRESSING HUMAN AD SUSCEPTIBILITY GENES ARE EXPOSED IN REAL-TIME TO TRAP COLLECTED FROM A MAJOR FREEWAY TUNNEL SYSTEM, WHICH PRESERVES THE GASEOUS AND PARTICULATE COMPONENTS OF REAL-WORLD TRAP AND CAPTURES DAILY FLUCTUATIONS IN POLLUTANT LEVELS. WE WILL LEVERAGE THIS MODEL TO TEST OUR CENTRAL HYPOTHESIS THAT TRAP DECREASES THE TIME TO ONSET AND/OR INCREASES SEVERITY OF AD-LIKE PHENOTYPES VIA MICROGLIAL CELL ACTIVATION SECONDARY TO LUNG INFLAMMATION BY ADDRESSING THE FOLLOWING SPECIFIC AIMS: (1) DETERMINE WHICH VEHICLE EMISSION COMPONENT(S) CAUSE NEUROINFLAMMATION AND NEURODEGENERATION IN THE TGF344-AD RAT; AND (2) INVESTIGATE THE ROLE OF THE LUNG-BRAIN AXIS IN MEDIATING TRAP EFFECTS ON AD PHENOTYPES IN THE GENETICALLY SUSCEPTIBLE TGF344-AD RAT. IN AIM 1, MALE AND FEMALE TGF344-AD RATS WILL BE TRANSPORTED TO THE TUNNEL VIVARIUM AT 1 MONTH OF AGE AND THEN EXPOSED TO GASES, PARTICULATE MATTER (PM), OR BOTH FROM LIGHT DUTY ONLY VS. LIGHT AND HEAVY-DUTY VEHICLE EXHAUST. OUTCOMES INCLUDING BLOOD BRAIN BARRIER (BBB) INTEGRITY, PARTICULATE MATTER IN THE BRAIN, MICROGLIAL AND ASTROGLIAL ACTIVATION, AD-RELEVANT PATHOLOGY, LUNG PATHOLOGY, AND SPATIOTEMPORAL PROFILES OF SOLUBLE INFLAMMATORY MEDIATORS AND IMMUNE CELLS IN THE LUNG, BLOOD, AND BRAIN, WILL BE ASSESSED AT 4, 9, 12, AND 15 MONTHS OF AGE. IN AIM 2, WE WILL ASSESS THE CONTRIBUTIONS OF PULMONARY INFLAMMATION AND MICROGLIAL ACTIVATION TO TRAP EFFECTS ON AD BY QUANTIFYING AD PHENOTYPES IN TRAP-EXPOSED MALE AND FEMALE TGF344-AD RATS FED CHOW SUPPLEMENTED WITH PIRFENIDONE OR SENICAPOC, WHICH BLOCK PULMONARY FIBROSIS VIA INHIBITION OF TGF-Β SIGNALING OR INHIBITION OF KCA3.1 ION CHANNELS, RESPECTIVELY. OUTCOMES, WHICH INCLUDE COGNITIVE BEHAVIOR PLUS THE ENDPOINTS MEASURED IN AIM 1, WILL BE ASSESSED AT 12 AND 15 MONTHS OF AGE. OUR BROAD LONG-TERM OBJECTIVES ARE TO INFORM REGULATORY AND HEALTH INTERVENTIONS AIMED AT REDUCING AD RISK FOR INDIVIDUALS LIVING, WORKING, OR ATTENDING SCHOOL NEAR BUSY ROADWAYS.",
+    "total_obligation": 1880148.38,
+    "subaward_count": 1,
+    "total_subaward_amount": 46993,
+    "date_signed": "2024-05-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1001419.73,
+    "total_account_obligation": 1819276.38,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1001419.73
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1819276.38
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-05-01",
+      "end_date": "2026-04-30",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1001419.73
+  }
+}

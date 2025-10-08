@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91324731,
+    "Award ID": "R33CA251006",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 1109510.64,
+    "Total Outlays": 1009254.87,
+    "Description": "MICROFLUIDIC TUMOR TISSUE PROCESSING PLATFORM FOR SINGLE CELL DIAGNOSTICS - ABSTRACT SOLID TUMORS ARE DIVERSE ECOSYSTEMS OF DIFFERENT CELL TYPES, AND THIS HETEROGENEITY HAS BEEN IMPLICATED AS A KEY FACTOR DRIVING DISEASE PROGRESSION, METASTASIS, AND DRUG RESISTANCE. INCREASINGLY, SINGLE CELL ANALYSIS METHODS ARE BEING USED TO DEFINE CELLULAR SUBSETS WITHIN TUMORS TO ADDRESS BIOLOGICAL AND THERAPEUTIC QUESTIONS. HOWEVER, THE NEED TO FIRST CONVERT TISSUE INTO SINGLE CELLS IS A SIGNIFICANT BARRIER TO MORE WIDESPREAD USE, PARTICULARLY IN CLINICAL SETTINGS. CURRENT TUMOR DISSOCIATION METHODS ARE LONG, INEFFICIENT, AND NOT STANDARDIZED. MOREOVER, THERE REMAINS A QUESTION AS TO WHETHER CERTAIN CELL SUBTYPES ARE EASIER TO RELEASE THAN OTHERS, WHICH WOULD BIAS RESULTS. IN PREVIOUS WORK, WE DEVELOPED NOVEL MICROFLUIDIC DEVICES THAT UTILIZED HYDRODYNAMIC FORCES TO BREAK DOWN TISSUE INTO SINGLE CELLS. WE HAVE ALREADY SHOWN EXCELLENT PERFORMANCE USING IN VITRO TUMOR CELL AGGREGATES AND MOUSE ORGANS, SIGNIFICANTLY ENHANCING SINGLE CELL RECOVERY AND DECREASING PROCESSED TIME. IN THIS PROPOSAL, WE WILL DEVELOP AN INTEGRATED MICROFLUIDIC PLATFORM THAT WILL RADICALLY CHANGE THE WAY TUMOR TISSUE IS DISSOCIATED INTO SINGLE CELLS, AND THUS FACILITATE SINGLE CELL DIAGNOSTICS. THIS WILL INVOLVE FOUR SEPARATE MICROFLUIDIC DEVICE TECHNOLOGIES THAT WE HAVE PIONEERED IN PUBLISHED OR PRELIMINARY WORK. THESE DEVICES WERE DESIGNED TO WORK SEQUENTIALLY, WITH EACH OPERATING AT A DIFFERENT SIZE SCALE STARTING FROM TUMOR TISSUE SPECIMEN (DIGESTION), THROUGH LARGE AGGREGATES (DISSOCIATION) AND CLUSTERS (FILTER), AND FINALLY ELUTING A SUSPENSION OF 100% SINGLE CELLS (ACOUSTO-ELUTION). ANY REMAINING CELL CLUSTERS WILL BE RECIRCULATED BACK INTO THE FRONT END OF THE DEVICE TO MAXIMIZE CELL RECOVERY. SINGLE CELLS WILL BE CONTINUOUSLY ELUTED FROM THE SYSTEM AS SOON AS THEY ARE READY, WITHIN MINUTES AFTER DISSOCIATION, TO PREVENT OVER TREATMENT AND MAINTAIN VIABILITY. WE WILL FIRST DEVELOP AND OPTIMIZE EACH DEVICE SEPARATELY USING HUMAN BREAST, PANCREATIC, AND PROSTATE TUMOR TISSUE SPECIMENS. NEXT WE WILL INTEGRATE ALL DEVICES INTO A VERSATILE SYSTEM THAT WILL OPERATE ONE, MULTIPLE, OR ALL DEVICES, AS WELL AS ESTABLISH CONTINUOUS PROCESSING. FINALLY, WE WILL RIGOROUSLY EVALUATE SUSPENSIONS USING SINGLE CELL RNA SEQUENCING (SCRNASEQ) TO ASSESS WHETHER CELL SUB-TYPES ARE BIASED BY ANY DEVICE COMPONENT AND/OR ELUTE WITH DIFFERENT TIME-COURSES UNDER CONTINUOUS PROCESSING. THE SPECIFIC AIMS FOR THIS 3 YEAR PROJECT INCLUDE: (1) OPTIMIZE MICROFLUIDIC DEVICES USING HUMAN TUMOR TISSUE SPECIMENS, (2) DEVELOP THE ACOUSTO-ELUTION DEVICE, (3) INTEGRATE ALL DEVICES AND ESTABLISH CONTINUOUS PROCESSING, AND (4) EVALUATE DEVICE PROCESSED CELLS FOR BIASING AND ELUTION DYNAMICS USING SCRNASEQ. OUR MICROFLUIDIC DEVICE PLATFORM TECHNOLOGY WILL DIRECTLY IMPACT SINGLE CELL ANALYSIS OF TUMOR TISSUES, INCLUDING THE EMERGING AND POTENTIALLY TRANSFORMATIVE METHOD SCRNASEQ. PENETRATION OF SCRNASEQ INTO CLINICAL SETTINGS WOULD HELP USHER IN AN ERA OF PRECISION MOLECULAR MEDICINE BY PROVIDING AN INITIAL SURVEY OF THE CELLULAR LANDSCAPE FOR PROGNOSTIC AND THERAPEUTIC SIGNATURES. OUR DEVICE WILL ADVANCE THESE GOALS BY AUTOMATING THE DISSOCIATION WORKFLOW, INCREASING EFFICIENCY, MINIMIZING TISSUE PRE-PROCESSING, ELIMINATING BIAS, AND CONTINUOUSLY ELUTING SINGLE CELLS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92697",
+      "zip5": "92697"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-05-01",
+    "End Date": "2024-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R33CA251006_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91324731,
+    "generated_unique_award_id": "ASST_NON_R33CA251006_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MICROFLUIDIC TUMOR TISSUE PROCESSING PLATFORM FOR SINGLE CELL DIAGNOSTICS - ABSTRACT SOLID TUMORS ARE DIVERSE ECOSYSTEMS OF DIFFERENT CELL TYPES, AND THIS HETEROGENEITY HAS BEEN IMPLICATED AS A KEY FACTOR DRIVING DISEASE PROGRESSION, METASTASIS, AND DRUG RESISTANCE. INCREASINGLY, SINGLE CELL ANALYSIS METHODS ARE BEING USED TO DEFINE CELLULAR SUBSETS WITHIN TUMORS TO ADDRESS BIOLOGICAL AND THERAPEUTIC QUESTIONS. HOWEVER, THE NEED TO FIRST CONVERT TISSUE INTO SINGLE CELLS IS A SIGNIFICANT BARRIER TO MORE WIDESPREAD USE, PARTICULARLY IN CLINICAL SETTINGS. CURRENT TUMOR DISSOCIATION METHODS ARE LONG, INEFFICIENT, AND NOT STANDARDIZED. MOREOVER, THERE REMAINS A QUESTION AS TO WHETHER CERTAIN CELL SUBTYPES ARE EASIER TO RELEASE THAN OTHERS, WHICH WOULD BIAS RESULTS. IN PREVIOUS WORK, WE DEVELOPED NOVEL MICROFLUIDIC DEVICES THAT UTILIZED HYDRODYNAMIC FORCES TO BREAK DOWN TISSUE INTO SINGLE CELLS. WE HAVE ALREADY SHOWN EXCELLENT PERFORMANCE USING IN VITRO TUMOR CELL AGGREGATES AND MOUSE ORGANS, SIGNIFICANTLY ENHANCING SINGLE CELL RECOVERY AND DECREASING PROCESSED TIME. IN THIS PROPOSAL, WE WILL DEVELOP AN INTEGRATED MICROFLUIDIC PLATFORM THAT WILL RADICALLY CHANGE THE WAY TUMOR TISSUE IS DISSOCIATED INTO SINGLE CELLS, AND THUS FACILITATE SINGLE CELL DIAGNOSTICS. THIS WILL INVOLVE FOUR SEPARATE MICROFLUIDIC DEVICE TECHNOLOGIES THAT WE HAVE PIONEERED IN PUBLISHED OR PRELIMINARY WORK. THESE DEVICES WERE DESIGNED TO WORK SEQUENTIALLY, WITH EACH OPERATING AT A DIFFERENT SIZE SCALE STARTING FROM TUMOR TISSUE SPECIMEN (DIGESTION), THROUGH LARGE AGGREGATES (DISSOCIATION) AND CLUSTERS (FILTER), AND FINALLY ELUTING A SUSPENSION OF 100% SINGLE CELLS (ACOUSTO-ELUTION). ANY REMAINING CELL CLUSTERS WILL BE RECIRCULATED BACK INTO THE FRONT END OF THE DEVICE TO MAXIMIZE CELL RECOVERY. SINGLE CELLS WILL BE CONTINUOUSLY ELUTED FROM THE SYSTEM AS SOON AS THEY ARE READY, WITHIN MINUTES AFTER DISSOCIATION, TO PREVENT OVER TREATMENT AND MAINTAIN VIABILITY. WE WILL FIRST DEVELOP AND OPTIMIZE EACH DEVICE SEPARATELY USING HUMAN BREAST, PANCREATIC, AND PROSTATE TUMOR TISSUE SPECIMENS. NEXT WE WILL INTEGRATE ALL DEVICES INTO A VERSATILE SYSTEM THAT WILL OPERATE ONE, MULTIPLE, OR ALL DEVICES, AS WELL AS ESTABLISH CONTINUOUS PROCESSING. FINALLY, WE WILL RIGOROUSLY EVALUATE SUSPENSIONS USING SINGLE CELL RNA SEQUENCING (SCRNASEQ) TO ASSESS WHETHER CELL SUB-TYPES ARE BIASED BY ANY DEVICE COMPONENT AND/OR ELUTE WITH DIFFERENT TIME-COURSES UNDER CONTINUOUS PROCESSING. THE SPECIFIC AIMS FOR THIS 3 YEAR PROJECT INCLUDE: (1) OPTIMIZE MICROFLUIDIC DEVICES USING HUMAN TUMOR TISSUE SPECIMENS, (2) DEVELOP THE ACOUSTO-ELUTION DEVICE, (3) INTEGRATE ALL DEVICES AND ESTABLISH CONTINUOUS PROCESSING, AND (4) EVALUATE DEVICE PROCESSED CELLS FOR BIASING AND ELUTION DYNAMICS USING SCRNASEQ. OUR MICROFLUIDIC DEVICE PLATFORM TECHNOLOGY WILL DIRECTLY IMPACT SINGLE CELL ANALYSIS OF TUMOR TISSUES, INCLUDING THE EMERGING AND POTENTIALLY TRANSFORMATIVE METHOD SCRNASEQ. PENETRATION OF SCRNASEQ INTO CLINICAL SETTINGS WOULD HELP USHER IN AN ERA OF PRECISION MOLECULAR MEDICINE BY PROVIDING AN INITIAL SURVEY OF THE CELLULAR LANDSCAPE FOR PROGNOSTIC AND THERAPEUTIC SIGNATURES. OUR DEVICE WILL ADVANCE THESE GOALS BY AUTOMATING THE DISSOCIATION WORKFLOW, INCREASING EFFICIENCY, MINIMIZING TISSUE PRE-PROCESSING, ELIMINATING BIAS, AND CONTINUOUSLY ELUTING SINGLE CELLS.",
+    "total_obligation": 1109510.64,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-04-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1009254.87,
+    "total_account_obligation": 1109510.64,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1009254.87
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1109510.64
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2021-05-01",
+      "end_date": "2024-04-30",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1009254.87
+  }
+}

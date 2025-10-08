@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92618191,
+    "Award ID": "U01NS137449",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 1480320,
+    "Total Outlays": 633061,
+    "Description": "OPTIMIZING FACED FOR ROBUST LARGE-SCALE ACTIVITY RECORDING - SUMMARY/ABSTRACT A LONGSTANDING CHALLENGE IN NEUROSCIENCE IS HOW TO MONITOR NEURONAL SIGNALING AND ACTIVITY AT CELLULAR RESOLUTION OVER A LARGE AREA/VOLUME WITH MILLISECOND TIME RESOLUTION. AT HIGH FRAME RATES, CONVENTIONAL TWO-PHOTON FLUORESCENCE MICROSCOPY (2PFM) METHODS ARE LIMITED IN THEIR ACHIEVABLE FIELDS OF VIEW BY THEIR POINT-SCANNING MECHANISMS. ALTHOUGH CAMERA-BASED ONE-PHOTON WIDEFIELD FLUORESCENCE MICROSCOPY (1PWM) CAN BE USED TO IMAGE FAST ACTIVITY EVENTS AT KILOHERTZ FRAME RATES, IT REQUIRES SPARSE FLUORESCENCE LABELING/EXCITATION AND IS LIMITED TO SUPERFICIAL TISSUE DEPTHS. PREVIOUSLY, WE IMPLEMENTED AN ALL-OPTICAL AND PASSIVE ULTRAFAST LASER-SCANNING TECHNIQUE CALLED FREE-SPACE ANGULAR-CHIRP-ENHANCED DELAY (FACED) IN 2PFM. CAPABLE OF GENERATING MILLIONS OF LINE SCANS PER SECOND, OUR FACED MODULE HAS ENABLED 2PFM TO IMAGE LARGE FIELDS OF VIEW AT KILOHERTZ FRAME RATES. APPLYING FACED 2PFM TO THE MOUSE BRAIN IN VIVO, WE RECORDED SUPRA- AND SUB-THRESHOLD ELECTRICAL ACTIVITY AND CHARACTERIZED ULTRAFAST CORTICAL BLOOD FLOW DYNAMICS DEEP BELOW THE BRAIN SURFACE. HERE, WE AIM TO FURTHER OPTIMIZE FACED TECHNOLOGY TO MAXIMIZE ITS ACCESSIBILITY AND IMPACT. FIRST, WE WILL DEVELOP A FACED MODULE WITH FULLY MOTORIZED POSITIONING AND ACTIVE BEAM STABILIZATION, TO ENABLE ALIGNMENT-FREE OPERATION WITH FLEXIBLE CONFIGURATION. WE WILL ALSO BUILD SOFTWARE SUPPORT FOR FACED DATA ACQUISITION INTO SCANIMAGE, A WIDELY USED 2PFM CONTROL PROGRAM. TOGETHER, THE DEVELOPMENT OF USER-FRIENDLY HARDWARE AND SOFTWARE WILL FACILITATE THE ADOPTION OF FACED IN LABS THAT SPECIALIZE IN BIOLOGICAL APPLICATIONS. NEXT, WE WILL EXPAND THE IMPACT OF FACED ON FAST NEURAL IMAGING INTO THE MESOSCALE BY INTEGRATING A FACED MODULE INTO A TWO-PHOTON MESOSCOPE, WITH THE RESULTING 10-30× SPEED GAIN ENABLING THE RECORDING OF NEURONAL ACTIVITY OVER 20 MM2 IN VIVO. FINALLY, TO OVERCOME THE LIMITATIONS OF 1PWM IN VOLTAGE IMAGING, WE WILL BUILD A KILOHERTZ-FRAME-RATE SINGLE-PHOTON CONFOCAL MICROSCOPE USING FACED TO ENABLE VOLTAGE IMAGING IN BOTH SPARSELY AND DENSELY LABELED BRAINS, WHILE DEVELOPING NEW FAR-RED VOLTAGE SENSORS TO MAXIMIZE THE IMAGING DEPTH OF THIS APPROACH. THE PROPOSED WORK WILL SUBSTANTIALLY BROADEN THE IMPACT OF FACED TECHNOLOGY BY MAKING IT ACCESSIBLE TO AND CAPABLE OF ANSWERING A WIDE VARIETY OF NEUROSCIENCE QUESTIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "1608 4TH ST STE 201",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1749",
+      "zip5": "94710"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "947200001",
+      "zip5": "94720"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-01",
+    "End Date": "2028-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U01NS137449_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92618191,
+    "generated_unique_award_id": "ASST_NON_U01NS137449_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "OPTIMIZING FACED FOR ROBUST LARGE-SCALE ACTIVITY RECORDING - SUMMARY/ABSTRACT A LONGSTANDING CHALLENGE IN NEUROSCIENCE IS HOW TO MONITOR NEURONAL SIGNALING AND ACTIVITY AT CELLULAR RESOLUTION OVER A LARGE AREA/VOLUME WITH MILLISECOND TIME RESOLUTION. AT HIGH FRAME RATES, CONVENTIONAL TWO-PHOTON FLUORESCENCE MICROSCOPY (2PFM) METHODS ARE LIMITED IN THEIR ACHIEVABLE FIELDS OF VIEW BY THEIR POINT-SCANNING MECHANISMS. ALTHOUGH CAMERA-BASED ONE-PHOTON WIDEFIELD FLUORESCENCE MICROSCOPY (1PWM) CAN BE USED TO IMAGE FAST ACTIVITY EVENTS AT KILOHERTZ FRAME RATES, IT REQUIRES SPARSE FLUORESCENCE LABELING/EXCITATION AND IS LIMITED TO SUPERFICIAL TISSUE DEPTHS. PREVIOUSLY, WE IMPLEMENTED AN ALL-OPTICAL AND PASSIVE ULTRAFAST LASER-SCANNING TECHNIQUE CALLED FREE-SPACE ANGULAR-CHIRP-ENHANCED DELAY (FACED) IN 2PFM. CAPABLE OF GENERATING MILLIONS OF LINE SCANS PER SECOND, OUR FACED MODULE HAS ENABLED 2PFM TO IMAGE LARGE FIELDS OF VIEW AT KILOHERTZ FRAME RATES. APPLYING FACED 2PFM TO THE MOUSE BRAIN IN VIVO, WE RECORDED SUPRA- AND SUB-THRESHOLD ELECTRICAL ACTIVITY AND CHARACTERIZED ULTRAFAST CORTICAL BLOOD FLOW DYNAMICS DEEP BELOW THE BRAIN SURFACE. HERE, WE AIM TO FURTHER OPTIMIZE FACED TECHNOLOGY TO MAXIMIZE ITS ACCESSIBILITY AND IMPACT. FIRST, WE WILL DEVELOP A FACED MODULE WITH FULLY MOTORIZED POSITIONING AND ACTIVE BEAM STABILIZATION, TO ENABLE ALIGNMENT-FREE OPERATION WITH FLEXIBLE CONFIGURATION. WE WILL ALSO BUILD SOFTWARE SUPPORT FOR FACED DATA ACQUISITION INTO SCANIMAGE, A WIDELY USED 2PFM CONTROL PROGRAM. TOGETHER, THE DEVELOPMENT OF USER-FRIENDLY HARDWARE AND SOFTWARE WILL FACILITATE THE ADOPTION OF FACED IN LABS THAT SPECIALIZE IN BIOLOGICAL APPLICATIONS. NEXT, WE WILL EXPAND THE IMPACT OF FACED ON FAST NEURAL IMAGING INTO THE MESOSCALE BY INTEGRATING A FACED MODULE INTO A TWO-PHOTON MESOSCOPE, WITH THE RESULTING 10-30× SPEED GAIN ENABLING THE RECORDING OF NEURONAL ACTIVITY OVER 20 MM2 IN VIVO. FINALLY, TO OVERCOME THE LIMITATIONS OF 1PWM IN VOLTAGE IMAGING, WE WILL BUILD A KILOHERTZ-FRAME-RATE SINGLE-PHOTON CONFOCAL MICROSCOPE USING FACED TO ENABLE VOLTAGE IMAGING IN BOTH SPARSELY AND DENSELY LABELED BRAINS, WHILE DEVELOPING NEW FAR-RED VOLTAGE SENSORS TO MAXIMIZE THE IMAGING DEPTH OF THIS APPROACH. THE PROPOSED WORK WILL SUBSTANTIALLY BROADEN THE IMPACT OF FACED TECHNOLOGY BY MAKING IT ACCESSIBLE TO AND CAPABLE OF ANSWERING A WIDE VARIETY OF NEUROSCIENCE QUESTIONS.",
+    "total_obligation": 1480320,
+    "subaward_count": 1,
+    "total_subaward_amount": 198429,
+    "date_signed": "2024-08-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 633061,
+    "total_account_obligation": 1480320,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 633061
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1480320
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-01",
+      "end_date": "2028-08-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1608 4TH ST STE 201",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "1749",
+        "zip5": "94710",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "0001",
+      "zip5": "94720",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 633061
+  }
+}

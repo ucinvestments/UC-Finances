@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92635628,
+    "Award ID": "U54CA280811",
+    "Recipient Name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+    "Award Amount": 6509940,
+    "Total Outlays": 4182851.58,
+    "Description": "THE UPSTREAM CENTER: INCOME INTERVENTIONS TO ADDRESS THE FUNDAMENTAL CAUSES OF CANCER INEQUITIES - OVERALL COMPONENT: PROJECT SUMMARY/ABSTRACT PERSISTENT POVERTY ENVIRONMENTS IMPOSE PARTICULAR CHALLENGES FOR CANCER PREVENTION, WITH COMPLEX AND INTERSECTING FACTORS CREATING BARRIERS AT THE INDIVIDUAL, HEALTH SYSTEM, AND POPULATION LEVEL. IMPROVING CANCER OUTCOMES IN THESE AREAS REQUIRES TRANSFORMATIONAL, MULTISECTOR SOLUTIONS TARGETING FUNDAMENTAL CAUSES AND SOCIAL DETERMINANTS OF HEALTH, WITH RESEARCH AND POLICY DEVELOPMENT PROCESSES THAT ARE CO-CREATED WITH THE IMPACTED COMMUNITIES. TO ADDRESS THIS CHALLENGE, WE WILL FORM THE UPSTREAM RESEARCH CENTER, AN INNOVATIVE APPROACH TO THE FUNDAMENTAL PROBLEM OF INCOME DEPRIVATION BY LEVERAGING STATE PROGRAMS FOR GUARANTEED BASIC INCOME AND THE EARNED INCOME TAX CREDIT (EITC). OUR TEAM SCIENCE APPROACH TO THIS PROBLEM IS SUPPORTED BY THE UNPARALLELED RESOURCES AT STANFORD UNIVERSITY, THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO AND THE UNIVERSITY OF CALIFORNIA, DAVIS. OUR WORK ADVANCES MULTIPLE CONCEPTUAL AND METHODOLOGICAL INNOVATIONS THROUGH TWO MAIN RESEARCH PROJECTS: 1) AN ONGOING PARTNERSHIP WITH THE CALIFORNIA DEPARTMENT OF SOCIAL SERVICES TO ACCESS AND EVALUATE A $35M INTERVENTION OF GUARANTEED BASIC INCOME IN PERSISTENT POVERTY AREAS WITH A FOCUS ON MODIFIABLE CANCER RISK FACTORS AND INTERMEDIATE OUTCOMES; 2) THE IMPACT OF INCREASES IN INCOME SUPPORT THROUGH THE EITC, WHICH IN CALIFORNIA HAS A UNIQUE FOCUS ON LOWER INCOME WAGE EARNERS, AS WELL AS UNDOCUMENTED WORKERS. OUR SPECIFIC AIMS ARE TO: AIM 1. BUILD A COLLABORATIVE COMMUNITY OF RESIDENTS IN PERSISTENT POVERTY AREAS, POLICY MAKERS, TRAINEES, CANCER AND SOCIAL SCIENCE RESEARCHERS AND DATA SCIENTISTS THAT CO-CREATE PROGRAMS TO ADDRESS THE FUNDAMENTAL IMPACTS OF INCOME DEPRIVATION, AIM 2. EVALUATE THE IMPACT OF INCOME-BASED INTERVENTIONS IN DEMOGRAPHICALLY DIVERSE PERSISTENT POVERTY AREAS IN NORTHERN CA, AIM 3. DEVELOP A MATHEMATICAL MODEL, WITH COMMUNITY INPUT, THAT CAN ASSIST IN PREDICTING LONG-TERM IMPACTS OF INCOME-FOCUSED INTERVENTIONS ON CANCER INCIDENCE, PROVIDING COMMUNITY MEMBERS, POLICY MAKERS, AND RESEARCHERS WITH GUIDANCE ON HOW BEST TO ELIMINATE THE INCREASED BURDEN OF CANCER IN PERSISTENT POVERTY AREAS, AIM 4. DEVELOP AND IMPLEMENT A CAREER ENHANCEMENT PROGRAM THAT WILL FACILITATE THE TRAINING AND CAREER DEVELOPMENT OF A DIVERSE CADRE OF INTERDISCIPLINARY EARLY-CAREER SCHOLARS WHO ARE COMMITTED TO ADVANCING CANCER HEALTH EQUITY THROUGH RESEARCH AND PRACTICE IN PERSISTENT POVERTY AREAS, AND AIM 5. IMPLEMENT INNOVATIVE AND COLLABORATIVE CANCER PREVENTION AND CONTROL PROGRAMS IDENTIFIED THROUGH THE UPSTREAM RESEARCH CENTER RESEARCH PROJECTS AND OUR COMMUNITY PARTNERS TO DEVELOP LONG-TERM SUSTAINABLE STRATEGIES IN OUR NORTHERN CA CATCHMENT AREAS AND ACROSS THE PERSISTENT POVERTY CENTERS NETWORK. RESULTS FROM THIS NOVEL GROUNDBREAKING WORK WILL LAY THE FOUNDATION FOR TRANSFORMATIVE APPROACHES TO ADDRESS CANCER PREVENTION AND CONTROL PROGRAMS IN THE FACE OF SEVERE ECONOMIC AND SOCIAL DISADVANTAGE THROUGH CAPACITY BUILDING AND SUSTAINABLE PARTNERSHIPS WITH POLICYMAKERS, STATE AND LOCAL AGENCIES AND COMMUNITY PARTNERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "HJD6G4D6TJY5",
+    "Recipient Location": {
+      "address_line1": "450 JANE STANFORD WAY",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "STANFORD",
+      "congressional_code": "16",
+      "country_name": "UNITED STATES",
+      "county_code": "085",
+      "county_name": "SANTA CLARA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2004",
+      "zip5": "94305"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-06-26",
+    "End Date": "2028-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0c13d643-4334-38ed-1952-0db7e2ac5e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U54CA280811_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92635628,
+    "generated_unique_award_id": "ASST_NON_U54CA280811_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "THE UPSTREAM CENTER: INCOME INTERVENTIONS TO ADDRESS THE FUNDAMENTAL CAUSES OF CANCER INEQUITIES - OVERALL COMPONENT: PROJECT SUMMARY/ABSTRACT PERSISTENT POVERTY ENVIRONMENTS IMPOSE PARTICULAR CHALLENGES FOR CANCER PREVENTION, WITH COMPLEX AND INTERSECTING FACTORS CREATING BARRIERS AT THE INDIVIDUAL, HEALTH SYSTEM, AND POPULATION LEVEL. IMPROVING CANCER OUTCOMES IN THESE AREAS REQUIRES TRANSFORMATIONAL, MULTISECTOR SOLUTIONS TARGETING FUNDAMENTAL CAUSES AND SOCIAL DETERMINANTS OF HEALTH, WITH RESEARCH AND POLICY DEVELOPMENT PROCESSES THAT ARE CO-CREATED WITH THE IMPACTED COMMUNITIES. TO ADDRESS THIS CHALLENGE, WE WILL FORM THE UPSTREAM RESEARCH CENTER, AN INNOVATIVE APPROACH TO THE FUNDAMENTAL PROBLEM OF INCOME DEPRIVATION BY LEVERAGING STATE PROGRAMS FOR GUARANTEED BASIC INCOME AND THE EARNED INCOME TAX CREDIT (EITC). OUR TEAM SCIENCE APPROACH TO THIS PROBLEM IS SUPPORTED BY THE UNPARALLELED RESOURCES AT STANFORD UNIVERSITY, THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO AND THE UNIVERSITY OF CALIFORNIA, DAVIS. OUR WORK ADVANCES MULTIPLE CONCEPTUAL AND METHODOLOGICAL INNOVATIONS THROUGH TWO MAIN RESEARCH PROJECTS: 1) AN ONGOING PARTNERSHIP WITH THE CALIFORNIA DEPARTMENT OF SOCIAL SERVICES TO ACCESS AND EVALUATE A $35M INTERVENTION OF GUARANTEED BASIC INCOME IN PERSISTENT POVERTY AREAS WITH A FOCUS ON MODIFIABLE CANCER RISK FACTORS AND INTERMEDIATE OUTCOMES; 2) THE IMPACT OF INCREASES IN INCOME SUPPORT THROUGH THE EITC, WHICH IN CALIFORNIA HAS A UNIQUE FOCUS ON LOWER INCOME WAGE EARNERS, AS WELL AS UNDOCUMENTED WORKERS. OUR SPECIFIC AIMS ARE TO: AIM 1. BUILD A COLLABORATIVE COMMUNITY OF RESIDENTS IN PERSISTENT POVERTY AREAS, POLICY MAKERS, TRAINEES, CANCER AND SOCIAL SCIENCE RESEARCHERS AND DATA SCIENTISTS THAT CO-CREATE PROGRAMS TO ADDRESS THE FUNDAMENTAL IMPACTS OF INCOME DEPRIVATION, AIM 2. EVALUATE THE IMPACT OF INCOME-BASED INTERVENTIONS IN DEMOGRAPHICALLY DIVERSE PERSISTENT POVERTY AREAS IN NORTHERN CA, AIM 3. DEVELOP A MATHEMATICAL MODEL, WITH COMMUNITY INPUT, THAT CAN ASSIST IN PREDICTING LONG-TERM IMPACTS OF INCOME-FOCUSED INTERVENTIONS ON CANCER INCIDENCE, PROVIDING COMMUNITY MEMBERS, POLICY MAKERS, AND RESEARCHERS WITH GUIDANCE ON HOW BEST TO ELIMINATE THE INCREASED BURDEN OF CANCER IN PERSISTENT POVERTY AREAS, AIM 4. DEVELOP AND IMPLEMENT A CAREER ENHANCEMENT PROGRAM THAT WILL FACILITATE THE TRAINING AND CAREER DEVELOPMENT OF A DIVERSE CADRE OF INTERDISCIPLINARY EARLY-CAREER SCHOLARS WHO ARE COMMITTED TO ADVANCING CANCER HEALTH EQUITY THROUGH RESEARCH AND PRACTICE IN PERSISTENT POVERTY AREAS, AND AIM 5. IMPLEMENT INNOVATIVE AND COLLABORATIVE CANCER PREVENTION AND CONTROL PROGRAMS IDENTIFIED THROUGH THE UPSTREAM RESEARCH CENTER RESEARCH PROJECTS AND OUR COMMUNITY PARTNERS TO DEVELOP LONG-TERM SUSTAINABLE STRATEGIES IN OUR NORTHERN CA CATCHMENT AREAS AND ACROSS THE PERSISTENT POVERTY CENTERS NETWORK. RESULTS FROM THIS NOVEL GROUNDBREAKING WORK WILL LAY THE FOUNDATION FOR TRANSFORMATIVE APPROACHES TO ADDRESS CANCER PREVENTION AND CONTROL PROGRAMS IN THE FACE OF SEVERE ECONOMIC AND SOCIAL DISADVANTAGE THROUGH CAPACITY BUILDING AND SUSTAINABLE PARTNERSHIPS WITH POLICYMAKERS, STATE AND LOCAL AGENCIES AND COMMUNITY PARTNERS.",
+    "total_obligation": 6509940,
+    "subaward_count": 9,
+    "total_subaward_amount": 1293092,
+    "date_signed": "2023-06-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 4182851.58,
+    "total_account_obligation": 4389894,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 4182851.58
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 4389894
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-06-26",
+      "end_date": "2028-04-30",
+      "last_modified_date": "2025-09-26",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0c13d643-4334-38ed-1952-0db7e2ac5e56-R",
+      "recipient_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+      "recipient_uei": "HJD6G4D6TJY5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "LELAND STANFORD JUNIOR UNIVERSITY",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "STANFORD",
+        "county_code": "085",
+        "county_name": "SANTA CLARA",
+        "address_line1": "450 JANE STANFORD WAY",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "16",
+        "zip4": "2004",
+        "zip5": "94305",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 4182851.58
+  }
+}

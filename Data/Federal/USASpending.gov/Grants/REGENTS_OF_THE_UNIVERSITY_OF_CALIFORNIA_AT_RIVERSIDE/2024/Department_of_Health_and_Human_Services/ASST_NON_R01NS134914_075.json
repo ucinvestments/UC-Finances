@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91240332,
+    "Award ID": "R01NS134914",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1178077,
+    "Total Outlays": 604832.81,
+    "Description": "ACUTE NEURAL INJURY AND POSTTRAUMATIC EPILEPSY - PROJECT SUMMARY POSTTRAUMATIC EPILEPSY (PTE) REFERS TO CHRONIC UNPROVOKED SEIZURES FOLLOWING TRAUMATIC BRAIN INJURY (TBI), AND IS A MAJOR CLINICAL PROBLEM IN BOTH THE MILITARY AND CIVILIAN POPULATIONS. DESPITE THE IMPORTANCE OF PTE, THE LOCUS OF WHERE PTE DEVELOPS RELATIVE TO THE SITE OF HEAD INJURY AND THUS THE ANATOMY OF DEVELOPMENT OF PTE IN DISTRIBUTED BRAIN NETWORKS IS NOT WELL UNDERSTOOD. CONSEQUENTLY, THE PHYSIOLOGICAL CHANGES OCCURRING SPECIFICALLY IN THE PTE SEIZURE FOCUS UNDERLYING EPILEPSY HAVE NOT BEEN DETERMINED. OUR LONG-TERM GOAL IS TO IDENTIFY MECHANISMS OF PTE. THE OBJECTIVE HERE IS TO DETERMINE THE ANATOMIC LOCUS OF PTE IN THE CONTROLLED CORTICAL IMPACT (CCI) MODEL OF TBI AND TO DETERMINE UNDERLYING CELLULAR, MOLECULAR, AND PHYSIOLOGICAL ALTERATIONS ACCOMPANYING PTE. OUR CENTRAL HYPOTHESIS IS THAT FOLLOWING CCI, LOCALIZED MOLECULAR CHANGES THAT IMPAIR ASTROCYTIC FUNCTION AND DIVERGENT INJURY-INDUCED MICROCIRCUIT REORGANIZATION OF INTRATELENCEPALIC (IT) AND EXTRATELENCEPALIC (ET) LAYER 5 PYRAMIDAL CELLS (L5PCS) AND HIPPOCAMPAL CA1 PYRAMIDAL CELLS (HPCS) UNDERLIE EMERGENCE OF SEIZURE FOCI. BY USING MULTIELECTRODE ARRAY (MEA) ELECTROENCEPHALOGRAPHY (EEG) TO DEFINE THE SEIZURE FOCUS AT VARIOUS TIME POINTS AFTER CCI AND COMPARING THE MOLECULAR, CELLULAR AND CIRCUIT ALTERATIONS IN ELECTROGRAPHICALLY DEFINED SEIZURE FOCI IN PTE MICE WITH CORRESPONDING LOCI IN SEIZURE-FREE INJURED MICE, WE WILL IDENTIFY THE CELLULAR AND CIRCUIT CHANGES AND ELECTROGRAPHIC MARKERS THAT PREDICT TRANSITION TO PTE. FIRST, WE WILL DEFINE THE ANATOMIC LOCUS AND ELECTROGRAPHIC BIOMARKERS OF PTE ONSET IN THE ANIMAL MODEL OF CONTROLLED CORTICAL IMPACT (CCI) USING MULTIELECTRODE ARRAY (MEA) ELECTROENCEPHALOGRAPHY (EEG). SECOND, WE WILL DETERMINE WHICH CELLULAR AND MOLECULAR CHANGES IN THE SEIZURE FOCUS UNDERLIE THE ONSET OF PTE. THIRD, WE WILL IDENTIFY CELL-TYPE SPECIFIC CHANGES IN L5PC (IT AND ET) AND HPC PHYSIOLOGY AND COMPROMISES IN ASTROCYTIC TRANSPORTER FUNCTION THAT UNDERLIE EMERGENCE OF SEIZURE FOCI. THESE EXPERIMENTS ARE ANTICIPATED TO HAVE A POSITIVE IMPACT BY ELUCIDATING THE NECESSARY AND SUFFICIENT CHANGES IN THE BRAIN UNDERLYING PTE AND IDENTIFYING NEW CELLULAR AND MOLECULAR TARGETS FOR TREATMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-06-14",
+    "End Date": "2029-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS134914_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91240332,
+    "generated_unique_award_id": "ASST_NON_R01NS134914_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ACUTE NEURAL INJURY AND POSTTRAUMATIC EPILEPSY - PROJECT SUMMARY POSTTRAUMATIC EPILEPSY (PTE) REFERS TO CHRONIC UNPROVOKED SEIZURES FOLLOWING TRAUMATIC BRAIN INJURY (TBI), AND IS A MAJOR CLINICAL PROBLEM IN BOTH THE MILITARY AND CIVILIAN POPULATIONS. DESPITE THE IMPORTANCE OF PTE, THE LOCUS OF WHERE PTE DEVELOPS RELATIVE TO THE SITE OF HEAD INJURY AND THUS THE ANATOMY OF DEVELOPMENT OF PTE IN DISTRIBUTED BRAIN NETWORKS IS NOT WELL UNDERSTOOD. CONSEQUENTLY, THE PHYSIOLOGICAL CHANGES OCCURRING SPECIFICALLY IN THE PTE SEIZURE FOCUS UNDERLYING EPILEPSY HAVE NOT BEEN DETERMINED. OUR LONG-TERM GOAL IS TO IDENTIFY MECHANISMS OF PTE. THE OBJECTIVE HERE IS TO DETERMINE THE ANATOMIC LOCUS OF PTE IN THE CONTROLLED CORTICAL IMPACT (CCI) MODEL OF TBI AND TO DETERMINE UNDERLYING CELLULAR, MOLECULAR, AND PHYSIOLOGICAL ALTERATIONS ACCOMPANYING PTE. OUR CENTRAL HYPOTHESIS IS THAT FOLLOWING CCI, LOCALIZED MOLECULAR CHANGES THAT IMPAIR ASTROCYTIC FUNCTION AND DIVERGENT INJURY-INDUCED MICROCIRCUIT REORGANIZATION OF INTRATELENCEPALIC (IT) AND EXTRATELENCEPALIC (ET) LAYER 5 PYRAMIDAL CELLS (L5PCS) AND HIPPOCAMPAL CA1 PYRAMIDAL CELLS (HPCS) UNDERLIE EMERGENCE OF SEIZURE FOCI. BY USING MULTIELECTRODE ARRAY (MEA) ELECTROENCEPHALOGRAPHY (EEG) TO DEFINE THE SEIZURE FOCUS AT VARIOUS TIME POINTS AFTER CCI AND COMPARING THE MOLECULAR, CELLULAR AND CIRCUIT ALTERATIONS IN ELECTROGRAPHICALLY DEFINED SEIZURE FOCI IN PTE MICE WITH CORRESPONDING LOCI IN SEIZURE-FREE INJURED MICE, WE WILL IDENTIFY THE CELLULAR AND CIRCUIT CHANGES AND ELECTROGRAPHIC MARKERS THAT PREDICT TRANSITION TO PTE. FIRST, WE WILL DEFINE THE ANATOMIC LOCUS AND ELECTROGRAPHIC BIOMARKERS OF PTE ONSET IN THE ANIMAL MODEL OF CONTROLLED CORTICAL IMPACT (CCI) USING MULTIELECTRODE ARRAY (MEA) ELECTROENCEPHALOGRAPHY (EEG). SECOND, WE WILL DETERMINE WHICH CELLULAR AND MOLECULAR CHANGES IN THE SEIZURE FOCUS UNDERLIE THE ONSET OF PTE. THIRD, WE WILL IDENTIFY CELL-TYPE SPECIFIC CHANGES IN L5PC (IT AND ET) AND HPC PHYSIOLOGY AND COMPROMISES IN ASTROCYTIC TRANSPORTER FUNCTION THAT UNDERLIE EMERGENCE OF SEIZURE FOCI. THESE EXPERIMENTS ARE ANTICIPATED TO HAVE A POSITIVE IMPACT BY ELUCIDATING THE NECESSARY AND SUFFICIENT CHANGES IN THE BRAIN UNDERLYING PTE AND IDENTIFYING NEW CELLULAR AND MOLECULAR TARGETS FOR TREATMENT.",
+    "total_obligation": 1178077,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-06-07",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 604832.81,
+    "total_account_obligation": 1178077,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 604832.81
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1178077
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2024-06-14",
+      "end_date": "2029-04-30",
+      "last_modified_date": "2025-04-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 604832.81
+  }
+}

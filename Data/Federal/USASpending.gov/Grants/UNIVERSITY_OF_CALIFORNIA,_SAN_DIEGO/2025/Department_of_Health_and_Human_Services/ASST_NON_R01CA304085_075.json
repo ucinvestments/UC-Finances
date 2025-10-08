@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173194082,
+    "Award ID": "R01CA304085",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 699929,
+    "Total Outlays": null,
+    "Description": "ENHANCING DENDRITIC CELL MIGRATION TO DRAINING SENTINEL NODES TO IMPROVE IMMUNOTHERAPY RESPONSE IN HPV NEGATIVE HNSCC - PROJECT SUMMARY HUMAN PAPILLOMA VIRUS NEGATIVE (HPV-) HEAD AND NECK SQUAMOUS CELL CARCINOMA (HNSCC) IS ASSOCIATED WITH HIGH MORTALITY AND CURRENT CURATIVE TREATMENT OPTIONS INCUR SIGNIFICANT MORBIDITY. DESPITE ACTIVITY IN RECURRENT/METASTATIC SETTINGS, PD-1 INHIBITORS HAVE LOW RESPONSE RATES OF 14-20% IN PREVIOUSLY UNTREATED, LOCALLY ADVANCED HNSCC WHEN GIVEN IN THE NEOADJUVANT SETTING, AND RECENT PHASE III TRIALS DEMONSTRATE NO BENEFIT WHEN A PD-1 INHIBITORS ARE COMBINED WITH CHEMOTHERAPY AND BROAD FIELD RADIATION TO PRIMARY TUMOR AND DRAINING LYMPH NODE BASINS. WE RECENTLY REPORTED THAT NODAL IRRADIATION OR SURGICAL REMOVAL OF DRAINING LYMPH NODES COMPLETELY BLOCKS THE ANTI-TUMOR ACTIVITY OF PD-1 INHIBITORS, INDICATING A KEY ROLE FOR TUMOR DRAINING LYMPH NODES IN FACILITATING PRIMARY TUMOR RESPONSE TO IMMUNOTHERAPY. IN SUPPORT OF THESE FINDINGS, A PHASE I TRIAL OF IMMUNORADIOTHERAPY (IRT) USING PD-1 INHIBITORS COMBINED WITH LYMPHATIC SPARING, STEREOTACTIC RADIATION (SBRT) DEMONSTRATED A REMARKABLE 67% COMPLETE PATHOLOGIC RESPONSE RATE IN HNSCC PATIENTS. USING ORTHOTOPIC, SYNGENEIC MURINE MODELS OF HPV- HNSCC, WE FOUND THAT IRT WITH SEQUENCED, TUMOR DIRECTED, LYMPHATIC SPARING RADIATION FOLLOWED BY PD-1 INHIBITION PRODUCES A DRAMATIC, SYNERGISTIC, AND DURABLE TUMOR RESPONSE SUPPORTED BY MIGRATION OF IMMUNE CELLS TO TUMOR DRAINING SENTINEL LYMPH NODES (SLN) AND DEVELOPMENT OF CLONAL T CELL RESPONSES IN BOTH TUMOR AND SLN. MECHANISTICALLY, SIMPLE SURGICAL DISRUPTION OF LYMPHATIC CHANNELS CONNECTING PRIMARY TUMOR AND SLN COMPLETELY BLOCKS RESPONSE TO IRT, AND WE SPECIFICALLY FOUND THAT IRT MODULATES THE PHENOTYPE AND MIGRATION OF ACTIVATED DENDRITIC CELLS (DCS) FROM TUMOR TO SLN THAT ARE CRITICAL TO IRT DRIVEN ANTI- TUMOR IMMUNE RESPONSES. OUR CENTRAL HYPOTHESIS IS THAT ACTIVATION AND MIGRATION OF ACTIVATED DC FROM TUMOR TO SENTINEL LYMPH NODE IS KEY TO PROMOTE ANTI-TUMOR IMMUNITY AND CLINICAL RESPONSES TO IRT IN HPV- HNSCC PATIENTS. WE ALSO HYPOTHESIZE THAT CROSS-PRESENTING, ACTIVATED DC MIGRATION CAN BE ENHANCED TO IMPROVE HPV- HNSCC THERAPEUTIC RESPONSE. TO EXPLORE THESE HYPOTHESES WE WILL 1) DEFINE THE FUNCTIONAL STATE OF DENDRITIC CELLS IN TUMOR AND DRAINING SENTINEL LYMPH NODES IN THE CONTEXT OF A PHASE II CLINICAL TRIAL OF SEQUENCED NEOADJUVANT, LYMPHATIC SPARING SBRT FOLLOWED BY IMMUNOTHERAPY IN HPV- HNSCC PATIENTS, AND 2) LEVERAGE ACTIVATED DENDRITIC CELL MIGRATION TO SENTINEL DRAINING LYMPH NODES TO OPTIMIZE ADAPTIVE IMMUNE RESPONSES DURING IMMUNOTHERAPY AND IMMUNORADIOTHERAPY IN MOUSE MODELS OF HPV NEGATIVE HNSCC COMPLETION OF THESE AIMS WILL ELUCIDATE THE ROLE OF SPECIFIC, ACTIVATED, MIGRATORY DENDRITIC CELLS IN COORDINATING ANTI-TUMOR IMMUNE RESPONSES IN RESPONSE TO IRT IN HPV- HNSCC PATIENTS AND DEFINE DENDRITIC CELL IMMUNE SIGNATURES IN PATIENTS TREATED WITH IRT IN HPV- HSNCC. WE WILL ALSO DESIGN NOVEL THERAPEUTIC STRATEGIES BY LEVERAGING ENHANCED DENDRITIC CELL FUNCTION AND MIGRATION TO IMMUNOLOGICALLY INTACT DRAINING LYMPH NODES IN HPV- HNSCC. THIS PROJECT CAN INFORM AND GUIDE NOVEL THERAPEUTIC APPROACHES BASED ON ENHANCING ACTIVATED DENDRITIC CELL MIGRATION IN HNSCC AND OTHER SOLID TUMOR TYPES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-06-20",
+    "End Date": "2030-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA304085_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173194082,
+    "generated_unique_award_id": "ASST_NON_R01CA304085_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ENHANCING DENDRITIC CELL MIGRATION TO DRAINING SENTINEL NODES TO IMPROVE IMMUNOTHERAPY RESPONSE IN HPV NEGATIVE HNSCC - PROJECT SUMMARY HUMAN PAPILLOMA VIRUS NEGATIVE (HPV-) HEAD AND NECK SQUAMOUS CELL CARCINOMA (HNSCC) IS ASSOCIATED WITH HIGH MORTALITY AND CURRENT CURATIVE TREATMENT OPTIONS INCUR SIGNIFICANT MORBIDITY. DESPITE ACTIVITY IN RECURRENT/METASTATIC SETTINGS, PD-1 INHIBITORS HAVE LOW RESPONSE RATES OF 14-20% IN PREVIOUSLY UNTREATED, LOCALLY ADVANCED HNSCC WHEN GIVEN IN THE NEOADJUVANT SETTING, AND RECENT PHASE III TRIALS DEMONSTRATE NO BENEFIT WHEN A PD-1 INHIBITORS ARE COMBINED WITH CHEMOTHERAPY AND BROAD FIELD RADIATION TO PRIMARY TUMOR AND DRAINING LYMPH NODE BASINS. WE RECENTLY REPORTED THAT NODAL IRRADIATION OR SURGICAL REMOVAL OF DRAINING LYMPH NODES COMPLETELY BLOCKS THE ANTI-TUMOR ACTIVITY OF PD-1 INHIBITORS, INDICATING A KEY ROLE FOR TUMOR DRAINING LYMPH NODES IN FACILITATING PRIMARY TUMOR RESPONSE TO IMMUNOTHERAPY. IN SUPPORT OF THESE FINDINGS, A PHASE I TRIAL OF IMMUNORADIOTHERAPY (IRT) USING PD-1 INHIBITORS COMBINED WITH LYMPHATIC SPARING, STEREOTACTIC RADIATION (SBRT) DEMONSTRATED A REMARKABLE 67% COMPLETE PATHOLOGIC RESPONSE RATE IN HNSCC PATIENTS. USING ORTHOTOPIC, SYNGENEIC MURINE MODELS OF HPV- HNSCC, WE FOUND THAT IRT WITH SEQUENCED, TUMOR DIRECTED, LYMPHATIC SPARING RADIATION FOLLOWED BY PD-1 INHIBITION PRODUCES A DRAMATIC, SYNERGISTIC, AND DURABLE TUMOR RESPONSE SUPPORTED BY MIGRATION OF IMMUNE CELLS TO TUMOR DRAINING SENTINEL LYMPH NODES (SLN) AND DEVELOPMENT OF CLONAL T CELL RESPONSES IN BOTH TUMOR AND SLN. MECHANISTICALLY, SIMPLE SURGICAL DISRUPTION OF LYMPHATIC CHANNELS CONNECTING PRIMARY TUMOR AND SLN COMPLETELY BLOCKS RESPONSE TO IRT, AND WE SPECIFICALLY FOUND THAT IRT MODULATES THE PHENOTYPE AND MIGRATION OF ACTIVATED DENDRITIC CELLS (DCS) FROM TUMOR TO SLN THAT ARE CRITICAL TO IRT DRIVEN ANTI- TUMOR IMMUNE RESPONSES. OUR CENTRAL HYPOTHESIS IS THAT ACTIVATION AND MIGRATION OF ACTIVATED DC FROM TUMOR TO SENTINEL LYMPH NODE IS KEY TO PROMOTE ANTI-TUMOR IMMUNITY AND CLINICAL RESPONSES TO IRT IN HPV- HNSCC PATIENTS. WE ALSO HYPOTHESIZE THAT CROSS-PRESENTING, ACTIVATED DC MIGRATION CAN BE ENHANCED TO IMPROVE HPV- HNSCC THERAPEUTIC RESPONSE. TO EXPLORE THESE HYPOTHESES WE WILL 1) DEFINE THE FUNCTIONAL STATE OF DENDRITIC CELLS IN TUMOR AND DRAINING SENTINEL LYMPH NODES IN THE CONTEXT OF A PHASE II CLINICAL TRIAL OF SEQUENCED NEOADJUVANT, LYMPHATIC SPARING SBRT FOLLOWED BY IMMUNOTHERAPY IN HPV- HNSCC PATIENTS, AND 2) LEVERAGE ACTIVATED DENDRITIC CELL MIGRATION TO SENTINEL DRAINING LYMPH NODES TO OPTIMIZE ADAPTIVE IMMUNE RESPONSES DURING IMMUNOTHERAPY AND IMMUNORADIOTHERAPY IN MOUSE MODELS OF HPV NEGATIVE HNSCC COMPLETION OF THESE AIMS WILL ELUCIDATE THE ROLE OF SPECIFIC, ACTIVATED, MIGRATORY DENDRITIC CELLS IN COORDINATING ANTI-TUMOR IMMUNE RESPONSES IN RESPONSE TO IRT IN HPV- HNSCC PATIENTS AND DEFINE DENDRITIC CELL IMMUNE SIGNATURES IN PATIENTS TREATED WITH IRT IN HPV- HSNCC. WE WILL ALSO DESIGN NOVEL THERAPEUTIC STRATEGIES BY LEVERAGING ENHANCED DENDRITIC CELL FUNCTION AND MIGRATION TO IMMUNOLOGICALLY INTACT DRAINING LYMPH NODES IN HPV- HNSCC. THIS PROJECT CAN INFORM AND GUIDE NOVEL THERAPEUTIC APPROACHES BASED ON ENHANCING ACTIVATED DENDRITIC CELL MIGRATION IN HNSCC AND OTHER SOLID TUMOR TYPES.",
+    "total_obligation": 699929,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-06-20",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 699929,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 699929
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2025-06-20",
+      "end_date": "2030-05-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

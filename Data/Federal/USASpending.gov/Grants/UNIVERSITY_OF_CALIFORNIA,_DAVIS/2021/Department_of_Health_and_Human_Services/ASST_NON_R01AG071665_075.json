@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91123331,
+    "Award ID": "R01AG071665",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1259833,
+    "Total Outlays": 622343.56,
+    "Description": "SOLUBLE EPOXIDE HYDROLASE-REGULATED LIPID SIGNALING IN ALZHEIMER’S DISEASE - PROJECT SUMMARY/ABSTRACT OXYGENATED LIPID MEDIATORS (OXYLIPINS) DERIVED FROM POLYUNSATURATED FATTY ACIDS (PUFAS) ARE POTENT SIGNALING MOLECULES THAT REGULATE A MULTITUDE OF CELLULAR AND SYSTEMIC RESPONSES, INCLUDING INFLAMMATION. EPOXY FATTY ACIDS (EPFAS) ARE CYTOCHROME P450 (CYP)-DEPENDENT DERIVATIVES OF PUFAS. THEY ARE A GROUP OF LIPID MEDIATORS WITH POTENT ANTI-INFLAMMATORY, PRO-RESOLVING PROPERTIES. HOWEVER, THEIR ACTIVITIES ARE EXTREMELY SHORT- LIVED AS SOLUBLE EPOXIDE HYDROLASE (SEH) QUICKLY CONVERTS EPFAS TO PRO-INFLAMMATORY DIOLS. OUR THERAPEUTIC HYPOTHESIS IS THAT INHIBITION OF SEH WILL INCREASE AND PROLONG THE ANTI-INFLAMMATORY AND PRO-RESOLVING ACTIONS OF CHEMICALLY STABLE EPFAS TO EXERT NEUROPROTECTION. THIS APPROACH HAS BEEN PROVEN PROMISING FOR ALZHEIMER’S DISEASE (AD) BY INDEPENDENT RESULTS FROM OUR AND OTHER GROUPS SHOWING THAT INHIBITION OF SEH ACTIVITIES, EITHER BY SPECIFIC INHIBITORS OR GENE KNOCKOUT, MITIGATES AD-LIKE ABNORMALITIES IN VARIOUS AD MODELS. OUR RESULTS OPEN A NEW AVENUE TO INVESTIGATE HOW OXYLIPINS REGULATED BY THE CYP-SEH PATHWAY AFFECT BRAIN FUNCTION. SEH PROTEIN IS MOST HIGHLY EXPRESSED IN THE LIVER, WHERE IT MAY INFLUENCE BRAIN FUNCTION IN A LONG-RANGE FASHION VIA CONTROLLING THE LIPIDOMIC STRUCTURE OF LIPOPROTEINS TRANSPORTING EPFAS. IN THE CNS, MICROGLIA ACTIVATION IS PARTICULARLY SENSITIVE TO SEH MODULATION VIA THE AUTOCRINE ACTIONS OF EPFAS. WE PROPOSE A “SEH-REGULATED BRAIN-LIVER AXIS”, ABERRATION OF WHICH MAY AFFECT LIPOPROTEIN AND MICROGLIAL FUNCTIONS TO CONTRIBUTE TO AD DEVELOPMENT. FURTHERMORE, SEH MAY FUNCTIONALLY INTERACT WITH APOLIPOPROTEIN E (APOE) TO REGULATE LIPOPROTEIN COMPOSITION AND MICROGLIA ACTIVATION IN AD. WE PROPOSE A COMPREHENSIVE APPROACH TO SURVEY THE DYNAMIC, AD-RELEVANT REGULATIONS OF LIPID MEDIATORS IN ANIMAL MODELS, HUMAN AD SAMPLES, AND HUMAN MICROGLIA CULTURES IN THREE SPECIFIC AIMS. BECAUSE PREVIOUS SEH INHIBITION STUDIES IN AD MODELS DID NOT ADDRESS THE EXACT CELLULAR AND MOLECULAR MECHANISMS THAT AFFORD NEUROPROTECTION, IN AIM 1 WE WILL DIRECT THE SEH GENE KNOCKOUT IN APP- PS1 AD MICE SPECIFICALLY TARGETED TO MICROGLIA AND HEPATOCYTES, TWO KEY CELLS WHOSE FUNCTION IS HYPOTHESIZED TO BE SEVERELY AFFECTED BY OVERACTIVITY OF SEH IN AD. WE WILL DETERMINE IF SUCH TARGETED DELETION CAN MITIGATE AD-LIKE PHENOTYPE IN MICE, AND IDENTIFY SPECIFIC MOLECULAR MECHANISMS BY INTEGRATED TRANSCRIPTOMIC AND LIPIDOMIC ANALYSES OF LIVER, BRAIN, AND PLASMA LIPOPROTEINS. SAME LIPIDOMIC ANALYSES WILL BE USED IN AIM 2 TO DETERMINE THAT BRAIN BIOACTIVE LIPID PROFILES AND PLASMA LIPOPROTEIN LIPIDOMIC STRUCTURES ARE DIFFERENTIAL IN AD PATIENTS VS. NON-DEMENTED CONTROLS ACROSS APOE GENOTYPES. IN AIM 3, WE WILL CHARACTERIZE AΒ OLIGOMER (AΒO, A POTENT NEUROTOXIN IN AD BRAINS)-INDUCED AND APOE GENOTYPE-DEPENDENT ALTERATIONS OF CYP-SEH SIGNALING AND OXYLIPIN PROFILES IN HUMAN IPS-DERIVED MICROGLIA. WE WILL TEST THE HYPOTHESIS THAT AΒO INDUCES A UNIQUE MICROGLIAL PRO-INFLAMMATORY STATE BY TUNING DOWN ANTI-INFLAMMATORY EPFAS, AND THIS ABILITY IS MODULATED BY APOE GENOTYPE. COMPLETION OF THIS PROJECT WILL PROVIDE SPECIFIC SEH-REGULATED MECHANISMS VIA WHICH LIVER AND MICROGLIA MAY CONTRIBUTE TO AD PATHOLOGY BY REGULATING LIPID METABOLISM AND POSSIBLY BY INTERACTING WITH APOE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172312",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-04-01",
+    "End Date": "2026-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG071665_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91123331,
+    "generated_unique_award_id": "ASST_NON_R01AG071665_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SOLUBLE EPOXIDE HYDROLASE-REGULATED LIPID SIGNALING IN ALZHEIMER’S DISEASE - PROJECT SUMMARY/ABSTRACT OXYGENATED LIPID MEDIATORS (OXYLIPINS) DERIVED FROM POLYUNSATURATED FATTY ACIDS (PUFAS) ARE POTENT SIGNALING MOLECULES THAT REGULATE A MULTITUDE OF CELLULAR AND SYSTEMIC RESPONSES, INCLUDING INFLAMMATION. EPOXY FATTY ACIDS (EPFAS) ARE CYTOCHROME P450 (CYP)-DEPENDENT DERIVATIVES OF PUFAS. THEY ARE A GROUP OF LIPID MEDIATORS WITH POTENT ANTI-INFLAMMATORY, PRO-RESOLVING PROPERTIES. HOWEVER, THEIR ACTIVITIES ARE EXTREMELY SHORT- LIVED AS SOLUBLE EPOXIDE HYDROLASE (SEH) QUICKLY CONVERTS EPFAS TO PRO-INFLAMMATORY DIOLS. OUR THERAPEUTIC HYPOTHESIS IS THAT INHIBITION OF SEH WILL INCREASE AND PROLONG THE ANTI-INFLAMMATORY AND PRO-RESOLVING ACTIONS OF CHEMICALLY STABLE EPFAS TO EXERT NEUROPROTECTION. THIS APPROACH HAS BEEN PROVEN PROMISING FOR ALZHEIMER’S DISEASE (AD) BY INDEPENDENT RESULTS FROM OUR AND OTHER GROUPS SHOWING THAT INHIBITION OF SEH ACTIVITIES, EITHER BY SPECIFIC INHIBITORS OR GENE KNOCKOUT, MITIGATES AD-LIKE ABNORMALITIES IN VARIOUS AD MODELS. OUR RESULTS OPEN A NEW AVENUE TO INVESTIGATE HOW OXYLIPINS REGULATED BY THE CYP-SEH PATHWAY AFFECT BRAIN FUNCTION. SEH PROTEIN IS MOST HIGHLY EXPRESSED IN THE LIVER, WHERE IT MAY INFLUENCE BRAIN FUNCTION IN A LONG-RANGE FASHION VIA CONTROLLING THE LIPIDOMIC STRUCTURE OF LIPOPROTEINS TRANSPORTING EPFAS. IN THE CNS, MICROGLIA ACTIVATION IS PARTICULARLY SENSITIVE TO SEH MODULATION VIA THE AUTOCRINE ACTIONS OF EPFAS. WE PROPOSE A “SEH-REGULATED BRAIN-LIVER AXIS”, ABERRATION OF WHICH MAY AFFECT LIPOPROTEIN AND MICROGLIAL FUNCTIONS TO CONTRIBUTE TO AD DEVELOPMENT. FURTHERMORE, SEH MAY FUNCTIONALLY INTERACT WITH APOLIPOPROTEIN E (APOE) TO REGULATE LIPOPROTEIN COMPOSITION AND MICROGLIA ACTIVATION IN AD. WE PROPOSE A COMPREHENSIVE APPROACH TO SURVEY THE DYNAMIC, AD-RELEVANT REGULATIONS OF LIPID MEDIATORS IN ANIMAL MODELS, HUMAN AD SAMPLES, AND HUMAN MICROGLIA CULTURES IN THREE SPECIFIC AIMS. BECAUSE PREVIOUS SEH INHIBITION STUDIES IN AD MODELS DID NOT ADDRESS THE EXACT CELLULAR AND MOLECULAR MECHANISMS THAT AFFORD NEUROPROTECTION, IN AIM 1 WE WILL DIRECT THE SEH GENE KNOCKOUT IN APP- PS1 AD MICE SPECIFICALLY TARGETED TO MICROGLIA AND HEPATOCYTES, TWO KEY CELLS WHOSE FUNCTION IS HYPOTHESIZED TO BE SEVERELY AFFECTED BY OVERACTIVITY OF SEH IN AD. WE WILL DETERMINE IF SUCH TARGETED DELETION CAN MITIGATE AD-LIKE PHENOTYPE IN MICE, AND IDENTIFY SPECIFIC MOLECULAR MECHANISMS BY INTEGRATED TRANSCRIPTOMIC AND LIPIDOMIC ANALYSES OF LIVER, BRAIN, AND PLASMA LIPOPROTEINS. SAME LIPIDOMIC ANALYSES WILL BE USED IN AIM 2 TO DETERMINE THAT BRAIN BIOACTIVE LIPID PROFILES AND PLASMA LIPOPROTEIN LIPIDOMIC STRUCTURES ARE DIFFERENTIAL IN AD PATIENTS VS. NON-DEMENTED CONTROLS ACROSS APOE GENOTYPES. IN AIM 3, WE WILL CHARACTERIZE AΒ OLIGOMER (AΒO, A POTENT NEUROTOXIN IN AD BRAINS)-INDUCED AND APOE GENOTYPE-DEPENDENT ALTERATIONS OF CYP-SEH SIGNALING AND OXYLIPIN PROFILES IN HUMAN IPS-DERIVED MICROGLIA. WE WILL TEST THE HYPOTHESIS THAT AΒO INDUCES A UNIQUE MICROGLIAL PRO-INFLAMMATORY STATE BY TUNING DOWN ANTI-INFLAMMATORY EPFAS, AND THIS ABILITY IS MODULATED BY APOE GENOTYPE. COMPLETION OF THIS PROJECT WILL PROVIDE SPECIFIC SEH-REGULATED MECHANISMS VIA WHICH LIVER AND MICROGLIA MAY CONTRIBUTE TO AD PATHOLOGY BY REGULATING LIPID METABOLISM AND POSSIBLY BY INTERACTING WITH APOE.",
+    "total_obligation": 1259833,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-03-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 622343.56,
+    "total_account_obligation": 1259833,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 622343.56
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1259833
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-04-01",
+      "end_date": "2026-03-31",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2312",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 622343.56
+  }
+}

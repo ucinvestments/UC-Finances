@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717573,
+    "Award ID": "S10OD030440",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 878155.85,
+    "Total Outlays": 878155.85,
+    "Description": "MULTIMODALITY PET/CT SCANNER FOR SMALL ANIMAL IMAGING - PROJECT SUMMARY/ABSTRACT THE GOAL OF THIS PROPOSAL IS TO SECURE FUNDING FOR AN INSTRUMENT DEDICATED TO IN VIVO IMAGING OF SMALL ANIMAL MODELS OF HUMAN DISEASES VIA INTEGRATED POSITRON EMISSION TOMOGRAPHY (PET)/X-RAY COMPUTED TOMOGRAPHY (CT). THE INSTRUMENT WE PROPOSE IS THE GNEXT PET/CT SYSTEM MANUFACTURED BY SOFIE BIOSCIENCES INC. THE PET COMPONENT OFFERS A HIGH-RESOLUTION, HIGH-SENSITIVITY, AND VERSATILE PLATFORM FOR SMALL-ANIMAL MOLECULAR IMAGING. THE CT COMPONENT IS A FAST, HIGH-RESOLUTION SYSTEM THAT ENABLES SEQUENTIAL SCANNING FOR ANATOMY ALONGSIDE MOLECULAR IMAGING BY PET. THIS SYSTEM WILL REPLACE OBSOLETE, STAND-ALONE PET AND CT SCANNERS WHICH ARE NO LONGER SUPPORTED BY THE MANUFACTURER AND FOR WHICH CERTAIN KEY COMPONENTS ARE NO LONGER AVAILABLE. THE LACK OF SUPPORT FOR THESE EXISTING SCANNERS IS A MAJOR VULNERABILITY FOR A WIDE RANGE OF PRECLINICAL IMAGING RESEARCH AT OUR INSTITUTION. THE PET/CT SCANNER WILL BE INSTALLED AT THE UC DAVIS CENTER FOR MOLECULAR AND GENOMIC IMAGING (CMGI), WHICH IS A CAMPUS-DESIGNATED AND SUPPORTED CORE FACILITY PROVIDING INFRASTRUCTURE AND EXPERTISE TO CONDUCT IN VIVO IMAGING STUDIES IN SMALL-ANIMAL MODELS. CMGI OVERSEES A CYCLOTRON AND RADIOCHEMISTRY FACILITIES DEDICATED TO PRECLINICAL IMAGING RESEARCH AND PROVIDES A WIDE RANGE OF TRACERS AND RADIOLIGANDS THAT WILL BE AVAILABLE TO USE WITH THE PROPOSED SCANNER. INSTITUTIONAL SUPPORT PROVIDED TO THE CMGI ENSURES ITS SUCCESSFUL OPERATION AND MAINTENANCE FOR ITS LIFETIME. THE INSTRUMENT WILL SUPPORT AT LEAST 11 MAJOR AND MINOR USERS WHO ARE CONDUCTING NIH-FUNDED RESEARCH IN DIVERSE AREAS SUCH AS NEUROLOGY, ONCOLOGY, RHEUMATOLOGY, ORTHOPAEDICS, NANOTECHNOLOGY AND BIOMEDICAL ENGINEERING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-04-15",
+    "End Date": "2023-07-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD030440_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717573,
+    "generated_unique_award_id": "ASST_NON_S10OD030440_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MULTIMODALITY PET/CT SCANNER FOR SMALL ANIMAL IMAGING - PROJECT SUMMARY/ABSTRACT THE GOAL OF THIS PROPOSAL IS TO SECURE FUNDING FOR AN INSTRUMENT DEDICATED TO IN VIVO IMAGING OF SMALL ANIMAL MODELS OF HUMAN DISEASES VIA INTEGRATED POSITRON EMISSION TOMOGRAPHY (PET)/X-RAY COMPUTED TOMOGRAPHY (CT). THE INSTRUMENT WE PROPOSE IS THE GNEXT PET/CT SYSTEM MANUFACTURED BY SOFIE BIOSCIENCES INC. THE PET COMPONENT OFFERS A HIGH-RESOLUTION, HIGH-SENSITIVITY, AND VERSATILE PLATFORM FOR SMALL-ANIMAL MOLECULAR IMAGING. THE CT COMPONENT IS A FAST, HIGH-RESOLUTION SYSTEM THAT ENABLES SEQUENTIAL SCANNING FOR ANATOMY ALONGSIDE MOLECULAR IMAGING BY PET. THIS SYSTEM WILL REPLACE OBSOLETE, STAND-ALONE PET AND CT SCANNERS WHICH ARE NO LONGER SUPPORTED BY THE MANUFACTURER AND FOR WHICH CERTAIN KEY COMPONENTS ARE NO LONGER AVAILABLE. THE LACK OF SUPPORT FOR THESE EXISTING SCANNERS IS A MAJOR VULNERABILITY FOR A WIDE RANGE OF PRECLINICAL IMAGING RESEARCH AT OUR INSTITUTION. THE PET/CT SCANNER WILL BE INSTALLED AT THE UC DAVIS CENTER FOR MOLECULAR AND GENOMIC IMAGING (CMGI), WHICH IS A CAMPUS-DESIGNATED AND SUPPORTED CORE FACILITY PROVIDING INFRASTRUCTURE AND EXPERTISE TO CONDUCT IN VIVO IMAGING STUDIES IN SMALL-ANIMAL MODELS. CMGI OVERSEES A CYCLOTRON AND RADIOCHEMISTRY FACILITIES DEDICATED TO PRECLINICAL IMAGING RESEARCH AND PROVIDES A WIDE RANGE OF TRACERS AND RADIOLIGANDS THAT WILL BE AVAILABLE TO USE WITH THE PROPOSED SCANNER. INSTITUTIONAL SUPPORT PROVIDED TO THE CMGI ENSURES ITS SUCCESSFUL OPERATION AND MAINTENANCE FOR ITS LIFETIME. THE INSTRUMENT WILL SUPPORT AT LEAST 11 MAJOR AND MINOR USERS WHO ARE CONDUCTING NIH-FUNDED RESEARCH IN DIVERSE AREAS SUCH AS NEUROLOGY, ONCOLOGY, RHEUMATOLOGY, ORTHOPAEDICS, NANOTECHNOLOGY AND BIOMEDICAL ENGINEERING.",
+    "total_obligation": 878155.85,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-04-07",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 878155.85,
+    "total_account_obligation": 878155.85,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 878155.85
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 878155.85
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2022-04-15",
+      "end_date": "2023-07-14",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 878155.85
+  }
+}

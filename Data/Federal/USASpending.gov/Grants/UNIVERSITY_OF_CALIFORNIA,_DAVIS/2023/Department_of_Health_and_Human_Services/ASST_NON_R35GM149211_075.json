@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91330129,
+    "Award ID": "R35GM149211",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1071667,
+    "Total Outlays": 720149.53,
+    "Description": "LYSOSOMAL CONTROL OF PLASMA MEMBRANE -ENDOPLASMIC RETICULUM MEMBRANE CONTACTS REGULATES NEURONAL EXCITABILITY - PROJECT SUMMARY LYSOSOMES ARE SOPHISTICATED AND DYNAMIC CELLULAR SIGNALING CENTERS THAT CONTROL METABOLISM, GENE TRANSCRIPTION, CALCIUM (CA2+) HOMEOSTASIS, AND AUTOPHAGY. A KEY MECHANISM THROUGH WHICH LYSOSOMES COMMUNICATE AND RECEIVE INSTRUCTION IS VIA TRANSFER OF CHOLESTEROL AT ER–LYSOSOME MEMBRANE CONTACT SITES. AT THESE CONTACTS THE NIEMANN PICK C1 CHOLESTEROL TRANSPORTER (NPC1) FACILITATES THE EFFLUX OF CHOLESTEROL OUT OF THE LYSOSOME BEFORE IT IS TRANSFERRED TO THE ER FOR DISTRIBUTION TO OTHER CELLULAR MEMBRANES. THUS, NPC1 IS A KEY GATEKEEPER IN CHOLESTEROL METABOLISM. FURTHER UNDERSCORING ITS IMPORTANCE, LOSS OF FUNCTION MUTATIONS IN NPC1 LEAD TO THE PROGRESSIVE NEURODEGENERATIVE DISORDER, NPC DISEASE. THIS FATAL CONDITION HAS NO CURE AND IS CHARACTERIZED BY THE ACCUMULATION OF CHOLESTEROL WITHIN LYSOSOME LUMEN AND THE PROGRESSIVE NEURODEGENERATION OF SEVERAL BRAIN REGIONS THAT ARE ACCOMPANIED BY A HOST OF DEVASTATING SYMPTOMS INCLUDING SEIZURES, PSYCHIATRIC PROBLEMS, AND DEMENTIA. NOTWITHSTANDING CLEAR NEUROPATHOLOGICAL CONSEQUENCES FOR CHOLESTEROL DYSREGULATION IN NPC DISEASE, THE MOLECULAR MECHANISM(S) LINKING LOSS OF NPC1 FUNCTION TO DISEASE NEUROPATHOLOGY ARE UNKNOWN. RECENTLY OUR GROUP HAS REPORTED THAT LOSS OF NPC1 FUNCTION RESULTS IN (I) NEURON HYPEREXCITABILITY, (II) REORGANIZATION OF ER– LYSOSOME, ER–GOLGI, AND ER–MITOCHONDRIAL MEMBRANE CONTACT SITES, AND (III) INDUCES NEUROTOXIC INCREASES IN MITOCHONDRIAL CA2+. DESPITE THIS CRUCIAL INFORMATION THERE ARE CRITICAL GAPS IN OUR KNOWLEDGE REGARDING (1) THE CONSEQUENCES OF ENHANCED EXCITABILITY IN NPC DISEASE, (2) HOW LYSOSOMAL CHOLESTEROL TRANSPORT ALTERS THE MOLECULAR ELEMENTS AND CHOREOGRAPHY AT NEURONAL ER–PLASMA MEMBRANE (ER–PM) CONTACT SITES, AND (3) IF PLASMA MEMBRANE ION CHANNELS OR ER–PM JUNCTIONS CAN BE TARGETED TO REDUCE MITOCHONDRIAL TOXICITY AND INCREASE NEURON VIABILITY IN NPC DISEASE. OUR CENTRAL HYPOTHESIS IS THAT LOSS OF NPC1 FUNCTION RESULTS IN ABERRANT REMODELING OF ION CHANNEL DISTRIBUTION AND FUNCTION AT ER–PM CONTACTS TO DRIVE CYTOTOXIC INCREASES IN MITOCHONDRIAL CA2+ LEADING TO NEURODEGENERATION. TO TEST THIS HYPOTHESIS, WE IMPLEMENT A MULTI-SCALE APPROACH, INCLUDING SUPER-RESOLUTION IMAGING, ELECTROPHYSIOLOGY, OPTICAL MAPPING OF BRAIN EXCITABILITY, NOVEL MURINE MODELS, AND ANIMAL BEHAVIOR TESTING TO RIGOROUSLY INVESTIGATE THE MECHANISMS BY WHICH CHOLESTEROL EFFLUX FROM THE LYSOSOME TUNES NEURON VIABILITY. THE FUNDAMENTAL IMPORTANCE AND UBIQUITOUS EXPRESSION OF THE NPC CHOLESTEROL TRANSPORTER MEANS WE SHOULD PAY PARTICULAR ATTENTION TO MOLECULAR ELEMENTS AND SIGNALING CASCADES THAT ARE MODIFIED BY ITS ACTIVITY. INVESTIGATING THE RELATIONSHIP BETWEEN CHOLESTEROL HOMEOSTASIS AND ION CHANNEL SIGNALING AT ER–PM MEMBRANE CONTACTS IN NPC PROVIDES A TESTABLE MODEL FOR EXAMINING THE INTERDEPENDENCE OF LYSOSOMAL CHOLESTEROL AND ION CHANNEL ACTIVITY AND HAS BROAD IMPLICATIONS FOR SEVERAL FIELDS AND OTHER CHOLESTEROL- LINKED DISEASES SUCH AS ALZHEIMER’S AND PARKINSON’S.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-07-01",
+    "End Date": "2028-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM149211_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91330129,
+    "generated_unique_award_id": "ASST_NON_R35GM149211_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "LYSOSOMAL CONTROL OF PLASMA MEMBRANE -ENDOPLASMIC RETICULUM MEMBRANE CONTACTS REGULATES NEURONAL EXCITABILITY - PROJECT SUMMARY LYSOSOMES ARE SOPHISTICATED AND DYNAMIC CELLULAR SIGNALING CENTERS THAT CONTROL METABOLISM, GENE TRANSCRIPTION, CALCIUM (CA2+) HOMEOSTASIS, AND AUTOPHAGY. A KEY MECHANISM THROUGH WHICH LYSOSOMES COMMUNICATE AND RECEIVE INSTRUCTION IS VIA TRANSFER OF CHOLESTEROL AT ER–LYSOSOME MEMBRANE CONTACT SITES. AT THESE CONTACTS THE NIEMANN PICK C1 CHOLESTEROL TRANSPORTER (NPC1) FACILITATES THE EFFLUX OF CHOLESTEROL OUT OF THE LYSOSOME BEFORE IT IS TRANSFERRED TO THE ER FOR DISTRIBUTION TO OTHER CELLULAR MEMBRANES. THUS, NPC1 IS A KEY GATEKEEPER IN CHOLESTEROL METABOLISM. FURTHER UNDERSCORING ITS IMPORTANCE, LOSS OF FUNCTION MUTATIONS IN NPC1 LEAD TO THE PROGRESSIVE NEURODEGENERATIVE DISORDER, NPC DISEASE. THIS FATAL CONDITION HAS NO CURE AND IS CHARACTERIZED BY THE ACCUMULATION OF CHOLESTEROL WITHIN LYSOSOME LUMEN AND THE PROGRESSIVE NEURODEGENERATION OF SEVERAL BRAIN REGIONS THAT ARE ACCOMPANIED BY A HOST OF DEVASTATING SYMPTOMS INCLUDING SEIZURES, PSYCHIATRIC PROBLEMS, AND DEMENTIA. NOTWITHSTANDING CLEAR NEUROPATHOLOGICAL CONSEQUENCES FOR CHOLESTEROL DYSREGULATION IN NPC DISEASE, THE MOLECULAR MECHANISM(S) LINKING LOSS OF NPC1 FUNCTION TO DISEASE NEUROPATHOLOGY ARE UNKNOWN. RECENTLY OUR GROUP HAS REPORTED THAT LOSS OF NPC1 FUNCTION RESULTS IN (I) NEURON HYPEREXCITABILITY, (II) REORGANIZATION OF ER– LYSOSOME, ER–GOLGI, AND ER–MITOCHONDRIAL MEMBRANE CONTACT SITES, AND (III) INDUCES NEUROTOXIC INCREASES IN MITOCHONDRIAL CA2+. DESPITE THIS CRUCIAL INFORMATION THERE ARE CRITICAL GAPS IN OUR KNOWLEDGE REGARDING (1) THE CONSEQUENCES OF ENHANCED EXCITABILITY IN NPC DISEASE, (2) HOW LYSOSOMAL CHOLESTEROL TRANSPORT ALTERS THE MOLECULAR ELEMENTS AND CHOREOGRAPHY AT NEURONAL ER–PLASMA MEMBRANE (ER–PM) CONTACT SITES, AND (3) IF PLASMA MEMBRANE ION CHANNELS OR ER–PM JUNCTIONS CAN BE TARGETED TO REDUCE MITOCHONDRIAL TOXICITY AND INCREASE NEURON VIABILITY IN NPC DISEASE. OUR CENTRAL HYPOTHESIS IS THAT LOSS OF NPC1 FUNCTION RESULTS IN ABERRANT REMODELING OF ION CHANNEL DISTRIBUTION AND FUNCTION AT ER–PM CONTACTS TO DRIVE CYTOTOXIC INCREASES IN MITOCHONDRIAL CA2+ LEADING TO NEURODEGENERATION. TO TEST THIS HYPOTHESIS, WE IMPLEMENT A MULTI-SCALE APPROACH, INCLUDING SUPER-RESOLUTION IMAGING, ELECTROPHYSIOLOGY, OPTICAL MAPPING OF BRAIN EXCITABILITY, NOVEL MURINE MODELS, AND ANIMAL BEHAVIOR TESTING TO RIGOROUSLY INVESTIGATE THE MECHANISMS BY WHICH CHOLESTEROL EFFLUX FROM THE LYSOSOME TUNES NEURON VIABILITY. THE FUNDAMENTAL IMPORTANCE AND UBIQUITOUS EXPRESSION OF THE NPC CHOLESTEROL TRANSPORTER MEANS WE SHOULD PAY PARTICULAR ATTENTION TO MOLECULAR ELEMENTS AND SIGNALING CASCADES THAT ARE MODIFIED BY ITS ACTIVITY. INVESTIGATING THE RELATIONSHIP BETWEEN CHOLESTEROL HOMEOSTASIS AND ION CHANNEL SIGNALING AT ER–PM MEMBRANE CONTACTS IN NPC PROVIDES A TESTABLE MODEL FOR EXAMINING THE INTERDEPENDENCE OF LYSOSOMAL CHOLESTEROL AND ION CHANNEL ACTIVITY AND HAS BROAD IMPLICATIONS FOR SEVERAL FIELDS AND OTHER CHOLESTEROL- LINKED DISEASES SUCH AS ALZHEIMER’S AND PARKINSON’S.",
+    "total_obligation": 1071667,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-06-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 720149.53,
+    "total_account_obligation": 1071667,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 720149.53
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1071667
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-07-01",
+      "end_date": "2028-06-30",
+      "last_modified_date": "2025-07-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 720149.53
+  }
+}

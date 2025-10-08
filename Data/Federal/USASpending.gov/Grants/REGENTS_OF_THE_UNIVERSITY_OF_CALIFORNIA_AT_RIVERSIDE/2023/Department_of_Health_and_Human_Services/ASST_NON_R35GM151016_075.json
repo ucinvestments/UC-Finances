@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91330413,
+    "Award ID": "R35GM151016",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1166250,
+    "Total Outlays": 305271.38,
+    "Description": "INVESTIGATING THE MOLECULAR BASIS OF TRANSPOSON REGULATION AND FUNCTION IN ANIMAL DEVELOPMENT - PROJECT SUMMARY  TRANSPOSABLE ELEMENTS (TES) ARE MOBILE GENETIC ELEMENTS THAT CAN PROPAGATE WITHIN THE HOST DNA AND HAVE A SIGNIFICANT IMPACT ON THE GENOME ORGANIZATION AND FUNCTION. TES ARE UBIQUITOUS ACROSS THE TREE OF LIFE AND OCCUPY SUBSTANTIAL FRACTIONS OF ANIMAL GENOMES - ABOUT 20% OF THE D. MELANOGASTER, AND 45-50% OF HUMAN AND MOUSE GENOMES CONSIST OF TE FRAGMENTS THAT HAVE ACCUMULATED THROUGHOUT EVOLUTION, AND ACTIVE TES ARE A MAJOR SOURCE OF GENETIC AND EPIGENETIC VARIATION. DESPITE THEIR PREVALENCE, TES’ UNUSUAL CHARACTERISTICS AND HIGH COPY NUMBERS LEFT THEM POORLY ANNOTATED, AND AMONG THE MOST ENIGMATIC AND UNDERSTUDIED GENETIC ELEMENTS.  TES ARE TYPICALLY SEEN AS HARMFUL, AS THEIR MOBILITY CAUSES DNA DAMAGE AND CAN IMPACT THE HOST GENOME AND TRANSCRIPTOME BY DIRECTLY DISRUPTING FUNCTIONAL ELEMENTS OR INTRODUCING ECTOPIC BINDING SITES FOR TRANSCRIPTIONAL AND EPIGENETIC REGULATORS. TO PREVENT THEIR DELETERIOUS ACTIVITIES, TES ARE TARGETED BY VARIOUS SILENCING MECHANISMS. AMONG THESE, THE PIRNA PATHWAY ENFORCES TRANSCRIPTIONAL AND POST-TRANSCRIPTION REPRESSION OF TES IN ANIMAL GERMLINES, WHICH IS CRUCIAL FOR FERTILITY AND PRESERVING THE INTEGRITY OF GENETIC INFORMATION ACROSS GENERATIONS. ON THE OTHER HAND, TES ARE AN IMPORTANT SOURCE OF EVOLUTIONARY INNOVATION AND THERE IS A GROWING BODY OF LITERATURE ON TE-DERIVED REGULATORY REGIONS AND FUNCTIONAL PRODUCTS THAT BECAME INCORPORATED INTO HOST REGULATORY NETWORKS. INTERESTINGLY, EARLY EMBRYOGENESIS OF BOTH VERTEBRATES AND INVERTEBRATES IS CHARACTERIZED BY A SPIKE OF TE ACTIVITY, AND AT LEAST IN MICE, TIMELY ACTIVATION OF SPECIFIC TES IS ESSENTIAL FOR NORMAL DEVELOPMENTAL PROGRESSION. HOWEVER, THE DIVERSITY OF PRODUCTS FROM TES AND THEIR FUNCTIONAL ROLES IN SOMATIC CELLS IN BOTH SYSTEMS REMAIN POORLY CHARACTERIZED, LARGELY OWING TO LONG-STANDING TECHNICAL DIFFICULTIES IN THE GENOMIC ANALYSIS OF ELEMENTS THAT EXIST IN HIGH COPY NUMBERS.  THE MOLECULAR MECHANISMS OF TE REGULATION AND THE FUNCTIONAL IMPLICATIONS OF TE ACTIVITY ARE CENTRAL AREAS OF INTEREST FOR MY LABORATORY. I PRESENT A RESEARCH PROGRAM THAT ADDRESSES KEY QUESTIONS WITHIN TWO MAJOR ASPECTS OF TE BIOLOGY: 1) THE MECHANISM AND REGULATION OF PIRNA-MEDIATED TE SILENCING IN THE GERMLINE AND 2) THE CHARACTERISTICS AND FUNCTIONS OF SOMATIC TE EXPRESSION DURING DEVELOPMENT, USING THE CLASSIC MODEL DROSOPHILA AS A PARADIGM. FIRST, I PROPOSE A FOCUSED STRATEGY TO DISSECT THE REGULATION AND FUNCTION OF SEVERAL KEY PIRNA PATHWAY COMPONENTS, BUILDING ON MY PREVIOUS FINDINGS THAT PROTEIN SUMOYLATION PLAYS ESSENTIAL ROLES IN PIRNA BIOGENESIS AND TE SILENCING. IN PARALLEL, I PLAN TO LEVERAGE STATE-OF-THE-ART LONG-READ AND SINGLE-CELL SEQUENCING TECHNOLOGIES TO OVERCOME HISTORICAL LIMITATIONS TO THE GENOMIC ANALYSIS OF THE TE-DERIVED TRANSCRIPTOME, WITH THE LONG-TERM GOAL OF ELUCIDATING THE MOLECULAR BASIS AND FUNCTIONAL CONSEQUENCES OF SOMATIC TE ACTIVITY IN THE DEVELOPING ORGANISM.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-08-01",
+    "End Date": "2028-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM151016_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91330413,
+    "generated_unique_award_id": "ASST_NON_R35GM151016_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INVESTIGATING THE MOLECULAR BASIS OF TRANSPOSON REGULATION AND FUNCTION IN ANIMAL DEVELOPMENT - PROJECT SUMMARY  TRANSPOSABLE ELEMENTS (TES) ARE MOBILE GENETIC ELEMENTS THAT CAN PROPAGATE WITHIN THE HOST DNA AND HAVE A SIGNIFICANT IMPACT ON THE GENOME ORGANIZATION AND FUNCTION. TES ARE UBIQUITOUS ACROSS THE TREE OF LIFE AND OCCUPY SUBSTANTIAL FRACTIONS OF ANIMAL GENOMES - ABOUT 20% OF THE D. MELANOGASTER, AND 45-50% OF HUMAN AND MOUSE GENOMES CONSIST OF TE FRAGMENTS THAT HAVE ACCUMULATED THROUGHOUT EVOLUTION, AND ACTIVE TES ARE A MAJOR SOURCE OF GENETIC AND EPIGENETIC VARIATION. DESPITE THEIR PREVALENCE, TES’ UNUSUAL CHARACTERISTICS AND HIGH COPY NUMBERS LEFT THEM POORLY ANNOTATED, AND AMONG THE MOST ENIGMATIC AND UNDERSTUDIED GENETIC ELEMENTS.  TES ARE TYPICALLY SEEN AS HARMFUL, AS THEIR MOBILITY CAUSES DNA DAMAGE AND CAN IMPACT THE HOST GENOME AND TRANSCRIPTOME BY DIRECTLY DISRUPTING FUNCTIONAL ELEMENTS OR INTRODUCING ECTOPIC BINDING SITES FOR TRANSCRIPTIONAL AND EPIGENETIC REGULATORS. TO PREVENT THEIR DELETERIOUS ACTIVITIES, TES ARE TARGETED BY VARIOUS SILENCING MECHANISMS. AMONG THESE, THE PIRNA PATHWAY ENFORCES TRANSCRIPTIONAL AND POST-TRANSCRIPTION REPRESSION OF TES IN ANIMAL GERMLINES, WHICH IS CRUCIAL FOR FERTILITY AND PRESERVING THE INTEGRITY OF GENETIC INFORMATION ACROSS GENERATIONS. ON THE OTHER HAND, TES ARE AN IMPORTANT SOURCE OF EVOLUTIONARY INNOVATION AND THERE IS A GROWING BODY OF LITERATURE ON TE-DERIVED REGULATORY REGIONS AND FUNCTIONAL PRODUCTS THAT BECAME INCORPORATED INTO HOST REGULATORY NETWORKS. INTERESTINGLY, EARLY EMBRYOGENESIS OF BOTH VERTEBRATES AND INVERTEBRATES IS CHARACTERIZED BY A SPIKE OF TE ACTIVITY, AND AT LEAST IN MICE, TIMELY ACTIVATION OF SPECIFIC TES IS ESSENTIAL FOR NORMAL DEVELOPMENTAL PROGRESSION. HOWEVER, THE DIVERSITY OF PRODUCTS FROM TES AND THEIR FUNCTIONAL ROLES IN SOMATIC CELLS IN BOTH SYSTEMS REMAIN POORLY CHARACTERIZED, LARGELY OWING TO LONG-STANDING TECHNICAL DIFFICULTIES IN THE GENOMIC ANALYSIS OF ELEMENTS THAT EXIST IN HIGH COPY NUMBERS.  THE MOLECULAR MECHANISMS OF TE REGULATION AND THE FUNCTIONAL IMPLICATIONS OF TE ACTIVITY ARE CENTRAL AREAS OF INTEREST FOR MY LABORATORY. I PRESENT A RESEARCH PROGRAM THAT ADDRESSES KEY QUESTIONS WITHIN TWO MAJOR ASPECTS OF TE BIOLOGY: 1) THE MECHANISM AND REGULATION OF PIRNA-MEDIATED TE SILENCING IN THE GERMLINE AND 2) THE CHARACTERISTICS AND FUNCTIONS OF SOMATIC TE EXPRESSION DURING DEVELOPMENT, USING THE CLASSIC MODEL DROSOPHILA AS A PARADIGM. FIRST, I PROPOSE A FOCUSED STRATEGY TO DISSECT THE REGULATION AND FUNCTION OF SEVERAL KEY PIRNA PATHWAY COMPONENTS, BUILDING ON MY PREVIOUS FINDINGS THAT PROTEIN SUMOYLATION PLAYS ESSENTIAL ROLES IN PIRNA BIOGENESIS AND TE SILENCING. IN PARALLEL, I PLAN TO LEVERAGE STATE-OF-THE-ART LONG-READ AND SINGLE-CELL SEQUENCING TECHNOLOGIES TO OVERCOME HISTORICAL LIMITATIONS TO THE GENOMIC ANALYSIS OF THE TE-DERIVED TRANSCRIPTOME, WITH THE LONG-TERM GOAL OF ELUCIDATING THE MOLECULAR BASIS AND FUNCTIONAL CONSEQUENCES OF SOMATIC TE ACTIVITY IN THE DEVELOPING ORGANISM.",
+    "total_obligation": 1166250,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-07-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 305271.38,
+    "total_account_obligation": 1166250,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 305271.38
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1166250
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-08-01",
+      "end_date": "2028-05-31",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 305271.38
+  }
+}

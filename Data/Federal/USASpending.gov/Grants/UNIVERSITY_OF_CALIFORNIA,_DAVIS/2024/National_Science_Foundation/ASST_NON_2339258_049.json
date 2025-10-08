@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57279130,
+    "Award ID": "2339258",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1006802,
+    "Total Outlays": 101034.99,
+    "Description": "CAREER: RAPID NATURAL SELECTION DRIVEN BY MARINE HEAT WAVES -CLIMATE CHANGE IS REDISTRIBUTING SPECIES GLOBALLY, LEADING TO RANGE SHIFTS, POPULATION DECLINES, LOCAL EXTINCTIONS, AND CASCADING EFFECTS ON ECOSYSTEM FUNCTION AND PROVISIONING OF ECOSYSTEM SERVICES. IN THE OCEAN, INCREASING SEA SURFACE TEMPERATURE EXERTS NATURAL SELECTION, SHIFTING THE GENETIC COMPOSITION OF POPULATIONS. WHILE TEMPORAL BASELINES AND LONG-TERM DATASETS ARE BEGINNING TO EMERGE, THESE APPROACHES MAY TAKE DECADES TO YIELD CRITICAL RESULTS. ON THE OTHER HAND, EXTREME EVENTS SUCH AS MARINE HEATWAVES CAN PROVIDE A MEANS TO STUDY EVOLUTIONARY RESPONSES TO ENVIRONMENTAL CHANGE IN THE SHORT TERM. MASS MORTALITY DURING EXTREME CLIMATE EVENTS CAN RESULT IN DRAMATIC SHIFTS IN GENETIC COMPOSITION DUE TO NATURAL SELECTION, AFFECTING FUTURE ADAPTIVE CAPACITY. PERHAPS THE MOST WIDESPREAD EXAMPLE OF CLIMATE-DRIVEN DECLINE IS THE GLOBAL BLEACHING AND MORTALITY EXPERIENCED BY REEF-BUILDING CORALS OVER THE LAST DECADE. THIS PROJECT AIMS TO INVESTIGATE RAPID EVOLUTION IN REEF-BUILDING CORALS DURING A SINGLE MARINE HEATWAVE EVENT; HOW DOES THE MORTALITY INDUCED BY WARM WATER EVENTS CHANGE THE GENETIC COMPOSITION OF CORAL POPULATIONS? A COMBINATION OF FIELD EXPERIMENTS AND GENOMIC SEQUENCING WILL YIELD NEW INFORMATION ON WHICH INDIVIDUALS ARE MOST LIKELY TO SURVIVE MARINE HEATWAVE EVENTS, WHICH GENES CONFER TOLERANCE, AND HOW PREDICTABLE THE EVOLUTIONARY RESPONSE IS. THESE RESEARCH GOALS ARE INTERTWINED WITH THE EDUCATIONAL GOALS OF THIS PROPOSAL, WHICH FOCUS ON INCREASING STUDENT PERSISTENCE IN STEM BY REDUCING BARRIERS TO RESEARCH PARTICIPATION THROUGH A PIPELINE OF INCLUSIVE COURSES AND MENTORED RESEARCH EXPERIENCES. GLOBAL CHANGE HAS INVIGORATED INTEREST IN UNDERSTANDING THE DYNAMICS OF CONTEMPORARY EVOLUTION. HOWEVER, DUE TO THE CHALLENGES OF ESTABLISHING AND MAINTAINING LONGITUDINAL DATASETS MOST STUDIES OF CONTEMPORARY EVOLUTION RELY ON EITHER I) CONTRASTING POPULATIONS INHABITING SPATIAL ENVIRONMENTAL GRADIENTS OR II) LABORATORY EXPERIMENTS. IN THE FIRST, WE DO NOT DIRECTLY OBSERVE EVOLUTION, RATHER INFERRING ADAPTIVE PROCESSES BASED ON CURRENT PATTERNS OF GENETIC DIVERSITY. IN THE SECOND, WHILE WE MAY DIRECTLY OBSERVE EVOLUTION, WE ARE LIMITED BY THE CONDITIONS AND SPECIES THAT CAN BE ESTABLISHED IN LABORATORIES. THIS PROPOSAL LEVERAGES EXTREME CLIMATE EVENTS TO OBSERVE EVOLUTION IN REAL TIME AND IN NATURAL POPULATIONS OF THE REEF-BUILDING CORAL ACROPORA HYACINTHUS. PHENOTYPIC AND GENOMIC VARIATION WILL BE MEASURED PRIOR TO SELECTION AND THE CLONAL NATURE OF CORALS ALLOWS FOR REPLICATED ESTIMATES OF FITNESS (SURVIVAL). WE CAN THEREFORE TEST FUNDAMENTAL QUESTIONS IN EVOLUTIONARY BIOLOGY AND GLOBAL CHANGE, INCLUDING: 1) HOW DOES SELECTION SHAPE PLASTICITY AND TOLERANCE? 2) WHAT IS THE GENETIC ARCHITECTURE OF ADAPTATION? AND 3) HOW PREDICTABLE ARE EVOLUTIONARY RESPONSES TO ENVIRONMENTAL CHANGE? TOGETHER THIS WILL ADVANCE OUR UNDERSTANDING OF EVOLUTIONARY RESPONSES TO RAPID ENVIRONMENTAL CHANGE AND ENHANCE OUR ABILITY TO PREDICT RESPONSES TO FUTURE CLIMATE EVENTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-08-15",
+    "End Date": "2029-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2339258_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57279130,
+    "generated_unique_award_id": "ASST_NON_2339258_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAREER: RAPID NATURAL SELECTION DRIVEN BY MARINE HEAT WAVES -CLIMATE CHANGE IS REDISTRIBUTING SPECIES GLOBALLY, LEADING TO RANGE SHIFTS, POPULATION DECLINES, LOCAL EXTINCTIONS, AND CASCADING EFFECTS ON ECOSYSTEM FUNCTION AND PROVISIONING OF ECOSYSTEM SERVICES. IN THE OCEAN, INCREASING SEA SURFACE TEMPERATURE EXERTS NATURAL SELECTION, SHIFTING THE GENETIC COMPOSITION OF POPULATIONS. WHILE TEMPORAL BASELINES AND LONG-TERM DATASETS ARE BEGINNING TO EMERGE, THESE APPROACHES MAY TAKE DECADES TO YIELD CRITICAL RESULTS. ON THE OTHER HAND, EXTREME EVENTS SUCH AS MARINE HEATWAVES CAN PROVIDE A MEANS TO STUDY EVOLUTIONARY RESPONSES TO ENVIRONMENTAL CHANGE IN THE SHORT TERM. MASS MORTALITY DURING EXTREME CLIMATE EVENTS CAN RESULT IN DRAMATIC SHIFTS IN GENETIC COMPOSITION DUE TO NATURAL SELECTION, AFFECTING FUTURE ADAPTIVE CAPACITY. PERHAPS THE MOST WIDESPREAD EXAMPLE OF CLIMATE-DRIVEN DECLINE IS THE GLOBAL BLEACHING AND MORTALITY EXPERIENCED BY REEF-BUILDING CORALS OVER THE LAST DECADE. THIS PROJECT AIMS TO INVESTIGATE RAPID EVOLUTION IN REEF-BUILDING CORALS DURING A SINGLE MARINE HEATWAVE EVENT; HOW DOES THE MORTALITY INDUCED BY WARM WATER EVENTS CHANGE THE GENETIC COMPOSITION OF CORAL POPULATIONS? A COMBINATION OF FIELD EXPERIMENTS AND GENOMIC SEQUENCING WILL YIELD NEW INFORMATION ON WHICH INDIVIDUALS ARE MOST LIKELY TO SURVIVE MARINE HEATWAVE EVENTS, WHICH GENES CONFER TOLERANCE, AND HOW PREDICTABLE THE EVOLUTIONARY RESPONSE IS. THESE RESEARCH GOALS ARE INTERTWINED WITH THE EDUCATIONAL GOALS OF THIS PROPOSAL, WHICH FOCUS ON INCREASING STUDENT PERSISTENCE IN STEM BY REDUCING BARRIERS TO RESEARCH PARTICIPATION THROUGH A PIPELINE OF INCLUSIVE COURSES AND MENTORED RESEARCH EXPERIENCES. GLOBAL CHANGE HAS INVIGORATED INTEREST IN UNDERSTANDING THE DYNAMICS OF CONTEMPORARY EVOLUTION. HOWEVER, DUE TO THE CHALLENGES OF ESTABLISHING AND MAINTAINING LONGITUDINAL DATASETS MOST STUDIES OF CONTEMPORARY EVOLUTION RELY ON EITHER I) CONTRASTING POPULATIONS INHABITING SPATIAL ENVIRONMENTAL GRADIENTS OR II) LABORATORY EXPERIMENTS. IN THE FIRST, WE DO NOT DIRECTLY OBSERVE EVOLUTION, RATHER INFERRING ADAPTIVE PROCESSES BASED ON CURRENT PATTERNS OF GENETIC DIVERSITY. IN THE SECOND, WHILE WE MAY DIRECTLY OBSERVE EVOLUTION, WE ARE LIMITED BY THE CONDITIONS AND SPECIES THAT CAN BE ESTABLISHED IN LABORATORIES. THIS PROPOSAL LEVERAGES EXTREME CLIMATE EVENTS TO OBSERVE EVOLUTION IN REAL TIME AND IN NATURAL POPULATIONS OF THE REEF-BUILDING CORAL ACROPORA HYACINTHUS. PHENOTYPIC AND GENOMIC VARIATION WILL BE MEASURED PRIOR TO SELECTION AND THE CLONAL NATURE OF CORALS ALLOWS FOR REPLICATED ESTIMATES OF FITNESS (SURVIVAL). WE CAN THEREFORE TEST FUNDAMENTAL QUESTIONS IN EVOLUTIONARY BIOLOGY AND GLOBAL CHANGE, INCLUDING: 1) HOW DOES SELECTION SHAPE PLASTICITY AND TOLERANCE? 2) WHAT IS THE GENETIC ARCHITECTURE OF ADAPTATION? AND 3) HOW PREDICTABLE ARE EVOLUTIONARY RESPONSES TO ENVIRONMENTAL CHANGE? TOGETHER THIS WILL ADVANCE OUR UNDERSTANDING OF EVOLUTIONARY RESPONSES TO RAPID ENVIRONMENTAL CHANGE AND ENHANCE OUR ABILITY TO PREDICT RESPONSES TO FUTURE CLIMATE EVENTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 1006802,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-08-20",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 155395.73,
+    "total_account_obligation": 1006802,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 155395.73
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1006802
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF OCEAN SCIENCES"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF OCEAN SCIENCES"
+    },
+    "period_of_performance": {
+      "start_date": "2024-08-15",
+      "end_date": "2029-07-31",
+      "last_modified_date": "2025-09-10",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 155395.73
+  }
+}

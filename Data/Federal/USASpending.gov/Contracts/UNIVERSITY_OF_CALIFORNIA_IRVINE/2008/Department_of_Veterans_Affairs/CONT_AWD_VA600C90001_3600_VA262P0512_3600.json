@@ -70,5 +70,255 @@
     "pop_city_name": "",
     "pop_state_code": "",
     "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 166606226,
+    "generated_unique_award_id": "CONT_AWD_VA600C90001_3600_VA262P0512_3600",
+    "piid": "VA600C90001",
+    "category": "contract",
+    "type": "C",
+    "type_description": "DO",
+    "description": "ANESTHESIOLOGY SERVICES",
+    "total_obligation": 650000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2008-10-01",
+    "base_exercised_options": 650000,
+    "base_and_all_options": 1300000,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": {
+      "agency_id": 561,
+      "agency_name": "Department of Veterans Affairs",
+      "agency_slug": "department-of-veterans-affairs",
+      "award_id": 169753477,
+      "generated_unique_award_id": "CONT_IDV_VA262P0512_3600",
+      "idv_type_description": "IDC",
+      "multiple_or_single_aw_desc": "SINGLE AWARD",
+      "piid": "VA262P0512",
+      "sub_agency_id": "3600",
+      "sub_agency_name": "Department of Veterans Affairs",
+      "type_of_idc_description": "INDEFINITE DELIVERY / INDEFINITE QUANTITY"
+    },
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": "NAN",
+      "referenced_idv_agency_iden": "3600",
+      "referenced_idv_agency_desc": "DEPARTMENT OF VETERANS AFFAIRS",
+      "solicitation_identifier": "VA-262-08-RQ-0512",
+      "solicitation_procedures": "SSS",
+      "number_of_offers_received": "1",
+      "extent_competed": "B",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "N",
+      "fed_biz_opps_description": "NO",
+      "small_business_competitive": false,
+      "product_or_service_code": "Q501",
+      "naics": "621111",
+      "naics_description": "OFFICES OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS)",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N: NO",
+      "labor_standards": "N",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "ONLY ONE SOURCE",
+      "extent_competed_description": "NOT AVAILABLE FOR COMPETITION",
+      "other_than_full_and_open": "OTH",
+      "other_than_full_and_open_description": "AUTHORIZED BY STATUTE",
+      "commercial_item_acquisition": "A",
+      "commercial_item_acquisition_description": "",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": "ONE",
+      "fair_opportunity_limited_description": "ONLY ONE SOURCE - OTHER",
+      "product_or_service_description": "ANESTHESIOLOGY SERVICES",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "",
+      "construction_wage_rate": "N",
+      "construction_wage_rate_description": "NO",
+      "labor_standards_description": "NO",
+      "materials_supplies": "N",
+      "materials_supplies_description": "NO",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 561,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Veterans Affairs",
+        "code": "036",
+        "abbreviation": "VA",
+        "slug": "department-of-veterans-affairs"
+      },
+      "subtier_agency": {
+        "name": "Department of Veterans Affairs",
+        "code": "3600",
+        "abbreviation": "VA"
+      },
+      "office_agency_name": "262-NETWORK CONTRACT OFFICE 22"
+    },
+    "awarding_agency": {
+      "id": 561,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Veterans Affairs",
+        "code": "036",
+        "abbreviation": "VA",
+        "slug": "department-of-veterans-affairs"
+      },
+      "subtier_agency": {
+        "name": "Department of Veterans Affairs",
+        "code": "3600",
+        "abbreviation": "VA"
+      },
+      "office_agency_name": "262-NETWORK CONTRACT OFFICE 22"
+    },
+    "period_of_performance": {
+      "start_date": "2008-10-01",
+      "end_date": "2009-03-31",
+      "last_modified_date": "2010-09-29",
+      "potential_end_date": "2009-09-30 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": "046705849",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Corporate Entity Tax Exempt",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "Special Designations",
+        "U.S.-Owned Business"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "",
+        "city_name": "IRVINE",
+        "county_code": "",
+        "county_name": "",
+        "address_line1": "4199 CAMPUS DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "926970001",
+        "zip5": "",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LONG BEACH",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "42",
+      "zip4": "0001",
+      "zip5": "90822",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "Q",
+        "description": "MEDICAL SERVICES"
+      },
+      "midtier_code": {
+        "code": "Q5",
+        "description": "MEDICAL, DENTAL, AND SURGICAL SVCS"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "Q501",
+        "description": "MEDICAL- ANESTHESIOLOGY"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "62",
+        "description": "Health Care and Social Assistance"
+      },
+      "midtier_code": {
+        "code": "6211",
+        "description": "Offices of Physicians"
+      },
+      "base_code": {
+        "code": "621111",
+        "description": "Offices of Physicians (except Mental Health Specialists)"
+      }
+    },
+    "total_outlay": 0
   }
 }

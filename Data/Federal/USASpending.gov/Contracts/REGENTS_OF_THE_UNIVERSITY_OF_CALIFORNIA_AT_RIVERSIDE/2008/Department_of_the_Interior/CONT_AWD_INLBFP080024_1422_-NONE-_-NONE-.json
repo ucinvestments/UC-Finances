@@ -1,0 +1,311 @@
+{
+  "basic_data": {
+    "internal_id": 128429980,
+    "Award ID": "INLBFP080024",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 3000.3,
+    "Total Outlays": null,
+    "Description": "",
+    "Contract Award Type": "PO",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNVERSITY OFFICE BLDG",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "44",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "44",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925210001",
+      "zip5": "92521"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of the Interior",
+    "Awarding Sub Agency": "Bureau of Land Management",
+    "Start Date": "2008-03-20",
+    "End Date": "2008-03-20",
+    "NAICS": {
+      "code": "541720",
+      "description": "RESEARCH AND DEVELOPMENT IN THE SOCIAL SCIENCES AND HUMANITIES"
+    },
+    "PSC": {
+      "code": "7640",
+      "description": "MAPS, ATLASES, CHARTS, AND GLOBES"
+    },
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_INLBFP080024_1422_-NONE-_-NONE-",
+    "awarding_agency_id": 209,
+    "agency_slug": "department-of-the-interior",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 128429980,
+    "generated_unique_award_id": "CONT_AWD_INLBFP080024_1422_-NONE-_-NONE-",
+    "piid": "INLBFP080024",
+    "category": "contract",
+    "type": "B",
+    "type_description": "PO",
+    "description": "",
+    "total_obligation": 3000.3,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2008-03-20",
+    "base_exercised_options": 3000.3,
+    "base_and_all_options": 3000.3,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": "NAN",
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": null,
+      "solicitation_procedures": "SP1",
+      "number_of_offers_received": "0",
+      "extent_competed": "F",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "X",
+      "fed_biz_opps_description": "NOT APPLICABLE",
+      "small_business_competitive": false,
+      "product_or_service_code": "7640",
+      "naics": "541720",
+      "naics_description": "RESEARCH AND DEVELOPMENT IN THE SOCIAL SCIENCES AND HUMANITIES",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N: NO",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "NO",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "SIMPLIFIED ACQUISITION",
+      "extent_competed_description": "COMPETED UNDER SAP",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": "NAN",
+      "product_or_service_description": "MAPS, ATLASES, CHARTS, AND GLOBES",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "0",
+      "subcontracting_plan_description": "",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "NOT REPORTED",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 227,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "Bureau of Land Management",
+        "code": "1422",
+        "abbreviation": "BLM"
+      },
+      "office_agency_name": "CA-CALIFORNIA DESERT DISTRICT OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2008-03-20",
+      "end_date": "2008-03-20",
+      "last_modified_date": "2008-10-08",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": "627797426",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Corporate Entity Not Tax Exempt",
+        "Educational Institution",
+        "Federally Funded Research and Development Corp",
+        "Higher Education",
+        "Not Designated a Small Business",
+        "Special Designations",
+        "U.S.-Owned Business"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "",
+        "city_name": "RIVERSIDE",
+        "county_code": "",
+        "county_name": "",
+        "address_line1": "200 UNVERSITY OFFICE BLDG",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "925210001",
+        "zip5": "",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "76",
+        "description": "BOOKS, MAPS, OTHER PUBLICATIONS"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "7640",
+        "description": "MAPS, ATLASES, CHARTS, AND GLOBES"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5417",
+        "description": "Scientific Research and Development Services"
+      },
+      "base_code": {
+        "code": "541720",
+        "description": "Research and Development in the Social Sciences and Humanities"
+      }
+    },
+    "total_outlay": 0
+  }
+}

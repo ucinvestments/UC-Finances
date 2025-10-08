@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57478484,
+    "Award ID": "2416267",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1269993,
+    "Total Outlays": 183325.54,
+    "Description": "NSF-BSF: CYTOSKELETAL MOTOR ASSEMBLIES FOR PLANT CYTOKINESIS -PLANT GROWTH IS BROUGHT ABOUT BY CONTINUOUS CELL DIVISIONS THAT TAKE PLACE IN A REGULATED MANNER THROUGHOUT A PLANT?S LIFE. TO PRODUCE CELLS FOR NEW TISSUES, PLANTS MUST PRECISELY ORIENT THE DIVISION PLANE WHEN CELLS UNDERGO CELL DIVISION, SIMPLY BECAUSE PLANT CELLS CANNOT MOVE. IN ORDER TO REGULATE DIVISION, PLANT CELLS ESTABLISH A DIVISION SITE AT VERY EARLY STAGES OF CELL DIVISION BY BUILDING LARGE ARRAYS OF PROTEINS CALLED MICROTUBULES THAT FORM AN ARRAY AT THE CELL SURFACE, WHICH THEN IS TAKEN APART AFTER CELLS ENTER LATER STAGES OF DIVISION. THE SITE AT THE CELL SURFACE IS WHERE NEW CELL WALL IS SYNTHESIZED TO DIVIDE THE MOTHER CELL INTO TWO DAUGHTER CELLS THAT ARE ALIGNED PROPERLY FOR FURTHER GROWTH. THIS PROJECT IS AIMED AT UNDERSTANDING THE MOLECULAR BASIS OF HOW THE CELL DIVISION PLANE IS DETERMINED. EARLIER ACCOMPLISHMENTS IN THE COLLABORATING US AND ISRAELI LABORATORIES LED TO THE IDENTIFICATION OF SEVERAL KEY PROTEINS AFFECTING FORMATION OF MICROTUBULE ARRAYS. BECAUSE PLANT AND ANIMAL CELLS EXHIBIT GREAT DIFFERENCES IN HOW CELL DIVISION OCCURS, THE OUTCOME OF THIS STUDY WILL ALSO SHED LIGHT ON UNDERSTANDING THE DIFFERENT UNDERLYING MECHANISMS POSSIBLE IN CELL DIVISION AMONG ALL SPECIES. THE PROJECT WILL ALSO PROVIDE MULTIDISCIPLINARY TRAINING TO PARTICIPATING UNDERGRADUATE AND GRADUATE STUDENTS, THE PIS ALSO WILL CREATE AN HISTORICAL PERSPECTIVE ON THE DEVELOPMENT OF RESEARCH ON PLANTS SUITABLE FOR A WIDER AUDIENCE OF STUDENTS INTERESTED IN PLANT SCIENCE. TO BUILD A NEW CELL WALL DURING CYTOKINESIS, A MITOTIC PLANT CELL FORMS THE MICROTUBULAR PREPROPHASE BAND (PPB). THE PPB MARKS THE FUTURE CORTICAL DIVISION SITE AND DISAPPEARS UPON NUCLEAR ENVELOPE BREAKDOWN. EARLIER STUDIES INDICATED THAT INTACT ACTIN FILAMENTS ARE REQUIRED FOR THE CYTOKINETIC APPARATUS OF THE PHRAGMOPLAST TO RECOGNIZE THE DIVISION SITE. THIS WORK BUILDS ON THE DISCOVERY OF LARGE MOLECULAR ASSEMBLIES CONTAINING BOTH KINESIN-12 MOTORS AND MYOSIN XI MOTORS, AS WELL AS OTHER NOVEL PROTEINS. THE PROJECT EMPLOYS APPROACHES OF MOLECULAR GENETICS, CELL BIOLOGY INCLUDING LIVE-CELL IMAGING, AND PROTEIN BIOCHEMISTRY INCLUDING MASS SPECTROMETRY TO ANSWER A LONG-STANDING QUESTION OF HOW THE PPB AT PROPHASE AND THE PHRAGMOPLAST AT TELOPHASE/CYTOKINESIS COMMUNICATE AT THE MOLECULAR LEVEL. THE PROJECT WILL FIRST DISSECT THE FUNCTION OF THE CYTOSKELETAL MOTOR ASSEMBLIES AT THE CORTICAL DIVISION SITE BY REVEALING HOW THE KINESIN-12 AND MYOSIN XI MOTORS ARE INTEGRATED TOGETHER WITH OTHER ASSOCIATED PROTEINS IN THE CORTICAL ASSEMBLIES. THE RESEARCH WILL ALSO TEST WHETHER HYPOTHESIZED CYTOSKELETAL MOTOR ASSEMBLIES FORMED IN THE PHRAGMOPLAST MIDZONE ARE CONNECTED TO THE MOLECULES AT THE CORTICAL DIVISION SITE. TO UNCOVER HOW THE CELL CYCLE-DEPENDENT FUNCTIONS OF SPECIFIC MYOSIN XI MOTORS ARE EXPRESSED, THE RESEARCH WILL REVEAL DYNAMIC SUBCELLULAR LOCATIONS OF DIFFERENT MOTOR PARALOGS AND DETERMINE WHETHER THEIR FUNCTIONS ARE REGULATED VIA PHOSPHORYLATION. THE OUTCOME OF THIS PROJECT WILL ADVANCE KNOWLEDGE OF HOW TWO MAJOR CYTOSKELETAL ELEMENTS AND THEIR ASSOCIATED MOTORS WORK IN CONCERT TO ORIENT THE CELL DIVISION PLANE IN PLANTS. THIS COLLABORATIVE US/ISRAEL PROJECT IS SUPPORTED BY THE US NATIONAL SCIENCE FOUNDATION AND THE ISRAELI BINATIONAL SCIENCE FOUNDATION. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-07-15",
+    "End Date": "2028-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2416267_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57478484,
+    "generated_unique_award_id": "ASST_NON_2416267_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NSF-BSF: CYTOSKELETAL MOTOR ASSEMBLIES FOR PLANT CYTOKINESIS -PLANT GROWTH IS BROUGHT ABOUT BY CONTINUOUS CELL DIVISIONS THAT TAKE PLACE IN A REGULATED MANNER THROUGHOUT A PLANT?S LIFE. TO PRODUCE CELLS FOR NEW TISSUES, PLANTS MUST PRECISELY ORIENT THE DIVISION PLANE WHEN CELLS UNDERGO CELL DIVISION, SIMPLY BECAUSE PLANT CELLS CANNOT MOVE. IN ORDER TO REGULATE DIVISION, PLANT CELLS ESTABLISH A DIVISION SITE AT VERY EARLY STAGES OF CELL DIVISION BY BUILDING LARGE ARRAYS OF PROTEINS CALLED MICROTUBULES THAT FORM AN ARRAY AT THE CELL SURFACE, WHICH THEN IS TAKEN APART AFTER CELLS ENTER LATER STAGES OF DIVISION. THE SITE AT THE CELL SURFACE IS WHERE NEW CELL WALL IS SYNTHESIZED TO DIVIDE THE MOTHER CELL INTO TWO DAUGHTER CELLS THAT ARE ALIGNED PROPERLY FOR FURTHER GROWTH. THIS PROJECT IS AIMED AT UNDERSTANDING THE MOLECULAR BASIS OF HOW THE CELL DIVISION PLANE IS DETERMINED. EARLIER ACCOMPLISHMENTS IN THE COLLABORATING US AND ISRAELI LABORATORIES LED TO THE IDENTIFICATION OF SEVERAL KEY PROTEINS AFFECTING FORMATION OF MICROTUBULE ARRAYS. BECAUSE PLANT AND ANIMAL CELLS EXHIBIT GREAT DIFFERENCES IN HOW CELL DIVISION OCCURS, THE OUTCOME OF THIS STUDY WILL ALSO SHED LIGHT ON UNDERSTANDING THE DIFFERENT UNDERLYING MECHANISMS POSSIBLE IN CELL DIVISION AMONG ALL SPECIES. THE PROJECT WILL ALSO PROVIDE MULTIDISCIPLINARY TRAINING TO PARTICIPATING UNDERGRADUATE AND GRADUATE STUDENTS, THE PIS ALSO WILL CREATE AN HISTORICAL PERSPECTIVE ON THE DEVELOPMENT OF RESEARCH ON PLANTS SUITABLE FOR A WIDER AUDIENCE OF STUDENTS INTERESTED IN PLANT SCIENCE. TO BUILD A NEW CELL WALL DURING CYTOKINESIS, A MITOTIC PLANT CELL FORMS THE MICROTUBULAR PREPROPHASE BAND (PPB). THE PPB MARKS THE FUTURE CORTICAL DIVISION SITE AND DISAPPEARS UPON NUCLEAR ENVELOPE BREAKDOWN. EARLIER STUDIES INDICATED THAT INTACT ACTIN FILAMENTS ARE REQUIRED FOR THE CYTOKINETIC APPARATUS OF THE PHRAGMOPLAST TO RECOGNIZE THE DIVISION SITE. THIS WORK BUILDS ON THE DISCOVERY OF LARGE MOLECULAR ASSEMBLIES CONTAINING BOTH KINESIN-12 MOTORS AND MYOSIN XI MOTORS, AS WELL AS OTHER NOVEL PROTEINS. THE PROJECT EMPLOYS APPROACHES OF MOLECULAR GENETICS, CELL BIOLOGY INCLUDING LIVE-CELL IMAGING, AND PROTEIN BIOCHEMISTRY INCLUDING MASS SPECTROMETRY TO ANSWER A LONG-STANDING QUESTION OF HOW THE PPB AT PROPHASE AND THE PHRAGMOPLAST AT TELOPHASE/CYTOKINESIS COMMUNICATE AT THE MOLECULAR LEVEL. THE PROJECT WILL FIRST DISSECT THE FUNCTION OF THE CYTOSKELETAL MOTOR ASSEMBLIES AT THE CORTICAL DIVISION SITE BY REVEALING HOW THE KINESIN-12 AND MYOSIN XI MOTORS ARE INTEGRATED TOGETHER WITH OTHER ASSOCIATED PROTEINS IN THE CORTICAL ASSEMBLIES. THE RESEARCH WILL ALSO TEST WHETHER HYPOTHESIZED CYTOSKELETAL MOTOR ASSEMBLIES FORMED IN THE PHRAGMOPLAST MIDZONE ARE CONNECTED TO THE MOLECULES AT THE CORTICAL DIVISION SITE. TO UNCOVER HOW THE CELL CYCLE-DEPENDENT FUNCTIONS OF SPECIFIC MYOSIN XI MOTORS ARE EXPRESSED, THE RESEARCH WILL REVEAL DYNAMIC SUBCELLULAR LOCATIONS OF DIFFERENT MOTOR PARALOGS AND DETERMINE WHETHER THEIR FUNCTIONS ARE REGULATED VIA PHOSPHORYLATION. THE OUTCOME OF THIS PROJECT WILL ADVANCE KNOWLEDGE OF HOW TWO MAJOR CYTOSKELETAL ELEMENTS AND THEIR ASSOCIATED MOTORS WORK IN CONCERT TO ORIENT THE CELL DIVISION PLANE IN PLANTS. THIS COLLABORATIVE US/ISRAEL PROJECT IS SUPPORTED BY THE US NATIONAL SCIENCE FOUNDATION AND THE ISRAELI BINATIONAL SCIENCE FOUNDATION. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 1269993,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-07-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 201048.2,
+    "total_account_obligation": 1269993,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 201048.2
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1269993
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MOLECULAR AND"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MOLECULAR AND"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-15",
+      "end_date": "2028-06-30",
+      "last_modified_date": "2024-07-23",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 201048.2
+  }
+}

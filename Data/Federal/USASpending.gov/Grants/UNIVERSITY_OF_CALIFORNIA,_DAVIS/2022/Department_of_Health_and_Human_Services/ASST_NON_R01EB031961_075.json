@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91180006,
+    "Award ID": "R01EB031961",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2571064,
+    "Total Outlays": 1320049.14,
+    "Description": "A 0.5 MM RESOLUTION TOTAL-BODY SMALL-ANIMAL PET - SUMMARY THE KEY PARAMETERS OF SMALL-ANIMAL POSITRON EMISSION TOMOGRAPHY (PET) ARE ITS SPATIAL RESOLUTION AND SENSITIVITY THAT DETERMINE THE ABILITY TO IMAGE AND QUANTIFY RADIOTRACERS IN A SMALL REGION OF THE SUBJECT AT SUB-NANOMOLAR CONCENTRATIONS. HOWEVER, THE APPLICATIONS OF SMALL-ANIMAL PET HAVE BEEN LIMITED IN ITS APPLICATION BY A COMBINATION OF SPATIAL RESOLUTION AND SENSITIVITY, WHICH HAMPERS THE USE OF PET FOR A RANGE OF APPLICATIONS INCLUDING MOUSE BRAIN IMAGING, AORTIC MICROCALCIFICATION AND INFLAMMATION IMAGING, HIGH-RESOLUTION TOTAL-BODY DYNAMIC IMAGING AND KINETIC MODELING STUDIES WITH USING IMAGE-DERIVED INPUT FUNCTION. THE GOALS OF THIS PROPOSAL ARE 1) TO DEVELOP A 0.5 MM RESOLUTION TOTAL-BODY SMALL-ANIMAL PET SCANNER DEDICATED FOR HIGH-RESOLUTION AND FAST DYNAMIC APPLICATIONS FOR IMAGING MOUSE DISEASE MODELS, AND 2) PROVIDE A PRE-CLINICAL TOOL USING MOUSE MODELS TO DEVELOP, VALIDATE, CHARACTERIZE THE PARADIGMS AND PROTOCOLS THAT WILL FEED INTO HUMAN STUDIES, SUCH AS TOTAL-BODY AND BRAIN STUDIES. THE PROPOSED PET SCANNER WILL HAVE 128 DEPTH-OF-INTERACTION (DOI) DETECTORS. THE RING DIAMETER AND THE AXIAL LENGTH ARE 110 MM AND 167 MM, RESPECTIVELY, WHICH IS DESIGNED TO COVER THE ENTIRE BODY OF THE MOUSE AND TO OBTAIN HIGH RESOLUTION AND HIGH SENSITIVITY ACROSS THE ENTIRE BODY. DUAL-ENDED READOUT DETECTORS BASED ON LINEARLY-GRADED SILICON PHOTOMULTIPLIERS (LG-SIPMS) COUPLED TO BOTH ENDS OF 40 X 40 LUTETIUM YTTRIUM OXYORTHOSILICATE (LYSO) ARRAYS WITH A PITCH SIZE OF 0.5 MM AND LENGTH OF 20 MM WILL BE USED TO EXTRACT DOI INFORMATION TO MAINTAIN HIGH AND UNIFORM SPATIAL RESOLUTION ACROSS THE ENTIRE BODY OF THE MOUSE. LYSO IS CHOSEN DUE TO ITS HIGH LIGHT YIELD (FOR HIGH SPATIAL RESOLUTION AND ENERGY RESOLUTION), HIGH STOPPING POWER (FOR HIGH SENSITIVITY), AND FAST DECAY TIME (HIGH EVENT RATE ABILITY). DEDICATED DATA ACQUISITION ELECTRONICS FOR DUAL-ENDED READOUT DETECTORS WILL BE DESIGNED FOR THE PROPOSED SCANNER BY UPGRADING OUR WELL-STUDIED ELECTRONICS SYSTEM, AND A SIGNAL MULTIPLEXING READOUT METHOD WILL BE USED TO REDUCE THE 40 SIGNALS OF EACH DETECTOR TO 9 SIGNALS (8 FOR POSITION INFORMATION AND 1 FOR TIMING INFORMATION) TO REDUCE THE COST, COMPLEXITY, AND HEAT OF THE READOUT ELECTRONICS. THE OUTCOME OF THIS PROPOSAL WILL BE A TOTAL-BODY SMALL ANIMAL PET SCANNER WITH A RESOLUTION \u003c 0.5 MM AND A SENSITIVITY ~24.5 % AT THE CENTER OF THE FIELD OF VIEW. THE RESOLUTION WILL BE ~0.5 MM AND THE SENSITIVITY WILL BE BETTER THAN 15 % ACROSS THE VOLUME OF THE MOUSE. THE SPATIAL/VOLUME RESOLUTION IS MORE THAN 2X/8X BETTER THAN CURRENTLY AVAILABLE SMALL-ANIMAL PET SCANNERS WITH SIMILAR SENSITIVITY, AND THE SENSITIVITY IS MORE THAN 20X BETTER THAN CURRENTLY AVAILABLE SMALL-ANIMAL PET SCANNERS WITH SIMILAR RESOLUTION. THE PROPOSED SCANNER CAN PROMOTE THE USE OF TOTAL-BODY SMALL-ANIMAL PET FOR MONITORING BIOLOGICAL PROCESSES THAT RESULT IN FINE STRUCTURES AND EXPAND THE RANGE OF APPLICATIONS FOR THIS POWERFUL, IN VIVO, NON-INVASIVE AND TRANSLATIONAL IMAGING MODALITY IN PRECLINICAL APPLICATIONS. THE PET SCANNER DEVELOPED IN THIS PROPOSAL IS ALSO MRI-COMPATIBLE AND WILL SUPPORT EVENTUAL INTEGRATION INSIDE AN MRI SCANNER FOR HYBRID PET/MRI IMAGING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-04-01",
+    "End Date": "2025-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01EB031961_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91180006,
+    "generated_unique_award_id": "ASST_NON_R01EB031961_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A 0.5 MM RESOLUTION TOTAL-BODY SMALL-ANIMAL PET - SUMMARY THE KEY PARAMETERS OF SMALL-ANIMAL POSITRON EMISSION TOMOGRAPHY (PET) ARE ITS SPATIAL RESOLUTION AND SENSITIVITY THAT DETERMINE THE ABILITY TO IMAGE AND QUANTIFY RADIOTRACERS IN A SMALL REGION OF THE SUBJECT AT SUB-NANOMOLAR CONCENTRATIONS. HOWEVER, THE APPLICATIONS OF SMALL-ANIMAL PET HAVE BEEN LIMITED IN ITS APPLICATION BY A COMBINATION OF SPATIAL RESOLUTION AND SENSITIVITY, WHICH HAMPERS THE USE OF PET FOR A RANGE OF APPLICATIONS INCLUDING MOUSE BRAIN IMAGING, AORTIC MICROCALCIFICATION AND INFLAMMATION IMAGING, HIGH-RESOLUTION TOTAL-BODY DYNAMIC IMAGING AND KINETIC MODELING STUDIES WITH USING IMAGE-DERIVED INPUT FUNCTION. THE GOALS OF THIS PROPOSAL ARE 1) TO DEVELOP A 0.5 MM RESOLUTION TOTAL-BODY SMALL-ANIMAL PET SCANNER DEDICATED FOR HIGH-RESOLUTION AND FAST DYNAMIC APPLICATIONS FOR IMAGING MOUSE DISEASE MODELS, AND 2) PROVIDE A PRE-CLINICAL TOOL USING MOUSE MODELS TO DEVELOP, VALIDATE, CHARACTERIZE THE PARADIGMS AND PROTOCOLS THAT WILL FEED INTO HUMAN STUDIES, SUCH AS TOTAL-BODY AND BRAIN STUDIES. THE PROPOSED PET SCANNER WILL HAVE 128 DEPTH-OF-INTERACTION (DOI) DETECTORS. THE RING DIAMETER AND THE AXIAL LENGTH ARE 110 MM AND 167 MM, RESPECTIVELY, WHICH IS DESIGNED TO COVER THE ENTIRE BODY OF THE MOUSE AND TO OBTAIN HIGH RESOLUTION AND HIGH SENSITIVITY ACROSS THE ENTIRE BODY. DUAL-ENDED READOUT DETECTORS BASED ON LINEARLY-GRADED SILICON PHOTOMULTIPLIERS (LG-SIPMS) COUPLED TO BOTH ENDS OF 40 X 40 LUTETIUM YTTRIUM OXYORTHOSILICATE (LYSO) ARRAYS WITH A PITCH SIZE OF 0.5 MM AND LENGTH OF 20 MM WILL BE USED TO EXTRACT DOI INFORMATION TO MAINTAIN HIGH AND UNIFORM SPATIAL RESOLUTION ACROSS THE ENTIRE BODY OF THE MOUSE. LYSO IS CHOSEN DUE TO ITS HIGH LIGHT YIELD (FOR HIGH SPATIAL RESOLUTION AND ENERGY RESOLUTION), HIGH STOPPING POWER (FOR HIGH SENSITIVITY), AND FAST DECAY TIME (HIGH EVENT RATE ABILITY). DEDICATED DATA ACQUISITION ELECTRONICS FOR DUAL-ENDED READOUT DETECTORS WILL BE DESIGNED FOR THE PROPOSED SCANNER BY UPGRADING OUR WELL-STUDIED ELECTRONICS SYSTEM, AND A SIGNAL MULTIPLEXING READOUT METHOD WILL BE USED TO REDUCE THE 40 SIGNALS OF EACH DETECTOR TO 9 SIGNALS (8 FOR POSITION INFORMATION AND 1 FOR TIMING INFORMATION) TO REDUCE THE COST, COMPLEXITY, AND HEAT OF THE READOUT ELECTRONICS. THE OUTCOME OF THIS PROPOSAL WILL BE A TOTAL-BODY SMALL ANIMAL PET SCANNER WITH A RESOLUTION \u003c 0.5 MM AND A SENSITIVITY ~24.5 % AT THE CENTER OF THE FIELD OF VIEW. THE RESOLUTION WILL BE ~0.5 MM AND THE SENSITIVITY WILL BE BETTER THAN 15 % ACROSS THE VOLUME OF THE MOUSE. THE SPATIAL/VOLUME RESOLUTION IS MORE THAN 2X/8X BETTER THAN CURRENTLY AVAILABLE SMALL-ANIMAL PET SCANNERS WITH SIMILAR SENSITIVITY, AND THE SENSITIVITY IS MORE THAN 20X BETTER THAN CURRENTLY AVAILABLE SMALL-ANIMAL PET SCANNERS WITH SIMILAR RESOLUTION. THE PROPOSED SCANNER CAN PROMOTE THE USE OF TOTAL-BODY SMALL-ANIMAL PET FOR MONITORING BIOLOGICAL PROCESSES THAT RESULT IN FINE STRUCTURES AND EXPAND THE RANGE OF APPLICATIONS FOR THIS POWERFUL, IN VIVO, NON-INVASIVE AND TRANSLATIONAL IMAGING MODALITY IN PRECLINICAL APPLICATIONS. THE PET SCANNER DEVELOPED IN THIS PROPOSAL IS ALSO MRI-COMPATIBLE AND WILL SUPPORT EVENTUAL INTEGRATION INSIDE AN MRI SCANNER FOR HYBRID PET/MRI IMAGING.",
+    "total_obligation": 2571064,
+    "subaward_count": 4,
+    "total_subaward_amount": 212278,
+    "date_signed": "2022-03-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1320049.14,
+    "total_account_obligation": 2571064,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1320049.14
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2571064
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "period_of_performance": {
+      "start_date": "2022-04-01",
+      "end_date": "2025-12-31",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1320049.14
+  }
+}

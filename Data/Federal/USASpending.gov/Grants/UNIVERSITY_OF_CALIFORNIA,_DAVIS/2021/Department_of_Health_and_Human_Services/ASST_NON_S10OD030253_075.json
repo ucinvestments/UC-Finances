@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717492,
+    "Award ID": "S10OD030253",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 599913,
+    "Total Outlays": 599913,
+    "Description": "BRUKER TIMSTOF PRO LC-MS SYSTEM - PROJECT SUMMARY_ABSTRACT WE ARE APPLYING FOR FUNDS FOR A BRUKER TIMSTOF PRO TRAPPED ION MOBILITY MASS SPECTROMETER LC- MS SYSTEM. THIS LC-ION MOBILITY MS SYSTEMS OFFERS SUPERIOR RESOLUTION TO ALTERNATIVE SYSTEMS PROVIDING MUCH DEEPER METABOLOMICS, LIPIDOMICS AND EXPOSOME SCREENING CAPABILITIES THAN CLASSIC LC-ACCURATE MASS MS/MS INSTRUMENTS. WITH THE ENHANCED PERFORMANCE OF THE REQUESTED BRUKER TIMSTOF PRO LC-MS SYSTEM, STRUCTURALLY SIMILAR LIPIDS AND OTHER COMPOUNDS CAN BE ACCURATELY DETECTED AND IDENTIFIED. SUCH SYSTEM IS URGENTLY NEEDED TO FILL GAPING UNMET NEEDS BY THE BIOMEDICAL COMMUNITY HERE AT UC DAVIS. WE HAVE IDENTIFIED 8 MAJOR USERS FOR THIS INSTRUMENT FOR 80% OF TIME USAGE AND SUGGEST A 20% TIME USAGE BY THE UC DAVIS METABOLOMICS CORE TO WORK ON RECHARGE-BASED PROJECTS FOR MINOR USERS. BY PROVIDING OUR INFRASTRUCTURE AND TECHNICAL EXPERTISE ON LC-MS METABOLOMICS, WE PROJECT A DIVERSE AND LONG-TERM COLLABORATIONS WITH OUR USERS. THE COMMON THREAD ACROSS ALL PROJECTS IS THAT CHEMICAL COMPLEXITIES ARE TOO LARGE TO BE RESOLVED ‘IN DEPTHS’ BY CURRENT LC-ACCURATE MASS MS/MS ALONE. USERS NEED TO GET TO THE NEXT STAGE TO SOLVE THEIR RESEARCH PROBLEMS ADEQUATELY. PROJECTS THAT NEED FOR ION MOBILITY ARE SUCH AS: ENVIRONMENTAL HEALTH (YOUNG: DEEPER MS/MS COVERAGE FOR NON-TARGETED SCREENING, VAN WINKLE: HIGHER RESOLUTION FOR OXIDIZED LIPIDS), CANCER METABOLISM (CARRAWAY: IMPROVED SENSITIVITY AND RESOLUTION FOR BMP AND PG LIPIDOMICS IN ORGANELLES, CHEN: IMPROVED RESOLUTION OF OXYSTEROL ISOMERS), DIURNAL CYCLES (CHIU: RESOLVING ISOBARIC AND ISOMERIC TRIACYLGLYCERIDES), NUTRITIONAL INTERVENTIONS (STANHOPE: RESOLVING URINARY POLYPHENOLS), METHODS IN COMPOUND IDENTIFICATION (FIEHN: IMPROVING CONFIDENCE IN STRUCTURE ANNOTATIONS BY CCS VALUES) TO GUT MICROBIOME CHANGES (LASALLE: INTERACTION OF GUT-BRAIN AXIS IN RETT SYNDROME, RESOLUTION OF BIOGENIC AMINES IN FECAL MATTER). ALL THESE PROJECTS HAVE IN COMMON THAT THEY HAVE HIT ROADBLOCKS IN OUR ONGOING COLLABORATIONS WITH RESPECT TO CAPABILITIES OF OUR CURRENT INSTRUMENTATION AT THE WCMC THAT LACK THE ADDED POWER OF ION MOBILITY SEPARATION DESPITE OUR EXQUISITE CAPABILITIES IN ACCURATE MASS ANALYSES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "956168816",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-06-15",
+    "End Date": "2022-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD030253_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717492,
+    "generated_unique_award_id": "ASST_NON_S10OD030253_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "BRUKER TIMSTOF PRO LC-MS SYSTEM - PROJECT SUMMARY_ABSTRACT WE ARE APPLYING FOR FUNDS FOR A BRUKER TIMSTOF PRO TRAPPED ION MOBILITY MASS SPECTROMETER LC- MS SYSTEM. THIS LC-ION MOBILITY MS SYSTEMS OFFERS SUPERIOR RESOLUTION TO ALTERNATIVE SYSTEMS PROVIDING MUCH DEEPER METABOLOMICS, LIPIDOMICS AND EXPOSOME SCREENING CAPABILITIES THAN CLASSIC LC-ACCURATE MASS MS/MS INSTRUMENTS. WITH THE ENHANCED PERFORMANCE OF THE REQUESTED BRUKER TIMSTOF PRO LC-MS SYSTEM, STRUCTURALLY SIMILAR LIPIDS AND OTHER COMPOUNDS CAN BE ACCURATELY DETECTED AND IDENTIFIED. SUCH SYSTEM IS URGENTLY NEEDED TO FILL GAPING UNMET NEEDS BY THE BIOMEDICAL COMMUNITY HERE AT UC DAVIS. WE HAVE IDENTIFIED 8 MAJOR USERS FOR THIS INSTRUMENT FOR 80% OF TIME USAGE AND SUGGEST A 20% TIME USAGE BY THE UC DAVIS METABOLOMICS CORE TO WORK ON RECHARGE-BASED PROJECTS FOR MINOR USERS. BY PROVIDING OUR INFRASTRUCTURE AND TECHNICAL EXPERTISE ON LC-MS METABOLOMICS, WE PROJECT A DIVERSE AND LONG-TERM COLLABORATIONS WITH OUR USERS. THE COMMON THREAD ACROSS ALL PROJECTS IS THAT CHEMICAL COMPLEXITIES ARE TOO LARGE TO BE RESOLVED ‘IN DEPTHS’ BY CURRENT LC-ACCURATE MASS MS/MS ALONE. USERS NEED TO GET TO THE NEXT STAGE TO SOLVE THEIR RESEARCH PROBLEMS ADEQUATELY. PROJECTS THAT NEED FOR ION MOBILITY ARE SUCH AS: ENVIRONMENTAL HEALTH (YOUNG: DEEPER MS/MS COVERAGE FOR NON-TARGETED SCREENING, VAN WINKLE: HIGHER RESOLUTION FOR OXIDIZED LIPIDS), CANCER METABOLISM (CARRAWAY: IMPROVED SENSITIVITY AND RESOLUTION FOR BMP AND PG LIPIDOMICS IN ORGANELLES, CHEN: IMPROVED RESOLUTION OF OXYSTEROL ISOMERS), DIURNAL CYCLES (CHIU: RESOLVING ISOBARIC AND ISOMERIC TRIACYLGLYCERIDES), NUTRITIONAL INTERVENTIONS (STANHOPE: RESOLVING URINARY POLYPHENOLS), METHODS IN COMPOUND IDENTIFICATION (FIEHN: IMPROVING CONFIDENCE IN STRUCTURE ANNOTATIONS BY CCS VALUES) TO GUT MICROBIOME CHANGES (LASALLE: INTERACTION OF GUT-BRAIN AXIS IN RETT SYNDROME, RESOLUTION OF BIOGENIC AMINES IN FECAL MATTER). ALL THESE PROJECTS HAVE IN COMMON THAT THEY HAVE HIT ROADBLOCKS IN OUR ONGOING COLLABORATIONS WITH RESPECT TO CAPABILITIES OF OUR CURRENT INSTRUMENTATION AT THE WCMC THAT LACK THE ADDED POWER OF ION MOBILITY SEPARATION DESPITE OUR EXQUISITE CAPABILITIES IN ACCURATE MASS ANALYSES.",
+    "total_obligation": 599913,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-06-04",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 599913,
+    "total_account_obligation": 599913,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 599913
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 599913
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2021-06-15",
+      "end_date": "2022-05-31",
+      "last_modified_date": "2023-12-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "8816",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 599913
+  }
+}

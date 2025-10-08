@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173973197,
+    "Award ID": "R01ES037475",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 931568,
+    "Total Outlays": null,
+    "Description": "ENVIRONMENTAL DETERMINANTS, MATERNAL POSTPARTUM DEPRESSION, AND MENTAL-EMOTIONAL-BEHAVIORAL DISORDERS IN URBAN-DWELLING CHILDREN - THE OVERARCHING GOAL OF THIS APPLICATION IS TO IDENTIFY ENVIRONMENTAL FACTORS CONTRIBUTING TO THE RISING MENTAL-EMOTIONAL-BEHAVIORAL (MEB) DISORDERS IN URBAN-DWELLING CHILDREN AND PARENTAL POSTPARTUM DEPRESSION (PPD) IN SOUTHERN CALIFORNIA, AND STRENGTHEN THEIR RESPECTIVE CAUSAL ASSOCIATIONS. MEB DISORDERS ARE PREVALENT AMONG URBAN-DWELLING CHILDREN AND ADOLESCENTS, CAUSING DETRIMENTAL AND LONG-LASTING IMPACTS ON AFFECTED INDIVIDUALS AND THEIR FAMILIES. INCREASED FREQUENCIES OF MEB DISORDERS HAVE BEEN OBSERVED IN SOUTHERN CALIFORNIA; THE TREND CANNOT BE EXPLAINED BY DIAGNOSTIC PRACTICES ALONE, YET IT TRACKS WELL WITH THE CONCURRENT INCREASES IN MATERNAL PPD AND EXTREME WEATHER CHANGE IN SOUTHERN CALIFORNIA. WE HYPOTHESIZE THAT NEUROTOXIC ENVIRONMENTAL EXPOSURES INCREASE RISKS FOR PARENTAL PPD, BOTH CONTRIBUTING TO THE RISING MEB DISORDERS IN CHILDREN AND ADOLESCENTS. THE ENVIRONMENTAL FACTORS OF PRIMARY INTEREST ARE EXTREME HEAT AND WILDFIRE FINE PARTICULATE MATTER (PM2.5) AND POLYCYCLIC AROMATIC HYDROCARBON (PAH). WE WILL EXAMINE THE EFFECTS OF BOTH SHORT-TERM (DAILY TO WEEKLY) AND LONG-TERM (MONTHLY TO YEARLY; ACROSS SEVEN LIFE STAGES FROM PRE-CONCEPTION UP TO ADOLESCENCE) EXPOSURES. DESPITE STRONG SCIENTIFIC PREMISES ON THE EFFECTS OF EXTREME HEAT AND WILDFIRE SMOKE ON INCREASING THE RISK OF PARENTAL PPD AND CHILD MEB DISORDERS, EPIDEMIOLOGIC DATA REMAIN ELUSIVE ON LINKING ENVIRONMENTAL EXPOSURES WITH ADVERSE MENTAL HEALTH IN CHILDREN, AND THE ROLE OF PARENTAL PPD IN MEDIATING AND/OR CONFOUNDING THE EFFECTS OF ENVIRONMENTAL EXPOSURES ON MEB HEALTH IS UNCLEAR. THE EXTANT LITERATURE SUFFERS FROM SEVERAL MAJOR METHODOLOGICAL LIMITATIONS, LACKING HIGH-QUALITY CLINICAL OUTCOME DATA AND MISSING PARTICIPANT-LEVEL EXPOSURES ESTIMATION PARTICULARLY FOR EXPOSURES TO PAHS FROM WILDFIRES. THIS STUDY WILL ADDRESS THESE KNOWLEDGE GAPS AND METHODOLOGICAL WEAKNESSES BY LEVERAGING AN ESTABLISHED LONGITUDINAL PREGNANCY COHORT (2008-2021) BASED ON THE COMPREHENSIVE ELECTRONIC HEALTH RECORD (EHR) OF KAISER PERMANENTE SOUTHERN CALIFORNIA (KPSC). CHILDREN’S MEB OUTCOMES AND MATERNAL PPD HAVE BEEN VALIDATED. THIS STUDY WILL EXTRACT RELEVANT PATERNAL DATA PLUS 4 MORE YEARS OF BIRTH DATA (2008-2025; ~600,000 BIRTHS), CONTINUE THE OUTCOME FOLLOW-UP TO 2027, AND EXPAND THE SCOPE OF EXPOSURE ASSESSMENT. SPATIOTEMPORALLY-RESOLVED EXPOSURES (EXTREME HEAT; WILDFIRE-SPECIFIC PM2.5 AND PAHS) MAPPED ON LONGITUDINAL RESIDENTIAL HISTORIES (FROM PRE-GESTATIONAL TO AGE 17) WILL BE COMBINED WITH PROSPECTIVELY RECORDED AND HIGH-QUALITY DATA ON CLINICAL PHENOTYPES, COMORBIDITIES, AND OTHER RELEVANT COVARIATES. FOUR AIMS WILL RESPECTIVELY FOCUS ON MEB DISORDERS (AIM 1), PARENTAL PPD (AIM 2), THE ROLE OF PPD IN THE PUTATIVE ASSOCIATIONS OF MEB DISORDERS (AIM 3), AND EFFECT MODIFICATION BY NEIGHBORHOOD SOCIO-ENVIRONMENT AND INDIVIDUAL-LEVEL FACTORS (AIM 4). THIS APPLICATION IS HIGHLY SIGNIFICANT AS MEB DISORDERS IN CHILDREN ARE PRESSING PUBLIC HEALTH ISSUES. WE WILL ADVANCE ENVIRONMENTAL NEUROSCIENCES BY QUANTIFYING THE IMPACTS OF EXTREME HEAT AND WILDFIRE SMOKE ON CHILDREN’S MEB HEALTH AND PARENTAL PPD, CLARIFYING THEIR CAUSAL ASSOCIATIONS INCLUDING THE ROLE OF PPD, IDENTIFYING SUSCEPTIBLE TIME WINDOWS, AND DETERMINING THE SOCIAL-ENVIRONMENTAL VULNERABILITY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92697",
+      "zip5": "92697"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-08-01",
+    "End Date": "2030-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01ES037475_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173973197,
+    "generated_unique_award_id": "ASST_NON_R01ES037475_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ENVIRONMENTAL DETERMINANTS, MATERNAL POSTPARTUM DEPRESSION, AND MENTAL-EMOTIONAL-BEHAVIORAL DISORDERS IN URBAN-DWELLING CHILDREN - THE OVERARCHING GOAL OF THIS APPLICATION IS TO IDENTIFY ENVIRONMENTAL FACTORS CONTRIBUTING TO THE RISING MENTAL-EMOTIONAL-BEHAVIORAL (MEB) DISORDERS IN URBAN-DWELLING CHILDREN AND PARENTAL POSTPARTUM DEPRESSION (PPD) IN SOUTHERN CALIFORNIA, AND STRENGTHEN THEIR RESPECTIVE CAUSAL ASSOCIATIONS. MEB DISORDERS ARE PREVALENT AMONG URBAN-DWELLING CHILDREN AND ADOLESCENTS, CAUSING DETRIMENTAL AND LONG-LASTING IMPACTS ON AFFECTED INDIVIDUALS AND THEIR FAMILIES. INCREASED FREQUENCIES OF MEB DISORDERS HAVE BEEN OBSERVED IN SOUTHERN CALIFORNIA; THE TREND CANNOT BE EXPLAINED BY DIAGNOSTIC PRACTICES ALONE, YET IT TRACKS WELL WITH THE CONCURRENT INCREASES IN MATERNAL PPD AND EXTREME WEATHER CHANGE IN SOUTHERN CALIFORNIA. WE HYPOTHESIZE THAT NEUROTOXIC ENVIRONMENTAL EXPOSURES INCREASE RISKS FOR PARENTAL PPD, BOTH CONTRIBUTING TO THE RISING MEB DISORDERS IN CHILDREN AND ADOLESCENTS. THE ENVIRONMENTAL FACTORS OF PRIMARY INTEREST ARE EXTREME HEAT AND WILDFIRE FINE PARTICULATE MATTER (PM2.5) AND POLYCYCLIC AROMATIC HYDROCARBON (PAH). WE WILL EXAMINE THE EFFECTS OF BOTH SHORT-TERM (DAILY TO WEEKLY) AND LONG-TERM (MONTHLY TO YEARLY; ACROSS SEVEN LIFE STAGES FROM PRE-CONCEPTION UP TO ADOLESCENCE) EXPOSURES. DESPITE STRONG SCIENTIFIC PREMISES ON THE EFFECTS OF EXTREME HEAT AND WILDFIRE SMOKE ON INCREASING THE RISK OF PARENTAL PPD AND CHILD MEB DISORDERS, EPIDEMIOLOGIC DATA REMAIN ELUSIVE ON LINKING ENVIRONMENTAL EXPOSURES WITH ADVERSE MENTAL HEALTH IN CHILDREN, AND THE ROLE OF PARENTAL PPD IN MEDIATING AND/OR CONFOUNDING THE EFFECTS OF ENVIRONMENTAL EXPOSURES ON MEB HEALTH IS UNCLEAR. THE EXTANT LITERATURE SUFFERS FROM SEVERAL MAJOR METHODOLOGICAL LIMITATIONS, LACKING HIGH-QUALITY CLINICAL OUTCOME DATA AND MISSING PARTICIPANT-LEVEL EXPOSURES ESTIMATION PARTICULARLY FOR EXPOSURES TO PAHS FROM WILDFIRES. THIS STUDY WILL ADDRESS THESE KNOWLEDGE GAPS AND METHODOLOGICAL WEAKNESSES BY LEVERAGING AN ESTABLISHED LONGITUDINAL PREGNANCY COHORT (2008-2021) BASED ON THE COMPREHENSIVE ELECTRONIC HEALTH RECORD (EHR) OF KAISER PERMANENTE SOUTHERN CALIFORNIA (KPSC). CHILDREN’S MEB OUTCOMES AND MATERNAL PPD HAVE BEEN VALIDATED. THIS STUDY WILL EXTRACT RELEVANT PATERNAL DATA PLUS 4 MORE YEARS OF BIRTH DATA (2008-2025; ~600,000 BIRTHS), CONTINUE THE OUTCOME FOLLOW-UP TO 2027, AND EXPAND THE SCOPE OF EXPOSURE ASSESSMENT. SPATIOTEMPORALLY-RESOLVED EXPOSURES (EXTREME HEAT; WILDFIRE-SPECIFIC PM2.5 AND PAHS) MAPPED ON LONGITUDINAL RESIDENTIAL HISTORIES (FROM PRE-GESTATIONAL TO AGE 17) WILL BE COMBINED WITH PROSPECTIVELY RECORDED AND HIGH-QUALITY DATA ON CLINICAL PHENOTYPES, COMORBIDITIES, AND OTHER RELEVANT COVARIATES. FOUR AIMS WILL RESPECTIVELY FOCUS ON MEB DISORDERS (AIM 1), PARENTAL PPD (AIM 2), THE ROLE OF PPD IN THE PUTATIVE ASSOCIATIONS OF MEB DISORDERS (AIM 3), AND EFFECT MODIFICATION BY NEIGHBORHOOD SOCIO-ENVIRONMENT AND INDIVIDUAL-LEVEL FACTORS (AIM 4). THIS APPLICATION IS HIGHLY SIGNIFICANT AS MEB DISORDERS IN CHILDREN ARE PRESSING PUBLIC HEALTH ISSUES. WE WILL ADVANCE ENVIRONMENTAL NEUROSCIENCES BY QUANTIFYING THE IMPACTS OF EXTREME HEAT AND WILDFIRE SMOKE ON CHILDREN’S MEB HEALTH AND PARENTAL PPD, CLARIFYING THEIR CAUSAL ASSOCIATIONS INCLUDING THE ROLE OF PPD, IDENTIFYING SUSCEPTIBLE TIME WINDOWS, AND DETERMINING THE SOCIAL-ENVIRONMENTAL VULNERABILITY.",
+    "total_obligation": 931568,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 931568,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 931568
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Enviromental Health Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Enviromental Health Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2030-05-31",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

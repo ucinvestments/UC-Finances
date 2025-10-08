@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173974589,
+    "Award ID": "R37NS112503",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 3072075,
+    "Total Outlays": null,
+    "Description": "MECHANISM OF STATHMIN-2-DEPENDENT AXON MAINTENANCE, REGENERATION, AND FUNCTION - ABNORMAL NUCLEAR DEPLETION AND CYTOPLASMIC ACCUMULATION OF THE RNA-BINDING PROTEIN TDP-43, IS REPORTED IN A LARGE SPECTRUM OF AGE-DEPENDENT NEURODEGENERATIVE CONDITIONS REFERRED AS TDP-43 PROTEINOPATHIES THAT INCLUDE ALMOST ALL INSTANCES OF AMYOTROPHIC LATERAL SCLEROSIS (ALS), \u003e40% OF FRONTAL TEMPORAL DEMENTIA (FTD), UP TO 50% OF ALZHEIMER'S DISEASE (AD) AND ELDERLY PATIENTS WITH AN AD-LIKE DEMENTIA NAMED LIMBIC-PREDOMINANT AGE-RELATED TDP-43 ENCEPHALOPATHY (LATE). TDP-43 IS AN ESSENTIAL PROTEIN INVOLVED IN FUNDAMENTAL PROCESSING ACTIVITIES IN THE THOUSANDS OF RNA TRANSCRIPTS TO WHICH IT BINDS, REGULATING EXPRESSION, SPLICING, AND TRANSPORT. WE DISCOVERED THAT THE HUMAN MRNA MOST AFFECTED BY REDUCED TDP-43 FUNCTION ENCODES THE NEURON-SPECIFIC PROTEIN STATHMIN-2 (ENCODED BY THE STMN2 GENE) WHOSE LOSS IS NOW RECOGNIZED AS A PATHOLOGICAL HALLMARK IN ALL PATIENTS WITH TDP-43 PROTEINOPATHY. TDP-43 IS REQUIRED TO PREVENT THE INCLUSION OF A CRYPTIC EXON WITHIN THE FIRST INTRON OF STMN2 PRE-MRNA. WE DETERMINED THAT TDP-43 BINDING STERICALLY BLOCKS STMN2 PRE-MRNA MISPROCESSING, PREVENTING ITS CRYPTIC SPLICING AND TRUNCATION. WE ALSO DEMONSTRATED THAT ANTISENSE OLIGONUCLEOTIDES (ASOS) CAN RESTORE NORMAL STATHMIN-2 LEVELS IN THE NERVOUS SYSTEM UPON TDP-43 DYSFUNCTION. WE RECENTLY SHOWED THAT CHRONIC FOCAL LOSS OF STATHMIN-2 FROM THE MAMMALIAN ADULT LUMBAR SPINAL CORD IS SUFFICIENT TO DRIVE THE EARLIEST CLINICAL SIGNS OF ALS, INCLUDING PROGRESSIVE MUSCLE DENERVATION AND NEUROFILAMENT-DEPENDENT AXONAL COLLAPSE. STATHMIN-2 HAS BEEN PROPOSED TO REGULATE MICROTUBULE DYNAMICS THROUGH A  STATHMIN-LIKE DOMAIN  WHICH BINDS TWO A/B-TUBULIN HETERODIMERS IN A PHOSPHORYLATION-DEPENDENT MANNER. IN CULTURED HUMAN NEURONS, STATHMIN-2 IS REQUIRED FOR REGENERATION AFTER AN INITIAL INJURY BY AXOTOMY, WITH ELEVATED PROTEIN LEVELS IN REGENERATING NEURONS, AXONS, AND GROWTH CONES. HERE WE SEEK CONTINUING SUPPORT FOR A COMPREHENSIVE INVESTIGATION INTO THE ROLE OF STATHMIN-2 IN AXONAL MAINTENANCE AND REGENERATION USING HUMAN INDUCED PLURIPOTENT STEM CELL-DERIVED NEURONS AND MOUSE MODELS. WE WILL DETERMINE THE MECHANISM(S) THROUGH WHICH STATHMIN-2 (AND ITS PARTNER PROTEINS THAT WE WILL IDENTIFY) MEDIATE MAINTENANCE OF NEUROMUSCULAR JUNCTIONS, AXONAL STRUCTURE, AND REGENERATION IN THE ADULT NERVOUS SYSTEM. WE WILL ASSESS WHETHER TUBULIN AND MEMBRANE BINDING CAPABILITIES OF STATHMIN-2 ARE NECESSARY FOR AXONAL FUNCTIONALITY IN HUMAN NEURONS, DETERMINE THE IMPACT OF SUSTAINED SUPPRESSION OF STATHMIN-2 ON AXONAL STRUCTURE AND SYNAPTIC FUNCTION WITHIN THE BRAIN, AND ESTABLISH THE FEASIBILITY OF STATHMIN-2 GENE REPLACEMENT STRATEGIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92093",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2020-04-01",
+    "End Date": "2029-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R37NS112503_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173974589,
+    "generated_unique_award_id": "ASST_NON_R37NS112503_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MECHANISM OF STATHMIN-2-DEPENDENT AXON MAINTENANCE, REGENERATION, AND FUNCTION - ABNORMAL NUCLEAR DEPLETION AND CYTOPLASMIC ACCUMULATION OF THE RNA-BINDING PROTEIN TDP-43, IS REPORTED IN A LARGE SPECTRUM OF AGE-DEPENDENT NEURODEGENERATIVE CONDITIONS REFERRED AS TDP-43 PROTEINOPATHIES THAT INCLUDE ALMOST ALL INSTANCES OF AMYOTROPHIC LATERAL SCLEROSIS (ALS), \u003e40% OF FRONTAL TEMPORAL DEMENTIA (FTD), UP TO 50% OF ALZHEIMER'S DISEASE (AD) AND ELDERLY PATIENTS WITH AN AD-LIKE DEMENTIA NAMED LIMBIC-PREDOMINANT AGE-RELATED TDP-43 ENCEPHALOPATHY (LATE). TDP-43 IS AN ESSENTIAL PROTEIN INVOLVED IN FUNDAMENTAL PROCESSING ACTIVITIES IN THE THOUSANDS OF RNA TRANSCRIPTS TO WHICH IT BINDS, REGULATING EXPRESSION, SPLICING, AND TRANSPORT. WE DISCOVERED THAT THE HUMAN MRNA MOST AFFECTED BY REDUCED TDP-43 FUNCTION ENCODES THE NEURON-SPECIFIC PROTEIN STATHMIN-2 (ENCODED BY THE STMN2 GENE) WHOSE LOSS IS NOW RECOGNIZED AS A PATHOLOGICAL HALLMARK IN ALL PATIENTS WITH TDP-43 PROTEINOPATHY. TDP-43 IS REQUIRED TO PREVENT THE INCLUSION OF A CRYPTIC EXON WITHIN THE FIRST INTRON OF STMN2 PRE-MRNA. WE DETERMINED THAT TDP-43 BINDING STERICALLY BLOCKS STMN2 PRE-MRNA MISPROCESSING, PREVENTING ITS CRYPTIC SPLICING AND TRUNCATION. WE ALSO DEMONSTRATED THAT ANTISENSE OLIGONUCLEOTIDES (ASOS) CAN RESTORE NORMAL STATHMIN-2 LEVELS IN THE NERVOUS SYSTEM UPON TDP-43 DYSFUNCTION. WE RECENTLY SHOWED THAT CHRONIC FOCAL LOSS OF STATHMIN-2 FROM THE MAMMALIAN ADULT LUMBAR SPINAL CORD IS SUFFICIENT TO DRIVE THE EARLIEST CLINICAL SIGNS OF ALS, INCLUDING PROGRESSIVE MUSCLE DENERVATION AND NEUROFILAMENT-DEPENDENT AXONAL COLLAPSE. STATHMIN-2 HAS BEEN PROPOSED TO REGULATE MICROTUBULE DYNAMICS THROUGH A  STATHMIN-LIKE DOMAIN  WHICH BINDS TWO A/B-TUBULIN HETERODIMERS IN A PHOSPHORYLATION-DEPENDENT MANNER. IN CULTURED HUMAN NEURONS, STATHMIN-2 IS REQUIRED FOR REGENERATION AFTER AN INITIAL INJURY BY AXOTOMY, WITH ELEVATED PROTEIN LEVELS IN REGENERATING NEURONS, AXONS, AND GROWTH CONES. HERE WE SEEK CONTINUING SUPPORT FOR A COMPREHENSIVE INVESTIGATION INTO THE ROLE OF STATHMIN-2 IN AXONAL MAINTENANCE AND REGENERATION USING HUMAN INDUCED PLURIPOTENT STEM CELL-DERIVED NEURONS AND MOUSE MODELS. WE WILL DETERMINE THE MECHANISM(S) THROUGH WHICH STATHMIN-2 (AND ITS PARTNER PROTEINS THAT WE WILL IDENTIFY) MEDIATE MAINTENANCE OF NEUROMUSCULAR JUNCTIONS, AXONAL STRUCTURE, AND REGENERATION IN THE ADULT NERVOUS SYSTEM. WE WILL ASSESS WHETHER TUBULIN AND MEMBRANE BINDING CAPABILITIES OF STATHMIN-2 ARE NECESSARY FOR AXONAL FUNCTIONALITY IN HUMAN NEURONS, DETERMINE THE IMPACT OF SUSTAINED SUPPRESSION OF STATHMIN-2 ON AXONAL STRUCTURE AND SYNAPTIC FUNCTION WITHIN THE BRAIN, AND ESTABLISH THE FEASIBILITY OF STATHMIN-2 GENE REPLACEMENT STRATEGIES.",
+    "total_obligation": 3072075,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 3072075,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3072075
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2020-04-01",
+      "end_date": "2029-07-31",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

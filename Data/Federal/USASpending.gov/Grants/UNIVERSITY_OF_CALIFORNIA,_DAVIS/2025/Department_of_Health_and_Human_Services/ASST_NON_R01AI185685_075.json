@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173972772,
+    "Award ID": "R01AI185685",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 808672,
+    "Total Outlays": null,
+    "Description": "MULTI PARAMETRIC TOTAL-BODY IMAGING OF IMMUNE ACTIVATION IN POST ACUTE SEQUELAE OF SARS-COV-2 (PASC) - PROJECT SUMMARY/ABSTRACT POST-ACUTE SEQUELAE OF SARS-COV-2 INFECTION (PASC) IS A PERSISTING HEALTH CHALLENGE CHARACTERIZED BY A RANGE OF SYMPTOMS AFFECTING MULTIPLE ORGAN SYSTEMS, WHICH CONTINUES TO IMPACT APPROXIMATELY 10% OF COVID-19 SURVIVORS. MULTIPLE, POTENTIALLY OVERLAPPING, MECHANISMS HAVE BEEN IDENTIFIED THAT MAY PLAY A ROLE IN PASC. HOWEVER, WITH NO EFFECTIVE PREVENTATIVE MEASURES OR TREATMENTS, THERE IS A CRITICAL UNMET NEED FOR UNDERSTANDING THE PATHOPHYSIOLOGY OF PASC; AS PREVIOUS STUDIES, OFTEN LIMITED BY FOCUS ON PERIPHERAL BLOOD BIOMARKERS ONLY OR CONFINED TO SINGLE ORGAN SYSTEMS, HAVE NOT SUFFICIENTLY AND QUANTITATIVELY INVESTIGATED THE MULTISYSTEMIC AND IMMUNE-RELATED COMPLEXITIES OF THIS CONDITION IN NON-BLOOD TISSUE. THE LONG-TERM OBJECTIVE OF THIS PROJECT IS TO BRIDGE THIS KNOWLEDGE GAP BY PROVIDING INSIGHT INTO THE IMMUNE AND SYSTEMIC MANIFESTATIONS OF PASC, THROUGH THE INNOVATIVE USE OF TOTAL-BODY DYNAMIC POSITRON EMISSION TOMOGRAPHY (PET) WITH THE 18F-ARAG RADIOTRACER, WHICH PARTICULARLY OFFERS SELECTIVITY TOWARDS ACTIVATED T CELLS. TO ACHIEVE THIS, WE WILL USE THE DYNAMIC PET IMAGES OBTAINED FROM A HIGH-SENSITIVITY TOTAL-BODY PET SCANNER TO DEVELOP, OPTIMIZE, AND VALIDATE A KINETIC MODEL FOR 18F-ARAG IN DIFFERENT ANATOMICAL SITES AND TISSUE TYPES FOR MULTI PARAMETRIC QUANTIFICATION OF UPTAKE. WE EXPECT THAT THIS WILL NOT ONLY IMPROVE THE QUANTIFICATION ACCURACY COMPARED TO STANDARD STATIC IMAGING, BUT ALSO CAN SHED LIGHT ON THE UNDERLYING MECHANISMS OF UPTAKE. THE MULTI PARAMETRIC IMAGING WILL BE FIRSTLY USED TO IDENTIFY SITES OF IMMUNOLOGICAL PERTURBATION IN PASC PATIENTS, OFFERING A TOTAL-BODY VIEW OF TISSUE-LEVEL MANIFESTATIONS OF PASC. FOR THIS, WE WILL COMPARE THE KINETIC PARAMETERS OF DIFFERENT TISSUES BETWEEN SYMPTOMATIC PASC PARTICIPANTS AND A CONTROL GROUP CONSISTING OF INDIVIDUALS WITH A COMPLETE COVID-19 RECOVERY. SECOND, WE WILL INTEGRATE THE MULTIPARAMETRIC IMAGING DATA WITH PERIPHERAL BLOOD ASSAYS, AIMING TO ASSESS THE CORRELATIONS BETWEEN CERTAIN 18F-ARAG KINETIC PARAMETERS AND BIOMARKERS OF INFLAMMATION, IMMUNE DYSREGULATION, AND ENDOTHELIAL DYSFUNCTION IN PERIPHERAL BLOOD. PARTICULARLY, TO IDENTIFY VASCULAR ALTERATIONS IN TISSUE AND THEIR ASSOCIATION WITH ENDOTHELIAL MARKERS IN BLOOD, WE WILL USE VASCULAR PERMEABILITY MODELING TO ESTIMATE THE BLOOD FLOW IN DIFFERENT TISSUES FROM THE EARLY FRAMES OF THE KINETIC DATA. THIRD, WE WILL EMPLOY A LONGITUDINAL DESIGN TO QUANTIFY CHANGES IN 18F-ARAG KINETIC PARAMETERS AND CORRELATE THEM WITH EVOLVING PASC SYMPTOM PROFILES OVER TIME. WE WILL INCLUDE TWO FOLLOW-UP SCANS OF THE PASC PARTICIPANTS AT 4 MONTHS AND 8 MONTHS AFTER THE BASELINE SCANS WITH SYSTEMATIC SYMPTOM ASSESSMENTS, FOCUSING ON INDIVIDUAL PATIENT TRAJECTORIES. THROUGH THIS, WE EXPECT TO ESTABLISH A DIRECT AND MEANINGFUL CONNECTION BETWEEN MOLECULAR IMAGING DATA AND CLINICAL MANIFESTATIONS. IN SUMMARY, THE INCORPORATION OF CUTTING-EDGE IMAGING TECHNOLOGY WITH QUANTITATIVE MODELING TECHNIQUES FOR NON- INVASIVE EVALUATION OF TOTAL-BODY IMMUNE RESPONSE, COMBINED WITH THE LONGITUDINAL DESIGN OF THE STUDY PROMISES TO PROVIDE UNPRECEDENTED INSIGHTS INTO THIS COMPLEX CONDITION AND WOULD EXTEND WELL BEYOND THE CONFINES OF THE PASC CONDITION, OFFERING FRAMEWORKS AND TOOLS THAT COULD AS WELL BE USED FOR OTHER POST-VIRAL CONDITIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-08-01",
+    "End Date": "2029-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI185685_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173972772,
+    "generated_unique_award_id": "ASST_NON_R01AI185685_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MULTI PARAMETRIC TOTAL-BODY IMAGING OF IMMUNE ACTIVATION IN POST ACUTE SEQUELAE OF SARS-COV-2 (PASC) - PROJECT SUMMARY/ABSTRACT POST-ACUTE SEQUELAE OF SARS-COV-2 INFECTION (PASC) IS A PERSISTING HEALTH CHALLENGE CHARACTERIZED BY A RANGE OF SYMPTOMS AFFECTING MULTIPLE ORGAN SYSTEMS, WHICH CONTINUES TO IMPACT APPROXIMATELY 10% OF COVID-19 SURVIVORS. MULTIPLE, POTENTIALLY OVERLAPPING, MECHANISMS HAVE BEEN IDENTIFIED THAT MAY PLAY A ROLE IN PASC. HOWEVER, WITH NO EFFECTIVE PREVENTATIVE MEASURES OR TREATMENTS, THERE IS A CRITICAL UNMET NEED FOR UNDERSTANDING THE PATHOPHYSIOLOGY OF PASC; AS PREVIOUS STUDIES, OFTEN LIMITED BY FOCUS ON PERIPHERAL BLOOD BIOMARKERS ONLY OR CONFINED TO SINGLE ORGAN SYSTEMS, HAVE NOT SUFFICIENTLY AND QUANTITATIVELY INVESTIGATED THE MULTISYSTEMIC AND IMMUNE-RELATED COMPLEXITIES OF THIS CONDITION IN NON-BLOOD TISSUE. THE LONG-TERM OBJECTIVE OF THIS PROJECT IS TO BRIDGE THIS KNOWLEDGE GAP BY PROVIDING INSIGHT INTO THE IMMUNE AND SYSTEMIC MANIFESTATIONS OF PASC, THROUGH THE INNOVATIVE USE OF TOTAL-BODY DYNAMIC POSITRON EMISSION TOMOGRAPHY (PET) WITH THE 18F-ARAG RADIOTRACER, WHICH PARTICULARLY OFFERS SELECTIVITY TOWARDS ACTIVATED T CELLS. TO ACHIEVE THIS, WE WILL USE THE DYNAMIC PET IMAGES OBTAINED FROM A HIGH-SENSITIVITY TOTAL-BODY PET SCANNER TO DEVELOP, OPTIMIZE, AND VALIDATE A KINETIC MODEL FOR 18F-ARAG IN DIFFERENT ANATOMICAL SITES AND TISSUE TYPES FOR MULTI PARAMETRIC QUANTIFICATION OF UPTAKE. WE EXPECT THAT THIS WILL NOT ONLY IMPROVE THE QUANTIFICATION ACCURACY COMPARED TO STANDARD STATIC IMAGING, BUT ALSO CAN SHED LIGHT ON THE UNDERLYING MECHANISMS OF UPTAKE. THE MULTI PARAMETRIC IMAGING WILL BE FIRSTLY USED TO IDENTIFY SITES OF IMMUNOLOGICAL PERTURBATION IN PASC PATIENTS, OFFERING A TOTAL-BODY VIEW OF TISSUE-LEVEL MANIFESTATIONS OF PASC. FOR THIS, WE WILL COMPARE THE KINETIC PARAMETERS OF DIFFERENT TISSUES BETWEEN SYMPTOMATIC PASC PARTICIPANTS AND A CONTROL GROUP CONSISTING OF INDIVIDUALS WITH A COMPLETE COVID-19 RECOVERY. SECOND, WE WILL INTEGRATE THE MULTIPARAMETRIC IMAGING DATA WITH PERIPHERAL BLOOD ASSAYS, AIMING TO ASSESS THE CORRELATIONS BETWEEN CERTAIN 18F-ARAG KINETIC PARAMETERS AND BIOMARKERS OF INFLAMMATION, IMMUNE DYSREGULATION, AND ENDOTHELIAL DYSFUNCTION IN PERIPHERAL BLOOD. PARTICULARLY, TO IDENTIFY VASCULAR ALTERATIONS IN TISSUE AND THEIR ASSOCIATION WITH ENDOTHELIAL MARKERS IN BLOOD, WE WILL USE VASCULAR PERMEABILITY MODELING TO ESTIMATE THE BLOOD FLOW IN DIFFERENT TISSUES FROM THE EARLY FRAMES OF THE KINETIC DATA. THIRD, WE WILL EMPLOY A LONGITUDINAL DESIGN TO QUANTIFY CHANGES IN 18F-ARAG KINETIC PARAMETERS AND CORRELATE THEM WITH EVOLVING PASC SYMPTOM PROFILES OVER TIME. WE WILL INCLUDE TWO FOLLOW-UP SCANS OF THE PASC PARTICIPANTS AT 4 MONTHS AND 8 MONTHS AFTER THE BASELINE SCANS WITH SYSTEMATIC SYMPTOM ASSESSMENTS, FOCUSING ON INDIVIDUAL PATIENT TRAJECTORIES. THROUGH THIS, WE EXPECT TO ESTABLISH A DIRECT AND MEANINGFUL CONNECTION BETWEEN MOLECULAR IMAGING DATA AND CLINICAL MANIFESTATIONS. IN SUMMARY, THE INCORPORATION OF CUTTING-EDGE IMAGING TECHNOLOGY WITH QUANTITATIVE MODELING TECHNIQUES FOR NON- INVASIVE EVALUATION OF TOTAL-BODY IMMUNE RESPONSE, COMBINED WITH THE LONGITUDINAL DESIGN OF THE STUDY PROMISES TO PROVIDE UNPRECEDENTED INSIGHTS INTO THIS COMPLEX CONDITION AND WOULD EXTEND WELL BEYOND THE CONFINES OF THE PASC CONDITION, OFFERING FRAMEWORKS AND TOOLS THAT COULD AS WELL BE USED FOR OTHER POST-VIRAL CONDITIONS.",
+    "total_obligation": 808672,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 808672,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 808672
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2029-07-31",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

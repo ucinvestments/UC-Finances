@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56337007,
+    "Award ID": "20235110640946",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 999997,
+    "Total Outlays": 537167.47,
+    "Description": "WE ARE UNAWARE OF ANY RESEARCH COLLABORATIONS, IN WHICH THE THREE FRONTIER TECHNOLOGIES IN THIS PROJECT (OPTICAL SENSING, COLD PLASMA, AND ADVANCED LIGHTING) ARE BEING INTEGRATED SYNERGISTICALLY. EACH FRONTIER TECHNOLOGY IS ASSOCIATED WITH A STRONG TRACK RECORD OF BEING RELEVANT TO IMPROVED ORGANIC CROP PRODUCTION, AND PRELIMINARY DATA INCLUDED IN THIS PROPOSAL DEMONSTRATE OUR EXPERIENCE WITH EACH OF THEM. ADDITIONALLY, THE TRANSFERABILITY OF PROJECT RESULTS INTO COMMERCIAL CROP PRODUCTION OPERATIONS IS CONSIDERED VERY HIGH AS EACH FRONTIER TECHNOLOGY IS COMMERCIALIZED BY DIFFERENT COMPANIES. AS EXAMPLES, THE FOLLOWING ARE SOME OF THE COMMERCIAL COMPANIES, WHICH OFFER COLD PLASMA SOLUTIONS TO THE AGRICULTURAL SECTOR: PLASMA WATERS (HTTPS://PLASMAWATERS.COM/) AND VITAL FLUID (HTTPS://VITALFLUID.COM/). ON THEIR WEBSITE, VITAL FLUID DESCRIBES SEVERAL ON-GOING PROJECTS WITH ORGANIC GROWERS, IN WHICH PAW IS USED AS A FERTILIZER, PARTICULARLY AS A SOURCE OF NITROGEN FOR PLANTS AND IN DIFFERENT PEST MANAGEMENT APPLICATIONS (MAINLY OF FUNGAL PATHOGENS). VITAL FLUID AND ANOTHER COMMERCIAL PRODUCER OF COLD PLASMA SYSTEMS (WWW.PLASMATREAT.COM) HAVE BOTH PROVIDED STRONG LETTERS OF SUPPORT TO THIS PROPOSAL. GREENHOUSE LIGHTING TECHNOLOGIES ARE WIDELY AVAILABLE AND ELECTRIC INSTALLATIONS ARE OFTEN IN PLACE AS SUPPLEMENTAL LIGHTING IS A FREQUENT PRACTICE IN ORGANIC TOMATO PRODUCTION. AS AN EXAMPLE, CO-PD MATTSON IS CO-LEAD OF THE GREENHOUSE LIGHTING AND SYSTEMS ENGINEERING (GLASE) CONSORTIUM (HTTPS://GLASE.ORG/), IN WHICH RESEARCH AND TESTING OF LIGHTING SYSTEMS IS A MAJOR PRIORITY AND IS BEING CONDUCTED IN CLOSE COLLABORATION WITH MANUFACTURERS OF LIGHTING SYSTEMS. WE WILL DEVELOP AND DELIVER TECHNOLOGY-BASED SOLUTIONS, IN WHICH THREE FRONTIER TECHNOLOGIES WILL BE INTEGRATED AND APPLIED IN SEVERAL WAYS TO ORGANIC TOMATO PRODUCTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2023-09-01",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20235110640946_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56337007,
+    "generated_unique_award_id": "ASST_NON_20235110640946_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "WE ARE UNAWARE OF ANY RESEARCH COLLABORATIONS, IN WHICH THE THREE FRONTIER TECHNOLOGIES IN THIS PROJECT (OPTICAL SENSING, COLD PLASMA, AND ADVANCED LIGHTING) ARE BEING INTEGRATED SYNERGISTICALLY. EACH FRONTIER TECHNOLOGY IS ASSOCIATED WITH A STRONG TRACK RECORD OF BEING RELEVANT TO IMPROVED ORGANIC CROP PRODUCTION, AND PRELIMINARY DATA INCLUDED IN THIS PROPOSAL DEMONSTRATE OUR EXPERIENCE WITH EACH OF THEM. ADDITIONALLY, THE TRANSFERABILITY OF PROJECT RESULTS INTO COMMERCIAL CROP PRODUCTION OPERATIONS IS CONSIDERED VERY HIGH AS EACH FRONTIER TECHNOLOGY IS COMMERCIALIZED BY DIFFERENT COMPANIES. AS EXAMPLES, THE FOLLOWING ARE SOME OF THE COMMERCIAL COMPANIES, WHICH OFFER COLD PLASMA SOLUTIONS TO THE AGRICULTURAL SECTOR: PLASMA WATERS (HTTPS://PLASMAWATERS.COM/) AND VITAL FLUID (HTTPS://VITALFLUID.COM/). ON THEIR WEBSITE, VITAL FLUID DESCRIBES SEVERAL ON-GOING PROJECTS WITH ORGANIC GROWERS, IN WHICH PAW IS USED AS A FERTILIZER, PARTICULARLY AS A SOURCE OF NITROGEN FOR PLANTS AND IN DIFFERENT PEST MANAGEMENT APPLICATIONS (MAINLY OF FUNGAL PATHOGENS). VITAL FLUID AND ANOTHER COMMERCIAL PRODUCER OF COLD PLASMA SYSTEMS (WWW.PLASMATREAT.COM) HAVE BOTH PROVIDED STRONG LETTERS OF SUPPORT TO THIS PROPOSAL. GREENHOUSE LIGHTING TECHNOLOGIES ARE WIDELY AVAILABLE AND ELECTRIC INSTALLATIONS ARE OFTEN IN PLACE AS SUPPLEMENTAL LIGHTING IS A FREQUENT PRACTICE IN ORGANIC TOMATO PRODUCTION. AS AN EXAMPLE, CO-PD MATTSON IS CO-LEAD OF THE GREENHOUSE LIGHTING AND SYSTEMS ENGINEERING (GLASE) CONSORTIUM (HTTPS://GLASE.ORG/), IN WHICH RESEARCH AND TESTING OF LIGHTING SYSTEMS IS A MAJOR PRIORITY AND IS BEING CONDUCTED IN CLOSE COLLABORATION WITH MANUFACTURERS OF LIGHTING SYSTEMS. WE WILL DEVELOP AND DELIVER TECHNOLOGY-BASED SOLUTIONS, IN WHICH THREE FRONTIER TECHNOLOGIES WILL BE INTEGRATED AND APPLIED IN SEVERAL WAYS TO ORGANIC TOMATO PRODUCTION.",
+    "total_obligation": 999997,
+    "subaward_count": 2,
+    "total_subaward_amount": 329085,
+    "date_signed": "2023-08-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 538250.08,
+    "total_account_obligation": 999997,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 538250.08
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 999997
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2023-08-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 538250.08
+  }
+}

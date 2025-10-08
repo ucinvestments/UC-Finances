@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91314337,
+    "Award ID": "R24AP00194",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 999935,
+    "Total Outlays": 491501.46,
+    "Description": "THE RECIPIENTS RECENT STUDIES ON THE HEALTH EFFECTS OF AEROSOL PARTICULATE EXPOSURE IN ANIMAL MODELS REVEALED THAT AEROSOLS GENERATED FROM SALTON SEA WATER AND DUST COLLECTED NEAR THE SEA HAVE A SIGNIFICANT IMPACT ON LUNG INFLAMMATION. THESE RESULTS PROVIDE EVIDENCE THAT AEROSOL DUST PLAYS A CONTRIBUTORY ROLE IN ASTHMA-LIKE DISEASE IN RESIDENTS NEAR SALTON SEA. WE HAVE BEGUN WORKING TO ASSESS THE ROLE OF SEA CONTRACTION AND EXPOSED PLAYA ON THE ENRICHMENT OF SPECIFIC COMPONENTS IN THE TRANSITION FROM SEA TO PLAYA, TO ENTRAINED DUST. EVIDENCE GATHERED SO FAR SUGGEST THAT MICROBIAL COMPONENTS, SUCH AS ENDOTOXIN LPS FROM GRAM-NEGATIVE MICROBES, IN THE SALTON SEA MICROBIOME PLAY A SIGNIFICANT ROLE IN THE HEALTH IMPACTS OF THE SALTON SEA DUST. THE RECIPIENTS PROPOSED CONTINUING STUDY WILL SEEK TO UNDERSTAND HOW THE MICROBIOME AND CHEMISTRY OF SALTON SEA WATER, PLAYA, AND DUST ARE RELATED, AND HOW THIS VARIES ACROSS THE VARIOUS SALTON SEA SHOREFRONT CONDITIONS AND BETWEEN SEASONS. THAT IS, PLAYA CRUSTS AND SOIL CONDITIONS AT VARIOUS SITES ALONG THE EXPOSED SHORELINE MAY SHOW DIFFERENT CONTRIBUTIONS TO DUST COMPONENTS, AND SURFACE BIOCRUST MICROBES MAY PLAY A ROLE IN LIMITING DUST ENTRAINMENT.THE RECIPIENT WILL STUDY THE MICROBIAL PRODUCTS FOUND IN THE BIOMASS COLLECTED IN AEROSOL DUSTS FROM THE PLAYA, BY IDENTIFYING MICROBIAL SPECIES THAT CONTRIBUTE THE MOST MATERIAL, IN PARTICULAR THE MOST LUNG TOXIC COMPONENTS, AS WELL AS THE BIOCHEMICAL MECHANISMS THAT LEAD TO THE ENTRAINMENT OF THESE TOXIC COMPONENTS IN THE PLAYA DUST.RESULTS WILL BE PRESENTED TO THE BUREAU OF RECLAMATION AND CALIFORNIA NATURAL RESOURCES AGENCY AND WILL BE MADE AVAILABLE TO THE PUBLIC.1.COLLECT SALTON SEA WATER, LAKE SEDIMENTS, PLAYA SURFACE AND SUBSURFACE SOIL, AND EMITTED DUST GENERATED AT AREAS WITH EXPOSED PLAYA, AND FURTHER FROM THE SEA, WITH REPEATED SAMPLING AT DIFFERENT SEASONS. DUST COLLECTION WILL BE AUGMENTED TO INCLUDE NOVEL EMISSION COLLECTORS.2.METAGENOMIC ANALYSIS OF COLLECTED SAMPLES WILL ASSESS MICROBIAL DIVERSITY AND DIFFERENCES IN MICROBIOMES ASSOCIATED WITH GEOGRAPHIC LOCATIONS AROUND THE SALTON SEA, AS WELL AS SEASONAL CHANGES. METABOLIC FUNCTIONAL PATHWAY ANALYSIS WILL ALSO BE DONE TO IDENTIFY PATHWAYS ASSOCIATED WITH ADAPTATION TO THE HYPERSALINE CHEMISTRY OF THE WATER.3.SAMPLES WILL BE ANALYZED BY SEVERAL BIOCHEMICAL CRITERIA, INCLUDING ORGANIC CONTENT, ESPECIALLY COMPONENTS ASSOCIATED WITH MICROBIAL TOXINS CAPABLE OF INDUCING LUNG INFLAMMATION.4.FIELD SAMPLE MICROBES WILL BE CULTURED IN THE LAB UNDER CONDITIONS MIMICKING ENVIRONMENTAL CONDITIONS TO DETERMINE THE SIGNIFICANCE OF ADAPTATION TO THE HYPERSALINE, HIGH SULFUR, AND EUTROPHIC CHEMISTRY OF THE SALTON SEA5.BIOCHEMICAL CHARACTERIZATION OF ORGANIC COMPONENTS ISOLATED FROM CULTURES OF SALTON SEA MICROBES WILL BE PERFORMED TO IDENTIFY THE MOST POTENT INFLAMMATORY TOXINS, AND STRUCTURAL STUDIES WILL BE PERFORMED TO DETERMINE THE SPECIFIC CHANGES IN THESE MOLECULES ACCOUNTING FOR THEIR PRO-INFLAMMATORY EFFECTS.6.BIOLOGICAL ASSAYS INCLUDING ANIMAL MODELS WILL BE USED TO ASSESS THE TOXIC POTENCY OF MICROBIAL PRODUCTS FROM THE ENVIRONMENTAL AND LAB CULTURED MICROBES BASED ON METAGENOMICS DATA.7.COORDINATE WITH AND PRESENT RESULTS TO RECLAMATION AND CALIFORNIA NATURAL RESOURCES AGENCY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": "OFFICE OF RESEARCH AFFAIRS",
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "52",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of the Interior",
+    "Awarding Sub Agency": "Bureau of Reclamation",
+    "Start Date": "2024-03-01",
+    "End Date": "2026-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R24AP00194_014",
+    "awarding_agency_id": 209,
+    "agency_slug": "department-of-the-interior",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91314337,
+    "generated_unique_award_id": "ASST_NON_R24AP00194_014",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE RECIPIENTS RECENT STUDIES ON THE HEALTH EFFECTS OF AEROSOL PARTICULATE EXPOSURE IN ANIMAL MODELS REVEALED THAT AEROSOLS GENERATED FROM SALTON SEA WATER AND DUST COLLECTED NEAR THE SEA HAVE A SIGNIFICANT IMPACT ON LUNG INFLAMMATION. THESE RESULTS PROVIDE EVIDENCE THAT AEROSOL DUST PLAYS A CONTRIBUTORY ROLE IN ASTHMA-LIKE DISEASE IN RESIDENTS NEAR SALTON SEA. WE HAVE BEGUN WORKING TO ASSESS THE ROLE OF SEA CONTRACTION AND EXPOSED PLAYA ON THE ENRICHMENT OF SPECIFIC COMPONENTS IN THE TRANSITION FROM SEA TO PLAYA, TO ENTRAINED DUST. EVIDENCE GATHERED SO FAR SUGGEST THAT MICROBIAL COMPONENTS, SUCH AS ENDOTOXIN LPS FROM GRAM-NEGATIVE MICROBES, IN THE SALTON SEA MICROBIOME PLAY A SIGNIFICANT ROLE IN THE HEALTH IMPACTS OF THE SALTON SEA DUST. THE RECIPIENTS PROPOSED CONTINUING STUDY WILL SEEK TO UNDERSTAND HOW THE MICROBIOME AND CHEMISTRY OF SALTON SEA WATER, PLAYA, AND DUST ARE RELATED, AND HOW THIS VARIES ACROSS THE VARIOUS SALTON SEA SHOREFRONT CONDITIONS AND BETWEEN SEASONS. THAT IS, PLAYA CRUSTS AND SOIL CONDITIONS AT VARIOUS SITES ALONG THE EXPOSED SHORELINE MAY SHOW DIFFERENT CONTRIBUTIONS TO DUST COMPONENTS, AND SURFACE BIOCRUST MICROBES MAY PLAY A ROLE IN LIMITING DUST ENTRAINMENT.THE RECIPIENT WILL STUDY THE MICROBIAL PRODUCTS FOUND IN THE BIOMASS COLLECTED IN AEROSOL DUSTS FROM THE PLAYA, BY IDENTIFYING MICROBIAL SPECIES THAT CONTRIBUTE THE MOST MATERIAL, IN PARTICULAR THE MOST LUNG TOXIC COMPONENTS, AS WELL AS THE BIOCHEMICAL MECHANISMS THAT LEAD TO THE ENTRAINMENT OF THESE TOXIC COMPONENTS IN THE PLAYA DUST.RESULTS WILL BE PRESENTED TO THE BUREAU OF RECLAMATION AND CALIFORNIA NATURAL RESOURCES AGENCY AND WILL BE MADE AVAILABLE TO THE PUBLIC.1.COLLECT SALTON SEA WATER, LAKE SEDIMENTS, PLAYA SURFACE AND SUBSURFACE SOIL, AND EMITTED DUST GENERATED AT AREAS WITH EXPOSED PLAYA, AND FURTHER FROM THE SEA, WITH REPEATED SAMPLING AT DIFFERENT SEASONS. DUST COLLECTION WILL BE AUGMENTED TO INCLUDE NOVEL EMISSION COLLECTORS.2.METAGENOMIC ANALYSIS OF COLLECTED SAMPLES WILL ASSESS MICROBIAL DIVERSITY AND DIFFERENCES IN MICROBIOMES ASSOCIATED WITH GEOGRAPHIC LOCATIONS AROUND THE SALTON SEA, AS WELL AS SEASONAL CHANGES. METABOLIC FUNCTIONAL PATHWAY ANALYSIS WILL ALSO BE DONE TO IDENTIFY PATHWAYS ASSOCIATED WITH ADAPTATION TO THE HYPERSALINE CHEMISTRY OF THE WATER.3.SAMPLES WILL BE ANALYZED BY SEVERAL BIOCHEMICAL CRITERIA, INCLUDING ORGANIC CONTENT, ESPECIALLY COMPONENTS ASSOCIATED WITH MICROBIAL TOXINS CAPABLE OF INDUCING LUNG INFLAMMATION.4.FIELD SAMPLE MICROBES WILL BE CULTURED IN THE LAB UNDER CONDITIONS MIMICKING ENVIRONMENTAL CONDITIONS TO DETERMINE THE SIGNIFICANCE OF ADAPTATION TO THE HYPERSALINE, HIGH SULFUR, AND EUTROPHIC CHEMISTRY OF THE SALTON SEA5.BIOCHEMICAL CHARACTERIZATION OF ORGANIC COMPONENTS ISOLATED FROM CULTURES OF SALTON SEA MICROBES WILL BE PERFORMED TO IDENTIFY THE MOST POTENT INFLAMMATORY TOXINS, AND STRUCTURAL STUDIES WILL BE PERFORMED TO DETERMINE THE SPECIFIC CHANGES IN THESE MOLECULES ACCOUNTING FOR THEIR PRO-INFLAMMATORY EFFECTS.6.BIOLOGICAL ASSAYS INCLUDING ANIMAL MODELS WILL BE USED TO ASSESS THE TOXIC POTENCY OF MICROBIAL PRODUCTS FROM THE ENVIRONMENTAL AND LAB CULTURED MICROBES BASED ON METAGENOMICS DATA.7.COORDINATE WITH AND PRESENT RESULTS TO RECLAMATION AND CALIFORNIA NATURAL RESOURCES AGENCY.",
+    "total_obligation": 999935,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-02-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 491501.46,
+    "total_account_obligation": 999935,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 491501.46
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 999935
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 228,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "Bureau of Reclamation",
+        "code": "1425",
+        "abbreviation": "BOR"
+      },
+      "office_agency_name": "LOWER COLORADO REGIONAL OFFICE"
+    },
+    "awarding_agency": {
+      "id": 228,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "Bureau of Reclamation",
+        "code": "1425",
+        "abbreviation": "BOR"
+      },
+      "office_agency_name": "LOWER COLORADO REGIONAL OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2024-03-01",
+      "end_date": "2026-03-31",
+      "last_modified_date": "2024-08-01",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": "OFFICE OF RESEARCH AFFAIRS",
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "90",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 491501.46
+  }
+}

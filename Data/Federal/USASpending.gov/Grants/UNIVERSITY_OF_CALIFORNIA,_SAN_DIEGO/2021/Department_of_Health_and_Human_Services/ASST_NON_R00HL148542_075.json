@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91116093,
+    "Award ID": "R00HL148542",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 1049895.33,
+    "Total Outlays": 946203.08,
+    "Description": "INVESTIGATING SEX DIFFERENCES IN PERSISTENT VALVULAR MYOFIBROBLAST ACTIVATION USING HYDROGEL CULTURE SUBSTRATES - PROJECT SUMMARY / ABSTRACT  AORTIC VALVE STENOSIS (AVS) IS A PROGRESSIVE DISEASE WHERE FIBROBLAST-LIKE VALVULAR INTERSTITIAL CELLS (VICS) BECOME PERSISTENTLY ACTIVATED MYOFIBROBLASTS, WHICH CONTRIBUTE TO PATHOLOGIC AORTIC VALVE LEAFLET STIFFENING. AVS IS TREATED WITH VALVE REPLACEMENT SURGERIES, WHICH MAY BE AVOIDED IF SMALL MOLECULE DRUG COMBINATIONS COULD BE IDENTIFIED TO INHIBIT PERSISTENT MYOFIBROBLAST ACTIVATION. HOWEVER, THE MOLECULAR MECHANISMS REGULATING PERSISTENT MYOFIBROBLAST ACTIVATION ARE UNKNOWN AND MAY VARY FROM PATIENT-TO-PATIENT AND/OR BY SEX. MY CURRENT RESEARCH HAS REVEALED THAT PERSISTENT MYOFIBROBLASTS CAN BE OBTAINED ON STIFF POLY(ETHYLENE GLYCOL) (PEG) HYDROGELS THAT RECAPITULATE FIBROTIC VALVE STIFFNESS, AND OUR PRELIMINARY DATA SUGGEST SEX-SPECIFIC DIFFERENCES IN HOW MALE AND FEMALE VICS OBTAIN PERSISTENCE OVER TIME. MY RESEARCH ALSO SUGGESTS SERUM FACTORS FROM INDIVIDUAL AVS PATIENTS VARIABLY IMPACT MYOFIBROBLAST ACTIVATION ON ENGINEERED HYDROGELS. MY PROPOSED RESEARCH SEEKS TO CHARACTERIZE THE SEX- AND PATIENT-SPECIFIC DIFFERENCES THAT LEAD TO PERSISTENT MYOFIBROBLAST ACTIVATION DURING AVS IN THE MENTORED K99 PHASE AND OPTIMIZE DRUG COMBINATIONS TO INHIBIT MYOFIBROBLAST ACTIVATION AS A FUNCTION OF PATIENT-SPECIFIC CUES IN THE INDEPENDENT R00 PHASE. WE HYPOTHESIZE (I) SEX-LINKED DIFFERENCES IN HOW MALE AND FEMALE VICS RESPOND TO MECHANICAL CUES AND (II) PATIENT-SPECIFIC BIOCHEMICAL CUES FOUND IN AVS PATIENT SERA CONTRIBUTE TO PERSISTENT ACTIVATION AND SUBSEQUENT MYOFIBROBLAST RESPONSE TO SMALL MOLECULE DRUGS. IN AIM 1, WE WILL CHARACTERIZE SEX-LINKED EPIGENETIC MODIFIERS THAT REGULATE MYOFIBROBLAST PERSISTENCE PATHWAYS IN MALE AND FEMALE VICS SEEDED ON PEG HYDROGELS USING CHROMATIN CHARACTERIZATION ASSAYS AND TRANSCRIPTOMICS ANALYSES. IN AIM 2, WE WILL GENERATE PERSISTENTLY ACTIVATED MYOFIBROBLASTS IN HUMAN AVS PATIENT SERA AND DETERMINE ALTERATIONS (E.G. OPEN CHROMATIN REGIONS) IN THE VIC EPIGENOME DUE TO PATIENT-SPECIFIC SERUM FACTORS USING ASSAY FOR TRANSPOSASE-ACCESSIBLE CHROMATIN WITH SEQUENCING (ATAC-SEQ). IN AIM 3, WE WILL IDENTIFY OPTIMAL COMBINATIONS OF SMALL MOLECULE DRUGS TO INHIBIT PERSISTENT MYOFIBROBLAST ACTIVATION IN THE PRESENCE OF AVS PATIENT SERUM USING A DIFFERENTIAL EVOLUTION ALGORITHM THAT CORRELATES MYOFIBROBLAST INHIBITION WITH A PERSONALIZED COMBINATORIAL DRUG DOSE. IN THE K99 PHASE OF THE AWARD, PROF. KRISTI ANSETH WILL SERVE AS MY MAIN MENTOR, WHO IS A PIONEER IN USING PEG HYDROGEL MATERIALS FOR MANIPULATING CELLULAR PHENOTYPES. I WILL CONSULT MY MENTORING TEAM, INCLUDING PROF. LESLIE LEINWAND (SEX-SPECIFIC CARDIAC DISEASES), PROF. TIM MCKINSEY (EPIGENETICS DURING FIBROSIS), DR. MARY ALLEN (SHORT-READ SEQUENCING), AND PROF. DEAN HO (COMPUTATIONAL ALGORITHMS FOR OPTIMIZING DRUG TREATMENTS). MY K99 TRAINING WILL CONSIST OF LEARNING KEY SHORT-READ SEQUENCING AND EPIGENETIC CHARACTERIZATION TECHNIQUES TO PROPEL ME TOWARD DEVELOPING PRECISION MEDICINE-BASED TREATMENTS FOR AVS USING BIOMATERIALS DURING THE INDEPENDENT INVESTIGATOR R00 PHASE. IN SUM, THE PROPOSED RESEARCH WILL ADDRESS AN URGENT, UNMET NEED FOR SEX-SPECIFIC AND PRECISION MEDICINE APPROACHES FOR IDENTIFYING MOLECULAR MECHANISMS OF MYOFIBROBLAST PERSISTENCE, WHICH MAY PROVIDE A BRIDGE TOWARD NON-SURGICAL AVS THERAPIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-09-05",
+    "End Date": "2024-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R00HL148542_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91116093,
+    "generated_unique_award_id": "ASST_NON_R00HL148542_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INVESTIGATING SEX DIFFERENCES IN PERSISTENT VALVULAR MYOFIBROBLAST ACTIVATION USING HYDROGEL CULTURE SUBSTRATES - PROJECT SUMMARY / ABSTRACT  AORTIC VALVE STENOSIS (AVS) IS A PROGRESSIVE DISEASE WHERE FIBROBLAST-LIKE VALVULAR INTERSTITIAL CELLS (VICS) BECOME PERSISTENTLY ACTIVATED MYOFIBROBLASTS, WHICH CONTRIBUTE TO PATHOLOGIC AORTIC VALVE LEAFLET STIFFENING. AVS IS TREATED WITH VALVE REPLACEMENT SURGERIES, WHICH MAY BE AVOIDED IF SMALL MOLECULE DRUG COMBINATIONS COULD BE IDENTIFIED TO INHIBIT PERSISTENT MYOFIBROBLAST ACTIVATION. HOWEVER, THE MOLECULAR MECHANISMS REGULATING PERSISTENT MYOFIBROBLAST ACTIVATION ARE UNKNOWN AND MAY VARY FROM PATIENT-TO-PATIENT AND/OR BY SEX. MY CURRENT RESEARCH HAS REVEALED THAT PERSISTENT MYOFIBROBLASTS CAN BE OBTAINED ON STIFF POLY(ETHYLENE GLYCOL) (PEG) HYDROGELS THAT RECAPITULATE FIBROTIC VALVE STIFFNESS, AND OUR PRELIMINARY DATA SUGGEST SEX-SPECIFIC DIFFERENCES IN HOW MALE AND FEMALE VICS OBTAIN PERSISTENCE OVER TIME. MY RESEARCH ALSO SUGGESTS SERUM FACTORS FROM INDIVIDUAL AVS PATIENTS VARIABLY IMPACT MYOFIBROBLAST ACTIVATION ON ENGINEERED HYDROGELS. MY PROPOSED RESEARCH SEEKS TO CHARACTERIZE THE SEX- AND PATIENT-SPECIFIC DIFFERENCES THAT LEAD TO PERSISTENT MYOFIBROBLAST ACTIVATION DURING AVS IN THE MENTORED K99 PHASE AND OPTIMIZE DRUG COMBINATIONS TO INHIBIT MYOFIBROBLAST ACTIVATION AS A FUNCTION OF PATIENT-SPECIFIC CUES IN THE INDEPENDENT R00 PHASE. WE HYPOTHESIZE (I) SEX-LINKED DIFFERENCES IN HOW MALE AND FEMALE VICS RESPOND TO MECHANICAL CUES AND (II) PATIENT-SPECIFIC BIOCHEMICAL CUES FOUND IN AVS PATIENT SERA CONTRIBUTE TO PERSISTENT ACTIVATION AND SUBSEQUENT MYOFIBROBLAST RESPONSE TO SMALL MOLECULE DRUGS. IN AIM 1, WE WILL CHARACTERIZE SEX-LINKED EPIGENETIC MODIFIERS THAT REGULATE MYOFIBROBLAST PERSISTENCE PATHWAYS IN MALE AND FEMALE VICS SEEDED ON PEG HYDROGELS USING CHROMATIN CHARACTERIZATION ASSAYS AND TRANSCRIPTOMICS ANALYSES. IN AIM 2, WE WILL GENERATE PERSISTENTLY ACTIVATED MYOFIBROBLASTS IN HUMAN AVS PATIENT SERA AND DETERMINE ALTERATIONS (E.G. OPEN CHROMATIN REGIONS) IN THE VIC EPIGENOME DUE TO PATIENT-SPECIFIC SERUM FACTORS USING ASSAY FOR TRANSPOSASE-ACCESSIBLE CHROMATIN WITH SEQUENCING (ATAC-SEQ). IN AIM 3, WE WILL IDENTIFY OPTIMAL COMBINATIONS OF SMALL MOLECULE DRUGS TO INHIBIT PERSISTENT MYOFIBROBLAST ACTIVATION IN THE PRESENCE OF AVS PATIENT SERUM USING A DIFFERENTIAL EVOLUTION ALGORITHM THAT CORRELATES MYOFIBROBLAST INHIBITION WITH A PERSONALIZED COMBINATORIAL DRUG DOSE. IN THE K99 PHASE OF THE AWARD, PROF. KRISTI ANSETH WILL SERVE AS MY MAIN MENTOR, WHO IS A PIONEER IN USING PEG HYDROGEL MATERIALS FOR MANIPULATING CELLULAR PHENOTYPES. I WILL CONSULT MY MENTORING TEAM, INCLUDING PROF. LESLIE LEINWAND (SEX-SPECIFIC CARDIAC DISEASES), PROF. TIM MCKINSEY (EPIGENETICS DURING FIBROSIS), DR. MARY ALLEN (SHORT-READ SEQUENCING), AND PROF. DEAN HO (COMPUTATIONAL ALGORITHMS FOR OPTIMIZING DRUG TREATMENTS). MY K99 TRAINING WILL CONSIST OF LEARNING KEY SHORT-READ SEQUENCING AND EPIGENETIC CHARACTERIZATION TECHNIQUES TO PROPEL ME TOWARD DEVELOPING PRECISION MEDICINE-BASED TREATMENTS FOR AVS USING BIOMATERIALS DURING THE INDEPENDENT INVESTIGATOR R00 PHASE. IN SUM, THE PROPOSED RESEARCH WILL ADDRESS AN URGENT, UNMET NEED FOR SEX-SPECIFIC AND PRECISION MEDICINE APPROACHES FOR IDENTIFYING MOLECULAR MECHANISMS OF MYOFIBROBLAST PERSISTENCE, WHICH MAY PROVIDE A BRIDGE TOWARD NON-SURGICAL AVS THERAPIES.",
+    "total_obligation": 1049895.33,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-09-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 946203.08,
+    "total_account_obligation": 1076530,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 946203.08
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1076530
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-05",
+      "end_date": "2024-08-31",
+      "last_modified_date": "2025-02-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 946203.08
+  }
+}

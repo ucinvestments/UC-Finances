@@ -72,5 +72,267 @@
     "pop_city_name": "",
     "pop_state_code": "",
     "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 126836427,
+    "generated_unique_award_id": "CONT_AWD_HHSH25034002T_7526_HHSH250201300023I_7526",
+    "piid": "HHSH25034002T",
+    "category": "contract",
+    "type": "C",
+    "type_description": "DELIVERY ORDER",
+    "description": "IGF::OT::IGF BPHC NATIONAL PROGRAM PERFORMANCE ANALYSIS",
+    "total_obligation": 1069367.49,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2016-08-26",
+    "base_exercised_options": 1069367.49,
+    "base_and_all_options": 1069367.49,
+    "total_account_outlay": 0,
+    "total_account_obligation": -6946.36,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -6946.36
+      }
+    ],
+    "parent_award": {
+      "agency_id": 806,
+      "agency_name": "Department of Health and Human Services",
+      "agency_slug": "department-of-health-and-human-services",
+      "award_id": 169304658,
+      "generated_unique_award_id": "CONT_IDV_HHSH250201300023I_7526",
+      "idv_type_description": "IDC",
+      "multiple_or_single_aw_desc": "MULTIPLE AWARD",
+      "piid": "HHSH250201300023I",
+      "sub_agency_id": "7526",
+      "sub_agency_name": "Health Resources and Services Administration",
+      "type_of_idc_description": "INDEFINITE DELIVERY / INDEFINITE QUANTITY"
+    },
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": "7526",
+      "referenced_idv_agency_desc": "HEALTH RESOURCES AND SERVICES ADMINISTRATION",
+      "solicitation_identifier": null,
+      "solicitation_procedures": "MAFO",
+      "number_of_offers_received": "3",
+      "extent_competed": "A",
+      "type_set_aside": "",
+      "type_set_aside_description": "",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "Y",
+      "fed_biz_opps_description": "YES",
+      "small_business_competitive": false,
+      "product_or_service_code": "R410",
+      "naics": "541611",
+      "naics_description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "Y",
+      "cost_or_pricing_data": "N",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "X",
+      "major_program": "EVALUATION ASSESSMENTS AND DEVELOPMENT - DOMAIN ONE",
+      "program_acronym": null,
+      "subcontracting_plan": "",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "SUBJECT TO MULTIPLE AWARD FAIR OPPORTUNITY",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "COMMERCIAL ITEM PROCEDURES NOT USED",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": "FAIR",
+      "fair_opportunity_limited_description": "FAIR OPPORTUNITY GIVEN",
+      "product_or_service_description": "SUPPORT- PROFESSIONAL: PROGRAM EVALUATION/REVIEW/DEVELOPMENT",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "N",
+      "construction_wage_rate_description": "NO",
+      "labor_standards_description": "YES",
+      "materials_supplies": "N",
+      "materials_supplies_description": "NO",
+      "cost_or_pricing_data_description": "NO",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 827,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Health Resources and Services Administration",
+        "code": "7526",
+        "abbreviation": "HRSA"
+      },
+      "office_agency_name": "HRSA HEADQUARTERS"
+    },
+    "awarding_agency": {
+      "id": 827,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Health Resources and Services Administration",
+        "code": "7526",
+        "abbreviation": "HRSA"
+      },
+      "office_agency_name": "HRSA HEADQUARTERS"
+    },
+    "period_of_performance": {
+      "start_date": "2016-09-19",
+      "end_date": "2019-09-18",
+      "last_modified_date": "2021-02-18",
+      "potential_end_date": "2019-09-18 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": "092530369",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Government",
+        "Higher Education",
+        "Hospital",
+        "U.S. National Government",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "U.S. Regional/State Government",
+        "Special Designations",
+        "U.S.-Owned Business"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "11000 KINROSS AVE STE 102",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "2000",
+        "zip5": "90095",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "32",
+      "zip4": "3801",
+      "zip5": "90024",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "R",
+        "description": "SUPPORT SVCS (PROF, ADMIN, MGMT)"
+      },
+      "midtier_code": {
+        "code": "R4",
+        "description": "PROFESSIONAL SERVICES"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "R410",
+        "description": "SUPPORT- PROFESSIONAL: PROGRAM EVALUATION/REVIEW/DEVELOPMENT"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5416",
+        "description": "Management, Scientific, and Technical Consulting Services"
+      },
+      "base_code": {
+        "code": "541611",
+        "description": "Administrative Management and General Management Consulting Services"
+      }
+    },
+    "total_outlay": 0
   }
 }

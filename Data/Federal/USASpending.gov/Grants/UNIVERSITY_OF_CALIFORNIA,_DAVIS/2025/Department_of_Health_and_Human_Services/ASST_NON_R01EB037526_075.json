@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173973178,
+    "Award ID": "R01EB037526",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 705182,
+    "Total Outlays": null,
+    "Description": "AI-DRIVEN DIGITAL PATHOLOGY TOOL FOR EVALUATING INFLAMMATION AND THERAPEUTIC EFFICACY IN PRECLINICAL MODELS - PROJECT SUMMARY/ABSTRACT INFLAMMATION IS A BIOLOGICAL RESPONSE IN MANY DISEASES AND ORGAN SYSTEMS, INCLUDING GRAFT-VERSUS-HOST DISEASE (GVHD) AND INFLAMMATORY BOWEL DISEASES (IBD). TOWARD ALLEVIATING THE DETRIMENTAL IMPACT OF ACUTE OR CHRONIC INFLAMMATION, THERE HAS BEEN RAPID DEVELOPMENT OF CELL THERAPIES SUCH AS MESENCHYMAL STEM CELLS (MSCS). WHILE THESE HAVE SHOWN SIGNIFICANT SUCCESS IN ANIMAL MURINE MODELS FOR IBD AND GVHD, DOSE EFFICACY AND MECHANISM OF ACTION REMAIN OPEN QUESTIONS FOR RESEARCH. FURTHER, THESE THERAPIES HAVE SEEN MIXED SUCCESS WHEN EVALUATED IN HUMAN PATIENTS, INDICATING A DISCONNECT BETWEEN PRECLINICAL AND CLINICAL EVALUATION OF THERAPEUTIC EFFICACY. EXPERIMENTAL THERAPEUTICS IN ANIMAL MODELS ARE TRADITIONALLY ASSESSED ON HISTOPATHOLOGY VIA PATHOLOGIST SCORING, BUT THIS HAS BEEN SHOWN TO SUFFER FROM SUBJECTIVE INTERPRETATION AND VARIABILITY. CORRESPONDINGLY, THE FIELD OF DIGITAL PATHOLOGY HAS HAD A TRANSFORMATIVE IMPACT IN BIOMEDICAL RESEARCH INCLUDING SIGNIFICANT ADVANCES IN AUTOMATED AND COMPUTATIONAL EVALUATION OF DIGITIZED SLIDES FROM HUMAN SPECIMENS. HOWEVER, PRECLINICAL RESEARCH HAS NOT YET SEEN THE BENEFITS OF RIGOROUSLY DEVELOPED DIGITAL PATHOLOGY TOOLS THAT ARE SPECIFICALLY OPTIMIZED FOR SLIDES AND DATA FROM ANIMAL MODELS. MORE ACCURATE QUANTIFICATION OF THE UNDERLYING ASPECTS OF INFLAMMATION IN PRECLINICAL DATA COULD HELP ESTABLISH A MORE RIGOROUS UNDERSTANDING OF THE THERAPEUTIC EFFICACY OF CELL THERAPIES FOR INFLAMMATORY CONDITIONS OCCURRING ACROSS MULTIPLE ORGANS AND DISEASES. TOWARD ADDRESSING THESE ISSUES, THIS PROJECT WILL DEVELOP AND VALIDATE A SPECIALIZED SUITE OF INFLAMMATION DIGITAL PATHOLOGY TOOLS (IDPT) WHICH WILL COMPRISE NEW PATHOMICS AND MACHINE LEARNING MODELS TAILORED FOR USE IN PRECLINICAL MODELS OF IBD AND GVHD. IDPT MODULES WILL QUANTIFY DOMAIN- AND DATA-SPECIFIC CHARACTERISTICS OF DISEASE AND TREATMENT EFFECTS, THUS FACILITATING DEEPER MECHANISTIC INSIGHTS, ACCELERATING THE IDENTIFICATION OF NOVEL THERAPEUTIC TARGETS, AND ULTIMATELY CONTRIBUTING TO THE DEVELOPMENT OF MORE EFFECTIVE TREATMENTS. THIS WILL BE ACCOMPLISHED VIA THREE AIMS. AIM 1 WILL CONSTRUCT IDPT MODULES FOR PRE-PROCESSING, ANNOTATION, AND QUANTITATIVE ASSESSMENT OF INFLAMMATORY COMPONENTS ON A PRE-EXISTING COHORT OF N=700 DIGITIZED HEMATOXYLIN AND EOSIN (H\u0026E) SLIDES FROM PRECLINICAL MODELS OF IBD AND GVHD. IDPT MODULES WILL THEN BE EVALUATED THROUGH TWO DISTINCT USE-CASES: (I) AIM 2 WILL EVALUATE THE THERAPEUTIC EFFICACY OF MSCS IN A PRECLINICAL IBD MODEL TO CONFIRM DOSING AND CELL VIABILITY FOR SUPPRESSING INFLAMMATION, AND (II) AIM 3 WILL EVALUATE THE USE OF MSCS IN PREVENTING THE DEVELOPMENT OF XENOGENEIC GVHD AND MEDIATING INFLAMMATORY RESPONSE AS A RESULT OF CAR-T THERAPY. OUR PROJECT IS BUILT ON THE PRINCIPLES OF OPEN ACCESS AND MULTIDISCIPLINARY COLLABORATION TO ENSURE BROAD IMPACT FOR ITS OUTCOMES, TOWARD ENABLING INNOVATION AND DISCOVERY ACROSS THE SCIENTIFIC COMMUNITY. OUR LONG- TERM OBJECTIVE IS TO ESTABLISH A NEW PARADIGM FOR PRECLINICAL INFLAMMATORY DISEASE STUDIES, OFFERING STANDARDIZED, SCALABLE, AND REPRODUCIBLE METHODS WITH BROAD IMPACT WHILE ENABLING DISCOVERY ACROSS THE SCIENTIFIC COMMUNITY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-08-01",
+    "End Date": "2029-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01EB037526_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173973178,
+    "generated_unique_award_id": "ASST_NON_R01EB037526_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AI-DRIVEN DIGITAL PATHOLOGY TOOL FOR EVALUATING INFLAMMATION AND THERAPEUTIC EFFICACY IN PRECLINICAL MODELS - PROJECT SUMMARY/ABSTRACT INFLAMMATION IS A BIOLOGICAL RESPONSE IN MANY DISEASES AND ORGAN SYSTEMS, INCLUDING GRAFT-VERSUS-HOST DISEASE (GVHD) AND INFLAMMATORY BOWEL DISEASES (IBD). TOWARD ALLEVIATING THE DETRIMENTAL IMPACT OF ACUTE OR CHRONIC INFLAMMATION, THERE HAS BEEN RAPID DEVELOPMENT OF CELL THERAPIES SUCH AS MESENCHYMAL STEM CELLS (MSCS). WHILE THESE HAVE SHOWN SIGNIFICANT SUCCESS IN ANIMAL MURINE MODELS FOR IBD AND GVHD, DOSE EFFICACY AND MECHANISM OF ACTION REMAIN OPEN QUESTIONS FOR RESEARCH. FURTHER, THESE THERAPIES HAVE SEEN MIXED SUCCESS WHEN EVALUATED IN HUMAN PATIENTS, INDICATING A DISCONNECT BETWEEN PRECLINICAL AND CLINICAL EVALUATION OF THERAPEUTIC EFFICACY. EXPERIMENTAL THERAPEUTICS IN ANIMAL MODELS ARE TRADITIONALLY ASSESSED ON HISTOPATHOLOGY VIA PATHOLOGIST SCORING, BUT THIS HAS BEEN SHOWN TO SUFFER FROM SUBJECTIVE INTERPRETATION AND VARIABILITY. CORRESPONDINGLY, THE FIELD OF DIGITAL PATHOLOGY HAS HAD A TRANSFORMATIVE IMPACT IN BIOMEDICAL RESEARCH INCLUDING SIGNIFICANT ADVANCES IN AUTOMATED AND COMPUTATIONAL EVALUATION OF DIGITIZED SLIDES FROM HUMAN SPECIMENS. HOWEVER, PRECLINICAL RESEARCH HAS NOT YET SEEN THE BENEFITS OF RIGOROUSLY DEVELOPED DIGITAL PATHOLOGY TOOLS THAT ARE SPECIFICALLY OPTIMIZED FOR SLIDES AND DATA FROM ANIMAL MODELS. MORE ACCURATE QUANTIFICATION OF THE UNDERLYING ASPECTS OF INFLAMMATION IN PRECLINICAL DATA COULD HELP ESTABLISH A MORE RIGOROUS UNDERSTANDING OF THE THERAPEUTIC EFFICACY OF CELL THERAPIES FOR INFLAMMATORY CONDITIONS OCCURRING ACROSS MULTIPLE ORGANS AND DISEASES. TOWARD ADDRESSING THESE ISSUES, THIS PROJECT WILL DEVELOP AND VALIDATE A SPECIALIZED SUITE OF INFLAMMATION DIGITAL PATHOLOGY TOOLS (IDPT) WHICH WILL COMPRISE NEW PATHOMICS AND MACHINE LEARNING MODELS TAILORED FOR USE IN PRECLINICAL MODELS OF IBD AND GVHD. IDPT MODULES WILL QUANTIFY DOMAIN- AND DATA-SPECIFIC CHARACTERISTICS OF DISEASE AND TREATMENT EFFECTS, THUS FACILITATING DEEPER MECHANISTIC INSIGHTS, ACCELERATING THE IDENTIFICATION OF NOVEL THERAPEUTIC TARGETS, AND ULTIMATELY CONTRIBUTING TO THE DEVELOPMENT OF MORE EFFECTIVE TREATMENTS. THIS WILL BE ACCOMPLISHED VIA THREE AIMS. AIM 1 WILL CONSTRUCT IDPT MODULES FOR PRE-PROCESSING, ANNOTATION, AND QUANTITATIVE ASSESSMENT OF INFLAMMATORY COMPONENTS ON A PRE-EXISTING COHORT OF N=700 DIGITIZED HEMATOXYLIN AND EOSIN (H\u0026E) SLIDES FROM PRECLINICAL MODELS OF IBD AND GVHD. IDPT MODULES WILL THEN BE EVALUATED THROUGH TWO DISTINCT USE-CASES: (I) AIM 2 WILL EVALUATE THE THERAPEUTIC EFFICACY OF MSCS IN A PRECLINICAL IBD MODEL TO CONFIRM DOSING AND CELL VIABILITY FOR SUPPRESSING INFLAMMATION, AND (II) AIM 3 WILL EVALUATE THE USE OF MSCS IN PREVENTING THE DEVELOPMENT OF XENOGENEIC GVHD AND MEDIATING INFLAMMATORY RESPONSE AS A RESULT OF CAR-T THERAPY. OUR PROJECT IS BUILT ON THE PRINCIPLES OF OPEN ACCESS AND MULTIDISCIPLINARY COLLABORATION TO ENSURE BROAD IMPACT FOR ITS OUTCOMES, TOWARD ENABLING INNOVATION AND DISCOVERY ACROSS THE SCIENTIFIC COMMUNITY. OUR LONG- TERM OBJECTIVE IS TO ESTABLISH A NEW PARADIGM FOR PRECLINICAL INFLAMMATORY DISEASE STUDIES, OFFERING STANDARDIZED, SCALABLE, AND REPRODUCIBLE METHODS WITH BROAD IMPACT WHILE ENABLING DISCOVERY ACROSS THE SCIENTIFIC COMMUNITY.",
+    "total_obligation": 705182,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 705182,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 705182
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2029-05-31",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57673470,
+    "Award ID": "2444318",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+    "Award Amount": 600000,
+    "Total Outlays": 0,
+    "Description": "CSR: SMALL: DISTRIBUTED DATAFLOW FOR THE INTERNET OF THINGS -USING UBIQUITOUS INTERNET CONNECTIVITY, IT IS POSSIBLE TO MONITOR AND CONTROL THE PHYSICAL ENVIRONMENT ? FROM URBAN SETTINGS TO RURAL COMMUNITIES TO UNINHABITED WILD LANDS ? CONTINUOUSLY, USING DIGITAL TECHNOLOGIES. CRITICAL UNSOLVED PROBLEMS IN THE AREAS OF EXTREME WEATHER, AGRICULTURE, MEDICINE, ENERGY EFFICIENCY, EDUCATION, SUSTAINABILITY, AND OTHER HIGH-IMPACT DISCIPLINES CAN BE ADDRESSED THROUGH THE CREATION AND IMPLEMENTATION OF AN ALWAYS-ON INTERNET OF THINGS (IOT) THAT EXTENDS HUMAN PERCEPTION AND THE ABILITY TO ACT AT A DISTANCE USING PERVASIVELY DEPLOYED AND INTERCONNECTED DIGITAL ASSETS. THIS PROJECT DEVELOPS A NEW UNIFYING COMPUTER SCIENCE AND ENGINEERING APPROACH TO BUILDING AND DEPLOYING IOT SYSTEMS. THIS PROJECT?S NOVELTIES ARE A SOFTWARE ENVIRONMENT AND ECOSYSTEM THAT ARE OPERATIONAL READY USING CURRENT DIGITAL TECHNOLOGIES. THE PROJECT?S BROADER SIGNIFICANCE IS TWOFOLD. FIRST, THE PROJECT MAKES PUBLICLY AVAILABLE A NEW EXTENSIBLE IOT SOFTWARE INFRASTRUCTURE, ENABLING NEW CROSS-DISCIPLINARY DISCOVERIES AND ADVANCES. SECOND, THE PROJECT MAKES IOT MORE BROADLY ACCESSIBLE BY UNIFYING THE TECHNOLOGIES THAT ARE NECESSARY TO IMPLEMENT IT AS A NEW SOFTWARE CAPABILITY. SCIENTIFICALLY, THE PROJECT POSTULATES A NEW, MULTI-SCALE SET OF COMPUTER SCIENCE ABSTRACTIONS THAT ARE IMPLEMENTABLE ON ALL DEVICES FROM SMALL-SCALE MICROCONTROLLERS TO THE LARGEST SUPERCOMPUTERS. IT DOES SO AS A FULL STACK THAT CAN BE IMPLEMENTED NATIVELY OR AS A GUEST OF EXISTING SOFTWARE INFRASTRUCTURE. IT ALSO INCLUDES A PROGRAMMING LANGUAGE APPROACH THAT IS GENERAL, HIGHLY CONCURRENT (FOR EFFICIENCY) AT LARGE RESOURCE SCALES, AND EVENT-DRIVEN FOR IMPLEMENTATION AT EMBEDDED-SYSTEM MICROSCALE. THIS COMBINATION OF ADVANCES IS INTEGRABLE WITH EXISTING DEVELOPMENT TECHNOLOGIES AND LANGUAGES, THEREBY EXTENDING THE ACCESSIBILITY OF THE RESEARCH RESULTS THAT ARE REQUIRED TO ACHIEVE THE PROJECT?S GOALS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "G9QBQDH39DF4",
+    "Recipient Location": {
+      "address_line1": "3227 CHEADLE HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SANTA BARBARA",
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "93106"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SANTA BARBARA",
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "93106-0001",
+      "zip5": "93106"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-04-01",
+    "End Date": "2028-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2e3fd571-0484-5e6b-3e26-4381689012c6-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2444318_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57673470,
+    "generated_unique_award_id": "ASST_NON_2444318_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CSR: SMALL: DISTRIBUTED DATAFLOW FOR THE INTERNET OF THINGS -USING UBIQUITOUS INTERNET CONNECTIVITY, IT IS POSSIBLE TO MONITOR AND CONTROL THE PHYSICAL ENVIRONMENT ? FROM URBAN SETTINGS TO RURAL COMMUNITIES TO UNINHABITED WILD LANDS ? CONTINUOUSLY, USING DIGITAL TECHNOLOGIES. CRITICAL UNSOLVED PROBLEMS IN THE AREAS OF EXTREME WEATHER, AGRICULTURE, MEDICINE, ENERGY EFFICIENCY, EDUCATION, SUSTAINABILITY, AND OTHER HIGH-IMPACT DISCIPLINES CAN BE ADDRESSED THROUGH THE CREATION AND IMPLEMENTATION OF AN ALWAYS-ON INTERNET OF THINGS (IOT) THAT EXTENDS HUMAN PERCEPTION AND THE ABILITY TO ACT AT A DISTANCE USING PERVASIVELY DEPLOYED AND INTERCONNECTED DIGITAL ASSETS. THIS PROJECT DEVELOPS A NEW UNIFYING COMPUTER SCIENCE AND ENGINEERING APPROACH TO BUILDING AND DEPLOYING IOT SYSTEMS. THIS PROJECT?S NOVELTIES ARE A SOFTWARE ENVIRONMENT AND ECOSYSTEM THAT ARE OPERATIONAL READY USING CURRENT DIGITAL TECHNOLOGIES. THE PROJECT?S BROADER SIGNIFICANCE IS TWOFOLD. FIRST, THE PROJECT MAKES PUBLICLY AVAILABLE A NEW EXTENSIBLE IOT SOFTWARE INFRASTRUCTURE, ENABLING NEW CROSS-DISCIPLINARY DISCOVERIES AND ADVANCES. SECOND, THE PROJECT MAKES IOT MORE BROADLY ACCESSIBLE BY UNIFYING THE TECHNOLOGIES THAT ARE NECESSARY TO IMPLEMENT IT AS A NEW SOFTWARE CAPABILITY. SCIENTIFICALLY, THE PROJECT POSTULATES A NEW, MULTI-SCALE SET OF COMPUTER SCIENCE ABSTRACTIONS THAT ARE IMPLEMENTABLE ON ALL DEVICES FROM SMALL-SCALE MICROCONTROLLERS TO THE LARGEST SUPERCOMPUTERS. IT DOES SO AS A FULL STACK THAT CAN BE IMPLEMENTED NATIVELY OR AS A GUEST OF EXISTING SOFTWARE INFRASTRUCTURE. IT ALSO INCLUDES A PROGRAMMING LANGUAGE APPROACH THAT IS GENERAL, HIGHLY CONCURRENT (FOR EFFICIENCY) AT LARGE RESOURCE SCALES, AND EVENT-DRIVEN FOR IMPLEMENTATION AT EMBEDDED-SYSTEM MICROSCALE. THIS COMBINATION OF ADVANCES IS INTEGRABLE WITH EXISTING DEVELOPMENT TECHNOLOGIES AND LANGUAGES, THEREBY EXTENDING THE ACCESSIBILITY OF THE RESEARCH RESULTS THAT ARE REQUIRED TO ACHIEVE THE PROJECT?S GOALS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 600000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-02-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 600000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 600000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF COMPUTER  NETWORK SYSTEMS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF COMPUTER  NETWORK SYSTEMS"
+    },
+    "period_of_performance": {
+      "start_date": "2025-04-01",
+      "end_date": "2028-03-31",
+      "last_modified_date": "2025-03-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2e3fd571-0484-5e6b-3e26-4381689012c6-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+      "recipient_uei": "G9QBQDH39DF4",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SANTA BARBARA",
+        "county_code": "083",
+        "county_name": "SANTA BARBARA",
+        "address_line1": "3227 CHEADLE HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "24",
+        "zip4": "0001",
+        "zip5": "93106",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SANTA BARBARA",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "24",
+      "zip4": "0001",
+      "zip5": "93106",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

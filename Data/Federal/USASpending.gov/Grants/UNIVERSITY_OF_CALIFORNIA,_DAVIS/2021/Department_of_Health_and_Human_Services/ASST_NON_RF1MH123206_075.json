@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91372247,
+    "Award ID": "RF1MH123206",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1158500,
+    "Total Outlays": 1100327.66,
+    "Description": "MAP MANAGER: LONGITUDINAL IMAGE ANALYSIS WITH ONLINE EDITING AND SHARING. - THE INCREASING AVAILABILITY AND EASE OF USE OF CONFOCAL, TWO-PHOTON, AND LIGHT-SHEET MICROSCOPES COUPLED WITH RAPID DEVELOPMENTS IN FLUORESCENT PROTEIN REPORTERS HAVE MADE 3D AND FUNCTIONAL IMAGING AND ITS ANALYSIS A CENTRAL COMPONENT OF MODERN NEUROSCIENCE RESEARCH. YET, THE EASE OF ACQUIRING 3D AND FUNCTIONAL IMAGES IS CREATING PROGRESSIVELY LARGER DATASETS, PROMPTING THE NEED FOR HIGH-THROUGHPUT IMAGE ANALYSIS ALGORITHMS AND SOFTWARE THAT CAN BE BOTH RAPID AND ACCURATE. ALTHOUGH SOFTWARE TO ANALYZE SINGLE TIME-POINT IMAGES HAS RECEIVED SUBSTANTIAL ATTENTION, TOOLS TO ANALYZE MULTIPLE TIME-POINT LONGITUDINAL IMAGING DATASETS IS CURRENTLY LACKING. THIS LACK OF LONGITUDINAL IMAGE ANALYSIS TOOLS IS A MAJOR BARRIER TO SCIENTIFIC INQUIRY WITH INDIVIDUAL LABS DEVISING THEIR OWN ANALYSIS STRATEGIES CREATING A SITUATION WHERE IT IS DIFFICULT FOR OTHERS TO VERIFY AND REPRODUCE THIS ANALYSIS. WHAT IS NEEDED IS A COMMUNITY AGREED UPON LONGITUDINAL IMAGE ANALYSIS STANDARD THAT PROMOTES SHARING.  HERE, WE PROPOSE TO DEVELOP SOFTWARE TO CREATE AND CURATE ANNOTATIONS IN LONGITUDINAL IMAGING DATASETS. THIS SOFTWARE WILL SOLVE A MAJOR PROBLEM BY PROVIDING THE NEEDED RIGOR AND REPRODUCIBILITY WHILE MAKING IT EASY FOR RESEARCHERS TO DISTRIBUTE THEIR DATA AND ANALYSIS. MAKING THESE IMPORTANT DATASETS FINDABLE, ACCESSIBLE, INTEROPERABLE, AND REUSABLE. TO ACHIEVE THESE GOALS, WE PROPOSE TO BUILD INTUITIVE WEB-BROWSER AND DESKTOP GRAPHICAL-USER-INTERFACES (GUIS) THAT WILL WORK WITH CLOUD BASED DATA AND ANALYSIS. THESE GUIS WILL BE DRIVEN BY A PYTHON ADVANCED-PROGRAMMING-INTERFACE (API) THAT IS SCRIPTABLE. FOR ONLINE EDITING AND SHARING WE WILL WORK WITH THE BRAIN FUNDED BRAIN IMAGE LIBRARY (BIL), AND FOR INTEROPERABILITY WITH NEURODATA WITHOUT BORDERS (NWB) AND NEUROSCIENCE DATA INTERFACE. WE WILL UTILIZE THE BRAIN INITIATIVE NEUROMORPHO.ORG AND DEFINING OUR RESEARCH METHODOLOGY (DORY), TO ENSURE OUR ANNOTATIONS OF MORPHOLOGY, CONNECTIVITY, AND PHYSIOLOGICAL SIGNATURES INCLUDE ACCEPTED META-DATA NOMENCLATURES AND VOCABULARIES.  WE WILL WORK CLOSELY WITH A GROUP OF \"SEED\" BRAIN FUNDED LABS TO OBTAIN FEEDBACK AND MAKE RAPID IMPROVEMENTS IN THE FUNCTIONALITY AND USABILITY OF THE FRONT-END GUIS AND THE BACK-END API. THIS WILL BE ACHIEVED BY ONLINE FORUMS, SITE VISITS, AND A HACK-A-THON HOSTED AT UC DAVIS. DURING THE COVID PANDEMIC WE HAVE LEARNED THAT THESE EVENTS WORK EXTREMELY WELL WHEN DONE VIRTUALLY AND ARE PREPARED TO CONTINUE THIS MODEL. WE ARE COMMITTED TO PROVIDING THOROUGH DOCUMENTATION FOR THE WEB-BROWSER, DESKTOP GUIS, AND PYTHON API AS WELL AS CONSTANTLY REFINED AND SIMPLE TO FOLLOW RECIPES WITH INTERACTIVE WEB-BASED USE CASES. TO ENSURE COMMUNITY ADOPTION AND USE, THIS PROPOSAL ALSO INCLUDES WORKING WITH A NUMBER OF \"SEED\" LABS TO RUN THEIR DATA THROUGH THE ENTIRE PIPELINE FROM ANALYSIS TO ONLINE SHARING.  THE LONG RANGE GOAL IS TO HAVE MAP MANAGER ACT AS A CATALYST FOR DATA ANALYSIS, EXPLORATION, AND SHARING. EFFECTIVELY CREATING A COMMUNITY BASED APPROACH, AKIN TO OTHER DISCIPLINES SUCH AS ASTRONOMY, WHERE DATA IS WIDELY AND PUBLICLY SHARED ALLOWING EFFECTIVE DATA MINING AND MODEL BUILDING TO ADVANCE NEW DISCOVERIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-09-15",
+    "End Date": "2025-09-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_RF1MH123206_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91372247,
+    "generated_unique_award_id": "ASST_NON_RF1MH123206_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MAP MANAGER: LONGITUDINAL IMAGE ANALYSIS WITH ONLINE EDITING AND SHARING. - THE INCREASING AVAILABILITY AND EASE OF USE OF CONFOCAL, TWO-PHOTON, AND LIGHT-SHEET MICROSCOPES COUPLED WITH RAPID DEVELOPMENTS IN FLUORESCENT PROTEIN REPORTERS HAVE MADE 3D AND FUNCTIONAL IMAGING AND ITS ANALYSIS A CENTRAL COMPONENT OF MODERN NEUROSCIENCE RESEARCH. YET, THE EASE OF ACQUIRING 3D AND FUNCTIONAL IMAGES IS CREATING PROGRESSIVELY LARGER DATASETS, PROMPTING THE NEED FOR HIGH-THROUGHPUT IMAGE ANALYSIS ALGORITHMS AND SOFTWARE THAT CAN BE BOTH RAPID AND ACCURATE. ALTHOUGH SOFTWARE TO ANALYZE SINGLE TIME-POINT IMAGES HAS RECEIVED SUBSTANTIAL ATTENTION, TOOLS TO ANALYZE MULTIPLE TIME-POINT LONGITUDINAL IMAGING DATASETS IS CURRENTLY LACKING. THIS LACK OF LONGITUDINAL IMAGE ANALYSIS TOOLS IS A MAJOR BARRIER TO SCIENTIFIC INQUIRY WITH INDIVIDUAL LABS DEVISING THEIR OWN ANALYSIS STRATEGIES CREATING A SITUATION WHERE IT IS DIFFICULT FOR OTHERS TO VERIFY AND REPRODUCE THIS ANALYSIS. WHAT IS NEEDED IS A COMMUNITY AGREED UPON LONGITUDINAL IMAGE ANALYSIS STANDARD THAT PROMOTES SHARING.  HERE, WE PROPOSE TO DEVELOP SOFTWARE TO CREATE AND CURATE ANNOTATIONS IN LONGITUDINAL IMAGING DATASETS. THIS SOFTWARE WILL SOLVE A MAJOR PROBLEM BY PROVIDING THE NEEDED RIGOR AND REPRODUCIBILITY WHILE MAKING IT EASY FOR RESEARCHERS TO DISTRIBUTE THEIR DATA AND ANALYSIS. MAKING THESE IMPORTANT DATASETS FINDABLE, ACCESSIBLE, INTEROPERABLE, AND REUSABLE. TO ACHIEVE THESE GOALS, WE PROPOSE TO BUILD INTUITIVE WEB-BROWSER AND DESKTOP GRAPHICAL-USER-INTERFACES (GUIS) THAT WILL WORK WITH CLOUD BASED DATA AND ANALYSIS. THESE GUIS WILL BE DRIVEN BY A PYTHON ADVANCED-PROGRAMMING-INTERFACE (API) THAT IS SCRIPTABLE. FOR ONLINE EDITING AND SHARING WE WILL WORK WITH THE BRAIN FUNDED BRAIN IMAGE LIBRARY (BIL), AND FOR INTEROPERABILITY WITH NEURODATA WITHOUT BORDERS (NWB) AND NEUROSCIENCE DATA INTERFACE. WE WILL UTILIZE THE BRAIN INITIATIVE NEUROMORPHO.ORG AND DEFINING OUR RESEARCH METHODOLOGY (DORY), TO ENSURE OUR ANNOTATIONS OF MORPHOLOGY, CONNECTIVITY, AND PHYSIOLOGICAL SIGNATURES INCLUDE ACCEPTED META-DATA NOMENCLATURES AND VOCABULARIES.  WE WILL WORK CLOSELY WITH A GROUP OF \"SEED\" BRAIN FUNDED LABS TO OBTAIN FEEDBACK AND MAKE RAPID IMPROVEMENTS IN THE FUNCTIONALITY AND USABILITY OF THE FRONT-END GUIS AND THE BACK-END API. THIS WILL BE ACHIEVED BY ONLINE FORUMS, SITE VISITS, AND A HACK-A-THON HOSTED AT UC DAVIS. DURING THE COVID PANDEMIC WE HAVE LEARNED THAT THESE EVENTS WORK EXTREMELY WELL WHEN DONE VIRTUALLY AND ARE PREPARED TO CONTINUE THIS MODEL. WE ARE COMMITTED TO PROVIDING THOROUGH DOCUMENTATION FOR THE WEB-BROWSER, DESKTOP GUIS, AND PYTHON API AS WELL AS CONSTANTLY REFINED AND SIMPLE TO FOLLOW RECIPES WITH INTERACTIVE WEB-BASED USE CASES. TO ENSURE COMMUNITY ADOPTION AND USE, THIS PROPOSAL ALSO INCLUDES WORKING WITH A NUMBER OF \"SEED\" LABS TO RUN THEIR DATA THROUGH THE ENTIRE PIPELINE FROM ANALYSIS TO ONLINE SHARING.  THE LONG RANGE GOAL IS TO HAVE MAP MANAGER ACT AS A CATALYST FOR DATA ANALYSIS, EXPLORATION, AND SHARING. EFFECTIVELY CREATING A COMMUNITY BASED APPROACH, AKIN TO OTHER DISCIPLINES SUCH AS ASTRONOMY, WHERE DATA IS WIDELY AND PUBLICLY SHARED ALLOWING EFFECTIVE DATA MINING AND MODEL BUILDING TO ADVANCE NEW DISCOVERIES.",
+    "total_obligation": 1158500,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-09-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1100327.66,
+    "total_account_obligation": 1158500,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1100327.66
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1158500
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-15",
+      "end_date": "2025-09-14",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1100327.66
+  }
+}

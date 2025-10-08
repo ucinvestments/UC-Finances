@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173195622,
+    "Award ID": "R01HL181902",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 621546,
+    "Total Outlays": null,
+    "Description": "SINGLE MOLECULE ENZYMOLOGY WITH PRINTED CARBON NANOCIRCUITS - THE PROTEIN KINASE SUPERFAMILY IS RICH IN DISEASE-DRIVING MUTATIONS. EXPERIMENTS DESCRIBED HERE FOCUS ON THE CATALYTIC DOMAIN OF CAMP-DEPENDENT PROTEIN KINASE A (PKA-C). THIS ENZYME CATALYZES THE PHOSPHORYLATION OF NUMEROUS PROTEINS DURING THE EXCITATION-CONTRACTION COUPLING MECHANISM OF NORMAL HEART MUSCLE FUNCTION. MUTATION-DRIVEN, ABERRANT PHOSPHORYLATION BY PKA-C IS DIRECTLY LINKED TO VARIOUS CARDIAC DYSFUNCTIONS, INCLUDING DILATED CARDIOMYOPATHY (DCM), HYPERTROPHIC CARDIOMYOPATHY (HCM), AND DIABETIC CARDIOMYOPATHY. WE WILL OBSERVE AT THE SINGLE MOLECULE LEVEL THE CATALYTIC SUBUNIT OF PKA-C OPERATING ON PHYSIOLOGICAL PROTEINS IN BOTH FUNCTIONAL AND CARDIAC DISEASE-ASSOCIATED SITUATIONS. PKA-C, THE BEST CHARACTERIZED PROTEIN KINASE, IS IDEAL FOR NOVEL, SINGLE MOLECULE STUDIES. ITS CATALYTIC STEPS HAVE BEEN WELL-STUDIED INCLUDING X-RAY STRUCTURES OF ALL STEPS DURING CATALYSIS. THE DYNAMIC FEATURES OF CATALYSIS AND ALLOSTERY AS WELL AS INHIBITION BY PSEUDO-SUBSTRATES HAVE BEEN CHARACTERIZED BY NMR AND CLASSIC KINETICS. WE WILL USE WELL-DEFINED CARDIAC PROTEINS (RYR, PLN, AND TROPONIN C) AS SUBSTRATES FOR PHOSPHORYLATION BY BOTH WILD-TYPE AND CARDIAC DISEASE-ASSOCIATED MUTANTS OF PKA- C. SUB-MICROSECOND EMPIRICAL DATA WILL BE COMBINED WITH THE COMPUTATIONAL TOOLS OF MD SIMULATIONS INTEGRATED INTO A GRAPHICAL TOOL (LOCAL SPATIAL PATTERNING) FOR MAPPING ENTROPIC CHANGES THAT CORRELATE WITH ALLOSTERIC CONTROL OVER THIS HIGHLY REGULATED, ENZYMATIC SWITCH. THUS, THE APPROACH WILL UNCOVER A DYNAMIC PORTRAIT OF PKA-C IN BOTH DISEASED AND NORMAL PHYSIOLOGIES. IN SPECIFIC AIM 1, WE WILL ENGINEER A SINGLE-WALLED CARBON NANOTUBE FIELD EFFECT TRANSISTOR (SWNT FET) SYSTEM TO RECORD SINGLE MOLECULE DYNAMICS WITH UNPRECEDENTED, 35 NS TIME RESOLUTION. THIS APPROACH WILL BE COMBINED WITH INKJET- AND 3D-PRINTING TO ALLOW RAPID DESIGN-BUILD-TEST CYCLES AND BROAD ADOPTION OF THE TECHNIQUE BEYOND THIS PROJECT. IN SPECIFIC AIM 2, WE BIOCONJUGATE WILD-TYPE PKA-C TO THE SWNT FET AND CHARACTERIZE THE CATALYTIC MACHINERY OF PKA-C USING THREE PEPTIDES – THE SUBSTRATES KEMPTIDE AND SP20, ALONG WITH THE PSEUDOSUBSTRATE IP20 FROM THE HEAT STABLE PROTEIN KINASE INHIBITOR (PKI). NUCLEOTIDE BINDING, OPENING AND CLOSING OF THE CATALYTIC CLEFT, REQUIREMENTS FOR PH AND METAL IONS (CA++ VS. MG++) WILL ESTABLISH A BASELINE SET OF MOTIONS AT SUB-MICROSECOND TIMESCALES. IN SPECIFIC AIM 3, WE WILL CHARACTERIZE THE PHOSPHORYLATION OF THREE WELL-STUDIED, CARDIAC SUBSTRATES, AN ACTIVITY CRITICAL TO HEALTHY HEART PHYSIOLOGY. WE FIRST DEFINE THE MOTIONS THAT CORRELATE WITH PHOSPHORYLATION USING PEPTIDES THAT FLANK BOTH SIDES OF THE P-3-P+1 P SITE WHEN DOCKED TO THE ACTIVE SITE CLEFT. THESE FLANKING REGIONS ARE DOCKED ONTO ALLOSTERIC SITES IN THE C-LOBE. WE WILL THEN EXAMINE MUTATIONS IN THE C-LOBE OF PKA-C THAT DRIVE CUSHING’S SYNDROME AND A SET OF RECENTLY DESCRIBED PKA-C MUTATIONS THAT DRIVE THE FORMATION OF POTENTIALLY LETHAL CARDIAC MYXOMAS. THE STUDIES OUTLINED HERE LEVERAGE RECENT ADVANCEMENTS IN NANOTECHNOLOGY, AND THE APPROACH CAN BE ADOPTED BY OTHER LABORATORIES, PROMISING BROAD IMPACT WITHIN THE BIOMEDICAL COMMUNITY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "926970001",
+      "zip5": "92697"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-07-20",
+    "End Date": "2029-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL181902_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173195622,
+    "generated_unique_award_id": "ASST_NON_R01HL181902_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SINGLE MOLECULE ENZYMOLOGY WITH PRINTED CARBON NANOCIRCUITS - THE PROTEIN KINASE SUPERFAMILY IS RICH IN DISEASE-DRIVING MUTATIONS. EXPERIMENTS DESCRIBED HERE FOCUS ON THE CATALYTIC DOMAIN OF CAMP-DEPENDENT PROTEIN KINASE A (PKA-C). THIS ENZYME CATALYZES THE PHOSPHORYLATION OF NUMEROUS PROTEINS DURING THE EXCITATION-CONTRACTION COUPLING MECHANISM OF NORMAL HEART MUSCLE FUNCTION. MUTATION-DRIVEN, ABERRANT PHOSPHORYLATION BY PKA-C IS DIRECTLY LINKED TO VARIOUS CARDIAC DYSFUNCTIONS, INCLUDING DILATED CARDIOMYOPATHY (DCM), HYPERTROPHIC CARDIOMYOPATHY (HCM), AND DIABETIC CARDIOMYOPATHY. WE WILL OBSERVE AT THE SINGLE MOLECULE LEVEL THE CATALYTIC SUBUNIT OF PKA-C OPERATING ON PHYSIOLOGICAL PROTEINS IN BOTH FUNCTIONAL AND CARDIAC DISEASE-ASSOCIATED SITUATIONS. PKA-C, THE BEST CHARACTERIZED PROTEIN KINASE, IS IDEAL FOR NOVEL, SINGLE MOLECULE STUDIES. ITS CATALYTIC STEPS HAVE BEEN WELL-STUDIED INCLUDING X-RAY STRUCTURES OF ALL STEPS DURING CATALYSIS. THE DYNAMIC FEATURES OF CATALYSIS AND ALLOSTERY AS WELL AS INHIBITION BY PSEUDO-SUBSTRATES HAVE BEEN CHARACTERIZED BY NMR AND CLASSIC KINETICS. WE WILL USE WELL-DEFINED CARDIAC PROTEINS (RYR, PLN, AND TROPONIN C) AS SUBSTRATES FOR PHOSPHORYLATION BY BOTH WILD-TYPE AND CARDIAC DISEASE-ASSOCIATED MUTANTS OF PKA- C. SUB-MICROSECOND EMPIRICAL DATA WILL BE COMBINED WITH THE COMPUTATIONAL TOOLS OF MD SIMULATIONS INTEGRATED INTO A GRAPHICAL TOOL (LOCAL SPATIAL PATTERNING) FOR MAPPING ENTROPIC CHANGES THAT CORRELATE WITH ALLOSTERIC CONTROL OVER THIS HIGHLY REGULATED, ENZYMATIC SWITCH. THUS, THE APPROACH WILL UNCOVER A DYNAMIC PORTRAIT OF PKA-C IN BOTH DISEASED AND NORMAL PHYSIOLOGIES. IN SPECIFIC AIM 1, WE WILL ENGINEER A SINGLE-WALLED CARBON NANOTUBE FIELD EFFECT TRANSISTOR (SWNT FET) SYSTEM TO RECORD SINGLE MOLECULE DYNAMICS WITH UNPRECEDENTED, 35 NS TIME RESOLUTION. THIS APPROACH WILL BE COMBINED WITH INKJET- AND 3D-PRINTING TO ALLOW RAPID DESIGN-BUILD-TEST CYCLES AND BROAD ADOPTION OF THE TECHNIQUE BEYOND THIS PROJECT. IN SPECIFIC AIM 2, WE BIOCONJUGATE WILD-TYPE PKA-C TO THE SWNT FET AND CHARACTERIZE THE CATALYTIC MACHINERY OF PKA-C USING THREE PEPTIDES – THE SUBSTRATES KEMPTIDE AND SP20, ALONG WITH THE PSEUDOSUBSTRATE IP20 FROM THE HEAT STABLE PROTEIN KINASE INHIBITOR (PKI). NUCLEOTIDE BINDING, OPENING AND CLOSING OF THE CATALYTIC CLEFT, REQUIREMENTS FOR PH AND METAL IONS (CA++ VS. MG++) WILL ESTABLISH A BASELINE SET OF MOTIONS AT SUB-MICROSECOND TIMESCALES. IN SPECIFIC AIM 3, WE WILL CHARACTERIZE THE PHOSPHORYLATION OF THREE WELL-STUDIED, CARDIAC SUBSTRATES, AN ACTIVITY CRITICAL TO HEALTHY HEART PHYSIOLOGY. WE FIRST DEFINE THE MOTIONS THAT CORRELATE WITH PHOSPHORYLATION USING PEPTIDES THAT FLANK BOTH SIDES OF THE P-3-P+1 P SITE WHEN DOCKED TO THE ACTIVE SITE CLEFT. THESE FLANKING REGIONS ARE DOCKED ONTO ALLOSTERIC SITES IN THE C-LOBE. WE WILL THEN EXAMINE MUTATIONS IN THE C-LOBE OF PKA-C THAT DRIVE CUSHING’S SYNDROME AND A SET OF RECENTLY DESCRIBED PKA-C MUTATIONS THAT DRIVE THE FORMATION OF POTENTIALLY LETHAL CARDIAC MYXOMAS. THE STUDIES OUTLINED HERE LEVERAGE RECENT ADVANCEMENTS IN NANOTECHNOLOGY, AND THE APPROACH CAN BE ADOPTED BY OTHER LABORATORIES, PROMISING BROAD IMPACT WITHIN THE BIOMEDICAL COMMUNITY.",
+    "total_obligation": 621546,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 621546,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 621546
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2025-07-20",
+      "end_date": "2029-06-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "0001",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91318273,
+    "Award ID": "R25NS129110",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1074801,
+    "Total Outlays": 672844.39,
+    "Description": "TRAINING IN NEUROTHERAPEUTICS FOR ACADEMIC SCIENTISTS - PROJECT SUMMARY/ABSTRACT  THIS PROJECT WILL DEVELOP AND IMPLEMENT A TRAINING PROGRAM IN NEUROTHERAPEUTICS DISCOVERY AND DEVELOPMENT FOR FACULTY MEMBERS AND ADVANCED POSTDOCTORAL FELLOWS, CENTERED AROUND A 4-DAY SHORT COURSE THAT WILL PROVIDE THE TRAINEES WITH THE VARIOUS KNOWLEDGE ELEMENTS REQUIRED TO DISCOVER AND ADVANCE A NEUROTHERAPEUTIC AGENT – EITHER SMALL MOLECULE OR BIOLOGICAL – TO IND. THE COURSE IS OFFERED IN CONJUNCTION WITH THE AMERICAN SOCIETY FOR EXPERIMENTAL NEUROTHERAPEUTICS (ASENT). THE TRAINING, WHICH IS DESIGNED TO BE APPLICABLE TO DIVERSE DISEASES OF THE NERVOUS SYSTEM, WILL EQUIP STUDENTS WITH A BROAD UNDERSTANDING OF THE VARIOUS COMPONENT STEPS IN THE NEUROTHERAPEUTICS DRUG DISCOVERY AND DEVELOPMENT PROCESS. STUDENTS WILL LEARN HOW TO IDENTIFY A GOOD DRUG DISCOVERY TARGET; HOW TO CONSTRUCT AN ASSAY; THE ELEMENTS OF MEDICINAL CHEMISTRY; HOW TO CONDUCT ANIMAL EFFICACY TESTING; THE PRINCIPLES OF ADME STUDIES, SAFETY TESTING, AND FORMULATION; SPECIAL CONSIDERATIONS FOR DEVELOPMENT OF BIOLOGICAL PRODUCTS, INCLUDING MONOCLONAL ANTIBODIES, OLIGONUCLEOTIDES AND VIRAL VECTOR GENE THERAPIES; THE STEPS REQUIRED TO PREPARE AN IND DOCUMENT AND THE PRINCIPLES FOR INTERACTING WITH THE FDA; THE PRINCIPLES OF INTELLECTUAL PROPERTY AS THEY RELATE TO NEUROTHERAPEUTICS DISCOVERY AND DEVELOPMENT; AND HOW TO SEEK FUNDING FOR ACADEMIC DRUG DISCOVERY RESEARCH. THEY WILL ALSO RECEIVE TRAINING IN RESPONSIBLE CONDUCT OF RESEARCH. STUDENTS WILL BE EQUIPPED WITH THE SKILLS TO DEVELOP AND COORDINATE AN ENTIRE DRUG DISCOVERY AND DEVELOPMENT EFFORT, AND TO WORK COLLABORATIVELY WITH EXPERTS IN EACH OF THE COMPONENT AREAS. THE TRAINING WILL COMBINE DIDACTIC LECTURES WITH ACTIVE ENGAGEMENT ACTIVITIES IN WHICH THE STUDENTS WILL BE CHALLENGED TO UTILIZE THE LECTURE MATERIAL TO WORK THROUGH THEIR OWN DRUG DISCOVERY PROJECT PLAN WITH THE GUIDANCE OF THE AREA EXPERTS. THE 4-DAY SHORT COURSE WILL BE OFFERED ANNUALLY, A TOTAL OF FIVE TIMES. AFTER ATTENDING THE SHORT COURSE, TRAINEES WILL PARTICIPATE IN ONGOING ACTIVITIES THAT PROVIDE CONTINUING PROFESSIONAL DEVELOPMENT THROUGH ENGAGEMENT WITH ASENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172201",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R25NS129110_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91318273,
+    "generated_unique_award_id": "ASST_NON_R25NS129110_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TRAINING IN NEUROTHERAPEUTICS FOR ACADEMIC SCIENTISTS - PROJECT SUMMARY/ABSTRACT  THIS PROJECT WILL DEVELOP AND IMPLEMENT A TRAINING PROGRAM IN NEUROTHERAPEUTICS DISCOVERY AND DEVELOPMENT FOR FACULTY MEMBERS AND ADVANCED POSTDOCTORAL FELLOWS, CENTERED AROUND A 4-DAY SHORT COURSE THAT WILL PROVIDE THE TRAINEES WITH THE VARIOUS KNOWLEDGE ELEMENTS REQUIRED TO DISCOVER AND ADVANCE A NEUROTHERAPEUTIC AGENT – EITHER SMALL MOLECULE OR BIOLOGICAL – TO IND. THE COURSE IS OFFERED IN CONJUNCTION WITH THE AMERICAN SOCIETY FOR EXPERIMENTAL NEUROTHERAPEUTICS (ASENT). THE TRAINING, WHICH IS DESIGNED TO BE APPLICABLE TO DIVERSE DISEASES OF THE NERVOUS SYSTEM, WILL EQUIP STUDENTS WITH A BROAD UNDERSTANDING OF THE VARIOUS COMPONENT STEPS IN THE NEUROTHERAPEUTICS DRUG DISCOVERY AND DEVELOPMENT PROCESS. STUDENTS WILL LEARN HOW TO IDENTIFY A GOOD DRUG DISCOVERY TARGET; HOW TO CONSTRUCT AN ASSAY; THE ELEMENTS OF MEDICINAL CHEMISTRY; HOW TO CONDUCT ANIMAL EFFICACY TESTING; THE PRINCIPLES OF ADME STUDIES, SAFETY TESTING, AND FORMULATION; SPECIAL CONSIDERATIONS FOR DEVELOPMENT OF BIOLOGICAL PRODUCTS, INCLUDING MONOCLONAL ANTIBODIES, OLIGONUCLEOTIDES AND VIRAL VECTOR GENE THERAPIES; THE STEPS REQUIRED TO PREPARE AN IND DOCUMENT AND THE PRINCIPLES FOR INTERACTING WITH THE FDA; THE PRINCIPLES OF INTELLECTUAL PROPERTY AS THEY RELATE TO NEUROTHERAPEUTICS DISCOVERY AND DEVELOPMENT; AND HOW TO SEEK FUNDING FOR ACADEMIC DRUG DISCOVERY RESEARCH. THEY WILL ALSO RECEIVE TRAINING IN RESPONSIBLE CONDUCT OF RESEARCH. STUDENTS WILL BE EQUIPPED WITH THE SKILLS TO DEVELOP AND COORDINATE AN ENTIRE DRUG DISCOVERY AND DEVELOPMENT EFFORT, AND TO WORK COLLABORATIVELY WITH EXPERTS IN EACH OF THE COMPONENT AREAS. THE TRAINING WILL COMBINE DIDACTIC LECTURES WITH ACTIVE ENGAGEMENT ACTIVITIES IN WHICH THE STUDENTS WILL BE CHALLENGED TO UTILIZE THE LECTURE MATERIAL TO WORK THROUGH THEIR OWN DRUG DISCOVERY PROJECT PLAN WITH THE GUIDANCE OF THE AREA EXPERTS. THE 4-DAY SHORT COURSE WILL BE OFFERED ANNUALLY, A TOTAL OF FIVE TIMES. AFTER ATTENDING THE SHORT COURSE, TRAINEES WILL PARTICIPATE IN ONGOING ACTIVITIES THAT PROVIDE CONTINUING PROFESSIONAL DEVELOPMENT THROUGH ENGAGEMENT WITH ASENT.",
+    "total_obligation": 1074801,
+    "subaward_count": 1,
+    "total_subaward_amount": 67488,
+    "date_signed": "2022-07-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 672844.39,
+    "total_account_obligation": 1074801,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 672844.39
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1074801
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2201",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 672844.39
+  }
+}

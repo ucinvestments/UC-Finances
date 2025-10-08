@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 90829469,
+    "Award ID": "P20CA253251",
+    "Recipient Name": "CSU FULLERTON AUXILIARY SERVICES CORPORATION",
+    "Award Amount": 894679,
+    "Total Outlays": 458735.45,
+    "Description": "1/2 CSUF/UCI-CFCCC CANCER HEALTH DISPARITIES RESEARCH PROGRAM (CHERP) - CSUF/UCI-CFCCC CANCER HEALTH EQUITY RESEARCH PARTNERSHIP (CHERP)  OVERALL COMPONENT: ABSTRACT CALIFORNIA STATE UNIVERSITY, FULLERTON (CSUF) IS AN INSTITUTION SERVING UNDERSERVED POPULATIONS AND UNDERREPRESENTED STUDENTS (ISUPS), AND THE UNIVERSITY OF CALIFORNIA, IRVINE CHAO FAMILY COMPREHENSIVE CANCER CENTER (UCI-CFCCC) IS AN NCI-DESIGNATED COMPREHENSIVE CANCER CENTER. TOGETHER, WE PLAN TO ESTABLISH A COLLABORATIVE PARTNERSHIP TO DEVELOP PILOT RESEARCH PROJECTS BETWEEN FACULTY MEMBERS AT CSUF AND UCI-CFCCC THAT WILL GENERATE PRELIMINARY DATA FOR R01 OR OTHER COMPETITIVELY FUNDED GRANT APPLICATIONS, AND EDUCATE UNDERGRADUATES (AT CSUF) AND MASTER'S STUDENTS (AT CSUF AND UCI) IN CANCER HEALTH DISPARITIES RESEARCH. THE PARTNERSHIP PLANS TO FUND FIVE PILOT PROJECTS, AND EDUCATE A TOTAL OF 38 STUDENTS DURING THE LENGTH OF THE PROPOSED GRANT PERIOD. THE OVERALL SPECIFIC AIMS OF THIS NEW CANCER-SPECIFIC PARTNERSHIP ARE TO: PLAN, IMPLEMENT AND EVALUATE A HIGHLY INTEGRATED AND INTERACTIVE CANCER HEALTH DISPARITIES PARTNERSHIP BETWEEN CSUF AND UCI- CFCCC; CONDUCT PILOT CANCER HEALTH DISPARITIES RESEARCH PROJECTS INVOLVING AT LEAST ONE INVESTIGATOR AT EACH INSTITUTION THAT ADVANCE KNOWLEDGE REGARDING CANCER HEALTH DISPARITIES, LEADING TO THE SUBMISSION OF COMPETITIVE GRANT APPLICATIONS BY NIH/NCI AND OTHER FEDERAL/NON-FEDERAL AGENCIES; AND PROVIDE CANCER RESEARCH EDUCATION TO UNDERREPRESENTED UNDERGRADUATE AND GRADUATE STUDENTS TO INCREASE THEIR UNDERSTANDING OF CANCER HEALTH DISPARITIES, LEADING TO A LARGER POOL OF HIGHLY TALENTED FUTURE SCIENTISTS FROM DIVERSE BACKGROUNDS. TO ACCOMPLISH THIS WE WILL UNDERTAKE A SET OF ACTIVITIES ORGANIZED UNDER FOUR COMPONENTS. THE ADMINISTRATIVE CORE WILL BE RESPONSIBLE FOR THE OVERALL ADMINISTRATIVE AND FISCAL ASPECTS OF ALL P20 ACTIVITIES, AND WILL INCLUDE THE EXECUTIVE COMMITTEE AND INTERNAL ADVISORY COMMITTEE. ACTIVITIES WILL BE IMPLEMENTED IN THREE STAGES: INITIAL PLANNING, IMPLEMENTATION, AND EVALUATION. THE EVALUATION EFFORT WILL BE SPEARHEADED BY AN EXTERNAL EVALUATOR WITH EXPERTISE IN MULTI-COMPONENT CENTER REVIEWS. THE TWO PILOT RESEARCH PROJECTS EACH FOCUS ON A CANCER HEALTH DISPARITY: THE FIRST IS A BASIC SCIENCE STUDY THAT WILL CONDUCT LIPIDOMIC PROFILING, AND DNA AND RNA SEQUENCING OF TUMOR/NAT PAIRED SAMPLES TO OPTIMIZE SAMPLE PREPARATION AND DETECT GENETIC/GENOMIC AND TRANSCRIPTOMIC DIFFERENCES THAT ARE RELATED TO AFRICAN AMERICAN TRIPLE NEGATIVE BREAST CANCER RISK. THE SECOND IS AN EPIDEMIOLOGICAL STUDY THAT WILL EXAMINE ASIAN SUB-ETHNIC GROUP DIFFERENCES IN OVARIAN CANCER MORTALITY AND TREATMENT PATTERNS. THE LONG TERM GOALS OF THIS COLLABORATIVE PARTNERSHIP ARE TO DIVERSITY THE CANCER RESEARCH WORKFORCE AND ULTIMATELY INCREASE OUR SCIENTIFIC IMPACT TO ADDRESS THE CANCER HEALTH DISPARITY NEEDS IN ORANGE COUNTY, CALIFORNIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "VQ5WK498QDC6",
+    "Recipient Location": {
+      "address_line1": "1121 N STATE COLLEGE BLVD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "FULLERTON",
+      "congressional_code": "45",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "3014",
+      "zip5": "92831"
+    },
+    "Primary Place of Performance": {
+      "city_name": "FULLERTON",
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92831",
+      "zip5": "92831"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-09-22",
+    "End Date": "2025-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "7c3e3f83-34f2-0830-f7d3-72e58bdf176f-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_P20CA253251_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 90829469,
+    "generated_unique_award_id": "ASST_NON_P20CA253251_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "1/2 CSUF/UCI-CFCCC CANCER HEALTH DISPARITIES RESEARCH PROGRAM (CHERP) - CSUF/UCI-CFCCC CANCER HEALTH EQUITY RESEARCH PARTNERSHIP (CHERP)  OVERALL COMPONENT: ABSTRACT CALIFORNIA STATE UNIVERSITY, FULLERTON (CSUF) IS AN INSTITUTION SERVING UNDERSERVED POPULATIONS AND UNDERREPRESENTED STUDENTS (ISUPS), AND THE UNIVERSITY OF CALIFORNIA, IRVINE CHAO FAMILY COMPREHENSIVE CANCER CENTER (UCI-CFCCC) IS AN NCI-DESIGNATED COMPREHENSIVE CANCER CENTER. TOGETHER, WE PLAN TO ESTABLISH A COLLABORATIVE PARTNERSHIP TO DEVELOP PILOT RESEARCH PROJECTS BETWEEN FACULTY MEMBERS AT CSUF AND UCI-CFCCC THAT WILL GENERATE PRELIMINARY DATA FOR R01 OR OTHER COMPETITIVELY FUNDED GRANT APPLICATIONS, AND EDUCATE UNDERGRADUATES (AT CSUF) AND MASTER'S STUDENTS (AT CSUF AND UCI) IN CANCER HEALTH DISPARITIES RESEARCH. THE PARTNERSHIP PLANS TO FUND FIVE PILOT PROJECTS, AND EDUCATE A TOTAL OF 38 STUDENTS DURING THE LENGTH OF THE PROPOSED GRANT PERIOD. THE OVERALL SPECIFIC AIMS OF THIS NEW CANCER-SPECIFIC PARTNERSHIP ARE TO: PLAN, IMPLEMENT AND EVALUATE A HIGHLY INTEGRATED AND INTERACTIVE CANCER HEALTH DISPARITIES PARTNERSHIP BETWEEN CSUF AND UCI- CFCCC; CONDUCT PILOT CANCER HEALTH DISPARITIES RESEARCH PROJECTS INVOLVING AT LEAST ONE INVESTIGATOR AT EACH INSTITUTION THAT ADVANCE KNOWLEDGE REGARDING CANCER HEALTH DISPARITIES, LEADING TO THE SUBMISSION OF COMPETITIVE GRANT APPLICATIONS BY NIH/NCI AND OTHER FEDERAL/NON-FEDERAL AGENCIES; AND PROVIDE CANCER RESEARCH EDUCATION TO UNDERREPRESENTED UNDERGRADUATE AND GRADUATE STUDENTS TO INCREASE THEIR UNDERSTANDING OF CANCER HEALTH DISPARITIES, LEADING TO A LARGER POOL OF HIGHLY TALENTED FUTURE SCIENTISTS FROM DIVERSE BACKGROUNDS. TO ACCOMPLISH THIS WE WILL UNDERTAKE A SET OF ACTIVITIES ORGANIZED UNDER FOUR COMPONENTS. THE ADMINISTRATIVE CORE WILL BE RESPONSIBLE FOR THE OVERALL ADMINISTRATIVE AND FISCAL ASPECTS OF ALL P20 ACTIVITIES, AND WILL INCLUDE THE EXECUTIVE COMMITTEE AND INTERNAL ADVISORY COMMITTEE. ACTIVITIES WILL BE IMPLEMENTED IN THREE STAGES: INITIAL PLANNING, IMPLEMENTATION, AND EVALUATION. THE EVALUATION EFFORT WILL BE SPEARHEADED BY AN EXTERNAL EVALUATOR WITH EXPERTISE IN MULTI-COMPONENT CENTER REVIEWS. THE TWO PILOT RESEARCH PROJECTS EACH FOCUS ON A CANCER HEALTH DISPARITY: THE FIRST IS A BASIC SCIENCE STUDY THAT WILL CONDUCT LIPIDOMIC PROFILING, AND DNA AND RNA SEQUENCING OF TUMOR/NAT PAIRED SAMPLES TO OPTIMIZE SAMPLE PREPARATION AND DETECT GENETIC/GENOMIC AND TRANSCRIPTOMIC DIFFERENCES THAT ARE RELATED TO AFRICAN AMERICAN TRIPLE NEGATIVE BREAST CANCER RISK. THE SECOND IS AN EPIDEMIOLOGICAL STUDY THAT WILL EXAMINE ASIAN SUB-ETHNIC GROUP DIFFERENCES IN OVARIAN CANCER MORTALITY AND TREATMENT PATTERNS. THE LONG TERM GOALS OF THIS COLLABORATIVE PARTNERSHIP ARE TO DIVERSITY THE CANCER RESEARCH WORKFORCE AND ULTIMATELY INCREASE OUR SCIENTIFIC IMPACT TO ADDRESS THE CANCER HEALTH DISPARITY NEEDS IN ORANGE COUNTY, CALIFORNIA.",
+    "total_obligation": 894679,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-09-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 458735.45,
+    "total_account_obligation": 894679,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 458735.45
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 894679
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-22",
+      "end_date": "2025-08-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "7c3e3f83-34f2-0830-f7d3-72e58bdf176f-R",
+      "recipient_name": "CSU FULLERTON AUXILIARY SERVICES CORPORATION",
+      "recipient_uei": "VQ5WK498QDC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "FULLERTON",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "1121 N STATE COLLEGE BLVD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "45",
+        "zip4": "3014",
+        "zip5": "92831",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "FULLERTON",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "90",
+      "zip4": "",
+      "zip5": "92831",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 458735.45
+  }
+}

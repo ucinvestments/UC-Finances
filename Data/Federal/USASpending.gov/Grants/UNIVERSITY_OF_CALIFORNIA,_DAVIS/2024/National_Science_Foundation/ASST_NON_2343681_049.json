@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57289300,
+    "Award ID": "2343681",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1970969,
+    "Total Outlays": 166294.93,
+    "Description": "RESEARCH-PGR: THE GAMETE TO ZYGOTE TRANSITION OF THE PLANT EPIGENOME -REPRODUCTION IN BOTH PLANTS AND ANIMALS REQUIRES THE FUSION OF EGG AND SPERM CELLS ? THE MATERNAL AND PATERNAL GAMETES ? TO FORM A ZYGOTE, A SINGLE CELL THAT INITIATES THE FORMATION OF AN EMBRYO. SEED PRODUCTION BY PLANTS REQUIRES EMBRYO FORMATION, AND THEREFORE THE ZYGOTE IS A CRITICAL STAGE IN THE PLANT LIFE CYCLE. ZYGOTE FORMATION IS ACCOMPANIED BY EXTENSIVE REPROGRAMMING OF GENE EXPRESSION, ACCOMPLISHED IN PART THROUGH MODIFICATIONS OF DNA AND ASSOCIATED PROTEINS THAT ARE KNOWN AS EPIGENETIC PROCESSES. A COMPREHENSIVE CHARACTERIZATION OF THIS REPROGRAMMING HAS NOT BEEN PERFORMED IN FLOWERING PLANTS DUE TO TECHNICAL DIFFICULTIES IN ISOLATING EGG CELLS AND ZYGOTES. THIS PROJECT WILL USE IMPROVED METHODS DEVELOPED IN THE MODEL PLANT ARABIDOPSIS TO CHARACTERIZE GENOME-WIDE CHANGES MEDIATED BY EPIGENETIC MECHANISMS IN PLANT ZYGOTES, WITH AN EMPHASIS ON RICE, AN IMPORTANT CROP PLANT. THE PROJECT WILL ALSO PROVIDE TRAINING IN PLANT BIOLOGY AND GENOMICS TO STUDENTS AND FACULTY FROM A HISTORICALLY BLACK UNIVERSITY. KNOWLEDGE OF THE MECHANISMS BY WHICH GAMETES GIVE RISE TO ZYGOTES HAS SIGNIFICANT AGRICULTURAL APPLICATIONS, INCLUDING HYBRID SEED PRODUCTION THROUGH CLONAL PROPAGATION THAT SUBSTANTIALLY REDUCES THE COSTS OF HYBRID SEEDS, PRODUCTION OF HAPLOIDS USEFUL FOR ACCELERATING PLANT BREEDING, AND THE REGENERATION OF PLANTS FROM TISSUE CULTURE. IN PLANTS, RAPID AND EXTENSIVE TRANSCRIPTIONAL ACTIVATION OF THE ZYGOTIC GENOME OCCURS SHORTLY AFTER FERTILIZATION. STUDIES ON RICE ZYGOTES SHOW THAT TRANSCRIPTION IS PRIMARILY FROM THE FEMALE GENOME, BUT THE MALE GENOME PROVIDES KEY TRANSCRIPTION FACTORS FOR THE INITIATION OF EMBRYOGENESIS AFTER FERTILIZATION. THIS PARENT-OF-ORIGIN-DEPENDENT GENE EXPRESSION MUST ARISE FROM GENOME-WIDE EPIGENETIC MODIFICATIONS SET DURING GAMETOGENESIS. HOWEVER, THERE IS A LACK OF UNDERSTANDING OF THE UNDERLYING MECHANISMS, AND LITTLE INFORMATION ON THE HISTONE MODIFICATIONS IN EGG CELLS AND ZYGOTES, DUE TO TECHNICAL LIMITATIONS IMPOSED BY INACCESSIBILITY AND INSUFFICIENT MATERIAL. THIS PROJECT WILL EMPLOY RECENT TECHNICAL ADVANCES THAT HAVE MADE POSSIBLE THE ANALYSIS OF HISTONE MARKS FROM LOW NUMBERS OF CELLS, IN COMBINATION WITH METHODS TO ISOLATE EGG CELLS AND ZYGOTES IN SUFFICIENT AMOUNTS FOR THESE NEW TECHNIQUES. THE METHODS WILL BE OPTIMIZED IN ARABIDOPSIS AND IMPLEMENTED IN RICE, TO ELUCIDATE DETAILS OF THE EPIGENETIC REPROGRAMMING THAT ACCOMPANIES GAMETE FORMATION AND IDENTIFY EPIGENETIC MARKS THAT ESTABLISH THE TOTIPOTENT ZYGOTE. INTEGRATION OF CHROMATIN DATA WITH PREVIOUSLY OBTAINED MRNA, DNA METHYLATION, AND SMALL RNA DATASETS FROM RICE WILL GENERATE A COMPREHENSIVE GENOME-SCALE ATLAS OF THE GAMETE-TO-ZYGOTE TRANSITION. THE PROJECT WILL HELP FILL A MAJOR GAP IN OUR UNDERSTANDING OF A CRITICAL TRANSITION IN THE PLANT LIFE CYCLE AND PROVIDE FUNDAMENTAL KNOWLEDGE THAT CAN BE UTILIZED IN APPLICATIONS SUCH AS ASEXUAL REPRODUCTION, HAPLOID PRODUCTION, AND CLONAL PROPAGATION OF CROP PLANTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-09-15",
+    "End Date": "2027-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2343681_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57289300,
+    "generated_unique_award_id": "ASST_NON_2343681_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "RESEARCH-PGR: THE GAMETE TO ZYGOTE TRANSITION OF THE PLANT EPIGENOME -REPRODUCTION IN BOTH PLANTS AND ANIMALS REQUIRES THE FUSION OF EGG AND SPERM CELLS ? THE MATERNAL AND PATERNAL GAMETES ? TO FORM A ZYGOTE, A SINGLE CELL THAT INITIATES THE FORMATION OF AN EMBRYO. SEED PRODUCTION BY PLANTS REQUIRES EMBRYO FORMATION, AND THEREFORE THE ZYGOTE IS A CRITICAL STAGE IN THE PLANT LIFE CYCLE. ZYGOTE FORMATION IS ACCOMPANIED BY EXTENSIVE REPROGRAMMING OF GENE EXPRESSION, ACCOMPLISHED IN PART THROUGH MODIFICATIONS OF DNA AND ASSOCIATED PROTEINS THAT ARE KNOWN AS EPIGENETIC PROCESSES. A COMPREHENSIVE CHARACTERIZATION OF THIS REPROGRAMMING HAS NOT BEEN PERFORMED IN FLOWERING PLANTS DUE TO TECHNICAL DIFFICULTIES IN ISOLATING EGG CELLS AND ZYGOTES. THIS PROJECT WILL USE IMPROVED METHODS DEVELOPED IN THE MODEL PLANT ARABIDOPSIS TO CHARACTERIZE GENOME-WIDE CHANGES MEDIATED BY EPIGENETIC MECHANISMS IN PLANT ZYGOTES, WITH AN EMPHASIS ON RICE, AN IMPORTANT CROP PLANT. THE PROJECT WILL ALSO PROVIDE TRAINING IN PLANT BIOLOGY AND GENOMICS TO STUDENTS AND FACULTY FROM A HISTORICALLY BLACK UNIVERSITY. KNOWLEDGE OF THE MECHANISMS BY WHICH GAMETES GIVE RISE TO ZYGOTES HAS SIGNIFICANT AGRICULTURAL APPLICATIONS, INCLUDING HYBRID SEED PRODUCTION THROUGH CLONAL PROPAGATION THAT SUBSTANTIALLY REDUCES THE COSTS OF HYBRID SEEDS, PRODUCTION OF HAPLOIDS USEFUL FOR ACCELERATING PLANT BREEDING, AND THE REGENERATION OF PLANTS FROM TISSUE CULTURE. IN PLANTS, RAPID AND EXTENSIVE TRANSCRIPTIONAL ACTIVATION OF THE ZYGOTIC GENOME OCCURS SHORTLY AFTER FERTILIZATION. STUDIES ON RICE ZYGOTES SHOW THAT TRANSCRIPTION IS PRIMARILY FROM THE FEMALE GENOME, BUT THE MALE GENOME PROVIDES KEY TRANSCRIPTION FACTORS FOR THE INITIATION OF EMBRYOGENESIS AFTER FERTILIZATION. THIS PARENT-OF-ORIGIN-DEPENDENT GENE EXPRESSION MUST ARISE FROM GENOME-WIDE EPIGENETIC MODIFICATIONS SET DURING GAMETOGENESIS. HOWEVER, THERE IS A LACK OF UNDERSTANDING OF THE UNDERLYING MECHANISMS, AND LITTLE INFORMATION ON THE HISTONE MODIFICATIONS IN EGG CELLS AND ZYGOTES, DUE TO TECHNICAL LIMITATIONS IMPOSED BY INACCESSIBILITY AND INSUFFICIENT MATERIAL. THIS PROJECT WILL EMPLOY RECENT TECHNICAL ADVANCES THAT HAVE MADE POSSIBLE THE ANALYSIS OF HISTONE MARKS FROM LOW NUMBERS OF CELLS, IN COMBINATION WITH METHODS TO ISOLATE EGG CELLS AND ZYGOTES IN SUFFICIENT AMOUNTS FOR THESE NEW TECHNIQUES. THE METHODS WILL BE OPTIMIZED IN ARABIDOPSIS AND IMPLEMENTED IN RICE, TO ELUCIDATE DETAILS OF THE EPIGENETIC REPROGRAMMING THAT ACCOMPANIES GAMETE FORMATION AND IDENTIFY EPIGENETIC MARKS THAT ESTABLISH THE TOTIPOTENT ZYGOTE. INTEGRATION OF CHROMATIN DATA WITH PREVIOUSLY OBTAINED MRNA, DNA METHYLATION, AND SMALL RNA DATASETS FROM RICE WILL GENERATE A COMPREHENSIVE GENOME-SCALE ATLAS OF THE GAMETE-TO-ZYGOTE TRANSITION. THE PROJECT WILL HELP FILL A MAJOR GAP IN OUR UNDERSTANDING OF A CRITICAL TRANSITION IN THE PLANT LIFE CYCLE AND PROVIDE FUNDAMENTAL KNOWLEDGE THAT CAN BE UTILIZED IN APPLICATIONS SUCH AS ASEXUAL REPRODUCTION, HAPLOID PRODUCTION, AND CLONAL PROPAGATION OF CROP PLANTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "total_obligation": 1970969,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-06-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 196155.57,
+    "total_account_obligation": 1970969,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 196155.57
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1970969
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "EMERGING FRONTIERS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-15",
+      "end_date": "2027-08-31",
+      "last_modified_date": "2025-08-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 196155.57
+  }
+}

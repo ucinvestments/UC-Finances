@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 174342026,
+    "Award ID": "RF1AG085457",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 5164012,
+    "Total Outlays": 0,
+    "Description": "ENVIRONMENTAL EXPOSURES AND BRAIN HEALTH - ALZHEIMER’S DISEASE AND RELATED DEMENTIAS (ADRD) ARE THE MOST SIGNIFICANT HEALTH CONCERNS OF OUR TIME. MORE THAN 6 MILLION OLDER AMERICANS HAVE ADRD, AND BY 2050 THERE WILL BE 12.7 MILLION CASES OF ADRD COSTING OVER $1 TRILLION. ENVIRONMENTAL RISK FACTORS, INCLUDING EXTREME TEMPERATURES AND AIR POLLUTION, AND ENVIRONMENTAL RESILIENCE FACTORS, INCLUDING GREENSPACES AND WALKABLE BUILT ENVIRONMENTS, MAY BE IMPORTANT DRIVERS OF BRAIN HEALTH ON BOTH THE SHORT- AND LONG-TERM. ALTHOUGH THESE EXPOSURES ARE UBIQUITOUS AND MODIFIABLE, LITTLE IS KNOWN ABOUT HOW THESE EXPOSURES INFLUENCE COGNITIVE FUNCTION ON A DAY-TO-DAY BASIS, OR WHETHER CHRONIC EXPOSURE TO THESE FACTORS OVER TIME TRANSLATES INTO LONG-TERM COGNITIVE HEALTH, DEMENTIA RISK, AND NEUROPATHOLOGIC BURDEN. EXPOSURE SCIENCE ADVANCES NOW ENABLE MEASUREMENT OF ENVIRONMENTAL FACTORS THAT MAY DRIVE BRAIN HEALTH WITH UNPRECEDENTED PRECISION AND SPECIFICITY. USING DATA FROM PARTICIPANTS IN THE NATIONWIDE NURSES’ HEALTH STUDY II (NHSII) (AGES 59-76 YEARS OLD), WE AIM TO ESTIMATE HOW SMARTPHONE GLOBAL POSITIONING SYSTEM-BASED EXPOSURE TO TEMPERATURE, GREENSPACE, AND THE BUILT ENVIRONMENT IS LINKED TO REPEATED MONTHLY SMARTPHONE-BASED COGNITIVE TESTS IN 1,000 PARTICIPANTS FOLLOWED CONTINUOUSLY OVER A YEAR. IN A SUBSET OF NHSII PARTICIPANTS WHO UNDERWENT REPEATED WEB-BASED COGNITIVE TESTS EVERY 6-12 MONTHS STARTING IN 2014 (N=20,532, MEAN AGE 69 AT BASELINE) AND IN THE RUSH UNIVERSITY COHORTS (THE RELIGIOUS ORDERS STUDY, RUSH MEMORY AND AGING PROJECT, THE MINORITY AGING RESEARCH STUDY, THE CLINICAL CORE STUDY, AND THE LATINO CORE STUDY (COMBINED N=5,308, MEAN AGE 61 AT BASELINE)), WE WILL ESTIMATE HOW LONG-TERM RESIDENCE-BASED EXPOSURES TO THESE SAME ENVIRONMENTAL FACTORS ARE ASSOCIATED WITH COGNITIVE DECLINE. USING DATA FROM THE RUSH UNIVERSITY COHORTS, WE AIM TO ESTIMATE HOW LONG-TERM RESIDENCE-BASED EXPOSURE TO ENVIRONMENTAL FACTORS INFLUENCE INCIDENCE OF DEMENTIA AND NEUROPATHOLOGIC MEASURES UPON AUTOPSY. THESE DATA COMBINED WILL PROVIDE A COMPREHENSIVE PICTURE OF HOW ENVIRONMENTAL EXPOSURES MAY IMPACT BOTH SHORT-TERM COGNITIVE FUNCTION, LONG-TERM COGNITIVE DECLINE, AND THE DEVELOPMENT OF ALZHEIMER’S DISEASE AND RELATED DEMENTIAS INCLUDING THEIR UNDERLYING NEUROPATHOLOGIES. THE PROPOSED ANALYSES WILL USE CUTTING-EDGE EXPOSURE SCIENCE METHODS TO QUANTIFY RELATIONSHIPS BETWEEN ENVIRONMENTAL EXPOSURES AND BRAIN HEALTH ACROSS MULTIPLE TIME HORIZONS, SHEDDING LIGHT ON WHICH ENVIRONMENTAL FACTORS INFLUENCE COGNITIVE FUNCTION, LONG-TERM DECLINES IN COGNITION, DEMENTIA INCIDENCE, AND ADRD NEUROPATHOLOGIC BURDEN. THESE RESULTS CAN BE USED TO IDENTIFY INTERVENTION TARGETS IN MITIGATION AND ADAPTATION POLICIES TO OPTIMIZE BRAIN HEALTH.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-09-01",
+    "End Date": "2029-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_RF1AG085457_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 174342026,
+    "generated_unique_award_id": "ASST_NON_RF1AG085457_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ENVIRONMENTAL EXPOSURES AND BRAIN HEALTH - ALZHEIMER’S DISEASE AND RELATED DEMENTIAS (ADRD) ARE THE MOST SIGNIFICANT HEALTH CONCERNS OF OUR TIME. MORE THAN 6 MILLION OLDER AMERICANS HAVE ADRD, AND BY 2050 THERE WILL BE 12.7 MILLION CASES OF ADRD COSTING OVER $1 TRILLION. ENVIRONMENTAL RISK FACTORS, INCLUDING EXTREME TEMPERATURES AND AIR POLLUTION, AND ENVIRONMENTAL RESILIENCE FACTORS, INCLUDING GREENSPACES AND WALKABLE BUILT ENVIRONMENTS, MAY BE IMPORTANT DRIVERS OF BRAIN HEALTH ON BOTH THE SHORT- AND LONG-TERM. ALTHOUGH THESE EXPOSURES ARE UBIQUITOUS AND MODIFIABLE, LITTLE IS KNOWN ABOUT HOW THESE EXPOSURES INFLUENCE COGNITIVE FUNCTION ON A DAY-TO-DAY BASIS, OR WHETHER CHRONIC EXPOSURE TO THESE FACTORS OVER TIME TRANSLATES INTO LONG-TERM COGNITIVE HEALTH, DEMENTIA RISK, AND NEUROPATHOLOGIC BURDEN. EXPOSURE SCIENCE ADVANCES NOW ENABLE MEASUREMENT OF ENVIRONMENTAL FACTORS THAT MAY DRIVE BRAIN HEALTH WITH UNPRECEDENTED PRECISION AND SPECIFICITY. USING DATA FROM PARTICIPANTS IN THE NATIONWIDE NURSES’ HEALTH STUDY II (NHSII) (AGES 59-76 YEARS OLD), WE AIM TO ESTIMATE HOW SMARTPHONE GLOBAL POSITIONING SYSTEM-BASED EXPOSURE TO TEMPERATURE, GREENSPACE, AND THE BUILT ENVIRONMENT IS LINKED TO REPEATED MONTHLY SMARTPHONE-BASED COGNITIVE TESTS IN 1,000 PARTICIPANTS FOLLOWED CONTINUOUSLY OVER A YEAR. IN A SUBSET OF NHSII PARTICIPANTS WHO UNDERWENT REPEATED WEB-BASED COGNITIVE TESTS EVERY 6-12 MONTHS STARTING IN 2014 (N=20,532, MEAN AGE 69 AT BASELINE) AND IN THE RUSH UNIVERSITY COHORTS (THE RELIGIOUS ORDERS STUDY, RUSH MEMORY AND AGING PROJECT, THE MINORITY AGING RESEARCH STUDY, THE CLINICAL CORE STUDY, AND THE LATINO CORE STUDY (COMBINED N=5,308, MEAN AGE 61 AT BASELINE)), WE WILL ESTIMATE HOW LONG-TERM RESIDENCE-BASED EXPOSURES TO THESE SAME ENVIRONMENTAL FACTORS ARE ASSOCIATED WITH COGNITIVE DECLINE. USING DATA FROM THE RUSH UNIVERSITY COHORTS, WE AIM TO ESTIMATE HOW LONG-TERM RESIDENCE-BASED EXPOSURE TO ENVIRONMENTAL FACTORS INFLUENCE INCIDENCE OF DEMENTIA AND NEUROPATHOLOGIC MEASURES UPON AUTOPSY. THESE DATA COMBINED WILL PROVIDE A COMPREHENSIVE PICTURE OF HOW ENVIRONMENTAL EXPOSURES MAY IMPACT BOTH SHORT-TERM COGNITIVE FUNCTION, LONG-TERM COGNITIVE DECLINE, AND THE DEVELOPMENT OF ALZHEIMER’S DISEASE AND RELATED DEMENTIAS INCLUDING THEIR UNDERLYING NEUROPATHOLOGIES. THE PROPOSED ANALYSES WILL USE CUTTING-EDGE EXPOSURE SCIENCE METHODS TO QUANTIFY RELATIONSHIPS BETWEEN ENVIRONMENTAL EXPOSURES AND BRAIN HEALTH ACROSS MULTIPLE TIME HORIZONS, SHEDDING LIGHT ON WHICH ENVIRONMENTAL FACTORS INFLUENCE COGNITIVE FUNCTION, LONG-TERM DECLINES IN COGNITION, DEMENTIA INCIDENCE, AND ADRD NEUROPATHOLOGIC BURDEN. THESE RESULTS CAN BE USED TO IDENTIFY INTERVENTION TARGETS IN MITIGATION AND ADAPTATION POLICIES TO OPTIMIZE BRAIN HEALTH.",
+    "total_obligation": 5164012,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-08-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 5164012,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 5164012
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2025-09-01",
+      "end_date": "2029-08-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

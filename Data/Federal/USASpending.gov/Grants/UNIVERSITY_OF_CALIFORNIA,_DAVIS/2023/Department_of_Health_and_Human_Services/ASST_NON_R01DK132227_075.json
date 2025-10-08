@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91175762,
+    "Award ID": "R01DK132227",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1146521,
+    "Total Outlays": 1105625.56,
+    "Description": "DECIPHER THE FUNCTION OF C2CD4A IN METABOLISM - PROJECT SUMMARY TYPE 2 DIABETES (T2D) IS CAUSED BY INSULIN RESISTANCE IN PERIPHERAL TISSUES AND PANCREATIC BETA-CELL DYSFUNCTION. INSULIN RESISTANCE PRECEDES BETA-CELL FAILURE, AND THE BETA-CELL’S INABILITY TO KEEP UP WITH THE INCREASED DEMAND OF INSULIN PRODUCTION AND SECRETION LEADS TO GLUCOSE INTOLERANCE AND HYPERGLYCEMIA. THE HUMAN C2CD4B-C2CD4A-VPS13C LOCUS HARBORS A PANCREATIC BETA-CELL SUPER-ENHANCER, AND IS HEAVILY DECORATED BY T2D RISK-ASSOCIATED GWAS SNPS FROM VIRTUALLY EVERY ETHNIC GROUP STUDIED TO DATE. THERE ARE ONLY ~20 PUBLICATIONS ON “C2CD4A” IN PUBMED, THE MAJORITY OF WHICH ARE ASSOCIATION STUDIES LINKING THIS LOCUS TO HUMAN DIABETES SUSCEPTIBILITY. THROUGH A MULTI-OMICS APPROACH FOLLOWED BY FUNCTIONAL ANALYSIS IN MICE, WE FOUND THAT BETA CELL-SPECIFIC C2CD4A ABLATION IMPAIRS INSULIN SECRETION. IN THIS PROPOSAL, THROUGH C2CD4A WE PROVIDE A BASIS TO LINK EXERCISE-INDUCED HYPOGLYCEMIA AND TYPE 2 DIABETES TREATMENT. WE WILL INVESTIGATE C2CD4A-REGULATED BETA CELL FUNCTION, AND BUILD A PATHWAY CENTERED ON C2CD4A. TWO AIMS ARE ENVISIONED: IN AIM 1, WE WILL MAP THE REPRESSOR DOMAIN USING TRUNCATED VERSIONS OF HUMAN AND MOUSE C2CD4A, AND INVESTIGATE THE MECHANISM OF EXERCISE-INDUCED HYPOGLYCEMIA IN BETA CELL-SPECIFIC C2CD4A KNOCKOUT MICE. IN AIM 2, WE WILL SOLIDIFY C2CD4A’S ROLE IN THE NUCLEUS AS A TRANSCRIPTION COFACTOR, ACTING ON PROMOTERS AND ENHANCERS OF KEY BETA CELL GENES. WE WILL EXAMINE THE REGULATION OF C2CD4A BY A NOVEL INTERGENIC LONG NONCODING RNA. THESE AIMS WILL ADVANCE OUR UNDERSTANDING OF C2CD4A AS A HUMAN DIABETES SUSCEPTIBILITY GENE, AND PROVIDE A BLUEPRINT TO LEVERAGE HUMAN GENETICS DATA INTO BIOLOGICAL INSIGHT THAT WILL EVENTUALLY BENEFIT PATIENTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-01-01",
+    "End Date": "2027-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DK132227_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91175762,
+    "generated_unique_award_id": "ASST_NON_R01DK132227_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DECIPHER THE FUNCTION OF C2CD4A IN METABOLISM - PROJECT SUMMARY TYPE 2 DIABETES (T2D) IS CAUSED BY INSULIN RESISTANCE IN PERIPHERAL TISSUES AND PANCREATIC BETA-CELL DYSFUNCTION. INSULIN RESISTANCE PRECEDES BETA-CELL FAILURE, AND THE BETA-CELL’S INABILITY TO KEEP UP WITH THE INCREASED DEMAND OF INSULIN PRODUCTION AND SECRETION LEADS TO GLUCOSE INTOLERANCE AND HYPERGLYCEMIA. THE HUMAN C2CD4B-C2CD4A-VPS13C LOCUS HARBORS A PANCREATIC BETA-CELL SUPER-ENHANCER, AND IS HEAVILY DECORATED BY T2D RISK-ASSOCIATED GWAS SNPS FROM VIRTUALLY EVERY ETHNIC GROUP STUDIED TO DATE. THERE ARE ONLY ~20 PUBLICATIONS ON “C2CD4A” IN PUBMED, THE MAJORITY OF WHICH ARE ASSOCIATION STUDIES LINKING THIS LOCUS TO HUMAN DIABETES SUSCEPTIBILITY. THROUGH A MULTI-OMICS APPROACH FOLLOWED BY FUNCTIONAL ANALYSIS IN MICE, WE FOUND THAT BETA CELL-SPECIFIC C2CD4A ABLATION IMPAIRS INSULIN SECRETION. IN THIS PROPOSAL, THROUGH C2CD4A WE PROVIDE A BASIS TO LINK EXERCISE-INDUCED HYPOGLYCEMIA AND TYPE 2 DIABETES TREATMENT. WE WILL INVESTIGATE C2CD4A-REGULATED BETA CELL FUNCTION, AND BUILD A PATHWAY CENTERED ON C2CD4A. TWO AIMS ARE ENVISIONED: IN AIM 1, WE WILL MAP THE REPRESSOR DOMAIN USING TRUNCATED VERSIONS OF HUMAN AND MOUSE C2CD4A, AND INVESTIGATE THE MECHANISM OF EXERCISE-INDUCED HYPOGLYCEMIA IN BETA CELL-SPECIFIC C2CD4A KNOCKOUT MICE. IN AIM 2, WE WILL SOLIDIFY C2CD4A’S ROLE IN THE NUCLEUS AS A TRANSCRIPTION COFACTOR, ACTING ON PROMOTERS AND ENHANCERS OF KEY BETA CELL GENES. WE WILL EXAMINE THE REGULATION OF C2CD4A BY A NOVEL INTERGENIC LONG NONCODING RNA. THESE AIMS WILL ADVANCE OUR UNDERSTANDING OF C2CD4A AS A HUMAN DIABETES SUSCEPTIBILITY GENE, AND PROVIDE A BLUEPRINT TO LEVERAGE HUMAN GENETICS DATA INTO BIOLOGICAL INSIGHT THAT WILL EVENTUALLY BENEFIT PATIENTS.",
+    "total_obligation": 1146521,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-12-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1105625.56,
+    "total_account_obligation": 1146521,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1105625.56
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1146521
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2023-01-01",
+      "end_date": "2027-11-30",
+      "last_modified_date": "2024-12-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1105625.56
+  }
+}

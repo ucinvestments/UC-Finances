@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56329598,
+    "Award ID": "20216701334607",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 740000,
+    "Total Outlays": 740000,
+    "Description": "PLANTS GROW IN CLOSE ASSOCIATION WITH LARGE COMMUNITIES OF SOIL MICROBES THAT INFLUENCE NUTRIENT COMPOSITION AND UPTAKE OF NUTRIENTS, AND CAN CONFER TOLERANCE TO BIOTIC AND ABIOTIC STRESSES. THIS PROJECT WILL FOCUS ON SPECIFIC FUNCTIONS THAT SHAPE ROOT MICROBIOMES, AND THEIR IMPACTS ON PLANT PERFORMANCE AT THE GENOMIC AND MOLECULAR LEVELS, TOWARDS THE ULTIMATE GOAL OF DEPLOYING BENEFICIAL MICROBIOTA TO IMPROVE PLANT GROWTH AND YIELDS. STUDIES OF MICROBIOME STRUCTURE AND FUNCTION WILL BE PERFORMED USING THE MAJOR CROP PLANT RICE AS A MODEL SYSTEM. SINCE CONTINUOUS CULTIVATION RESULTS IN ALTERATION OF THE SOIL MICROBIOME THAT CAN HAVE BOTH NEGATIVE AND POSITIVE EFFECTS ON PLANT GROWTH, SOIL MICROBIOMES OF CULTIVATED RICE FIELDS WILL BE CHARACTERIZED TO IDENTIFY BACTERIAL TAXA AND MICROBIAL GENE FUNCTIONS ASSOCIATED WITH THESE DIFFERENT OUTCOMES FOR THEIR HOST PLANTS. THIS KNOWLEDGE CAN BE USED TO GUIDE FIELD MANAGEMENT, THROUGH MANAGEMENT OF CULTIVATION PRACTICES THAT PROMOTE BENEFICIALSOIL BACTERIA. DROUGHT CONSTITUTES ONE OF THE MOST SERIOUS THREATS TO CROP YIELDS, ESPECIALLY WITH FUTURE CLIMATE CHANGE. SOIL MICROBES CAN POTENTIALLY BE EXPLOITED FOR CONFERRING DROUGHT TOLERANCE TO PLANTS. THE RESPONSE OF PLANT ROOTS TO DROUGHT BY RECRUITMENT OF SPECIFIC BACTERIAL SPECIES WILL BE INVESTIGATED IN DETAIL, BY CHARACTERIZATION OF CULTURES OF DROUGHT-ENRICHED BACTERIA FROM RICE ROOTS. THE MOLECULAR MECHANISMS BY WHICH THESE BACTERIA ARE ENRICHED IN ROOTS UNDER DROUGHT, THEIR PROMOTION OF ROOT GROWTH, AND THEIR ROLES IN DROUGHT TOLERANCE AND RECOVERY WILL BE ELUCIDATED BY USING GENOMICS. THE FIELD APPLICATION OF BENEFICIAL MICROBIOTA TO CROP PLANTS IS HAMPERED BY A LACK OF KNOWLEDGE OF MICROBIOME ASSEMBLY AND ESTABLISHMENT IN PLANT ROOTS. SYNTHETIC COMMUNITIES OF ROOT ENDOPHYTIC BACTERIA FROM FIELD GROWN RICE PLANTS WILL BE USED TO INVESTIGATE THE REQUIREMENTS FOR ROOT COLONIZATION BY NON-PATHOGENIC BACTERIA, INCLUDING EVASION OF THE PLANT IMMUNE SYSTEM, AND TO DECIPHER THE RULES FOR ROOT MICROBIOME ASSEMBLY. THE PROJECT WILL THUS PROVIDE A DETAILED UNDERSTANDING OF THE INTERACTIONS OF MICROBIOMES WITH THEIR HOST PLANTS, THAT WILL CONSTITUTE AN IMPORTANT STEP TOWARDS THE UTILIZATION OF BENEFICIAL MICROBES TO IMPROVE CROP PLANT PERFORMANCE IN AGRICULTURE, BEYOND WHAT IS POSSIBLE THROUGH CONVENTIONAL PLANT BREEDING ALONE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2021-04-01",
+    "End Date": "2025-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20216701334607_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56329598,
+    "generated_unique_award_id": "ASST_NON_20216701334607_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PLANTS GROW IN CLOSE ASSOCIATION WITH LARGE COMMUNITIES OF SOIL MICROBES THAT INFLUENCE NUTRIENT COMPOSITION AND UPTAKE OF NUTRIENTS, AND CAN CONFER TOLERANCE TO BIOTIC AND ABIOTIC STRESSES. THIS PROJECT WILL FOCUS ON SPECIFIC FUNCTIONS THAT SHAPE ROOT MICROBIOMES, AND THEIR IMPACTS ON PLANT PERFORMANCE AT THE GENOMIC AND MOLECULAR LEVELS, TOWARDS THE ULTIMATE GOAL OF DEPLOYING BENEFICIAL MICROBIOTA TO IMPROVE PLANT GROWTH AND YIELDS. STUDIES OF MICROBIOME STRUCTURE AND FUNCTION WILL BE PERFORMED USING THE MAJOR CROP PLANT RICE AS A MODEL SYSTEM. SINCE CONTINUOUS CULTIVATION RESULTS IN ALTERATION OF THE SOIL MICROBIOME THAT CAN HAVE BOTH NEGATIVE AND POSITIVE EFFECTS ON PLANT GROWTH, SOIL MICROBIOMES OF CULTIVATED RICE FIELDS WILL BE CHARACTERIZED TO IDENTIFY BACTERIAL TAXA AND MICROBIAL GENE FUNCTIONS ASSOCIATED WITH THESE DIFFERENT OUTCOMES FOR THEIR HOST PLANTS. THIS KNOWLEDGE CAN BE USED TO GUIDE FIELD MANAGEMENT, THROUGH MANAGEMENT OF CULTIVATION PRACTICES THAT PROMOTE BENEFICIALSOIL BACTERIA. DROUGHT CONSTITUTES ONE OF THE MOST SERIOUS THREATS TO CROP YIELDS, ESPECIALLY WITH FUTURE CLIMATE CHANGE. SOIL MICROBES CAN POTENTIALLY BE EXPLOITED FOR CONFERRING DROUGHT TOLERANCE TO PLANTS. THE RESPONSE OF PLANT ROOTS TO DROUGHT BY RECRUITMENT OF SPECIFIC BACTERIAL SPECIES WILL BE INVESTIGATED IN DETAIL, BY CHARACTERIZATION OF CULTURES OF DROUGHT-ENRICHED BACTERIA FROM RICE ROOTS. THE MOLECULAR MECHANISMS BY WHICH THESE BACTERIA ARE ENRICHED IN ROOTS UNDER DROUGHT, THEIR PROMOTION OF ROOT GROWTH, AND THEIR ROLES IN DROUGHT TOLERANCE AND RECOVERY WILL BE ELUCIDATED BY USING GENOMICS. THE FIELD APPLICATION OF BENEFICIAL MICROBIOTA TO CROP PLANTS IS HAMPERED BY A LACK OF KNOWLEDGE OF MICROBIOME ASSEMBLY AND ESTABLISHMENT IN PLANT ROOTS. SYNTHETIC COMMUNITIES OF ROOT ENDOPHYTIC BACTERIA FROM FIELD GROWN RICE PLANTS WILL BE USED TO INVESTIGATE THE REQUIREMENTS FOR ROOT COLONIZATION BY NON-PATHOGENIC BACTERIA, INCLUDING EVASION OF THE PLANT IMMUNE SYSTEM, AND TO DECIPHER THE RULES FOR ROOT MICROBIOME ASSEMBLY. THE PROJECT WILL THUS PROVIDE A DETAILED UNDERSTANDING OF THE INTERACTIONS OF MICROBIOMES WITH THEIR HOST PLANTS, THAT WILL CONSTITUTE AN IMPORTANT STEP TOWARDS THE UTILIZATION OF BENEFICIAL MICROBES TO IMPROVE CROP PLANT PERFORMANCE IN AGRICULTURE, BEYOND WHAT IS POSSIBLE THROUGH CONVENTIONAL PLANT BREEDING ALONE.",
+    "total_obligation": 740000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-03-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 740000,
+    "total_account_obligation": 740000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 740000
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 740000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2021-04-01",
+      "end_date": "2025-03-31",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 740000
+  }
+}

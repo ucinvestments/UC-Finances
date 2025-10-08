@@ -1,0 +1,337 @@
+{
+  "basic_data": {
+    "internal_id": 111953886,
+    "Award ID": "80GSFC24FA025",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 14896,
+    "Total Outlays": 14896,
+    "Description": "BEAM TIME TESTING",
+    "Contract Award Type": "BPA CALL",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "956186153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2024-02-08",
+    "End Date": "2025-02-07",
+    "NAICS": {
+      "code": "611310",
+      "description": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS"
+    },
+    "PSC": {
+      "code": "X1JZ",
+      "description": "LEASE/RENTAL OF MISCELLANEOUS BUILDINGS"
+    },
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_80GSFC24FA025_8000_80GSFC24AA002_8000",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 111953886,
+    "generated_unique_award_id": "CONT_AWD_80GSFC24FA025_8000_80GSFC24AA002_8000",
+    "piid": "80GSFC24FA025",
+    "category": "contract",
+    "type": "A",
+    "type_description": "BPA CALL",
+    "description": "BEAM TIME TESTING",
+    "total_obligation": 14896,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-02-16",
+    "base_exercised_options": 14896,
+    "base_and_all_options": 14896,
+    "total_account_outlay": 14896,
+    "total_account_obligation": 14896,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 14896
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 14896
+      }
+    ],
+    "parent_award": {
+      "agency_id": 862,
+      "agency_name": "National Aeronautics and Space Administration",
+      "agency_slug": "national-aeronautics-and-space-administration",
+      "award_id": 169042071,
+      "generated_unique_award_id": "CONT_IDV_80GSFC24AA002_8000",
+      "idv_type_description": "BPA",
+      "multiple_or_single_aw_desc": "SINGLE AWARD",
+      "piid": "80GSFC24AA002",
+      "sub_agency_id": "8000",
+      "sub_agency_name": "National Aeronautics and Space Administration",
+      "type_of_idc_description": null
+    },
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": "8000",
+      "referenced_idv_agency_desc": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "solicitation_identifier": null,
+      "solicitation_procedures": "SP1",
+      "number_of_offers_received": "1",
+      "extent_competed": "F",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "",
+      "fed_biz_opps_description": "",
+      "small_business_competitive": false,
+      "product_or_service_code": "X1JZ",
+      "naics": "611310",
+      "naics_description": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "",
+      "consolidated_contract": "D",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": null,
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "SIMPLIFIED ACQUISITION",
+      "extent_competed_description": "COMPETED UNDER SAP",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "A",
+      "commercial_item_acquisition_description": "COMMERCIAL PRODUCTS/SERVICES",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "LEASE/RENTAL OF MISCELLANEOUS BUILDINGS",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NOT CONSOLIDATED",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": null
+    },
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA GODDARD SPACE FLIGHT CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA GODDARD SPACE FLIGHT CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2024-02-08",
+      "end_date": "2025-02-07",
+      "last_modified_date": "2024-10-02",
+      "potential_end_date": "2025-02-07 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Category Business",
+        "Corporate Entity Tax Exempt",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "Special Designations",
+        "U.S.-Owned Business",
+        "Veterinary College"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "X",
+        "description": "LEASE/RENT FACILITIES"
+      },
+      "midtier_code": {
+        "code": "X1",
+        "description": "LEASE/RENTAL OF BUILDINGS"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "X1JZ",
+        "description": "LEASE/RENTAL OF MISCELLANEOUS BUILDINGS"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "61",
+        "description": "Educational Services"
+      },
+      "midtier_code": {
+        "code": "6113",
+        "description": "Colleges, Universities, and Professional Schools"
+      },
+      "base_code": {
+        "code": "611310",
+        "description": "Colleges, Universities, and Professional Schools"
+      }
+    },
+    "total_outlay": 14896
+  }
+}

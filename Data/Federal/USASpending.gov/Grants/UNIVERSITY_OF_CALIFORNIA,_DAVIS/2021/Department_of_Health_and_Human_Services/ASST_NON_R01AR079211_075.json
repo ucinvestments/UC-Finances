@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91140245,
+    "Award ID": "R01AR079211",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1932353,
+    "Total Outlays": 1474077.53,
+    "Description": "IDENTIFYING THE SUPERIOR OSSIFICATION PATHWAY FOR TISSUE ENGINEERED APPROACHES TO LONG BONE REPAIR - PROJECT SUMMARY MUSCULOSKELETAL HEALTH IS A KEY DETERMINANT OF MOBILITY AND QUALITY OF LIFE WHICH AFFECTS EVERY INDIVIDUAL, REGARDLESS OF AGE. UP TO 20% OF THE 6 MILLION FRACTURES OCCURRING ANNUALLY IN THE US WILL RESULT IN NONUNION OR SLOW HEALING AND REQUIRE INTERVENTION FOR BONE REGENERATION. MESENCHYMAL STROMAL CELLS (MSCS) ARE ONE ALTERNATIVE TO BONE GRAFTS BECAUSE OF THEIR OSTEOGENIC, CHONDROGENIC, AND PROANGIOGENIC POTENTIAL. COMPARED TO MONODISPERSE CELLS, MSC SPHEROIDS BETTER RESIST APOPTOSIS AND SECRETE 100-FOLD HIGHER LEVELS OF ANGIOGENIC FACTORS WHILE RETAINING THEIR MULTIPOTENCY. HOWEVER, MSC SPHEROIDS ARE NOT YET SUFFICIENT TO BRIDGE LARGE BONE DEFECTS, SUGGESTING THE NEED FOR EFFECTIVE PROGRAMMING METHODS TO ENHANCE THEIR BONE-FORMING POTENTIAL. FURTHERMORE, IT IS UNCLEAR WHETHER BONE HEALING IS MORE EFFECTIVE BY JUMPSTARTING CARTILAGE FORMATION OR ATTEMPTING TO INDUCE OSTEOGENIC DIFFERENTIATION OF RESIDENT OR TRANSPLANTED CELLS. LOCAL DELIVERY OF INDUCTIVE GROWTH FACTORS SUCH AS BMP-2 AND TGF-B1 ACCELERATES TISSUE FORMATION, BUT THE NECESSARY SUPRAPHYSIOLOGICAL CONCENTRATIONS AND ASSOCIATED COMPLICATIONS IMPAIR THEIR WIDESPREAD CLINICAL USE. OUR DATA DEMONSTRATE THAT MSC SPHEROIDS LOADED WITH CELL-SECRETED EXTRACELLULAR MATRIX (ECM) ARE MORE RESPONSIVE TO POTENT MITOGENS AND EXHIBIT ENHANCED OSTEOGENIC AND CHONDROGENIC DIFFERENTIATION WHILE USING MARKEDLY REDUCED DOSAGES AND REDUCING CONTRAINDICATIONS. THUS, OUR CENTRAL HYPOTHESIS IS THAT MSC SPHEROIDS CAN BE DIFFERENTIATED IN SITU TOWARD THE OSTEOGENIC OR CHONDROGENIC LINEAGE BY PRESENTING INDUCTIVE CUES ADSORBED TO INCORPORATED ECM, WHICH WILL YIELD POTENT CELLULAR BUILDING BLOCKS TO REGENERATE LARGE LOST BONE VOLUMES. AIM 1. ADAPT CELL- SECRETED ECM TO LOCALLY PRESENT INDUCTIVE FACTORS TO MSCS WITHIN SPHEROIDS TO ENHANCE OSTEOGENIC OR CHONDROGENIC DIFFERENTIATION. WE WILL TEST THE ROLE OF ECM QUANTITY AND BMP-2 AND TGF-B1 DOSAGE ON GROWTH FACTOR RETENTION AND PRESENTATION OF LOADED MORPHOGENS AND CORRELATING THEIR RESULTING EFFECT ON OSTEOGENESIS AND CHONDROGENESIS IN VITRO. AIM 2. POTENTIATE MSC OSTEOGENIC OR CHONDROGENIC DIFFERENTIATION BY MANIPULATING ECM-DRIVEN MORPHOGEN PRESENTATION. WE WILL IDENTIFY AND QUANTIFY CHANGES IN INTEGRIN EXPRESSION AND GROWTH FACTOR RECEPTOR ACTIVITY IN MSC SPHEROIDS CONTAINING ECM-ADSORBED BMP-2 OR TGF-B1. WE WILL THEN ASSESS CHANGES IN MSC DIFFERENTIATION WHEN DECOUPLING THE SYNERGY OF CELL ADHESION AND GROWTH FACTOR AVAILABILITY. AIM 3. ESTABLISH THE THERAPEUTIC POTENTIAL OF ECM-ADSORBED EXOGENOUS MORPHOGENS TO INSTRUCT MSC SPHEROIDS IN SITU FOR BONE FORMATION. WE WILL DETERMINE THE CAPACITY OF MSC SPHEROIDS CONTAINING ECM- ADSORBED BMP-2 OR TGF-B1 TO PERSIST, UNDERGO OSTEOGENIC OR CHONDROGENIC DIFFERENTIATION IN SITU, AND REPAIR LARGE BONE DEFECTS. WE WILL USE NONINVASIVE IMAGING AND HISTOLOGY TO DESCRIBE THE SUPERIOR PATHWAY TO PROMOTE ROBUST BONE FORMATION IN LONG BONE DEFECTS. THE PROPOSED RESEARCH IS INNOVATIVE BECAUSE IT PROVIDES A NOVEL STRATEGY TO REDUCE THE QUANTITY OF RECOMBINANT GROWTH FACTORS NEEDED TO GUIDE CELL FUNCTION, WHILE ESTABLISHING WHETHER MSCS DIRECTED TOWARD CARTILAGE OR BONE ACHIEVE FASTER BONE REPAIR IN LONG BONES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-04-01",
+    "End Date": "2026-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AR079211_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91140245,
+    "generated_unique_award_id": "ASST_NON_R01AR079211_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "IDENTIFYING THE SUPERIOR OSSIFICATION PATHWAY FOR TISSUE ENGINEERED APPROACHES TO LONG BONE REPAIR - PROJECT SUMMARY MUSCULOSKELETAL HEALTH IS A KEY DETERMINANT OF MOBILITY AND QUALITY OF LIFE WHICH AFFECTS EVERY INDIVIDUAL, REGARDLESS OF AGE. UP TO 20% OF THE 6 MILLION FRACTURES OCCURRING ANNUALLY IN THE US WILL RESULT IN NONUNION OR SLOW HEALING AND REQUIRE INTERVENTION FOR BONE REGENERATION. MESENCHYMAL STROMAL CELLS (MSCS) ARE ONE ALTERNATIVE TO BONE GRAFTS BECAUSE OF THEIR OSTEOGENIC, CHONDROGENIC, AND PROANGIOGENIC POTENTIAL. COMPARED TO MONODISPERSE CELLS, MSC SPHEROIDS BETTER RESIST APOPTOSIS AND SECRETE 100-FOLD HIGHER LEVELS OF ANGIOGENIC FACTORS WHILE RETAINING THEIR MULTIPOTENCY. HOWEVER, MSC SPHEROIDS ARE NOT YET SUFFICIENT TO BRIDGE LARGE BONE DEFECTS, SUGGESTING THE NEED FOR EFFECTIVE PROGRAMMING METHODS TO ENHANCE THEIR BONE-FORMING POTENTIAL. FURTHERMORE, IT IS UNCLEAR WHETHER BONE HEALING IS MORE EFFECTIVE BY JUMPSTARTING CARTILAGE FORMATION OR ATTEMPTING TO INDUCE OSTEOGENIC DIFFERENTIATION OF RESIDENT OR TRANSPLANTED CELLS. LOCAL DELIVERY OF INDUCTIVE GROWTH FACTORS SUCH AS BMP-2 AND TGF-B1 ACCELERATES TISSUE FORMATION, BUT THE NECESSARY SUPRAPHYSIOLOGICAL CONCENTRATIONS AND ASSOCIATED COMPLICATIONS IMPAIR THEIR WIDESPREAD CLINICAL USE. OUR DATA DEMONSTRATE THAT MSC SPHEROIDS LOADED WITH CELL-SECRETED EXTRACELLULAR MATRIX (ECM) ARE MORE RESPONSIVE TO POTENT MITOGENS AND EXHIBIT ENHANCED OSTEOGENIC AND CHONDROGENIC DIFFERENTIATION WHILE USING MARKEDLY REDUCED DOSAGES AND REDUCING CONTRAINDICATIONS. THUS, OUR CENTRAL HYPOTHESIS IS THAT MSC SPHEROIDS CAN BE DIFFERENTIATED IN SITU TOWARD THE OSTEOGENIC OR CHONDROGENIC LINEAGE BY PRESENTING INDUCTIVE CUES ADSORBED TO INCORPORATED ECM, WHICH WILL YIELD POTENT CELLULAR BUILDING BLOCKS TO REGENERATE LARGE LOST BONE VOLUMES. AIM 1. ADAPT CELL- SECRETED ECM TO LOCALLY PRESENT INDUCTIVE FACTORS TO MSCS WITHIN SPHEROIDS TO ENHANCE OSTEOGENIC OR CHONDROGENIC DIFFERENTIATION. WE WILL TEST THE ROLE OF ECM QUANTITY AND BMP-2 AND TGF-B1 DOSAGE ON GROWTH FACTOR RETENTION AND PRESENTATION OF LOADED MORPHOGENS AND CORRELATING THEIR RESULTING EFFECT ON OSTEOGENESIS AND CHONDROGENESIS IN VITRO. AIM 2. POTENTIATE MSC OSTEOGENIC OR CHONDROGENIC DIFFERENTIATION BY MANIPULATING ECM-DRIVEN MORPHOGEN PRESENTATION. WE WILL IDENTIFY AND QUANTIFY CHANGES IN INTEGRIN EXPRESSION AND GROWTH FACTOR RECEPTOR ACTIVITY IN MSC SPHEROIDS CONTAINING ECM-ADSORBED BMP-2 OR TGF-B1. WE WILL THEN ASSESS CHANGES IN MSC DIFFERENTIATION WHEN DECOUPLING THE SYNERGY OF CELL ADHESION AND GROWTH FACTOR AVAILABILITY. AIM 3. ESTABLISH THE THERAPEUTIC POTENTIAL OF ECM-ADSORBED EXOGENOUS MORPHOGENS TO INSTRUCT MSC SPHEROIDS IN SITU FOR BONE FORMATION. WE WILL DETERMINE THE CAPACITY OF MSC SPHEROIDS CONTAINING ECM- ADSORBED BMP-2 OR TGF-B1 TO PERSIST, UNDERGO OSTEOGENIC OR CHONDROGENIC DIFFERENTIATION IN SITU, AND REPAIR LARGE BONE DEFECTS. WE WILL USE NONINVASIVE IMAGING AND HISTOLOGY TO DESCRIBE THE SUPERIOR PATHWAY TO PROMOTE ROBUST BONE FORMATION IN LONG BONE DEFECTS. THE PROPOSED RESEARCH IS INNOVATIVE BECAUSE IT PROVIDES A NOVEL STRATEGY TO REDUCE THE QUANTITY OF RECOMBINANT GROWTH FACTORS NEEDED TO GUIDE CELL FUNCTION, WHILE ESTABLISHING WHETHER MSCS DIRECTED TOWARD CARTILAGE OR BONE ACHIEVE FASTER BONE REPAIR IN LONG BONES.",
+    "total_obligation": 1932353,
+    "subaward_count": 3,
+    "total_subaward_amount": 146121,
+    "date_signed": "2021-03-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1474077.53,
+    "total_account_obligation": 1932353,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1474077.53
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1932353
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2021-04-01",
+      "end_date": "2026-02-28",
+      "last_modified_date": "2025-04-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1474077.53
+  }
+}

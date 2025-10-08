@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91155915,
+    "Award ID": "R01CA286650",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1700852,
+    "Total Outlays": 272118.59,
+    "Description": "LATIN AMERICA GENOMICS OF BREAST CANCER RISK STUDY (LAGENO-BCR) - SUMMARY/ABSTRACT BREAST CANCER IS A LEADING CAUSE OF DEATH IN THE U.S. AND A MAJOR PUBLIC HEALTH BURDEN AS ONE WOMAN OUT OF EIGHT WILL RECEIVE A DIAGNOSIS IN HER LIFETIME. ADVANCES IN DNA GENOTYPING AND SEQUENCING TECHNOLOGIES HAVE LED TO THE IDENTIFICATION OF \u003e300 GERMLINE VARIANTS THAT CONTRIBUTE TO BREAST CANCER RISK. HOWEVER, AS OF TODAY, LARGE ‘OMICS’ STUDIES INCLUDE WOMEN OF MOSTLY EUROPEAN ANCESTRY EVEN THOUGH PRELIMINARY EVIDENCE INDICATES THAT THERE IS A CLEAR BENEFIT IN STUDYING GENETICALLY DIVERSE SAMPLES. A GENOME WIDE ASSOCIATION STUDY (GWAS) IN HISPANIC/LATINA (H/L) WOMEN WITH ONE TENTH OF THE NUMBER OF INDIVIDUALS INCLUDED IN PREVIOUS STUDIES LED TO THE DISCOVERY OF PROTECTIVE VARIANTS ONLY PRESENT IN POPULATIONS THAT HAVE INDIGENOUS AMERICAN ANCESTRY. THESE VARIANTS SIGNIFICANTLY ADD TO THE PREDICTIVE ACCURACY OF BREAST CANCER POLYGENIC RISK SCORES (PRS). H/L REPRESENT 16% OF THE U.S. POPULATION AND IN SOME STATES, UP TO 37%. TO ADDRESS THE LACK OF H/L REPRESENTATION IN GENOMICS STUDIES, WE HAVE CREATED THE LATIN AMERICA GENOMICS OF BREAST CANCER (LAGENO-BC) CONSORTIUM, WHICH INCLUDES ~28,500 LATIN AMERICAN BREAST CANCER PATIENTS AND ~32,600 UNAFFECTED WOMEN FROM 11 DIFFERENT COUNTRIES AND THE U.S. DIASPORA. OUR GOAL IS TO STUDY THE LATIN AMERICAN-SPECIFIC GENETIC ARCHITECTURE OF BREAST CANCER AND DEVELOP PREDICTIVE MODELS THAT ACCOUNT FOR VARIATION BY ANCESTRY AND GEOGRAPHY. BY COMBINING EXISTING STUDIES, LAGENO-BC QUADRUPLES THE PRIOR H/L BC GWAS SAMPLE SIZE AND CONSEQUENTLY, PROVIDES THE POWER REQUIRED FOR THE DISCOVERY OF ADDITIONAL VARIANTS CONTRIBUTING TO BREAST CANCER RISK AND FOR IMPROVING THE PREDICTIVE POWER OF PRS FOR RISK STRATIFICATION IN THOSE POPULATIONS. IN THE FIRST AIM, WE PROPOSE TO DISCOVER SUSCEPTIBILITY LOCI AND GENES ASSOCIATED WITH BREAST CANCER IN H/LS BY CONDUCTING GWAS AND ANCESTRY-MATCHED MULTI-TISSUE MODEL-BASED TRANSCRIPTOME WIDE ASSOCIATION STUDIES WITH READILY AVAILABLE RNA SEQUENCE DATA (TWASS). THESE ANALYSES WILL BE REPEATED FOR OVERALL RISK AND SUBTYPE-SPECIFIC RISK. IN THE SECOND AIM, WE WILL USE KNOWN AND NEW GENETIC RISK VARIANTS TO IMPROVE BREAST CANCER RISK PREDICTION USING ANCESTRY-AWARE APPROACHES AND INTEGRATING EXISTING MODELS BASED ON NON-GENETIC RISK FACTORS. THIS WORK IS EXPECTED TO RESULT IN THE DISCOVERY OF NEW RISK VARIANTS THAT ARE ESPECIALLY RELEVANT TO POPULATIONS WITH AN ADMIXED INDIGENOUS AMERICAN ANCESTRAL BACKGROUND. IN ADDITION, UTILIZING ANCESTRY-MATCHED AND MULTI-TISSUE MODELS FOR TWAS, NEW ASSOCIATIONS LINKED TO ANCESTRY- SPECIFIC AND TISSUE-SPECIFIC EQTLS ARE EXPECTED TO BE UNCOVERED. IT IS ALSO EXPECTED THAT PRS SCORES THAT INCORPORATE H/LS VARIANTS AND ASSESS REGIONAL AND ANCESTRY HETEROGENEITY WILL BE MORE PREDICTIVE THAN A ONE-SIZE-FITS-ALL APPROACH. BEYOND THE PROPOSED WORK IN THIS APPLICATION, LAGENO-BC IS BUILDING UP A RESOURCE THAT WILL SERVE AS A FOUNDATION FOR FUTURE COLLABORATIVE STUDIES ADDRESSING A BROAD RANGE OF SCIENTIFIC QUESTIONS RELATED TO BREAST CANCER GENETICS IN H/L POPULATIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-01",
+    "End Date": "2029-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA286650_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91155915,
+    "generated_unique_award_id": "ASST_NON_R01CA286650_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "LATIN AMERICA GENOMICS OF BREAST CANCER RISK STUDY (LAGENO-BCR) - SUMMARY/ABSTRACT BREAST CANCER IS A LEADING CAUSE OF DEATH IN THE U.S. AND A MAJOR PUBLIC HEALTH BURDEN AS ONE WOMAN OUT OF EIGHT WILL RECEIVE A DIAGNOSIS IN HER LIFETIME. ADVANCES IN DNA GENOTYPING AND SEQUENCING TECHNOLOGIES HAVE LED TO THE IDENTIFICATION OF \u003e300 GERMLINE VARIANTS THAT CONTRIBUTE TO BREAST CANCER RISK. HOWEVER, AS OF TODAY, LARGE ‘OMICS’ STUDIES INCLUDE WOMEN OF MOSTLY EUROPEAN ANCESTRY EVEN THOUGH PRELIMINARY EVIDENCE INDICATES THAT THERE IS A CLEAR BENEFIT IN STUDYING GENETICALLY DIVERSE SAMPLES. A GENOME WIDE ASSOCIATION STUDY (GWAS) IN HISPANIC/LATINA (H/L) WOMEN WITH ONE TENTH OF THE NUMBER OF INDIVIDUALS INCLUDED IN PREVIOUS STUDIES LED TO THE DISCOVERY OF PROTECTIVE VARIANTS ONLY PRESENT IN POPULATIONS THAT HAVE INDIGENOUS AMERICAN ANCESTRY. THESE VARIANTS SIGNIFICANTLY ADD TO THE PREDICTIVE ACCURACY OF BREAST CANCER POLYGENIC RISK SCORES (PRS). H/L REPRESENT 16% OF THE U.S. POPULATION AND IN SOME STATES, UP TO 37%. TO ADDRESS THE LACK OF H/L REPRESENTATION IN GENOMICS STUDIES, WE HAVE CREATED THE LATIN AMERICA GENOMICS OF BREAST CANCER (LAGENO-BC) CONSORTIUM, WHICH INCLUDES ~28,500 LATIN AMERICAN BREAST CANCER PATIENTS AND ~32,600 UNAFFECTED WOMEN FROM 11 DIFFERENT COUNTRIES AND THE U.S. DIASPORA. OUR GOAL IS TO STUDY THE LATIN AMERICAN-SPECIFIC GENETIC ARCHITECTURE OF BREAST CANCER AND DEVELOP PREDICTIVE MODELS THAT ACCOUNT FOR VARIATION BY ANCESTRY AND GEOGRAPHY. BY COMBINING EXISTING STUDIES, LAGENO-BC QUADRUPLES THE PRIOR H/L BC GWAS SAMPLE SIZE AND CONSEQUENTLY, PROVIDES THE POWER REQUIRED FOR THE DISCOVERY OF ADDITIONAL VARIANTS CONTRIBUTING TO BREAST CANCER RISK AND FOR IMPROVING THE PREDICTIVE POWER OF PRS FOR RISK STRATIFICATION IN THOSE POPULATIONS. IN THE FIRST AIM, WE PROPOSE TO DISCOVER SUSCEPTIBILITY LOCI AND GENES ASSOCIATED WITH BREAST CANCER IN H/LS BY CONDUCTING GWAS AND ANCESTRY-MATCHED MULTI-TISSUE MODEL-BASED TRANSCRIPTOME WIDE ASSOCIATION STUDIES WITH READILY AVAILABLE RNA SEQUENCE DATA (TWASS). THESE ANALYSES WILL BE REPEATED FOR OVERALL RISK AND SUBTYPE-SPECIFIC RISK. IN THE SECOND AIM, WE WILL USE KNOWN AND NEW GENETIC RISK VARIANTS TO IMPROVE BREAST CANCER RISK PREDICTION USING ANCESTRY-AWARE APPROACHES AND INTEGRATING EXISTING MODELS BASED ON NON-GENETIC RISK FACTORS. THIS WORK IS EXPECTED TO RESULT IN THE DISCOVERY OF NEW RISK VARIANTS THAT ARE ESPECIALLY RELEVANT TO POPULATIONS WITH AN ADMIXED INDIGENOUS AMERICAN ANCESTRAL BACKGROUND. IN ADDITION, UTILIZING ANCESTRY-MATCHED AND MULTI-TISSUE MODELS FOR TWAS, NEW ASSOCIATIONS LINKED TO ANCESTRY- SPECIFIC AND TISSUE-SPECIFIC EQTLS ARE EXPECTED TO BE UNCOVERED. IT IS ALSO EXPECTED THAT PRS SCORES THAT INCORPORATE H/LS VARIANTS AND ASSESS REGIONAL AND ANCESTRY HETEROGENEITY WILL BE MORE PREDICTIVE THAN A ONE-SIZE-FITS-ALL APPROACH. BEYOND THE PROPOSED WORK IN THIS APPLICATION, LAGENO-BC IS BUILDING UP A RESOURCE THAT WILL SERVE AS A FOUNDATION FOR FUTURE COLLABORATIVE STUDIES ADDRESSING A BROAD RANGE OF SCIENTIFIC QUESTIONS RELATED TO BREAST CANCER GENETICS IN H/L POPULATIONS.",
+    "total_obligation": 1700852,
+    "subaward_count": 2,
+    "total_subaward_amount": 312219,
+    "date_signed": "2024-08-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 272118.59,
+    "total_account_obligation": 872878,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 272118.59
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 872878
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-01",
+      "end_date": "2029-08-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 272118.59
+  }
+}

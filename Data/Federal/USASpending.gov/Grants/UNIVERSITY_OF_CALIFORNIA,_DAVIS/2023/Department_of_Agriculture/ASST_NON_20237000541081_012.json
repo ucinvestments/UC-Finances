@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56338534,
+    "Award ID": "20237000541081",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 946349,
+    "Total Outlays": 293076.56,
+    "Description": "THE FUTURE SUCCESS OF ALFALFA IN THE WESTERN USA DEPENDS ON REDUCING ITS WATER FOOTPRINT. ALFALFA PRODUCTION SYSTEMS NEED TO USE LESS WATER, AND ALFALFA CULTIVARS THAT ARE OPTIMALLY PRODUCTIVE UNDER THOSE SYSTEMS NEED TO BE BRED. THE OBJECTIVES OF THIS PROJECT ARE TO BREED ADAPTED CULTIVARS THAT ARE RESILIENT TO LATE SUMMER WATER STRESS, TEST COMMERCIAL AND EXPERIMENTAL ALFALFA CULTIVARS DEVELOPED BY BOTH PUBLIC AND PRIVATE BREEDERS UNDER WATER STRESS, AND DOCUMENT WATER SAVINGS UNDER DEFICIT IRRIGATION SCHEMES. WE WILL CONTINUE TO DEVELOP NON-DORMANT EXPERIMENTAL CULTIVARS THAT THRIVE UNDER DEFICIT IRRIGATION. DEFICIT IRRIGATION EXPERIMENTS WILL BE CONDUCTED AT FOUR LOCATIONS IN UT AND CA UNDER FULL IRRIGATION AND LATE SUMMER CUT-OFF DEFICIT IRRIGATION. CULTIVARS WITH SUPERIOR YIELD EXCELLENT PERSISTENCE UNDER DEFICIT IRRIGATION MANAGEMENT WILL BE IDENTIFIED; PROMISING EXPERIMENTALS WILL BE RELEASED. APPLIED WATER AND ESTIMATED EVAPOTRANSPIRATION (ET) WILL BE MEASURED TO UNDERSTAND THE ECONOMIC COST OF REDUCED WATER ON ALFALFA PRODUCTION. RESEARCH RESULTS WILL BE EXTENDED TO GROWERS AND POLICY MAKERS TO IMPROVE INCLUSION, PROFITABILITY, AND RESILIENCY OF ALFALFA IN IRRIGATED REGIONS. DYNAMIC OUTREACH WILL INCLUDE PRESENTATIONS AT THE WESTERN ALFALFA SYMPOSIUM, FIELD DAYS, WEB AND SOCIAL MEDIA OUTLETS, AND VARIOUS EXTENSION AND PROFESSIONAL PUBLICATIONS. THIS RESEARCH WILL ENABLE FARMERS AND POLICY MAKERS TO SUSTAIN ALFALFA FORAGE PRODUCTION THROUGH THE USE OF IMPROVED VARIETIES EVEN UNDER LIMITED WATER CONDITIONS. THIS PROJECT ADDRESSES ASAFS PROGRAM AREAS 1. BREEDING TO REDUCE ABIOTIC STRESSES AND 8. DOCUMENTING THE CONTRIBUTION OF ALFALFA TO CLIMATE-SMART AGRICULTURE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2023-09-01",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20237000541081_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56338534,
+    "generated_unique_award_id": "ASST_NON_20237000541081_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE FUTURE SUCCESS OF ALFALFA IN THE WESTERN USA DEPENDS ON REDUCING ITS WATER FOOTPRINT. ALFALFA PRODUCTION SYSTEMS NEED TO USE LESS WATER, AND ALFALFA CULTIVARS THAT ARE OPTIMALLY PRODUCTIVE UNDER THOSE SYSTEMS NEED TO BE BRED. THE OBJECTIVES OF THIS PROJECT ARE TO BREED ADAPTED CULTIVARS THAT ARE RESILIENT TO LATE SUMMER WATER STRESS, TEST COMMERCIAL AND EXPERIMENTAL ALFALFA CULTIVARS DEVELOPED BY BOTH PUBLIC AND PRIVATE BREEDERS UNDER WATER STRESS, AND DOCUMENT WATER SAVINGS UNDER DEFICIT IRRIGATION SCHEMES. WE WILL CONTINUE TO DEVELOP NON-DORMANT EXPERIMENTAL CULTIVARS THAT THRIVE UNDER DEFICIT IRRIGATION. DEFICIT IRRIGATION EXPERIMENTS WILL BE CONDUCTED AT FOUR LOCATIONS IN UT AND CA UNDER FULL IRRIGATION AND LATE SUMMER CUT-OFF DEFICIT IRRIGATION. CULTIVARS WITH SUPERIOR YIELD EXCELLENT PERSISTENCE UNDER DEFICIT IRRIGATION MANAGEMENT WILL BE IDENTIFIED; PROMISING EXPERIMENTALS WILL BE RELEASED. APPLIED WATER AND ESTIMATED EVAPOTRANSPIRATION (ET) WILL BE MEASURED TO UNDERSTAND THE ECONOMIC COST OF REDUCED WATER ON ALFALFA PRODUCTION. RESEARCH RESULTS WILL BE EXTENDED TO GROWERS AND POLICY MAKERS TO IMPROVE INCLUSION, PROFITABILITY, AND RESILIENCY OF ALFALFA IN IRRIGATED REGIONS. DYNAMIC OUTREACH WILL INCLUDE PRESENTATIONS AT THE WESTERN ALFALFA SYMPOSIUM, FIELD DAYS, WEB AND SOCIAL MEDIA OUTLETS, AND VARIOUS EXTENSION AND PROFESSIONAL PUBLICATIONS. THIS RESEARCH WILL ENABLE FARMERS AND POLICY MAKERS TO SUSTAIN ALFALFA FORAGE PRODUCTION THROUGH THE USE OF IMPROVED VARIETIES EVEN UNDER LIMITED WATER CONDITIONS. THIS PROJECT ADDRESSES ASAFS PROGRAM AREAS 1. BREEDING TO REDUCE ABIOTIC STRESSES AND 8. DOCUMENTING THE CONTRIBUTION OF ALFALFA TO CLIMATE-SMART AGRICULTURE.",
+    "total_obligation": 946349,
+    "subaward_count": 1,
+    "total_subaward_amount": 297538,
+    "date_signed": "2023-09-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 294043.76,
+    "total_account_obligation": 946349,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 294043.76
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 946349
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2023-09-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 294043.76
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74724467,
+    "Award ID": "80NSSC17K0255",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 672938.23,
+    "Total Outlays": 233081.87,
+    "Description": "THIS PROPOSAL IS MOTIVATED BY  AND SEEKS TO EXPLAIN  THE UNEXPECTED RISE IN THE POSITRON FRACTION OF THE COSMIC RAY (CR) LEPTONIC ENERGY SPECTRUM  NOW CONFIRMED BY THE AMS-02 SPECTROMETER. THE NOVELTY OF THE PROPOSED STUDY IS BASED ON THE PREMISE THAT THE POSITRON AND ELECTRON SPECTRA ARE DIFFERENT BECAUSE THEY ARE ACCELERATED BY A CHARGE-SIGN SELECTIVE MECHANISM. THE VALIDITY OF THIS PREMISE WAS HINTED AT BY ANOTHER RECENT AMS-02 RESULT  REVEALING A DIFFERENCE BETWEEN POSITRON AND ANTIPROTON SPECTRA  WHICH BOTH ARE SECONDARY CRS BUT OF THE OPPOSITE CHARGES. THE NEW MECHANISM EXTENDS THE DIFFUSIVE SHOCK ACCELERATION (DSA) TO MAKE IT CHARGE-SIGN SELECTIVE. THE DSA  OPERATING IN GALACTIC SUPERNOVA REMNANT (SNR) SHOCKS  IS HELD RESPONSIBLE FOR THE PRODUCTION OF THE BULK OF THE CRS. THE NEW MECHANISM WAS FOUND TO ACCOUNT FOR THE POSITRON DATA WITH AN EXCELLENT AGREEMENT  EXCEPT IN A LIMITED ENERGY RANGE BETWEEN 100-300 GEV. IN THIS RANGE  THE DATA EXCEED THE THEORETICAL PREDICTION SYSTEMATICALLY. THE PROPOSAL OBJECTIVE IS TO UNDERSTAND THE NATURE OF THE POSITRON EXCESS  INCLUDING THE STRIKING DISAGREEMENT WITH THE THEORY IN THE 100-300 GEV RANGE. THERE IS A POSSIBILITY THAT THE PROPOSED RESEARCH PROGRAM  AIMED AT THE FURTHER DEVELOPMENT AND IMPROVEMENT OF THE NEW CR ACCELERATION MECHANISM  WILL SETTLE THE CURRENT DISAGREEMENT. THE MOST INTERESTING OUTCOME OF THIS PROGRAM  HOWEVER  WOULD BE UPHOLDING THE CURRENT DEVIATION. IN THIS CASE  AN ADDITIONAL POSITRON SOURCE  NOT RELATED TO THE SNRS  WILL BE REQUIRED TO EXPLAIN THE OBSERVED POSITRON EXCESS. THIS IDEA HAS BEEN CIRCULATING SINCE THE FIRST DETECTION OF THE POSITRON ANOMALY   DARK MATTER AND NEARBY PULSARS HAVE BEEN SUGGESTED AS VIABLE CANDIDATES. THE CR AND PARTICLE PHYSICS COMMUNITIES ARE STILL DIVIDED OVER THE ISSUE OF WHETHER THE POSITRON ANOMALY CAN AT ALL BE EXPLAINED BY PARTICLE ACCELERATION IN SNR SHOCKS. THE OPPOSITE STAND IS TAKEN BY THE PROPONENTS OF AN EXCITING POSSIBILITY OF DARK MATTER ANNIHILATION OR DECAY. MEANWHILE  THE DEBATE HAS STALLED  AND THE REASON FOR THAT SEEMS TO BE TWOFOLD. FIRST  THE DATA ABOVE 100 GEV ARE STILL INSUFFICIENT TO DISCRIMINATE BETWEEN MOST MODELS. THIS SHORTCOMING MAY SOON BE REMOVED WITH THE NEXT DATA RELEASE FROM THE AMS-02. ANOTHER PROBLEM IS THAT TO SUPPORT THE ASTROPHYSICAL (SNR) SOLUTION  THE DSA WAS APPLIED IN ITS TRADITIONAL  CHARGEINDEPENDENT FORM. THIS SIMPLIFICATION LED TO TENSION WITH THE ANTIPROTON DATA  IN PARTICULAR. TO OVERCOME THIS SHORTCOMING OF THE DSA  WE WILL STUDY THE ACCELERATION OF POSITRONS IN SNR SHOCKS WHICH: (I) PROPAGATE IN CLUMPY GAS MEDIA  AND (II) ARE MODIFIED BY PREDOMINANTLY ACCELERATED CR PROTONS. THE CHARGE-SIGN SELECTIVITY OF THE DSA ARISES FROM AN ELECTRIC FIELD INDUCED BY THE CR PROTONS ILLUMINATING THE NEUTRAL GAS CLUMPS. THE ELECTRIC FIELD EXPELS POSITRONS FROM THE CLUMP BUT TRAPS ELECTRONS AND SECONDARY ANTIPROTONS  THUS SUPPRESSING THEIR ACCELERATION. SINCE THE SHOCK IS MODIFIED  IT ACCELERATES THE POSITRONS TO A HARDER SPECTRUM THAN THAT OF THE CR ELECTRONS ACCELERATED IN OTHER SNRS. MIXING THESE POPULATIONS EXPLAINS THE INCREASE IN THE POSITRON TO ELECTRON RATIO AT E\u003e8 GEV. THIS RATIO DECREASES AT E\u003c8 GEV BECAUSE OF A SUBSHOCK WEAKENING WHICH ALSO RESULTS FROM THE SHOCK MODIFICATION. CONTRARY TO THE EXPELLED POSITRONS  MOST OF THE ANTIPROTONS  ELECTRONS  AND HEAVIER NUCLEI  ARE LEFT UNACCELERATED INSIDE THE CLUMPS. COSMIC RAYS AND DARK MATTER ARE THE FUNDAMENTAL CONSTITUENTS OF THE UNIVERSE  AND THEIR STUDIES ARE AMONG THE HIGHEST NASA SCIENTIFIC PRIORITIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR DEPT 621",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "49",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0621",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "52",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92093-0621",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2017-07-20",
+    "End Date": "2021-07-19",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC17K0255_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74724467,
+    "generated_unique_award_id": "ASST_NON_80NSSC17K0255_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THIS PROPOSAL IS MOTIVATED BY  AND SEEKS TO EXPLAIN  THE UNEXPECTED RISE IN THE POSITRON FRACTION OF THE COSMIC RAY (CR) LEPTONIC ENERGY SPECTRUM  NOW CONFIRMED BY THE AMS-02 SPECTROMETER. THE NOVELTY OF THE PROPOSED STUDY IS BASED ON THE PREMISE THAT THE POSITRON AND ELECTRON SPECTRA ARE DIFFERENT BECAUSE THEY ARE ACCELERATED BY A CHARGE-SIGN SELECTIVE MECHANISM. THE VALIDITY OF THIS PREMISE WAS HINTED AT BY ANOTHER RECENT AMS-02 RESULT  REVEALING A DIFFERENCE BETWEEN POSITRON AND ANTIPROTON SPECTRA  WHICH BOTH ARE SECONDARY CRS BUT OF THE OPPOSITE CHARGES. THE NEW MECHANISM EXTENDS THE DIFFUSIVE SHOCK ACCELERATION (DSA) TO MAKE IT CHARGE-SIGN SELECTIVE. THE DSA  OPERATING IN GALACTIC SUPERNOVA REMNANT (SNR) SHOCKS  IS HELD RESPONSIBLE FOR THE PRODUCTION OF THE BULK OF THE CRS. THE NEW MECHANISM WAS FOUND TO ACCOUNT FOR THE POSITRON DATA WITH AN EXCELLENT AGREEMENT  EXCEPT IN A LIMITED ENERGY RANGE BETWEEN 100-300 GEV. IN THIS RANGE  THE DATA EXCEED THE THEORETICAL PREDICTION SYSTEMATICALLY. THE PROPOSAL OBJECTIVE IS TO UNDERSTAND THE NATURE OF THE POSITRON EXCESS  INCLUDING THE STRIKING DISAGREEMENT WITH THE THEORY IN THE 100-300 GEV RANGE. THERE IS A POSSIBILITY THAT THE PROPOSED RESEARCH PROGRAM  AIMED AT THE FURTHER DEVELOPMENT AND IMPROVEMENT OF THE NEW CR ACCELERATION MECHANISM  WILL SETTLE THE CURRENT DISAGREEMENT. THE MOST INTERESTING OUTCOME OF THIS PROGRAM  HOWEVER  WOULD BE UPHOLDING THE CURRENT DEVIATION. IN THIS CASE  AN ADDITIONAL POSITRON SOURCE  NOT RELATED TO THE SNRS  WILL BE REQUIRED TO EXPLAIN THE OBSERVED POSITRON EXCESS. THIS IDEA HAS BEEN CIRCULATING SINCE THE FIRST DETECTION OF THE POSITRON ANOMALY   DARK MATTER AND NEARBY PULSARS HAVE BEEN SUGGESTED AS VIABLE CANDIDATES. THE CR AND PARTICLE PHYSICS COMMUNITIES ARE STILL DIVIDED OVER THE ISSUE OF WHETHER THE POSITRON ANOMALY CAN AT ALL BE EXPLAINED BY PARTICLE ACCELERATION IN SNR SHOCKS. THE OPPOSITE STAND IS TAKEN BY THE PROPONENTS OF AN EXCITING POSSIBILITY OF DARK MATTER ANNIHILATION OR DECAY. MEANWHILE  THE DEBATE HAS STALLED  AND THE REASON FOR THAT SEEMS TO BE TWOFOLD. FIRST  THE DATA ABOVE 100 GEV ARE STILL INSUFFICIENT TO DISCRIMINATE BETWEEN MOST MODELS. THIS SHORTCOMING MAY SOON BE REMOVED WITH THE NEXT DATA RELEASE FROM THE AMS-02. ANOTHER PROBLEM IS THAT TO SUPPORT THE ASTROPHYSICAL (SNR) SOLUTION  THE DSA WAS APPLIED IN ITS TRADITIONAL  CHARGEINDEPENDENT FORM. THIS SIMPLIFICATION LED TO TENSION WITH THE ANTIPROTON DATA  IN PARTICULAR. TO OVERCOME THIS SHORTCOMING OF THE DSA  WE WILL STUDY THE ACCELERATION OF POSITRONS IN SNR SHOCKS WHICH: (I) PROPAGATE IN CLUMPY GAS MEDIA  AND (II) ARE MODIFIED BY PREDOMINANTLY ACCELERATED CR PROTONS. THE CHARGE-SIGN SELECTIVITY OF THE DSA ARISES FROM AN ELECTRIC FIELD INDUCED BY THE CR PROTONS ILLUMINATING THE NEUTRAL GAS CLUMPS. THE ELECTRIC FIELD EXPELS POSITRONS FROM THE CLUMP BUT TRAPS ELECTRONS AND SECONDARY ANTIPROTONS  THUS SUPPRESSING THEIR ACCELERATION. SINCE THE SHOCK IS MODIFIED  IT ACCELERATES THE POSITRONS TO A HARDER SPECTRUM THAN THAT OF THE CR ELECTRONS ACCELERATED IN OTHER SNRS. MIXING THESE POPULATIONS EXPLAINS THE INCREASE IN THE POSITRON TO ELECTRON RATIO AT E\u003e8 GEV. THIS RATIO DECREASES AT E\u003c8 GEV BECAUSE OF A SUBSHOCK WEAKENING WHICH ALSO RESULTS FROM THE SHOCK MODIFICATION. CONTRARY TO THE EXPELLED POSITRONS  MOST OF THE ANTIPROTONS  ELECTRONS  AND HEAVIER NUCLEI  ARE LEFT UNACCELERATED INSIDE THE CLUMPS. COSMIC RAYS AND DARK MATTER ARE THE FUNDAMENTAL CONSTITUENTS OF THE UNIVERSE  AND THEIR STUDIES ARE AMONG THE HIGHEST NASA SCIENTIFIC PRIORITIES.",
+    "total_obligation": 672938.23,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2017-07-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 233081.87,
+    "total_account_obligation": -65.77,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 233081.87
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -65.77
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2017-07-20",
+      "end_date": "2021-07-19",
+      "last_modified_date": "2021-12-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": "804355790",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR DEPT 621",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0621",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0621",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 233081.87
+  }
+}

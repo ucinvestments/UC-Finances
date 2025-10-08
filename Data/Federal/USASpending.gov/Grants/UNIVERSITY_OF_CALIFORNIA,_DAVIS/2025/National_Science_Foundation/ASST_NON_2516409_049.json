@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 175665744,
+    "Award ID": "2516409",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1991369,
+    "Total Outlays": null,
+    "Description": "FOSTERING LEARNING AND CONNECTION TO SCIENCE AND SOCIETY THROUGH A CO-DESIGNED CALIFORNIA NATURALIST COURSE -THIS INTEGRATING RESEARCH AND PRACTICE PROJECT AIMS TO MAKE LIFELONG ENVIRONMENTAL LEARNING AND STEWARDSHIP A REALITY BY USING A DESIGN-BASED RESEARCH (DBR) APPROACH TO COLLABORATIVELY ADAPT THE EXISTING CALIFORNIA NATURALIST (CALNAT) CERTIFICATION PROGRAM FOR THE CONTEXT OF PRISON GARDENS. THE STUDY OF SCIENCE LEARNING OUTCOMES WILL INVESTIGATE THE IMPACTS OF TWO MAIN INNOVATIVE PROGRAM FEATURES: 1) CO-DEVELOPED HANDS-ON RIGOROUS NATURALIST TRAINING WITH INCARCERATED PARTICIPANTS, AND 2) PARTICIPATION IN AND CONTRIBUTIONS TO AUTHENTIC ENVIRONMENTAL SCIENCE RESEARCH. THIS RESEARCH-PRACTICE PARTNERSHIP OFFERS A UNIQUE OPPORTUNITY TO EXAMINE COMBINED EFFECTS OF DOING REAL SCIENCE, PURSUING A CALNAT CERTIFICATION, AND ENGAGING IN OUTDOOR GARDEN SPACES ON PARTICIPANTS' SCIENCE IDENTITIES, AND WHAT RESOURCES, FACILITATION, AND OTHER SUPPORTS ENHANCE THIS WORK. THE PROJECT IS DESIGNED AROUND THE FOLLOWING RESEARCH QUESTIONS: HOW DO 1) HANDS-ON FIELD ECOLOGY TRAINING AND 2) PARTICIPATION IN ENVIRONMENTAL SCIENCE RESEARCH INFLUENCE PARTICIPANTS' A) SELF-EFFICACY TOWARD SCIENCE AND ENVIRONMENTAL ISSUES, AND B) SCIENCE IDENTITY? THE PROJECT ADDRESSES THESE RESEARCH QUESTIONS THROUGH THE CASE OF A CALIFORNIA NATURALIST CERTIFICATION PROGRAM IMPLEMENTED IN A PRISON GARDEN SETTING. THE PROJECT WILL STUDY THE TWO MAIN LEARNING OUTCOME AREAS THROUGH OBSERVATIONS AND INTERVIEWS TO DISCERN WHAT ASPECTS OF THE PROGRAM MOST STRONGLY INFLUENCE PARTICIPANTS' LEARNING OUTCOMES, INCLUDING BUT NOT LIMITED TO DESIGN FEATURES. THE DBR APPROACH, INVOLVING ITERATIVE CYCLES OF DESIGN AND INVESTIGATION, WILL FOCUS ON INTEGRATING PRACTITIONER EXPERIENCES AND RESEARCH THEORY TO DESIGN A PRISON-BASED CALNAT PROGRAM, AND ASSESS ITS IMPACTS, THEN COLLABORATIVELY REFINE THE DESIGN AND RE-ASSESS IT. THE CO-DESIGN PROCESS INCORPORATES FOUR MAJOR STEPS: 1) CO-DESIGN WITH INCARCERATED PARTICIPANTS A CALNAT CERTIFICATION PROGRAM CENTERED AROUND PRISON GARDENS; 2) IMPLEMENT THE CO-DESIGNED PROGRAM IN TWO ITERATIONS; 3) STUDY THE SELF-EFFICACY AND SCIENCE IDENTITY OF PARTICIPANTS; AND 4) DEVELOP A MODEL OF EFFECTIVE PRACTICES FOR IMPLEMENTING NATURALIST PROGRAMS STATE- AND NATION-WIDE. THIS PROJECT IS FUNDED BY THE ADVANCING INFORMAL STEM LEARNING (AISL) PROGRAM, WHICH SEEKS TO ADVANCE NEW APPROACHES TO, AND EVIDENCE-BASED UNDERSTANDING OF, THE DESIGN AND DEVELOPMENT OF STEM LEARNING IN INFORMAL ENVIRONMENTS. THIS INCLUDES PROVIDING EVERYONE MULTIPLE PATHWAYS FOR ACCESSING AND ENGAGING IN STEM LEARNING EXPERIENCES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-09-15",
+    "End Date": "2028-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2516409_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 175665744,
+    "generated_unique_award_id": "ASST_NON_2516409_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FOSTERING LEARNING AND CONNECTION TO SCIENCE AND SOCIETY THROUGH A CO-DESIGNED CALIFORNIA NATURALIST COURSE -THIS INTEGRATING RESEARCH AND PRACTICE PROJECT AIMS TO MAKE LIFELONG ENVIRONMENTAL LEARNING AND STEWARDSHIP A REALITY BY USING A DESIGN-BASED RESEARCH (DBR) APPROACH TO COLLABORATIVELY ADAPT THE EXISTING CALIFORNIA NATURALIST (CALNAT) CERTIFICATION PROGRAM FOR THE CONTEXT OF PRISON GARDENS. THE STUDY OF SCIENCE LEARNING OUTCOMES WILL INVESTIGATE THE IMPACTS OF TWO MAIN INNOVATIVE PROGRAM FEATURES: 1) CO-DEVELOPED HANDS-ON RIGOROUS NATURALIST TRAINING WITH INCARCERATED PARTICIPANTS, AND 2) PARTICIPATION IN AND CONTRIBUTIONS TO AUTHENTIC ENVIRONMENTAL SCIENCE RESEARCH. THIS RESEARCH-PRACTICE PARTNERSHIP OFFERS A UNIQUE OPPORTUNITY TO EXAMINE COMBINED EFFECTS OF DOING REAL SCIENCE, PURSUING A CALNAT CERTIFICATION, AND ENGAGING IN OUTDOOR GARDEN SPACES ON PARTICIPANTS' SCIENCE IDENTITIES, AND WHAT RESOURCES, FACILITATION, AND OTHER SUPPORTS ENHANCE THIS WORK. THE PROJECT IS DESIGNED AROUND THE FOLLOWING RESEARCH QUESTIONS: HOW DO 1) HANDS-ON FIELD ECOLOGY TRAINING AND 2) PARTICIPATION IN ENVIRONMENTAL SCIENCE RESEARCH INFLUENCE PARTICIPANTS' A) SELF-EFFICACY TOWARD SCIENCE AND ENVIRONMENTAL ISSUES, AND B) SCIENCE IDENTITY? THE PROJECT ADDRESSES THESE RESEARCH QUESTIONS THROUGH THE CASE OF A CALIFORNIA NATURALIST CERTIFICATION PROGRAM IMPLEMENTED IN A PRISON GARDEN SETTING. THE PROJECT WILL STUDY THE TWO MAIN LEARNING OUTCOME AREAS THROUGH OBSERVATIONS AND INTERVIEWS TO DISCERN WHAT ASPECTS OF THE PROGRAM MOST STRONGLY INFLUENCE PARTICIPANTS' LEARNING OUTCOMES, INCLUDING BUT NOT LIMITED TO DESIGN FEATURES. THE DBR APPROACH, INVOLVING ITERATIVE CYCLES OF DESIGN AND INVESTIGATION, WILL FOCUS ON INTEGRATING PRACTITIONER EXPERIENCES AND RESEARCH THEORY TO DESIGN A PRISON-BASED CALNAT PROGRAM, AND ASSESS ITS IMPACTS, THEN COLLABORATIVELY REFINE THE DESIGN AND RE-ASSESS IT. THE CO-DESIGN PROCESS INCORPORATES FOUR MAJOR STEPS: 1) CO-DESIGN WITH INCARCERATED PARTICIPANTS A CALNAT CERTIFICATION PROGRAM CENTERED AROUND PRISON GARDENS; 2) IMPLEMENT THE CO-DESIGNED PROGRAM IN TWO ITERATIONS; 3) STUDY THE SELF-EFFICACY AND SCIENCE IDENTITY OF PARTICIPANTS; AND 4) DEVELOP A MODEL OF EFFECTIVE PRACTICES FOR IMPLEMENTING NATURALIST PROGRAMS STATE- AND NATION-WIDE. THIS PROJECT IS FUNDED BY THE ADVANCING INFORMAL STEM LEARNING (AISL) PROGRAM, WHICH SEEKS TO ADVANCE NEW APPROACHES TO, AND EVIDENCE-BASED UNDERSTANDING OF, THE DESIGN AND DEVELOPMENT OF STEM LEARNING IN INFORMAL ENVIRONMENTS. THIS INCLUDES PROVIDING EVERYONE MULTIPLE PATHWAYS FOR ACCESSING AND ENGAGING IN STEM LEARNING EXPERIENCES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "total_obligation": 1991369,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-09-02",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF RESEARCH ON LEARNING IN"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF RESEARCH ON LEARNING IN"
+    },
+    "period_of_performance": {
+      "start_date": "2025-09-15",
+      "end_date": "2028-08-31",
+      "last_modified_date": "2025-09-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

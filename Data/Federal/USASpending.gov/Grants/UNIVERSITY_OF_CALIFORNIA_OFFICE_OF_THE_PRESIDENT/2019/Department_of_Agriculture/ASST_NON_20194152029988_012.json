@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56309966,
+    "Award ID": "20194152029988",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA OFFICE OF THE PRESIDENT",
+    "Award Amount": 1078761.75,
+    "Total Outlays": 1078761.75,
+    "Description": "THE UNIVERSITY OF CALIFORNIA COOPERATIVE EXTENSION (UCCE) AND UNIVERSITY OF NEVADA COOPERATIVEEXTENSION (UNCE) WILL INTEGRATE THE 4-H STUDENT NUTRITION ADVISORY COUNCILS (SNAC) CLUBPROGRAM INTO COMMUNITIES IN SAN LUIS OBISPO COUNTY (CA), EL DORADO COUNTY (CA), AND CLARKCOUNTY (NV) WITH SNAP-ED ELIGIBLE YOUTH WHOM QUALITY FOR THE FREE OR REDUCED PRICE MEALSPROGRAM. THE TARGET AUDIENCES FOR THE 4-H SNAC CLUBS PROGRAMMING ARE SCHOOL AGE CHILDREN (K-8)AND FAMILIES IN LOW-INCOME SCHOOLS. THE PROGRAM WILL SERVE YOUTH THAT ARE AT INCREASED RISK FORNEGATIVE OUTCOMES, SUCH AS UNDERNOURISHMENT, NEGLECT, POOR HEALTH, SUBSTANCE ABUSE, TEENAGEPREGNANCY, CRIME, VIOLENCE, AND ACADEMIC UNDERACHIEVEMENT, DUE TO FAMILY, COMMUNITY, SOCIAL,POLITICAL, AND ECONOMIC CONDITIONS. THE 4-H SNAC CLUB PROGRAM MODEL WILL BE EXPANDED THROUGHA PARTNERSHIP BETWEEN THE UNIVERSITY OF CALIFORNIA (UC) 4-H, CALFRESH (SNAP-ED), NEVADA (NV)4-H, NV EXPANDED FOOD AND NUTRITION EXTENSION PROGRAMS, NV SNAP-ED, LOCAL SCHOOLS ANDCOMMUNITY PARTNERS. COMMUNITY HEALTH AND YOUTH DEVELOPMENT PROFESSIONALS WILL IMPLEMENTINTERVENTIONS AT THE SOCIAL AND ENVIRONMENTAL LEVEL TO ADDRESS SOCIAL DETERMINANTS OF HEALTHIMPACTING YOUTH. THROUGH THIS PARTNERSHIP, THE PROGRAM WILL ALSO PROVIDE OPPORTUNITIES FOR YOUTH TOLEARN VALUABLE HEALTHY LIVING, ADVOCACY, AND PEER MENTORING SKILLS. BASED ON THE OUTCOMES ACHIEVEDBY SIMILAR PROJECTS, IT IS EXPECTED THAT PARTICIPANTS WILL HAVE: (1) IMPROVED NUTRITIONAL AND PHYSICALHEALTH KNOWLEDGE AND PRACTICES, (2) IMPROVED CONFIDENCE IN LEADERSHIP AND PRESENTATION SKILLS, (3)INCREASED CAREER READINESS, AND (4) INCREASED SELF-EFFICACY FOR BEING AN ADVOCATE OF HEALTH.",
+    "Contract Award Type": "",
+    "Recipient UEI": "K5KAMCPRVED6",
+    "Recipient Location": {
+      "address_line1": "1111 FRANKLIN ST FL 6",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "OAKLAND",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5201",
+      "zip5": "94607"
+    },
+    "Primary Place of Performance": {
+      "city_name": "OAKLAND",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94607-5201",
+      "zip5": "94607"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2019-09-01",
+    "End Date": "2024-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ea7a33b4-8d5e-e75d-a88c-0a12b25732c6-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20194152029988_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56309966,
+    "generated_unique_award_id": "ASST_NON_20194152029988_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE UNIVERSITY OF CALIFORNIA COOPERATIVE EXTENSION (UCCE) AND UNIVERSITY OF NEVADA COOPERATIVEEXTENSION (UNCE) WILL INTEGRATE THE 4-H STUDENT NUTRITION ADVISORY COUNCILS (SNAC) CLUBPROGRAM INTO COMMUNITIES IN SAN LUIS OBISPO COUNTY (CA), EL DORADO COUNTY (CA), AND CLARKCOUNTY (NV) WITH SNAP-ED ELIGIBLE YOUTH WHOM QUALITY FOR THE FREE OR REDUCED PRICE MEALSPROGRAM. THE TARGET AUDIENCES FOR THE 4-H SNAC CLUBS PROGRAMMING ARE SCHOOL AGE CHILDREN (K-8)AND FAMILIES IN LOW-INCOME SCHOOLS. THE PROGRAM WILL SERVE YOUTH THAT ARE AT INCREASED RISK FORNEGATIVE OUTCOMES, SUCH AS UNDERNOURISHMENT, NEGLECT, POOR HEALTH, SUBSTANCE ABUSE, TEENAGEPREGNANCY, CRIME, VIOLENCE, AND ACADEMIC UNDERACHIEVEMENT, DUE TO FAMILY, COMMUNITY, SOCIAL,POLITICAL, AND ECONOMIC CONDITIONS. THE 4-H SNAC CLUB PROGRAM MODEL WILL BE EXPANDED THROUGHA PARTNERSHIP BETWEEN THE UNIVERSITY OF CALIFORNIA (UC) 4-H, CALFRESH (SNAP-ED), NEVADA (NV)4-H, NV EXPANDED FOOD AND NUTRITION EXTENSION PROGRAMS, NV SNAP-ED, LOCAL SCHOOLS ANDCOMMUNITY PARTNERS. COMMUNITY HEALTH AND YOUTH DEVELOPMENT PROFESSIONALS WILL IMPLEMENTINTERVENTIONS AT THE SOCIAL AND ENVIRONMENTAL LEVEL TO ADDRESS SOCIAL DETERMINANTS OF HEALTHIMPACTING YOUTH. THROUGH THIS PARTNERSHIP, THE PROGRAM WILL ALSO PROVIDE OPPORTUNITIES FOR YOUTH TOLEARN VALUABLE HEALTHY LIVING, ADVOCACY, AND PEER MENTORING SKILLS. BASED ON THE OUTCOMES ACHIEVEDBY SIMILAR PROJECTS, IT IS EXPECTED THAT PARTICIPANTS WILL HAVE: (1) IMPROVED NUTRITIONAL AND PHYSICALHEALTH KNOWLEDGE AND PRACTICES, (2) IMPROVED CONFIDENCE IN LEADERSHIP AND PRESENTATION SKILLS, (3)INCREASED CAREER READINESS, AND (4) INCREASED SELF-EFFICACY FOR BEING AN ADVOCATE OF HEALTH.",
+    "total_obligation": 1078761.75,
+    "subaward_count": 6,
+    "total_subaward_amount": 650589.5,
+    "date_signed": "2019-08-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1078761.75,
+    "total_account_obligation": 904761.75,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1078761.75
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 904761.75
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Youth, Family, and Community (IYFC)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Youth, Family, and Community (IYFC)"
+    },
+    "period_of_performance": {
+      "start_date": "2019-09-01",
+      "end_date": "2024-08-31",
+      "last_modified_date": "2025-02-27",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ea7a33b4-8d5e-e75d-a88c-0a12b25732c6-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA OFFICE OF THE PRESIDENT",
+      "recipient_uei": "K5KAMCPRVED6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "OAKLAND",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1111 FRANKLIN ST FL 6",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5201",
+        "zip5": "94607",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "OAKLAND",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "5201",
+      "zip5": "94607",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1078761.75
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56962714,
+    "Award ID": "2226448",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 600000,
+    "Total Outlays": 402901.14,
+    "Description": "SHF: SMALL: CT-DDS -- SCALABLE CONCOLIC TESTING OF PARALLEL APPLICATIONS WITH SHARED DYNAMIC DATA STRUCTURES -ALTHOUGH PARALLEL PROGRAMS DELIVER PERFORMANCE BY EXPLOITING PARALLELISM SUPPORTED BY A MODERN-DAY MULTICORE MACHINE, A CLUSTER OF MACHINES, OR A GENERAL-PURPOSE GRAPHICS PROCESSING UNIT (GPU), THEY ARE ALSO PRONE TO CONCURRENCY BUGS THAT ARE HARD TO UNCOVER. TO PRODUCE RELIABLE PARALLEL SOFTWARE, POWERFUL AUTOMATED-TESTING TECHNIQUES AND TOOLS MUST BE DEPLOYED TO THOROUGHLY EXERCISE PROGRAM BEHAVIORS TO EXPOSE AND THEN ELIMINATE CONCURRENCY BUGS. THE MOST POWERFUL MEANS FOR AUTOMATED TESTING IS CONCOLIC TESTING, WHICH COMBINES PROGRAM EXECUTION WITH PROGRAM ANALYSIS (SYMBOLIC EXECUTION) TO AUTOMATICALLY GENERATE DIFFERENT PROGRAM INPUTS TO EXERCISE DIFFERENT PROGRAM PATHS. RECENT INNOVATION ENABLING COMPILER-BASED SYMBOLIC EXECUTION HAS GREATLY INCREASED THE EFFICIENCY OF CONCOLIC TESTING. THUS, TIME HAS ARRIVED TO TAKE ADVANTAGE OF CONCOLIC TESTING IN TESTING EVEN MORE COMPLEX PARALLEL PROGRAMS FOR A MULTICORE, A GPU, AND A CLUSTER. THE GOAL OF THIS RESEARCH IS TO GENERALIZE CONCOLIC TESTING TO TEST PARALLEL PROGRAMS ON HETEROGENEOUS MASSIVELY PARALLEL COMPUTING PLATFORMS BY ADDRESSING TWO KEY CHALLENGES: HOW TO AUTOMATICALLY TEST PARALLEL PROGRAMS THAT USE CONCURRENT DYNAMIC DATA STRUCTURES IN WHICH PARALLEL THREADS MAINTAIN SHARED STATE; AND HOW TO SCALE THE EFFICIENCY OF CONCOLIC TESTING SO THAT AUTOMATED TESTING OF PARALLEL PROGRAMS WITH LARGE NUMBER OF THREADS CAN BE MADE PRACTICAL. BUILDING SUCH POWERFUL SYSTEMS WILL DELIVER PARALLEL SOFTWARE THAT IS HIGHLY RELIABLE. IN ADDITION, IT WILL RESULT IN TRAINING GRADUATE STUDENTS IN AN AREA OF NATIONAL NEED. THE TECHNICAL AIMS OF THIS PROJECT ARE DIVIDED INTO TWO THRUSTS. THE FIRST THRUST DEVELOPS AN APPROACH FOR EXERCISING THE BEHAVIORS OF PARALLEL PROGRAMS THAT REVEAL CONCURRENCY BUGS SUCH AS DATA RACES AND PROGRAM HANGS. TO EXERCISE SUCH BEHAVIORS VIA CONCOLIC TESTING, THIS RESEARCH WILL ADDRESS THE COMPLEXITY OF GENERATING NON-CONFLICTING CONCURRENT DATA STRUCTURES OF THOSE SHAPES AND SIZES THAT ENABLE PARALLEL THREADS TO INTERACT IN A MANNER THAT EXPOSES CONCURRENCY BUGS LIKE DATA RACES. EXISTING TECHNIQUES ARE INADEQUATE BECAUSE THEIR INABILITY TO AUTOMATICALLY EXPLORE CONCURRENT DATA STRUCTURE SHAPES SEVERELY LIMITS CONCURRENT BEHAVIORS THAT CAN BE EXERCISED. THE SECOND THRUST DEVELOPS AN APPROACH FOR IMPROVING THE EFFICIENCY OF CONCOLIC TESTING FOR PARALLEL PROGRAMS WITH LARGE NUMBERS OF THREADS. TO AVOID INCURRING REPEATED HIGH COST OF SYMBOLIC EXECUTION, SUMMARIES THAT CAPTURE DATA STRUCTURE SHAPES ARE MAINTAINED AND THEN REUSED DURING CONCOLIC TESTING. THUS, INSTEAD OF REPEATEDLY COLLECTING AND SOLVING CONSTRAINTS, A SAVED DATA STRUCTURE OF DESIRED SHAPE AND SIZE CAN BE QUICKLY RECREATED. TO DEAL WITH LARGE NUMBERS OF THREADS, APPROACHES EMPLOYED INCLUDE: MAKING THE THREAD IDENTIFIERS SYMBOLIC; AND LIMITING EXPENSIVE SYMBOLIC EVALUATION TO A SINGLE THREAD. THE SUMMARIES ALSO ENABLE IDENTIFICATION OF POTENTIAL CONCURRENCY BUGS THAT GUIDE EXPLORATION OF PATHS TAKEN BY CONCURRENT THREADS TO EITHER CONFIRM OR DISPROVE POTENTIAL BUGS. THE SOFTWARE DEVELOPED OVER THE COURSE OF THIS PROJECT WILL BE MADE AVAILABLE TO OTHER RESEARCHERS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "900 UNIVERSITY AVE",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "9800",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-10-01",
+    "End Date": "2025-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2226448_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56962714,
+    "generated_unique_award_id": "ASST_NON_2226448_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SHF: SMALL: CT-DDS -- SCALABLE CONCOLIC TESTING OF PARALLEL APPLICATIONS WITH SHARED DYNAMIC DATA STRUCTURES -ALTHOUGH PARALLEL PROGRAMS DELIVER PERFORMANCE BY EXPLOITING PARALLELISM SUPPORTED BY A MODERN-DAY MULTICORE MACHINE, A CLUSTER OF MACHINES, OR A GENERAL-PURPOSE GRAPHICS PROCESSING UNIT (GPU), THEY ARE ALSO PRONE TO CONCURRENCY BUGS THAT ARE HARD TO UNCOVER. TO PRODUCE RELIABLE PARALLEL SOFTWARE, POWERFUL AUTOMATED-TESTING TECHNIQUES AND TOOLS MUST BE DEPLOYED TO THOROUGHLY EXERCISE PROGRAM BEHAVIORS TO EXPOSE AND THEN ELIMINATE CONCURRENCY BUGS. THE MOST POWERFUL MEANS FOR AUTOMATED TESTING IS CONCOLIC TESTING, WHICH COMBINES PROGRAM EXECUTION WITH PROGRAM ANALYSIS (SYMBOLIC EXECUTION) TO AUTOMATICALLY GENERATE DIFFERENT PROGRAM INPUTS TO EXERCISE DIFFERENT PROGRAM PATHS. RECENT INNOVATION ENABLING COMPILER-BASED SYMBOLIC EXECUTION HAS GREATLY INCREASED THE EFFICIENCY OF CONCOLIC TESTING. THUS, TIME HAS ARRIVED TO TAKE ADVANTAGE OF CONCOLIC TESTING IN TESTING EVEN MORE COMPLEX PARALLEL PROGRAMS FOR A MULTICORE, A GPU, AND A CLUSTER. THE GOAL OF THIS RESEARCH IS TO GENERALIZE CONCOLIC TESTING TO TEST PARALLEL PROGRAMS ON HETEROGENEOUS MASSIVELY PARALLEL COMPUTING PLATFORMS BY ADDRESSING TWO KEY CHALLENGES: HOW TO AUTOMATICALLY TEST PARALLEL PROGRAMS THAT USE CONCURRENT DYNAMIC DATA STRUCTURES IN WHICH PARALLEL THREADS MAINTAIN SHARED STATE; AND HOW TO SCALE THE EFFICIENCY OF CONCOLIC TESTING SO THAT AUTOMATED TESTING OF PARALLEL PROGRAMS WITH LARGE NUMBER OF THREADS CAN BE MADE PRACTICAL. BUILDING SUCH POWERFUL SYSTEMS WILL DELIVER PARALLEL SOFTWARE THAT IS HIGHLY RELIABLE. IN ADDITION, IT WILL RESULT IN TRAINING GRADUATE STUDENTS IN AN AREA OF NATIONAL NEED. THE TECHNICAL AIMS OF THIS PROJECT ARE DIVIDED INTO TWO THRUSTS. THE FIRST THRUST DEVELOPS AN APPROACH FOR EXERCISING THE BEHAVIORS OF PARALLEL PROGRAMS THAT REVEAL CONCURRENCY BUGS SUCH AS DATA RACES AND PROGRAM HANGS. TO EXERCISE SUCH BEHAVIORS VIA CONCOLIC TESTING, THIS RESEARCH WILL ADDRESS THE COMPLEXITY OF GENERATING NON-CONFLICTING CONCURRENT DATA STRUCTURES OF THOSE SHAPES AND SIZES THAT ENABLE PARALLEL THREADS TO INTERACT IN A MANNER THAT EXPOSES CONCURRENCY BUGS LIKE DATA RACES. EXISTING TECHNIQUES ARE INADEQUATE BECAUSE THEIR INABILITY TO AUTOMATICALLY EXPLORE CONCURRENT DATA STRUCTURE SHAPES SEVERELY LIMITS CONCURRENT BEHAVIORS THAT CAN BE EXERCISED. THE SECOND THRUST DEVELOPS AN APPROACH FOR IMPROVING THE EFFICIENCY OF CONCOLIC TESTING FOR PARALLEL PROGRAMS WITH LARGE NUMBERS OF THREADS. TO AVOID INCURRING REPEATED HIGH COST OF SYMBOLIC EXECUTION, SUMMARIES THAT CAPTURE DATA STRUCTURE SHAPES ARE MAINTAINED AND THEN REUSED DURING CONCOLIC TESTING. THUS, INSTEAD OF REPEATEDLY COLLECTING AND SOLVING CONSTRAINTS, A SAVED DATA STRUCTURE OF DESIRED SHAPE AND SIZE CAN BE QUICKLY RECREATED. TO DEAL WITH LARGE NUMBERS OF THREADS, APPROACHES EMPLOYED INCLUDE: MAKING THE THREAD IDENTIFIERS SYMBOLIC; AND LIMITING EXPENSIVE SYMBOLIC EVALUATION TO A SINGLE THREAD. THE SUMMARIES ALSO ENABLE IDENTIFICATION OF POTENTIAL CONCURRENCY BUGS THAT GUIDE EXPLORATION OF PATHS TAKEN BY CONCURRENT THREADS TO EITHER CONFIRM OR DISPROVE POTENTIAL BUGS. THE SOFTWARE DEVELOPED OVER THE COURSE OF THIS PROJECT WILL BE MADE AVAILABLE TO OTHER RESEARCHERS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 600000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-07-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 402901.14,
+    "total_account_obligation": 600000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 402901.14
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 600000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF COMPUTER  COMM FOUNDATIONS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF COMPUTER  COMM FOUNDATIONS"
+    },
+    "period_of_performance": {
+      "start_date": "2022-10-01",
+      "end_date": "2025-09-30",
+      "last_modified_date": "2022-07-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "900 UNIVERSITY AVE",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "9800",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 402901.14
+  }
+}

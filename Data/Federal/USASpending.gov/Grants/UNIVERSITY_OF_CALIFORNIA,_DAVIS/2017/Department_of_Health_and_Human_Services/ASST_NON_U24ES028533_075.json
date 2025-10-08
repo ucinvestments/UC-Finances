@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92627682,
+    "Award ID": "U24ES028533",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1194328,
+    "Total Outlays": 1000050.35,
+    "Description": "BUILDS MARBLES: BIOREPOSITORY UPKEEP AND INFRASTRUCTURE FOR LONGITUDINAL DATA SHARING FOR MARBLES - ABSTRACT  THE MARBLES (MARKERS OF AUTISM RISK IN BABIES: LEARNING EARLY SIGNS) STUDY WAS LAUNCHED IN 2006 AS THE FIRST EPIDEMIOLOGIC COHORT OF YOUNGER SIBLINGS OF CHILDREN WITH AUTISM SPECTRUM DISORDERS (ASD) TO BEGIN FOLLOW- UP BEFORE AND DURING THE PRENATAL PERIOD WHEN ASD IS LIKELY TO ORIGINATE. IN CONTRAST TO POPULATION-BASED COHORTS THAT REQUIRE LARGE SAMPLE SIZES GIVEN A RELATIVELY LOW PREVALENCE OF ASD (1 IN 44) AND TYPICALLY ARE NOT ABLE TO CONDUCT GOLD STANDARD DIAGNOSIS OF ASD, THE ENRICHED-RISK DESIGN OFFERS GREATER EFFICIENCY BY ENROLLING PARTICIPANTS AT HIGH FAMILIAL RISK FOR DEVELOPING ASD (\u003e20%) AND OTHER NEURODEVELOPMENTAL CONCERNS (15-20%). OTHER COHORTS OF HIGH-RISK YOUNGER SIBLINGS RECRUITED POSTNATALLY, WITH THE EXCEPTION OF THE EARLI STUDY THAT IS NO LONGER ENROLLING. EARLY ENROLLMENT PROVIDES AN OPPORTUNITY TO EXAMINE A BROAD ARRAY OF ENVIRONMENTAL EXPOSURES AND EARLY BIOMARKERS. GIVEN INCREASING PREVALENCE OF ASD, IT IS CRITICAL TO INVEST IN STUDIES IDENTIFYING FACTORS RESPONSIBLE FOR INCREASING RISK AND THE MECHANISMS UNDERLYING ASD ETIOLOGY, WHICH ARE NOT YET WELL-UNDERSTOOD. THIS PROJECT ADDRESSES BOTH GAPS BY MAINTAINING AND ENHANCING THE INFRASTRUCTURE OF THE MARBLES ENRICHED- RISK COHORT. THE MARBLES STUDY HAS ENROLLED OVER 522 PREGNANCIES FOR 533 CHILDREN AND COLLECTED NEARLY 28,000 SAMPLES, COMPREHENSIVE DATA ON EXPOSURES, MEDICAL HISTORY, DIET, LIFESTYLE, AND HOME FACTORS, MEASURED METHYLATION, EXPRESSION, IMMUNE, NUTRIENT, AND CONTAMINANT MARKERS, AND CONDUCTED RICH CHARACTERIZATION OF NEURODEVELOPMENTAL OUTCOMES USING GOLD-STANDARD CLINICAL ASSESSMENTS. THE MARBLES STUDY EMPLOYED A MULTI-PRONGED RECRUITMENT APPROACH THAT INCLUDES A VARIETY OF COMMUNITY OUTREACH ACTIVITIES THAT RESULTED IN A SOCIODEMOGRAPHICALLY DIVERSE COHORT ALLOWING EXAMINATION OF DIFFERENCES IN DISTRIBUTIONS AND ASSOCIATIONS OF A MULTITUDE OF ENVIRONMENTAL FACTORS ACROSS RACE, ETHNICITY, NATIVITY, PARENTAL EDUCATION, AND OTHER SOCIOECONOMIC INDICATORS. THE MARBLES TEAM HAS A HISTORY OF SUPPORTING BOTH SCIENTIFIC AND WORKFORCE DIVERSITY AND WILL CONTINUE TO EXPAND THESE EFFORTS. WE PROPOSE TO CONTINUE TO ENROLL AND FOLLOW PARTICIPANTS UNDER A STREAMLINED PROTOCOL THAT WILL NOW ACCOMMODATE SPANISH-SPEAKING FAMILIES, AND EXPAND OUR ONLINE PRESENCE TO MORE WIDELY SHARE RESOURCES FOR ONE OF THE ONLY ENRICHED-RISK ASD COHORTS IN THE U.S. WITH PROSPECTIVELY COLLECTED PREGNANCY DATA AND BIOSAMPLES AND DEEP EVALUATION OF RISK FACTORS, MEDIATORS, AND OUTCOMES, TO ADVANCE DISCOVERY OF ETIOLOGIC FACTORS AND EARLY BIOMARKERS FOR ASD. WE WILL FURTHER WORK TO UNDERSTAND THE RACIAL, ETHNIC, AND SOCIODEMOGRAPHIC DISPARITIES THAT EXIST IN THE DIAGNOSIS OF ASD THAT ARE LIKELY DRIVEN BY STRUCTURAL RACISM14 BY COLLECTING INFORMATION FROM OUR PARTICIPANTS ON EXPERIENCED DISCRIMINATION AND BY LINKING TO NEIGHBORHOOD-LEVEL FACTORS. COMPLETION OF THESE AIMS WILL MARKEDLY ENRICH MARBLES RESOURCES, EXPEDITE COLLABORATIVE SHARING, AND ALLOW US AND FUTURE COLLABORATORS TO BETTER ADDRESS QUESTIONS ON PREDICTORS OF ASD IN AN ENRICHED-RISK COHORT, WHILE MORE THOROUGHLY ADJUSTING FOR CONFOUNDING FACTORS INCLUDING THOSE RESULTING FROM STRUCTURAL RACISM, AND WILL ADD UNDERSTANDING OF HOW EXPERIENCED DISCRIMINATION PLAYS A ROLE IN THESE FAMILIES’ CARE AND WELL-BEING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2017-09-30",
+    "End Date": "2027-10-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U24ES028533_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92627682,
+    "generated_unique_award_id": "ASST_NON_U24ES028533_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "BUILDS MARBLES: BIOREPOSITORY UPKEEP AND INFRASTRUCTURE FOR LONGITUDINAL DATA SHARING FOR MARBLES - ABSTRACT  THE MARBLES (MARKERS OF AUTISM RISK IN BABIES: LEARNING EARLY SIGNS) STUDY WAS LAUNCHED IN 2006 AS THE FIRST EPIDEMIOLOGIC COHORT OF YOUNGER SIBLINGS OF CHILDREN WITH AUTISM SPECTRUM DISORDERS (ASD) TO BEGIN FOLLOW- UP BEFORE AND DURING THE PRENATAL PERIOD WHEN ASD IS LIKELY TO ORIGINATE. IN CONTRAST TO POPULATION-BASED COHORTS THAT REQUIRE LARGE SAMPLE SIZES GIVEN A RELATIVELY LOW PREVALENCE OF ASD (1 IN 44) AND TYPICALLY ARE NOT ABLE TO CONDUCT GOLD STANDARD DIAGNOSIS OF ASD, THE ENRICHED-RISK DESIGN OFFERS GREATER EFFICIENCY BY ENROLLING PARTICIPANTS AT HIGH FAMILIAL RISK FOR DEVELOPING ASD (\u003e20%) AND OTHER NEURODEVELOPMENTAL CONCERNS (15-20%). OTHER COHORTS OF HIGH-RISK YOUNGER SIBLINGS RECRUITED POSTNATALLY, WITH THE EXCEPTION OF THE EARLI STUDY THAT IS NO LONGER ENROLLING. EARLY ENROLLMENT PROVIDES AN OPPORTUNITY TO EXAMINE A BROAD ARRAY OF ENVIRONMENTAL EXPOSURES AND EARLY BIOMARKERS. GIVEN INCREASING PREVALENCE OF ASD, IT IS CRITICAL TO INVEST IN STUDIES IDENTIFYING FACTORS RESPONSIBLE FOR INCREASING RISK AND THE MECHANISMS UNDERLYING ASD ETIOLOGY, WHICH ARE NOT YET WELL-UNDERSTOOD. THIS PROJECT ADDRESSES BOTH GAPS BY MAINTAINING AND ENHANCING THE INFRASTRUCTURE OF THE MARBLES ENRICHED- RISK COHORT. THE MARBLES STUDY HAS ENROLLED OVER 522 PREGNANCIES FOR 533 CHILDREN AND COLLECTED NEARLY 28,000 SAMPLES, COMPREHENSIVE DATA ON EXPOSURES, MEDICAL HISTORY, DIET, LIFESTYLE, AND HOME FACTORS, MEASURED METHYLATION, EXPRESSION, IMMUNE, NUTRIENT, AND CONTAMINANT MARKERS, AND CONDUCTED RICH CHARACTERIZATION OF NEURODEVELOPMENTAL OUTCOMES USING GOLD-STANDARD CLINICAL ASSESSMENTS. THE MARBLES STUDY EMPLOYED A MULTI-PRONGED RECRUITMENT APPROACH THAT INCLUDES A VARIETY OF COMMUNITY OUTREACH ACTIVITIES THAT RESULTED IN A SOCIODEMOGRAPHICALLY DIVERSE COHORT ALLOWING EXAMINATION OF DIFFERENCES IN DISTRIBUTIONS AND ASSOCIATIONS OF A MULTITUDE OF ENVIRONMENTAL FACTORS ACROSS RACE, ETHNICITY, NATIVITY, PARENTAL EDUCATION, AND OTHER SOCIOECONOMIC INDICATORS. THE MARBLES TEAM HAS A HISTORY OF SUPPORTING BOTH SCIENTIFIC AND WORKFORCE DIVERSITY AND WILL CONTINUE TO EXPAND THESE EFFORTS. WE PROPOSE TO CONTINUE TO ENROLL AND FOLLOW PARTICIPANTS UNDER A STREAMLINED PROTOCOL THAT WILL NOW ACCOMMODATE SPANISH-SPEAKING FAMILIES, AND EXPAND OUR ONLINE PRESENCE TO MORE WIDELY SHARE RESOURCES FOR ONE OF THE ONLY ENRICHED-RISK ASD COHORTS IN THE U.S. WITH PROSPECTIVELY COLLECTED PREGNANCY DATA AND BIOSAMPLES AND DEEP EVALUATION OF RISK FACTORS, MEDIATORS, AND OUTCOMES, TO ADVANCE DISCOVERY OF ETIOLOGIC FACTORS AND EARLY BIOMARKERS FOR ASD. WE WILL FURTHER WORK TO UNDERSTAND THE RACIAL, ETHNIC, AND SOCIODEMOGRAPHIC DISPARITIES THAT EXIST IN THE DIAGNOSIS OF ASD THAT ARE LIKELY DRIVEN BY STRUCTURAL RACISM14 BY COLLECTING INFORMATION FROM OUR PARTICIPANTS ON EXPERIENCED DISCRIMINATION AND BY LINKING TO NEIGHBORHOOD-LEVEL FACTORS. COMPLETION OF THESE AIMS WILL MARKEDLY ENRICH MARBLES RESOURCES, EXPEDITE COLLABORATIVE SHARING, AND ALLOW US AND FUTURE COLLABORATORS TO BETTER ADDRESS QUESTIONS ON PREDICTORS OF ASD IN AN ENRICHED-RISK COHORT, WHILE MORE THOROUGHLY ADJUSTING FOR CONFOUNDING FACTORS INCLUDING THOSE RESULTING FROM STRUCTURAL RACISM, AND WILL ADD UNDERSTANDING OF HOW EXPERIENCED DISCRIMINATION PLAYS A ROLE IN THESE FAMILIES’ CARE AND WELL-BEING.",
+    "total_obligation": 1194328,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-12-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1000050.35,
+    "total_account_obligation": 1194328,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1000050.35
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1194328
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Enviromental Health Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Enviromental Health Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2017-09-30",
+      "end_date": "2027-10-31",
+      "last_modified_date": "2024-12-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1000050.35
+  }
+}

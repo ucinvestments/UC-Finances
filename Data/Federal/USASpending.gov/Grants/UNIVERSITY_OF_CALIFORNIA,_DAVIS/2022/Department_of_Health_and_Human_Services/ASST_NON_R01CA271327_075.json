@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91154869,
+    "Award ID": "R01CA271327",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2339824,
+    "Total Outlays": 1416906.66,
+    "Description": "NOVEL THERAPEUTICS DUAL TARGETING INTRACRINE ANDROGEN SYNTHESIS AND AR FOR ADVANCED PROSTATE CANCER - ABSTRACT CONTINUED EXPRESSION OF ANDROGEN RECEPTOR (AR) AND ITS VARIANTS, SUCH AS AR-V7, DESPITE AR TARGETED THERAPY CONTRIBUTES TO TREATMENT RESISTANCE AND CANCER PROGRESSION IN ADVANCED CRPC PATIENTS. THIS HIGHLIGHTS THE NEED FOR NEW STRATEGIES TO BLOCK CONTINUED AR SIGNALING. ALDO-KETO REDUCTASE FAMILY 1 MEMBER C3 (AKR1C3) IS ONE OF THE MOST IMPORTANT GENES INVOLVED IN ANDROGEN SYNTHESIS AND METABOLISM. ACTIVITY OF THIS ENZYME CANNOT BE INHIBITED BY ABIRATERONE. BOTH AR/AR-V7 AND AKR1C3 PLAY KEY ROLES IN CANCER PROGRESSION AND DRIVING RESISTANCE TO CURRENT THERAPIES. THEREFORE, INHIBITION OF BOTH AR/AR-V7 AND AKR1C3 WOULD BE AN IDEAL STRATEGY FOR TREATING ADVANCED PROSTATE CANCER (PCA). WE HAVE DESIGNED A NOVEL STRATEGY TO SIMULTANEOUSLY TARGET THE AR/AR-V7 AND AKR1C3 PATHWAYS. WE DESIGNED AND SYNTHESIZED A LIBRARY OF NOVEL DUAL AKR1C3/AR/AR-VARIANT INHIBITORS, CALLED LX, ACCORDING TO STRUCTURE-BASED COMPUTER MODELING. OF THE LX COMPOUNDS, LX-1 HAD THE GREATEST EFFECT AT REDUCING CELL NUMBER, AR/AR VARIANT EXPRESSION, AND AKR1C3 ACTIVITY. RNA-SEQ ANALYSIS DEMONSTRATED A ROBUST REDUCTION IN EXPRESSION OF AR AND AR-V7 SIGNALING GENES BY THE SELECTED LX. LX-1 INHIBITED CONVERSION OF THE TESTOSTERONE PRECURSOR ANDROSTENEDIONE INTO TESTOSTERONE IN TUMOR CELLS WHICH EXPRESS HIGH LEVELS OF AKR1C3 IN A DOSE-DEPENDENT MANNER EX VIVO. FURTHERMORE, TREATMENT WITH LX-1 REDUCED TUMOR GROWTH IN VCAP AND LUCAP35CR PDX XENOGRAFTS IN VIVO AND DECREASED INTRATUMORAL TESTOSTERONE. BASED ON THESE FINDINGS, THE OVERALL HYPOTHESIS IS THAT CONCURRENT INHIBITION OF AR/AR VARIANTS AND AKR1C3 USING NOVEL LX DUAL INHIBITOR SUPPRESSES CRPC TUMOR GROWTH, OVERCOMES RESISTANCE AND IMPROVES TREATMENT RESPONSE TO ENZALUTAMIDE/ABIRATERONE. THIS PROJECT IS TO FURTHER CHARACTERIZE LX BY UNDERSTANDING ITS MECHANISM OF ACTION (MOA), DETERMINING ITS EFFICACY, PHARMACOKINETICS AND TOXICITY, AND TO DETERMINE THEIR EFFECTS ON THE SENSITIVITY TO ANTI-ANDROGEN THERAPY WITH THE GOAL TO TRANSLATE TO FUTURE CLINICAL DEVELOPMENT TO TREAT ADVANCED PCA. WE HOPE THAT COMPLETION OF THE PROPOSED STUDIES WILL LEAD TO THE DEVELOPMENT OF A NEW CLASS OF THERAPEUTIC AGENTS THAT TARGET BOTH INTRACRINE ANDROGEN SYNTHESIS AND THE AR SIGNALING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-04-01",
+    "End Date": "2027-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA271327_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91154869,
+    "generated_unique_award_id": "ASST_NON_R01CA271327_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NOVEL THERAPEUTICS DUAL TARGETING INTRACRINE ANDROGEN SYNTHESIS AND AR FOR ADVANCED PROSTATE CANCER - ABSTRACT CONTINUED EXPRESSION OF ANDROGEN RECEPTOR (AR) AND ITS VARIANTS, SUCH AS AR-V7, DESPITE AR TARGETED THERAPY CONTRIBUTES TO TREATMENT RESISTANCE AND CANCER PROGRESSION IN ADVANCED CRPC PATIENTS. THIS HIGHLIGHTS THE NEED FOR NEW STRATEGIES TO BLOCK CONTINUED AR SIGNALING. ALDO-KETO REDUCTASE FAMILY 1 MEMBER C3 (AKR1C3) IS ONE OF THE MOST IMPORTANT GENES INVOLVED IN ANDROGEN SYNTHESIS AND METABOLISM. ACTIVITY OF THIS ENZYME CANNOT BE INHIBITED BY ABIRATERONE. BOTH AR/AR-V7 AND AKR1C3 PLAY KEY ROLES IN CANCER PROGRESSION AND DRIVING RESISTANCE TO CURRENT THERAPIES. THEREFORE, INHIBITION OF BOTH AR/AR-V7 AND AKR1C3 WOULD BE AN IDEAL STRATEGY FOR TREATING ADVANCED PROSTATE CANCER (PCA). WE HAVE DESIGNED A NOVEL STRATEGY TO SIMULTANEOUSLY TARGET THE AR/AR-V7 AND AKR1C3 PATHWAYS. WE DESIGNED AND SYNTHESIZED A LIBRARY OF NOVEL DUAL AKR1C3/AR/AR-VARIANT INHIBITORS, CALLED LX, ACCORDING TO STRUCTURE-BASED COMPUTER MODELING. OF THE LX COMPOUNDS, LX-1 HAD THE GREATEST EFFECT AT REDUCING CELL NUMBER, AR/AR VARIANT EXPRESSION, AND AKR1C3 ACTIVITY. RNA-SEQ ANALYSIS DEMONSTRATED A ROBUST REDUCTION IN EXPRESSION OF AR AND AR-V7 SIGNALING GENES BY THE SELECTED LX. LX-1 INHIBITED CONVERSION OF THE TESTOSTERONE PRECURSOR ANDROSTENEDIONE INTO TESTOSTERONE IN TUMOR CELLS WHICH EXPRESS HIGH LEVELS OF AKR1C3 IN A DOSE-DEPENDENT MANNER EX VIVO. FURTHERMORE, TREATMENT WITH LX-1 REDUCED TUMOR GROWTH IN VCAP AND LUCAP35CR PDX XENOGRAFTS IN VIVO AND DECREASED INTRATUMORAL TESTOSTERONE. BASED ON THESE FINDINGS, THE OVERALL HYPOTHESIS IS THAT CONCURRENT INHIBITION OF AR/AR VARIANTS AND AKR1C3 USING NOVEL LX DUAL INHIBITOR SUPPRESSES CRPC TUMOR GROWTH, OVERCOMES RESISTANCE AND IMPROVES TREATMENT RESPONSE TO ENZALUTAMIDE/ABIRATERONE. THIS PROJECT IS TO FURTHER CHARACTERIZE LX BY UNDERSTANDING ITS MECHANISM OF ACTION (MOA), DETERMINING ITS EFFICACY, PHARMACOKINETICS AND TOXICITY, AND TO DETERMINE THEIR EFFECTS ON THE SENSITIVITY TO ANTI-ANDROGEN THERAPY WITH THE GOAL TO TRANSLATE TO FUTURE CLINICAL DEVELOPMENT TO TREAT ADVANCED PCA. WE HOPE THAT COMPLETION OF THE PROPOSED STUDIES WILL LEAD TO THE DEVELOPMENT OF A NEW CLASS OF THERAPEUTIC AGENTS THAT TARGET BOTH INTRACRINE ANDROGEN SYNTHESIS AND THE AR SIGNALING.",
+    "total_obligation": 2339824,
+    "subaward_count": 1,
+    "total_subaward_amount": 286143,
+    "date_signed": "2022-02-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1416906.66,
+    "total_account_obligation": 2339824,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1416906.66
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2339824
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-04-01",
+      "end_date": "2027-03-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1416906.66
+  }
+}

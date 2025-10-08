@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56973767,
+    "Award ID": "2231251",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 905224,
+    "Total Outlays": 905224,
+    "Description": "AI INSTITUTES LEADERSHIP SUMMIT AND DEVELOPMENT OF A VIRTUAL ORGANIZATION -IN THIS PROJECT, UC DAVIS AND DUKE UNIVERSITY ORGANIZING A SERIES OF ANNUAL LEADERSHIP SUMMITS AND CONSTRUCTING A VIRTUAL ORGANIZATION. THESE MUTUALLY SUPPORTING ACTIVITIES SUPPORT THE NATIONAL ARTIFICIAL INTELLIGENCE (AI) RESEARCH INSTITUTES PROGRAM AND ITS FUNDING AGENCIES BY FACILITATING COORDINATION, COLLABORATION, AND COMMUNITY-BUILDING ACROSS ACADEMIA, GOVERNMENT, AND INDUSTRY. THE MEETINGS AND SUPPORTING ORGANIZATION AIM TO BROADEN THE AI RESEARCH COMMUNITY INTO A RICHLY CONNECTED NETWORK OF INSTITUTES AND COLLABORATORS. THESE EFFORTS SERVE THE COMMUNITY OF RESEARCHERS FUNDED BY THE AI INSTITUTES PROGRAM BY ESTABLISHING A COLLECTION POINT AND COLLABORATION PLATFORM ENABLING SHARING OF RESOURCES, PROGRAMS, EXPERTISE, AND BEST PRACTICES. THE PROJECT ALSO SEEKS TO ENHANCE COORDINATION AND DISSEMINATION BETWEEN AI INSTITUTES AND THE BROADER PUBLIC BY MAKING THE AI INSTITUTES PROGRAMS AND PERSONNEL MORE ACCESSIBLE, DISSEMINATING INSTITUTE OUTCOMES, AND PROMOTION OF AI INSTITUTE ACTIVITIES OF INTEREST TO THE BROADER COMMUNITY. THE COMBINED EFFECT OF LEADERSHIP SUMMITS AND A PUBLIC-FACING VIRTUAL ORGANIZATION WILL CONNECT MANY RESEARCHERS ACROSS A LARGE AND FAR REACHING MULTISECTOR NATIONAL STRATEGIC AI INITIATIVE. THESE ACTIVITIES ARE CENTRAL TO ACHIEVING AND TRANSITIONING AI INNOVATIONS AND CREATING A FUTURE AI-READY WORKFORCE BEYOND THE CONFINES OF INDIVIDUAL INSTITUTE EFFORTS AND CONTRIBUTE SIGNIFICANTLY TO U.S. LEADERSHIP IN AI. LEADERSHIP SUMMITS ARE IN THE STYLE OF A PI MEETING, BUT MORE APTLY NAMED TO INCLUDE INSTITUTE KEY PERSONNEL MORE BROADLY. THESE MEETINGS AND THE LONGER TERM COORDINATION AND COLLABORATION AMONG AI INSTITUTES AND THE BROADER COMMUNITY ARE TO BE ENABLED BY THE ESTABLISHMENT OF A COLLABORATIVE CONTENT MANAGEMENT SYSTEM FOR THE SHARING AND DISSEMINATION OF CONTENT AND A PUBLIC-FACING WEB PORTAL FOR ACCESS AND BROADER ENGAGEMENT. ALL AI INSTITUTES SHARE THE OVERARCHING GOALS TO ADVANCE RESEARCH IN AI, NURTURE THE NEXT GENERATION OF TALENT, AND SERVE AS NEXUS POINTS FOR COLLABORATIVE EFFORTS. THE ANNUAL MEETINGS OF KEY PERSONNEL AND THE ENDURING VIRTUAL ORGANIZATION ARE AIMED AT CREATING EFFECTIVE AND LASTING COLLABORATIVE CONNECTIONS. INITIAL DEVELOPMENT OF THE VIRTUAL ORGANIZATION AND ITS SUPPORTING PORTAL FOCUSES ON CONTENT THAT INFORMS THE PUBLIC AND DIRECTS INTERESTED COLLABORATORS TO THE RIGHT INSTITUTE PERSONNEL, PROMOTES INSTITUTE ACTIVITIES, OUTCOMES, AND EVENTS, AND DISSEMINATES RESOURCES AND OPPORTUNITIES ARISING FROM THE INSTITUTES. ANNUAL LEADERSHIP SUMMITS PROVIDE THE IDEAL OPPORTUNITY FOR CONTINUOUS EVALUATION AND ENHANCEMENT OF THESE COMMUNITY BUILDING EFFORTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-07-01",
+    "End Date": "2024-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2231251_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56973767,
+    "generated_unique_award_id": "ASST_NON_2231251_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AI INSTITUTES LEADERSHIP SUMMIT AND DEVELOPMENT OF A VIRTUAL ORGANIZATION -IN THIS PROJECT, UC DAVIS AND DUKE UNIVERSITY ORGANIZING A SERIES OF ANNUAL LEADERSHIP SUMMITS AND CONSTRUCTING A VIRTUAL ORGANIZATION. THESE MUTUALLY SUPPORTING ACTIVITIES SUPPORT THE NATIONAL ARTIFICIAL INTELLIGENCE (AI) RESEARCH INSTITUTES PROGRAM AND ITS FUNDING AGENCIES BY FACILITATING COORDINATION, COLLABORATION, AND COMMUNITY-BUILDING ACROSS ACADEMIA, GOVERNMENT, AND INDUSTRY. THE MEETINGS AND SUPPORTING ORGANIZATION AIM TO BROADEN THE AI RESEARCH COMMUNITY INTO A RICHLY CONNECTED NETWORK OF INSTITUTES AND COLLABORATORS. THESE EFFORTS SERVE THE COMMUNITY OF RESEARCHERS FUNDED BY THE AI INSTITUTES PROGRAM BY ESTABLISHING A COLLECTION POINT AND COLLABORATION PLATFORM ENABLING SHARING OF RESOURCES, PROGRAMS, EXPERTISE, AND BEST PRACTICES. THE PROJECT ALSO SEEKS TO ENHANCE COORDINATION AND DISSEMINATION BETWEEN AI INSTITUTES AND THE BROADER PUBLIC BY MAKING THE AI INSTITUTES PROGRAMS AND PERSONNEL MORE ACCESSIBLE, DISSEMINATING INSTITUTE OUTCOMES, AND PROMOTION OF AI INSTITUTE ACTIVITIES OF INTEREST TO THE BROADER COMMUNITY. THE COMBINED EFFECT OF LEADERSHIP SUMMITS AND A PUBLIC-FACING VIRTUAL ORGANIZATION WILL CONNECT MANY RESEARCHERS ACROSS A LARGE AND FAR REACHING MULTISECTOR NATIONAL STRATEGIC AI INITIATIVE. THESE ACTIVITIES ARE CENTRAL TO ACHIEVING AND TRANSITIONING AI INNOVATIONS AND CREATING A FUTURE AI-READY WORKFORCE BEYOND THE CONFINES OF INDIVIDUAL INSTITUTE EFFORTS AND CONTRIBUTE SIGNIFICANTLY TO U.S. LEADERSHIP IN AI. LEADERSHIP SUMMITS ARE IN THE STYLE OF A PI MEETING, BUT MORE APTLY NAMED TO INCLUDE INSTITUTE KEY PERSONNEL MORE BROADLY. THESE MEETINGS AND THE LONGER TERM COORDINATION AND COLLABORATION AMONG AI INSTITUTES AND THE BROADER COMMUNITY ARE TO BE ENABLED BY THE ESTABLISHMENT OF A COLLABORATIVE CONTENT MANAGEMENT SYSTEM FOR THE SHARING AND DISSEMINATION OF CONTENT AND A PUBLIC-FACING WEB PORTAL FOR ACCESS AND BROADER ENGAGEMENT. ALL AI INSTITUTES SHARE THE OVERARCHING GOALS TO ADVANCE RESEARCH IN AI, NURTURE THE NEXT GENERATION OF TALENT, AND SERVE AS NEXUS POINTS FOR COLLABORATIVE EFFORTS. THE ANNUAL MEETINGS OF KEY PERSONNEL AND THE ENDURING VIRTUAL ORGANIZATION ARE AIMED AT CREATING EFFECTIVE AND LASTING COLLABORATIVE CONNECTIONS. INITIAL DEVELOPMENT OF THE VIRTUAL ORGANIZATION AND ITS SUPPORTING PORTAL FOCUSES ON CONTENT THAT INFORMS THE PUBLIC AND DIRECTS INTERESTED COLLABORATORS TO THE RIGHT INSTITUTE PERSONNEL, PROMOTES INSTITUTE ACTIVITIES, OUTCOMES, AND EVENTS, AND DISSEMINATES RESOURCES AND OPPORTUNITIES ARISING FROM THE INSTITUTES. ANNUAL LEADERSHIP SUMMITS PROVIDE THE IDEAL OPPORTUNITY FOR CONTINUOUS EVALUATION AND ENHANCEMENT OF THESE COMMUNITY BUILDING EFFORTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 905224,
+    "subaward_count": 2,
+    "total_subaward_amount": 212573,
+    "date_signed": "2022-06-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 905224,
+    "total_account_obligation": 905224,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 905224
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 905224
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INFOR  INTELLIGENT SYSTEMS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INFOR  INTELLIGENT SYSTEMS"
+    },
+    "period_of_performance": {
+      "start_date": "2022-07-01",
+      "end_date": "2024-06-30",
+      "last_modified_date": "2022-07-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 905224
+  }
+}

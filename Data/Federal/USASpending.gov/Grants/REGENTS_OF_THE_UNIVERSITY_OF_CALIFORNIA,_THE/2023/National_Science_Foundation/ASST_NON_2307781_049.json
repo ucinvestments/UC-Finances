@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57173347,
+    "Award ID": "2307781",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 1194180,
+    "Total Outlays": 0,
+    "Description": "CASPER: DIGITAL INSTRUMENTATION FOR RADIO ASTRONOMY -THE COLLABORATION FOR ASTRONOMY SIGNAL PROCESSING AND ELECTRONICS RESEARCH (CASPER) IS AN INTERNATIONAL COMMUNITY OF ASTRONOMERS, PHYSICISTS, ENGINEERS, AND COMPUTER SCIENTISTS. THE COLLABORATION DEVELOPS AND MAINTAINS A COLLECTION OF TOOLS PRIMARILY USED FOR RADIO ASTRONOMY RESEARCH. THIS INCLUDES OPEN-SOURCE HARDWARE, SOFTWARE, LIBRARIES, AND INSTRUMENT DESIGNS. THESE TOOLS CAN BE USED AS TEMPLATES TO ENABLE RESEARCHERS TO CREATE THE INSTRUMENTS THEY NEED TO ACHIEVE THEIR SCIENCE GOALS IN A COST EFFECTIVE AND TIMELY MANNER. CASPER HARDWARE AND SOFTWARE IS USED IN OVER 100 INSTRUMENTS AT ASTRONOMY OBSERVATORIES AROUND THE WORLD. INSTRUMENTS INCLUDE EVERYTHING FROM SMALL EXPERIMENTS IN UNDERGRADUATE TEACHING LABS TO LARGE, ADVANCED TELESCOPE FACILITIES. CASPER TOOLS WERE USED, FOR EXAMPLE, AS PART OF THE EVENT HORIZON TELESCOPE THAT PRODUCED THE FIRST IMAGES OF THE BLACK HOLE AT THE CENTER OF OUR GALAXY. THEY CAN ALSO BE USED TO DRIVE ADVANCES IN BRAIN RESEARCH, GENOMICS, RADAR APPLICATIONS, AND NEUTRON AND MAGNETIC FIELD IMAGING. CASPER RESEARCH HAS POSITIVELY IMPACTED THE COST AND TIME SCALE FOR DEVELOPMENT OF RADIO ASTRONOMY SIGNAL PROCESSING INSTRUMENTATION. THIS PROJECT WILL LEVERAGE THE PAST WORK OF THE CASPER COMMUNITY, IN TANDEM WITH CURRENT DEVELOPMENTS IN THE SUPER-COMPUTING INDUSTRY, TO PROVIDE THE INFRASTRUCTURE TO COST EFFECTIVELY BUILD THE NEXT GENERATION OF ASTRONOMICAL INSTRUMENTATION. THIS INCLUDES NEW WIDE-BAND SPECTROMETERS AND TRANSIENT-DETECTION MACHINES, CORRELATORS FOR LARGE ANTENNA ARRAYS, AND MILLIMETER WAVE CAMERAS. THE LOW COST-OF-ENTRY ASSOCIATED WITH BUILDING INSTRUMENTS WITH CASPER TECHNOLOGIES HAS ALLOWED MANY STUDENTS AND EARLY CAREER SCIENTISTS TO GAIN INSTRUMENT DESIGN EXPERIENCE USING THE SAME EQUIPMENT AND TOOLS THAT ARE DEPLOYED AT OBSERVATORIES. THE NEW RESEARCH TO BE UNDERTAKEN IN THIS PROJECT WILL ASSIST IN INSTRUMENT DESIGNS FOR OBSERVATORIES AND RESEARCH GROUPS TO ENABLE SPECTRAL IMAGING (CORRELATION), BEAMFORMING, RFI MITIGATION, PULSAR SEARCHING AND TIMING, FAST RADIO BURST SEARCHING, SETI, VLBI, AND WIDEBAND HIGH-RESOLUTION SPECTROSCOPY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "1608 4TH ST STE 201",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1749",
+      "zip5": "94710"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94710-1749",
+      "zip5": "94710"
+    },
+    "def_codes": [
+      "AAB"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-09-01",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2307781_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57173347,
+    "generated_unique_award_id": "ASST_NON_2307781_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CASPER: DIGITAL INSTRUMENTATION FOR RADIO ASTRONOMY -THE COLLABORATION FOR ASTRONOMY SIGNAL PROCESSING AND ELECTRONICS RESEARCH (CASPER) IS AN INTERNATIONAL COMMUNITY OF ASTRONOMERS, PHYSICISTS, ENGINEERS, AND COMPUTER SCIENTISTS. THE COLLABORATION DEVELOPS AND MAINTAINS A COLLECTION OF TOOLS PRIMARILY USED FOR RADIO ASTRONOMY RESEARCH. THIS INCLUDES OPEN-SOURCE HARDWARE, SOFTWARE, LIBRARIES, AND INSTRUMENT DESIGNS. THESE TOOLS CAN BE USED AS TEMPLATES TO ENABLE RESEARCHERS TO CREATE THE INSTRUMENTS THEY NEED TO ACHIEVE THEIR SCIENCE GOALS IN A COST EFFECTIVE AND TIMELY MANNER. CASPER HARDWARE AND SOFTWARE IS USED IN OVER 100 INSTRUMENTS AT ASTRONOMY OBSERVATORIES AROUND THE WORLD. INSTRUMENTS INCLUDE EVERYTHING FROM SMALL EXPERIMENTS IN UNDERGRADUATE TEACHING LABS TO LARGE, ADVANCED TELESCOPE FACILITIES. CASPER TOOLS WERE USED, FOR EXAMPLE, AS PART OF THE EVENT HORIZON TELESCOPE THAT PRODUCED THE FIRST IMAGES OF THE BLACK HOLE AT THE CENTER OF OUR GALAXY. THEY CAN ALSO BE USED TO DRIVE ADVANCES IN BRAIN RESEARCH, GENOMICS, RADAR APPLICATIONS, AND NEUTRON AND MAGNETIC FIELD IMAGING. CASPER RESEARCH HAS POSITIVELY IMPACTED THE COST AND TIME SCALE FOR DEVELOPMENT OF RADIO ASTRONOMY SIGNAL PROCESSING INSTRUMENTATION. THIS PROJECT WILL LEVERAGE THE PAST WORK OF THE CASPER COMMUNITY, IN TANDEM WITH CURRENT DEVELOPMENTS IN THE SUPER-COMPUTING INDUSTRY, TO PROVIDE THE INFRASTRUCTURE TO COST EFFECTIVELY BUILD THE NEXT GENERATION OF ASTRONOMICAL INSTRUMENTATION. THIS INCLUDES NEW WIDE-BAND SPECTROMETERS AND TRANSIENT-DETECTION MACHINES, CORRELATORS FOR LARGE ANTENNA ARRAYS, AND MILLIMETER WAVE CAMERAS. THE LOW COST-OF-ENTRY ASSOCIATED WITH BUILDING INSTRUMENTS WITH CASPER TECHNOLOGIES HAS ALLOWED MANY STUDENTS AND EARLY CAREER SCIENTISTS TO GAIN INSTRUMENT DESIGN EXPERIENCE USING THE SAME EQUIPMENT AND TOOLS THAT ARE DEPLOYED AT OBSERVATORIES. THE NEW RESEARCH TO BE UNDERTAKEN IN THIS PROJECT WILL ASSIST IN INSTRUMENT DESIGNS FOR OBSERVATORIES AND RESEARCH GROUPS TO ENABLE SPECTRAL IMAGING (CORRELATION), BEAMFORMING, RFI MITIGATION, PULSAR SEARCHING AND TIMING, FAST RADIO BURST SEARCHING, SETI, VLBI, AND WIDEBAND HIGH-RESOLUTION SPECTROSCOPY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 1194180,
+    "subaward_count": 2,
+    "total_subaward_amount": 122963,
+    "date_signed": "2023-06-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 1194180,
+    "account_outlays_by_defc": [
+      {
+        "code": "AAB",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "AAB",
+        "amount": 1194180
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ASTRONOMICAL SCIENCES"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ASTRONOMICAL SCIENCES"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2023-07-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1608 4TH ST STE 201",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "1749",
+        "zip5": "94710",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "1749",
+      "zip5": "94710",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

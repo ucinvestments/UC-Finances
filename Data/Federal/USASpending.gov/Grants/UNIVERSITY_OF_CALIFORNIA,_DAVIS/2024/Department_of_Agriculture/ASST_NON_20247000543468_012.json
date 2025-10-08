@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56342494,
+    "Award ID": "20247000543468",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 936019,
+    "Total Outlays": 12227.97,
+    "Description": "THE CONTINUED IMPROVEMENT OF ALFALFA REQUIRES BROAD GENETIC VARIATION. GENEBANKS, SUCH AS THE USDA ARS NATIONAL PLANT GERMPLASM SYSTEM (NPGS), CONTAIN THOUSANDS OF ACCESSIONS OF ALFALFA GERMPLASM THAT COULD CONTAIN DESIRABLE ALLELES NOT PRESENT IN COMMERCIAL BREEDING PROGRAMS. OUR PROJECT IS A LONG-TERM ENDEAVOR TO CONCENTRATE DESIRABLE GENETIC DIVERSITY FROM THE NPGS COLLECTION INTO A SMALL NUMBER OF REGIONALLY-ADAPTED GERMPLASM POOLS FOR INCORPORATION INTO MODERN ALFALFA BREEDING PROGRAMS. OUR TEAM INCLUDES ALFALFA BREEDERS, GENETICISTS, AND CURATORS FROM THROUGHOUT THE NORTHERN UNITED STATES (NY, WI, WA, AND CA) AND HAS PREVIOUSLY DEVELOPED OVER 30 GERMPLASM POPULATIONS AS PART OF THIS PROJECT. THE GOALS OF THIS PROPOSAL ARE TO (1) CHARACTERIZE THE GENETIC DIVERSITY OF 1,000 GERMPLASM ACCESSIONS AND MAP GENES USING EXISTING DATA; (2) PHENOTYPICALLY EVALUATE UNIQUE AND PREVIOUSLY UNUSED ACCESSIONS AND PREVIOUSLY CREATED GERMPLASM POPULATIONS IN MULTI-LOCATION TRIALS UNDER DIFFERENT MANAGEMENTS, (3) RELEASE AT LEAST EIGHT GERMPLASM POOL POPULATIONS, AND (4) CONDUCT OUTREACH ACTIVITIES INCLUDING WITH PRIVATE SECTOR BREEDERS REGARDING THE VALUE OF THIS GERMPLASM. WE WILL USE GENETIC ALFALFA-SPECIFIC SNP MARKERS (DART) DEVELOPED BY THE CORNELL-BASED AND USDA ARS-SUPPORTED BREEDING INSIGHT PROGRAM IN ALL OUR ANALYSES. THESE POOLS WILL PROVIDE UNIQUE GENETIC VARIATION FOR FUTURE BREEDING IN THE NORTHERN US. RESULTS OF OUR PROJECT WILL BE EXTENDED TO SEED COMPANIES, PRODUCERS, AND CROP CONSULTANTS THROUGH FIELD DAYS, EXTENSION BULLETINS, SOCIAL MEDIA, AND WEBSITES. THIS PROJECT ADDRESSES ASAFS PROGRAM AREA 1. INCREASE ALFALFA FORAGE AND SEED YIELDS AND FORAGE QUALITY THROUGH PLANT BREEDING TO REDUCE BIOTIC AND ABIOTIC STRESSES.@FONT-FACE{PANOSE-1:2 4 5 3 5 4 6 3 2 4;MSO-FONT-CHARSET:0;MSO-GENERIC-MSO-FONT-PITCH:VARIABLE;MSO-FONT-SIGNATURE:-536870145 1107305727 0 0 415 0;}P.MSONORMAL, LI.MSONORMAL, DIV.MSONORMAL{MSO-STYLE-UNHIDE:NO;MSO-STYLE-QFORMAT:YES;MSO-STYLE-PARENT:;MARGIN:0IN;MSO-PAGINATION:WIDOW-ORPHAN;;MSO-FAREAST-MSO-FAREAST-LANGUAGE:EN-US;}P.DEFAULT, LI.DEFAULT, DIV.DEFAULT{MSO-STYLE-NAME:DEFAULT;MSO-STYLE-UNHIDE:NO;MSO-STYLE-PARENT:;MARGIN:0IN;MSO-PAGINATION:NONE;MSO-LAYOUT-GRID-ALIGN:NONE;TEXT-AUTOSPACE:NONE;;MSO-FAREAST-MSO-FAREAST-LANGUAGE:EN-US;}.MSOCHPDEFAULT{MSO-STYLE-TYPE:EXPORT-ONLY;MSO-DEFAULT-PROPS:YES;;MSO-ANSI-;MSO-BIDI-;MSO-FONT-KERNING:0PT;MSO-LIGATURES:NONE;}DIV.WORDSECTION1{PAGE:WORDSECTION1;}",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2024-09-30",
+    "End Date": "2027-09-29",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20247000543468_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56342494,
+    "generated_unique_award_id": "ASST_NON_20247000543468_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE CONTINUED IMPROVEMENT OF ALFALFA REQUIRES BROAD GENETIC VARIATION. GENEBANKS, SUCH AS THE USDA ARS NATIONAL PLANT GERMPLASM SYSTEM (NPGS), CONTAIN THOUSANDS OF ACCESSIONS OF ALFALFA GERMPLASM THAT COULD CONTAIN DESIRABLE ALLELES NOT PRESENT IN COMMERCIAL BREEDING PROGRAMS. OUR PROJECT IS A LONG-TERM ENDEAVOR TO CONCENTRATE DESIRABLE GENETIC DIVERSITY FROM THE NPGS COLLECTION INTO A SMALL NUMBER OF REGIONALLY-ADAPTED GERMPLASM POOLS FOR INCORPORATION INTO MODERN ALFALFA BREEDING PROGRAMS. OUR TEAM INCLUDES ALFALFA BREEDERS, GENETICISTS, AND CURATORS FROM THROUGHOUT THE NORTHERN UNITED STATES (NY, WI, WA, AND CA) AND HAS PREVIOUSLY DEVELOPED OVER 30 GERMPLASM POPULATIONS AS PART OF THIS PROJECT. THE GOALS OF THIS PROPOSAL ARE TO (1) CHARACTERIZE THE GENETIC DIVERSITY OF 1,000 GERMPLASM ACCESSIONS AND MAP GENES USING EXISTING DATA; (2) PHENOTYPICALLY EVALUATE UNIQUE AND PREVIOUSLY UNUSED ACCESSIONS AND PREVIOUSLY CREATED GERMPLASM POPULATIONS IN MULTI-LOCATION TRIALS UNDER DIFFERENT MANAGEMENTS, (3) RELEASE AT LEAST EIGHT GERMPLASM POOL POPULATIONS, AND (4) CONDUCT OUTREACH ACTIVITIES INCLUDING WITH PRIVATE SECTOR BREEDERS REGARDING THE VALUE OF THIS GERMPLASM. WE WILL USE GENETIC ALFALFA-SPECIFIC SNP MARKERS (DART) DEVELOPED BY THE CORNELL-BASED AND USDA ARS-SUPPORTED BREEDING INSIGHT PROGRAM IN ALL OUR ANALYSES. THESE POOLS WILL PROVIDE UNIQUE GENETIC VARIATION FOR FUTURE BREEDING IN THE NORTHERN US. RESULTS OF OUR PROJECT WILL BE EXTENDED TO SEED COMPANIES, PRODUCERS, AND CROP CONSULTANTS THROUGH FIELD DAYS, EXTENSION BULLETINS, SOCIAL MEDIA, AND WEBSITES. THIS PROJECT ADDRESSES ASAFS PROGRAM AREA 1. INCREASE ALFALFA FORAGE AND SEED YIELDS AND FORAGE QUALITY THROUGH PLANT BREEDING TO REDUCE BIOTIC AND ABIOTIC STRESSES.@FONT-FACE{PANOSE-1:2 4 5 3 5 4 6 3 2 4;MSO-FONT-CHARSET:0;MSO-GENERIC-MSO-FONT-PITCH:VARIABLE;MSO-FONT-SIGNATURE:-536870145 1107305727 0 0 415 0;}P.MSONORMAL, LI.MSONORMAL, DIV.MSONORMAL{MSO-STYLE-UNHIDE:NO;MSO-STYLE-QFORMAT:YES;MSO-STYLE-PARENT:;MARGIN:0IN;MSO-PAGINATION:WIDOW-ORPHAN;;MSO-FAREAST-MSO-FAREAST-LANGUAGE:EN-US;}P.DEFAULT, LI.DEFAULT, DIV.DEFAULT{MSO-STYLE-NAME:DEFAULT;MSO-STYLE-UNHIDE:NO;MSO-STYLE-PARENT:;MARGIN:0IN;MSO-PAGINATION:NONE;MSO-LAYOUT-GRID-ALIGN:NONE;TEXT-AUTOSPACE:NONE;;MSO-FAREAST-MSO-FAREAST-LANGUAGE:EN-US;}.MSOCHPDEFAULT{MSO-STYLE-TYPE:EXPORT-ONLY;MSO-DEFAULT-PROPS:YES;;MSO-ANSI-;MSO-BIDI-;MSO-FONT-KERNING:0PT;MSO-LIGATURES:NONE;}DIV.WORDSECTION1{PAGE:WORDSECTION1;}",
+    "total_obligation": 936019,
+    "subaward_count": 1,
+    "total_subaward_amount": 63589,
+    "date_signed": "2024-08-05",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 66581.86,
+    "total_account_obligation": 936019,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 66581.86
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 936019
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-30",
+      "end_date": "2027-09-29",
+      "last_modified_date": "2024-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 66581.86
+  }
+}

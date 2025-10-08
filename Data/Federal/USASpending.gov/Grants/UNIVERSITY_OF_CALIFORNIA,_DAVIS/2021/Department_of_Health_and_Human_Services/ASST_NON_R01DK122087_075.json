@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91174571,
+    "Award ID": "R01DK122087",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3616179,
+    "Total Outlays": 2371241.65,
+    "Description": "OPTIMIZING A SCALABLE INTERVENTION TO MAXIMIZE GUIDELINE-RECOMMENDED DIABETES TESTING AFTER GDM - ABSTRACT GESTATIONAL DIABETES MELLITUS (GDM) IS A COMMON COMPLICATION THAT IS ROUTINELY DETECTED AS PART OF STANDARD PRENATAL CARE. AFTER DELIVERY, WOMEN WITH GDM ARE 7 TIMES MORE LIKELY TO DEVELOP TYPE 2 DIABETES THAN THOSE WITHOUT GDM. NATIONAL CLINICAL GUIDELINES THUS URGE COMPLETION OF A 75-GRAM, 2-HOUR ORAL GLUCOSE TOLERANCE TEST (OGTT), GIVEN ITS SUPERIOR SENSITIVITY TO DETECT DIABETES, BY 12 WEEKS POSTPARTUM. CLINICAL GUIDELINES ALSO ADVISE PARTICIPATION IN AN EVIDENCE-BASED LIFESTYLE PROGRAM FOR DIABETES PREVENTION. YET UPTAKE OF THIS RECOMMENDED CARE REMAINS LOW, AND EVIDENCE FROM RANDOMIZED TRIALS ON INTERVENTIONS TO INCREASE UPTAKE REMAINS SCARCE. HERE, WE PROPOSE TO TEST A NOVEL, MULTI-COMPONENT OUTREACH INTERVENTION THAT EXPLICITLY TARGETS AS-YET NEGLECTED, PATIENT-LEVEL MOTIVATIONAL AND LOGISTICAL BARRIERS TO ENGAGING IN PREVENTIVE CARE DURING THE DEMANDING POSTPARTUM PERIOD. WE WILL LEVERAGE THE MULTIPHASE OPTIMIZATION STRATEGY (MOST) TO IDENTIFY, IN A RANDOMIZED FACTORIAL TRIAL, WHICH OF FOUR THEORY-DRIVEN COMPONENTS INCREASE ACTUAL COMPLETION OF POSTPARTUM SCREENING AND ENROLLMENT IN LIFESTYLE PROGRAMS FOR DIABETES PREVENTION: 1) A STREAMLINED VALUES AFFIRMATION, 2) PERSONALIZED INFORMATION ABOUT DIABETES RISK, 3) AN INTERACTIVE MOTIVATIONAL INTERVIEWING-BASED MODULE, AND 4) AN INTERACTIVE ACTION PLANNING MODULE. EACH COMPONENT IS DESIGNED TO BE SELF-DIRECTED AND DELIVERED SECURELY ONLINE VIA EXISTING INFRASTRUCTURE IN A HEALTH SYSTEM SETTING, INCREASING ITS FUTURE POTENTIAL FOR LARGE-SCALE REACH. IN A RACIALLY AND ETHNICALLY DIVERSE SAMPLE OF WOMEN WITH GDM WITHIN THE KAISER PERMANENTE NORTHERN CALIFORNIA (KPNC) HEALTH SYSTEM, OUR SPECIFIC AIMS ARE AS FOLLOWS. AIM 1: IDENTIFY WHICH OF FOUR COMPONENTS OF THE OUTREACH INTERVENTION INCREASE COMPLETION OF A) A 75-GRAM, 2-HOUR OGTT WITHIN 4-12 WEEKS POSTPARTUM, ALIGNED WITH NATIONAL CLINICAL GUIDELINES (PRIMARY OUTCOME), AND B) ANY POSTPARTUM DIABETES SCREENING TEST (OGTT, FASTING PLASMA GLUCOSE, OR HEMOGLOBIN A1C) BY 52 WEEKS POSTPARTUM (SECONDARY OUTCOME). AIM 2: IDENTIFY WHICH OF FOUR COMPONENTS OF THE OUTREACH INTERVENTION INCREASE ENROLLMENT IN A HEALTH SYSTEM- OR COMMUNITY-BASED LIFESTYLE PROGRAM FOR DIABETES PREVENTION BY 52 WEEKS POSTPARTUM (SECONDARY OUTCOME). AIM 3: DETERMINE WHETHER EACH INTERVENTION COMPONENT IMPACTS ITS TARGET MEDIATOR, AS PREDICTED BY ITS RESPECTIVE THEORY. WE WILL EFFICIENTLY AND OBJECTIVELY ASSESS SCREENING OUTCOMES VIA ELECTRONIC HEALTH RECORDS. RESULTS WILL YIELD AN OPTIMIZED INTERVENTION READY TO BE TESTED IN A FUTURE PRAGMATIC TRIAL TO ACCELERATE UPTAKE OF GUIDELINE- RECOMMENDED POSTPARTUM CARE FOR WOMEN WITH GDM, WITH THE LONG-TERM GOAL OF PREVENTING DIABETES IN A DIVERSE AND HIGH-RISK CLINICAL POPULATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172214",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-09-12",
+    "End Date": "2026-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DK122087_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91174571,
+    "generated_unique_award_id": "ASST_NON_R01DK122087_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "OPTIMIZING A SCALABLE INTERVENTION TO MAXIMIZE GUIDELINE-RECOMMENDED DIABETES TESTING AFTER GDM - ABSTRACT GESTATIONAL DIABETES MELLITUS (GDM) IS A COMMON COMPLICATION THAT IS ROUTINELY DETECTED AS PART OF STANDARD PRENATAL CARE. AFTER DELIVERY, WOMEN WITH GDM ARE 7 TIMES MORE LIKELY TO DEVELOP TYPE 2 DIABETES THAN THOSE WITHOUT GDM. NATIONAL CLINICAL GUIDELINES THUS URGE COMPLETION OF A 75-GRAM, 2-HOUR ORAL GLUCOSE TOLERANCE TEST (OGTT), GIVEN ITS SUPERIOR SENSITIVITY TO DETECT DIABETES, BY 12 WEEKS POSTPARTUM. CLINICAL GUIDELINES ALSO ADVISE PARTICIPATION IN AN EVIDENCE-BASED LIFESTYLE PROGRAM FOR DIABETES PREVENTION. YET UPTAKE OF THIS RECOMMENDED CARE REMAINS LOW, AND EVIDENCE FROM RANDOMIZED TRIALS ON INTERVENTIONS TO INCREASE UPTAKE REMAINS SCARCE. HERE, WE PROPOSE TO TEST A NOVEL, MULTI-COMPONENT OUTREACH INTERVENTION THAT EXPLICITLY TARGETS AS-YET NEGLECTED, PATIENT-LEVEL MOTIVATIONAL AND LOGISTICAL BARRIERS TO ENGAGING IN PREVENTIVE CARE DURING THE DEMANDING POSTPARTUM PERIOD. WE WILL LEVERAGE THE MULTIPHASE OPTIMIZATION STRATEGY (MOST) TO IDENTIFY, IN A RANDOMIZED FACTORIAL TRIAL, WHICH OF FOUR THEORY-DRIVEN COMPONENTS INCREASE ACTUAL COMPLETION OF POSTPARTUM SCREENING AND ENROLLMENT IN LIFESTYLE PROGRAMS FOR DIABETES PREVENTION: 1) A STREAMLINED VALUES AFFIRMATION, 2) PERSONALIZED INFORMATION ABOUT DIABETES RISK, 3) AN INTERACTIVE MOTIVATIONAL INTERVIEWING-BASED MODULE, AND 4) AN INTERACTIVE ACTION PLANNING MODULE. EACH COMPONENT IS DESIGNED TO BE SELF-DIRECTED AND DELIVERED SECURELY ONLINE VIA EXISTING INFRASTRUCTURE IN A HEALTH SYSTEM SETTING, INCREASING ITS FUTURE POTENTIAL FOR LARGE-SCALE REACH. IN A RACIALLY AND ETHNICALLY DIVERSE SAMPLE OF WOMEN WITH GDM WITHIN THE KAISER PERMANENTE NORTHERN CALIFORNIA (KPNC) HEALTH SYSTEM, OUR SPECIFIC AIMS ARE AS FOLLOWS. AIM 1: IDENTIFY WHICH OF FOUR COMPONENTS OF THE OUTREACH INTERVENTION INCREASE COMPLETION OF A) A 75-GRAM, 2-HOUR OGTT WITHIN 4-12 WEEKS POSTPARTUM, ALIGNED WITH NATIONAL CLINICAL GUIDELINES (PRIMARY OUTCOME), AND B) ANY POSTPARTUM DIABETES SCREENING TEST (OGTT, FASTING PLASMA GLUCOSE, OR HEMOGLOBIN A1C) BY 52 WEEKS POSTPARTUM (SECONDARY OUTCOME). AIM 2: IDENTIFY WHICH OF FOUR COMPONENTS OF THE OUTREACH INTERVENTION INCREASE ENROLLMENT IN A HEALTH SYSTEM- OR COMMUNITY-BASED LIFESTYLE PROGRAM FOR DIABETES PREVENTION BY 52 WEEKS POSTPARTUM (SECONDARY OUTCOME). AIM 3: DETERMINE WHETHER EACH INTERVENTION COMPONENT IMPACTS ITS TARGET MEDIATOR, AS PREDICTED BY ITS RESPECTIVE THEORY. WE WILL EFFICIENTLY AND OBJECTIVELY ASSESS SCREENING OUTCOMES VIA ELECTRONIC HEALTH RECORDS. RESULTS WILL YIELD AN OPTIMIZED INTERVENTION READY TO BE TESTED IN A FUTURE PRAGMATIC TRIAL TO ACCELERATE UPTAKE OF GUIDELINE- RECOMMENDED POSTPARTUM CARE FOR WOMEN WITH GDM, WITH THE LONG-TERM GOAL OF PREVENTING DIABETES IN A DIVERSE AND HIGH-RISK CLINICAL POPULATION.",
+    "total_obligation": 3616179,
+    "subaward_count": 8,
+    "total_subaward_amount": 2285693,
+    "date_signed": "2021-09-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2371241.65,
+    "total_account_obligation": 3616179,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2371241.65
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3616179
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-12",
+      "end_date": "2026-07-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2214",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2371241.65
+  }
+}

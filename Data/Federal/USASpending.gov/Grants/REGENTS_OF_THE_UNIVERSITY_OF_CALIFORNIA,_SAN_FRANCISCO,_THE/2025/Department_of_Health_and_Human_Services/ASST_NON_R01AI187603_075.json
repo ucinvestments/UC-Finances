@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 172253290,
+    "Award ID": "R01AI187603",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+    "Award Amount": 616588,
+    "Total Outlays": 0,
+    "Description": "EXPLOITING A HIGH-PRECISION PHENOTYPIC MAP TO ILLUMINATE ENVIRONMENTAL SENSING BY A FUNGAL MENINGITIS PATHOGEN - ABSTRACT DETERMINING THE MOLECULAR FUNCTION OF MYRIAD UNANNOTATED PATHOGEN GENES REMAINS EXTREMELY CHALLENGING, YET SUCH KNOWLEDGE IS CRITICAL FOR UNDERSTANDING PATHOGEN BIOLOGY AND DEVELOPING NEW DRUGS. GENOME-WIDE PROFILING IN MODEL YEASTS HAS SHOWN THAT GENES THAT FUNCTION IN THE SAME PATHWAY SHOW CORRELATED PATTERNS OF GENETIC INTERACTIONS (DOUBLE MUTANT PHENOTYPES) OR PHENOTYPES IN RESPONSE TO SMALL MOLECULE CHALLENGES (CHEMICAL- GENETIC PHENOTYPES). SUCH STUDIES OF GENE-GENE CO-FITNESS HAVE PRODUCED NUMEROUS IMPORTANT FUNCTIONAL INSIGHTS BY IDENTIFYING NEW COMPONENTS OF PATHWAYS OR CONNECTING PATHWAYS. HOWEVER, ITS APPLICATION TO FUNGAL PATHOGENS AT A GENOMIC SCALE HAS YET TO BE ACHIEVED. CRYPTOCOCCUS NEOFORMANS, THE FOCUS OF OUR WORK, IS THE MOST COMMON CAUSE OF FUNGAL MENINGITIS, CAUSING \u003e100,000 FATALITIES ANNUALLY. WE CONSTRUCTED A GENE DELETION COLLECTION FOR C. NEOFORMANS CORRESPONDING TO ~4400 KNOCKOUT STRAINS. TO UNDERSTAND GENE FUNCTION, WE DEVELOPED A VERY HIGH-PRECISION METHOD (REPLICATE R2 ~ 0.98) FOR QUANTIFYING THE ABUNDANCE OF GENE DELETIONS IN POOLS (KO-SEQ). WE PROFILED THE ENTIRE KNOCKOUT COLLECTION UNDER \u003e130 DIVERSE IN VITRO CHALLENGES, INCLUDING SMALL MOLECULE/DRUG TREATMENTS. WE ALSO QUANTIFIED THE FITNESS OF THE KNOCKOUT COLLECTION IN POOLS IN MICE. THE HIGH PRECISION OF THE IN VITRO MEASUREMENTS ENABLED THE CLUSTERING OF GENE DELETION STRAINS BASED ON THEIR PHENOTYPIC SIGNATURES, REVEALING NUMEROUS HIGH-CONFIDENCE CLUSTERS, MOST OF WHICH CORRESPOND TO CONSERVED PATHWAYS/COMPLEXES, SUPPORTING THE EXQUISITE QUALITY OF THE DATA. IMPORTANTLY, WE ALSO DISCOVERED MANY NEW CLUSTERS CONTAINING UNSTUDIED GENES. BELOW, WE FOCUS ON THREE CLUSTERS RELATED TO FUNGAL SENSING OF THE ENVIRONMENT, WHICH IS CRITICAL FOR PATHOGENESIS AND OFFERS TARGETS FOR ANTIFUNGAL DRUG DEVELOPMENT. FOCUSING ON THIS THEME, WE HYPOTHESIZE THAT THE PHENOTYPIC MAP OF C. NEOFORMANS WILL ENABLE THE IDENTIFICATION AND STUDY OF NEW COMPONENTS OF KEY PATHWAYS RELEVANT TO PATHOGENESIS AND DRUG DEVELOPMENT. TO ACCOMPLISH THIS GOAL WE WILL 1) DISSECT FUNCTION OF A NEW COMPONENT OF A CONSERVED PH SENSING PATHWAY, 2) DISSECT FUNCTION OF NEW COMPONENTS OF THE CALCINEURIN PATHWAY, AND 3) TEST THE MODEL THAT NEGATIVE REGULATION OF A PUTATIVE CELL WALL AMYLASE IS ESSENTIAL FOR SURVIVAL UNDER HOST-LIKE CONDITIONS: SUCCESSFUL ACCOMPLISHMENT OF THESE AIMS WILL ILLUMINATE IMPORTANT NEW ASPECTS OF C. NEOFORMANS ENVIRONMENTAL SENSING MECHANISMS HIGHLY RELEVANT TO DRUG DEVELOPMENT AND PATHOGENESIS WHILE DEMONSTRATING THE UTILITY OF HIGH-PRECISION PHENOTYPIC MEASUREMENTS UNDER DIVERSE ENVIRONMENTAL CONDITIONS TO DECIPHER A DEADLY HUMAN FUNGAL PATHOGEN.",
+    "Contract Award Type": "",
+    "Recipient UEI": "KMH5K9V7S518",
+    "Recipient Location": {
+      "address_line1": "1855 FOLSOM ST STE 425",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4249",
+      "zip5": "94103"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94143",
+      "zip5": "94143"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-06-06",
+    "End Date": "2030-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI187603_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 172253290,
+    "generated_unique_award_id": "ASST_NON_R01AI187603_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EXPLOITING A HIGH-PRECISION PHENOTYPIC MAP TO ILLUMINATE ENVIRONMENTAL SENSING BY A FUNGAL MENINGITIS PATHOGEN - ABSTRACT DETERMINING THE MOLECULAR FUNCTION OF MYRIAD UNANNOTATED PATHOGEN GENES REMAINS EXTREMELY CHALLENGING, YET SUCH KNOWLEDGE IS CRITICAL FOR UNDERSTANDING PATHOGEN BIOLOGY AND DEVELOPING NEW DRUGS. GENOME-WIDE PROFILING IN MODEL YEASTS HAS SHOWN THAT GENES THAT FUNCTION IN THE SAME PATHWAY SHOW CORRELATED PATTERNS OF GENETIC INTERACTIONS (DOUBLE MUTANT PHENOTYPES) OR PHENOTYPES IN RESPONSE TO SMALL MOLECULE CHALLENGES (CHEMICAL- GENETIC PHENOTYPES). SUCH STUDIES OF GENE-GENE CO-FITNESS HAVE PRODUCED NUMEROUS IMPORTANT FUNCTIONAL INSIGHTS BY IDENTIFYING NEW COMPONENTS OF PATHWAYS OR CONNECTING PATHWAYS. HOWEVER, ITS APPLICATION TO FUNGAL PATHOGENS AT A GENOMIC SCALE HAS YET TO BE ACHIEVED. CRYPTOCOCCUS NEOFORMANS, THE FOCUS OF OUR WORK, IS THE MOST COMMON CAUSE OF FUNGAL MENINGITIS, CAUSING \u003e100,000 FATALITIES ANNUALLY. WE CONSTRUCTED A GENE DELETION COLLECTION FOR C. NEOFORMANS CORRESPONDING TO ~4400 KNOCKOUT STRAINS. TO UNDERSTAND GENE FUNCTION, WE DEVELOPED A VERY HIGH-PRECISION METHOD (REPLICATE R2 ~ 0.98) FOR QUANTIFYING THE ABUNDANCE OF GENE DELETIONS IN POOLS (KO-SEQ). WE PROFILED THE ENTIRE KNOCKOUT COLLECTION UNDER \u003e130 DIVERSE IN VITRO CHALLENGES, INCLUDING SMALL MOLECULE/DRUG TREATMENTS. WE ALSO QUANTIFIED THE FITNESS OF THE KNOCKOUT COLLECTION IN POOLS IN MICE. THE HIGH PRECISION OF THE IN VITRO MEASUREMENTS ENABLED THE CLUSTERING OF GENE DELETION STRAINS BASED ON THEIR PHENOTYPIC SIGNATURES, REVEALING NUMEROUS HIGH-CONFIDENCE CLUSTERS, MOST OF WHICH CORRESPOND TO CONSERVED PATHWAYS/COMPLEXES, SUPPORTING THE EXQUISITE QUALITY OF THE DATA. IMPORTANTLY, WE ALSO DISCOVERED MANY NEW CLUSTERS CONTAINING UNSTUDIED GENES. BELOW, WE FOCUS ON THREE CLUSTERS RELATED TO FUNGAL SENSING OF THE ENVIRONMENT, WHICH IS CRITICAL FOR PATHOGENESIS AND OFFERS TARGETS FOR ANTIFUNGAL DRUG DEVELOPMENT. FOCUSING ON THIS THEME, WE HYPOTHESIZE THAT THE PHENOTYPIC MAP OF C. NEOFORMANS WILL ENABLE THE IDENTIFICATION AND STUDY OF NEW COMPONENTS OF KEY PATHWAYS RELEVANT TO PATHOGENESIS AND DRUG DEVELOPMENT. TO ACCOMPLISH THIS GOAL WE WILL 1) DISSECT FUNCTION OF A NEW COMPONENT OF A CONSERVED PH SENSING PATHWAY, 2) DISSECT FUNCTION OF NEW COMPONENTS OF THE CALCINEURIN PATHWAY, AND 3) TEST THE MODEL THAT NEGATIVE REGULATION OF A PUTATIVE CELL WALL AMYLASE IS ESSENTIAL FOR SURVIVAL UNDER HOST-LIKE CONDITIONS: SUCCESSFUL ACCOMPLISHMENT OF THESE AIMS WILL ILLUMINATE IMPORTANT NEW ASPECTS OF C. NEOFORMANS ENVIRONMENTAL SENSING MECHANISMS HIGHLY RELEVANT TO DRUG DEVELOPMENT AND PATHOGENESIS WHILE DEMONSTRATING THE UTILITY OF HIGH-PRECISION PHENOTYPIC MEASUREMENTS UNDER DIVERSE ENVIRONMENTAL CONDITIONS TO DECIPHER A DEADLY HUMAN FUNGAL PATHOGEN.",
+    "total_obligation": 616588,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-06-06",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 616588,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 616588
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-06-06",
+      "end_date": "2030-05-31",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "recipient_uei": "KMH5K9V7S518",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "parent_recipient_uei": "KMH5K9V7S518",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN FRANCISCO",
+        "county_code": "075",
+        "county_name": "SAN FRANCISCO",
+        "address_line1": "1855 FOLSOM ST STE 425",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "11",
+        "zip4": "4249",
+        "zip5": "94103",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN FRANCISCO",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "11",
+      "zip4": "",
+      "zip5": "94143",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

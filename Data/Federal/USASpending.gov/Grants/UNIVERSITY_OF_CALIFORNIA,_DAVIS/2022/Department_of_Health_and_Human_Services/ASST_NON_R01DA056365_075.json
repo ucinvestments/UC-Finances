@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91162732,
+    "Award ID": "R01DA056365",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2172679,
+    "Total Outlays": 1003119.49,
+    "Description": "HIGH-THROUGHPUT IDENTIFICATION OF NON-HALLUCINOGENIC PSYCHOPLASTOGENS FOR TREATING ADDICTION - PROJECT SUMMARY/ABSTRACT PATHOLOGICAL CHANGES IN NEURAL CIRCUITRY UNDERLY A VARIETY OF NEUROPSYCHIATRIC DISEASES INCLUDING ADDICTION AND DEPRESSION. ACCUMULATING EVIDENCE FROM HUMAN IMAGING, POSTMORTEM ANALYSIS, AND ANIMAL MODELS SUGGESTS THAT ATROPHY OF NEURONS IN THE PREFRONTAL CORTEX (PFC)—INCLUDING THE RETRACTION OF DENDRITIC ARBORS, LOSS OF DENDRITIC SPINES, AND REDUCTION IN SYNAPSE DENSITY—PLAYS A KEY ROLE IN THE PATHOPHYSIOLOGY OF SUBSTANCE USE DISORDERS (SUDS). THE PFC IS WELL KNOWN TO REGULATE LIMBIC REWARD CIRCUITRY, MODULATE ATTENTION, AND EXERT TOP- DOWN CONTROL OVER DRUG-SEEKING BEHAVIOR, AND THUS, THE ATROPHY OF NEURONS IN THE PFC IS BELIEVED TO WORSEN SUD BY REDUCING EXECUTIVE CONTROL, EXACERBATING IMPULSIVITY, AND LEADING TO DEFICITS IN THE EXTINCTION OF DRUG-CUE MEMORIES. THERAPEUTIC STRATEGIES AIMED AT RESTORING PFC STRUCTURE/FUNCTION ARE HYPOTHESIZED TO HAVE BROAD THERAPEUTIC POTENTIAL FOR SUDS. PSYCHOPLASTOGENS—SMALL MOLECULES THAT ACTIVATE TRKB SIGNALING AND SERVE AS BRAIN-DERIVED NEUROTROPHIC FACTOR (BDNF) MIMETICS—ARE ABLE TO RAPIDLY RESTORE FUNCTIONAL CONNECTIVITY IN THE PFC AND PRODUCE LONG-LASTING THERAPEUTIC EFFECTS AFTER A SINGLE ADMINISTRATION. HOWEVER, THE MOST PROMINENT PSYCHOPLASTOGENS—INCLUDING SEROTONERGIC PSYCHEDELICS—ALL PRODUCE HALLUCINATIONS, WHICH GREATLY LIMIT THEIR THERAPEUTIC POTENTIAL. RECENTLY, EVIDENCE HAS EMERGED SUGGESTING THAT THE HALLUCINOGENIC EFFECTS OF THESE DRUGS MAY NOT BE NECESSARY FOR THEIR THERAPEUTIC PROPERTIES, AND THE FIRST NON-HALLUCINOGENIC PSYCHOPLASTOGENS WERE INTRODUCED BY OUR GROUP THIS PAST YEAR. ONE SUCH MOLECULE, KNOWN AS TABERNANTHALOG (TBG), PRODUCES BOTH RAPID AND SUSTAINED ANTI-ADDICTIVE EFFECTS IN RODENT MODELS OF HEROIN SELF-ADMINISTRATION, MUCH LIKE THE KNOWN ANTI-ADDICTIVE PSYCHEDELIC IBOGAINE. THE ADVENT OF TBG REPRESENTS AN EXCITING NEW DIRECTION FOR THE TREATMENT OF ADDICTION, BUT THERE IS AN URGENT NEED TO DEVELOP NEW ASSAYS ENABLING THE RAPID IDENTIFICATION OF TBG-LIKE MOLECULES WITH OPTIMIZED EFFICACY AND SAFETY PROFILES. OUR OVERALL OBJECTIVE IS TO DEVELOP HIGH-THROUGHPUT METHODS FOR IDENTIFYING NON-HALLUCINOGENIC PSYCHOPLASTOGENS THAT, LIKE TBG, CAN PRODUCE LONG-LASTING THERAPEUTIC EFFECTS. TO ACHIEVE THIS GOAL, WE HAVE DEVELOPED PSYCHLIGHT—A GENETICALLY ENCODED, 5-HT2AR- BASED BIOSENSOR CAPABLE OF PREDICTING BOTH THE HALLUCINOGENIC AND PSYCHOPLASTOGENIC PROPERTIES OF SMALL MOLECULES. THE PROPOSED STUDIES INVOLVE THE USE OF THIS TECHNOLOGY TO RAPIDLY IDENTIFY NEW NON-HALLUCINOGENIC PSYCHOPLASTOGENS FOR TREATING ADDICTION AS WELL AS PROBING POTENTIAL 5-HT2AR INTERACTIONS WITH DOPAMINE, OPIOID, AND CANNABINOID RECEPTORS. WE ALSO PROPOSE STUDIES TO ELUCIDATE THE MOLECULAR AND CIRCUIT-LEVEL MECHANISMS OF THE ANTI-ADDICTIVE, NON-HALLUCINOGENIC PSYCHOPLASTOGEN TBG. ULTIMATELY, THE WORK DESCRIBED HERE WILL FILL THE GAP IN OUR KNOWLEDGE ABOUT HOW BEST TO RAPIDLY SCREEN FOR NON-HALLUCINOGENIC PSYCHOPLASTOGENS, WHICH WILL ENABLE THE RATIONAL DESIGN OF SAFER, NON-HALLUCINOGENIC ALTERNATIVES TO PSYCHEDELICS FOR TREATING SUDS AND RELATED CO- MORBID DISEASES SUCH AS DEPRESSION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-05-15",
+    "End Date": "2027-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DA056365_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91162732,
+    "generated_unique_award_id": "ASST_NON_R01DA056365_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "HIGH-THROUGHPUT IDENTIFICATION OF NON-HALLUCINOGENIC PSYCHOPLASTOGENS FOR TREATING ADDICTION - PROJECT SUMMARY/ABSTRACT PATHOLOGICAL CHANGES IN NEURAL CIRCUITRY UNDERLY A VARIETY OF NEUROPSYCHIATRIC DISEASES INCLUDING ADDICTION AND DEPRESSION. ACCUMULATING EVIDENCE FROM HUMAN IMAGING, POSTMORTEM ANALYSIS, AND ANIMAL MODELS SUGGESTS THAT ATROPHY OF NEURONS IN THE PREFRONTAL CORTEX (PFC)—INCLUDING THE RETRACTION OF DENDRITIC ARBORS, LOSS OF DENDRITIC SPINES, AND REDUCTION IN SYNAPSE DENSITY—PLAYS A KEY ROLE IN THE PATHOPHYSIOLOGY OF SUBSTANCE USE DISORDERS (SUDS). THE PFC IS WELL KNOWN TO REGULATE LIMBIC REWARD CIRCUITRY, MODULATE ATTENTION, AND EXERT TOP- DOWN CONTROL OVER DRUG-SEEKING BEHAVIOR, AND THUS, THE ATROPHY OF NEURONS IN THE PFC IS BELIEVED TO WORSEN SUD BY REDUCING EXECUTIVE CONTROL, EXACERBATING IMPULSIVITY, AND LEADING TO DEFICITS IN THE EXTINCTION OF DRUG-CUE MEMORIES. THERAPEUTIC STRATEGIES AIMED AT RESTORING PFC STRUCTURE/FUNCTION ARE HYPOTHESIZED TO HAVE BROAD THERAPEUTIC POTENTIAL FOR SUDS. PSYCHOPLASTOGENS—SMALL MOLECULES THAT ACTIVATE TRKB SIGNALING AND SERVE AS BRAIN-DERIVED NEUROTROPHIC FACTOR (BDNF) MIMETICS—ARE ABLE TO RAPIDLY RESTORE FUNCTIONAL CONNECTIVITY IN THE PFC AND PRODUCE LONG-LASTING THERAPEUTIC EFFECTS AFTER A SINGLE ADMINISTRATION. HOWEVER, THE MOST PROMINENT PSYCHOPLASTOGENS—INCLUDING SEROTONERGIC PSYCHEDELICS—ALL PRODUCE HALLUCINATIONS, WHICH GREATLY LIMIT THEIR THERAPEUTIC POTENTIAL. RECENTLY, EVIDENCE HAS EMERGED SUGGESTING THAT THE HALLUCINOGENIC EFFECTS OF THESE DRUGS MAY NOT BE NECESSARY FOR THEIR THERAPEUTIC PROPERTIES, AND THE FIRST NON-HALLUCINOGENIC PSYCHOPLASTOGENS WERE INTRODUCED BY OUR GROUP THIS PAST YEAR. ONE SUCH MOLECULE, KNOWN AS TABERNANTHALOG (TBG), PRODUCES BOTH RAPID AND SUSTAINED ANTI-ADDICTIVE EFFECTS IN RODENT MODELS OF HEROIN SELF-ADMINISTRATION, MUCH LIKE THE KNOWN ANTI-ADDICTIVE PSYCHEDELIC IBOGAINE. THE ADVENT OF TBG REPRESENTS AN EXCITING NEW DIRECTION FOR THE TREATMENT OF ADDICTION, BUT THERE IS AN URGENT NEED TO DEVELOP NEW ASSAYS ENABLING THE RAPID IDENTIFICATION OF TBG-LIKE MOLECULES WITH OPTIMIZED EFFICACY AND SAFETY PROFILES. OUR OVERALL OBJECTIVE IS TO DEVELOP HIGH-THROUGHPUT METHODS FOR IDENTIFYING NON-HALLUCINOGENIC PSYCHOPLASTOGENS THAT, LIKE TBG, CAN PRODUCE LONG-LASTING THERAPEUTIC EFFECTS. TO ACHIEVE THIS GOAL, WE HAVE DEVELOPED PSYCHLIGHT—A GENETICALLY ENCODED, 5-HT2AR- BASED BIOSENSOR CAPABLE OF PREDICTING BOTH THE HALLUCINOGENIC AND PSYCHOPLASTOGENIC PROPERTIES OF SMALL MOLECULES. THE PROPOSED STUDIES INVOLVE THE USE OF THIS TECHNOLOGY TO RAPIDLY IDENTIFY NEW NON-HALLUCINOGENIC PSYCHOPLASTOGENS FOR TREATING ADDICTION AS WELL AS PROBING POTENTIAL 5-HT2AR INTERACTIONS WITH DOPAMINE, OPIOID, AND CANNABINOID RECEPTORS. WE ALSO PROPOSE STUDIES TO ELUCIDATE THE MOLECULAR AND CIRCUIT-LEVEL MECHANISMS OF THE ANTI-ADDICTIVE, NON-HALLUCINOGENIC PSYCHOPLASTOGEN TBG. ULTIMATELY, THE WORK DESCRIBED HERE WILL FILL THE GAP IN OUR KNOWLEDGE ABOUT HOW BEST TO RAPIDLY SCREEN FOR NON-HALLUCINOGENIC PSYCHOPLASTOGENS, WHICH WILL ENABLE THE RATIONAL DESIGN OF SAFER, NON-HALLUCINOGENIC ALTERNATIVES TO PSYCHEDELICS FOR TREATING SUDS AND RELATED CO- MORBID DISEASES SUCH AS DEPRESSION.",
+    "total_obligation": 2172679,
+    "subaward_count": 4,
+    "total_subaward_amount": 788828.24,
+    "date_signed": "2022-05-04",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1003119.49,
+    "total_account_obligation": 2172679,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1003119.49
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2172679
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "period_of_performance": {
+      "start_date": "2022-05-15",
+      "end_date": "2027-02-28",
+      "last_modified_date": "2025-04-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1003119.49
+  }
+}

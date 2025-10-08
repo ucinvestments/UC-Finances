@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56333902,
+    "Award ID": "20226701737095",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 596150,
+    "Total Outlays": 223414.93,
+    "Description": "NOVEL FOOD PRODUCTS RICH IN PROBIOTICS AND PREBIOTICS HAVE SIGNIFICANT POTENTIAL TO IMPACT HUMAN HEALTH. HOWEVER, THE LIMITED VIABILITY OF PROBIOTICS DURING DELIVERY TO THE GUT AND THE LACK OF PERSISTENCE OF THESE BACTERIA IN THE GUT SIGNIFICANTLY LIMITS THE SUCCESS OF THESE NOVEL PRODUCTS. THE DELIVERY OF PROBIOTICS IN FOOD PRODUCTS IS REDUCED BY THE HARSH GASTROINTESTINAL CONDITIONS AND THE LACK OF PERSISTENCE AND GROWTH IS CONSTRAINED BY THE POOR MUCOADHESION AND AVAILABILITY OF SELECTIVE PREBIOTICS RESPECTIVELY. TO ADDRESS THESE CHALLENGES OUR INTERDISCIPLINARY TEAM PROPOSES TO DEVELOP BIOENGINEERED 3D SCAFFOLDS FROM THE INSOLUBLE AND SOLUBLE SPENT FRACTIONS OF THE APPLE AND BEANS PROCESSING INDUSTRY TO ENABLE MULTIFOLD IMPROVEMENT IN THE DELIVERY OF PROBIOTICS TO THE GUT AND ENHANCED MUCOADHESION AND GUT COLONIZATION. THE SPECIFIC OBJECTIVES ARE: (A) ASSESSMENT OF THE ENHANCED SURVIVABILITY OF PROBIOTICS IN THE SIMULATED GASTRO-INTESTINAL ENVIRONMENT USING 3D DELIVERY SCAFFOLDS; (B) ABILITY OF 3D SCAFFOLDS AND SOLUBLE OLIGOSACCHARIDES DERIVED FROM APPLES AND BLACK BEANS SPENT FRACTIONS TO PROMOTE GROWTH AND MUCOADHESION OF PROBIOTICS IN A SIMULATED COLONIC ENVIRONMENT AND (C) IN-VIVO VALIDATION OF THE EFFICACY OF THE PROPOSED APPROACH IN ENHANCING PERSISTENCE AND GROWTH OF PROBIOTIC BACTERIA. THE SUCCESS OF THIS PROJECT WILL ENABLE: NOVEL FOOD-GRADE MATERIALS WITH VALUE-ADDED PROPERTIES (3D SCAFFOLDS AND PREBIOTIC OLIGOSACCHARIDES) FROM SPENT FRACTIONS OF THE PLANT PROTEIN AND FRUIT PROCESSING INDUSTRIES; (B) NOVEL PROCESS AND COMPOSITIONS TO DEVELOP INNOVATIVE FORMULATIONS OF FOOD-GRADE MATERIALS WITH PROBIOTICS; AND (C) BIOTRANSFORMATION OF VALUE-ADDED SPENT MATERIALS TO CREATE \"PROBIOTIC BIOFILMS\" FOR ENHANCED DELIVERY AND GROWTH.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2022-06-01",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20226701737095_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56333902,
+    "generated_unique_award_id": "ASST_NON_20226701737095_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NOVEL FOOD PRODUCTS RICH IN PROBIOTICS AND PREBIOTICS HAVE SIGNIFICANT POTENTIAL TO IMPACT HUMAN HEALTH. HOWEVER, THE LIMITED VIABILITY OF PROBIOTICS DURING DELIVERY TO THE GUT AND THE LACK OF PERSISTENCE OF THESE BACTERIA IN THE GUT SIGNIFICANTLY LIMITS THE SUCCESS OF THESE NOVEL PRODUCTS. THE DELIVERY OF PROBIOTICS IN FOOD PRODUCTS IS REDUCED BY THE HARSH GASTROINTESTINAL CONDITIONS AND THE LACK OF PERSISTENCE AND GROWTH IS CONSTRAINED BY THE POOR MUCOADHESION AND AVAILABILITY OF SELECTIVE PREBIOTICS RESPECTIVELY. TO ADDRESS THESE CHALLENGES OUR INTERDISCIPLINARY TEAM PROPOSES TO DEVELOP BIOENGINEERED 3D SCAFFOLDS FROM THE INSOLUBLE AND SOLUBLE SPENT FRACTIONS OF THE APPLE AND BEANS PROCESSING INDUSTRY TO ENABLE MULTIFOLD IMPROVEMENT IN THE DELIVERY OF PROBIOTICS TO THE GUT AND ENHANCED MUCOADHESION AND GUT COLONIZATION. THE SPECIFIC OBJECTIVES ARE: (A) ASSESSMENT OF THE ENHANCED SURVIVABILITY OF PROBIOTICS IN THE SIMULATED GASTRO-INTESTINAL ENVIRONMENT USING 3D DELIVERY SCAFFOLDS; (B) ABILITY OF 3D SCAFFOLDS AND SOLUBLE OLIGOSACCHARIDES DERIVED FROM APPLES AND BLACK BEANS SPENT FRACTIONS TO PROMOTE GROWTH AND MUCOADHESION OF PROBIOTICS IN A SIMULATED COLONIC ENVIRONMENT AND (C) IN-VIVO VALIDATION OF THE EFFICACY OF THE PROPOSED APPROACH IN ENHANCING PERSISTENCE AND GROWTH OF PROBIOTIC BACTERIA. THE SUCCESS OF THIS PROJECT WILL ENABLE: NOVEL FOOD-GRADE MATERIALS WITH VALUE-ADDED PROPERTIES (3D SCAFFOLDS AND PREBIOTIC OLIGOSACCHARIDES) FROM SPENT FRACTIONS OF THE PLANT PROTEIN AND FRUIT PROCESSING INDUSTRIES; (B) NOVEL PROCESS AND COMPOSITIONS TO DEVELOP INNOVATIVE FORMULATIONS OF FOOD-GRADE MATERIALS WITH PROBIOTICS; AND (C) BIOTRANSFORMATION OF VALUE-ADDED SPENT MATERIALS TO CREATE \"PROBIOTIC BIOFILMS\" FOR ENHANCED DELIVERY AND GROWTH.",
+    "total_obligation": 596150,
+    "subaward_count": 1,
+    "total_subaward_amount": 44000,
+    "date_signed": "2022-04-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 224057.83,
+    "total_account_obligation": 596150,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 224057.83
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 596150
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-01",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-04-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 224057.83
+  }
+}

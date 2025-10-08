@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74726100,
+    "Award ID": "80NSSC18K1122",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 626056.03,
+    "Total Outlays": 283380.12,
+    "Description": "MAGNETIC RECONNECTION  TRIGGERED BY PLASMA INSTABILITIES IN THIN CURRENT SHEETS  PLAYS A CRUCIAL ROLE IN THE MAGNETOTAIL KINETIC AND DYNAMIC PROCESSES. IT IS RESPONSIBLE FOR THE GENERATION OF FLUX ROPES (FRS)  BURSTY BULK FLOWS (BBFS)  AND DIPOLARIZING FLUX BUNDLES (DFBS)  WHICH PROPAGATE TOWARD THE EARTH OR FURTHER DOWN TAIL. THEREFORE  ALTHOUGH MAGNETOTAIL RECONNECTION IS LOCALIZED IN A SMALL SCALE REGION  IT HAS GLOBAL CONSEQUENCES. IT IS KNOWN THAT PARTICLES ARE ACCELERATED (TO ENERGIES ~KEV) BY MAGNETOTAIL RECONNECTION AND FURTHER ACCELERATED (UP TO MEV) VIA INTERACTION WITH THE CONSEQUENT KINETIC STRUCTURES AND INJECTION INTO THE INNER MAGNETOSPHERE. HOWEVER  (1) HOW PARTICLES ARE ACCELERATED BY MAGNETOTAIL RECONNECTION AND ITS CONSEQUENT KINETIC STRUCTURES AND (2) HOW THESE ACCELERATED PARTICLES ARE INJECTED INTO THE INNER MAGNETOSPHERE VIA THE INTERACTION OF THESE EARTHWARD PROPAGATING STRUCTURES WITH DIPOLE FIELD ARE STILL NOT WELL UNDERSTOOD. TO REVEAL THESE TWO IMPORTANT PROCESSES  WE PROPOSE A SYNERGISTIC STUDY USING MULTISPACECRAFT OBSERVATIONS AND PARTICLE-IN-CELL (PIC) SIMULATIONS. WE WILL USE THEMIS AND ARTEMIS SPACECRAFT SIMULTANEOUS OBSERVATIONS IN THE MAGNETOTAIL AT DIFFERENT GEOCENTRIC DISTANCES TO INVESTIGATE PARTICLE ENERGIZATION AND INJECTION DURING RECONNECTION AND EARTHWARD/ TAILWARD TRANSPORT. WE WILL USE LARGE-SCALE TWO-DIMENSIONAL (2-D) AND THREE-DIMENSIONAL (3-D) PIC MODELS GUIDED BY OUR OBSERVATIONS AND PHYSICAL INTUITIONS TO SIMULATE THE ENERGETIC PARTICLE ACCELERATION AND INJECTION PROCESSES. SCIENCE GOAL AND OBJECTIVES: BY COMPREHENSIVE USE OF MULTISPACECRAFT DATASETS AND NUMERICAL SIMULATIONS WE WILL: (1) INVESTIGATE THE MULTISTAGE SUCCESSIVE PARTICLE ACCELERATION PROCESS BY MAGNETOTAIL COLLISIONLESS RECONNECTION AND ITS CONSEQUENT KINETIC STRUCTURES: FRS  BBFS AND DFBS. (2) EXPLORE HOW THE ACCELERATED PARTICLES ARE INJECTED INTO THE INNER MAGNETOSPHERE VIA THE INTERACTION BETWEEN THESE EARTHWARD PROPAGATING STRUCTURES WITH THE GEOMAGNETIC DIPOLE FIELD. RELEVANCE TO ONE OR MORE OF THE FOUR DECADAL SURVEY GOALS: THIS PROPOSED RESEARCH CONTRIBUTES TO TWO OF THE FOUR HIGH LEVEL SCIENCE GOALS FROM THE HELIOPHYSICS DECADAL SURVEY  NAMELY 2. DETERMINE THE DYNAMICS AND COUPLING OF EARTH S MAGNETOSPHERE  IONOSPHERE  AND ATMOSPHERE AND THEIR RESPONSE TO SOLAR AND TERRESTRIAL INPUTS  AND  4. DISCOVER AND CHARACTERIZE FUNDAMENTAL PROCESSES THAT OCCUR BOTH WITHIN THE HELIOSPHERE AND THROUGHOUT THE UNIVERSE . METHODOLOGY: DATA ANALYSIS AND MODELING: (1) WE WILL USE STATISTICS OF FIVE THEMIS SPACECRAFT OBSERVATIONS IN 2008-2009 TO INVESTIGATE THE EFFICIENCY OF ACCELERATION ASSOCIATED WITH PLASMA FLOWS ORIGINATING FROM THE RECONNECTION AND PROPAGATING EARTHWARD. STATISTICS OF THREE THEMIS SPACECRAFT IN 2010-2017 WILL BE USED TO COLLECT INFORMATION ABOUT PARTICLE ENERGIZATIONS AND INJECTIONS. SIMULTANEOUS OBSERVATIONS OF THEMIS AND ARTEMIS SPACECRAFT WILL SERVE FOR INVESTIGATION OF EFFICIENCY OF PARTICLE ACCELERATION WITHIN EARTHWARD AND TAILWARD FLOWS. (2) WE WILL USE LARGE-SCALE 2-D AND 3-D PIC SIMULATIONS IN WHICH ELECTROMAGNETIC FIELDS ARE UPDATED BY SOLVING MAXWELL S EQUATIONS WITH AN EXPLICIT LEAPFROG SCHEME AND PARTICLES (ELECTRONS AND IONS) ARE ADVANCED RELATIVISTICALLY IN THE FIELDS. THE SIMULATIONS EMPLOY AN INITIAL CONFIGURATION OF A DIPOLE FIELD PLUS A THIN HARRIS CURRENT SHEET. NO INITIAL PERTURBATIONS OR EXTERNAL DRIVING FIELDS WILL BE IMPOSED   MULTIPLE X-LINE RECONNECTION WILL BE TRIGGERED SPONTANEOUSLY  AND NUMBERS OF FRS  BBFS  AND DFBS ARE EXPECTED TO BE GENERATED AND PROPAGATE TOWARD THE EARTH/TAIL.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "90095"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "90095-1302",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2018-06-26",
+    "End Date": "2022-06-25",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC18K1122_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74726100,
+    "generated_unique_award_id": "ASST_NON_80NSSC18K1122_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MAGNETIC RECONNECTION  TRIGGERED BY PLASMA INSTABILITIES IN THIN CURRENT SHEETS  PLAYS A CRUCIAL ROLE IN THE MAGNETOTAIL KINETIC AND DYNAMIC PROCESSES. IT IS RESPONSIBLE FOR THE GENERATION OF FLUX ROPES (FRS)  BURSTY BULK FLOWS (BBFS)  AND DIPOLARIZING FLUX BUNDLES (DFBS)  WHICH PROPAGATE TOWARD THE EARTH OR FURTHER DOWN TAIL. THEREFORE  ALTHOUGH MAGNETOTAIL RECONNECTION IS LOCALIZED IN A SMALL SCALE REGION  IT HAS GLOBAL CONSEQUENCES. IT IS KNOWN THAT PARTICLES ARE ACCELERATED (TO ENERGIES ~KEV) BY MAGNETOTAIL RECONNECTION AND FURTHER ACCELERATED (UP TO MEV) VIA INTERACTION WITH THE CONSEQUENT KINETIC STRUCTURES AND INJECTION INTO THE INNER MAGNETOSPHERE. HOWEVER  (1) HOW PARTICLES ARE ACCELERATED BY MAGNETOTAIL RECONNECTION AND ITS CONSEQUENT KINETIC STRUCTURES AND (2) HOW THESE ACCELERATED PARTICLES ARE INJECTED INTO THE INNER MAGNETOSPHERE VIA THE INTERACTION OF THESE EARTHWARD PROPAGATING STRUCTURES WITH DIPOLE FIELD ARE STILL NOT WELL UNDERSTOOD. TO REVEAL THESE TWO IMPORTANT PROCESSES  WE PROPOSE A SYNERGISTIC STUDY USING MULTISPACECRAFT OBSERVATIONS AND PARTICLE-IN-CELL (PIC) SIMULATIONS. WE WILL USE THEMIS AND ARTEMIS SPACECRAFT SIMULTANEOUS OBSERVATIONS IN THE MAGNETOTAIL AT DIFFERENT GEOCENTRIC DISTANCES TO INVESTIGATE PARTICLE ENERGIZATION AND INJECTION DURING RECONNECTION AND EARTHWARD/ TAILWARD TRANSPORT. WE WILL USE LARGE-SCALE TWO-DIMENSIONAL (2-D) AND THREE-DIMENSIONAL (3-D) PIC MODELS GUIDED BY OUR OBSERVATIONS AND PHYSICAL INTUITIONS TO SIMULATE THE ENERGETIC PARTICLE ACCELERATION AND INJECTION PROCESSES. SCIENCE GOAL AND OBJECTIVES: BY COMPREHENSIVE USE OF MULTISPACECRAFT DATASETS AND NUMERICAL SIMULATIONS WE WILL: (1) INVESTIGATE THE MULTISTAGE SUCCESSIVE PARTICLE ACCELERATION PROCESS BY MAGNETOTAIL COLLISIONLESS RECONNECTION AND ITS CONSEQUENT KINETIC STRUCTURES: FRS  BBFS AND DFBS. (2) EXPLORE HOW THE ACCELERATED PARTICLES ARE INJECTED INTO THE INNER MAGNETOSPHERE VIA THE INTERACTION BETWEEN THESE EARTHWARD PROPAGATING STRUCTURES WITH THE GEOMAGNETIC DIPOLE FIELD. RELEVANCE TO ONE OR MORE OF THE FOUR DECADAL SURVEY GOALS: THIS PROPOSED RESEARCH CONTRIBUTES TO TWO OF THE FOUR HIGH LEVEL SCIENCE GOALS FROM THE HELIOPHYSICS DECADAL SURVEY  NAMELY 2. DETERMINE THE DYNAMICS AND COUPLING OF EARTH S MAGNETOSPHERE  IONOSPHERE  AND ATMOSPHERE AND THEIR RESPONSE TO SOLAR AND TERRESTRIAL INPUTS  AND  4. DISCOVER AND CHARACTERIZE FUNDAMENTAL PROCESSES THAT OCCUR BOTH WITHIN THE HELIOSPHERE AND THROUGHOUT THE UNIVERSE . METHODOLOGY: DATA ANALYSIS AND MODELING: (1) WE WILL USE STATISTICS OF FIVE THEMIS SPACECRAFT OBSERVATIONS IN 2008-2009 TO INVESTIGATE THE EFFICIENCY OF ACCELERATION ASSOCIATED WITH PLASMA FLOWS ORIGINATING FROM THE RECONNECTION AND PROPAGATING EARTHWARD. STATISTICS OF THREE THEMIS SPACECRAFT IN 2010-2017 WILL BE USED TO COLLECT INFORMATION ABOUT PARTICLE ENERGIZATIONS AND INJECTIONS. SIMULTANEOUS OBSERVATIONS OF THEMIS AND ARTEMIS SPACECRAFT WILL SERVE FOR INVESTIGATION OF EFFICIENCY OF PARTICLE ACCELERATION WITHIN EARTHWARD AND TAILWARD FLOWS. (2) WE WILL USE LARGE-SCALE 2-D AND 3-D PIC SIMULATIONS IN WHICH ELECTROMAGNETIC FIELDS ARE UPDATED BY SOLVING MAXWELL S EQUATIONS WITH AN EXPLICIT LEAPFROG SCHEME AND PARTICLES (ELECTRONS AND IONS) ARE ADVANCED RELATIVISTICALLY IN THE FIELDS. THE SIMULATIONS EMPLOY AN INITIAL CONFIGURATION OF A DIPOLE FIELD PLUS A THIN HARRIS CURRENT SHEET. NO INITIAL PERTURBATIONS OR EXTERNAL DRIVING FIELDS WILL BE IMPOSED   MULTIPLE X-LINE RECONNECTION WILL BE TRIGGERED SPONTANEOUSLY  AND NUMBERS OF FRS  BBFS  AND DFBS ARE EXPECTED TO BE GENERATED AND PROPAGATE TOWARD THE EARTH/TAIL.",
+    "total_obligation": 626056.03,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2018-08-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 283380.12,
+    "total_account_obligation": 221217.03,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 283380.12
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 221217.03
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2018-06-26",
+      "end_date": "2022-06-25",
+      "last_modified_date": "2023-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "0001",
+        "zip5": "90095",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "1302",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 283380.12
+  }
+}

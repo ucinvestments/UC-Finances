@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91156178,
+    "Award ID": "R01CA291771",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 967182,
+    "Total Outlays": 397366.01,
+    "Description": "NOVEL BIOLOGIC RNA MOLECULES TO MODULATE HCC METABOLISM - PROJECT SUMMARY LIVER CANCER IS A MAJOR CAUSE OF CANCER-RELATED DEATHS WITHIN THE UNITED STATES, BEING THE FIFTH AND SEVENTH LEADING CAUSE OF CANCER DEATHS AMONG MEN AND WOMEN, RESPECTIVELY. THERE IS A HIGH DEMAND FOR NEW AND MORE EFFECTIVE THERAPEUTICS FOR THE TREATMENT OF LIVER CANCER, ESPECIALLY FOR THE MOST COMMON HEPATOCELLULAR CARCINOMA (HCC), WITH AN IMPROVED UNDERSTANDING OF VITAL REGULATORY FACTORS UNDERLYING HCC CELL METABOLISM ESSENTIAL FOR TUMOR PROGRESSION. GENOME-DERIVED NONCODING MICRORNAS (MIRNAS OR MIRS) HAVE BEEN REVEALED AS CRITICAL ELEMENTS TO CONTROL POSTTRANSCRIPTIONAL GENE REGULATION, AND RESTORATION OF LIVER-ENRICHED, ONCOLYTIC MIRNAS (E.G., LET-7-5P ISOFORMS, MIR-122-5P, AND MIR-148A-3P) LOST OR DOWNREGULATED IN HCC CELLS REPRESENTS A NEW THERAPEUTIC STRATEGY. HOWEVER, CURRENT MIRNA FUNCTIONAL AND EXPERIMENTAL THERAPEUTIC STUDIES ARE LIMITED TO THE USE OF MIRNA MIMICS CHEMO-ENGINEERED IN VITRO AND COMPRISED OF EXTENSIVE AND VARIOUS TYPES OF ARTIFICIAL MODIFICATIONS, WHICH ARE TOTALLY DIFFERENT FROM NATURAL MIRNA MOLECULES PRODUCED IN VIVO. THIS IS ALSO IN SHARP CONTRAST TO PROTEIN RESEARCH AND THERAPY IN WHICH BIOENGINEERED OR RECOMBINANT PROTEIN AGENTS PRODUCED AND FOLDED IN VIVO, RATHER THAN SYNTHETIC POLYPEPTIDES OR PROTEINS MADE IN VITRO, HAVE BEEN USED AND FOUND ENORMOUS SUCCESS. TO OVERCOME THIS BARRIER, THE PI HAS RECENTLY DEVELOPED A NOVEL RNA MOLECULAR BIOENGINEERING PLATFORM TECHNOLOGY, BASED UPON SPECIFIC HYBRID TRNA/PRE-MIRNA MOLECULES IDENTIFIED IN THE PI’S LAB AS CARRIERS, TO ACHIEVE HIGH-YIELD AND LARGE-SCALE, IN VIVO FERMENTATION PRODUCTION OF TRUE BIOLOGIC OR BIOENGINEERED RNA (BIORNA) MOLECULES FOR BASIC AND TRANSLATIONAL RESEARCH. OUR FOLLOWING STUDIES HAVE DEMONSTRATED THAT MIRNA (E.G., LET-7C-5P) IS SELECTIVELY RELEASED FROM BIORNA “PRODRUG” IN HUMAN HCC CELLS TO REGULATE TARGET GENE EXPRESSION (LIN28B) AND CONTROL CELLULAR PROCESSES (TUMORSPHERE FORMATION), AND LIPOSOME-POLYETHYLENIMINE (LPP) NANOCOMPLEX IS SUPERIOR TO IN VIVO-JETPEI TO DELIVER BIORNA INTO ORTHOTOPIC HCC TISSUES AND INHIBIT TUMOR GROWTH IN MOUSE MODELS. OUR FURTHER EFFORTS HAVE LED TO THE IDENTIFICATION OF PROPER HUMAN TRNAS TO COUPLE WITH HUMAN HSA-PRE-MIRNAS AS NEW CARRIERS TO OFFER HUMANIZED BIORNAS TO TARGET HCC. IN ADDITION, HUMANIZED BIORNA/MIR-148A-3P IS PRECISELY PROCESSED TO MIR-148A-3P IN HUMAN HCC CELLS TO MODULATE SPECIFIC AMINO ACID AND GLUCOSE TRANSPORTER EXPRESSION TOWARDS THE CONTROL OF AMINOLYSES AND GLYCOLYSIS. GIVEN THESE EXCITING PRELIMINARY FINDINGS, WE HYPOTHESIZE THAT NOVEL, HCC-TARGETED, HUMANIZED BIORNAS CAN BE BIOENGINEERED AND USED TO DISSECT HCC NUTRIENT HOMEOSTASIS AND TUMOR METABOLISM. TO TEST THE HYPOTHESIS, WE PROPOSED TO (I) DESIGN, CLONE, EXPRESS, AND PURIFY A FOCUSED GROUP OF NOVEL HUMANIZED BIORNAS FOR THE INHIBITION OF HCC CELL VIABILITY (AIM 1), (II) DELINEATE THE MECHANISTIC ACTIONS OF BIORNAS IN THE CONTROL OF HCC CELL METABOLISM (AIM 2), AND (III) ESTABLISH THE EFFECTIVENESS AND SAFETY OF CANDIDATE BIORNAS IN THE MODULATION OF HCC TUMOR METABOLISM AND PROGRESSION IN VIVO (AIM 3). SUCCESSFUL COMPLETION OF THIS PROJECT WILL OFFER A SET OF ONE-OF-A-KIND, BIOLOGIC, HCC-TARGETED RNA MOLECULES AS RESEARCH TOOLS, ESTABLISH NEW ROLES FOR MIRNAS IN THE CONTROL OF HCC CELL METABOLISM, AND BUILD A SOLID FOUNDATION FOR THE DEVELOPMENT OF NEW REMEDIES TO IMPROVE THE TREATMENT OF LETHAL HCC.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172217",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-08-01",
+    "End Date": "2029-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA291771_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91156178,
+    "generated_unique_award_id": "ASST_NON_R01CA291771_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NOVEL BIOLOGIC RNA MOLECULES TO MODULATE HCC METABOLISM - PROJECT SUMMARY LIVER CANCER IS A MAJOR CAUSE OF CANCER-RELATED DEATHS WITHIN THE UNITED STATES, BEING THE FIFTH AND SEVENTH LEADING CAUSE OF CANCER DEATHS AMONG MEN AND WOMEN, RESPECTIVELY. THERE IS A HIGH DEMAND FOR NEW AND MORE EFFECTIVE THERAPEUTICS FOR THE TREATMENT OF LIVER CANCER, ESPECIALLY FOR THE MOST COMMON HEPATOCELLULAR CARCINOMA (HCC), WITH AN IMPROVED UNDERSTANDING OF VITAL REGULATORY FACTORS UNDERLYING HCC CELL METABOLISM ESSENTIAL FOR TUMOR PROGRESSION. GENOME-DERIVED NONCODING MICRORNAS (MIRNAS OR MIRS) HAVE BEEN REVEALED AS CRITICAL ELEMENTS TO CONTROL POSTTRANSCRIPTIONAL GENE REGULATION, AND RESTORATION OF LIVER-ENRICHED, ONCOLYTIC MIRNAS (E.G., LET-7-5P ISOFORMS, MIR-122-5P, AND MIR-148A-3P) LOST OR DOWNREGULATED IN HCC CELLS REPRESENTS A NEW THERAPEUTIC STRATEGY. HOWEVER, CURRENT MIRNA FUNCTIONAL AND EXPERIMENTAL THERAPEUTIC STUDIES ARE LIMITED TO THE USE OF MIRNA MIMICS CHEMO-ENGINEERED IN VITRO AND COMPRISED OF EXTENSIVE AND VARIOUS TYPES OF ARTIFICIAL MODIFICATIONS, WHICH ARE TOTALLY DIFFERENT FROM NATURAL MIRNA MOLECULES PRODUCED IN VIVO. THIS IS ALSO IN SHARP CONTRAST TO PROTEIN RESEARCH AND THERAPY IN WHICH BIOENGINEERED OR RECOMBINANT PROTEIN AGENTS PRODUCED AND FOLDED IN VIVO, RATHER THAN SYNTHETIC POLYPEPTIDES OR PROTEINS MADE IN VITRO, HAVE BEEN USED AND FOUND ENORMOUS SUCCESS. TO OVERCOME THIS BARRIER, THE PI HAS RECENTLY DEVELOPED A NOVEL RNA MOLECULAR BIOENGINEERING PLATFORM TECHNOLOGY, BASED UPON SPECIFIC HYBRID TRNA/PRE-MIRNA MOLECULES IDENTIFIED IN THE PI’S LAB AS CARRIERS, TO ACHIEVE HIGH-YIELD AND LARGE-SCALE, IN VIVO FERMENTATION PRODUCTION OF TRUE BIOLOGIC OR BIOENGINEERED RNA (BIORNA) MOLECULES FOR BASIC AND TRANSLATIONAL RESEARCH. OUR FOLLOWING STUDIES HAVE DEMONSTRATED THAT MIRNA (E.G., LET-7C-5P) IS SELECTIVELY RELEASED FROM BIORNA “PRODRUG” IN HUMAN HCC CELLS TO REGULATE TARGET GENE EXPRESSION (LIN28B) AND CONTROL CELLULAR PROCESSES (TUMORSPHERE FORMATION), AND LIPOSOME-POLYETHYLENIMINE (LPP) NANOCOMPLEX IS SUPERIOR TO IN VIVO-JETPEI TO DELIVER BIORNA INTO ORTHOTOPIC HCC TISSUES AND INHIBIT TUMOR GROWTH IN MOUSE MODELS. OUR FURTHER EFFORTS HAVE LED TO THE IDENTIFICATION OF PROPER HUMAN TRNAS TO COUPLE WITH HUMAN HSA-PRE-MIRNAS AS NEW CARRIERS TO OFFER HUMANIZED BIORNAS TO TARGET HCC. IN ADDITION, HUMANIZED BIORNA/MIR-148A-3P IS PRECISELY PROCESSED TO MIR-148A-3P IN HUMAN HCC CELLS TO MODULATE SPECIFIC AMINO ACID AND GLUCOSE TRANSPORTER EXPRESSION TOWARDS THE CONTROL OF AMINOLYSES AND GLYCOLYSIS. GIVEN THESE EXCITING PRELIMINARY FINDINGS, WE HYPOTHESIZE THAT NOVEL, HCC-TARGETED, HUMANIZED BIORNAS CAN BE BIOENGINEERED AND USED TO DISSECT HCC NUTRIENT HOMEOSTASIS AND TUMOR METABOLISM. TO TEST THE HYPOTHESIS, WE PROPOSED TO (I) DESIGN, CLONE, EXPRESS, AND PURIFY A FOCUSED GROUP OF NOVEL HUMANIZED BIORNAS FOR THE INHIBITION OF HCC CELL VIABILITY (AIM 1), (II) DELINEATE THE MECHANISTIC ACTIONS OF BIORNAS IN THE CONTROL OF HCC CELL METABOLISM (AIM 2), AND (III) ESTABLISH THE EFFECTIVENESS AND SAFETY OF CANDIDATE BIORNAS IN THE MODULATION OF HCC TUMOR METABOLISM AND PROGRESSION IN VIVO (AIM 3). SUCCESSFUL COMPLETION OF THIS PROJECT WILL OFFER A SET OF ONE-OF-A-KIND, BIOLOGIC, HCC-TARGETED RNA MOLECULES AS RESEARCH TOOLS, ESTABLISH NEW ROLES FOR MIRNAS IN THE CONTROL OF HCC CELL METABOLISM, AND BUILD A SOLID FOUNDATION FOR THE DEVELOPMENT OF NEW REMEDIES TO IMPROVE THE TREATMENT OF LETHAL HCC.",
+    "total_obligation": 967182,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-07-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 397366.01,
+    "total_account_obligation": 967182,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 397366.01
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 967182
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2024-08-01",
+      "end_date": "2029-07-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2217",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 397366.01
+  }
+}

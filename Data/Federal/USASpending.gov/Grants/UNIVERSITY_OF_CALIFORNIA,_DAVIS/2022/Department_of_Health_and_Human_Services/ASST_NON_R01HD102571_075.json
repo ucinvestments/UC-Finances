@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91203934,
+    "Award ID": "R01HD102571",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2596438,
+    "Total Outlays": 1507681.37,
+    "Description": "A RANDOMIZED CONTROLLED TRIAL OF ABDOMINAL ULTRASOUND (FAST) IN CHILDREN WITH BLUNT TORSO TRAUMA - PROJECT SUMMARY/ABSTRACT HEMORRHAGE FROM INTRA-ABDOMINAL INJURIES (IAI) IS A LEADING CAUSE OF TRAUMATIC DEATHS IN CHILDREN. SEVERAL CONSENSUS PANELS HAVE PLACED MANAGEMENT OF INJURED CHILDREN AS A HIGH RESEARCH PRIORITY. MANY CHILDREN WITH IAIS HAVE SUBTLE SYMPTOMS, MAKING THE DIAGNOSIS DIFFICULT, AND MISSED OR DELAYED DIAGNOSES RESULT IN INCREASED MORBIDITY. THE COMBINATION OF LIMITED SCIENTIFIC EVIDENCE AND CONCERN OVER MISSING IAIS HAS RESULTED IN EXCESSIVE USE OF ABDOMINAL COMPUTED TOMOGRAPHY (CT). CT IS HIGHLY ACCURATE IN DIAGNOSING IAIS, DECREASES THE LEVEL OF CLINICAL MONITORING REQUIRED, AND IS AN IMPORTANT FACTOR IN DETERMINING THE NEED FOR SURGICAL TREATMENT. CT SCANNING ALSO PRESENTS RISKS TO CHILDREN, HOWEVER, MOST NOTABLY RADIATION-INDUCED MALIGNANCIES. THUS, COMPELLING REASONS EXIST TO BOTH AGGRESSIVELY EVALUATE INJURED CHILDREN FOR IAIS AND TO LIMIT ABDOMINAL CT EVALUATION TO JUST THOSE AT NON-NEGLIGIBLE RISK. ABDOMINAL ULTRASONOGRAPHY CAN HELP FOCUS PATIENT EVALUATION IN JUST THIS MANNER BY POTENTIALLY DECREASING ABDOMINAL CT USE IN LOW RISK CHILDREN. THE FOCUSED ASSESSMENT WITH SONOGRAPHY FOR TRAUMA (FAST) EXAMINATION USES ABDOMINAL ULTRASONOGRAPHY TO DETECT THE PRESENCE OF INTRAPERITONEAL FLUID IN INJURED PATIENTS. USE OF THE FAST EXAMINATION HAS PRIMARILY EVOLVED IN INJURED ADULT PATIENTS AND TWO RANDOMIZED CONTROLLED TRIALS (RCT) IN INJURED ADULTS DEMONSTRATE THAT AN EVALUATION STRATEGY INCLUDING THE FAST IMPROVES MULTIPLE ASPECTS OF PATIENT CARE INCLUDING SAFELY DECREASING ABDOMINAL CT USE. LIMITED AND CONFLICTING DATA, HOWEVER, EXIST IN THE PEDIATRIC POPULATION ON THE UTILITY OF THE FAST EXAMINATION. A LARGE MULTICENTER, OBSERVATIONAL STUDY SUGGESTS FAST SAFELY DECREASES ABDOMINAL CT USE IN CHILDREN CONSIDERED LOW RISK FOR IAI. THE ONLY RCT IN CHILDREN WAS A SINGLE CENTER STUDY THAT DEMONSTRATED FAST USE SIGNIFICANTLY DECREASED CLINICIAN SUSPICION OF IAI FOLLOWING A NEGATIVE FAST. THIS DECREASE IN CLINICIAN SUSPICION, HOWEVER, DID NOT TRANSLATE TO A DECREASE IN CT USE. THE CONFLICTING RESULTS FROM THESE STUDIES STRONGLY SUGGEST THE NEED FOR A MULTICENTER RCT POWERED TO DEFINITIVELY ANSWER THIS CRITICAL QUESTION. THE LONG- TERM OBJECTIVE OF THE RESEARCH IS TO DETERMINE APPROPRIATE EVALUATION STRATEGIES TO OPTIMIZE THE CARE OF INJURED CHILDREN, LEADING TO IMPROVED QUALITY OF CARE AND A REDUCTION IN MORBIDITY AND MORTALITY. THE SPECIFIC AIMS OF THIS PROPOSAL ARE TO: 1) PERFORM A RCT OF THE FAST EXAMINATION IN INJURED CHILDREN AND COMPARE THE FREQUENCY OF ABDOMINAL CT SCANNING BETWEEN CHILDREN IN THE FAST AND NON-FAST ARMS; 2) IDENTIFY IF AN EVALUATION STRATEGY INCLUDING THE FAST EXAMINATION RESULTS IN SIMILAR NUMBERS OF MISSED OR DELAYED DIAGNOSIS OF IAIS THAN A STRATEGY WITHOUT THE FAST EXAMINATION; AND 3) IDENTIFY PATIENT, PHYSICIAN, AND SYSTEM FACTORS ASSOCIATED WITH OBTAINING ABDOMINAL CT SCANS IN PATIENTS CONSIDERED VERY LOW RISK FOR IAI BY THE CLINICIAN AFTER A NEGATIVE FAST EXAMINATION. THIS STUDY WILL ENROLL A LARGE SAMPLE SIZE (3,180 CHILDREN) AT SIX DIVERSE SITES, AND THE RESULTS WILL PROVIDE DEFINITIVE EVIDENCE FOR THE ROLE OF THE FAST EXAMINATION IN CHILDREN WITH BLUNT TORSO TRAUMA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958171460",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-07",
+    "End Date": "2027-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HD102571_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91203934,
+    "generated_unique_award_id": "ASST_NON_R01HD102571_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A RANDOMIZED CONTROLLED TRIAL OF ABDOMINAL ULTRASOUND (FAST) IN CHILDREN WITH BLUNT TORSO TRAUMA - PROJECT SUMMARY/ABSTRACT HEMORRHAGE FROM INTRA-ABDOMINAL INJURIES (IAI) IS A LEADING CAUSE OF TRAUMATIC DEATHS IN CHILDREN. SEVERAL CONSENSUS PANELS HAVE PLACED MANAGEMENT OF INJURED CHILDREN AS A HIGH RESEARCH PRIORITY. MANY CHILDREN WITH IAIS HAVE SUBTLE SYMPTOMS, MAKING THE DIAGNOSIS DIFFICULT, AND MISSED OR DELAYED DIAGNOSES RESULT IN INCREASED MORBIDITY. THE COMBINATION OF LIMITED SCIENTIFIC EVIDENCE AND CONCERN OVER MISSING IAIS HAS RESULTED IN EXCESSIVE USE OF ABDOMINAL COMPUTED TOMOGRAPHY (CT). CT IS HIGHLY ACCURATE IN DIAGNOSING IAIS, DECREASES THE LEVEL OF CLINICAL MONITORING REQUIRED, AND IS AN IMPORTANT FACTOR IN DETERMINING THE NEED FOR SURGICAL TREATMENT. CT SCANNING ALSO PRESENTS RISKS TO CHILDREN, HOWEVER, MOST NOTABLY RADIATION-INDUCED MALIGNANCIES. THUS, COMPELLING REASONS EXIST TO BOTH AGGRESSIVELY EVALUATE INJURED CHILDREN FOR IAIS AND TO LIMIT ABDOMINAL CT EVALUATION TO JUST THOSE AT NON-NEGLIGIBLE RISK. ABDOMINAL ULTRASONOGRAPHY CAN HELP FOCUS PATIENT EVALUATION IN JUST THIS MANNER BY POTENTIALLY DECREASING ABDOMINAL CT USE IN LOW RISK CHILDREN. THE FOCUSED ASSESSMENT WITH SONOGRAPHY FOR TRAUMA (FAST) EXAMINATION USES ABDOMINAL ULTRASONOGRAPHY TO DETECT THE PRESENCE OF INTRAPERITONEAL FLUID IN INJURED PATIENTS. USE OF THE FAST EXAMINATION HAS PRIMARILY EVOLVED IN INJURED ADULT PATIENTS AND TWO RANDOMIZED CONTROLLED TRIALS (RCT) IN INJURED ADULTS DEMONSTRATE THAT AN EVALUATION STRATEGY INCLUDING THE FAST IMPROVES MULTIPLE ASPECTS OF PATIENT CARE INCLUDING SAFELY DECREASING ABDOMINAL CT USE. LIMITED AND CONFLICTING DATA, HOWEVER, EXIST IN THE PEDIATRIC POPULATION ON THE UTILITY OF THE FAST EXAMINATION. A LARGE MULTICENTER, OBSERVATIONAL STUDY SUGGESTS FAST SAFELY DECREASES ABDOMINAL CT USE IN CHILDREN CONSIDERED LOW RISK FOR IAI. THE ONLY RCT IN CHILDREN WAS A SINGLE CENTER STUDY THAT DEMONSTRATED FAST USE SIGNIFICANTLY DECREASED CLINICIAN SUSPICION OF IAI FOLLOWING A NEGATIVE FAST. THIS DECREASE IN CLINICIAN SUSPICION, HOWEVER, DID NOT TRANSLATE TO A DECREASE IN CT USE. THE CONFLICTING RESULTS FROM THESE STUDIES STRONGLY SUGGEST THE NEED FOR A MULTICENTER RCT POWERED TO DEFINITIVELY ANSWER THIS CRITICAL QUESTION. THE LONG- TERM OBJECTIVE OF THE RESEARCH IS TO DETERMINE APPROPRIATE EVALUATION STRATEGIES TO OPTIMIZE THE CARE OF INJURED CHILDREN, LEADING TO IMPROVED QUALITY OF CARE AND A REDUCTION IN MORBIDITY AND MORTALITY. THE SPECIFIC AIMS OF THIS PROPOSAL ARE TO: 1) PERFORM A RCT OF THE FAST EXAMINATION IN INJURED CHILDREN AND COMPARE THE FREQUENCY OF ABDOMINAL CT SCANNING BETWEEN CHILDREN IN THE FAST AND NON-FAST ARMS; 2) IDENTIFY IF AN EVALUATION STRATEGY INCLUDING THE FAST EXAMINATION RESULTS IN SIMILAR NUMBERS OF MISSED OR DELAYED DIAGNOSIS OF IAIS THAN A STRATEGY WITHOUT THE FAST EXAMINATION; AND 3) IDENTIFY PATIENT, PHYSICIAN, AND SYSTEM FACTORS ASSOCIATED WITH OBTAINING ABDOMINAL CT SCANS IN PATIENTS CONSIDERED VERY LOW RISK FOR IAI BY THE CLINICIAN AFTER A NEGATIVE FAST EXAMINATION. THIS STUDY WILL ENROLL A LARGE SAMPLE SIZE (3,180 CHILDREN) AT SIX DIVERSE SITES, AND THE RESULTS WILL PROVIDE DEFINITIVE EVIDENCE FOR THE ROLE OF THE FAST EXAMINATION IN CHILDREN WITH BLUNT TORSO TRAUMA.",
+    "total_obligation": 2596438,
+    "subaward_count": 15,
+    "total_subaward_amount": 881785,
+    "date_signed": "2022-09-07",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1507681.37,
+    "total_account_obligation": 2596438,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1507681.37
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2596438
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-07",
+      "end_date": "2027-08-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "1460",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1507681.37
+  }
+}

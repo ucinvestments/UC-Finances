@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91153380,
+    "Award ID": "R01CA248930",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2533044,
+    "Total Outlays": 1924758.21,
+    "Description": "TRIM37 IS A GENETIC DETERMINANT OF RACIAL DISPARITY IN METASTATIC TNBC PATIENTS - AFRICAN AMERICAN (AA) WOMEN PRESENTS WITH AGGRESSIVE METASTATIC SUBTYPE OF TRIPLE NEGATIVE BREAST CANCER (TNBC) COMPARED TO OTHER ETHNICITIES AND EXPERIENCE GREATER MORTALITY RATES. ALTHOUGH HEALTH CARE DISPARITIES CONTRIBUTE TO POOR PROGNOSIS IN AA WOMEN BUT A RACE-SPECIFIC GENETIC COMPONENT TO TNBC DISPARITY CANNOT BE RULED OUT. THUS, RACIALLY-SEGREGATED GENETIC DETERMINANT UNDERLYING TNBC DISPARITY REMAINS AN UNMET CLINICAL NEED. THIS PROJECT IS BUILT UPON OUR NOVEL FINDINGS SUGGESTING THAT AN ONCOGENIC TRIPARTITE MOTIF-CONTAINING PROTEIN 37 (TRIM37) PROTEIN PREDISPOSES AA WOMEN TO HIGHLY AGGRESSIVE TNBC. WE DEMONSTRATE THAT 1) TRIM37 ASSOCIATES WITH METASTATIC PHENOTYPE AND OVERALL SURVIVAL IN TNBC PATIENTS, 2) TRIM37 IS EXPRESSED AT HIGHER LEVEL IN THE BREAST AND TNBC TUMOR TISSUE OF AA WOMEN RELATIVE TO OTHER RACES, 3) TRIM37- ASSOCIATED SINGLE NUCLEOTIDE POLYMORPHISM CORRELATES WITH HIGH TRIM37 EXPRESSION IN AA WOMEN, 4) TRIM37 REGULATES GENES AND PATHWAYS INVOLVED IN METASTASIS CASCADE, SUCH AS PROMOTING SURVIVAL IN CIRCULATION, 5) AA TNBC CELLS SHOWED INCREASED DEPENDENCY ON ONCOGENIC TRIM37 COMPARED TO NON-AA TNBC CELL LINES IN VITRO AND IN VIVO, 6) TRIM37 DEPLETION REDUCES DISTANT INFILTRATION AND GROWTH IN METASTASIS MURINE MODEL 7) TRIM37 INHIBITION USING TARGETED NANOPARTICLES-BASED DELIVERY OF TRIM37-SPECIFIC ANTISENSE OLIGONUCLEOTIDES REDUCES TNBC TUMOR GROWTH. BASED ON THESE FINDINGS, WE HYPOTHESIZE THAT HIGHER TRIM37 LEVELS IN AA WOMEN GIVES A WOULD-BE CANCER CELL A “HEAD START” BY CREATING A PRE-METASTATIC NICHE. THIS HYPOTHESIS WILL BE TESTED IN THREE SPECIFIC AIMS. IN AIM 1, WE WILL EVALUATE TRIM37-ALLELIC VARIANTS, THAT WE HAVE ALREADY IDENTIFIED, THROUGH SMALL- SCALE PHENOTYPIC SCREEN BASED ON ANOIKIS RESISTANCE. WE WILL ALSO DETERMINE THE MECHANISM OF TRIM37-ALLELIC VARIANTS BY COMPARING THE BIOLOGICAL ACTIVITY OF TRIM37 RISK AND REFERENCE ALLELES. IN AIM 2, WE WILL COMPARE AND CONTRAST THE RELATIVE CONTRIBUTION OF TRIM37 TO TNBC METASTATIC POTENTIAL IN RACE-DEPENDENT MANNER. WE WILL ALSO TRACK ASSOCIATION BETWEEN TRIM37 AND ITS TRANSCRIPTIONAL SIGNATURES WITH RACE, METASTASIS INCIDENCE, AND PATIENT'S SURVIVAL USING DISEASE-FREE AND TUMOR TISSUE FROM TNBC PATIENTS. IN AIM 3, WE WILL COMPARE THE METASTATIC POTENTIAL OF TRIM37-DEPLETED AND TRIM37 OVEREXPRESSING RACE-SPECIFIC BREAST AND TNBC CELLS USING SPONTANEOUS METASTASIS MURINE MODELS. FINALLY, WE WILL TEST NEWLY ENGINEERED TNBC SELECTIVE THERAPEUTIC PLATFORM TO INHIBIT TRIM37 USING SPONTANEOUS METASTASIS, RACE-SPECIFIC PATIENT-DERIVED XENOGRAFTS AND HUMANIZED MURINE MODELS. TOGETHER, THE PROPOSED STUDIES WILL DEMONSTRATE THAT TRIM37 IS A GENETIC VARIANT ASSOCIATED WITH HIGH TNBC RISK IN AA WOMEN AND PROOF-OF-CONCEPT RESULTS WILL ESTABLISH THE CLINICAL RELEVANCE OF INHIBITING TRIM37 FOR TNBC TREATMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-04-01",
+    "End Date": "2026-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA248930_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91153380,
+    "generated_unique_award_id": "ASST_NON_R01CA248930_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TRIM37 IS A GENETIC DETERMINANT OF RACIAL DISPARITY IN METASTATIC TNBC PATIENTS - AFRICAN AMERICAN (AA) WOMEN PRESENTS WITH AGGRESSIVE METASTATIC SUBTYPE OF TRIPLE NEGATIVE BREAST CANCER (TNBC) COMPARED TO OTHER ETHNICITIES AND EXPERIENCE GREATER MORTALITY RATES. ALTHOUGH HEALTH CARE DISPARITIES CONTRIBUTE TO POOR PROGNOSIS IN AA WOMEN BUT A RACE-SPECIFIC GENETIC COMPONENT TO TNBC DISPARITY CANNOT BE RULED OUT. THUS, RACIALLY-SEGREGATED GENETIC DETERMINANT UNDERLYING TNBC DISPARITY REMAINS AN UNMET CLINICAL NEED. THIS PROJECT IS BUILT UPON OUR NOVEL FINDINGS SUGGESTING THAT AN ONCOGENIC TRIPARTITE MOTIF-CONTAINING PROTEIN 37 (TRIM37) PROTEIN PREDISPOSES AA WOMEN TO HIGHLY AGGRESSIVE TNBC. WE DEMONSTRATE THAT 1) TRIM37 ASSOCIATES WITH METASTATIC PHENOTYPE AND OVERALL SURVIVAL IN TNBC PATIENTS, 2) TRIM37 IS EXPRESSED AT HIGHER LEVEL IN THE BREAST AND TNBC TUMOR TISSUE OF AA WOMEN RELATIVE TO OTHER RACES, 3) TRIM37- ASSOCIATED SINGLE NUCLEOTIDE POLYMORPHISM CORRELATES WITH HIGH TRIM37 EXPRESSION IN AA WOMEN, 4) TRIM37 REGULATES GENES AND PATHWAYS INVOLVED IN METASTASIS CASCADE, SUCH AS PROMOTING SURVIVAL IN CIRCULATION, 5) AA TNBC CELLS SHOWED INCREASED DEPENDENCY ON ONCOGENIC TRIM37 COMPARED TO NON-AA TNBC CELL LINES IN VITRO AND IN VIVO, 6) TRIM37 DEPLETION REDUCES DISTANT INFILTRATION AND GROWTH IN METASTASIS MURINE MODEL 7) TRIM37 INHIBITION USING TARGETED NANOPARTICLES-BASED DELIVERY OF TRIM37-SPECIFIC ANTISENSE OLIGONUCLEOTIDES REDUCES TNBC TUMOR GROWTH. BASED ON THESE FINDINGS, WE HYPOTHESIZE THAT HIGHER TRIM37 LEVELS IN AA WOMEN GIVES A WOULD-BE CANCER CELL A “HEAD START” BY CREATING A PRE-METASTATIC NICHE. THIS HYPOTHESIS WILL BE TESTED IN THREE SPECIFIC AIMS. IN AIM 1, WE WILL EVALUATE TRIM37-ALLELIC VARIANTS, THAT WE HAVE ALREADY IDENTIFIED, THROUGH SMALL- SCALE PHENOTYPIC SCREEN BASED ON ANOIKIS RESISTANCE. WE WILL ALSO DETERMINE THE MECHANISM OF TRIM37-ALLELIC VARIANTS BY COMPARING THE BIOLOGICAL ACTIVITY OF TRIM37 RISK AND REFERENCE ALLELES. IN AIM 2, WE WILL COMPARE AND CONTRAST THE RELATIVE CONTRIBUTION OF TRIM37 TO TNBC METASTATIC POTENTIAL IN RACE-DEPENDENT MANNER. WE WILL ALSO TRACK ASSOCIATION BETWEEN TRIM37 AND ITS TRANSCRIPTIONAL SIGNATURES WITH RACE, METASTASIS INCIDENCE, AND PATIENT'S SURVIVAL USING DISEASE-FREE AND TUMOR TISSUE FROM TNBC PATIENTS. IN AIM 3, WE WILL COMPARE THE METASTATIC POTENTIAL OF TRIM37-DEPLETED AND TRIM37 OVEREXPRESSING RACE-SPECIFIC BREAST AND TNBC CELLS USING SPONTANEOUS METASTASIS MURINE MODELS. FINALLY, WE WILL TEST NEWLY ENGINEERED TNBC SELECTIVE THERAPEUTIC PLATFORM TO INHIBIT TRIM37 USING SPONTANEOUS METASTASIS, RACE-SPECIFIC PATIENT-DERIVED XENOGRAFTS AND HUMANIZED MURINE MODELS. TOGETHER, THE PROPOSED STUDIES WILL DEMONSTRATE THAT TRIM37 IS A GENETIC VARIANT ASSOCIATED WITH HIGH TNBC RISK IN AA WOMEN AND PROOF-OF-CONCEPT RESULTS WILL ESTABLISH THE CLINICAL RELEVANCE OF INHIBITING TRIM37 FOR TNBC TREATMENT.",
+    "total_obligation": 2533044,
+    "subaward_count": 1,
+    "total_subaward_amount": 38460,
+    "date_signed": "2021-01-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1924758.21,
+    "total_account_obligation": 2533044,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1924758.21
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2533044
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2021-04-01",
+      "end_date": "2026-03-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1924758.21
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "basic_data": {
+    "internal_id": 165021993,
+    "Award ID": "V664D95121",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 3000,
+    "Total Outlays": null,
+    "Description": "SMALL PURCHASE DATA",
+    "Contract Award Type": "PO",
+    "Recipient UEI": "TDBVKQC7N1V5",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR DEPT 621",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "53",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN DIEGO",
+      "congressional_code": "53",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "921610002",
+      "zip5": "92161"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Veterans Affairs",
+    "Awarding Sub Agency": "Department of Veterans Affairs",
+    "Start Date": "2009-06-27",
+    "End Date": "2009-07-07",
+    "NAICS": {
+      "code": null,
+      "description": null
+    },
+    "PSC": {
+      "code": "Q301",
+      "description": "REFERENCE LABORATORY TESTING"
+    },
+    "recipient_id": "5d3dd338-a8e7-ca03-6ab7-50639e2875da-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_V664D95121_3600_-NONE-_-NONE-",
+    "awarding_agency_id": 561,
+    "agency_slug": "department-of-veterans-affairs",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 165021993,
+    "generated_unique_award_id": "CONT_AWD_V664D95121_3600_-NONE-_-NONE-",
+    "piid": "V664D95121",
+    "category": "contract",
+    "type": "B",
+    "type_description": "PO",
+    "description": "SMALL PURCHASE DATA",
+    "total_obligation": 3000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2009-06-27",
+    "base_exercised_options": 3000,
+    "base_and_all_options": 3000,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": "NAN",
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": null,
+      "solicitation_procedures": "NP",
+      "number_of_offers_received": "1",
+      "extent_competed": "G",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "X",
+      "fed_biz_opps_description": "NOT APPLICABLE",
+      "small_business_competitive": false,
+      "product_or_service_code": "Q301",
+      "naics": "",
+      "naics_description": "",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N: NO",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": null,
+      "foreign_funding": "",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "NEGOTIATED PROPOSAL/QUOTE",
+      "extent_competed_description": "NOT COMPETED UNDER SAP",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "D",
+      "commercial_item_acquisition_description": "",
+      "commercial_item_test_program": "",
+      "commercial_item_test_program_description": "",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": "NAN",
+      "product_or_service_description": "LABORATORY TESTING SERVICES",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": null,
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "",
+      "interagency_contracting_authority_description": "",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 561,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Veterans Affairs",
+        "code": "036",
+        "abbreviation": "VA",
+        "slug": "department-of-veterans-affairs"
+      },
+      "subtier_agency": {
+        "name": "Department of Veterans Affairs",
+        "code": "3600",
+        "abbreviation": "VA"
+      },
+      "office_agency_name": "262S-NETWORK CONTRACT OFFICE 22 SMALL PURCHASES"
+    },
+    "period_of_performance": {
+      "start_date": "2009-06-27",
+      "end_date": "2009-07-07",
+      "last_modified_date": "2011-10-31",
+      "potential_end_date": "2009-07-07 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "5d3dd338-a8e7-ca03-6ab7-50639e2875da-C",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "TDBVKQC7N1V5",
+      "recipient_unique_id": "780682923",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Government",
+        "Higher Education",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "",
+        "city_name": "LA JOLLA",
+        "county_code": "",
+        "county_name": "",
+        "address_line1": "9500 GILMAN DR DEPT 621",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "920935004",
+        "zip5": "",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN DIEGO",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0002",
+      "zip5": "92161",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "Q",
+        "description": "MEDICAL SERVICES"
+      },
+      "midtier_code": {
+        "code": "Q3",
+        "description": "LABORATORY TESTING SERVICES"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "Q301",
+        "description": "REFERENCE LABORATORY TESTING"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

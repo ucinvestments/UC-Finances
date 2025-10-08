@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91197621,
+    "Award ID": "R01GM149799",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1134032,
+    "Total Outlays": 905340.94,
+    "Description": "HIGH-THROUGHPUT SCREENING AND STRUCTURE-GUIDED OPTIMIZATION OF OLIGONUCLEOTIDES FOR SITE-DIRECTED RNA EDITING BY ADARS. - PROJECT SUMMARY THE LARGEST CLASS OF GENETIC ALTERATIONS THAT CAUSE DISEASE ARE SINGLE POINT MUTATIONS. MOST OF THESE DISEASE-CAUSING ERRORS CAN BE REMEDIED IF A SPECIFIC ADENOSINE IS CHANGED TO GUANOSINE ON THE RNA TRANSCRIPT. THIS PROPOSAL AIMS TO REPURPOSE AN RNA EDITING ENZYME AND DIRECT IT TO SELECTIVELY EDIT TARGETED ADENOSINES IN MRNA TO TREAT GENETIC DISORDERS. THE RNA EDITING ENZYME ADENOSINE DEAMINASE ACTING ON RNA (ADAR) CAN CONVERT ADENOSINE TO INOSINE (A-TO-I) BY CATALYZING A DEAMINATION REACTION ON THE NUCLEOBASE. INOSINE IS READ AS GUANOSINE BY THE CELLULAR TRANSLATION MACHINERY PROVIDING THE ABILITY TO ALTER CODONS IN MRNA. THIS PROPOSAL WILL FOCUS ON SELECTIVELY EDITING DISEASE-CAUSING NONSENSE MUTATIONS, BY DIRECTING ADAR TO EDIT THE ADENOSINE IN THE STOP CODON THUS ALLOWING THE TRANSCRIPT TO CONTINUE TRANSLATION, PRODUCING FUNCTIONAL FULL- LENGTH PROTEIN. BECAUSE ADARS SELECTIVELY EDIT ADENOSINES IN REGIONS OF DSRNA, DISEASE-CAUSING NONSENSE MUTATIONS CAN BE SELECTIVELY TARGETED BY FURNISHING AN APPROPRIATE GUIDE OLIGONUCLEOTIDE TO CREATE A DSRNA SUBSTRATE. CANONICAL WATSON-CRICK COMPLEMENTARITY OF DUPLEX RNA DOES NOT PRODUCE EFFICIENT SUBSTRATES FOR ADARS, MAKING IT CHALLENGING TO DESIGN EFFECTIVE GUIDE OLIGONUCLEOTIDES TO TARGET SPECIFIC NONSENSE MUTATIONS. A HIGH-THROUGHPUT ASSAY IS PROPOSED TO SEARCH ALL SEQUENCE SPACE OF GUIDE RNA OLIGONUCLEOTIDES TO IDENTIFY LEAD SEQUENCES DISPLAYING HIGH EDITING EFFICIENCY OF THE TARGETED NONSENSE TRANSCRIPT USING ENDOGENOUS ADARS. THESE LEAD SEQUENCES CAN BE FURTHER OPTIMIZED BY STRUCTURE-GUIDED RATIONAL DESIGN METHODS. THE LAB HAS SIGNIFICANT EXPERIENCE IN DETERMINING ADAR-RNA STRUCTURES TO ATOMIC RESOLUTION AND LEVERAGING THIS KNOWLEDGE TO IMPROVE EDITING EFFICIENCY. BOTH X-RAY CRYSTALLOGRAPHY AND CRYO-EM TECHNIQUES ARE PROPOSED FOR ADAR1 OR ADAR2 COMPLEXED WITH DSRNA OF THE LEAD SEQUENCE BOUND TO ITS TARGETED MRNA SEGMENT. THESE STRUCTURES WILL PROVIDE THE BASIS FOR RATIONAL DESIGN ADJUSTMENTS TO DEVELOP NUCLEOTIDE ANALOGS TO INCORPORATE INTO GUIDE OLIGONUCLEOTIDES THAT CAN FASHION STRUCTURAL FEATURES FOR IMPROVED EDITING AND INCREASED METABOLIC STABILITY. THIS METHOD OF SITE-DIRECTED RNA EDITING (SDRE) TO TREAT GENETIC DISORDERS OFFERS MANY ADVANTAGES OVER CURRENT EDITING TOOLS, WHICH OFTEN REQUIRE ADDITION OF SIZABLE PROTEINS (E.G., CRISPR/CAS). WHEN FULLY DEVELOPED, THIS METHOD WOULD PERMIT THE SIMPLE ADMINISTRATION SHORTER OLIGONUCLEOTIDES ALLOWING THE CELL’S ENDOGENOUS ADARS TO RECODE THE NONSENSE MUTATION TO TREAT MANY GENETIC DISORDERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-04-01",
+    "End Date": "2027-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01GM149799_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91197621,
+    "generated_unique_award_id": "ASST_NON_R01GM149799_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "HIGH-THROUGHPUT SCREENING AND STRUCTURE-GUIDED OPTIMIZATION OF OLIGONUCLEOTIDES FOR SITE-DIRECTED RNA EDITING BY ADARS. - PROJECT SUMMARY THE LARGEST CLASS OF GENETIC ALTERATIONS THAT CAUSE DISEASE ARE SINGLE POINT MUTATIONS. MOST OF THESE DISEASE-CAUSING ERRORS CAN BE REMEDIED IF A SPECIFIC ADENOSINE IS CHANGED TO GUANOSINE ON THE RNA TRANSCRIPT. THIS PROPOSAL AIMS TO REPURPOSE AN RNA EDITING ENZYME AND DIRECT IT TO SELECTIVELY EDIT TARGETED ADENOSINES IN MRNA TO TREAT GENETIC DISORDERS. THE RNA EDITING ENZYME ADENOSINE DEAMINASE ACTING ON RNA (ADAR) CAN CONVERT ADENOSINE TO INOSINE (A-TO-I) BY CATALYZING A DEAMINATION REACTION ON THE NUCLEOBASE. INOSINE IS READ AS GUANOSINE BY THE CELLULAR TRANSLATION MACHINERY PROVIDING THE ABILITY TO ALTER CODONS IN MRNA. THIS PROPOSAL WILL FOCUS ON SELECTIVELY EDITING DISEASE-CAUSING NONSENSE MUTATIONS, BY DIRECTING ADAR TO EDIT THE ADENOSINE IN THE STOP CODON THUS ALLOWING THE TRANSCRIPT TO CONTINUE TRANSLATION, PRODUCING FUNCTIONAL FULL- LENGTH PROTEIN. BECAUSE ADARS SELECTIVELY EDIT ADENOSINES IN REGIONS OF DSRNA, DISEASE-CAUSING NONSENSE MUTATIONS CAN BE SELECTIVELY TARGETED BY FURNISHING AN APPROPRIATE GUIDE OLIGONUCLEOTIDE TO CREATE A DSRNA SUBSTRATE. CANONICAL WATSON-CRICK COMPLEMENTARITY OF DUPLEX RNA DOES NOT PRODUCE EFFICIENT SUBSTRATES FOR ADARS, MAKING IT CHALLENGING TO DESIGN EFFECTIVE GUIDE OLIGONUCLEOTIDES TO TARGET SPECIFIC NONSENSE MUTATIONS. A HIGH-THROUGHPUT ASSAY IS PROPOSED TO SEARCH ALL SEQUENCE SPACE OF GUIDE RNA OLIGONUCLEOTIDES TO IDENTIFY LEAD SEQUENCES DISPLAYING HIGH EDITING EFFICIENCY OF THE TARGETED NONSENSE TRANSCRIPT USING ENDOGENOUS ADARS. THESE LEAD SEQUENCES CAN BE FURTHER OPTIMIZED BY STRUCTURE-GUIDED RATIONAL DESIGN METHODS. THE LAB HAS SIGNIFICANT EXPERIENCE IN DETERMINING ADAR-RNA STRUCTURES TO ATOMIC RESOLUTION AND LEVERAGING THIS KNOWLEDGE TO IMPROVE EDITING EFFICIENCY. BOTH X-RAY CRYSTALLOGRAPHY AND CRYO-EM TECHNIQUES ARE PROPOSED FOR ADAR1 OR ADAR2 COMPLEXED WITH DSRNA OF THE LEAD SEQUENCE BOUND TO ITS TARGETED MRNA SEGMENT. THESE STRUCTURES WILL PROVIDE THE BASIS FOR RATIONAL DESIGN ADJUSTMENTS TO DEVELOP NUCLEOTIDE ANALOGS TO INCORPORATE INTO GUIDE OLIGONUCLEOTIDES THAT CAN FASHION STRUCTURAL FEATURES FOR IMPROVED EDITING AND INCREASED METABOLIC STABILITY. THIS METHOD OF SITE-DIRECTED RNA EDITING (SDRE) TO TREAT GENETIC DISORDERS OFFERS MANY ADVANTAGES OVER CURRENT EDITING TOOLS, WHICH OFTEN REQUIRE ADDITION OF SIZABLE PROTEINS (E.G., CRISPR/CAS). WHEN FULLY DEVELOPED, THIS METHOD WOULD PERMIT THE SIMPLE ADMINISTRATION SHORTER OLIGONUCLEOTIDES ALLOWING THE CELL’S ENDOGENOUS ADARS TO RECODE THE NONSENSE MUTATION TO TREAT MANY GENETIC DISORDERS.",
+    "total_obligation": 1134032,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-03-09",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 905340.94,
+    "total_account_obligation": 1134032,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 905340.94
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1134032
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-04-01",
+      "end_date": "2027-03-31",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 905340.94
+  }
+}

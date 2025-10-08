@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91121824,
+    "Award ID": "R01AG056519",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 20680832,
+    "Total Outlays": 12946413.94,
+    "Description": "EPIDEMIOLOGY OF AGE-RELATED DEMENTIA, MILD COGNITIVE IMPAIRMENT AND BRAIN PATHOLOGY IN A MULTIETHNIC COHORT OF OLDEST-OLD - PROJECT SUMMARY THE LIFE AFTER 90 STUDY IS A LIFECOURSE COHORT STUDY OF ALZHEIMER'S DISEASE AND RELATED DEMENTIA (ADRD), CEREBROPATHOLOGY, AND COGNITIVE AGING IN DIVERSE OLDEST-OLD INDIVIDUALS. RECENTLY LAUNCHED, AND STILL ENROLLING, LA90 IS THE LARGEST, MOST ETHNIC/RACIALLY DIVERSE COHORT STUDY OF THE OLDEST-OLD WITH PROSPECTIVE CLINICAL AND LIFESTYLE DATA FROM AS EARLY AS 1960/70S. IN CYCLE 1, WE ENROLLED 908 INDIVIDUALS AGED 90+ (MEAN AGE 92.6, RANGE 90-105) FROM A RANGE OF ENTHORACIAL BACKGROUNDS (22% BLACK, 24% ASIAN, 20% LATINO, 28% WHITE, 1% OTHER, 6% MULTI-RACE). PARTICIPANTS ARE SEEN EVERY 6 MONTHS WITH AN AVERAGE OF 2.9 RESEARCH VISITS PER PERSON TO DATE. ALL VISITS INCLUDE AN EXTENSIVE NEUROPSYCHOLOGY BATTERY AND CLINICAL EXAM, RESEARCH INTERVIEW INCLUDING MEASURES OF LIFECOURSE SOCIAL EXPERIENCE, BRAIN DONATION PROGRAM, AND, AMONG A SUBSET, PET AND MRI IMAGING. THE LA90 COHORT ENCOMPASSES AN ARRAY OF LIFE EXPERIENCES, 17% WERE BORN OUTSIDE OF THE US, 35% HAVE \u003cHIGH SCHOOL EDUCATION, 40% ARE MULTILINGUAL OR LEARNED ENGLISH AS A SECOND LANGUAGE, AND 24% BORN IN SOUTHERN US. OUR INITIAL FINDINGS SUGGEST THAT THERE IS VAST HETEROGENEITY AND COMPLEXITY IN THE TRAJECTORY OF COGNITIVE CHANGE, BRAIN PATHOLOGIES, AND NEUROIMAGING MARKERS OF BRAIN STATUS IN THE 10TH AND 11TH DECADE OF LIFE. IN THIS COMPETITIVE RENEWAL APPLICATION, WE EXTEND OUR SCIENCE TO INVESTIGATE BLOOD-BASED BIOMARKERS FOR ADRD IN OLDEST-OLD USING THE ATN FRAMEWORK (AMYLOID, TAU, NEURODEGENERATION), EXPAND OUR BRAIN DONATION-BASED PATHOLOGY, AND ENROLL AN ADDITIONAL 500 ETHNIC/RACIALLY DIVERSE PARTICIPANTS. ADDITIONALLY, WE WILL LEVERAGE DECADES OF ANTECEDENT HEALTH DATA AVAILABLE TO IDENTIFY EARLY AND MIDLIFE MARKERS FOR OLDEST-OLD COGNITIVE `SUPERAGERS'. OUR AIMS ARE: AIM 1. ENROLL 500 ADDITIONAL OLDEST-OLD INDIVIDUALS TO DETERMINE MORE PRECISE AGE-SPECIFIC, RACE-SPECIFIC, AND SEX- SPECIFIC INCIDENT RATES OF COGNITIVE IMPAIRMENT, ADRD, AND COGNITIVE DECLINE OVER 8 YEARS. AIM 2: DETERMINE THE CONTRIBUTION OF NEUROIMAGING MARKERS OF AMYLOID, VASCULAR INJURY, AND BRAIN ATROPHY ON COGNITIVE DECLINE AND ADRD IN DIVERSE OLDEST-OLD. AIM 3: CONTINUE ENROLLMENT INTO BRAIN DONATION AND CHARACTERIZE THE CONTRIBUTION OF BRAIN PATHOLOGIES ON COGNITIVE DECLINE, AND ADRD IN THE OLDEST-OLD. AIM 4: COLLECT AND QUANTIFY BLOOD-BASED BIOMARKERS CONSISTENT WITH THE ATN FRAMEWORK AND EVALUATE THEIR CONTRIBUTION TO ADRD AND COGNITIVE IMPAIRMENT IN DIVERSE OLDEST-OLD INDIVIDUALS. AIM 5: IN A DIVERSE COHORT OF OLDEST-OLD, IDENTIFY AND UNDERSTAND LIFECOURSE PREDICTORS OF COGNITIVE `SUPERAGERS'. RENEWAL OF LA90 WILL CREATE AN UNPRECEDENTED SCIENTIFIC RESOURCE FOR STUDYING ADRD AND COGNITIVE OUTCOMES IN A DIVERSE COHORT OF OLDEST-OLD INDIVIDUALS, A GROUP REPRESENTING THE RAPID DIVERSIFICATION OF THIS POPULATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2017-09-15",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG056519_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91121824,
+    "generated_unique_award_id": "ASST_NON_R01AG056519_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EPIDEMIOLOGY OF AGE-RELATED DEMENTIA, MILD COGNITIVE IMPAIRMENT AND BRAIN PATHOLOGY IN A MULTIETHNIC COHORT OF OLDEST-OLD - PROJECT SUMMARY THE LIFE AFTER 90 STUDY IS A LIFECOURSE COHORT STUDY OF ALZHEIMER'S DISEASE AND RELATED DEMENTIA (ADRD), CEREBROPATHOLOGY, AND COGNITIVE AGING IN DIVERSE OLDEST-OLD INDIVIDUALS. RECENTLY LAUNCHED, AND STILL ENROLLING, LA90 IS THE LARGEST, MOST ETHNIC/RACIALLY DIVERSE COHORT STUDY OF THE OLDEST-OLD WITH PROSPECTIVE CLINICAL AND LIFESTYLE DATA FROM AS EARLY AS 1960/70S. IN CYCLE 1, WE ENROLLED 908 INDIVIDUALS AGED 90+ (MEAN AGE 92.6, RANGE 90-105) FROM A RANGE OF ENTHORACIAL BACKGROUNDS (22% BLACK, 24% ASIAN, 20% LATINO, 28% WHITE, 1% OTHER, 6% MULTI-RACE). PARTICIPANTS ARE SEEN EVERY 6 MONTHS WITH AN AVERAGE OF 2.9 RESEARCH VISITS PER PERSON TO DATE. ALL VISITS INCLUDE AN EXTENSIVE NEUROPSYCHOLOGY BATTERY AND CLINICAL EXAM, RESEARCH INTERVIEW INCLUDING MEASURES OF LIFECOURSE SOCIAL EXPERIENCE, BRAIN DONATION PROGRAM, AND, AMONG A SUBSET, PET AND MRI IMAGING. THE LA90 COHORT ENCOMPASSES AN ARRAY OF LIFE EXPERIENCES, 17% WERE BORN OUTSIDE OF THE US, 35% HAVE \u003cHIGH SCHOOL EDUCATION, 40% ARE MULTILINGUAL OR LEARNED ENGLISH AS A SECOND LANGUAGE, AND 24% BORN IN SOUTHERN US. OUR INITIAL FINDINGS SUGGEST THAT THERE IS VAST HETEROGENEITY AND COMPLEXITY IN THE TRAJECTORY OF COGNITIVE CHANGE, BRAIN PATHOLOGIES, AND NEUROIMAGING MARKERS OF BRAIN STATUS IN THE 10TH AND 11TH DECADE OF LIFE. IN THIS COMPETITIVE RENEWAL APPLICATION, WE EXTEND OUR SCIENCE TO INVESTIGATE BLOOD-BASED BIOMARKERS FOR ADRD IN OLDEST-OLD USING THE ATN FRAMEWORK (AMYLOID, TAU, NEURODEGENERATION), EXPAND OUR BRAIN DONATION-BASED PATHOLOGY, AND ENROLL AN ADDITIONAL 500 ETHNIC/RACIALLY DIVERSE PARTICIPANTS. ADDITIONALLY, WE WILL LEVERAGE DECADES OF ANTECEDENT HEALTH DATA AVAILABLE TO IDENTIFY EARLY AND MIDLIFE MARKERS FOR OLDEST-OLD COGNITIVE `SUPERAGERS'. OUR AIMS ARE: AIM 1. ENROLL 500 ADDITIONAL OLDEST-OLD INDIVIDUALS TO DETERMINE MORE PRECISE AGE-SPECIFIC, RACE-SPECIFIC, AND SEX- SPECIFIC INCIDENT RATES OF COGNITIVE IMPAIRMENT, ADRD, AND COGNITIVE DECLINE OVER 8 YEARS. AIM 2: DETERMINE THE CONTRIBUTION OF NEUROIMAGING MARKERS OF AMYLOID, VASCULAR INJURY, AND BRAIN ATROPHY ON COGNITIVE DECLINE AND ADRD IN DIVERSE OLDEST-OLD. AIM 3: CONTINUE ENROLLMENT INTO BRAIN DONATION AND CHARACTERIZE THE CONTRIBUTION OF BRAIN PATHOLOGIES ON COGNITIVE DECLINE, AND ADRD IN THE OLDEST-OLD. AIM 4: COLLECT AND QUANTIFY BLOOD-BASED BIOMARKERS CONSISTENT WITH THE ATN FRAMEWORK AND EVALUATE THEIR CONTRIBUTION TO ADRD AND COGNITIVE IMPAIRMENT IN DIVERSE OLDEST-OLD INDIVIDUALS. AIM 5: IN A DIVERSE COHORT OF OLDEST-OLD, IDENTIFY AND UNDERSTAND LIFECOURSE PREDICTORS OF COGNITIVE `SUPERAGERS'. RENEWAL OF LA90 WILL CREATE AN UNPRECEDENTED SCIENTIFIC RESOURCE FOR STUDYING ADRD AND COGNITIVE OUTCOMES IN A DIVERSE COHORT OF OLDEST-OLD INDIVIDUALS, A GROUP REPRESENTING THE RAPID DIVERSIFICATION OF THIS POPULATION.",
+    "total_obligation": 20680832,
+    "subaward_count": 4,
+    "total_subaward_amount": 4679918,
+    "date_signed": "2022-06-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 12946413.94,
+    "total_account_obligation": 20680832,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 12946413.94
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 20680832
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2017-09-15",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 12946413.94
+  }
+}

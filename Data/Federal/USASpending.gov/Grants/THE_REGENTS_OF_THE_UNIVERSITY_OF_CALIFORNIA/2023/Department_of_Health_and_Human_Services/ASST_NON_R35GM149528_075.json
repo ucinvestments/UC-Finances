@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91330208,
+    "Award ID": "R35GM149528",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 2049717,
+    "Total Outlays": 1562840.46,
+    "Description": "TAKING SNAPSHOTS OF ENZYMATIC REACTIONS USING X-RAY CRYSTALLOGRAPHY AND SPECTROSCOPY - PROJECT SUMMARY/ABSTRACT  METALLOPROTEINS CONTAINING MN AND FE IN A REDOX-ACTIVE ROLE ARE INVOLVED IN A VARIETY OF PHYSIOLOGICALLY IMPORTANT REACTIONS OF DIOXYGEN METABOLISM AND ACTIVATION. PERHAPS THE MOST COMPLEX IS THE MN4CAO5 CLUSTER THAT IS INVOLVED IN THE OXIDATION OF WATER TO DIOXYGEN IN PHOTOSYSTEM II (PS II), A MULTI-SUBUNIT MEMBRANE PROTEIN COMPLEX. THE WATER-OXIDATION REACTION IN PS II INVOLVES REMOVAL OF FOUR ELECTRONS FROM TWO WATER MOLECULES, IN A STEPWISE MANNER BY LIGHT-INDUCED OXIDATION, TO PRODUCE A MOLECULE OF OXYGEN. PS II AND THE MN4CAO5 CLUSTER GENERATE ALMOST ALL OF THE DIOXYGEN THAT SUPPORTS AEROBIC LIFE, AND IT IS ABUNDANT IN THE ATMOSPHERE BECAUSE OF ITS CONSTANT REGENERATION BY THE OXIDATION OF WATER. THE LIGHT-INDUCED OXIDATION OF WATER TO DIOXYGEN IS ONE OF THE MOST IMPORTANT CHEMICAL PROCESSES OCCURRING ON SUCH A LARGE SCALE IN THE BIOSPHERE.  ALTHOUGH THE STRUCTURE OF PS II AND THE CHEMISTRY AT THE CATALYTIC SITE HAVE BEEN STUDIED INTENSIVELY, UNDERSTANDING THE SEQUENCE IN THE CHEMISTRY AT ATOMIC-SCALE FROM LIGHT ABSORPTION TO WATER-OXIDATION REQUIRES A NEW APPROACH BEYOND THE CONVENTIONAL STEADY STATE X-RAY CRYSTALLOGRAPHY AND X-RAY SPECTROSCOPY AT CRYOGENIC TEMPERATURES. FOLLOWING THE DYNAMIC CHANGES IN THE STRUCTURE OF PS II AND THE MN4CAO5 CLUSTER AT AMBIENT CONDITIONS AT PHYSIOLOGICAL TEMPERATURES, WHILE OVERCOMING THE SEVERE X-RAY DAMAGE TO THE REDOX ACTIVE CENTER IS KEY FOR DERIVING THE MECHANISM. THE VERY INTENSE, ULTRA-SHORT FEMTOSECOND (FS) X-RAY PULSES FROM A X-RAY FREE ELECTRON LASER (XFEL) PROVIDE AN OPPORTUNITY TO OVERCOME THE CURRENT LIMITATIONS IN ROOM TEMPERATURE DATA COLLECTION FOR BIOLOGICAL SAMPLES AT TRADITIONAL X-RAY SOURCES. THE FS X-RAY PULSES ALLOW US TO ACQUIRE THE SIGNAL BEFORE THE SAMPLE IS DESTROYED, THUS MAKING THE LIGHT-INDUCED SNAPSHOT STUDY POSSIBLE.  THE OBJECTIVE OF THIS PROPOSAL IS TO STUDY THE PROTEIN STRUCTURE AND DYNAMICS OF PS II WITH X-RAY DIFFRACTION, AS WELL AS THE CHEMICAL STRUCTURE AND CHANGES IN THE MN4CAO5 CLUSTER (CHARGE AND SPIN DENSITY, AND COVALENCY) WITH X-RAY SPECTROSCOPY DURING THE LIGHT-DRIVEN PROCESS OF PS II. WE WILL USE THE XFEL FACILITIES AT STANFORD AND ELSEWHERE TO COLLECT X-RAY DIFFRACTION AND EMISSION SPECTRA SIMULTANEOUSLY, AND X-RAY ABSORPTION SPECTRA OF THE MN CLUSTER IN ITS NATIVE AND INTERMEDIATES STATES AT ROOM TEMPERATURE IN A TIME-RESOLVED MANNER, TO CAPTURE SHORT-LIVED INTERMEDIATES AND THE STEP THAT INCLUDES THE O-O BOND FORMATION. WE HAVE ALSO STARTED STUDYING THE CHEMISTRY OF OTHER MN/FE/NI CONTAINING METALLOENZYMES OF IMPORTANCE SUCH AS METHANE MONOOXGYGENASE, RIBONUCLEOTIDE REDUCTASE, ISOPENICILLIN N SYNTHASE AND OTHER RELATED ENZYMES.  THESE STUDIES HAVE THE POTENTIAL TO PROVIDE AN UNPRECEDENTED COMBINATION OF CORRELATED DATA BETWEEN THE PROTEINS AND THE METAL CO-FACTORS, PROVIDING THE GEOMETRIC AND ELECTRONIC STRUCTURE AND THE CHANGES THAT OCCUR DURING THE CATALYTIC CYCLE, ALL OF WHICH ARE NECESSARY FOR A COMPLETE UNDERSTANDING OF THE MECHANISM OF THE ENZYMATIC REACTIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "ENBLDJUN4N73",
+    "Recipient Location": {
+      "address_line1": "1 CYCLOTRON RD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "8099",
+      "zip5": "94720"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "947208099",
+      "zip5": "94720"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-05-01",
+    "End Date": "2028-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM149528_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91330208,
+    "generated_unique_award_id": "ASST_NON_R35GM149528_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TAKING SNAPSHOTS OF ENZYMATIC REACTIONS USING X-RAY CRYSTALLOGRAPHY AND SPECTROSCOPY - PROJECT SUMMARY/ABSTRACT  METALLOPROTEINS CONTAINING MN AND FE IN A REDOX-ACTIVE ROLE ARE INVOLVED IN A VARIETY OF PHYSIOLOGICALLY IMPORTANT REACTIONS OF DIOXYGEN METABOLISM AND ACTIVATION. PERHAPS THE MOST COMPLEX IS THE MN4CAO5 CLUSTER THAT IS INVOLVED IN THE OXIDATION OF WATER TO DIOXYGEN IN PHOTOSYSTEM II (PS II), A MULTI-SUBUNIT MEMBRANE PROTEIN COMPLEX. THE WATER-OXIDATION REACTION IN PS II INVOLVES REMOVAL OF FOUR ELECTRONS FROM TWO WATER MOLECULES, IN A STEPWISE MANNER BY LIGHT-INDUCED OXIDATION, TO PRODUCE A MOLECULE OF OXYGEN. PS II AND THE MN4CAO5 CLUSTER GENERATE ALMOST ALL OF THE DIOXYGEN THAT SUPPORTS AEROBIC LIFE, AND IT IS ABUNDANT IN THE ATMOSPHERE BECAUSE OF ITS CONSTANT REGENERATION BY THE OXIDATION OF WATER. THE LIGHT-INDUCED OXIDATION OF WATER TO DIOXYGEN IS ONE OF THE MOST IMPORTANT CHEMICAL PROCESSES OCCURRING ON SUCH A LARGE SCALE IN THE BIOSPHERE.  ALTHOUGH THE STRUCTURE OF PS II AND THE CHEMISTRY AT THE CATALYTIC SITE HAVE BEEN STUDIED INTENSIVELY, UNDERSTANDING THE SEQUENCE IN THE CHEMISTRY AT ATOMIC-SCALE FROM LIGHT ABSORPTION TO WATER-OXIDATION REQUIRES A NEW APPROACH BEYOND THE CONVENTIONAL STEADY STATE X-RAY CRYSTALLOGRAPHY AND X-RAY SPECTROSCOPY AT CRYOGENIC TEMPERATURES. FOLLOWING THE DYNAMIC CHANGES IN THE STRUCTURE OF PS II AND THE MN4CAO5 CLUSTER AT AMBIENT CONDITIONS AT PHYSIOLOGICAL TEMPERATURES, WHILE OVERCOMING THE SEVERE X-RAY DAMAGE TO THE REDOX ACTIVE CENTER IS KEY FOR DERIVING THE MECHANISM. THE VERY INTENSE, ULTRA-SHORT FEMTOSECOND (FS) X-RAY PULSES FROM A X-RAY FREE ELECTRON LASER (XFEL) PROVIDE AN OPPORTUNITY TO OVERCOME THE CURRENT LIMITATIONS IN ROOM TEMPERATURE DATA COLLECTION FOR BIOLOGICAL SAMPLES AT TRADITIONAL X-RAY SOURCES. THE FS X-RAY PULSES ALLOW US TO ACQUIRE THE SIGNAL BEFORE THE SAMPLE IS DESTROYED, THUS MAKING THE LIGHT-INDUCED SNAPSHOT STUDY POSSIBLE.  THE OBJECTIVE OF THIS PROPOSAL IS TO STUDY THE PROTEIN STRUCTURE AND DYNAMICS OF PS II WITH X-RAY DIFFRACTION, AS WELL AS THE CHEMICAL STRUCTURE AND CHANGES IN THE MN4CAO5 CLUSTER (CHARGE AND SPIN DENSITY, AND COVALENCY) WITH X-RAY SPECTROSCOPY DURING THE LIGHT-DRIVEN PROCESS OF PS II. WE WILL USE THE XFEL FACILITIES AT STANFORD AND ELSEWHERE TO COLLECT X-RAY DIFFRACTION AND EMISSION SPECTRA SIMULTANEOUSLY, AND X-RAY ABSORPTION SPECTRA OF THE MN CLUSTER IN ITS NATIVE AND INTERMEDIATES STATES AT ROOM TEMPERATURE IN A TIME-RESOLVED MANNER, TO CAPTURE SHORT-LIVED INTERMEDIATES AND THE STEP THAT INCLUDES THE O-O BOND FORMATION. WE HAVE ALSO STARTED STUDYING THE CHEMISTRY OF OTHER MN/FE/NI CONTAINING METALLOENZYMES OF IMPORTANCE SUCH AS METHANE MONOOXGYGENASE, RIBONUCLEOTIDE REDUCTASE, ISOPENICILLIN N SYNTHASE AND OTHER RELATED ENZYMES.  THESE STUDIES HAVE THE POTENTIAL TO PROVIDE AN UNPRECEDENTED COMBINATION OF CORRELATED DATA BETWEEN THE PROTEINS AND THE METAL CO-FACTORS, PROVIDING THE GEOMETRIC AND ELECTRONIC STRUCTURE AND THE CHANGES THAT OCCUR DURING THE CATALYTIC CYCLE, ALL OF WHICH ARE NECESSARY FOR A COMPLETE UNDERSTANDING OF THE MECHANISM OF THE ENZYMATIC REACTIONS.",
+    "total_obligation": 2049717,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-03-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1562840.46,
+    "total_account_obligation": 2049717,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1562840.46
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2049717
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-05-01",
+      "end_date": "2028-04-30",
+      "last_modified_date": "2025-04-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "ENBLDJUN4N73",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1 CYCLOTRON RD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "8099",
+        "zip5": "94720",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "8099",
+      "zip5": "94720",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1562840.46
+  }
+}

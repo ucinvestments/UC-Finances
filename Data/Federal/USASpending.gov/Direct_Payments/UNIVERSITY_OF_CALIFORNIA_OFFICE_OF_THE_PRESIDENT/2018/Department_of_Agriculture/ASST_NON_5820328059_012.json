@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 69491502,
+    "Award ID": "5820328059",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA OFFICE OF THE PRESIDENT",
+    "Award Amount": 138506.83,
+    "Total Outlays": 138232.06,
+    "Description": "DEVELOPMENT OF WEB-BASED DECISION SUPPORT SYSTEMS TO IMPROVE CROP MANAGEMENT DECISIONS - FULL TITLE: DEVELOPMENT OF WEB-BASED DECISION SUPPORT SYSTEMS TO IMPROVE CROP MANAGEMENT DECISIONS AND REDUCE AGRICULTURAL RISKS ASSOCIATED WITH CLIMATE VARIABILITY AND CLIMATE CHANGE OBJECTIVES: INITIATE THE DEVELOPMENT OR EXTENSION OF A WEB BASED DECISION SUPPORT FRAMEWORK SIMILAR TO THE NORTHWEST CLIMATE TOOL BOX OR AGROCLIMATE.ORG TEAM. EACH OF THESE WEB-BASED PLATFORMS IS AN INNOVATIVE WEB-RESOURCE COMPENDIUM FOR DECISION-SUPPORT AND LEARNING. THE PROPOSED PLATFORM FOR CALIFORNIA SPECIALTY CROPS WILL PROVIDE INTERACTIVE TOOLS AND CLIMATE INFORMATION TO IMPROVE CROP MANAGEMENT DECISIONS AND REDUCE PRODUCTION RISKS ASSOCIATED WITH CLIMATE VARIABILITY AND CLIMATE CHANGE. THIS EFFORT HAS BEEN QUITE SUCCESSFUL IN BOTH THE PACIFIC NORTHWEST AS WELL AS THE SOUTHEASTERN U.S. AND TO THE BEST OF OUR KNOWLEDGE NOTHING SIMILAR TO THIS EXISTS IN CALIFORNIA. WE ARE PROPOSING TO INITIATE THIS EFFORT WITH FEW SPECIALTY CROPS, TO TAKE ADVANTAGE OF EXISTING, ON-GOING AND PLANNED EFFORTS IN CALIFORNIA. ALTHOUGH, THIS APPROACH WOULD BE FOCUSED ON SELECTED SPECIALTY CROPS, OVERALL PROPOSED APPROACH COULD POTENTIALLY BE EXPANDED TO INCLUDE ANNUAL CROPPING SYSTEMS, SHOULD THAT BE IDENTIFIED AS A CRITICAL NEED IN FUTURE YEARS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "K5KAMCPRVED6",
+    "Recipient Location": {
+      "address_line1": "1111 FRANKLIN ST., FL 6",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "OAKLAND",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5201",
+      "zip5": "94607"
+    },
+    "Primary Place of Performance": {
+      "city_name": "MERCED",
+      "congressional_code": "16",
+      "country_name": "UNITED STATES",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95343-0000",
+      "zip5": "95343"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Agricultural Research Service",
+    "Start Date": "2018-09-15",
+    "End Date": "2023-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ea7a33b4-8d5e-e75d-a88c-0a12b25732c6-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_5820328059_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 69491502,
+    "generated_unique_award_id": "ASST_NON_5820328059_012",
+    "piid": "",
+    "category": "other",
+    "type": "11",
+    "type_description": "OTHER REIMBURSABLE, CONTINGENT, INTANGIBLE, OR INDIRECT FINANCIAL ASSISTANCE",
+    "description": "DEVELOPMENT OF WEB-BASED DECISION SUPPORT SYSTEMS TO IMPROVE CROP MANAGEMENT DECISIONS - FULL TITLE: DEVELOPMENT OF WEB-BASED DECISION SUPPORT SYSTEMS TO IMPROVE CROP MANAGEMENT DECISIONS AND REDUCE AGRICULTURAL RISKS ASSOCIATED WITH CLIMATE VARIABILITY AND CLIMATE CHANGE OBJECTIVES: INITIATE THE DEVELOPMENT OR EXTENSION OF A WEB BASED DECISION SUPPORT FRAMEWORK SIMILAR TO THE NORTHWEST CLIMATE TOOL BOX OR AGROCLIMATE.ORG TEAM. EACH OF THESE WEB-BASED PLATFORMS IS AN INNOVATIVE WEB-RESOURCE COMPENDIUM FOR DECISION-SUPPORT AND LEARNING. THE PROPOSED PLATFORM FOR CALIFORNIA SPECIALTY CROPS WILL PROVIDE INTERACTIVE TOOLS AND CLIMATE INFORMATION TO IMPROVE CROP MANAGEMENT DECISIONS AND REDUCE PRODUCTION RISKS ASSOCIATED WITH CLIMATE VARIABILITY AND CLIMATE CHANGE. THIS EFFORT HAS BEEN QUITE SUCCESSFUL IN BOTH THE PACIFIC NORTHWEST AS WELL AS THE SOUTHEASTERN U.S. AND TO THE BEST OF OUR KNOWLEDGE NOTHING SIMILAR TO THIS EXISTS IN CALIFORNIA. WE ARE PROPOSING TO INITIATE THIS EFFORT WITH FEW SPECIALTY CROPS, TO TAKE ADVANTAGE OF EXISTING, ON-GOING AND PLANNED EFFORTS IN CALIFORNIA. ALTHOUGH, THIS APPROACH WOULD BE FOCUSED ON SELECTED SPECIALTY CROPS, OVERALL PROPOSED APPROACH COULD POTENTIALLY BE EXPANDED TO INCLUDE ANNUAL CROPPING SYSTEMS, SHOULD THAT BE IDENTIFIED AS A CRITICAL NEED IN FUTURE YEARS.",
+    "total_obligation": 138506.83,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2018-09-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 138232.06,
+    "total_account_obligation": -59.17,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 138232.06
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -59.17
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "awarding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "period_of_performance": {
+      "start_date": "2018-09-15",
+      "end_date": "2023-05-31",
+      "last_modified_date": "2023-10-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ea7a33b4-8d5e-e75d-a88c-0a12b25732c6-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA OFFICE OF THE PRESIDENT",
+      "recipient_uei": "K5KAMCPRVED6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "OAKLAND",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1111 FRANKLIN ST., FL 6",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5201",
+        "zip5": "94607",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "MERCED",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "13",
+      "zip4": "0000",
+      "zip5": "95343",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 138232.06
+  }
+}

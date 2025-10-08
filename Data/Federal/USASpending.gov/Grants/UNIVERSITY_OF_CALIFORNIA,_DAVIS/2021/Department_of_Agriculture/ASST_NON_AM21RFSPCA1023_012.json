@@ -1,0 +1,250 @@
+{
+  "basic_data": {
+    "internal_id": 80472718,
+    "Award ID": "AM21RFSPCA1023",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 813744,
+    "Total Outlays": 813744,
+    "Description": "AS SECRETARY VILSACK ARTICULATED IN JUNE 2021,OUR MEAT PROCESSING SYSTEM IS NOT RESILIENT. IT DOES NOT OFFER OPTIMUM SCALE DIVERSITY OR DISTRIBUTION OF PROCESSING FACILITIES. OUR JULY 2021 UC DAVIS FOOD SYSTEMS LAB (FSL) STUDY DERIVED FROM INTERVIEWS WITH OVER 30 SUPPLY CHAIN STAKEHOLDERS,A LITERATURE REVIEW AND CONSULTATION WITH THE CALIFORNIA DEPARTMENT OF FOOD AND AGRICULTURE,REVEALED CHALLENGES AND OPPORTUNITIES. THE PANDEMIC,DROUGHT,AND FIRES INTENSIFY THE ALREADY ACUTE PROCESSING CHALLENGES LINKED TO CALIFORNIA'S INSPECTION SYSTEM,INSUFFICIENT PRODUCER COLLABORATION AND NIMBYISM OFTEN ASSOCIATED WITH ANTI-MEAT SENTIMENTS. THE STUDY RECOMMENDS HOW PRODUCERS CAN IMPROVE PROCESSING ACCESS AND MARKET OPPORTUNITIES. THIS PROPOSAL BUILDS FROM THAT STUDY AND SEEKS TO FACILITATE DEVELOPMENT OF EFFECTIVE COLLABORATION AMONG LINKS IN SUPPLY CHAINS AND TO OPTIMIZE PROCESSING,INSPECTION AND MARKETING SYSTEMS THAT CONVEY THE VALUE PROPOSITIONS OF THE SMALL AND MID-SCALE PRODUCERS. THE FSL TEAM,ITS COLLABORATOR FROM THE NICHE MEAT PROCESSING ASSISTANCE NETWORK,AND OUR STRATEGIC ADVISORS WILL WORK WITH TWO COHORTS OF PRODUCERS,PROCESSORS AND BUYERS OVER THREE YEARS IN TWO REGIONS TO IMPLEMENT SYNERGISTIC ACTIONS THAT WILL OPTIMIZE PROCESSING AND MARKETING OF HIGH VALUE MEAT FROM SMALL AND MID-SCALE PRODUCERS. OUR PRIMARY GOAL IS TO CREATE TWO NEW REGIONAL SUPPLY CHAINS THAT HIGHLIGHT PRODUCT ATTRIBUTES CONVEYING QUALITY AND VALUE. WE AIM TO SUPPLY INSTITUTIONAL SYSTEMS SUCH AS UC DAVIS HEALTH AND SPORTS VENUES WITH GROUND MEAT AND RESTAURANTS AND OTHER RETAILERS WITH THE MORE EXPENSIVE CUTS. THE WORK WILL ULTIMATELY RESULT IN MORE ECONOMIC OPPORTUNITY FOR PRODUCERS AND INCREASED SYSTEM RESILIENCE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": "OFFICE OF RESEARCH SPONSORED PROGRAMS",
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0003",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "O",
+      "Q"
+    ],
+    "COVID-19 Obligations": 813744,
+    "COVID-19 Outlays": 813744,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Agricultural Marketing Service",
+    "Start Date": "2021-10-31",
+    "End Date": "2024-10-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_AM21RFSPCA1023_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 80472718,
+    "generated_unique_award_id": "ASST_NON_AM21RFSPCA1023_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AS SECRETARY VILSACK ARTICULATED IN JUNE 2021,OUR MEAT PROCESSING SYSTEM IS NOT RESILIENT. IT DOES NOT OFFER OPTIMUM SCALE DIVERSITY OR DISTRIBUTION OF PROCESSING FACILITIES. OUR JULY 2021 UC DAVIS FOOD SYSTEMS LAB (FSL) STUDY DERIVED FROM INTERVIEWS WITH OVER 30 SUPPLY CHAIN STAKEHOLDERS,A LITERATURE REVIEW AND CONSULTATION WITH THE CALIFORNIA DEPARTMENT OF FOOD AND AGRICULTURE,REVEALED CHALLENGES AND OPPORTUNITIES. THE PANDEMIC,DROUGHT,AND FIRES INTENSIFY THE ALREADY ACUTE PROCESSING CHALLENGES LINKED TO CALIFORNIA'S INSPECTION SYSTEM,INSUFFICIENT PRODUCER COLLABORATION AND NIMBYISM OFTEN ASSOCIATED WITH ANTI-MEAT SENTIMENTS. THE STUDY RECOMMENDS HOW PRODUCERS CAN IMPROVE PROCESSING ACCESS AND MARKET OPPORTUNITIES. THIS PROPOSAL BUILDS FROM THAT STUDY AND SEEKS TO FACILITATE DEVELOPMENT OF EFFECTIVE COLLABORATION AMONG LINKS IN SUPPLY CHAINS AND TO OPTIMIZE PROCESSING,INSPECTION AND MARKETING SYSTEMS THAT CONVEY THE VALUE PROPOSITIONS OF THE SMALL AND MID-SCALE PRODUCERS. THE FSL TEAM,ITS COLLABORATOR FROM THE NICHE MEAT PROCESSING ASSISTANCE NETWORK,AND OUR STRATEGIC ADVISORS WILL WORK WITH TWO COHORTS OF PRODUCERS,PROCESSORS AND BUYERS OVER THREE YEARS IN TWO REGIONS TO IMPLEMENT SYNERGISTIC ACTIONS THAT WILL OPTIMIZE PROCESSING AND MARKETING OF HIGH VALUE MEAT FROM SMALL AND MID-SCALE PRODUCERS. OUR PRIMARY GOAL IS TO CREATE TWO NEW REGIONAL SUPPLY CHAINS THAT HIGHLIGHT PRODUCT ATTRIBUTES CONVEYING QUALITY AND VALUE. WE AIM TO SUPPLY INSTITUTIONAL SYSTEMS SUCH AS UC DAVIS HEALTH AND SPORTS VENUES WITH GROUND MEAT AND RESTAURANTS AND OTHER RETAILERS WITH THE MORE EXPENSIVE CUTS. THE WORK WILL ULTIMATELY RESULT IN MORE ECONOMIC OPPORTUNITY FOR PRODUCERS AND INCREASED SYSTEM RESILIENCE.",
+    "total_obligation": 813744,
+    "subaward_count": 4,
+    "total_subaward_amount": 268000,
+    "date_signed": "2021-11-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 813744,
+    "total_account_obligation": 813744,
+    "account_outlays_by_defc": [
+      {
+        "code": "O",
+        "amount": 813744
+      },
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "O",
+        "amount": 813744
+      },
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 175,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Marketing Service",
+        "code": "12K2",
+        "abbreviation": "AMS"
+      },
+      "office_agency_name": "REGIONAL FOOD SYSTEM"
+    },
+    "awarding_agency": {
+      "id": 175,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Marketing Service",
+        "code": "12K2",
+        "abbreviation": "AMS"
+      },
+      "office_agency_name": "REGIONAL FOOD SYSTEM"
+    },
+    "period_of_performance": {
+      "start_date": "2021-10-31",
+      "end_date": "2024-10-30",
+      "last_modified_date": "2022-01-28",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": "047120084",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "095",
+        "county_name": "SOLANO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": "OFFICE OF RESEARCH SPONSORED PROGRAMS",
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "0003",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 813744
+  }
+}

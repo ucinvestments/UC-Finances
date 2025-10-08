@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717915,
+    "Award ID": "S10OD036332",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 903429.56,
+    "Total Outlays": 903429.56,
+    "Description": "OPTICAL TWEEZERS WITH SCANNING CONFOCAL FLUORESCENCE MICROSCOPY AND MICROFLUIDICS - THIS PROPOSAL REQUESTS THE PURCHASE OF A LUMICKS C-TRAP INSTRUMENT FOR A MAJOR USER GROUP AT THE UNIVERSITY OF CALIFORNIA AT DAVIS. THE C-TRAP IS THE ONLY COMMERCIALLY AVAILABLE LASER OPTICAL TRAP WITH COMBINED SCANNING CONFOCAL FLUORESCENCE MICROSCOPY AND FACILE MICROFLUIDICS INTEGRATED INTO A USER-FRIENDLY DEPENDABLE, ENGINEERED INSTRUMENT. SINGLE MOLECULE FORCE AND FLUORESCENCE SPECTROSCOPIES HAVE REVOLUTIONIZED CELLULAR AND MOLECULAR BIOLOGY, BIOCHEMISTRY, BIOPHYSICS, AND BIOMEDICAL ENGINEERING STUDIES TO ANSWER KEY BIOLOGICAL AND HEALTH- RELATED QUESTIONS. CURRENTLY, THESE TOOLS ARE MAINLY RESTRICTED TO LABORATORIES WITH DEDICATED SPECIFIC EXPERTISE AND THAT HAVE LAB-BUILT SINGLE MOLECULE INSTRUMENTS. THE C-TRAP IS DESIGNED AS A TURN-KEY SYSTEM THAT ALLOWS LABORATORIES WITHOUT SINGLE MOLECULE FORCE OR FLUORESCENCE SPECTROSCOPY EXPERTISE TO PERFORM STATE-OF-ART SINGLE MOLECULE FORCE, POSITION, AND FLUORESCENCE LOCALIZATION AND FRET ANALYSIS AT UNPARALLELED SPATIAL AND TEMPORAL RESOLUTION. KEY FEATURES OF THE C-TRAP INCLUDE DUAL OPTICAL TRAPS TO MANIPULATE BIOMOLECULES WITH SUB PN FORCE RESOLUTION/DETECTION; 3-COLOR LASER CONFOCAL FLUORESCENCE DETECTION TO VISUALIZE BIOLOGICAL PROCESSES; ACCURATE TEMPERATURE CONTROL; MICRO AND NANO-STAGE CONTROL FOR ABSOLUTE SAMPLE POSITIONING; LAMINAR FLOW MICROFLUIDICS THAT ENABLE HIGH SAMPLE THROUGHPUT AND VARYING AMBIENT MEDIA WHILE MAINTAINING MOLECULAR INTERACTIONS; AND USER-FRIENDLY SOFTWARE THAT INTEGRATES, CONTROLS AND AUTOMATES THE INSTRUMENT OPERATION. IMPORTANTLY, THE INTUITIVE INSTRUMENT AND SOFTWARE INTERFACE AND AUTOMATION PACKAGE WILL ALLOW NON-EXPERT USERS TO RUN EXPERIMENTS AND COLLECT HIGH-QUALITY DATA AFTER MINIMAL TRAINING. THE PROPOSAL IS BEING SUBMITTED ON BEHALF OF FOUR MAJOR USERS (ALL WITH NIH R01 FUNDING), WHO WILL UTILIZE THE BULK OF THE INSTRUMENT TIME, AND SIX MINOR USERS WITH EITHER NIH AND/OR OTHER FUNDING. THESE USERS COME FROM FIVE DIFFERENT DEPARTMENTS (MOLECULAR AND CELLULAR BIOLOGY, MICROBIOLOGY AND MOLECULAR GENETICS, PHARMACOLOGY, CARDIOVASCULAR INSTITUTE AND BIOENGINEERING) AND THREE OF THE UC DAVIS SCHOOLS. THE C-TRAP WILL SIGNIFICANTLY ADVANCE THE NIH FUNDED PROJECTS OF THESE RESEARCHERS BY ENABLING HIGH IMPACT SINGLE MOLECULE MECHANOBIOLOGICAL AND FLUORESCENCE STUDIES ON A RANGE OF SCIENTIFICALLY IMPORTANT BIOMEDICAL QUESTIONS IN AREAS OR MOLECULAR MOTORS, CARDIOVASCULAR FUNCTION, CYTOSKELETAL FILAMENTS AND FILAMENT BINDING PROTEINS, CELL-CELL INTERACTIONS, NUCLEIC ACID PROCESSING ENZYMES, AND PROTEIN SYNTHESIS. THE MAJOR USERS AND TECHNICAL ADVISORS HAVE EXTENSIVE RELEVANT EXPERTISE WITH THE TECHNOLOGY TO PROVIDE GUIDANCE TO ALL USERS. UC DAVIS SCHOOL OF MEDICINE AND SCHOOL OF BIOLOGICAL SCIENCES ARE COMMITTING SIGNIFICANT INSTITUTIONAL RESOURCES (DEDICATED SPACE AND OPERATING, SERVICE, AND MAINTENANCE FUNDS) TO ENSURE SUSTAINED AND EFFECTIVE USE. THE ESTABLISHMENT OF RESOURCE WILL SIGNIFICANTLY ENHANCE NUMEROUS RESEARCH PROGRAMS AT UC DAVIS AND CONTRIBUTE TO DISCOVERY OF HIGH IMPACT SCIENTIFIC, BIOMEDICAL AND HEALTH-CARE RELATED KNOWLEDGE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-05-15",
+    "End Date": "2025-05-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD036332_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717915,
+    "generated_unique_award_id": "ASST_NON_S10OD036332_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "OPTICAL TWEEZERS WITH SCANNING CONFOCAL FLUORESCENCE MICROSCOPY AND MICROFLUIDICS - THIS PROPOSAL REQUESTS THE PURCHASE OF A LUMICKS C-TRAP INSTRUMENT FOR A MAJOR USER GROUP AT THE UNIVERSITY OF CALIFORNIA AT DAVIS. THE C-TRAP IS THE ONLY COMMERCIALLY AVAILABLE LASER OPTICAL TRAP WITH COMBINED SCANNING CONFOCAL FLUORESCENCE MICROSCOPY AND FACILE MICROFLUIDICS INTEGRATED INTO A USER-FRIENDLY DEPENDABLE, ENGINEERED INSTRUMENT. SINGLE MOLECULE FORCE AND FLUORESCENCE SPECTROSCOPIES HAVE REVOLUTIONIZED CELLULAR AND MOLECULAR BIOLOGY, BIOCHEMISTRY, BIOPHYSICS, AND BIOMEDICAL ENGINEERING STUDIES TO ANSWER KEY BIOLOGICAL AND HEALTH- RELATED QUESTIONS. CURRENTLY, THESE TOOLS ARE MAINLY RESTRICTED TO LABORATORIES WITH DEDICATED SPECIFIC EXPERTISE AND THAT HAVE LAB-BUILT SINGLE MOLECULE INSTRUMENTS. THE C-TRAP IS DESIGNED AS A TURN-KEY SYSTEM THAT ALLOWS LABORATORIES WITHOUT SINGLE MOLECULE FORCE OR FLUORESCENCE SPECTROSCOPY EXPERTISE TO PERFORM STATE-OF-ART SINGLE MOLECULE FORCE, POSITION, AND FLUORESCENCE LOCALIZATION AND FRET ANALYSIS AT UNPARALLELED SPATIAL AND TEMPORAL RESOLUTION. KEY FEATURES OF THE C-TRAP INCLUDE DUAL OPTICAL TRAPS TO MANIPULATE BIOMOLECULES WITH SUB PN FORCE RESOLUTION/DETECTION; 3-COLOR LASER CONFOCAL FLUORESCENCE DETECTION TO VISUALIZE BIOLOGICAL PROCESSES; ACCURATE TEMPERATURE CONTROL; MICRO AND NANO-STAGE CONTROL FOR ABSOLUTE SAMPLE POSITIONING; LAMINAR FLOW MICROFLUIDICS THAT ENABLE HIGH SAMPLE THROUGHPUT AND VARYING AMBIENT MEDIA WHILE MAINTAINING MOLECULAR INTERACTIONS; AND USER-FRIENDLY SOFTWARE THAT INTEGRATES, CONTROLS AND AUTOMATES THE INSTRUMENT OPERATION. IMPORTANTLY, THE INTUITIVE INSTRUMENT AND SOFTWARE INTERFACE AND AUTOMATION PACKAGE WILL ALLOW NON-EXPERT USERS TO RUN EXPERIMENTS AND COLLECT HIGH-QUALITY DATA AFTER MINIMAL TRAINING. THE PROPOSAL IS BEING SUBMITTED ON BEHALF OF FOUR MAJOR USERS (ALL WITH NIH R01 FUNDING), WHO WILL UTILIZE THE BULK OF THE INSTRUMENT TIME, AND SIX MINOR USERS WITH EITHER NIH AND/OR OTHER FUNDING. THESE USERS COME FROM FIVE DIFFERENT DEPARTMENTS (MOLECULAR AND CELLULAR BIOLOGY, MICROBIOLOGY AND MOLECULAR GENETICS, PHARMACOLOGY, CARDIOVASCULAR INSTITUTE AND BIOENGINEERING) AND THREE OF THE UC DAVIS SCHOOLS. THE C-TRAP WILL SIGNIFICANTLY ADVANCE THE NIH FUNDED PROJECTS OF THESE RESEARCHERS BY ENABLING HIGH IMPACT SINGLE MOLECULE MECHANOBIOLOGICAL AND FLUORESCENCE STUDIES ON A RANGE OF SCIENTIFICALLY IMPORTANT BIOMEDICAL QUESTIONS IN AREAS OR MOLECULAR MOTORS, CARDIOVASCULAR FUNCTION, CYTOSKELETAL FILAMENTS AND FILAMENT BINDING PROTEINS, CELL-CELL INTERACTIONS, NUCLEIC ACID PROCESSING ENZYMES, AND PROTEIN SYNTHESIS. THE MAJOR USERS AND TECHNICAL ADVISORS HAVE EXTENSIVE RELEVANT EXPERTISE WITH THE TECHNOLOGY TO PROVIDE GUIDANCE TO ALL USERS. UC DAVIS SCHOOL OF MEDICINE AND SCHOOL OF BIOLOGICAL SCIENCES ARE COMMITTING SIGNIFICANT INSTITUTIONAL RESOURCES (DEDICATED SPACE AND OPERATING, SERVICE, AND MAINTENANCE FUNDS) TO ENSURE SUSTAINED AND EFFECTIVE USE. THE ESTABLISHMENT OF RESOURCE WILL SIGNIFICANTLY ENHANCE NUMEROUS RESEARCH PROGRAMS AT UC DAVIS AND CONTRIBUTE TO DISCOVERY OF HIGH IMPACT SCIENTIFIC, BIOMEDICAL AND HEALTH-CARE RELATED KNOWLEDGE.",
+    "total_obligation": 903429.56,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-05-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 903429.56,
+    "total_account_obligation": 903429.56,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 903429.56
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 903429.56
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2024-05-15",
+      "end_date": "2025-05-14",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 903429.56
+  }
+}

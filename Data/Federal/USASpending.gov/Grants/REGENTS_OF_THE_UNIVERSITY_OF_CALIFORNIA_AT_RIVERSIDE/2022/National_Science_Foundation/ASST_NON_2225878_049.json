@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56961391,
+    "Award ID": "2225878",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 777157,
+    "Total Outlays": 708152.93,
+    "Description": "COLLABORATIVE RESEARCH: DATA-DRIVEN ENGINEERING OF THE THERMOTOLERANT YEAST KLUYVEROMYCES MARXIANUS -METABOLISM INVOLVES A COMPLEX SET OF REACTIONS AND CONTROL MECHANISMS. THIS MAKES MICROBIAL BEHAVIOR DIFFICULT TO UNDERSTAND AND ENGINEER. MACHINE LEARNING (ML) IDENTIFIES PATTERNS AND RELATIONSHIPS IN COMPLEX SETS OF DATA. A YEAST WILL BE SUBJECT TO VARIED EFFORTS TO INCREASE ITS YIELD OF BIOCHEMICALS AND BIOFUELS. MACHINE LEARNING WILL HELP IDENTIFY SYNTHETIC BIOLOGY APPROACHES THAT MAXIMIZE PRODUCTION. ALSO, EDUCATIONAL AND TRAINING RESOURCES WILL BE EXPANDED FOR STUDENTS IN K-6 AFTERSCHOOL PROGRAMS, IN K-12 SUMMER CAMPS, AND IN A DATA SCIENCE ACADEMY FOR HIGH SCHOOL STUDENTS. THE OVERALL GOAL IS TO IDENTIFY GENES CRITICAL TO DRIVING HIGH CARBON FLUX TO A DESIRED CENTRAL METABOLITE AND PRODUCT. A DEEP LEARNING APPROACH ? DEEPGUIDE ? WILL BE USED TO DESIGN OPTIMIZED SGRNA LIBRARIES TO GENERATE GENETIC DIVERSITY. THE BUILD STAGE OF THE CYCLE WILL LEVERAGE EFFICIENT CRISPR-CAS9 TECHNOLOGIES FOR GENE DISRUPTION AND REGULATION. A BIOSENSOR-DRIVEN APPROACH TO TESTING WILL ENABLE HIGH THROUGHPUT ANALYSIS OF THE EFFECT OF HOST GENETICS ON THE PRODUCTION OF MALONYL-COA, A KEY PRECURSOR TO POLYKETIDES. THE DROPLET MICROFLUIDICS SCREENING AND ANALYSIS CAPABILITIES OF THE AGILE BIOFOUNDRY (ABF) AT ARGONNE NATIONAL LABORATORY WILL PROVIDE A WEALTH OF ADDITIONAL INFORMATION TO LINK METABOLITE PRODUCTION WITH HOST GENETICS. THE LARGE DATASETS GENERATED IN THE TESTING STAGE WILL BE USED AS INPUT FOR DEEP LEARNING; A NEW ALGORITHM LINKING GENOTYPES TO PHENOTYPES ? DEEPMETABOLISM ? WILL BE USED TO PREDICT A MINIMAL SET OF GENETIC PERTURBATIONS THAT MAXIMIZE MALONYL-COA BIOSYNTHESIS. THIS DATA-DRIVEN APPROACH WILL ADVANCE BOTH DEEP LEARNING AND HIGH THROUGHPUT APPROACHES FOR MICROBIAL ENGINEERING AND CAN BE APPLIED TO OTHER STRATEGIC METABOLITES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "900 UNIVERSITY AVE",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "9800",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-9800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-10-01",
+    "End Date": "2025-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2225878_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56961391,
+    "generated_unique_award_id": "ASST_NON_2225878_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "COLLABORATIVE RESEARCH: DATA-DRIVEN ENGINEERING OF THE THERMOTOLERANT YEAST KLUYVEROMYCES MARXIANUS -METABOLISM INVOLVES A COMPLEX SET OF REACTIONS AND CONTROL MECHANISMS. THIS MAKES MICROBIAL BEHAVIOR DIFFICULT TO UNDERSTAND AND ENGINEER. MACHINE LEARNING (ML) IDENTIFIES PATTERNS AND RELATIONSHIPS IN COMPLEX SETS OF DATA. A YEAST WILL BE SUBJECT TO VARIED EFFORTS TO INCREASE ITS YIELD OF BIOCHEMICALS AND BIOFUELS. MACHINE LEARNING WILL HELP IDENTIFY SYNTHETIC BIOLOGY APPROACHES THAT MAXIMIZE PRODUCTION. ALSO, EDUCATIONAL AND TRAINING RESOURCES WILL BE EXPANDED FOR STUDENTS IN K-6 AFTERSCHOOL PROGRAMS, IN K-12 SUMMER CAMPS, AND IN A DATA SCIENCE ACADEMY FOR HIGH SCHOOL STUDENTS. THE OVERALL GOAL IS TO IDENTIFY GENES CRITICAL TO DRIVING HIGH CARBON FLUX TO A DESIRED CENTRAL METABOLITE AND PRODUCT. A DEEP LEARNING APPROACH ? DEEPGUIDE ? WILL BE USED TO DESIGN OPTIMIZED SGRNA LIBRARIES TO GENERATE GENETIC DIVERSITY. THE BUILD STAGE OF THE CYCLE WILL LEVERAGE EFFICIENT CRISPR-CAS9 TECHNOLOGIES FOR GENE DISRUPTION AND REGULATION. A BIOSENSOR-DRIVEN APPROACH TO TESTING WILL ENABLE HIGH THROUGHPUT ANALYSIS OF THE EFFECT OF HOST GENETICS ON THE PRODUCTION OF MALONYL-COA, A KEY PRECURSOR TO POLYKETIDES. THE DROPLET MICROFLUIDICS SCREENING AND ANALYSIS CAPABILITIES OF THE AGILE BIOFOUNDRY (ABF) AT ARGONNE NATIONAL LABORATORY WILL PROVIDE A WEALTH OF ADDITIONAL INFORMATION TO LINK METABOLITE PRODUCTION WITH HOST GENETICS. THE LARGE DATASETS GENERATED IN THE TESTING STAGE WILL BE USED AS INPUT FOR DEEP LEARNING; A NEW ALGORITHM LINKING GENOTYPES TO PHENOTYPES ? DEEPMETABOLISM ? WILL BE USED TO PREDICT A MINIMAL SET OF GENETIC PERTURBATIONS THAT MAXIMIZE MALONYL-COA BIOSYNTHESIS. THIS DATA-DRIVEN APPROACH WILL ADVANCE BOTH DEEP LEARNING AND HIGH THROUGHPUT APPROACHES FOR MICROBIAL ENGINEERING AND CAN BE APPLIED TO OTHER STRATEGIC METABOLITES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 777157,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-08-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 708152.93,
+    "total_account_obligation": 777157,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 708152.93
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 777157
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MOLECULAR AND"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF CHEMICAL BIOENGINEERING"
+    },
+    "period_of_performance": {
+      "start_date": "2022-10-01",
+      "end_date": "2025-09-30",
+      "last_modified_date": "2022-08-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "900 UNIVERSITY AVE",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "9800",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 708152.93
+  }
+}

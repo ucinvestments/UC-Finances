@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 89960632,
+    "Award ID": "NNX13AH96A",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+    "Award Amount": 713529,
+    "Total Outlays": null,
+    "Description": "PHASE I FOCUSED ON DEVELOPING ACTIVE STUDENT AND FACULTY INTERACTION BETWEEN UCSC AND NASA ARC. STUDENTS ASSOCIATED WITH THE CENTER FOR INTEGRATED WA",
+    "Contract Award Type": "",
+    "Recipient UEI": "VXUFPE4MCZH5",
+    "Recipient Location": {
+      "address_line1": "1156 HIGH ST",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SANTA CRUZ",
+      "congressional_code": "20",
+      "country_name": "UNITED STATES",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1077",
+      "zip5": "95064"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SANTA CRUZ",
+      "congressional_code": "20",
+      "country_name": "UNITED STATES",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "950641077",
+      "zip5": "95064"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2013-05-01",
+    "End Date": "2016-10-26",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "427ea0fd-a29e-756b-4973-911cb119bc8d-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_NNX13AH96A_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89960632,
+    "generated_unique_award_id": "ASST_NON_NNX13AH96A_080",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "",
+    "description": "PHASE I FOCUSED ON DEVELOPING ACTIVE STUDENT AND FACULTY INTERACTION BETWEEN UCSC AND NASA ARC. STUDENTS ASSOCIATED WITH THE CENTER FOR INTEGRATED WA",
+    "total_obligation": 713529,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2013-05-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": ""
+    },
+    "period_of_performance": {
+      "start_date": "2013-05-01",
+      "end_date": "2016-10-26",
+      "last_modified_date": "2017-01-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "427ea0fd-a29e-756b-4973-911cb119bc8d-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+      "recipient_uei": "VXUFPE4MCZH5",
+      "recipient_unique_id": "125084723",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SANTA CRUZ",
+        "county_code": "087",
+        "county_name": "SANTA CRUZ",
+        "address_line1": "1156 HIGH ST",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "19",
+        "zip4": "1077",
+        "zip5": "95064",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CA",
+      "city_name": "SANTA CRUZ",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "19",
+      "zip4": "1077",
+      "zip5": "95064",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

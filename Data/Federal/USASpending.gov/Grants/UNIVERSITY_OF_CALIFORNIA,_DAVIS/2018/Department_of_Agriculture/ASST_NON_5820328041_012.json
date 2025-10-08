@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 69491489,
+    "Award ID": "5820328041",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 654119,
+    "Total Outlays": 607645.09,
+    "Description": "EARLY-DETECTION AND MONITORING OF ABIOTIC AND BIOTIC STRESS IN PRODUCTION ENVIRONMENTS - THE OVERALL GOAL IS TO CONDUCT RESEARCH THAT CAN LEAD TO DEVELOPMENT OF COMMERCIALLY VIABLE SOLUTIONS ADVANCED ROBOTICS AND IMAGING TECHNOLOGIES TO ENHANCE THE PRODUCTIVITY AND SUSTAINABILITY OF PEST MANAGEMENT IN ORNAMENTAL CROPS. THIS PROGRAM WILL FOCUS ON THE FOLLOWING OBJECTIVES: OBJECTIVE 1: MAXIMIZE REPEATABILITY OF REFLECTANCE DATA ACQUIRED WITH HYPERSPECTRAL IMAGERS MOUNTED ON: 1. AERIAL DRONES, AND 2. IN SIDE GREENHOUSES. OBJECTIVE 2: IDENTIFY LEAF REFLECTANCE TRAITS UNIQUELY ASSOCIATED WITH DIFFERENT BIOTIC STRESSORS. OBJECTIVE 3. DETECTION AND MANAGEMENT OF CROP STRESSES ASSOCIATED WITH ABIOTIC AND BIOTIC STRESSORS USING PROXIMAL REMOTE SENSING TECHNIQUES FOR KEY ORNAMENTAL CROPS. OBJECTIVE 4: PROCESSING OF REFLECTANCE DATA ACQUIRED WITH HYPERSPECTRAL IMAGERS INTO USER-FRIENDLY MAPS AND DECISION SUPPORT TOOLS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616-5270",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Agricultural Research Service",
+    "Start Date": "2018-09-01",
+    "End Date": "2023-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_5820328041_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 69491489,
+    "generated_unique_award_id": "ASST_NON_5820328041_012",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "EARLY-DETECTION AND MONITORING OF ABIOTIC AND BIOTIC STRESS IN PRODUCTION ENVIRONMENTS - THE OVERALL GOAL IS TO CONDUCT RESEARCH THAT CAN LEAD TO DEVELOPMENT OF COMMERCIALLY VIABLE SOLUTIONS ADVANCED ROBOTICS AND IMAGING TECHNOLOGIES TO ENHANCE THE PRODUCTIVITY AND SUSTAINABILITY OF PEST MANAGEMENT IN ORNAMENTAL CROPS. THIS PROGRAM WILL FOCUS ON THE FOLLOWING OBJECTIVES: OBJECTIVE 1: MAXIMIZE REPEATABILITY OF REFLECTANCE DATA ACQUIRED WITH HYPERSPECTRAL IMAGERS MOUNTED ON: 1. AERIAL DRONES, AND 2. IN SIDE GREENHOUSES. OBJECTIVE 2: IDENTIFY LEAF REFLECTANCE TRAITS UNIQUELY ASSOCIATED WITH DIFFERENT BIOTIC STRESSORS. OBJECTIVE 3. DETECTION AND MANAGEMENT OF CROP STRESSES ASSOCIATED WITH ABIOTIC AND BIOTIC STRESSORS USING PROXIMAL REMOTE SENSING TECHNIQUES FOR KEY ORNAMENTAL CROPS. OBJECTIVE 4: PROCESSING OF REFLECTANCE DATA ACQUIRED WITH HYPERSPECTRAL IMAGERS INTO USER-FRIENDLY MAPS AND DECISION SUPPORT TOOLS.",
+    "total_obligation": 654119,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2018-09-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 607645.09,
+    "total_account_obligation": 426357,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 607645.09
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 426357
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "awarding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "period_of_performance": {
+      "start_date": "2018-09-01",
+      "end_date": "2023-08-31",
+      "last_modified_date": "2023-08-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "5270",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 607645.09
+  }
+}

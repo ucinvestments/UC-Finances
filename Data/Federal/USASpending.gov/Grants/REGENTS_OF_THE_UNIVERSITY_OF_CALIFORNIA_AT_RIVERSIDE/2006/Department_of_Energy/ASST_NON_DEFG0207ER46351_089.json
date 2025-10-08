@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 81346884,
+    "Award ID": "DEFG0207ER46351",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 2413304,
+    "Total Outlays": 887643.92,
+    "Description": "STUDY OF MATERIALS AND INTERFACE PROPERTIES FOR HIGH-EFFICIENCY SPIN INJECTION",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFFICE BLDG",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Energy",
+    "Awarding Sub Agency": "Department of Energy",
+    "Start Date": "2006-11-15",
+    "End Date": "2025-11-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_DEFG0207ER46351_089",
+    "awarding_agency_id": 930,
+    "agency_slug": "department-of-energy",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 81346884,
+    "generated_unique_award_id": "ASST_NON_DEFG0207ER46351_089",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "STUDY OF MATERIALS AND INTERFACE PROPERTIES FOR HIGH-EFFICIENCY SPIN INJECTION",
+    "total_obligation": 2413304,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2010-11-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 887643.92,
+    "total_account_obligation": 1023426,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 887643.92
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1023426
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 930,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Energy",
+        "code": "089",
+        "abbreviation": "DOE",
+        "slug": "department-of-energy"
+      },
+      "subtier_agency": {
+        "name": "Department of Energy",
+        "code": "8900",
+        "abbreviation": "DOE"
+      },
+      "office_agency_name": "SCIENCE"
+    },
+    "awarding_agency": {
+      "id": 930,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Energy",
+        "code": "089",
+        "abbreviation": "DOE",
+        "slug": "department-of-energy"
+      },
+      "subtier_agency": {
+        "name": "Department of Energy",
+        "code": "8900",
+        "abbreviation": "DOE"
+      },
+      "office_agency_name": "SC CHICAGO SERVICE CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2006-11-15",
+      "end_date": "2025-11-14",
+      "last_modified_date": "2024-11-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFFICE BLDG",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 887643.92
+  }
+}

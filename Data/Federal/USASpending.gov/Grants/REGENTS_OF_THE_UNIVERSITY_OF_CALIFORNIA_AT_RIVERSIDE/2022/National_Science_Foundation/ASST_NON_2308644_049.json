@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57175384,
+    "Award ID": "2308644",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 899809,
+    "Total Outlays": 227278.58,
+    "Description": "COLLABORATIVE RESEARCH: EDGE CMT: DISCOVERY AND FUNCTIONAL CHARACTERIZATION OF GENES THAT GOVERN CILIATE-ALGAL SYMBIOSIS -CNIDARIANS, MOST NOTABLY CORALS, ARE CORNERSTONES OF MARINE ECOSYSTEMS AND ARE POWERED BY THEIR SYMBIOTIC DINOFLAGELLATE ALGAE. HOWEVER, THESE SYMBIOTIC RELATIONSHIPS ARE PARTICULARLY SUSCEPTIBLE TO ENVIRONMENTAL PERTURBATIONS SUCH AS HIGH TEMPERATURE, THAT CAN RESULT IN THE LOSS OF THE ALGAE, KNOWN AS BLEACHING. STRATEGIES TO STEM BLEACHING OF CORALS AND OTHER SPECIES CAN INFORM CONSERVATION EFFORTS TO OVERCOME THE CRISIS CORAL REEFS FACE GLOBALLY. THIS PROJECT WILL UTILIZE A SINGLE-CELLED MODEL INVOLVING A CILIATE THAT FORMS ENDOSYMBIOTIC RELATIONSHIPS WITH DINOFLAGELLATE ALGAE TO IDENTIFY THE MOLECULAR AND CELLULAR MECHANISMS GOVERNING THESE SYMBIOTIC RELATIONSHIPS. THE KNOWLEDGE GAINED ABOUT THE MOLECULAR BASIS OF THE SYMBIOSIS IN THIS PROJECT WILL PROVIDE A DEEPER UNDERSTANDING OF HOW SYMBIOSIS BREAKS DOWN UNDER STRESS AND MAY ALLOW FOR THE DEVELOPMENT OF STRATEGIES TO MITIGATE CORAL BLEACHING. ADDITIONALLY, THIS PROJECT WILL DIRECTLY LEAD TO THE TRAINING AND CAREER DEVELOPMENT FOR YOUNG SCIENTISTS WITH DIVERSE BACKGROUNDS FROM THE UNIVERSITY OF GUAM AND THE UNIVERSITY OF CALIFORNIA, RIVERSIDE, BOTH OF WHICH ARE MINORITY-SERVING INSTITUTIONS. ENDOSYMBIOTIC ALGAE IN THE FAMILY SYMBIODINIACEAE POWER CNIDARIANS, LIKE CORALS, SEA ANEMONES, AND JELLYFISH, WHICH ARE CORNERSTONES OF MARINE ECOSYSTEMS BUT HAVE BEEN INCREASINGLY THREATENED BY ENVIRONMENTAL PERTURBATIONS AND STRESS. DESPITE THE CRITICAL NATURE OF CNIDARIAN-SYMBIODINIACEAE SYMBIOSIS, THE UNDERLYING MECHANISMS THAT GOVERN THIS SYMBIOTIC INTERACTION REMAIN LARGELY UNKNOWN. MOST OF THE GENES IN SYMBIODINIACEAE SYMBIOSIS ARE NOT ACCESSIBLE TO HYPOTHESIS-DRIVEN RESEARCH DUE TO EXTREMELY LIMITED KNOWLEDGE ABOUT THEIR FUNCTION. TO OVERCOME THESE LIMITATIONS, THIS PROJECT WILL UTILIZE A SINGLE-CELLED CILIATE MODEL WHICH ENABLES IDENTIFICATION OF GENOTYPE-PHENOTYPE RELATIONSHIPS BY EMPLOYING SYSTEMATIC HIGH-THROUGHPUT SCREENING AND PROTEIN TAGGING APPROACHES. THIS PROJECT IS EXPECTED TO ELUCIDATE NOVEL MECHANISMS OF ENDOSYMBIOSIS INVOLVING SYMBIODINIACEAE AND PROVIDE UNPRECEDENTED INSIGHTS TO THE GENE FUNCTIONS REQUIRED FOR SYMBIOSIS IN GENERAL. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-9800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-11-01",
+    "End Date": "2026-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2308644_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57175384,
+    "generated_unique_award_id": "ASST_NON_2308644_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "COLLABORATIVE RESEARCH: EDGE CMT: DISCOVERY AND FUNCTIONAL CHARACTERIZATION OF GENES THAT GOVERN CILIATE-ALGAL SYMBIOSIS -CNIDARIANS, MOST NOTABLY CORALS, ARE CORNERSTONES OF MARINE ECOSYSTEMS AND ARE POWERED BY THEIR SYMBIOTIC DINOFLAGELLATE ALGAE. HOWEVER, THESE SYMBIOTIC RELATIONSHIPS ARE PARTICULARLY SUSCEPTIBLE TO ENVIRONMENTAL PERTURBATIONS SUCH AS HIGH TEMPERATURE, THAT CAN RESULT IN THE LOSS OF THE ALGAE, KNOWN AS BLEACHING. STRATEGIES TO STEM BLEACHING OF CORALS AND OTHER SPECIES CAN INFORM CONSERVATION EFFORTS TO OVERCOME THE CRISIS CORAL REEFS FACE GLOBALLY. THIS PROJECT WILL UTILIZE A SINGLE-CELLED MODEL INVOLVING A CILIATE THAT FORMS ENDOSYMBIOTIC RELATIONSHIPS WITH DINOFLAGELLATE ALGAE TO IDENTIFY THE MOLECULAR AND CELLULAR MECHANISMS GOVERNING THESE SYMBIOTIC RELATIONSHIPS. THE KNOWLEDGE GAINED ABOUT THE MOLECULAR BASIS OF THE SYMBIOSIS IN THIS PROJECT WILL PROVIDE A DEEPER UNDERSTANDING OF HOW SYMBIOSIS BREAKS DOWN UNDER STRESS AND MAY ALLOW FOR THE DEVELOPMENT OF STRATEGIES TO MITIGATE CORAL BLEACHING. ADDITIONALLY, THIS PROJECT WILL DIRECTLY LEAD TO THE TRAINING AND CAREER DEVELOPMENT FOR YOUNG SCIENTISTS WITH DIVERSE BACKGROUNDS FROM THE UNIVERSITY OF GUAM AND THE UNIVERSITY OF CALIFORNIA, RIVERSIDE, BOTH OF WHICH ARE MINORITY-SERVING INSTITUTIONS. ENDOSYMBIOTIC ALGAE IN THE FAMILY SYMBIODINIACEAE POWER CNIDARIANS, LIKE CORALS, SEA ANEMONES, AND JELLYFISH, WHICH ARE CORNERSTONES OF MARINE ECOSYSTEMS BUT HAVE BEEN INCREASINGLY THREATENED BY ENVIRONMENTAL PERTURBATIONS AND STRESS. DESPITE THE CRITICAL NATURE OF CNIDARIAN-SYMBIODINIACEAE SYMBIOSIS, THE UNDERLYING MECHANISMS THAT GOVERN THIS SYMBIOTIC INTERACTION REMAIN LARGELY UNKNOWN. MOST OF THE GENES IN SYMBIODINIACEAE SYMBIOSIS ARE NOT ACCESSIBLE TO HYPOTHESIS-DRIVEN RESEARCH DUE TO EXTREMELY LIMITED KNOWLEDGE ABOUT THEIR FUNCTION. TO OVERCOME THESE LIMITATIONS, THIS PROJECT WILL UTILIZE A SINGLE-CELLED CILIATE MODEL WHICH ENABLES IDENTIFICATION OF GENOTYPE-PHENOTYPE RELATIONSHIPS BY EMPLOYING SYSTEMATIC HIGH-THROUGHPUT SCREENING AND PROTEIN TAGGING APPROACHES. THIS PROJECT IS EXPECTED TO ELUCIDATE NOVEL MECHANISMS OF ENDOSYMBIOSIS INVOLVING SYMBIODINIACEAE AND PROVIDE UNPRECEDENTED INSIGHTS TO THE GENE FUNCTIONS REQUIRED FOR SYMBIOSIS IN GENERAL. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 899809,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-12-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 227278.58,
+    "total_account_obligation": 899809,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 227278.58
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 899809
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "period_of_performance": {
+      "start_date": "2022-11-01",
+      "end_date": "2026-09-30",
+      "last_modified_date": "2023-01-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 227278.58
+  }
+}

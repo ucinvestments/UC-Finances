@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91204747,
+    "Award ID": "R01HD114353",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 2441988,
+    "Total Outlays": 1505971.06,
+    "Description": "EVALUATING THE IMPACT OF MUTATIONS IN DISTANT-ACTING ENHANCERS IN STRUCTURAL BIRTH DEFECTS - SUMMARY STRUCTURAL BIRTH DEFECTS (SBDS) ENCOMPASS A SPECTRUM OF CONGENITAL ABNORMALITIES AFFECTING A WIDE RANGE OF HUMAN ORGAN SYSTEMS. PROGRESS IN SEQUENCING TECHNOLOGIES HAS ENABLED SIGNIFICANT ADVANCES IN THE DISCOVERY OF CODING MUTATIONS UNDERLYING SBDS THROUGH WHOLE-EXOME SEQUENCING. NONETHELESS, TO DATE MOST CASES CONTINUE TO REMAIN “UNSOLVED”, CREATING A MAJOR BARRIER TO DIAGNOSTIC INTERPRETATION AND THERAPEUTIC DEVELOPMENT. IN PARTICULAR, THE IDENTIFICATION AND INTERPRETATION OF MUTATIONS IN NONCODING SEQUENCE, WHICH CONSTITUTES 98% OF THE HUMAN GENOME, HAS PRESENTED A FORMIDABLE CHALLENGE. THE PRESENT PROPOSAL ADDRESSES THE HYPOTHESIS THAT NONCODING SEQUENCE REPRESENTS A MAJOR RESERVOIR OF CAUSAL MUTATIONS EXPLAINING MANY UNSOLVED SBD CASES. SPECIFICALLY, WE WILL FOCUS ON DISTANT-ACTING TRANSCRIPTIONAL ENHANCERS, A PREDOMINANT CLASS OF NONCODING GENOME ELEMENTS WITH CRITICAL REGULATORY FUNCTIONS IN EMBRYONIC DEVELOPMENT. THERE ARE ISOLATED EXAMPLES OF SBD- CAUSING ENHANCER MUTATIONS, BUT THREE PRINCIPAL HURDLES HAVE PREVENTED THEIR IDENTIFICATION AT SCALE: A) THE LACK OF WHOLE GENOME SEQUENCE DATA (WGS) FROM UNSOLVED CASES; B) INADEQUATE ANNOTATIONS OF NONCODING GENOME FUNCTIONS; C) THE LACK OF TESTING PIPELINES TO ASSESS THE IN VIVO RELEVANCE OF ENHANCER MUTATIONS AND DETERMINE THEIR CAUSALITY. IN THIS PROPOSAL, WE ADDRESS THESE CHALLENGES BY CREATING AN INTEGRATED PIPELINE FOR THE IDENTIFICATION, FUNCTION-BASED PRIORITIZATION, AND IN VIVO VALIDATION OF CAUSALITY OF ENHANCER MUTATIONS IN SBD CASES. THIS PROPOSAL WILL TAKE ADVANTAGE OF GROWING AGGREGATED WGS DATA, ADVANCED ANALYSIS PIPELINES FOR MUTATION IDENTIFICATION, A UNIQUE CATALOG OF PRIORITIZED PREDICTIONS OF DEVELOPMENTAL IN VIVO ENHANCERS, AND ADVANCED MOUSE ENGINEERING CAPABILITIES FOR IN VIVO VALIDATION OF ENHANCERS AND ENHANCER MUTATIONS. OUR SPECIFIC AIMS INCLUDE: 1) PRIORITIZE DE NOVO NONCODING GENE REGULATORY MUTATIONS IDENTIFIED IN GROWING WGS CATALOGS IN SBD PATIENTS. TAKING ADVANTAGE OF PREEXISTING AGGREGATED WGS GENETIC DATA AND INNOVATIVE ANALYSIS STRATEGIES, WE WILL IDENTIFY NONCODING MUTATIONS IN SBD AT UNPRECEDENTED SCALE. NONCODING FINDINGS WILL BE INTERPRETED AND PRIORITIZED USING DEVCISREG, A COMPREHENSIVE CATALOG OF GENE REGULATORY SEQUENCES WE DEVELOPED FROM ANALYSIS OF \u003e800 HUMAN AND MOUSE EPIGENOMIC DATA SETS. 2) FUNCTIONALLY TEST PRIORITIZED SBD NONCODING MUTATIONS FOR IMPACTS ON GENE EXPRESSION IN SCALED TRANSGENIC MOUSE ENHANCER ASSAYS. WE WILL USE A TARGETED CRISPR-ENABLED TRANSGENIC APPROACH TO CHARACTERIZE 200 CANDIDATE ENHANCER ALLELES IN MICE AND DETERMINE WHICH MUTATIONS IMPACT ON GENE EXPRESSION IN VIVO. 3) FUNCTIONALLY MODEL PRIORITIZED SBD NONCODING MUTATIONS IN KNOCKIN MICE. WE WILL CREATE AND PHENOTYPE 40 KNOCKIN MOUSE LINES WITH HUMAN ALLELES TO TEST THE IN VIVO IMPACT OF REGULATORY MUTATIONS IN LIVE ANIMALS. WE WILL FOCUS ON MUTATIONS FROM SBDS THAT CAN BE MODELED AND STUDIED BY STREAMLINED PHENOTYPING IN MICE TO INCREASE THE LIKELIHOOD WE CAN DETECT A DEFECT IN VIVO. TOGETHER, THESE EFFORTS WILL CREATE AN INTEGRATED MUTATION-TO-PHENOTYPE IDENTIFICATION AND TESTING PIPELINE THAT WILL PROVIDE CONCLUSIVE IN VIVO EVIDENCE FOR ESTABLISHING THE CAUSALITY OF ENHANCER MUTATIONS IN SBD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "ENBLDJUN4N73",
+    "Recipient Location": {
+      "address_line1": "1 CYCLOTRON RD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "8099",
+      "zip5": "94720"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "947208099",
+      "zip5": "94720"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-21",
+    "End Date": "2028-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HD114353_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91204747,
+    "generated_unique_award_id": "ASST_NON_R01HD114353_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EVALUATING THE IMPACT OF MUTATIONS IN DISTANT-ACTING ENHANCERS IN STRUCTURAL BIRTH DEFECTS - SUMMARY STRUCTURAL BIRTH DEFECTS (SBDS) ENCOMPASS A SPECTRUM OF CONGENITAL ABNORMALITIES AFFECTING A WIDE RANGE OF HUMAN ORGAN SYSTEMS. PROGRESS IN SEQUENCING TECHNOLOGIES HAS ENABLED SIGNIFICANT ADVANCES IN THE DISCOVERY OF CODING MUTATIONS UNDERLYING SBDS THROUGH WHOLE-EXOME SEQUENCING. NONETHELESS, TO DATE MOST CASES CONTINUE TO REMAIN “UNSOLVED”, CREATING A MAJOR BARRIER TO DIAGNOSTIC INTERPRETATION AND THERAPEUTIC DEVELOPMENT. IN PARTICULAR, THE IDENTIFICATION AND INTERPRETATION OF MUTATIONS IN NONCODING SEQUENCE, WHICH CONSTITUTES 98% OF THE HUMAN GENOME, HAS PRESENTED A FORMIDABLE CHALLENGE. THE PRESENT PROPOSAL ADDRESSES THE HYPOTHESIS THAT NONCODING SEQUENCE REPRESENTS A MAJOR RESERVOIR OF CAUSAL MUTATIONS EXPLAINING MANY UNSOLVED SBD CASES. SPECIFICALLY, WE WILL FOCUS ON DISTANT-ACTING TRANSCRIPTIONAL ENHANCERS, A PREDOMINANT CLASS OF NONCODING GENOME ELEMENTS WITH CRITICAL REGULATORY FUNCTIONS IN EMBRYONIC DEVELOPMENT. THERE ARE ISOLATED EXAMPLES OF SBD- CAUSING ENHANCER MUTATIONS, BUT THREE PRINCIPAL HURDLES HAVE PREVENTED THEIR IDENTIFICATION AT SCALE: A) THE LACK OF WHOLE GENOME SEQUENCE DATA (WGS) FROM UNSOLVED CASES; B) INADEQUATE ANNOTATIONS OF NONCODING GENOME FUNCTIONS; C) THE LACK OF TESTING PIPELINES TO ASSESS THE IN VIVO RELEVANCE OF ENHANCER MUTATIONS AND DETERMINE THEIR CAUSALITY. IN THIS PROPOSAL, WE ADDRESS THESE CHALLENGES BY CREATING AN INTEGRATED PIPELINE FOR THE IDENTIFICATION, FUNCTION-BASED PRIORITIZATION, AND IN VIVO VALIDATION OF CAUSALITY OF ENHANCER MUTATIONS IN SBD CASES. THIS PROPOSAL WILL TAKE ADVANTAGE OF GROWING AGGREGATED WGS DATA, ADVANCED ANALYSIS PIPELINES FOR MUTATION IDENTIFICATION, A UNIQUE CATALOG OF PRIORITIZED PREDICTIONS OF DEVELOPMENTAL IN VIVO ENHANCERS, AND ADVANCED MOUSE ENGINEERING CAPABILITIES FOR IN VIVO VALIDATION OF ENHANCERS AND ENHANCER MUTATIONS. OUR SPECIFIC AIMS INCLUDE: 1) PRIORITIZE DE NOVO NONCODING GENE REGULATORY MUTATIONS IDENTIFIED IN GROWING WGS CATALOGS IN SBD PATIENTS. TAKING ADVANTAGE OF PREEXISTING AGGREGATED WGS GENETIC DATA AND INNOVATIVE ANALYSIS STRATEGIES, WE WILL IDENTIFY NONCODING MUTATIONS IN SBD AT UNPRECEDENTED SCALE. NONCODING FINDINGS WILL BE INTERPRETED AND PRIORITIZED USING DEVCISREG, A COMPREHENSIVE CATALOG OF GENE REGULATORY SEQUENCES WE DEVELOPED FROM ANALYSIS OF \u003e800 HUMAN AND MOUSE EPIGENOMIC DATA SETS. 2) FUNCTIONALLY TEST PRIORITIZED SBD NONCODING MUTATIONS FOR IMPACTS ON GENE EXPRESSION IN SCALED TRANSGENIC MOUSE ENHANCER ASSAYS. WE WILL USE A TARGETED CRISPR-ENABLED TRANSGENIC APPROACH TO CHARACTERIZE 200 CANDIDATE ENHANCER ALLELES IN MICE AND DETERMINE WHICH MUTATIONS IMPACT ON GENE EXPRESSION IN VIVO. 3) FUNCTIONALLY MODEL PRIORITIZED SBD NONCODING MUTATIONS IN KNOCKIN MICE. WE WILL CREATE AND PHENOTYPE 40 KNOCKIN MOUSE LINES WITH HUMAN ALLELES TO TEST THE IN VIVO IMPACT OF REGULATORY MUTATIONS IN LIVE ANIMALS. WE WILL FOCUS ON MUTATIONS FROM SBDS THAT CAN BE MODELED AND STUDIED BY STREAMLINED PHENOTYPING IN MICE TO INCREASE THE LIKELIHOOD WE CAN DETECT A DEFECT IN VIVO. TOGETHER, THESE EFFORTS WILL CREATE AN INTEGRATED MUTATION-TO-PHENOTYPE IDENTIFICATION AND TESTING PIPELINE THAT WILL PROVIDE CONCLUSIVE IN VIVO EVIDENCE FOR ESTABLISHING THE CAUSALITY OF ENHANCER MUTATIONS IN SBD.",
+    "total_obligation": 2441988,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-09-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1505971.06,
+    "total_account_obligation": 2441988,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1505971.06
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2441988
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-21",
+      "end_date": "2028-06-30",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "ENBLDJUN4N73",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1 CYCLOTRON RD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "8099",
+        "zip5": "94720",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "8099",
+      "zip5": "94720",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1505971.06
+  }
+}

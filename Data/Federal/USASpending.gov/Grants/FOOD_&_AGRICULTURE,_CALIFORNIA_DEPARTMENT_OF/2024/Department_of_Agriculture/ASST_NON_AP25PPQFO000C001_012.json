@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 80573655,
+    "Award ID": "AP25PPQFO000C001",
+    "Recipient Name": "FOOD \u0026 AGRICULTURE, CALIFORNIA DEPARTMENT OF",
+    "Award Amount": 12144000,
+    "Total Outlays": 5533791.79,
+    "Description": "1. AWARD PURPOSE: THE PURPOSE OF THIS PROJECT IS TO SURVEY FOR THE PRESENCE OF ASIAN CITRUS PSYLLID (ACP), HUANGLONGBING (HLB), SWEET ORANGE SCAB (SOS), AND CITRUS YELLOW VEIN CLEARING VIRUS (CYVCV), TO DETERMINE THE EXTENT OF THE ACP/HLB, SOS AND CYVCV INFESTATIONS, CONTROL/ERADICATE INFESTATIONS, ESTABLISH AND ENFORCE QUARANTINE REGULATIONS AND REGULATED AREA REQUIREMENTS, RESTRICT THE MOVEMENT OF HOSTS AS NECESSARY UPON THE DETECTION OF ACP WHILE THE STATUS OF INFESTATION IS BEING DETERMINED, ENLIST PUBLIC ASSISTANCE THROUGH VARIOUS OUTREACH ACTIVITIES, PERFORM IMMEDIATE ACP/HLB AND SOS IDENTIFICATION AND PREPARE, SEARCH FOR, REAR AND RELEASE ACP BIOLOGICAL CONTROL ORGANISMS AND SURVEY FOR OTHER CITRUS DISEASES NOT KNOWN TO OCCUR IN CALIFORNIA, INCLUDING CITRUS CANKER (CC), CITRUS BLACK SPOT (CBS), CITRUS VARIEGATED CHLOROSIS (CVC), CITRUS LEPROSIS (CL), AND CITRUS YELLOW MOSAIC VIRUS (CYMV). 2. ACTIVITIES TO BE PERFORMED: THE SURVEYS, TRAPPING AND PRELIMINARY SCREENING FOR ACP, HLB, SOS, CYVCV AND OTHER CITRUS DISEASES WILL BE PERFORMED BY CDFA, COOPERATIVE AGRICULTURAL SUPPORT SERVICES (CASS), AND BY COUNTY AGRICULTURAL COMMISSIONERS (CAC) STAFF. THE SURVEY CREW PERFORMING THE INSPECTIONS WILL BE TRAINED IN SYMPTOMATOLOGY, SURVEY SAMPLING TECHNIQUES, PROPER SAMPLE SUBMISSION, AND PROPER SANITATION TECHNIQUES. ALL SUSPECT ACP, HLB, SOS, CYVCV OR OTHER CITRUS DISEASE PLANT SAMPLES WILL BE SUBMITTED AS PER PROTOCOL TO THE PPDC OR CRB FOR IDENTIFICATION AND ANALYSIS. THE QUARANTINE AND REGULATED AREA ACTIVITIES WILL BE PERFORMED BY THE USDA, CDFA, AND CAC STAFF. ADDITIONAL STAFF WILL BE HIRED AND TRAINED TO PERFORM REGULATORY FUNCTIONS. 3. DELIVERABLES AND EXPECTED OUTCOMES: CDFA IS PRO-ACTIVE WITH ITS PROGRAM ACTIVITIES FOR EARLY DETECTION OF ACP, HLB, SOS, CYVCV AND OTHER CITRUS DISEASES TO PREVENT ESTABLISHMENT AND SPREAD INTO AGRICULTURAL PRODUCTION AREAS OF CALIFORNIA. THIS PROJECT WILL INCREASE THE PROBABILITY OF EARLY CITRUS PEST DETECTION, THEREBY ALLOWING CDFA TO TAKE IMMEDIATE AND EFFECTIVE CONTROL AND ERADICATION ACTION. EVALUATION OF THE THOROUGHNESS OF THE SURVEY CAN BE QUANTIFIED BY THE NUMBER OF SITES SAMPLES AND SAMPLES SUBMITTED FOR ANALYSIS. IN ADDITION, REGULATORY AND OUTREACH ACTIVITIES CAN BE USED TO DETERMINE SURVEY EFFORT SUFFICIENCY. NEGATIVE SURVEY DATA IS ALSO BENEFICIAL BECAUSE, IT DETERMINES THE SUCCESS OF THE ERADICATION PROJECT, AND IT SUPPORTS THE VALIDITY OF EXISTING STATE AND FEDERAL REGULATIONS WHILE PROMOTING CALIFORNIA’S EXPORT PROGRAM. 4. INTENDED BENEFICIARY(IES): THESE PESTS PRESENT A MAJOR THREAT TO CITRUS AND CITRUS GROWERS WITHIN THE STATE. CALIFORNIA IS THE TOP CITRUS-PRODUCING STATE IN THE UNITED STATES, WITH TOTAL 2021 PRODUCTION VALUED AT OVER $3.6 BILLION. 5. SUBRECIPIENT ACTIVITIES, IF KNOWN OR SPECIFIED AT THE TIME OF AWARD: CASS, CITRUS RESEARCH BOARD (CRB), AND CAC CONTRACTS (ATTACHMENT C), DEPARTMENT OF PESTICIDE REGULATION (DPR), OFFICE OF ENVIRONMENTAL HEALTH HAZARD ASSESSMENT (OEHHA), UNIVERSITY OF CALIFORNIA RIVERSIDE (UCR), GROWER LIAISONS (ATTACHMENT E), OUTREACH CONTRACT (ATTACHMENT F). ALSO CONTRACTS MADE OUT TO EQUIPMENT MAINTENANCE PROVIDERS; ALLIANT, GETINGE AND OTHER PIPETTE, BALANCE AND HAZARDOUS WASTE REMOVAL SERVICES. EACH SUPPORTING THE PRIME AWARD IN ITS MISSION AND PURPOSE THROUGH ASSISTANCE IN CARRYING OUT THE ACTIVITIES TO BE PERFORMED.",
+    "Contract Award Type": "",
+    "Recipient UEI": "H8ANDD5WXME7",
+    "Recipient Location": {
+      "address_line1": "1220 N ST STE 400",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5603",
+      "zip5": "95814"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "06",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Animal and Plant Health Inspection Service",
+    "Start Date": "2024-10-01",
+    "End Date": "2025-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2673dc0c-eb29-402e-2f47-3115c28630f0-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_AP25PPQFO000C001_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 80573655,
+    "generated_unique_award_id": "ASST_NON_AP25PPQFO000C001_012",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "1. AWARD PURPOSE: THE PURPOSE OF THIS PROJECT IS TO SURVEY FOR THE PRESENCE OF ASIAN CITRUS PSYLLID (ACP), HUANGLONGBING (HLB), SWEET ORANGE SCAB (SOS), AND CITRUS YELLOW VEIN CLEARING VIRUS (CYVCV), TO DETERMINE THE EXTENT OF THE ACP/HLB, SOS AND CYVCV INFESTATIONS, CONTROL/ERADICATE INFESTATIONS, ESTABLISH AND ENFORCE QUARANTINE REGULATIONS AND REGULATED AREA REQUIREMENTS, RESTRICT THE MOVEMENT OF HOSTS AS NECESSARY UPON THE DETECTION OF ACP WHILE THE STATUS OF INFESTATION IS BEING DETERMINED, ENLIST PUBLIC ASSISTANCE THROUGH VARIOUS OUTREACH ACTIVITIES, PERFORM IMMEDIATE ACP/HLB AND SOS IDENTIFICATION AND PREPARE, SEARCH FOR, REAR AND RELEASE ACP BIOLOGICAL CONTROL ORGANISMS AND SURVEY FOR OTHER CITRUS DISEASES NOT KNOWN TO OCCUR IN CALIFORNIA, INCLUDING CITRUS CANKER (CC), CITRUS BLACK SPOT (CBS), CITRUS VARIEGATED CHLOROSIS (CVC), CITRUS LEPROSIS (CL), AND CITRUS YELLOW MOSAIC VIRUS (CYMV). 2. ACTIVITIES TO BE PERFORMED: THE SURVEYS, TRAPPING AND PRELIMINARY SCREENING FOR ACP, HLB, SOS, CYVCV AND OTHER CITRUS DISEASES WILL BE PERFORMED BY CDFA, COOPERATIVE AGRICULTURAL SUPPORT SERVICES (CASS), AND BY COUNTY AGRICULTURAL COMMISSIONERS (CAC) STAFF. THE SURVEY CREW PERFORMING THE INSPECTIONS WILL BE TRAINED IN SYMPTOMATOLOGY, SURVEY SAMPLING TECHNIQUES, PROPER SAMPLE SUBMISSION, AND PROPER SANITATION TECHNIQUES. ALL SUSPECT ACP, HLB, SOS, CYVCV OR OTHER CITRUS DISEASE PLANT SAMPLES WILL BE SUBMITTED AS PER PROTOCOL TO THE PPDC OR CRB FOR IDENTIFICATION AND ANALYSIS. THE QUARANTINE AND REGULATED AREA ACTIVITIES WILL BE PERFORMED BY THE USDA, CDFA, AND CAC STAFF. ADDITIONAL STAFF WILL BE HIRED AND TRAINED TO PERFORM REGULATORY FUNCTIONS. 3. DELIVERABLES AND EXPECTED OUTCOMES: CDFA IS PRO-ACTIVE WITH ITS PROGRAM ACTIVITIES FOR EARLY DETECTION OF ACP, HLB, SOS, CYVCV AND OTHER CITRUS DISEASES TO PREVENT ESTABLISHMENT AND SPREAD INTO AGRICULTURAL PRODUCTION AREAS OF CALIFORNIA. THIS PROJECT WILL INCREASE THE PROBABILITY OF EARLY CITRUS PEST DETECTION, THEREBY ALLOWING CDFA TO TAKE IMMEDIATE AND EFFECTIVE CONTROL AND ERADICATION ACTION. EVALUATION OF THE THOROUGHNESS OF THE SURVEY CAN BE QUANTIFIED BY THE NUMBER OF SITES SAMPLES AND SAMPLES SUBMITTED FOR ANALYSIS. IN ADDITION, REGULATORY AND OUTREACH ACTIVITIES CAN BE USED TO DETERMINE SURVEY EFFORT SUFFICIENCY. NEGATIVE SURVEY DATA IS ALSO BENEFICIAL BECAUSE, IT DETERMINES THE SUCCESS OF THE ERADICATION PROJECT, AND IT SUPPORTS THE VALIDITY OF EXISTING STATE AND FEDERAL REGULATIONS WHILE PROMOTING CALIFORNIA’S EXPORT PROGRAM. 4. INTENDED BENEFICIARY(IES): THESE PESTS PRESENT A MAJOR THREAT TO CITRUS AND CITRUS GROWERS WITHIN THE STATE. CALIFORNIA IS THE TOP CITRUS-PRODUCING STATE IN THE UNITED STATES, WITH TOTAL 2021 PRODUCTION VALUED AT OVER $3.6 BILLION. 5. SUBRECIPIENT ACTIVITIES, IF KNOWN OR SPECIFIED AT THE TIME OF AWARD: CASS, CITRUS RESEARCH BOARD (CRB), AND CAC CONTRACTS (ATTACHMENT C), DEPARTMENT OF PESTICIDE REGULATION (DPR), OFFICE OF ENVIRONMENTAL HEALTH HAZARD ASSESSMENT (OEHHA), UNIVERSITY OF CALIFORNIA RIVERSIDE (UCR), GROWER LIAISONS (ATTACHMENT E), OUTREACH CONTRACT (ATTACHMENT F). ALSO CONTRACTS MADE OUT TO EQUIPMENT MAINTENANCE PROVIDERS; ALLIANT, GETINGE AND OTHER PIPETTE, BALANCE AND HAZARDOUS WASTE REMOVAL SERVICES. EACH SUPPORTING THE PRIME AWARD IN ITS MISSION AND PURPOSE THROUGH ASSISTANCE IN CARRYING OUT THE ACTIVITIES TO BE PERFORMED.",
+    "total_obligation": 12144000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-11-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 5533791.79,
+    "total_account_obligation": 12144000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 5533791.79
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 12144000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 176,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Animal and Plant Health Inspection Service",
+        "code": "12K3",
+        "abbreviation": "APHIS"
+      },
+      "office_agency_name": "PPQ-FO FT COLLINS CO"
+    },
+    "awarding_agency": {
+      "id": 176,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Animal and Plant Health Inspection Service",
+        "code": "12K3",
+        "abbreviation": "APHIS"
+      },
+      "office_agency_name": "PPQ-FO FT COLLINS CO"
+    },
+    "period_of_performance": {
+      "start_date": "2024-10-01",
+      "end_date": "2025-09-30",
+      "last_modified_date": "2025-09-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2673dc0c-eb29-402e-2f47-3115c28630f0-C",
+      "recipient_name": "FOOD \u0026 AGRICULTURE, CALIFORNIA DEPARTMENT OF",
+      "recipient_uei": "H8ANDD5WXME7",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "767ea773-fe28-1a94-a12e-aec774194af4-P",
+      "parent_recipient_name": "FOOD \u0026 AGRICULTURE  CALIFORNIA DEPARTMENT OF",
+      "parent_recipient_uei": "LNRMZMQC5DK3",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SACRAMENTO",
+        "county_code": "067",
+        "county_name": "SACRAMENTO",
+        "address_line1": "1220 N ST STE 400",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "07",
+        "zip4": "5603",
+        "zip5": "95814",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 5533791.79
+  }
+}

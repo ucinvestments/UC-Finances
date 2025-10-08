@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91330469,
+    "Award ID": "R35GM151194",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1136905,
+    "Total Outlays": 773593.96,
+    "Description": "EVOLUTIONARY SYSTEMS BIOLOGY OF HOST-PARASITE INTERACTIONS - ABSTRACT THERE ARE FUNDAMENTAL GAPS IN OUR UNDERSTANDING OF HOW GENOME-WIDE FUNCTIONAL GENETIC VARIATION IN HOST-PARASITE INTERACTIONS IS SHAPED BY NATURAL SELECTION, INCLUDING FOR HUMANS. PARASITIC HELMINTHS (INCLUDING NEMATODES) PRESENT IMPORTANT SELECTIVE AGENTS ON HOST TRAITS AND UNDERLYING GENETIC VARIATION. GEOGRAPHIC CLINES IN INFECTION PRESSURE, AS HELMINTHS ARE ECTOTHERMIC (TEMPERATURE-SENSITIVE), MAY DRIVE GENOMIC AND PHENOTYPIC VARIATION ACROSS HOST POPULATIONS. THIS, IN TURN, MAY INFLUENCE PARASITE ADAPTATION. HOWEVER, MECHANISTICALLY LINKING AGENTS OF SELECTION WITH TARGETED TRAITS AND THEIR UNDERLYING GENETIC ARCHITECTURE IN HOSTS AND PARASITES REMAINS FORMIDABLY CHALLENGING. ONLY WHEN RESOLVED, WILL WE UNDERSTAND HOW SELECTION DRIVES EVOLUTION OF HOST RESISTANCE AND IMMUNE SYSTEM SUPPRESSION AND EVASION BY PARASITES. THE INVESTIGATOR’S LONG-TERM GOAL IS TO GAIN MECHANISTIC UNDERSTANDING, INCLUDING OF THE GENETIC ARCHITECTURE OF KEY HOST AND PARASITE TRAITS. THE LABORATORY’S FIVE-YEAR OBJECTIVE IS TO IDENTIFY THESE KEY TRAITS, INVESTIGATE THEIR GENETIC BASIS, AND FUNCTIONALLY VERIFY GENETIC VARIANTS REGULATING THEM. THE CORE HYPOTHESIS IS THAT COEVOLVING HOSTS AND PARASITES EXERT SELECTION, PRESSURING ONE ANOTHER TO ADAPT THROUGH GENETIC AND PHENOTYPIC CHANGES. THE RATIONALE IS THAT POPULATIONS OF PLANTS AND THEIR NEMATODE PARASITES, AS GENETICALLY TRACTABLE MODEL SYSTEMS, SHOW SPATIAL AND TEMPORAL VARIATION IN INFECTION RATES, WHICH HAS A GENETIC BASIS, ALLOWING COMPREHENSIVE MECHANISTIC STUDIES OF THIS ISSUE. WORKING OFF THE INVESTIGATOR’S PRIOR RESEARCH AND ROBUST PRELIMINARY DATA, THIS HYPOTHESIS WILL BE TESTED THROUGH: 1) IDENTIFYING GENOME-WIDE CHANGES UNDERLYING GEOGRAPHIC VARIATION IN PLANT RESISTANCE TO NEMATODE PARASITISM, AND 2) DETERMINING GENETIC MECHANISMS AND CONSTRAINTS UNDERLYING HOST RESISTANCE-BREAKING IN NEMATODES. AN EVOLUTIONARY SYSTEMS BIOLOGY APPROACH WILL IDENTIFY GENES, GENETIC NETWORKS AND GENOMIC VARIANTS UNDERLYING ADAPTIVE TRAITS. THIS WILL BE COMBINED WITH PARASITE RESURRECTION ECOLOGY AND EXPERIMENTAL EVOLUTION TO STUDY REAL-TIME EVOLUTIONARY CHANGE. THE INVESTIGATOR SHOWED PREVIOUSLY THAT SUCH APPROACHES WILL SUCCESSFULLY IDENTIFY KEY TRAITS AND GENES INVOLVED IN SPECIES INTERACTIONS. MOLECULAR GENETIC EXPERIMENTS WILL LINK CANDIDATE ADAPTIVE GENETIC VARIANTS WITH FUNCTIONAL TRAITS AND FITNESS. THIS INNOVATIVE RESEARCH PROGRAM WILL FORM A KEY STEP TOWARD INTEGRATIVE COMPREHENSION OF HOW HOST-PARASITE INTERACTIONS ARE SHAPED BY SELECTION ON PHENOTYPIC AND GENOME-WIDE GENETIC VARIATION. IT HOLDS PROMISE FOR UNCOVERING GENERAL PRINCIPLES RELATING TO HOW HOST-PARASITE INTERACTIONS EVOLVE, HELPING PREDICT SUSTAINABILITY OF HUMAN INTERVENTIONS IN SHAPING SUCH INTERACTIONS TOWARDS BETTER OUTCOMES FOR HUMANS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-08-01",
+    "End Date": "2028-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM151194_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91330469,
+    "generated_unique_award_id": "ASST_NON_R35GM151194_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EVOLUTIONARY SYSTEMS BIOLOGY OF HOST-PARASITE INTERACTIONS - ABSTRACT THERE ARE FUNDAMENTAL GAPS IN OUR UNDERSTANDING OF HOW GENOME-WIDE FUNCTIONAL GENETIC VARIATION IN HOST-PARASITE INTERACTIONS IS SHAPED BY NATURAL SELECTION, INCLUDING FOR HUMANS. PARASITIC HELMINTHS (INCLUDING NEMATODES) PRESENT IMPORTANT SELECTIVE AGENTS ON HOST TRAITS AND UNDERLYING GENETIC VARIATION. GEOGRAPHIC CLINES IN INFECTION PRESSURE, AS HELMINTHS ARE ECTOTHERMIC (TEMPERATURE-SENSITIVE), MAY DRIVE GENOMIC AND PHENOTYPIC VARIATION ACROSS HOST POPULATIONS. THIS, IN TURN, MAY INFLUENCE PARASITE ADAPTATION. HOWEVER, MECHANISTICALLY LINKING AGENTS OF SELECTION WITH TARGETED TRAITS AND THEIR UNDERLYING GENETIC ARCHITECTURE IN HOSTS AND PARASITES REMAINS FORMIDABLY CHALLENGING. ONLY WHEN RESOLVED, WILL WE UNDERSTAND HOW SELECTION DRIVES EVOLUTION OF HOST RESISTANCE AND IMMUNE SYSTEM SUPPRESSION AND EVASION BY PARASITES. THE INVESTIGATOR’S LONG-TERM GOAL IS TO GAIN MECHANISTIC UNDERSTANDING, INCLUDING OF THE GENETIC ARCHITECTURE OF KEY HOST AND PARASITE TRAITS. THE LABORATORY’S FIVE-YEAR OBJECTIVE IS TO IDENTIFY THESE KEY TRAITS, INVESTIGATE THEIR GENETIC BASIS, AND FUNCTIONALLY VERIFY GENETIC VARIANTS REGULATING THEM. THE CORE HYPOTHESIS IS THAT COEVOLVING HOSTS AND PARASITES EXERT SELECTION, PRESSURING ONE ANOTHER TO ADAPT THROUGH GENETIC AND PHENOTYPIC CHANGES. THE RATIONALE IS THAT POPULATIONS OF PLANTS AND THEIR NEMATODE PARASITES, AS GENETICALLY TRACTABLE MODEL SYSTEMS, SHOW SPATIAL AND TEMPORAL VARIATION IN INFECTION RATES, WHICH HAS A GENETIC BASIS, ALLOWING COMPREHENSIVE MECHANISTIC STUDIES OF THIS ISSUE. WORKING OFF THE INVESTIGATOR’S PRIOR RESEARCH AND ROBUST PRELIMINARY DATA, THIS HYPOTHESIS WILL BE TESTED THROUGH: 1) IDENTIFYING GENOME-WIDE CHANGES UNDERLYING GEOGRAPHIC VARIATION IN PLANT RESISTANCE TO NEMATODE PARASITISM, AND 2) DETERMINING GENETIC MECHANISMS AND CONSTRAINTS UNDERLYING HOST RESISTANCE-BREAKING IN NEMATODES. AN EVOLUTIONARY SYSTEMS BIOLOGY APPROACH WILL IDENTIFY GENES, GENETIC NETWORKS AND GENOMIC VARIANTS UNDERLYING ADAPTIVE TRAITS. THIS WILL BE COMBINED WITH PARASITE RESURRECTION ECOLOGY AND EXPERIMENTAL EVOLUTION TO STUDY REAL-TIME EVOLUTIONARY CHANGE. THE INVESTIGATOR SHOWED PREVIOUSLY THAT SUCH APPROACHES WILL SUCCESSFULLY IDENTIFY KEY TRAITS AND GENES INVOLVED IN SPECIES INTERACTIONS. MOLECULAR GENETIC EXPERIMENTS WILL LINK CANDIDATE ADAPTIVE GENETIC VARIANTS WITH FUNCTIONAL TRAITS AND FITNESS. THIS INNOVATIVE RESEARCH PROGRAM WILL FORM A KEY STEP TOWARD INTEGRATIVE COMPREHENSION OF HOW HOST-PARASITE INTERACTIONS ARE SHAPED BY SELECTION ON PHENOTYPIC AND GENOME-WIDE GENETIC VARIATION. IT HOLDS PROMISE FOR UNCOVERING GENERAL PRINCIPLES RELATING TO HOW HOST-PARASITE INTERACTIONS EVOLVE, HELPING PREDICT SUSTAINABILITY OF HUMAN INTERVENTIONS IN SHAPING SUCH INTERACTIONS TOWARDS BETTER OUTCOMES FOR HUMANS.",
+    "total_obligation": 1136905,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-07-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 773593.96,
+    "total_account_obligation": 1136905,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 773593.96
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1136905
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-08-01",
+      "end_date": "2028-05-31",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 773593.96
+  }
+}

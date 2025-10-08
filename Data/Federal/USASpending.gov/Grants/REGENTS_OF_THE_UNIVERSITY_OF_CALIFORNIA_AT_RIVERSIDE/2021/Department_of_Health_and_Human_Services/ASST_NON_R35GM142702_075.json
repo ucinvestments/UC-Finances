@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91329457,
+    "Award ID": "R35GM142702",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1624426,
+    "Total Outlays": 954223.72,
+    "Description": "NOVEL STATISTICAL METHODS FOR MULTISCALE ANALYSIS OF SINGLE-CELL TRANSCRIPTOMES - PROJECT SUMMARY/ABSTRACT SINGLE-CELL RNA SEQUENCING (SCRNA-SEQ) IS CURRENTLY AT THE FOREFRONT OF BIOTECHNOLOGICAL INNOVATION. SCRNA-SEQ EXPERIMENTS ENABLE GENE EXPRESSION MEASUREMENT AT A SINGLE-CELL RESOLUTION, AND PROVIDE AN OPPORTUNITY TO CHARACTERIZE THE MOLECULAR SIGNATURES OF DIVERSE CELL TYPES, STATES, AND STRUCTURES IN TISSUE DEVELOPMENT AND DISEASE PROGRESSION. HOWEVER, IT REMAINS A SUBSTANTIVE CHALLENGE TO CONSTRUCT A COMPREHENSIVE VIEW OF SINGLE- CELL TRANSCRIPTOMES IN HEALTH AND DISEASE, DUE TO THE KNOWLEDGE GAP IN PROPERLY MODELING THE HIGH-DIMENSIONAL, SPARSE, AND NOISY SCRNA-SEQ DATA. WHILE THE DEVELOPMENT OF NEW DATA SCIENCE METHODS, INCLUDING OUR RECENT WORK, HAS FACILITATED THE DESIGN AND ANALYSIS IN SCRNA-SEQ STUDIES TO IDENTIFY AND ANNOTATE DISTINCT CELL POPULATIONS, THERE IS A CRITICAL NEED FOR COMPUTATIONAL METHODS THAT CAN ACCURATELY EVALUATE BIOLOGICAL HYPOTHESES FOR THESE DIVERSE CELL POPULATIONS. TO ADDRESS THIS KNOWLEDGE GAP AND CRITICAL NEED AND THEREBY ENABLE A SYSTEMATIC UNDERSTANDING OF TRANSCRIPTIONAL AND POST-TRANSCRIPTIONAL MECHANISMS ACROSS BIOLOGICAL SCALES (FROM CELLS TO GENES TO RNA MOLECULES), THE OBJECTIVE OF OUR MIRA RESEARCH PROGRAM IS TO DEVELOP NOVEL STATISTICAL METHODS AND BIOINFORMATICS SOFTWARE FOR MULTISCALE ANALYSIS OF SINGLE-CELL TRANSCRIPTOMES. WE WILL PURSUE THREE PARALLEL BUT COMPLEMENTARY RESEARCH DIRECTIONS: (1) TO DEVELOP NOVEL STATISTICAL METHODS FOR QUANTIFYING AND COMPARING GENE REGULATORY ASSOCIATIONS FROM SINGLE-CELL GENE EXPRESSION DATA; (2) TO DEVELOP THE FIRST STATISTICALLY PRINCIPLED METHODS FOR IDENTIFYING, QUANTIFYING, AND COMPARING ALTERNATIVE POLYADENYLATION USAGE FROM 3’-END SCRNA-SEQ DATA; AND (3) TO DEVELOP A NOVEL STATISTICAL MODEL FOR JOINTLY ANALYZING AND COMPARING SCRNA-SEQ DATA FROM HETEROGENEOUS BIOLOGICAL SAMPLES, SUCH AS MULTIPLE PATIENTS, DEVELOPMENTAL STAGES, OR RELATED SPECIES. THE PROPOSED RESEARCH WILL BE BUILT ON THE FOUNDATIONS OF OUR RECENT STUDIES IN DEVELOPING INTERPRETABLE STATISTICAL METHODS AND USER-FRIENDLY SOFTWARE FOR QUANTIFYING, DENOISING, INTEGRATING, AND COMPARING GENOMIC DATA AT VARIOUS BIOLOGICAL SCALES. THROUGHOUT THE PROGRAM, WE WILL WORK CLOSELY WITH EXPERIMENTAL BIOLOGISTS AT RUTGERS CANCER INSTITUTE OF NEW JERSEY AND WISTAR INSTITUTE, AND USE OUR PROPOSED METHODS TO IDENTIFY AND STUDY TRANSCRIPTIONAL MECHANISMS IN INTESTINAL BIOLOGY, NEUROBIOLOGY, AND CANCER BIOLOGY. TOGETHER, THIS CONCERTED EFFORT WILL PROVIDE EFFICIENT AND BROADLY APPLICABLE STATISTICAL AND BIOINFORMATICS TOOLS FOR GENERATING SUBSTANTIAL INSIGHTS INTO IDENTIFYING KEY CELLS, PATHWAYS, GENE INTERACTIONS, AND RNA TRANSCRIPTS ASSOCIATED WITH VARIOUS BIOLOGICAL CONTEXTS, INCLUDING HUMAN DISEASE. THE PROPOSED PROGRAM ALSO ALIGNS WITH MY TEAM’S LONG-TERM GOAL TO DEVELOP A STATISTICALLY PRINCIPLED UNDERSTANDING OF TRANSCRIPTIONAL AND POST- TRANSCRIPTIONAL REGULATION IN SINGLE CELLS, THUS IMPROVING OUR ABILITY TO DEFINE, INTERPRET, AND PREDICT CELLULAR COMMITMENT AND FUNCTIONALITY IN HEALTH AND DISEASE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925210001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-09-01",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM142702_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91329457,
+    "generated_unique_award_id": "ASST_NON_R35GM142702_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NOVEL STATISTICAL METHODS FOR MULTISCALE ANALYSIS OF SINGLE-CELL TRANSCRIPTOMES - PROJECT SUMMARY/ABSTRACT SINGLE-CELL RNA SEQUENCING (SCRNA-SEQ) IS CURRENTLY AT THE FOREFRONT OF BIOTECHNOLOGICAL INNOVATION. SCRNA-SEQ EXPERIMENTS ENABLE GENE EXPRESSION MEASUREMENT AT A SINGLE-CELL RESOLUTION, AND PROVIDE AN OPPORTUNITY TO CHARACTERIZE THE MOLECULAR SIGNATURES OF DIVERSE CELL TYPES, STATES, AND STRUCTURES IN TISSUE DEVELOPMENT AND DISEASE PROGRESSION. HOWEVER, IT REMAINS A SUBSTANTIVE CHALLENGE TO CONSTRUCT A COMPREHENSIVE VIEW OF SINGLE- CELL TRANSCRIPTOMES IN HEALTH AND DISEASE, DUE TO THE KNOWLEDGE GAP IN PROPERLY MODELING THE HIGH-DIMENSIONAL, SPARSE, AND NOISY SCRNA-SEQ DATA. WHILE THE DEVELOPMENT OF NEW DATA SCIENCE METHODS, INCLUDING OUR RECENT WORK, HAS FACILITATED THE DESIGN AND ANALYSIS IN SCRNA-SEQ STUDIES TO IDENTIFY AND ANNOTATE DISTINCT CELL POPULATIONS, THERE IS A CRITICAL NEED FOR COMPUTATIONAL METHODS THAT CAN ACCURATELY EVALUATE BIOLOGICAL HYPOTHESES FOR THESE DIVERSE CELL POPULATIONS. TO ADDRESS THIS KNOWLEDGE GAP AND CRITICAL NEED AND THEREBY ENABLE A SYSTEMATIC UNDERSTANDING OF TRANSCRIPTIONAL AND POST-TRANSCRIPTIONAL MECHANISMS ACROSS BIOLOGICAL SCALES (FROM CELLS TO GENES TO RNA MOLECULES), THE OBJECTIVE OF OUR MIRA RESEARCH PROGRAM IS TO DEVELOP NOVEL STATISTICAL METHODS AND BIOINFORMATICS SOFTWARE FOR MULTISCALE ANALYSIS OF SINGLE-CELL TRANSCRIPTOMES. WE WILL PURSUE THREE PARALLEL BUT COMPLEMENTARY RESEARCH DIRECTIONS: (1) TO DEVELOP NOVEL STATISTICAL METHODS FOR QUANTIFYING AND COMPARING GENE REGULATORY ASSOCIATIONS FROM SINGLE-CELL GENE EXPRESSION DATA; (2) TO DEVELOP THE FIRST STATISTICALLY PRINCIPLED METHODS FOR IDENTIFYING, QUANTIFYING, AND COMPARING ALTERNATIVE POLYADENYLATION USAGE FROM 3’-END SCRNA-SEQ DATA; AND (3) TO DEVELOP A NOVEL STATISTICAL MODEL FOR JOINTLY ANALYZING AND COMPARING SCRNA-SEQ DATA FROM HETEROGENEOUS BIOLOGICAL SAMPLES, SUCH AS MULTIPLE PATIENTS, DEVELOPMENTAL STAGES, OR RELATED SPECIES. THE PROPOSED RESEARCH WILL BE BUILT ON THE FOUNDATIONS OF OUR RECENT STUDIES IN DEVELOPING INTERPRETABLE STATISTICAL METHODS AND USER-FRIENDLY SOFTWARE FOR QUANTIFYING, DENOISING, INTEGRATING, AND COMPARING GENOMIC DATA AT VARIOUS BIOLOGICAL SCALES. THROUGHOUT THE PROGRAM, WE WILL WORK CLOSELY WITH EXPERIMENTAL BIOLOGISTS AT RUTGERS CANCER INSTITUTE OF NEW JERSEY AND WISTAR INSTITUTE, AND USE OUR PROPOSED METHODS TO IDENTIFY AND STUDY TRANSCRIPTIONAL MECHANISMS IN INTESTINAL BIOLOGY, NEUROBIOLOGY, AND CANCER BIOLOGY. TOGETHER, THIS CONCERTED EFFORT WILL PROVIDE EFFICIENT AND BROADLY APPLICABLE STATISTICAL AND BIOINFORMATICS TOOLS FOR GENERATING SUBSTANTIAL INSIGHTS INTO IDENTIFYING KEY CELLS, PATHWAYS, GENE INTERACTIONS, AND RNA TRANSCRIPTS ASSOCIATED WITH VARIOUS BIOLOGICAL CONTEXTS, INCLUDING HUMAN DISEASE. THE PROPOSED PROGRAM ALSO ALIGNS WITH MY TEAM’S LONG-TERM GOAL TO DEVELOP A STATISTICALLY PRINCIPLED UNDERSTANDING OF TRANSCRIPTIONAL AND POST- TRANSCRIPTIONAL REGULATION IN SINGLE CELLS, THUS IMPROVING OUR ABILITY TO DEFINE, INTERPRET, AND PREDICT CELLULAR COMMITMENT AND FUNCTIONALITY IN HEALTH AND DISEASE.",
+    "total_obligation": 1624426,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-08-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 954223.72,
+    "total_account_obligation": 1624426,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 954223.72
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1624426
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-01",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 954223.72
+  }
+}

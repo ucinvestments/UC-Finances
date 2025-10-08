@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91228656,
+    "Award ID": "R01MH124818",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1594583,
+    "Total Outlays": 1533122.98,
+    "Description": "CORTICOSTRIATAL CONTRIBUTIONS TO EVIDENCE EVALUATION AND DECISION SELECTION - PROJECT SUMMARY A DEFINING FEATURE OF COGNITIVE FLEXIBILITY IS THE ABILITY TO EXERT CONTROL OVER HOW INFORMATION IS TREATED WHEN ACTING UPON IT. THIS IS IMPORTANT FOR DECISION MAKING, WHICH OFTEN INVOLVES EVALUATING INFORMATION FROM ONE'S SURROUNDINGS TO SELECT APPROPRIATE CHOICES. CORTICOSTRIATAL CIRCUITS HAVE BEEN SUGGESTED TO PLAY CRITICAL ROLES IN THESE DECISION PROCESSES, BUT THEIR EXACT CONTRIBUTIONS REMAIN UNRESOLVED. OUR LONG-TERM GOAL IS TO UNDERSTAND HOW CORTICOSTRIATAL CIRCUITS CONTRIBUTE TO FLEXIBLE CONTROL OF EVIDENCE EVALUATION AND DECISION SELECTION. STUDIES IN RODENTS HAVE IDENTIFIED THE FRONTAL ORIENTING FIELD (FOF) IN THE CORTEX AND THE ANTERIOR DORSAL STRIATUM (ADS) TO WHICH IT PROJECTS AS PLAYING IMPORTANT ROLES IN EVIDENCE EVALUATION AND DECISION SELECTION. HOWEVER, LITTLE IS KNOWN ABOUT HOW THIS CIRCUIT CONTROLS THE TIMESCALE OF EVIDENCE EVALUATION THAT GUIDES DECISION SELECTION, WHICH IS IMPORTANT FOR ANY SITUATION WHERE EVIDENCE IS ACQUIRED SEQUENTIALLY IN TIME. BUILDING ON PREVIOUS WORK, OUR OVERARCHING HYPOTHESIS IS THAT THE ADS PLAYS A ROLE IN CONTROLLING THE PERIOD OF INFLUENCE OF EVIDENCE ON CHOICES AND THAT THE FOF PLAYS A ROLE IN DECISION SELECTION THAT IS GUIDED BY INFORMATION ROUTED VIA THE ADS. HERE, WE TRAIN RATS TO PERFORM A NOVEL CHANGE DETECTION TASK THAT WE HAVE DEVELOPED TO ADDRESS THESE QUESTIONS. IN AIM 1, WE WILL IDENTIFY CONTRIBUTIONS OF THE ADS TO CONTROL THE TIMESCALES OF EVIDENCE EVALUATION. WE WILL USE A COMBINATION OF NEURAL RECORDINGS AND OPTOGENETIC PERTURBATION TO STUDY NEURAL REPRESENTATIONS AND ASSOCIATED CIRCUIT MECHANISMS. IN AIM 2, WE WILL IDENTIFY CONTRIBUTIONS OF THE FOF TO FREE RESPONSE DECISION SELECTION WITH A PARALLEL APPROACH AS AIM 1, AGAIN COMBINING NEURAL RECORDINGS AND OPTOGENETIC PERTURBATIONS. IN AIM 3, WE WILL MEASURE THE INFLUENCE OF THE ADS AND FOF ON EACH OTHER WITH SIMULTANEOUS NEURAL RECORDINGS TO INFORM MECHANISTIC MODELS OF CORTICOSTRIATAL CIRCUIT CONTRIBUTIONS TO EVIDENCE EVALUATION AND DECISION SELECTION. THE APPROACH WE TAKE IS INNOVATIVE BECAUSE THE LAB HAS DEVELOPED NOVEL TECHNIQUES, IMPORTANT REFINEMENTS OF CUTTING EDGE TECHNIQUES, AND EXTENSIONS OF ESTABLISHED TECHNIQUES TO PREVIOUSLY UNEXPLORED QUESTIONS. THE CONTRIBUTION OF THIS WORK IS SIGNIFICANT BECAUSE IT WILL FILL MULTIPLE MAJOR GAPS IN OUR KNOWLEDGE ABOUT THIS CRITICALLY IMPORTANT FUNCTION AND CLINICALLY RELEVANT CIRCUIT. FURTHERMORE, BECAUSE CORTICOSTRIATAL CIRCUITS AND THE FUNCTIONS STUDIED HERE ARE IMPACTED BY MULTIPLE BRAIN DISORDERS, AN IMPROVED UNDERSTANDING OF THE CONNECTION BETWEEN THE TWO WILL BE USEFUL FOR DEVELOPING NEW MENTAL HEALTH TREATMENTS AND AVOIDING SIDE EFFECTS OF TREATMENTS TARGETED TO THESE BRAIN CIRCUITS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-08-01",
+    "End Date": "2025-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01MH124818_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91228656,
+    "generated_unique_award_id": "ASST_NON_R01MH124818_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CORTICOSTRIATAL CONTRIBUTIONS TO EVIDENCE EVALUATION AND DECISION SELECTION - PROJECT SUMMARY A DEFINING FEATURE OF COGNITIVE FLEXIBILITY IS THE ABILITY TO EXERT CONTROL OVER HOW INFORMATION IS TREATED WHEN ACTING UPON IT. THIS IS IMPORTANT FOR DECISION MAKING, WHICH OFTEN INVOLVES EVALUATING INFORMATION FROM ONE'S SURROUNDINGS TO SELECT APPROPRIATE CHOICES. CORTICOSTRIATAL CIRCUITS HAVE BEEN SUGGESTED TO PLAY CRITICAL ROLES IN THESE DECISION PROCESSES, BUT THEIR EXACT CONTRIBUTIONS REMAIN UNRESOLVED. OUR LONG-TERM GOAL IS TO UNDERSTAND HOW CORTICOSTRIATAL CIRCUITS CONTRIBUTE TO FLEXIBLE CONTROL OF EVIDENCE EVALUATION AND DECISION SELECTION. STUDIES IN RODENTS HAVE IDENTIFIED THE FRONTAL ORIENTING FIELD (FOF) IN THE CORTEX AND THE ANTERIOR DORSAL STRIATUM (ADS) TO WHICH IT PROJECTS AS PLAYING IMPORTANT ROLES IN EVIDENCE EVALUATION AND DECISION SELECTION. HOWEVER, LITTLE IS KNOWN ABOUT HOW THIS CIRCUIT CONTROLS THE TIMESCALE OF EVIDENCE EVALUATION THAT GUIDES DECISION SELECTION, WHICH IS IMPORTANT FOR ANY SITUATION WHERE EVIDENCE IS ACQUIRED SEQUENTIALLY IN TIME. BUILDING ON PREVIOUS WORK, OUR OVERARCHING HYPOTHESIS IS THAT THE ADS PLAYS A ROLE IN CONTROLLING THE PERIOD OF INFLUENCE OF EVIDENCE ON CHOICES AND THAT THE FOF PLAYS A ROLE IN DECISION SELECTION THAT IS GUIDED BY INFORMATION ROUTED VIA THE ADS. HERE, WE TRAIN RATS TO PERFORM A NOVEL CHANGE DETECTION TASK THAT WE HAVE DEVELOPED TO ADDRESS THESE QUESTIONS. IN AIM 1, WE WILL IDENTIFY CONTRIBUTIONS OF THE ADS TO CONTROL THE TIMESCALES OF EVIDENCE EVALUATION. WE WILL USE A COMBINATION OF NEURAL RECORDINGS AND OPTOGENETIC PERTURBATION TO STUDY NEURAL REPRESENTATIONS AND ASSOCIATED CIRCUIT MECHANISMS. IN AIM 2, WE WILL IDENTIFY CONTRIBUTIONS OF THE FOF TO FREE RESPONSE DECISION SELECTION WITH A PARALLEL APPROACH AS AIM 1, AGAIN COMBINING NEURAL RECORDINGS AND OPTOGENETIC PERTURBATIONS. IN AIM 3, WE WILL MEASURE THE INFLUENCE OF THE ADS AND FOF ON EACH OTHER WITH SIMULTANEOUS NEURAL RECORDINGS TO INFORM MECHANISTIC MODELS OF CORTICOSTRIATAL CIRCUIT CONTRIBUTIONS TO EVIDENCE EVALUATION AND DECISION SELECTION. THE APPROACH WE TAKE IS INNOVATIVE BECAUSE THE LAB HAS DEVELOPED NOVEL TECHNIQUES, IMPORTANT REFINEMENTS OF CUTTING EDGE TECHNIQUES, AND EXTENSIONS OF ESTABLISHED TECHNIQUES TO PREVIOUSLY UNEXPLORED QUESTIONS. THE CONTRIBUTION OF THIS WORK IS SIGNIFICANT BECAUSE IT WILL FILL MULTIPLE MAJOR GAPS IN OUR KNOWLEDGE ABOUT THIS CRITICALLY IMPORTANT FUNCTION AND CLINICALLY RELEVANT CIRCUIT. FURTHERMORE, BECAUSE CORTICOSTRIATAL CIRCUITS AND THE FUNCTIONS STUDIED HERE ARE IMPACTED BY MULTIPLE BRAIN DISORDERS, AN IMPROVED UNDERSTANDING OF THE CONNECTION BETWEEN THE TWO WILL BE USEFUL FOR DEVELOPING NEW MENTAL HEALTH TREATMENTS AND AVOIDING SIDE EFFECTS OF TREATMENTS TARGETED TO THESE BRAIN CIRCUITS.",
+    "total_obligation": 1594583,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-07-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1533122.98,
+    "total_account_obligation": 1594583,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1533122.98
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1594583
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2021-08-01",
+      "end_date": "2025-05-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1533122.98
+  }
+}

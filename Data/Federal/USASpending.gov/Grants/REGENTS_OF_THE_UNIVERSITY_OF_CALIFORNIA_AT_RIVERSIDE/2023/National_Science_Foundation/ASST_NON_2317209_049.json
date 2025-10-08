@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57220186,
+    "Award ID": "2317209",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1059027,
+    "Total Outlays": 314136.35,
+    "Description": "COLLABORATIVE RESEARCH: SPATIAL PHYLOGENOMICS AND DIET EVOLUTION OF THE MEGADIVERSE PLANT BUGS (HEMIPTERA: MIRIDAE) -THIS COLLABORATIVE RESEARCH PROJECT AIMS TO INVESTIGATE THE EVOLUTION OF THE MEGADIVERSE PLANT BUGS, THE INSECT FAMILY MIRIDAE. PLANT BUGS COMPRISE OVER 11,350 DESCRIBED SPECIES AND RANK AMONG THE 20 MOST SPECIES-RICH INSECT FAMILIES. THEY PLAY SIGNIFICANT ROLES AS BOTH CROP PESTS AND BENEFICIAL PREDATORS IN ECOSYSTEMS. A MASSIVE BIODIVERSITY DATASET HAS BEEN COMPILED FOR MIRIDAE THROUGH PREVIOUS NSF-FUNDED INITIATIVES. HOWEVER, DUE TO THE ABSENCE OF COMPREHENSIVE PHYLOGENETIC HYPOTHESES, THIS DATASET'S POTENTIAL TO INVESTIGATE BIOGEOGRAPHIC HISTORY AND HOST PLANT EVOLUTION REMAINS UNTAPPED. THE RESEARCH TEAM WILL CONSTRUCT A PHYLOGENY OF PLANT BUGS USING ULTRACONSERVED ELEMENT (UCE) DATA. THIS WILL ENABLE THE RECONSTRUCTION OF ROBUST TRIBAL AND SUBTRIBAL-LEVEL RELATIONSHIPS, WHILE INVESTIGATING THE TEMPORAL AND DIETARY EVOLUTION OF THE GROUP. THE PROJECT WILL ALSO EXAMINE THE BIOGEOGRAPHIC HISTORY AND HOST PLANT INTERACTIONS OF SELECTED GROUPS OF PLANT BUGS IN WESTERN NORTH AMERICA, ONE OF THE HOTSPOTS OF PLANT BUG DIVERSITY. FINALLY, THE TEAM WILL STUDY THE PHYLOGENETIC DIVERSITY OF PLANT BUGS IN THE BIODIVERSITY HOTSPOT CALIFORNIA FLORISTIC PROVINCE (CA-FP), REVEALING IF PATTERNS ARE SIMILAR TO THOSE DOCUMENTED FOR PLANTS AND VERTEBRATES. AS PART OF THE BROADER IMPACTS, THE RESEARCH TEAM WILL TRAIN A POSTDOCTORAL RESEARCHER AND TWO FEMALE PH.D. STUDENTS, CONTRIBUTING TO THE ADVANCEMENT OF SCIENTIFIC KNOWLEDGE AND PROMOTING DIVERSITY IN ACADEMIA. UNDERGRADUATE STUDENTS WILL BE INVOLVED THROUGH SUMMER INTERNSHIPS AND INDEPENDENT RESEARCH, FOCUSING ON INSECT BIODIVERSITY IN CALIFORNIA. ADDITIONALLY, A COURSE ON INSECT BIODIVERSITY AND CONSERVATION, SPECIFICALLY FOCUSING ON PLANT BUGS AND THE CA-FP, WILL BE DEVELOPED, AND AN EXISTING COURSE WILL BE EXPANDED TO HIGHLIGHT CALIFORNIA BIODIVERSITY. ADDITIONAL TRAINING OPPORTUNITIES INCLUDE A SHORT COURSE ON TRUE BUG BIODIVERSITY AND AN INTERNATIONAL MIROID WORKSHOP. THE WIDELY USED SYSTEMATIC CATALOG OF PLANT BUGS WILL BE UPDATED AND MIGRATED TO TAXON WORKS, ENSURING ACCESS TO ACCURATE AND UP-TO-DATE INFORMATION. DESPITE BOTH ECONOMIC IMPORTANCE AND DIVERSITY, THE FEW CURRENT PHYLOGENETIC HYPOTHESES OF MIRIDAE ARE TAXON-POOR, POORLY RESOLVED, AND CONFLICTING. THIS PROJECT HAS THREE MAJOR AIMS. THE TEAM WILL ESTIMATE THE FIRST ROBUST PHYLOGENY ACROSS THE SEVEN SUBFAMILIES AND WITH SUBPROJECTS FOCUSING ON THE THREE LARGEST SUBFAMILIES MIRINAE, ORTHOTYLINAE, AND PHYLINAE, INFER EVOLUTIONARY TIMELINES, AND INVESTIGATE DIET TRANSITIONS. THOUGH MOST PLANT BUG SPECIES HAVE SMALL ENDEMIC RANGES AND PHYTOPHAGOUS LINEAGES TYPICALLY CONTAIN SPECIES THAT FEED ON A SINGLE HOST PLANT SPECIES, SOME SPECIES? REPERTOIRES COMPRISE MANY PLANT FAMILIES. THESE ATTRIBUTES OF PLANT BUGS WILL ALLOW US TO TEST HYPOTHESES ON HOST PLANT DRIVEN DIVERSIFICATION AND THE BIOGEOGRAPHIC HISTORY OF BIOTA IN THE NEARCTIC AND THE CA-FP. PLANT BUGS ARE AN EXCELLENT SYSTEM TO INVESTIGATE PATTERNS OF PHYLOGENETIC DIVERSITY IN THE CA-FP, THE ONLY BIODIVERSITY HOTSPOT THAT RESIDES ENTIRELY WITHIN THE CONTINENTAL UNITED STATES: 31% OF THE ~700 DESCRIBED SPECIES OF MIRIDAE IN CALIFORNIA ARE ENDEMIC, MOST HAVE BEEN TREATED IN TAXONOMIC REVISIONARY STUDIES, AND DISTRIBUTION RANGES ARE WELL DOCUMENTED. WE WILL CONTRAST PHYLOGENETIC DIVERSITY PATTERNS IN MIRIDAE ? THE FIRST INSECT GROUP TO BE STUDIED IN DETAIL IN THE CA-FP ? WITH THOSE FOUND IN PLANTS AND VERTEBRATES TO PUT INSECTS ON THE MAP FOR CONSERVATION RECOMMENDATIONS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-10-01",
+    "End Date": "2027-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2317209_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57220186,
+    "generated_unique_award_id": "ASST_NON_2317209_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "COLLABORATIVE RESEARCH: SPATIAL PHYLOGENOMICS AND DIET EVOLUTION OF THE MEGADIVERSE PLANT BUGS (HEMIPTERA: MIRIDAE) -THIS COLLABORATIVE RESEARCH PROJECT AIMS TO INVESTIGATE THE EVOLUTION OF THE MEGADIVERSE PLANT BUGS, THE INSECT FAMILY MIRIDAE. PLANT BUGS COMPRISE OVER 11,350 DESCRIBED SPECIES AND RANK AMONG THE 20 MOST SPECIES-RICH INSECT FAMILIES. THEY PLAY SIGNIFICANT ROLES AS BOTH CROP PESTS AND BENEFICIAL PREDATORS IN ECOSYSTEMS. A MASSIVE BIODIVERSITY DATASET HAS BEEN COMPILED FOR MIRIDAE THROUGH PREVIOUS NSF-FUNDED INITIATIVES. HOWEVER, DUE TO THE ABSENCE OF COMPREHENSIVE PHYLOGENETIC HYPOTHESES, THIS DATASET'S POTENTIAL TO INVESTIGATE BIOGEOGRAPHIC HISTORY AND HOST PLANT EVOLUTION REMAINS UNTAPPED. THE RESEARCH TEAM WILL CONSTRUCT A PHYLOGENY OF PLANT BUGS USING ULTRACONSERVED ELEMENT (UCE) DATA. THIS WILL ENABLE THE RECONSTRUCTION OF ROBUST TRIBAL AND SUBTRIBAL-LEVEL RELATIONSHIPS, WHILE INVESTIGATING THE TEMPORAL AND DIETARY EVOLUTION OF THE GROUP. THE PROJECT WILL ALSO EXAMINE THE BIOGEOGRAPHIC HISTORY AND HOST PLANT INTERACTIONS OF SELECTED GROUPS OF PLANT BUGS IN WESTERN NORTH AMERICA, ONE OF THE HOTSPOTS OF PLANT BUG DIVERSITY. FINALLY, THE TEAM WILL STUDY THE PHYLOGENETIC DIVERSITY OF PLANT BUGS IN THE BIODIVERSITY HOTSPOT CALIFORNIA FLORISTIC PROVINCE (CA-FP), REVEALING IF PATTERNS ARE SIMILAR TO THOSE DOCUMENTED FOR PLANTS AND VERTEBRATES. AS PART OF THE BROADER IMPACTS, THE RESEARCH TEAM WILL TRAIN A POSTDOCTORAL RESEARCHER AND TWO FEMALE PH.D. STUDENTS, CONTRIBUTING TO THE ADVANCEMENT OF SCIENTIFIC KNOWLEDGE AND PROMOTING DIVERSITY IN ACADEMIA. UNDERGRADUATE STUDENTS WILL BE INVOLVED THROUGH SUMMER INTERNSHIPS AND INDEPENDENT RESEARCH, FOCUSING ON INSECT BIODIVERSITY IN CALIFORNIA. ADDITIONALLY, A COURSE ON INSECT BIODIVERSITY AND CONSERVATION, SPECIFICALLY FOCUSING ON PLANT BUGS AND THE CA-FP, WILL BE DEVELOPED, AND AN EXISTING COURSE WILL BE EXPANDED TO HIGHLIGHT CALIFORNIA BIODIVERSITY. ADDITIONAL TRAINING OPPORTUNITIES INCLUDE A SHORT COURSE ON TRUE BUG BIODIVERSITY AND AN INTERNATIONAL MIROID WORKSHOP. THE WIDELY USED SYSTEMATIC CATALOG OF PLANT BUGS WILL BE UPDATED AND MIGRATED TO TAXON WORKS, ENSURING ACCESS TO ACCURATE AND UP-TO-DATE INFORMATION. DESPITE BOTH ECONOMIC IMPORTANCE AND DIVERSITY, THE FEW CURRENT PHYLOGENETIC HYPOTHESES OF MIRIDAE ARE TAXON-POOR, POORLY RESOLVED, AND CONFLICTING. THIS PROJECT HAS THREE MAJOR AIMS. THE TEAM WILL ESTIMATE THE FIRST ROBUST PHYLOGENY ACROSS THE SEVEN SUBFAMILIES AND WITH SUBPROJECTS FOCUSING ON THE THREE LARGEST SUBFAMILIES MIRINAE, ORTHOTYLINAE, AND PHYLINAE, INFER EVOLUTIONARY TIMELINES, AND INVESTIGATE DIET TRANSITIONS. THOUGH MOST PLANT BUG SPECIES HAVE SMALL ENDEMIC RANGES AND PHYTOPHAGOUS LINEAGES TYPICALLY CONTAIN SPECIES THAT FEED ON A SINGLE HOST PLANT SPECIES, SOME SPECIES? REPERTOIRES COMPRISE MANY PLANT FAMILIES. THESE ATTRIBUTES OF PLANT BUGS WILL ALLOW US TO TEST HYPOTHESES ON HOST PLANT DRIVEN DIVERSIFICATION AND THE BIOGEOGRAPHIC HISTORY OF BIOTA IN THE NEARCTIC AND THE CA-FP. PLANT BUGS ARE AN EXCELLENT SYSTEM TO INVESTIGATE PATTERNS OF PHYLOGENETIC DIVERSITY IN THE CA-FP, THE ONLY BIODIVERSITY HOTSPOT THAT RESIDES ENTIRELY WITHIN THE CONTINENTAL UNITED STATES: 31% OF THE ~700 DESCRIBED SPECIES OF MIRIDAE IN CALIFORNIA ARE ENDEMIC, MOST HAVE BEEN TREATED IN TAXONOMIC REVISIONARY STUDIES, AND DISTRIBUTION RANGES ARE WELL DOCUMENTED. WE WILL CONTRAST PHYLOGENETIC DIVERSITY PATTERNS IN MIRIDAE ? THE FIRST INSECT GROUP TO BE STUDIED IN DETAIL IN THE CA-FP ? WITH THOSE FOUND IN PLANTS AND VERTEBRATES TO PUT INSECTS ON THE MAP FOR CONSERVATION RECOMMENDATIONS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 1059027,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-07-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 314136.35,
+    "total_account_obligation": 1059027,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 314136.35
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1059027
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ENVIRONMENTAL BIOLOGY"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ENVIRONMENTAL BIOLOGY"
+    },
+    "period_of_performance": {
+      "start_date": "2023-10-01",
+      "end_date": "2027-09-30",
+      "last_modified_date": "2023-08-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 314136.35
+  }
+}

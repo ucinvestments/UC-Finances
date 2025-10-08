@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 58010555,
+    "Award ID": "2516703",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 640474,
+    "Total Outlays": 45.98,
+    "Description": "REPROGRAMMING PLANT RESPONSES TO NITRATE -PLANTS REQUIRE NITROGEN FOR GROWTH. AGRICULTURE HAS GREATLY BENEFITED FROM THE EXTERNAL APPLICATION OF NITROGEN CONTAINING FERTILIZER, WHICH IS IN LARGE PART RESPONSIBLE FOR CURRENT CROP YIELDS. NITROGEN USE EFFICIENCY IS A CRITICAL AGRICULTURAL TRAIT THAT DEPENDS ON THE PLANT?S ABILITY TO EFFICIENTLY UPTAKE NUTRIENTS FROM THE SOIL AND TO TRANSPORT AND UTILIZE THOSE NUTRIENTS FOR MAXIMUM YIELDS. A PLANT WITH IMPROVED NITROGEN USE EFFICIENCY WILL REQUIRE LESS FERTILIZER THAT WILL SAVE COSTS AND HAVE LESS NEGATIVE RESULTS ON THE ECOSYSTEM. THE SIZE, SHAPE AND RESPONSIVENESS OF ROOT SYSTEMS ARE IMPORTANT CONTRIBUTORS TO HOW A PLANT USES AVAILABLE NITROGEN. FOR EXAMPLE, LARGE ROOT SYSTEMS HAVE BEEN OBSERVED TO BE MORE EFFICIENT AT UTILIZING APPLIED NITROGEN, AND ROOTS THAT CAN RAPIDLY MODIFY THEIR GROWTH AND ARCHITECTURE TO MAXIMIZE NITROGEN UPTAKE AND ITS ASSOCIATED METABOLISM CAN INCREASE THE CHANCES OF PLANT SURVIVAL WHEN NUTRIENTS ARE SCARCE. OUR PROJECT WILL DELIVER PROGRAMMED PLANTS WITH PREDICTABLE AND NOVEL APPROACHES TO CONTROL ROOT GROWTH IN RESPONSE TO NITROGEN AND TO MAKE PLANTS USE NITROGEN MORE EFFICIENTLY. THE NOVEL AND BROADLY USEFUL TOOLS DEVELOPED TO ENGINEERING PLANTS WILL ALSO BE AVAILABLE FOR THE COMMUNITY. NITROGEN (N) FERTILIZERS ARE NECESSARY TO ENSURE HIGH CROP YIELDS, BUT THE PRODUCTION AND APPLICATION OF FERTILIZERS CAN DISTURB ECOSYSTEMS. IN ADDITION, N-FERTILIZER PRODUCTION IS HIGHLY ENERGY DEMANDING AND COST INTENSIVE, REPRESENTING A MAJOR CHALLENGE BARRIER TO RELIABLY ENSURE YIELD YEAR AFTER YEAR. THIS PROJECT WILL DEVELOP TOOLS TO ENGINEER DESIRABLE N-RESPONSIVE TRAITS AND INVESTIGATE THEIR EFFECTS ON NITROGEN USE EFFICIENCY. ENGINEERED PLANTS WILL BE USED TO QUANTIFY HOW AN ENHANCED ROOT SYSTEM CONTRIBUTES TO IMPROVED UPTAKE AND USE OF EXTERNALLY APPLIED NITROGEN. FINALLY, SYNTHETIC OPTOGENETIC SYSTEMS WILL BE DEPLOYED TO REMOTELY CONTROL BELOWGROUND DEVELOPMENT VIA THE APPLICATION OF SPECIFIC WAVELENGTHS OF LIGHT TO THE PLANT CANOPY. ALL OF THESE APPROACHES WILL BE EMPLOYED IN TOMATO TO DETERMINE THEIR EFFECTIVENESS IN A CROP SPECIES. THIS AWARD WAS FUNDED AS PART OF A LEAD AGENCY OPPORTUNITY BETWEEN NSF, UKRI-BBSRC (UK RESEARCH AND INNOVATION - BIOTECHNOLOGY AND BIOLOGICAL SCIENCES RESEARCH COUNCIL; LEAD) AND DFG (DEUTSCHE FORSCHUNGSGEMEINSCHAFT / GERMAN RESEARCH FOUNDATION) WHERE NSF FUNDS THE US INVESTIGATOR, UKRI-BBSRC FUNDS THE UK PARTNER AND DFG FUNDS THE GERMAN PARTNER. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616-5270",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-05-01",
+    "End Date": "2028-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2516703_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 58010555,
+    "generated_unique_award_id": "ASST_NON_2516703_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "REPROGRAMMING PLANT RESPONSES TO NITRATE -PLANTS REQUIRE NITROGEN FOR GROWTH. AGRICULTURE HAS GREATLY BENEFITED FROM THE EXTERNAL APPLICATION OF NITROGEN CONTAINING FERTILIZER, WHICH IS IN LARGE PART RESPONSIBLE FOR CURRENT CROP YIELDS. NITROGEN USE EFFICIENCY IS A CRITICAL AGRICULTURAL TRAIT THAT DEPENDS ON THE PLANT?S ABILITY TO EFFICIENTLY UPTAKE NUTRIENTS FROM THE SOIL AND TO TRANSPORT AND UTILIZE THOSE NUTRIENTS FOR MAXIMUM YIELDS. A PLANT WITH IMPROVED NITROGEN USE EFFICIENCY WILL REQUIRE LESS FERTILIZER THAT WILL SAVE COSTS AND HAVE LESS NEGATIVE RESULTS ON THE ECOSYSTEM. THE SIZE, SHAPE AND RESPONSIVENESS OF ROOT SYSTEMS ARE IMPORTANT CONTRIBUTORS TO HOW A PLANT USES AVAILABLE NITROGEN. FOR EXAMPLE, LARGE ROOT SYSTEMS HAVE BEEN OBSERVED TO BE MORE EFFICIENT AT UTILIZING APPLIED NITROGEN, AND ROOTS THAT CAN RAPIDLY MODIFY THEIR GROWTH AND ARCHITECTURE TO MAXIMIZE NITROGEN UPTAKE AND ITS ASSOCIATED METABOLISM CAN INCREASE THE CHANCES OF PLANT SURVIVAL WHEN NUTRIENTS ARE SCARCE. OUR PROJECT WILL DELIVER PROGRAMMED PLANTS WITH PREDICTABLE AND NOVEL APPROACHES TO CONTROL ROOT GROWTH IN RESPONSE TO NITROGEN AND TO MAKE PLANTS USE NITROGEN MORE EFFICIENTLY. THE NOVEL AND BROADLY USEFUL TOOLS DEVELOPED TO ENGINEERING PLANTS WILL ALSO BE AVAILABLE FOR THE COMMUNITY. NITROGEN (N) FERTILIZERS ARE NECESSARY TO ENSURE HIGH CROP YIELDS, BUT THE PRODUCTION AND APPLICATION OF FERTILIZERS CAN DISTURB ECOSYSTEMS. IN ADDITION, N-FERTILIZER PRODUCTION IS HIGHLY ENERGY DEMANDING AND COST INTENSIVE, REPRESENTING A MAJOR CHALLENGE BARRIER TO RELIABLY ENSURE YIELD YEAR AFTER YEAR. THIS PROJECT WILL DEVELOP TOOLS TO ENGINEER DESIRABLE N-RESPONSIVE TRAITS AND INVESTIGATE THEIR EFFECTS ON NITROGEN USE EFFICIENCY. ENGINEERED PLANTS WILL BE USED TO QUANTIFY HOW AN ENHANCED ROOT SYSTEM CONTRIBUTES TO IMPROVED UPTAKE AND USE OF EXTERNALLY APPLIED NITROGEN. FINALLY, SYNTHETIC OPTOGENETIC SYSTEMS WILL BE DEPLOYED TO REMOTELY CONTROL BELOWGROUND DEVELOPMENT VIA THE APPLICATION OF SPECIFIC WAVELENGTHS OF LIGHT TO THE PLANT CANOPY. ALL OF THESE APPROACHES WILL BE EMPLOYED IN TOMATO TO DETERMINE THEIR EFFECTIVENESS IN A CROP SPECIES. THIS AWARD WAS FUNDED AS PART OF A LEAD AGENCY OPPORTUNITY BETWEEN NSF, UKRI-BBSRC (UK RESEARCH AND INNOVATION - BIOTECHNOLOGY AND BIOLOGICAL SCIENCES RESEARCH COUNCIL; LEAD) AND DFG (DEUTSCHE FORSCHUNGSGEMEINSCHAFT / GERMAN RESEARCH FOUNDATION) WHERE NSF FUNDS THE US INVESTIGATOR, UKRI-BBSRC FUNDS THE UK PARTNER AND DFG FUNDS THE GERMAN PARTNER. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 640474,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-03-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 362.44,
+    "total_account_obligation": 640474,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 362.44
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 640474
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "period_of_performance": {
+      "start_date": "2025-05-01",
+      "end_date": "2028-04-30",
+      "last_modified_date": "2025-03-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "5270",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 362.44
+  }
+}

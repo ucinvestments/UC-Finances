@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91154835,
+    "Award ID": "R01CA270454",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 791051,
+    "Total Outlays": 773754.99,
+    "Description": "SCH: SMART EHR DATA ANALYTICS TO ENHANCE CANCER CARE MULTITEAM SYSTEMS - CANCER CONTINUES TO RANK AS THE SECOND LEADING CAUSE OF MORTALITY IN THE US, WITH 1.8 MILLION PROJECTED NEW CANCER CASES IN 2020, AND 606,520 CANCER DEATHS. THE NATIONAL ACADEMY OF MEDICINE REPORT UNDERSCORED THAT 18 OR MORE DIFFERENT CLINICAL DISCIPLINES OR ROLES MAY BE INVOLVED IN PATIENTS' COMPREHENSIVE CANCER CARE. ACCORDINGLY, THE NATIONAL CANCER INSTITUTE PRIORITIZED THE NEED TO IMPROVE TEAM-BASED CANCER CARE. THE MULTI-TEAM SYSTEM (MTS) PERSPECTIVE OFFERS A THEORETICAL FRAMEWORK TO EXAMINE INTERDEPENDENT WORK AMONG MULTIPLE TEAMS OF HEALTHCARE PROFESSIONALS (HCPS). TO ACHIEVE BETTER SYSTEM PERFORMANCE, MTS THEORY SUBMITS THAT THE SYSTEM MUST DEVELOP EFFECTIVE COMMUNICATION AND COORDINATION. ELECTRONIC HEALTH RECORDS (EHRS) SERVE A CENTRAL ROLE IN CONNECTING VIRTUAL CARE TEAMS, I.E., GROUPS OF HCPS WHO PROVIDE CARE TO THE SAME PATIENTS, WORK AT DIFFERENT TIMES AND LOCATIONS, AND SUPPORT THEIR WORK WITH TECHNOLOGY-MEDIATED COMMUNICATION. THROUGH EH RS, VIRTUAL CARE TEAMS DEVELOP A DISTRIBUTED COMMUNICATION SYSTEM FOR ENCODING, STORING, AND RETRIEVING PATIENT INFORMATION, WHICH CAN BE EXAMINED AS A COMMUNICATION NETWORK WITH INDIVIDUAL HCPS REPRESENTING INFORMATION AGENTS AND COMMUNICATION LINKAGES AMONG THEM INDICATING INFORMATION FLOW. UNDERSTANDING THIS NETWORK FORM OF COMMUNICATION AND FACTORS INFLUENCING ITS EFFECTIVENESS WILL BE CRUCIAL FOR THE PRACTICE OF VIRTUAL CARE TEAMS. HOWEVER, WITH THE EXPLOSIVE GROWTH OF EHR DATA, THESE \"DIGITAL TRACES\" OF COMPLEX TEAMWORK INTERACTIONS PROVIDE DATA OF UNPRECEDENTED SIZE AND COMPLEXITY TO STUDY MTSS IN THEIR NATURAL HEALTHCARE SETTINGS. WE PROPOSE TO DEVELOP METHODS FOR ML-BASED NETWORK ANALYSIS OF EHR DATA AND VISUAL INTERPRETATION OF ANALYSIS RESULTS FOR UNDERSTANDING AND PROMOTING MORE EFFECTIVE COMMUNICATION AND TEAMWORK IN CANCER CARE TEAM SYSTEMS WITH A FOCUS ON STUDYING CANCER CARE MTSS OF BREAST, COLORECTAL, AND NON-SMALL CELL LUNG CANCER PATIENTS. OUR PROJECT UNIQUELY ADDRESSES THE TRANSFORMATIVE DATA SCIENCE RESEARCH THEME. THE INTERDISCIPLINARY COLLABORATION IN OUR PROJECT WILL OFFER A DIVERSE BASIS FOR CREATIVE PROBLEM SOLVING AND VALIDATION. WE EXPECT THIS PROJECT WILL MAKE FUNDAMENTAL CONTRIBUTIONS TO THE ADVANCEMENTS OF VISUAL ANALYTICS TECHNOLOGY AND EXPLAINABLE AL AND MACHINE LEARNING FOR OPTIMIZING HEALTHCARE PROCESSES, SPECIFICALLY MAKING IMPACT TO FUTURE TEAM-BASED CANCER CARE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-01-01",
+    "End Date": "2024-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA270454_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91154835,
+    "generated_unique_award_id": "ASST_NON_R01CA270454_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SCH: SMART EHR DATA ANALYTICS TO ENHANCE CANCER CARE MULTITEAM SYSTEMS - CANCER CONTINUES TO RANK AS THE SECOND LEADING CAUSE OF MORTALITY IN THE US, WITH 1.8 MILLION PROJECTED NEW CANCER CASES IN 2020, AND 606,520 CANCER DEATHS. THE NATIONAL ACADEMY OF MEDICINE REPORT UNDERSCORED THAT 18 OR MORE DIFFERENT CLINICAL DISCIPLINES OR ROLES MAY BE INVOLVED IN PATIENTS' COMPREHENSIVE CANCER CARE. ACCORDINGLY, THE NATIONAL CANCER INSTITUTE PRIORITIZED THE NEED TO IMPROVE TEAM-BASED CANCER CARE. THE MULTI-TEAM SYSTEM (MTS) PERSPECTIVE OFFERS A THEORETICAL FRAMEWORK TO EXAMINE INTERDEPENDENT WORK AMONG MULTIPLE TEAMS OF HEALTHCARE PROFESSIONALS (HCPS). TO ACHIEVE BETTER SYSTEM PERFORMANCE, MTS THEORY SUBMITS THAT THE SYSTEM MUST DEVELOP EFFECTIVE COMMUNICATION AND COORDINATION. ELECTRONIC HEALTH RECORDS (EHRS) SERVE A CENTRAL ROLE IN CONNECTING VIRTUAL CARE TEAMS, I.E., GROUPS OF HCPS WHO PROVIDE CARE TO THE SAME PATIENTS, WORK AT DIFFERENT TIMES AND LOCATIONS, AND SUPPORT THEIR WORK WITH TECHNOLOGY-MEDIATED COMMUNICATION. THROUGH EH RS, VIRTUAL CARE TEAMS DEVELOP A DISTRIBUTED COMMUNICATION SYSTEM FOR ENCODING, STORING, AND RETRIEVING PATIENT INFORMATION, WHICH CAN BE EXAMINED AS A COMMUNICATION NETWORK WITH INDIVIDUAL HCPS REPRESENTING INFORMATION AGENTS AND COMMUNICATION LINKAGES AMONG THEM INDICATING INFORMATION FLOW. UNDERSTANDING THIS NETWORK FORM OF COMMUNICATION AND FACTORS INFLUENCING ITS EFFECTIVENESS WILL BE CRUCIAL FOR THE PRACTICE OF VIRTUAL CARE TEAMS. HOWEVER, WITH THE EXPLOSIVE GROWTH OF EHR DATA, THESE \"DIGITAL TRACES\" OF COMPLEX TEAMWORK INTERACTIONS PROVIDE DATA OF UNPRECEDENTED SIZE AND COMPLEXITY TO STUDY MTSS IN THEIR NATURAL HEALTHCARE SETTINGS. WE PROPOSE TO DEVELOP METHODS FOR ML-BASED NETWORK ANALYSIS OF EHR DATA AND VISUAL INTERPRETATION OF ANALYSIS RESULTS FOR UNDERSTANDING AND PROMOTING MORE EFFECTIVE COMMUNICATION AND TEAMWORK IN CANCER CARE TEAM SYSTEMS WITH A FOCUS ON STUDYING CANCER CARE MTSS OF BREAST, COLORECTAL, AND NON-SMALL CELL LUNG CANCER PATIENTS. OUR PROJECT UNIQUELY ADDRESSES THE TRANSFORMATIVE DATA SCIENCE RESEARCH THEME. THE INTERDISCIPLINARY COLLABORATION IN OUR PROJECT WILL OFFER A DIVERSE BASIS FOR CREATIVE PROBLEM SOLVING AND VALIDATION. WE EXPECT THIS PROJECT WILL MAKE FUNDAMENTAL CONTRIBUTIONS TO THE ADVANCEMENTS OF VISUAL ANALYTICS TECHNOLOGY AND EXPLAINABLE AL AND MACHINE LEARNING FOR OPTIMIZING HEALTHCARE PROCESSES, SPECIFICALLY MAKING IMPACT TO FUTURE TEAM-BASED CANCER CARE.",
+    "total_obligation": 791051,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-12-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 773754.99,
+    "total_account_obligation": 791051,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 773754.99
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 791051
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-01-01",
+      "end_date": "2024-12-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 773754.99
+  }
+}

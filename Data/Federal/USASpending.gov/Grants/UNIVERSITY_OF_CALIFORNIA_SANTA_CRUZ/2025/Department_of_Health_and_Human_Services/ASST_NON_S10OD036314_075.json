@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 170722055,
+    "Award ID": "S10OD036314",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+    "Award Amount": 884837,
+    "Total Outlays": 0,
+    "Description": "A MODERN CONFOCAL MICROSCOPE TO MAINTAIN AND EXPAND THE CONTINUITY OF BASIC BIOLOGY RESEARCH - PROJECT SUMMARY/ABSTRACT THIS PROPOSAL REQUESTS FUNDS TO PURCHASE A LASER SCANNING CONFOCAL MICROSCOPE FOR A GROUP OF 13 INVESTIGATORS, FROM 4 DEPARTMENTS AND 2 ACADEMIC DIVISIONS AT THE UNIVERSITY OF CALIFORNIA AT SANTA CRUZ. 10 OF THESE INVESTIGATORS ARE NIH-FUNDED. THE PROPOSED LEICA STELLARIS 8 (LS8) CONFOCAL MICROSCOPE WILL REPLACE A 16-YEAR-OLD LEICA SP5 CONFOCAL MICROSCOPE, WHICH WAS PURCHASED THROUGH A CALIFORNIA INSTITUTE FOR REGENERATIVE MEDICINE GRANT MECHANISM AND INSTALLED IN 2008 AND IS AT THE END OF ITS LIFE. THE LS8 IS A FLEXIBLE AND MODULAR CONFOCAL LASER SCANNING MICROSCOPE FOR HIGH-END FLUORESCENCE IMAGING. THE LS8 WAS CONFIRMED TO BE AN OUTSTANDING CHOICE FOR OUR CORE FACILITY THROUGH MULTIPLE DEMOS AS IT IS WELL SUITED FOR THE RESEARCH OBJECTIVES OF OUR USERS. IT IS EASY TO USE, PROVIDES A COST-EFFECTIVE SOLUTION TO OUR RESEARCH CHALLENGES AND MAINTAINS AND EXPANDS THE IMAGING CAPABILITIES OF OUR LOCAL RESEARCH COMMUNITY BY INTRODUCING A WHITE LIGHT LASER FOR FLEXIBLE EXCITATION, A BROADER DETECTION SPECTRUM COMPARED TO WHAT WE HAVE NOW AND THE ABILITY TO DO FLUORESCENCE LIFETIME IMAGING (FLIM). THESE CAPABILITIES MAKE THE INSTRUMENT ESSENTIAL TO THE CONTINUING THE COMPETITIVE, HIGH-STANDARD NIH-FUNDED BIOMEDICAL RESEARCH TAKING PLACE AT UCSC. THE USER GROUP IS FUNDED BY 7 NIH INSTITUTES. THESE ARE THE NATIONAL INSTITUTE OF GENERAL MEDICAL SCIENCES (NIGMS), NATIONAL INSTITUTE OF NEUROLOGICAL DISORDERS AND STROKE (NINDS), THE NATIONAL INSTITUTE OF CHILD HEALTH (NICHD), THE NATIONAL CANCER INSTITUTE (NCI), THE NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES (NIAID), THE NATIONAL INSTITUTE OF MENTAL HEALTH (NIMH) AND THE NATIONAL HUMAN GENOME RESEARCH INSTITUTE (NHGRI). THE USERS SEEK TO BRING THE POWER OF CONFOCAL MICROSCOPY TO STUDIES WHICH INCLUDE CANCER, IMMUNITY, HOST-PATHOGEN INTERACTIONS, NEURODEVELOPMENT, STEM CELL FATE SPECIFICATION, CELL DIVISION, AND NEGLECTED DISEASES. ADDITIONAL CURRENTLY NON- NIH FUNDED PROJECTS ARE LIKELY TO RECEIVE NIH FUNDING AND ARE LIKELY TO NUCLEATE NIH-FUNDED INTER AND INTRAMURAL COLLABORATION. ANTICIPATED BIOMEDICAL RESEARCH FACULTY HIRES OVER THE NEXT DECADE WILL CERTAINLY REQUIRE CONFOCAL MICROSCOPY AND DEMAND IS ALREADY PROJECTED TO OUTPACE AVAILABILITY, ENSURING THIS MICROSCOPE WILL BE IN HIGH USE. THIS MICROSCOPE SYSTEM WILL BECOME AN INTEGRAL PART OF UCSC'S LIFE SCIENCES MICROSCOPY CENTER CORE FACILITY (RRID:SCR_021135) IN THE HEART OF OUR MOLECULAR, CELL AND DEVELOPMENTAL BIOLOGY RESEARCH BUILDING. THIS PLACEMENT WILL ALLOW CONVENIENT ACCESS FOR RESEARCHERS STUDYING BASIC BIOLOGY IN THIS BUILDING AND TO RESEARCHERS IN OUR ADJACENT CHEMISTRY AND BIOMEDICAL SCIENCES BUILDINGS. THE FACILITY IS OPEN TO ALL NIH-FUNDED INVESTIGATORS; THUS, THIS EQUIPMENT WILL ENHANCE AND SUSTAIN BIOMEDICAL RESEARCH ON THIS CAMPUS, WHILE PROVIDING ADVANCED TRAINING TO OUR GRADUATE STUDENTS AND POSTDOCTORAL RESEARCH FELLOWS, THEREBY HELPING TO CREATE THE NEXT GENERATION OF BIOMEDICAL INVESTIGATORS. SECURING THIS INSTRUMENT WILL HAVE A SIGNIFICANT IMPACT ON THE CONTRIBUTIONS TO RESEARCH AND EDUCATION MADE BY UC SANTA CRUZ FAR BEYOND THE 5-YEAR POST-AWARD PERIOD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "VXUFPE4MCZH5",
+    "Recipient Location": {
+      "address_line1": "1156 HIGH ST",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SANTA CRUZ",
+      "congressional_code": "19",
+      "country_name": "UNITED STATES",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1077",
+      "zip5": "95064"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-05-15",
+    "End Date": "2026-05-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "427ea0fd-a29e-756b-4973-911cb119bc8d-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD036314_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 170722055,
+    "generated_unique_award_id": "ASST_NON_S10OD036314_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A MODERN CONFOCAL MICROSCOPE TO MAINTAIN AND EXPAND THE CONTINUITY OF BASIC BIOLOGY RESEARCH - PROJECT SUMMARY/ABSTRACT THIS PROPOSAL REQUESTS FUNDS TO PURCHASE A LASER SCANNING CONFOCAL MICROSCOPE FOR A GROUP OF 13 INVESTIGATORS, FROM 4 DEPARTMENTS AND 2 ACADEMIC DIVISIONS AT THE UNIVERSITY OF CALIFORNIA AT SANTA CRUZ. 10 OF THESE INVESTIGATORS ARE NIH-FUNDED. THE PROPOSED LEICA STELLARIS 8 (LS8) CONFOCAL MICROSCOPE WILL REPLACE A 16-YEAR-OLD LEICA SP5 CONFOCAL MICROSCOPE, WHICH WAS PURCHASED THROUGH A CALIFORNIA INSTITUTE FOR REGENERATIVE MEDICINE GRANT MECHANISM AND INSTALLED IN 2008 AND IS AT THE END OF ITS LIFE. THE LS8 IS A FLEXIBLE AND MODULAR CONFOCAL LASER SCANNING MICROSCOPE FOR HIGH-END FLUORESCENCE IMAGING. THE LS8 WAS CONFIRMED TO BE AN OUTSTANDING CHOICE FOR OUR CORE FACILITY THROUGH MULTIPLE DEMOS AS IT IS WELL SUITED FOR THE RESEARCH OBJECTIVES OF OUR USERS. IT IS EASY TO USE, PROVIDES A COST-EFFECTIVE SOLUTION TO OUR RESEARCH CHALLENGES AND MAINTAINS AND EXPANDS THE IMAGING CAPABILITIES OF OUR LOCAL RESEARCH COMMUNITY BY INTRODUCING A WHITE LIGHT LASER FOR FLEXIBLE EXCITATION, A BROADER DETECTION SPECTRUM COMPARED TO WHAT WE HAVE NOW AND THE ABILITY TO DO FLUORESCENCE LIFETIME IMAGING (FLIM). THESE CAPABILITIES MAKE THE INSTRUMENT ESSENTIAL TO THE CONTINUING THE COMPETITIVE, HIGH-STANDARD NIH-FUNDED BIOMEDICAL RESEARCH TAKING PLACE AT UCSC. THE USER GROUP IS FUNDED BY 7 NIH INSTITUTES. THESE ARE THE NATIONAL INSTITUTE OF GENERAL MEDICAL SCIENCES (NIGMS), NATIONAL INSTITUTE OF NEUROLOGICAL DISORDERS AND STROKE (NINDS), THE NATIONAL INSTITUTE OF CHILD HEALTH (NICHD), THE NATIONAL CANCER INSTITUTE (NCI), THE NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES (NIAID), THE NATIONAL INSTITUTE OF MENTAL HEALTH (NIMH) AND THE NATIONAL HUMAN GENOME RESEARCH INSTITUTE (NHGRI). THE USERS SEEK TO BRING THE POWER OF CONFOCAL MICROSCOPY TO STUDIES WHICH INCLUDE CANCER, IMMUNITY, HOST-PATHOGEN INTERACTIONS, NEURODEVELOPMENT, STEM CELL FATE SPECIFICATION, CELL DIVISION, AND NEGLECTED DISEASES. ADDITIONAL CURRENTLY NON- NIH FUNDED PROJECTS ARE LIKELY TO RECEIVE NIH FUNDING AND ARE LIKELY TO NUCLEATE NIH-FUNDED INTER AND INTRAMURAL COLLABORATION. ANTICIPATED BIOMEDICAL RESEARCH FACULTY HIRES OVER THE NEXT DECADE WILL CERTAINLY REQUIRE CONFOCAL MICROSCOPY AND DEMAND IS ALREADY PROJECTED TO OUTPACE AVAILABILITY, ENSURING THIS MICROSCOPE WILL BE IN HIGH USE. THIS MICROSCOPE SYSTEM WILL BECOME AN INTEGRAL PART OF UCSC'S LIFE SCIENCES MICROSCOPY CENTER CORE FACILITY (RRID:SCR_021135) IN THE HEART OF OUR MOLECULAR, CELL AND DEVELOPMENTAL BIOLOGY RESEARCH BUILDING. THIS PLACEMENT WILL ALLOW CONVENIENT ACCESS FOR RESEARCHERS STUDYING BASIC BIOLOGY IN THIS BUILDING AND TO RESEARCHERS IN OUR ADJACENT CHEMISTRY AND BIOMEDICAL SCIENCES BUILDINGS. THE FACILITY IS OPEN TO ALL NIH-FUNDED INVESTIGATORS; THUS, THIS EQUIPMENT WILL ENHANCE AND SUSTAIN BIOMEDICAL RESEARCH ON THIS CAMPUS, WHILE PROVIDING ADVANCED TRAINING TO OUR GRADUATE STUDENTS AND POSTDOCTORAL RESEARCH FELLOWS, THEREBY HELPING TO CREATE THE NEXT GENERATION OF BIOMEDICAL INVESTIGATORS. SECURING THIS INSTRUMENT WILL HAVE A SIGNIFICANT IMPACT ON THE CONTRIBUTIONS TO RESEARCH AND EDUCATION MADE BY UC SANTA CRUZ FAR BEYOND THE 5-YEAR POST-AWARD PERIOD.",
+    "total_obligation": 884837,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-05-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 884837,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 884837
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2025-05-15",
+      "end_date": "2026-05-14",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "427ea0fd-a29e-756b-4973-911cb119bc8d-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+      "recipient_uei": "VXUFPE4MCZH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SANTA CRUZ",
+        "county_code": "087",
+        "county_name": "SANTA CRUZ",
+        "address_line1": "1156 HIGH ST",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "19",
+        "zip4": "1077",
+        "zip5": "95064",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

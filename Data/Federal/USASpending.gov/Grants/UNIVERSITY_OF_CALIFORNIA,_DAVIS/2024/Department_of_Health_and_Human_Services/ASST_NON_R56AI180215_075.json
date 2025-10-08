@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91361578,
+    "Award ID": "R56AI180215",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 760318,
+    "Total Outlays": 384271.55,
+    "Description": "INHIBITION OF VIRUS REPLICATION BY BROADLY-ACTING RECOMBINANT ENHANCED ANTIVIRAL RESTRICTORS (REAVRS) - PROJECT SUMMARY: ZOONOTIC VIRAL INFECTIONS ARE RESPONSIBLE FOR THE MAJORITY OF EMERGING AND RE-EMERGING INFECTIOUS DISEASES IN HUMANS. THE CURRENT STRATEGIES FOR CONTROLLING VECTOR-BORNE VIRUS TRANSMISSION ARE INSUFFICIENT AND ADDITIONAL STRATEGIES ARE URGENTLY NEEDED. OUR LONG-TERM GOAL IS TO DEFINE AND TEST RECOMBINANT ANTIVIRAL SENSOR/EFFECTOR STRATEGIES THAT BROADLY INHIBIT KNOWN AND EMERGING VIRUSES TO CONTROL OR PREVENT VECTOR- BORNE AND ZOONOTIC VIRAL DISEASES. THE OVERALL OBJECTIVE OF THIS APPLICATION IS TO DEVELOP RECOMBINANT ENHANCED ANTIVIRAL SENSORS (REAVRS), WHICH COMBINE VIRUS-SENSING DOMAINS WITH EFFECTOR DOMAINS FROM DIFFERENT ANTIVIRAL PROTEINS TO CREATE PROTEINS WITH UNIQUE AND BROADLY-ACTING ANTIVIRAL ACTIVITIES. OUR CENTRAL HYPOTHESIS IS THAT COMBINING DIVERSE VIRUS-SENSING DOMAINS WITH EFFECTOR DOMAINS FROM OTHER ANTIVIRAL PROTEINS WILL MAKE THEM MORE EFFECTIVE AND RESULT IN INCREASED RESISTANCE AGAINST DIVERSE VIRUSES. THE RATIONALE OF THIS PROPOSED PROJECT IS THAT ONCE THIS STRATEGY OF SYNTHESIZING MODULAR, BROADLY ANTIVIRAL RECOMBINANT PROTEINS IS ESTABLISHED, THEY CAN BE APPLIED TO WHOLE ORGANISMS THAT ARE IMPORTANT VECTORS FOR VIRAL DISEASES. BASED ON STRONG PRELIMINARY DATA, THE CENTRAL HYPOTHESIS WILL BE TESTED BY PURSUING THREE SPECIFIC AIMS: 1) GENERATE AND OPTIMIZE REAVRS AND EVALUATE THEIR ANTIVIRAL EFFECTS IN CULTURED CELLS; 2) IDENTIFY AND CHARACTERIZE DSRNA- AND VIRUS-INDUCED PROMOTERS IN MOSQUITO CELLS AND IN VIVO; AND 3) GENERATE REAVR-EXPRESSING MOSQUITOES AND TEST THEIR ANTIVIRAL EFFECTS AGAINST ARBOVIRUS INFECTIONS. UNDER THE FIRST AIM, WE WILL GENERATE SECOND GENERATION REAVR PROTEINS AND TEST THEIR ANTIVIRAL ACTIVITY AGAINST A BROAD PANEL OF VIRUSES IN ESTABLISHED REPORTER, RNA INTEGRITY, AND CONGENIC CELL CULTURE- BASED ASSAYS. IN THE SECOND AIM, WE WILL USE LONG-READ AND SHORT-READ RNA-SEQ STRATEGIES TO GENERATE A VALIDATED, HIGH-RESOLUTION ANALYSIS OF AE. AEGYPTI TRANSCRIPTIONAL CHANGES IN RESPONSE TO POLY(I:C) AND VIRUS CHALLENGE AND DEFINE PROMOTERS DRIVING THESE RESPONSES. UNDER THE THIRD AIM, WE WILL USE THE CRISPR/CAS9 GENE EDITING SYSTEM TO SITE-SPECIFICALLY INSERT THE SECOND GENERATION REAVRS INTO TRANSGENIC MOSQUITOES UNDER CONTROL OF VARIOUS INDUCIBLE PROMOTERS, INCLUDING DSRNA-INDUCIBLE PROMOTERS, AND DETERMINE THEIR EFFECT ON MOSQUITO SENSITIVITY TO A PANEL OF ARBOVIRUSES AND VIRUS TRANSMISSION. THE PROPOSED RESEARCH IS SIGNIFICANT BECAUSE THE PROPOSED STRATEGY OF ENHANCING THE HOST IMMUNE RESPONSE HAS GREAT POTENTIAL FOR THE BETTER CONTROL OF THE TRANSMISSION OF ZOONOTIC VIRUSES AND UNLIKE CURRENT STRATEGIES WILL INHIBIT MULTIPLE DIFFERENT VIRUS FAMILIES. THIS PROJECT IS INNOVATIVE BECAUSE IT INTRODUCES A NOVEL APPROACH TO PREVENT VIRUS TRANSMISSION BY COMBINING DIFFERENT ANTIVIRAL SENSING AND EFFECTOR DOMAINS, WHICH IS PREDICTED TO YIELD PROTEINS WITH ANTIVIRAL ACTIVITIES AGAINST MANY TYPES OF VIRUSES. MOREOVER, THE IDENTIFICATION OF DSRNA-INDUCED PROMOTERS WILL EXPAND OUR FOUNDATIONAL UNDERSTANDING OF ARTHROPOD IMMUNOLOGY, AND INCREASE THE REPERTOIRE OF AVAILABLE MOSQUITO PROMOTERS THAT COULD BE EMPLOYED IN THE GENERATION OF TRANSGENIC MOSQUITOES. TAKEN TOGETHER, THIS PROJECT IS INTRODUCING AN INNOVATIVE STRATEGY FOR BETTER CONTROL OF ZOONOTIC VIRUSES THAT IS EXPECTED TO HAVE A POSITIVE IMPACT ON THE FIELD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-08-01",
+    "End Date": "2026-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R56AI180215_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91361578,
+    "generated_unique_award_id": "ASST_NON_R56AI180215_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INHIBITION OF VIRUS REPLICATION BY BROADLY-ACTING RECOMBINANT ENHANCED ANTIVIRAL RESTRICTORS (REAVRS) - PROJECT SUMMARY: ZOONOTIC VIRAL INFECTIONS ARE RESPONSIBLE FOR THE MAJORITY OF EMERGING AND RE-EMERGING INFECTIOUS DISEASES IN HUMANS. THE CURRENT STRATEGIES FOR CONTROLLING VECTOR-BORNE VIRUS TRANSMISSION ARE INSUFFICIENT AND ADDITIONAL STRATEGIES ARE URGENTLY NEEDED. OUR LONG-TERM GOAL IS TO DEFINE AND TEST RECOMBINANT ANTIVIRAL SENSOR/EFFECTOR STRATEGIES THAT BROADLY INHIBIT KNOWN AND EMERGING VIRUSES TO CONTROL OR PREVENT VECTOR- BORNE AND ZOONOTIC VIRAL DISEASES. THE OVERALL OBJECTIVE OF THIS APPLICATION IS TO DEVELOP RECOMBINANT ENHANCED ANTIVIRAL SENSORS (REAVRS), WHICH COMBINE VIRUS-SENSING DOMAINS WITH EFFECTOR DOMAINS FROM DIFFERENT ANTIVIRAL PROTEINS TO CREATE PROTEINS WITH UNIQUE AND BROADLY-ACTING ANTIVIRAL ACTIVITIES. OUR CENTRAL HYPOTHESIS IS THAT COMBINING DIVERSE VIRUS-SENSING DOMAINS WITH EFFECTOR DOMAINS FROM OTHER ANTIVIRAL PROTEINS WILL MAKE THEM MORE EFFECTIVE AND RESULT IN INCREASED RESISTANCE AGAINST DIVERSE VIRUSES. THE RATIONALE OF THIS PROPOSED PROJECT IS THAT ONCE THIS STRATEGY OF SYNTHESIZING MODULAR, BROADLY ANTIVIRAL RECOMBINANT PROTEINS IS ESTABLISHED, THEY CAN BE APPLIED TO WHOLE ORGANISMS THAT ARE IMPORTANT VECTORS FOR VIRAL DISEASES. BASED ON STRONG PRELIMINARY DATA, THE CENTRAL HYPOTHESIS WILL BE TESTED BY PURSUING THREE SPECIFIC AIMS: 1) GENERATE AND OPTIMIZE REAVRS AND EVALUATE THEIR ANTIVIRAL EFFECTS IN CULTURED CELLS; 2) IDENTIFY AND CHARACTERIZE DSRNA- AND VIRUS-INDUCED PROMOTERS IN MOSQUITO CELLS AND IN VIVO; AND 3) GENERATE REAVR-EXPRESSING MOSQUITOES AND TEST THEIR ANTIVIRAL EFFECTS AGAINST ARBOVIRUS INFECTIONS. UNDER THE FIRST AIM, WE WILL GENERATE SECOND GENERATION REAVR PROTEINS AND TEST THEIR ANTIVIRAL ACTIVITY AGAINST A BROAD PANEL OF VIRUSES IN ESTABLISHED REPORTER, RNA INTEGRITY, AND CONGENIC CELL CULTURE- BASED ASSAYS. IN THE SECOND AIM, WE WILL USE LONG-READ AND SHORT-READ RNA-SEQ STRATEGIES TO GENERATE A VALIDATED, HIGH-RESOLUTION ANALYSIS OF AE. AEGYPTI TRANSCRIPTIONAL CHANGES IN RESPONSE TO POLY(I:C) AND VIRUS CHALLENGE AND DEFINE PROMOTERS DRIVING THESE RESPONSES. UNDER THE THIRD AIM, WE WILL USE THE CRISPR/CAS9 GENE EDITING SYSTEM TO SITE-SPECIFICALLY INSERT THE SECOND GENERATION REAVRS INTO TRANSGENIC MOSQUITOES UNDER CONTROL OF VARIOUS INDUCIBLE PROMOTERS, INCLUDING DSRNA-INDUCIBLE PROMOTERS, AND DETERMINE THEIR EFFECT ON MOSQUITO SENSITIVITY TO A PANEL OF ARBOVIRUSES AND VIRUS TRANSMISSION. THE PROPOSED RESEARCH IS SIGNIFICANT BECAUSE THE PROPOSED STRATEGY OF ENHANCING THE HOST IMMUNE RESPONSE HAS GREAT POTENTIAL FOR THE BETTER CONTROL OF THE TRANSMISSION OF ZOONOTIC VIRUSES AND UNLIKE CURRENT STRATEGIES WILL INHIBIT MULTIPLE DIFFERENT VIRUS FAMILIES. THIS PROJECT IS INNOVATIVE BECAUSE IT INTRODUCES A NOVEL APPROACH TO PREVENT VIRUS TRANSMISSION BY COMBINING DIFFERENT ANTIVIRAL SENSING AND EFFECTOR DOMAINS, WHICH IS PREDICTED TO YIELD PROTEINS WITH ANTIVIRAL ACTIVITIES AGAINST MANY TYPES OF VIRUSES. MOREOVER, THE IDENTIFICATION OF DSRNA-INDUCED PROMOTERS WILL EXPAND OUR FOUNDATIONAL UNDERSTANDING OF ARTHROPOD IMMUNOLOGY, AND INCREASE THE REPERTOIRE OF AVAILABLE MOSQUITO PROMOTERS THAT COULD BE EMPLOYED IN THE GENERATION OF TRANSGENIC MOSQUITOES. TAKEN TOGETHER, THIS PROJECT IS INTRODUCING AN INNOVATIVE STRATEGY FOR BETTER CONTROL OF ZOONOTIC VIRUSES THAT IS EXPECTED TO HAVE A POSITIVE IMPACT ON THE FIELD.",
+    "total_obligation": 760318,
+    "subaward_count": 1,
+    "total_subaward_amount": 259321,
+    "date_signed": "2024-08-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 384271.55,
+    "total_account_obligation": 760318,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 384271.55
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 760318
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2024-08-01",
+      "end_date": "2026-07-31",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 384271.55
+  }
+}

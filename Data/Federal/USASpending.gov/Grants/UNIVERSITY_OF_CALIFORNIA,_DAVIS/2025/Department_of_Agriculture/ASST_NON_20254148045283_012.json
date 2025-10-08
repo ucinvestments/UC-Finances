@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 175663956,
+    "Award ID": "20254148045283",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 758000,
+    "Total Outlays": null,
+    "Description": "THIS PROJECT IS TO CONTINUE IMPLEMENTATION OF THE FOOD ANIMAL RESIDUE AVOIDANCE DATABANK (FARAD), A COLLABORATIVE PROGRAMFUNDED SINCE 1982 BY USDA. FARAD HAS FIVE REGIONAL CENTERS; NORTH CAROLINA STATE UNIVERSITY, KANSAS STATE UNIVERSITYOLATHE, UNIVERSITY OF FLORIDA, VIRGINIA TECH UNIVERSITY AND UNIVERSITY OF CALIFORNIA, DAVIS. THE GOAL IS TO PRODUCE SAFE FOOD FORHUMAN CONSUMPTION BY PREVENTING VIOLATIVE CHEMICAL RESIDUES IN FOOD ANIMAL PRODUCTS. VETERINARIANS, REGULATORY AGENCIES,EXTENSION SPECIALISTS, AND STATE VETERINARIANS USE FARAD, BUT THE ULTIMATE CLIENT IS THE PUBLIC WHO SHOULD BE ABLE TO CONSUMEFOOD PRODUCTS THAT ARE FREE OF DRUG, CHEMICAL, AND PESTICIDE RESIDUES. FARAD ORIGINATED WITH THE RESIDUE AVOIDANCE PROGRAM(RAP) IN 1982 AS A REPOSITORY OF RESIDUE AVOIDANCE INFORMATION. OVER TIME, FARAD HAS EVOLVED INTO AN EXPERT-MEDIATED RESIDUEAVOIDANCE DECISION SUPPORT SYSTEM THAT PROVIDES TIMELY ADVICE ON A WIDE RANGE OF DRUG AND CHEMICAL ENTITIES. THIS ABILITY TOPROVIDE VETERINARIANS WITH ADVICE REGARDING EXTRA-LABEL DRUG USE HAS PROVEN VITAL TO THE EXECUTION OF THE ANIMAL MEDICINAL DRUGUSE CLARIFICATION ACT OF 1994 (AMDUCA) REGULATIONS THAT LEGALIZED THE EXTRA-LABEL USE OF DRUG IN FOOD ANIMALS BY VETERINARIANS.AMDUCA REGULATIONS REQUIRE THAT EXTRA-LABEL USE OF DRUGS IN FOOD ANIMALS BE BASED ON SOUND SCIENTIFIC PRINCIPLES OF RESIDUEAVOIDANCE. MORE RECENTLY, FARAD HAS PROVIDED EXPERT ADVICE REGARDING VETERINARY FEED DIRECTIVES (VFD) AND CALIFORNIA SENATEBILL 27, ADDRESSING JUDICIOUS USE OF MEDICALLY IMPORTANT ANTIBIOTICS FOR HUMANS. OVERALL, FARAD CONTINUES TO SERVE A WIDE GROUPOF CONSTITUENTS AND HELPS TO ENSURE RESIDUE FREE FOOD PRODUCTS FOLLOWING EXTRA-LABEL DRUG USE BY FILLING GAPS THAT OTHER REGULATORYAGENCIES (FOOD AND DRUG ADMINISTRATION AND ENVIRONMENTAL PESTICIDE AGENCY) CAN\u0026#39;T ADDRESS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2025-09-15",
+    "End Date": "2028-09-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20254148045283_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 175663956,
+    "generated_unique_award_id": "ASST_NON_20254148045283_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THIS PROJECT IS TO CONTINUE IMPLEMENTATION OF THE FOOD ANIMAL RESIDUE AVOIDANCE DATABANK (FARAD), A COLLABORATIVE PROGRAMFUNDED SINCE 1982 BY USDA. FARAD HAS FIVE REGIONAL CENTERS; NORTH CAROLINA STATE UNIVERSITY, KANSAS STATE UNIVERSITYOLATHE, UNIVERSITY OF FLORIDA, VIRGINIA TECH UNIVERSITY AND UNIVERSITY OF CALIFORNIA, DAVIS. THE GOAL IS TO PRODUCE SAFE FOOD FORHUMAN CONSUMPTION BY PREVENTING VIOLATIVE CHEMICAL RESIDUES IN FOOD ANIMAL PRODUCTS. VETERINARIANS, REGULATORY AGENCIES,EXTENSION SPECIALISTS, AND STATE VETERINARIANS USE FARAD, BUT THE ULTIMATE CLIENT IS THE PUBLIC WHO SHOULD BE ABLE TO CONSUMEFOOD PRODUCTS THAT ARE FREE OF DRUG, CHEMICAL, AND PESTICIDE RESIDUES. FARAD ORIGINATED WITH THE RESIDUE AVOIDANCE PROGRAM(RAP) IN 1982 AS A REPOSITORY OF RESIDUE AVOIDANCE INFORMATION. OVER TIME, FARAD HAS EVOLVED INTO AN EXPERT-MEDIATED RESIDUEAVOIDANCE DECISION SUPPORT SYSTEM THAT PROVIDES TIMELY ADVICE ON A WIDE RANGE OF DRUG AND CHEMICAL ENTITIES. THIS ABILITY TOPROVIDE VETERINARIANS WITH ADVICE REGARDING EXTRA-LABEL DRUG USE HAS PROVEN VITAL TO THE EXECUTION OF THE ANIMAL MEDICINAL DRUGUSE CLARIFICATION ACT OF 1994 (AMDUCA) REGULATIONS THAT LEGALIZED THE EXTRA-LABEL USE OF DRUG IN FOOD ANIMALS BY VETERINARIANS.AMDUCA REGULATIONS REQUIRE THAT EXTRA-LABEL USE OF DRUGS IN FOOD ANIMALS BE BASED ON SOUND SCIENTIFIC PRINCIPLES OF RESIDUEAVOIDANCE. MORE RECENTLY, FARAD HAS PROVIDED EXPERT ADVICE REGARDING VETERINARY FEED DIRECTIVES (VFD) AND CALIFORNIA SENATEBILL 27, ADDRESSING JUDICIOUS USE OF MEDICALLY IMPORTANT ANTIBIOTICS FOR HUMANS. OVERALL, FARAD CONTINUES TO SERVE A WIDE GROUPOF CONSTITUENTS AND HELPS TO ENSURE RESIDUE FREE FOOD PRODUCTS FOLLOWING EXTRA-LABEL DRUG USE BY FILLING GAPS THAT OTHER REGULATORYAGENCIES (FOOD AND DRUG ADMINISTRATION AND ENVIRONMENTAL PESTICIDE AGENCY) CAN\u0026#39;T ADDRESS.",
+    "total_obligation": 758000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-09-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2025-09-15",
+      "end_date": "2028-09-14",
+      "last_modified_date": "2025-09-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

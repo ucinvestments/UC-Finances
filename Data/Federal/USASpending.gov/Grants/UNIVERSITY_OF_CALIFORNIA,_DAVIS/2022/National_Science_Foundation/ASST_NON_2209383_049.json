@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56815493,
+    "Award ID": "2209383",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1463466,
+    "Total Outlays": 729085.04,
+    "Description": "NSF-BSF: CONTROL OF MOLECULAR, CELLULAR, AND ORGANISMAL PHENOTYPES BY THE TRANSCRIPTION FACTOR NFAT5 -THIS PROJECT INVESTIGATES HOW FISH COPE WITH THE STRESS IMPOSED BY SALT IN THE WATER IN WHICH THEY LIVE. KEY TO UNDERSTANDING THIS IMPORTANT PROCESS -- WHICH IMPACTS SURVIVAL, GROWTH, AND REPRODUCTION -- IS TO EXAMINE HOW THE FISH SENSE ENVIRONMENTAL SALINITY AND HOW THEY GENERATE, IN RESPONSE, INTERNAL SIGNALS THAT ORCHESTRATE THE REGULATION OF MOLECULAR NETWORKS THAT COUNTERACT THE STRESS. THE PROJECT EXAMINES THE MOLECULES INVOLVED, AND THEIR INTERACTIONS, USING NOVEL MOLECULAR, GENETIC, AND BIOCHEMICAL TOOLS IN COMBINATION WITH CUSTOM-BUILT COMPUTATIONAL MODELS. BY STUDYING RESPONSES TO SALT STRESS, SPECIFICALLY, THIS PROJECT HAS THE POTENTIAL TO HELP UNDERSTAND, IN GENERAL, RESPONSES TO ENVIRONMENTAL STRESS AT DIFFERENT LEVELS OF BIOLOGICAL ORGANIZATION. BY EXAMINING THESE PROCESSES IN TILAPIA, THE SECOND-MOST IMPORTANT AQUACULTURE SPECIES GLOBALLY, THIS WORK WILL POSITIVELY IMPACT AN ESSENTIAL FOOD SUPPLY SYSTEM. IN ADDITION, TILAPIA CAN SERVE AS A MODEL SYSTEM FOR STRESS BIOLOGY IN AQUATIC VERTEBRATE SPECIES. THIS PROJECT GENERATES TOOLS AND KNOWLEDGE SHARED WITH THE BROADER SCIENTIFIC COMMUNITY VIA PERTINENT PUBLIC REPOSITORIES AND COMMUNICATION PLATFORMS. IT INCLUDES ELABORATE CROSS-DISCIPLINARY TRAINING OF RESEARCHERS AT ALL CAREER STAGES, WITH EMPHASIS ON UNDERREPRESENTED MINORITIES, IN CUTTING-EDGE EXPERIMENTAL AND NETWORK MODELING APPROACHES. THIS PROJECT IDENTIFIES REGULATORY NETWORKS THAT ARE CAUSALLY LINKED TO MOLECULAR, CELLULAR, AND ORGANISMAL PHENOTYPES CRITICAL FOR SALINITY TOLERANCE IN TILAPIA, OREOCHROMIS MOSSAMBICUS. THE RESEARCH HYPOTHESIS IS THAT NFAT5, A TRANSCRIPTION FACTOR, IS A CENTRAL ORCHESTRATOR FOR CONTROLLING THESE NETWORKS. PUTATIVE CAUSAL LINKS BETWEEN NFAT5 AND ADAPTIVE PHENOTYPES (TOLERANCE, GROWTH, FECUNDITY) DURING SALINITY STRESS (HYPEROSMOLALITY) WILL BE TESTED. THE PROJECT IS BASED ON PRIOR RESEARCH ELUCIDATING MOLECULAR MECHANISMS AND GENERATING TOOLS FOR STUDYING MECHANISTIC CAUSES OF ADAPTIVE PHENOTYPES IN FISH. NFAT5 FUNCTIONS WILL BE DETERMINED ON A SYSTEMS-SCALE, HOLISTIC LEVEL BY INVESTIGATING MOLECULAR NETWORKS AND CELLULAR AND ORGANISMAL PHENOTYPES THAT DEPEND ON NFAT5. THE EMPHASIS IS ON LINKING THE HYPEROSMOTIC, NFAT5-DEPENDENT REGULATION OF TRANSCRIPTOME AND PROTEOME NETWORKS WITH GROWTH, SURVIVAL, PROLIFERATION, AND REPRODUCTION. RULES UNDERLYING THE EXTENT OF COUPLING OF TRANSCRIPTOME VERSUS PROTEOME REGULATION WILL BE DETERMINED AND THEIR UNIVERSALITY TESTED IN DIFFERENT CELL-/TISSUE TYPES AND GENOMIC BACKGROUNDS. CELL LINES WILL BE UTILIZED FOR HIGH-THROUGHPUT GENE TARGETING AND CELLULAR PHENOTYPING TO IDENTIFY THE BEST TARGETS FOR GENERATING NFAT5+ AND NFAT5- TRANSGENIC FISH FOR ORGANISMAL PHENOTYPING. BROADER IMPACTS INCLUDE THE FACILITATION OF PREDICTION AND MITIGATION OF CONSEQUENCES OF SALINITY STRESS ON ORGANISMS OF HIGH COMMERCIAL VALUE. GENERAL ADAPTIVE STRATEGIES USED TO COPE WITH STRESS WILL BE REVEALED AND SHARED BROADLY. TOOLS (ENGINEERED CELL LINES, PLASMIDS, PROTEOMICS LIBRARIES) AND IDEAS GENERATED WILL BE SHARED VIA COMMUNICATION PLATFORMS SUCH AS GITHUB AND AT CONFERENCES. CROSS-DISCIPLINARY TRAINING AND OUTREACH WILL BE PROVIDED TO GRADUATE STUDENTS, REU STUDENTS, A POSTDOC, SACRAMENTO AREA COMMUNITY COLLEGE STUDENTS, K-12 STUDENTS AND TEACHERS, AND THE PUBLIC. THIS US/ISRAEL PROJECT IS SUPPORTED BY THE US NATIONAL SCIENCE FOUNDATION AND THE ISRAELI BINATIONAL SCIENCE FOUNDATION. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6134",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2209383_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56815493,
+    "generated_unique_award_id": "ASST_NON_2209383_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NSF-BSF: CONTROL OF MOLECULAR, CELLULAR, AND ORGANISMAL PHENOTYPES BY THE TRANSCRIPTION FACTOR NFAT5 -THIS PROJECT INVESTIGATES HOW FISH COPE WITH THE STRESS IMPOSED BY SALT IN THE WATER IN WHICH THEY LIVE. KEY TO UNDERSTANDING THIS IMPORTANT PROCESS -- WHICH IMPACTS SURVIVAL, GROWTH, AND REPRODUCTION -- IS TO EXAMINE HOW THE FISH SENSE ENVIRONMENTAL SALINITY AND HOW THEY GENERATE, IN RESPONSE, INTERNAL SIGNALS THAT ORCHESTRATE THE REGULATION OF MOLECULAR NETWORKS THAT COUNTERACT THE STRESS. THE PROJECT EXAMINES THE MOLECULES INVOLVED, AND THEIR INTERACTIONS, USING NOVEL MOLECULAR, GENETIC, AND BIOCHEMICAL TOOLS IN COMBINATION WITH CUSTOM-BUILT COMPUTATIONAL MODELS. BY STUDYING RESPONSES TO SALT STRESS, SPECIFICALLY, THIS PROJECT HAS THE POTENTIAL TO HELP UNDERSTAND, IN GENERAL, RESPONSES TO ENVIRONMENTAL STRESS AT DIFFERENT LEVELS OF BIOLOGICAL ORGANIZATION. BY EXAMINING THESE PROCESSES IN TILAPIA, THE SECOND-MOST IMPORTANT AQUACULTURE SPECIES GLOBALLY, THIS WORK WILL POSITIVELY IMPACT AN ESSENTIAL FOOD SUPPLY SYSTEM. IN ADDITION, TILAPIA CAN SERVE AS A MODEL SYSTEM FOR STRESS BIOLOGY IN AQUATIC VERTEBRATE SPECIES. THIS PROJECT GENERATES TOOLS AND KNOWLEDGE SHARED WITH THE BROADER SCIENTIFIC COMMUNITY VIA PERTINENT PUBLIC REPOSITORIES AND COMMUNICATION PLATFORMS. IT INCLUDES ELABORATE CROSS-DISCIPLINARY TRAINING OF RESEARCHERS AT ALL CAREER STAGES, WITH EMPHASIS ON UNDERREPRESENTED MINORITIES, IN CUTTING-EDGE EXPERIMENTAL AND NETWORK MODELING APPROACHES. THIS PROJECT IDENTIFIES REGULATORY NETWORKS THAT ARE CAUSALLY LINKED TO MOLECULAR, CELLULAR, AND ORGANISMAL PHENOTYPES CRITICAL FOR SALINITY TOLERANCE IN TILAPIA, OREOCHROMIS MOSSAMBICUS. THE RESEARCH HYPOTHESIS IS THAT NFAT5, A TRANSCRIPTION FACTOR, IS A CENTRAL ORCHESTRATOR FOR CONTROLLING THESE NETWORKS. PUTATIVE CAUSAL LINKS BETWEEN NFAT5 AND ADAPTIVE PHENOTYPES (TOLERANCE, GROWTH, FECUNDITY) DURING SALINITY STRESS (HYPEROSMOLALITY) WILL BE TESTED. THE PROJECT IS BASED ON PRIOR RESEARCH ELUCIDATING MOLECULAR MECHANISMS AND GENERATING TOOLS FOR STUDYING MECHANISTIC CAUSES OF ADAPTIVE PHENOTYPES IN FISH. NFAT5 FUNCTIONS WILL BE DETERMINED ON A SYSTEMS-SCALE, HOLISTIC LEVEL BY INVESTIGATING MOLECULAR NETWORKS AND CELLULAR AND ORGANISMAL PHENOTYPES THAT DEPEND ON NFAT5. THE EMPHASIS IS ON LINKING THE HYPEROSMOTIC, NFAT5-DEPENDENT REGULATION OF TRANSCRIPTOME AND PROTEOME NETWORKS WITH GROWTH, SURVIVAL, PROLIFERATION, AND REPRODUCTION. RULES UNDERLYING THE EXTENT OF COUPLING OF TRANSCRIPTOME VERSUS PROTEOME REGULATION WILL BE DETERMINED AND THEIR UNIVERSALITY TESTED IN DIFFERENT CELL-/TISSUE TYPES AND GENOMIC BACKGROUNDS. CELL LINES WILL BE UTILIZED FOR HIGH-THROUGHPUT GENE TARGETING AND CELLULAR PHENOTYPING TO IDENTIFY THE BEST TARGETS FOR GENERATING NFAT5+ AND NFAT5- TRANSGENIC FISH FOR ORGANISMAL PHENOTYPING. BROADER IMPACTS INCLUDE THE FACILITATION OF PREDICTION AND MITIGATION OF CONSEQUENCES OF SALINITY STRESS ON ORGANISMS OF HIGH COMMERCIAL VALUE. GENERAL ADAPTIVE STRATEGIES USED TO COPE WITH STRESS WILL BE REVEALED AND SHARED BROADLY. TOOLS (ENGINEERED CELL LINES, PLASMIDS, PROTEOMICS LIBRARIES) AND IDEAS GENERATED WILL BE SHARED VIA COMMUNICATION PLATFORMS SUCH AS GITHUB AND AT CONFERENCES. CROSS-DISCIPLINARY TRAINING AND OUTREACH WILL BE PROVIDED TO GRADUATE STUDENTS, REU STUDENTS, A POSTDOC, SACRAMENTO AREA COMMUNITY COLLEGE STUDENTS, K-12 STUDENTS AND TEACHERS, AND THE PUBLIC. THIS US/ISRAEL PROJECT IS SUPPORTED BY THE US NATIONAL SCIENCE FOUNDATION AND THE ISRAELI BINATIONAL SCIENCE FOUNDATION. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 1463466,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-07-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 735177.47,
+    "total_account_obligation": 1463466,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 735177.47
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1463466
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2023-08-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6134",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 735177.47
+  }
+}

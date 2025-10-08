@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57671561,
+    "Award ID": "2443424",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 806156,
+    "Total Outlays": 13995.32,
+    "Description": "CAREER: UNCOVERING THE MECHANISMS AND REPEATABILITY OF SPECIATION WITH GENE FLOW -THIS PROJECT EXPLORES AN IMPORTANT QUESTION IN EVOLUTIONARY BIOLOGY: HOW DO NEW SPECIES FORM? IT LOOKS AT WHETHER THE LOCATION OF GENES IN A GENOME MAKES THEM MORE LIKELY TO HELP KEEP SPECIES SEPARATE. THIS IS IMPORTANT BECAUSE BIOLOGISTS CAN BETTER PREDICT HOW BIODIVERSITY IS GENERATED AND PRESERVED IF THE SAME PARTS OF THE GENOME ARE USED IN DIFFERENT SPECIATION EVENTS. AT THE SAME TIME, THIS PROJECT COMBINES RESEARCH, EDUCATION, AND OUTREACH TO SUPPORT BIOLOGY EDUCATION IN THE U.S., BUILD STUDENT CONFIDENCE IN SCIENCE, AND CONTRIBUTE TO THE DEVELOPMENT OF A SKILLED STEM WORKFORCE. IT WILL TRAIN GRADUATE AND UNDERGRADUATE STUDENTS IN RESEARCH AND MENTORSHIP, AND THE ENTIRE RESEARCH TEAM WILL VISIT MIDDLE SCHOOL CLASSROOMS TO IMPROVE PUBLIC UNDERSTANDING OF SCIENCE AND THE NATURAL WORLD. FINALLY, THIS PROJECT WILL FIND USEFUL TRAITS IN WILD SUNFLOWERS, WHICH COULD HELP MAKE SUNFLOWER FARMING MORE SUSTAINABLE AND IMPROVE GLOBAL FOOD SECURITY. BY PURSUING THESE OBJECTIVES, THIS PROJECT WILL ALSO CREATE A UNIQUE OPPORTUNITY TO INTEGRATE MULTIPLE LEVELS OF MENTEES INTO THE RESEARCH PROCESS. TO ACHIEVE THIS, THE PROJECT WILL INCLUDE THE DEVELOPMENT OF A HANDS-ON, INQUIRY-BASED MODULE FOR FIRST-YEAR UNDERGRADUATE STUDENTS TO EXPLORE ASSORTATIVE MATING IN SUNFLOWERS THROUGH GENOTYPING OFFSPRING THAT WILL BE INCORPORATED INTO AN EXISTING COURSE-BASED RESEARCH EXPERIENCE (CURE). IN ADDITION, THE RESEARCH TEAM WILL INITIATE A MULTIFACETED OPERATION THAT LINKS EXISTING RESEARCH, PROFESSIONAL DEVELOPMENT, AND OUTREACH EXPERIENCES FOR SMALL COHORTS OF UNDERGRADUATE STUDENTS. BRIEFLY, THIS INITIATIVE WILL INCLUDE RECRUITING STUDENTS FROM THE CURE CLASS, TRANSITIONING THEM INTO A SUMMER RESEARCH PROGRAM, PAIRING THE STUDENTS WITH GRADUATE STUDENT MENTEES TO CONTINUE THEIR RESEARCH, INCLUDING THE STUDENT-MENTEE PAIRS MIDDLE SCHOOL OUTREACH, AND FINALLY FACILITATING PROFESSIONAL DEVELOPMENT OPPORTUNITIES. THIS PROJECT EXPLORES THE INTERACTION OF PARALLEL EVOLUTION, STRUCTURAL VARIANTS (SVS), AND THE EVOLUTION OF REPRODUCTIVE BARRIERS USING DUNE SUNFLOWERS AS A MODEL SYSTEM TO EXAMINE SPECIATION. PREVIOUS WORK HAS SHOWN THAT SVS FACILITATE PARALLEL ADAPTATION TO SAND DUNES IN SUNFLOWERS AND THAT DUNE ADAPTATION RESULTS IN REPRODUCTIVE BARRIERS, SUGGESTING THAT SVS FACILITATE PARALLEL SPECIATION. TO TEST THIS HYPOTHESIS, THREE PRIMARY RESEARCH QUESTIONS WILL BE ADDRESSED: (1) HOW AND WHY DOES ASSORTATIVE MATING EVOLVE BETWEEN SUNFLOWER ECOTYPES? (2) DOES PARALLEL EVOLUTION LEAD TO PARALLEL SPECIATION? (3) HOW BROADLY CAN SVS FACILITATE PARALLEL EVOLUTION? THESE QUESTIONS WILL BE ANSWERED BY PHENOTYPING 200 INDIVIDUALS FROM 26 SUNFLOWER POPULATIONS AND SPECIES THAT SPAN A RANGE OF ENVIRONMENTS FROM THE DUNE CORE, TO THE DUNE EDGE, TO NON-DUNE POPULATIONS. IT WILL CONNECT GENOTYPE TO PHENOTYPE TO FITNESS USING GWAS, AND MEASURE COMPONENTS OF REPRODUCTIVE ISOLATION USING CROSSES FROM POPULATIONS WITH AND AMONG THE SAME AND DIFFERENT HABITAT TYPES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-03-15",
+    "End Date": "2030-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2443424_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57671561,
+    "generated_unique_award_id": "ASST_NON_2443424_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAREER: UNCOVERING THE MECHANISMS AND REPEATABILITY OF SPECIATION WITH GENE FLOW -THIS PROJECT EXPLORES AN IMPORTANT QUESTION IN EVOLUTIONARY BIOLOGY: HOW DO NEW SPECIES FORM? IT LOOKS AT WHETHER THE LOCATION OF GENES IN A GENOME MAKES THEM MORE LIKELY TO HELP KEEP SPECIES SEPARATE. THIS IS IMPORTANT BECAUSE BIOLOGISTS CAN BETTER PREDICT HOW BIODIVERSITY IS GENERATED AND PRESERVED IF THE SAME PARTS OF THE GENOME ARE USED IN DIFFERENT SPECIATION EVENTS. AT THE SAME TIME, THIS PROJECT COMBINES RESEARCH, EDUCATION, AND OUTREACH TO SUPPORT BIOLOGY EDUCATION IN THE U.S., BUILD STUDENT CONFIDENCE IN SCIENCE, AND CONTRIBUTE TO THE DEVELOPMENT OF A SKILLED STEM WORKFORCE. IT WILL TRAIN GRADUATE AND UNDERGRADUATE STUDENTS IN RESEARCH AND MENTORSHIP, AND THE ENTIRE RESEARCH TEAM WILL VISIT MIDDLE SCHOOL CLASSROOMS TO IMPROVE PUBLIC UNDERSTANDING OF SCIENCE AND THE NATURAL WORLD. FINALLY, THIS PROJECT WILL FIND USEFUL TRAITS IN WILD SUNFLOWERS, WHICH COULD HELP MAKE SUNFLOWER FARMING MORE SUSTAINABLE AND IMPROVE GLOBAL FOOD SECURITY. BY PURSUING THESE OBJECTIVES, THIS PROJECT WILL ALSO CREATE A UNIQUE OPPORTUNITY TO INTEGRATE MULTIPLE LEVELS OF MENTEES INTO THE RESEARCH PROCESS. TO ACHIEVE THIS, THE PROJECT WILL INCLUDE THE DEVELOPMENT OF A HANDS-ON, INQUIRY-BASED MODULE FOR FIRST-YEAR UNDERGRADUATE STUDENTS TO EXPLORE ASSORTATIVE MATING IN SUNFLOWERS THROUGH GENOTYPING OFFSPRING THAT WILL BE INCORPORATED INTO AN EXISTING COURSE-BASED RESEARCH EXPERIENCE (CURE). IN ADDITION, THE RESEARCH TEAM WILL INITIATE A MULTIFACETED OPERATION THAT LINKS EXISTING RESEARCH, PROFESSIONAL DEVELOPMENT, AND OUTREACH EXPERIENCES FOR SMALL COHORTS OF UNDERGRADUATE STUDENTS. BRIEFLY, THIS INITIATIVE WILL INCLUDE RECRUITING STUDENTS FROM THE CURE CLASS, TRANSITIONING THEM INTO A SUMMER RESEARCH PROGRAM, PAIRING THE STUDENTS WITH GRADUATE STUDENT MENTEES TO CONTINUE THEIR RESEARCH, INCLUDING THE STUDENT-MENTEE PAIRS MIDDLE SCHOOL OUTREACH, AND FINALLY FACILITATING PROFESSIONAL DEVELOPMENT OPPORTUNITIES. THIS PROJECT EXPLORES THE INTERACTION OF PARALLEL EVOLUTION, STRUCTURAL VARIANTS (SVS), AND THE EVOLUTION OF REPRODUCTIVE BARRIERS USING DUNE SUNFLOWERS AS A MODEL SYSTEM TO EXAMINE SPECIATION. PREVIOUS WORK HAS SHOWN THAT SVS FACILITATE PARALLEL ADAPTATION TO SAND DUNES IN SUNFLOWERS AND THAT DUNE ADAPTATION RESULTS IN REPRODUCTIVE BARRIERS, SUGGESTING THAT SVS FACILITATE PARALLEL SPECIATION. TO TEST THIS HYPOTHESIS, THREE PRIMARY RESEARCH QUESTIONS WILL BE ADDRESSED: (1) HOW AND WHY DOES ASSORTATIVE MATING EVOLVE BETWEEN SUNFLOWER ECOTYPES? (2) DOES PARALLEL EVOLUTION LEAD TO PARALLEL SPECIATION? (3) HOW BROADLY CAN SVS FACILITATE PARALLEL EVOLUTION? THESE QUESTIONS WILL BE ANSWERED BY PHENOTYPING 200 INDIVIDUALS FROM 26 SUNFLOWER POPULATIONS AND SPECIES THAT SPAN A RANGE OF ENVIRONMENTS FROM THE DUNE CORE, TO THE DUNE EDGE, TO NON-DUNE POPULATIONS. IT WILL CONNECT GENOTYPE TO PHENOTYPE TO FITNESS USING GWAS, AND MEASURE COMPONENTS OF REPRODUCTIVE ISOLATION USING CROSSES FROM POPULATIONS WITH AND AMONG THE SAME AND DIFFERENT HABITAT TYPES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 806156,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-03-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 13995.32,
+    "total_account_obligation": 806156,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 13995.32
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 806156
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ENVIRONMENTAL BIOLOGY"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ENVIRONMENTAL BIOLOGY"
+    },
+    "period_of_performance": {
+      "start_date": "2025-03-15",
+      "end_date": "2030-02-28",
+      "last_modified_date": "2025-03-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 13995.32
+  }
+}

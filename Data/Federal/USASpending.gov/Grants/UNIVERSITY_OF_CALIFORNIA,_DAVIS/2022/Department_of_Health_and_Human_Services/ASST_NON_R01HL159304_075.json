@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91217758,
+    "Award ID": "R01HL159304",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2416044,
+    "Total Outlays": 1770029.98,
+    "Description": "LIPID REGULATION OF CARDIAC EXCITATION-CONTRACTION COUPLING - PROJECT SUMMARY  EXPERIMENTS OUTLINED IN THIS APPLICATION, SUGGEST A NOVEL PARADIGM, THAT ACUTE ANGIOTENSIN II (ANGII)-STIMULATED PIP2 HYDROLYSIS TRIGGERS CARDIAC CAV1.2 CHANNEL INTERNALIZATION, PROVIDING A MEANS TO RAPIDLY TUNE CELLULAR EXCITABILITY AND MODULATE EC-COUPLING IN HEALTH. IN CONTRAST, WE PROPOSE THAT SUSTAINED DEFICITS IN PLASMA MEMBRANE CAV1.2 EXPRESSION, AND PIP2 DEPLETION DURING CHRONIC ANGII CAN TRIGGER A MALADAPTIVE COMPENSATORY SYMPATHETIC RESPONSE THAT IMPROVES CARDIAC FUNCTION IN THE SHORT-TERM BUT ULTIMATELY LEADS TO PROGRESSIVE, PATHOLOGICAL CARDIAC REMODELING, HYPERTROPHY, AND POTENTIALLY ARRHYTHMOGENIC CA2+ SIGNALING DYSREGULATION. WE PROVIDE COMPELLING PRELIMINARY DATA INDICATING THAT PIP2 HYDROLYSIS, DOWNSTREAM OF ACUTE ANGII/AT1R/GQ ACTIVATION, LEADS TO ENDOCYTOSIS OF CARDIAC CAV1.2 CHANNELS. WE CAN VISUALIZE THIS ENDOCYTOSIS OCCURRING DYNAMICALLY IN LIVE VENTRICULAR MYOCYTES UPON PERFUSION WITH PHYSIOLOGICAL CONCENTRATIONS OF ANGII (100 NM). INITIAL RESULTS INDICATE A SHIFT IN THE BALANCE BETWEEN CHANNEL INSERTION AND REMOVAL, SUCH THAT ANGII-STIMULATED REMOVAL OF PM CHANNELS, LEADS TO AN ~30 % REDUCTION IN PM CAV1.2 ABUNDANCE. WE OBSERVE A STRIKINGLY SIMILAR %-REDUCTION IN THREE OTHER SEPARATE EXPERIMENTAL APPROACHES, FINDING DECREASED ICA IN ELECTROPHYSIOLOGY STUDIES, REDUCED CHANNEL CLUSTER AREA AND EXPRESSION IN SUPER-RESOLUTION IMAGING, AND A LOSS OF PM CAV1.2 IN SURFACE BIOTINYLATION. WE ISOLATE PIP2 AS THE CRITICAL EXECUTOR OF THIS RESPONSE, DISTINCT FROM THE ACTIVATION OF PKC AND ARACHIDONIC ACID PRODUCTION THAT ACCOMPANIES AT1R STIMULATION WITH EXPERIMENTS THAT BYPASS THE RECEPTORS AND INSTEAD UTILIZE A RAPAMYCIN-STIMULATED DIMERIZATION SYSTEM TO RECRUIT A 4’,5’ PHOSPHATASE TO THE MEMBRANE AND DEPLETE PIP2. OUR RESULTS SUPPORT A NOVEL MECHANISTIC ROLE OF PIP2 ON CAV1.2 CHANNEL TRAFFICKING AND EXPRESSION WHICH CAN BE TUNED IN RESPONSE TO PHYSIOLOGICAL SIGNALING CASCADES TO MODULATE EC-COUPLING DURING ACUTE REGULATION OF BLOOD PRESSURE. WE FURTHER PROPOSE THAT CHRONIC DEPLETION OF PIP2 DURING ANGII/AT1R SIGNALING ASSOCIATED WITH HEART FAILURE CAUSES: (I) SUSTAINED DESTABILIZATION OF PM CAV1.2 AND LONG-LIVED EXPRESSION DEFICITS; (II) A COMPENSATORY SYMPATHETIC RESPONSE TO BOOST CARDIAC FUNCTION INVOLVING ACTIVATION OF PKA AND CAMKII THAT ACTS IN COMBINATION WITH DIRECT AT1R-STIMULATED CAMKII TO ENHANCE CAV1.2 AND RYR2 PHOSPHORYLATION, PRODUCING ENHANCED PO AND DIASTOLIC LEAK THAT STIMULATES CAN/NFAT AND HYPERTROPHIC GENE EXPRESSION; (III) ENHANCED IP3 PRODUCTION THAT ALSO STIMULATES CAN/NFAT AND HYPERTROPHIC GENE EXPRESSION, AND (IV) CYTOSKELETAL INSTABILITY AS A RESULT OF DEPLETION OF CARDIOPROTECTIVE PI(3,4,5)P3 AND ENHANCED ROS-INDUCED MICROTUBULE CATASTROPHE THAT DISRUPTS CHANNEL DELIVERY AND PROMOTES BIOMECHANICAL INSTABILITY, T-TUBULE AND LOSS OF DYADS. WE PROPOSE TO RIGOROUSLY TEST THESE IDEAS IN TWO SPECIFIC AIMS DESCRIBED HEREIN.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-06-01",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL159304_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91217758,
+    "generated_unique_award_id": "ASST_NON_R01HL159304_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "LIPID REGULATION OF CARDIAC EXCITATION-CONTRACTION COUPLING - PROJECT SUMMARY  EXPERIMENTS OUTLINED IN THIS APPLICATION, SUGGEST A NOVEL PARADIGM, THAT ACUTE ANGIOTENSIN II (ANGII)-STIMULATED PIP2 HYDROLYSIS TRIGGERS CARDIAC CAV1.2 CHANNEL INTERNALIZATION, PROVIDING A MEANS TO RAPIDLY TUNE CELLULAR EXCITABILITY AND MODULATE EC-COUPLING IN HEALTH. IN CONTRAST, WE PROPOSE THAT SUSTAINED DEFICITS IN PLASMA MEMBRANE CAV1.2 EXPRESSION, AND PIP2 DEPLETION DURING CHRONIC ANGII CAN TRIGGER A MALADAPTIVE COMPENSATORY SYMPATHETIC RESPONSE THAT IMPROVES CARDIAC FUNCTION IN THE SHORT-TERM BUT ULTIMATELY LEADS TO PROGRESSIVE, PATHOLOGICAL CARDIAC REMODELING, HYPERTROPHY, AND POTENTIALLY ARRHYTHMOGENIC CA2+ SIGNALING DYSREGULATION. WE PROVIDE COMPELLING PRELIMINARY DATA INDICATING THAT PIP2 HYDROLYSIS, DOWNSTREAM OF ACUTE ANGII/AT1R/GQ ACTIVATION, LEADS TO ENDOCYTOSIS OF CARDIAC CAV1.2 CHANNELS. WE CAN VISUALIZE THIS ENDOCYTOSIS OCCURRING DYNAMICALLY IN LIVE VENTRICULAR MYOCYTES UPON PERFUSION WITH PHYSIOLOGICAL CONCENTRATIONS OF ANGII (100 NM). INITIAL RESULTS INDICATE A SHIFT IN THE BALANCE BETWEEN CHANNEL INSERTION AND REMOVAL, SUCH THAT ANGII-STIMULATED REMOVAL OF PM CHANNELS, LEADS TO AN ~30 % REDUCTION IN PM CAV1.2 ABUNDANCE. WE OBSERVE A STRIKINGLY SIMILAR %-REDUCTION IN THREE OTHER SEPARATE EXPERIMENTAL APPROACHES, FINDING DECREASED ICA IN ELECTROPHYSIOLOGY STUDIES, REDUCED CHANNEL CLUSTER AREA AND EXPRESSION IN SUPER-RESOLUTION IMAGING, AND A LOSS OF PM CAV1.2 IN SURFACE BIOTINYLATION. WE ISOLATE PIP2 AS THE CRITICAL EXECUTOR OF THIS RESPONSE, DISTINCT FROM THE ACTIVATION OF PKC AND ARACHIDONIC ACID PRODUCTION THAT ACCOMPANIES AT1R STIMULATION WITH EXPERIMENTS THAT BYPASS THE RECEPTORS AND INSTEAD UTILIZE A RAPAMYCIN-STIMULATED DIMERIZATION SYSTEM TO RECRUIT A 4’,5’ PHOSPHATASE TO THE MEMBRANE AND DEPLETE PIP2. OUR RESULTS SUPPORT A NOVEL MECHANISTIC ROLE OF PIP2 ON CAV1.2 CHANNEL TRAFFICKING AND EXPRESSION WHICH CAN BE TUNED IN RESPONSE TO PHYSIOLOGICAL SIGNALING CASCADES TO MODULATE EC-COUPLING DURING ACUTE REGULATION OF BLOOD PRESSURE. WE FURTHER PROPOSE THAT CHRONIC DEPLETION OF PIP2 DURING ANGII/AT1R SIGNALING ASSOCIATED WITH HEART FAILURE CAUSES: (I) SUSTAINED DESTABILIZATION OF PM CAV1.2 AND LONG-LIVED EXPRESSION DEFICITS; (II) A COMPENSATORY SYMPATHETIC RESPONSE TO BOOST CARDIAC FUNCTION INVOLVING ACTIVATION OF PKA AND CAMKII THAT ACTS IN COMBINATION WITH DIRECT AT1R-STIMULATED CAMKII TO ENHANCE CAV1.2 AND RYR2 PHOSPHORYLATION, PRODUCING ENHANCED PO AND DIASTOLIC LEAK THAT STIMULATES CAN/NFAT AND HYPERTROPHIC GENE EXPRESSION; (III) ENHANCED IP3 PRODUCTION THAT ALSO STIMULATES CAN/NFAT AND HYPERTROPHIC GENE EXPRESSION, AND (IV) CYTOSKELETAL INSTABILITY AS A RESULT OF DEPLETION OF CARDIOPROTECTIVE PI(3,4,5)P3 AND ENHANCED ROS-INDUCED MICROTUBULE CATASTROPHE THAT DISRUPTS CHANNEL DELIVERY AND PROMOTES BIOMECHANICAL INSTABILITY, T-TUBULE AND LOSS OF DYADS. WE PROPOSE TO RIGOROUSLY TEST THESE IDEAS IN TWO SPECIFIC AIMS DESCRIBED HEREIN.",
+    "total_obligation": 2416044,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-05-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1770029.98,
+    "total_account_obligation": 2416044,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1770029.98
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2416044
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-01",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1770029.98
+  }
+}

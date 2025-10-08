@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91174964,
+    "Award ID": "R01DK125415",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2495015,
+    "Total Outlays": 1821246.06,
+    "Description": "EFFECT OF FETAL EXPOSURE TO MATERNAL INFLAMMATION ON OFFSPRING PANETH CELL DEVELOPMENT AND HOMEOSTASIS - CHORIOAMNIONITIS COMPLICATES UP TO 70% OF PRETERM BIRTHS, AND IS CHARACTERIZED BY ACUTE INFLAMMATION OF THE PLACENTAL/FETAL UNIT, EXPOSING THE FETUS TO SIGNIFICANT INFLAMMATION. THESE INFANTS HAVE AN INCREASED RISK OF SHORT- AND LONG-TERM MORBIDITIES INVOLVING MULTIPLE ORGAN SYSTEMS INCLUDING THE INTESTINE. HOWEVER, MECHANISMS BY WHICH FETAL EXPOSURE TO MATERNAL INFLAMMATION (FEMI) LEADS TO ADVERSE OUTCOMES REMAIN UNCLEAR. OUR PRELIMINARY AND PUBLISHED DATA SHOW THAT AN INTERLEUKIN-6 (IL-6)-DEPENDENT LOSS OF PANETH CELLS CONTRIBUTES TO FEMI-ASSOCIATED SUSCEPTIBILITY TO BOWEL INJURY. OUR DATA SUGGEST THAT FEMI LEADS TO: IL-6- DEPENDENT PANETH CELL LOSS; LINGERING ELEVATION OF SERUM BASELINE LEVELS OF INFLAMMATORY CYTOKINES, INCLUDING IL-6; CLINICALLY RELEVANT INTESTINAL INJURY; AND INCREASED SUSCEPTIBILITY TO SECONDARY INTESTINAL INJURY. HOWEVER, SPECIFIC MECHANISMS UNDERLYING THESE EFFECTS INCLUDING THE SOURCE OF IL-6, THE SITE OF IL-6-INDUCED PATHOGENIC ACTION, SPECIFIC SIGNAL PATHWAYS BY WHICH PANETH CELLS ARE IMPACTED, AND SUBSEQUENT CONSEQUENCES OF PANETH CELL PERTURBATION REMAIN INCOMPLETELY UNDERSTOOD. ADDRESSING THIS GAP IN KNOWLEDGE IS CRITICAL FOR RESTORING IL-6 MODULATION, A POTENTIAL INTERVENTIONAL OPPORTUNITY FOR PREVENTING FEMI-INDUCED PATHOLOGY. THE OBJECTIVE OF THIS PROPOSAL IS TO DELINEATE KEY MECHANISMS BY WHICH FEMI DECREASES PANETH CELLS AND INCREASES SUSCEPTIBILITY TO INTESTINAL INJURY IN THE OFFSPRING. OUR CENTRAL HYPOTHESIS IS THAT FETAL EXPOSURE TO IL-6 FROM MATERNAL OR PLACENTAL (OR BOTH) SOURCES IS A KEY MECHANISM BY WHICH FEMI ALTERS SIGNAL TRANSDUCERS AND ACTIVATORS OF TRANSCRIPTION-1 SIGNALING IN THE OFFSPRING, LEADING TO INCREASED INTERFERON LAMBDA SIGNAL PATHWAYS, REDUCED PANETH CELL DENSITY, AND INCREASED INJURY SUSCEPTIBILITY. THE RATIONALE FOR UNDERTAKING THIS PROJECT IS TO GAIN A MECHANISTIC ADVANCE IN KNOWLEDGE OF HOW FEMI LEADS TO NEONATAL MORBIDITY AND MORTALITY. SUCH KNOWLEDGE WILL BE CRITICAL TO DEVELOP NOVEL PREVENTATIVE STRATEGIES, TO PREVENT COMPLICATIONS AND MORTALITY OF PREMATURITY, AND TO DIRECTLY IMPROVE THE QUALITY OF LIFE OF PRE-TERM INFANTS. OUR HYPOTHESIS WILL BE TESTED THROUGH TWO AIMS: 1) IDENTIFY THE SITE(S) OF PATHOLOGIC ACTION OF IL-6 AND DOWNSTREAM SIGNALING PATHWAYS ACTIVATED FOLLOWING FEMI, AND 2) DETERMINE THE EFFECTS OF FEMI ON PATHWAYS CRITICAL TO PANETH CELL HOMEOSTASIS. THE PROPOSED RESEARCH IS SIGNIFICANT AND INNOVATIVE AS OUR PROPOSED STUDIES WILL DIRECTLY ADDRESS THE GAP IN KNOWLEDGE REGARDING INCREASED NEONATAL MORBIDITY AND MORTALITY FOLLOWING FEMI AND SPECIFICALLY THE IMPACT ON PANETH CELLS USING NOVEL IN VIVO, IN VITRO, AND EX VIVO APPROACHES TO INVESTIGATE THE ROLE OF FEMI-INDUCED IL-6 ON FETAL OUTCOMES. THIS KNOWLEDGE WILL LEAD TO DEVELOPMENT OF TARGETED THERAPIES TO IMPROVE INTESTINAL HEALTH.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-09-15",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DK125415_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91174964,
+    "generated_unique_award_id": "ASST_NON_R01DK125415_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EFFECT OF FETAL EXPOSURE TO MATERNAL INFLAMMATION ON OFFSPRING PANETH CELL DEVELOPMENT AND HOMEOSTASIS - CHORIOAMNIONITIS COMPLICATES UP TO 70% OF PRETERM BIRTHS, AND IS CHARACTERIZED BY ACUTE INFLAMMATION OF THE PLACENTAL/FETAL UNIT, EXPOSING THE FETUS TO SIGNIFICANT INFLAMMATION. THESE INFANTS HAVE AN INCREASED RISK OF SHORT- AND LONG-TERM MORBIDITIES INVOLVING MULTIPLE ORGAN SYSTEMS INCLUDING THE INTESTINE. HOWEVER, MECHANISMS BY WHICH FETAL EXPOSURE TO MATERNAL INFLAMMATION (FEMI) LEADS TO ADVERSE OUTCOMES REMAIN UNCLEAR. OUR PRELIMINARY AND PUBLISHED DATA SHOW THAT AN INTERLEUKIN-6 (IL-6)-DEPENDENT LOSS OF PANETH CELLS CONTRIBUTES TO FEMI-ASSOCIATED SUSCEPTIBILITY TO BOWEL INJURY. OUR DATA SUGGEST THAT FEMI LEADS TO: IL-6- DEPENDENT PANETH CELL LOSS; LINGERING ELEVATION OF SERUM BASELINE LEVELS OF INFLAMMATORY CYTOKINES, INCLUDING IL-6; CLINICALLY RELEVANT INTESTINAL INJURY; AND INCREASED SUSCEPTIBILITY TO SECONDARY INTESTINAL INJURY. HOWEVER, SPECIFIC MECHANISMS UNDERLYING THESE EFFECTS INCLUDING THE SOURCE OF IL-6, THE SITE OF IL-6-INDUCED PATHOGENIC ACTION, SPECIFIC SIGNAL PATHWAYS BY WHICH PANETH CELLS ARE IMPACTED, AND SUBSEQUENT CONSEQUENCES OF PANETH CELL PERTURBATION REMAIN INCOMPLETELY UNDERSTOOD. ADDRESSING THIS GAP IN KNOWLEDGE IS CRITICAL FOR RESTORING IL-6 MODULATION, A POTENTIAL INTERVENTIONAL OPPORTUNITY FOR PREVENTING FEMI-INDUCED PATHOLOGY. THE OBJECTIVE OF THIS PROPOSAL IS TO DELINEATE KEY MECHANISMS BY WHICH FEMI DECREASES PANETH CELLS AND INCREASES SUSCEPTIBILITY TO INTESTINAL INJURY IN THE OFFSPRING. OUR CENTRAL HYPOTHESIS IS THAT FETAL EXPOSURE TO IL-6 FROM MATERNAL OR PLACENTAL (OR BOTH) SOURCES IS A KEY MECHANISM BY WHICH FEMI ALTERS SIGNAL TRANSDUCERS AND ACTIVATORS OF TRANSCRIPTION-1 SIGNALING IN THE OFFSPRING, LEADING TO INCREASED INTERFERON LAMBDA SIGNAL PATHWAYS, REDUCED PANETH CELL DENSITY, AND INCREASED INJURY SUSCEPTIBILITY. THE RATIONALE FOR UNDERTAKING THIS PROJECT IS TO GAIN A MECHANISTIC ADVANCE IN KNOWLEDGE OF HOW FEMI LEADS TO NEONATAL MORBIDITY AND MORTALITY. SUCH KNOWLEDGE WILL BE CRITICAL TO DEVELOP NOVEL PREVENTATIVE STRATEGIES, TO PREVENT COMPLICATIONS AND MORTALITY OF PREMATURITY, AND TO DIRECTLY IMPROVE THE QUALITY OF LIFE OF PRE-TERM INFANTS. OUR HYPOTHESIS WILL BE TESTED THROUGH TWO AIMS: 1) IDENTIFY THE SITE(S) OF PATHOLOGIC ACTION OF IL-6 AND DOWNSTREAM SIGNALING PATHWAYS ACTIVATED FOLLOWING FEMI, AND 2) DETERMINE THE EFFECTS OF FEMI ON PATHWAYS CRITICAL TO PANETH CELL HOMEOSTASIS. THE PROPOSED RESEARCH IS SIGNIFICANT AND INNOVATIVE AS OUR PROPOSED STUDIES WILL DIRECTLY ADDRESS THE GAP IN KNOWLEDGE REGARDING INCREASED NEONATAL MORBIDITY AND MORTALITY FOLLOWING FEMI AND SPECIFICALLY THE IMPACT ON PANETH CELLS USING NOVEL IN VIVO, IN VITRO, AND EX VIVO APPROACHES TO INVESTIGATE THE ROLE OF FEMI-INDUCED IL-6 ON FETAL OUTCOMES. THIS KNOWLEDGE WILL LEAD TO DEVELOPMENT OF TARGETED THERAPIES TO IMPROVE INTESTINAL HEALTH.",
+    "total_obligation": 2495015,
+    "subaward_count": 7,
+    "total_subaward_amount": 249251,
+    "date_signed": "2021-09-02",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1821246.06,
+    "total_account_obligation": 2495015,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1821246.06
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2495015
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-15",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2025-07-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1821246.06
+  }
+}

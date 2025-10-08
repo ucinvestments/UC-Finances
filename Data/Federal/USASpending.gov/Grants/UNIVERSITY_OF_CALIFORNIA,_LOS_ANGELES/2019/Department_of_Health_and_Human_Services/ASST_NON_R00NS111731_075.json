@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91116649,
+    "Award ID": "R00NS111731",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 782350.5,
+    "Total Outlays": 558245.12,
+    "Description": "UNDERSTANDING BRAIN DEVELOPMENT THROUGH THE LENS OF METABOLISM - THE HUMAN CEREBRAL CORTEX IS A COMPLEX STRUCTURE COMPRISED OF DISTINCT AREAS WITH SPECIALIZED FUNCTIONS AND CONNECTIVITY PATTERNS. RECENT ADVANCES IN SINGLE-CELL SEQUENCING HAVE STARTED TO ILLUMINATE ADDITIONAL CELL TYPE DIVERSITY THAT EXISTS IN BOTH MOUSE AND HUMAN BRAINS, WITH SIGNIFICANT TRANSCRIPTIONAL AREAL DIFFERENCES BETWEEN OTHERWISE CORRESPONDING EXCITATORY CELL TYPES. UNDERSTANDING HOW THESE CELL TYPES EMERGE IS ESSENTIAL TO UNDERSTANDING HOW NEURODEVELOPMENTAL DISORDERS MAY ARISE, AS WELL AS TO BETTER MODEL HUMAN CORTICAL CELL TYPES AND TO UNDERSTAND HOW STEM CELL THERAPIES MAY BEST BE DEVELOPED IN AN AREA SPECIFIC MANNER. MOREOVER, A NUMBER OF TRANSIENT POPULATIONS OF CELL TYPES EXIST SOLELY DURING DEVELOPMENT AND MAY HOLD CRUCIAL CLUES AS TO WHAT SIGNALS DETERMINE AREAL IDENTITY IN THE HUMAN CORTEX. PRELIMINARY DATA SUGGESTS THAT A SMALL NUMBER OF DIFFERENCES IN PROGENITOR CELLS CASCADE INTO LARGER DIFFERENCES IN EXCITATORY NEURONS. MOREOVER, INITIAL CHARACTERIZATIONS OF THESE AREA SPECIFIC GENES INDICATE AN ENRICHMENT OF LIPID METABOLISM AND TRANSPORT GENES. THE LIPIDOME IS AN ASPECT OF THE CENTRAL NERVOUS SYSTEM THAT IS HIGHLY EVOLVED AND COMPLEX IN HUMANS AND COMPRISES HALF OF THE CENTRAL NERVOUS SYSTEM MASS. ADDITIONALLY, CERTAIN METABOLITES HAVE BEEN CHARACTERIZED TO REGULATE STEM CELL MAINTENANCE AND DIFFERENTIATION, AND IN A NUMBER OF NEURODEVELOPMENTAL DISORDERS ARE MUTATED OR DYSREGULATED. LIPIDS ARE KNOWN TO BE IMPORTANT FOR SYNAPTIC COMMUNICATION OR NEUROPEPTIDE SIGNALING, BUT THE ROLE OF LIPIDS IN DEFINING CELL TYPE OR PROGENITOR FATE IS HERETOFORE UNDESCRIBED. OUR PRELIMINARY DATA IN HUMAN CORTICAL DEVELOPMENT SUGGESTS THERE IS INCREDIBLE LIPID DIVERSITY, AS WELL AS CELL TYPE AND AREA SPECIFICITY OF CERTAIN CLASSES OF LIPIDS. THUS, THE SPECIFIC AIMS OF THIS PROJECT FIRST SEEK TO CHARACTERIZE THE DEVELOPING HUMAN CEREBRAL CORTEX ACROSS MULTIPLE REGIONS AND AGES USING BOTH TRANSCRIPTOMIC AND LIPIDOMIC APPROACHES (K99 PHASE), WHILE ALSO OPTIMIZING TECHNOLOGIES TO GENERATE A “ROSETTA STONE” BETWEEN LIPID AND TRANSCRIPTIONAL IDENTITY (K99 + R00 PHASE). UTILIZING OUR PRELIMINARY DATA, A LIST OF CANDIDATE TRANSCRIPTION FACTORS AND LIPID METABOLISM GENES WILL BE SURVEYED FOR A ROLE IN REGULATING AREAL IDENTITY. BY GENETICALLY MANIPULATING PROGENITOR CELLS, WE WILL ASSESS THE IMPACT UPON RESULTANT AREA IDENTITY OF NEURONS. INTEGRATING THESE EXPERIMENTS WILL ENABLE A HIERARCHICAL DETERMINATION OF HOW METABOLISM AND TRANSCRIPTIONAL REGULATION CROSS-TALK TO DETERMINE CELL FATE DECISIONS IN CORTICAL PROGENITORS. TOGETHER, THESE DESCRIPTIVE DATASETS AND MECHANISTIC EXPERIMENTS WILL IMPROVE OUR UNDERSTANDING OF CELL TYPES AND THEIR SPECIFICATION FROM PROGENITORS IN THE HUMAN CORTEX, AND OFFER ADDITIONAL INSIGHT INTO HOW DEVELOPMENTAL DISORDERS MAY EMERGE AND EVENTUALLY HOW THEY MAY BE TARGETED, POTENTIALLY THROUGH A METABOLIC AXIS OF THERAPEUTIC INTERVENTION. THE UNIQUE DATASETS GENERATED THROUGH THIS WILL SERVE AS A RESOURCE FOR MULTIMODAL CELL TYPE ANALYSIS AND FOLLOW UP MECHANISTIC STUDY NOT ONLY FOR OUR RESEARCH GROUP, BUT ALSO FOR THE COMMUNITY AT LARGE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4200",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "900951737",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2019-06-01",
+    "End Date": "2024-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R00NS111731_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91116649,
+    "generated_unique_award_id": "ASST_NON_R00NS111731_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "UNDERSTANDING BRAIN DEVELOPMENT THROUGH THE LENS OF METABOLISM - THE HUMAN CEREBRAL CORTEX IS A COMPLEX STRUCTURE COMPRISED OF DISTINCT AREAS WITH SPECIALIZED FUNCTIONS AND CONNECTIVITY PATTERNS. RECENT ADVANCES IN SINGLE-CELL SEQUENCING HAVE STARTED TO ILLUMINATE ADDITIONAL CELL TYPE DIVERSITY THAT EXISTS IN BOTH MOUSE AND HUMAN BRAINS, WITH SIGNIFICANT TRANSCRIPTIONAL AREAL DIFFERENCES BETWEEN OTHERWISE CORRESPONDING EXCITATORY CELL TYPES. UNDERSTANDING HOW THESE CELL TYPES EMERGE IS ESSENTIAL TO UNDERSTANDING HOW NEURODEVELOPMENTAL DISORDERS MAY ARISE, AS WELL AS TO BETTER MODEL HUMAN CORTICAL CELL TYPES AND TO UNDERSTAND HOW STEM CELL THERAPIES MAY BEST BE DEVELOPED IN AN AREA SPECIFIC MANNER. MOREOVER, A NUMBER OF TRANSIENT POPULATIONS OF CELL TYPES EXIST SOLELY DURING DEVELOPMENT AND MAY HOLD CRUCIAL CLUES AS TO WHAT SIGNALS DETERMINE AREAL IDENTITY IN THE HUMAN CORTEX. PRELIMINARY DATA SUGGESTS THAT A SMALL NUMBER OF DIFFERENCES IN PROGENITOR CELLS CASCADE INTO LARGER DIFFERENCES IN EXCITATORY NEURONS. MOREOVER, INITIAL CHARACTERIZATIONS OF THESE AREA SPECIFIC GENES INDICATE AN ENRICHMENT OF LIPID METABOLISM AND TRANSPORT GENES. THE LIPIDOME IS AN ASPECT OF THE CENTRAL NERVOUS SYSTEM THAT IS HIGHLY EVOLVED AND COMPLEX IN HUMANS AND COMPRISES HALF OF THE CENTRAL NERVOUS SYSTEM MASS. ADDITIONALLY, CERTAIN METABOLITES HAVE BEEN CHARACTERIZED TO REGULATE STEM CELL MAINTENANCE AND DIFFERENTIATION, AND IN A NUMBER OF NEURODEVELOPMENTAL DISORDERS ARE MUTATED OR DYSREGULATED. LIPIDS ARE KNOWN TO BE IMPORTANT FOR SYNAPTIC COMMUNICATION OR NEUROPEPTIDE SIGNALING, BUT THE ROLE OF LIPIDS IN DEFINING CELL TYPE OR PROGENITOR FATE IS HERETOFORE UNDESCRIBED. OUR PRELIMINARY DATA IN HUMAN CORTICAL DEVELOPMENT SUGGESTS THERE IS INCREDIBLE LIPID DIVERSITY, AS WELL AS CELL TYPE AND AREA SPECIFICITY OF CERTAIN CLASSES OF LIPIDS. THUS, THE SPECIFIC AIMS OF THIS PROJECT FIRST SEEK TO CHARACTERIZE THE DEVELOPING HUMAN CEREBRAL CORTEX ACROSS MULTIPLE REGIONS AND AGES USING BOTH TRANSCRIPTOMIC AND LIPIDOMIC APPROACHES (K99 PHASE), WHILE ALSO OPTIMIZING TECHNOLOGIES TO GENERATE A “ROSETTA STONE” BETWEEN LIPID AND TRANSCRIPTIONAL IDENTITY (K99 + R00 PHASE). UTILIZING OUR PRELIMINARY DATA, A LIST OF CANDIDATE TRANSCRIPTION FACTORS AND LIPID METABOLISM GENES WILL BE SURVEYED FOR A ROLE IN REGULATING AREAL IDENTITY. BY GENETICALLY MANIPULATING PROGENITOR CELLS, WE WILL ASSESS THE IMPACT UPON RESULTANT AREA IDENTITY OF NEURONS. INTEGRATING THESE EXPERIMENTS WILL ENABLE A HIERARCHICAL DETERMINATION OF HOW METABOLISM AND TRANSCRIPTIONAL REGULATION CROSS-TALK TO DETERMINE CELL FATE DECISIONS IN CORTICAL PROGENITORS. TOGETHER, THESE DESCRIPTIVE DATASETS AND MECHANISTIC EXPERIMENTS WILL IMPROVE OUR UNDERSTANDING OF CELL TYPES AND THEIR SPECIFICATION FROM PROGENITORS IN THE HUMAN CORTEX, AND OFFER ADDITIONAL INSIGHT INTO HOW DEVELOPMENTAL DISORDERS MAY EMERGE AND EVENTUALLY HOW THEY MAY BE TARGETED, POTENTIALLY THROUGH A METABOLIC AXIS OF THERAPEUTIC INTERVENTION. THE UNIQUE DATASETS GENERATED THROUGH THIS WILL SERVE AS A RESOURCE FOR MULTIMODAL CELL TYPE ANALYSIS AND FOLLOW UP MECHANISTIC STUDY NOT ONLY FOR OUR RESEARCH GROUP, BUT ALSO FOR THE COMMUNITY AT LARGE.",
+    "total_obligation": 782350.5,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-03-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 558245.12,
+    "total_account_obligation": 782350.5,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 558245.12
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 782350.5
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2019-06-01",
+      "end_date": "2024-03-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4200",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "1737",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 558245.12
+  }
+}

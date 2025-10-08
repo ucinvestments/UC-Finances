@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 174109586,
+    "Award ID": "2514631",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1100000,
+    "Total Outlays": 0,
+    "Description": "HOW DOES CYTOKININ SIGNALING REGULATE CELL PLATE DEVELOPMENT AND CALLOSE DEPOSITION? -THE AIM OF THIS MULTI-DISCIPLINARY PROJECT IS TO BETTER UNDERSTAND HOW PLANT CELL DIVISION IS REGULATED. DURING PLANT CELL DIVISION, A NOVEL STRUCTURE CALLED THE CELL PLATE FORMS AND DEVELOPS INTO THE NEW CELL WALL THAT SEPARATES THE MOTHER CELL INTO TWO NEW DAUGHTER CELLS. THE CREATION OF THE CELL PLATE AND NEW CELL WALL DURING CELL DIVISION IS OF FUNDAMENTAL IMPORTANCE FOR THE GROWTH OF ALL PLANT LIFE. THIS PROJECT WILL DETERMINE HOW THE HIGHLY DYNAMIC PROCESS OF CELL PLATE FORMATION IS REGULATED BY HORMONAL SIGNALING DURING PLANT CELL DIVISION. THE RESULTS OF THIS PROJECT WILL PROVIDE A MECHANISTIC, TRANSFORMATIVE UNDERSTANDING OF HORMONAL SIGNALING, CELL DIVISION, AND CELL WALL FORMATION THAT WILL BE APPLICABLE TO A BROAD VARIETY OF PLANT SPECIES. APPLICATION OF THE PROJECT?S FINDINGS WILL GUIDE BIOENGINEERING EFFORTS TOWARDS MORE DESIRABLE AND ADVANTAGEOUS CELL WALL COMPOSITIONS, AND IMPROVED PLANT GROWTH AND BIOMASS UTILIZATION, TO BENEFIT SOCIETY. OUR SUCCESSFUL EDUCATIONAL ANIMATIONS WILL BE UPDATED WITH NEW FINDINGS AND SUPPLEMENTED WITH A GUIDEBOOK TO CONTINUE ENGAGING A BROAD AUDIENCE. JUNIOR SCIENTISTS AT THE UNDERGRADUATE, GRADUATE, AND POSTGRADUATE LEVEL WILL RECEIVE RESEARCH TRAINING ACROSS A BROAD RANGE OF CUTTING-EDGE RESEARCH METHODS IN MODERN CELL BIOLOGY. ALL TRAINEES WILL RECEIVE STRONG PROFESSIONAL DEVELOPMENT SUPPORT THROUGH TAILORED DEVELOPMENT PLANS. THE OVERARCHING GOAL OF THIS MULTI-DISCIPLINARY PROJECT IS TO DISSECT HOW CELL PLATE FORMATION IS REGULATED BY CYTOKININ (CK) HORMONAL SIGNALING. IN PLANT CYTOKINESIS, DE NOVO FORMATION OF A CELL PLATE EVOLVING INTO THE NEW CELL WALL PARTITIONS THE CYTOPLASM OF THE DIVIDING CELL. CELL PLATE FORMATION INVOLVES HIGHLY ORCHESTRATED VESICLE ACCUMULATION, FUSION, MEMBRANE NETWORK MATURATION ,AND TIME-CRITICAL POLYSACCHARIDE DEPOSITION, INCLUDING THAT OF THE TRANSIENTLY INCORPORATED, FLEXIBLE CALLOSE. THIS PROJECT AIMS TO UNDERSTAND HOW CYTOKININ SIGNALING INTERFACES WITH ENDOMEMBRANE TRAFFICKING AND REGULATES THE DEVELOPMENT OF THE NEW CELL WALL AND THEREBY VIABILITY OF ALL PLANT LIFE. THE SPECIFIC AIMS OF THE PROJECT ARE: 1) IDENTIFICATION AND CHARACTERIZATION OF CALLOSE SYNTHASE COMPLEXES IN CELL PLATE DEVELOPMENT; 2) DETERMINATION OF HOW THE CYTOKININ SIGNALING PATHWAY CONTROLS CYTOKINESIS; 3) CHARACTERIZATION OF CYTOKININ-REGULATED CALLOSE REMODELING DURING CELL PLATE DEVELOPMENT. DETAILED CHARACTERIZATION OF THE IDENTIFIED MOLECULAR PLAYERS AND THEIR ROLES IN CELL PLATE ASSEMBLY WILL MAKE VARIOUS TRANSFORMATIVE CONTRIBUTIONS TO THE FIELD OF HORMONE SIGNALING AND CYTOKINESIS WHICH WILL OPEN TRANSLATIONAL APPLICATIONS IN BIOMASS CONTROL, AND TARGETED IMPROVEMENTS IN CELL WALL ENGINEERING. THIS PROJECT IS FUNDED BY THE CELLULAR DYNAMICS AND FUNCTION PROGRAM OF THE DIVISION OF MOLECULAR AND CELLULAR BIOLOGY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-08-01",
+    "End Date": "2028-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2514631_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 174109586,
+    "generated_unique_award_id": "ASST_NON_2514631_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "HOW DOES CYTOKININ SIGNALING REGULATE CELL PLATE DEVELOPMENT AND CALLOSE DEPOSITION? -THE AIM OF THIS MULTI-DISCIPLINARY PROJECT IS TO BETTER UNDERSTAND HOW PLANT CELL DIVISION IS REGULATED. DURING PLANT CELL DIVISION, A NOVEL STRUCTURE CALLED THE CELL PLATE FORMS AND DEVELOPS INTO THE NEW CELL WALL THAT SEPARATES THE MOTHER CELL INTO TWO NEW DAUGHTER CELLS. THE CREATION OF THE CELL PLATE AND NEW CELL WALL DURING CELL DIVISION IS OF FUNDAMENTAL IMPORTANCE FOR THE GROWTH OF ALL PLANT LIFE. THIS PROJECT WILL DETERMINE HOW THE HIGHLY DYNAMIC PROCESS OF CELL PLATE FORMATION IS REGULATED BY HORMONAL SIGNALING DURING PLANT CELL DIVISION. THE RESULTS OF THIS PROJECT WILL PROVIDE A MECHANISTIC, TRANSFORMATIVE UNDERSTANDING OF HORMONAL SIGNALING, CELL DIVISION, AND CELL WALL FORMATION THAT WILL BE APPLICABLE TO A BROAD VARIETY OF PLANT SPECIES. APPLICATION OF THE PROJECT?S FINDINGS WILL GUIDE BIOENGINEERING EFFORTS TOWARDS MORE DESIRABLE AND ADVANTAGEOUS CELL WALL COMPOSITIONS, AND IMPROVED PLANT GROWTH AND BIOMASS UTILIZATION, TO BENEFIT SOCIETY. OUR SUCCESSFUL EDUCATIONAL ANIMATIONS WILL BE UPDATED WITH NEW FINDINGS AND SUPPLEMENTED WITH A GUIDEBOOK TO CONTINUE ENGAGING A BROAD AUDIENCE. JUNIOR SCIENTISTS AT THE UNDERGRADUATE, GRADUATE, AND POSTGRADUATE LEVEL WILL RECEIVE RESEARCH TRAINING ACROSS A BROAD RANGE OF CUTTING-EDGE RESEARCH METHODS IN MODERN CELL BIOLOGY. ALL TRAINEES WILL RECEIVE STRONG PROFESSIONAL DEVELOPMENT SUPPORT THROUGH TAILORED DEVELOPMENT PLANS. THE OVERARCHING GOAL OF THIS MULTI-DISCIPLINARY PROJECT IS TO DISSECT HOW CELL PLATE FORMATION IS REGULATED BY CYTOKININ (CK) HORMONAL SIGNALING. IN PLANT CYTOKINESIS, DE NOVO FORMATION OF A CELL PLATE EVOLVING INTO THE NEW CELL WALL PARTITIONS THE CYTOPLASM OF THE DIVIDING CELL. CELL PLATE FORMATION INVOLVES HIGHLY ORCHESTRATED VESICLE ACCUMULATION, FUSION, MEMBRANE NETWORK MATURATION ,AND TIME-CRITICAL POLYSACCHARIDE DEPOSITION, INCLUDING THAT OF THE TRANSIENTLY INCORPORATED, FLEXIBLE CALLOSE. THIS PROJECT AIMS TO UNDERSTAND HOW CYTOKININ SIGNALING INTERFACES WITH ENDOMEMBRANE TRAFFICKING AND REGULATES THE DEVELOPMENT OF THE NEW CELL WALL AND THEREBY VIABILITY OF ALL PLANT LIFE. THE SPECIFIC AIMS OF THE PROJECT ARE: 1) IDENTIFICATION AND CHARACTERIZATION OF CALLOSE SYNTHASE COMPLEXES IN CELL PLATE DEVELOPMENT; 2) DETERMINATION OF HOW THE CYTOKININ SIGNALING PATHWAY CONTROLS CYTOKINESIS; 3) CHARACTERIZATION OF CYTOKININ-REGULATED CALLOSE REMODELING DURING CELL PLATE DEVELOPMENT. DETAILED CHARACTERIZATION OF THE IDENTIFIED MOLECULAR PLAYERS AND THEIR ROLES IN CELL PLATE ASSEMBLY WILL MAKE VARIOUS TRANSFORMATIVE CONTRIBUTIONS TO THE FIELD OF HORMONE SIGNALING AND CYTOKINESIS WHICH WILL OPEN TRANSLATIONAL APPLICATIONS IN BIOMASS CONTROL, AND TARGETED IMPROVEMENTS IN CELL WALL ENGINEERING. THIS PROJECT IS FUNDED BY THE CELLULAR DYNAMICS AND FUNCTION PROGRAM OF THE DIVISION OF MOLECULAR AND CELLULAR BIOLOGY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 1100000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 1100000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1100000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MOLECULAR AND"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MOLECULAR AND"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2028-07-31",
+      "last_modified_date": "2025-08-12",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

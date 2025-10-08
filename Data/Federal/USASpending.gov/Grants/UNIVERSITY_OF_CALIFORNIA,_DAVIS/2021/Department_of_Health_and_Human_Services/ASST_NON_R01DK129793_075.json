@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91175470,
+    "Award ID": "R01DK129793",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3236031,
+    "Total Outlays": 1769408.83,
+    "Description": "IMPACT OF METABOLIC ACIDOSIS ON MUSCLE MITOCHONDRIAL ENERGETICS, METABOLIC HEALTH AND PHYSICAL ENDURANCE IN PERSONS WITH CHRONIC KIDNEY DISEASE - PROJECT SUMMARY AND ABSTRACT  CHRONIC KIDNEY DISEASE (CKD) IS HIGHLY PREVALENT AFFECTING 14% OF THE U.S. POPULATION LEADING TO SUBSTANTIAL MORBIDITY AND REDUCED QUALITY OF LIFE. OLDER ADULTS WITH CKD IDENTIFY MAINTENANCE OF FUNCTIONAL INDEPENDENCE AS THEIR TOP PRIORITY. SKELETAL MUSCLE HEALTH IS CRITICAL FOR MOBILITY AND AN UNDERRECOGNIZED TARGET OF METABOLIC ACIDOSIS (MA) AND PROTEIN ENERGY WASTING IN CKD. SKELETAL MUSCLE ENDURANCE PROVIDES A WINDOW INTO MUSCLE METABOLIC HEALTH AND MUSCLE QUALITY. MUSCLE MITOCHONDRIAL METABOLISM IS CENTRAL TO MUSCLE AND WALKING ENDURANCE PROVIDING ENERGY FROM CARBOHYDRATES AND FATS TO POWER REPEATED MUSCLE CONTRACTION. WE SHOWED METABOLIC ACIDOSIS AND MUSCLE ADIPOSITY AS THE MAJOR DETERMINANTS OF MUSCLE MITOCHONDRIAL FUNCTION.  METABOLIC ACIDOSIS (MA) IS LONG BELIEVED TO BE THE MAIN MECHANISM LEADING TO SKELETAL MUSCLE WASTING AND PERIPHERAL INSULIN RESISTANCE IN CKD. SKELETAL MUSCLE MITOCHONDRIAL METABOLISM IS CONSIDERED A PRINCIPAL DETERMINANT OF PERIPHERAL INSULIN SENSITIVITY AND MUSCLE QUALITY, BUT LITTLE IS KNOWN OF THE IMPACT OF MA ON MUSCLE MITOCHONDRIAL FUNCTION. MUSCLE MITOCHONDRIAL DYSFUNCTION LEADS TO DEFECTIVE LIPID METABOLISM AUGMENTING ADIPOSITY AND LIPOTOXIC INTERMEDIATES RESULTING IN INSULIN RESISTANCE, LOW ENDURANCE, AND MUSCLE ATROPHY. USING IN VIVO 31PHOSPHORUS MAGNETIC RESONANCE SPECTROSCOPY (31P MRS) WE SHOWED THAT THE PRESENCE AND SEVERITY OF CKD IS STRONGLY ASSOCIATED WITH IMPAIRED MUSCLE MITOCHONDRIAL CAPACITY TO GENERATE ATP TRANSLATING INTO POOR WALKING ENDURANCE. WE ALSO SHOWED MA AND MUSCLE ADIPOSITY ARE THE MAJOR DETERMINANTS OF MUSCLE MITOCHONDRIAL FUNCTION. RECENTLY A NON-SODIUM POLYMER (VEVERIMER) SELECTIVELY BINDING HYDROGEN CHLORIDE IN GASTROINTESTINAL TRACT SAFELY IMPROVED SERUM BICARBONATE AND MEANINGFULLY IMPROVED PHYSICAL FUNCTIONING IN A RANDOMIZED CLINICAL TRIAL. DESPITE THE IMPORTANCE OF MITOCHONDRIAL FUNCTION TO MUSCLE HEALTH, IT IS UNKNOWN IF TREATMENT OF MA BENEFITS MUSCLE MITOCHONDRIAL FUNCTION, ADIPOSITY OR ENDURANCE IN CKD.  THE PROPOSED PROJECT WILL USE PRECISE, IN VIVO 31P MRS AND GOLD-STANDARD TESTING OF PERIPHERAL INSULIN SENSITIVITY BY HYPERINSULINEMIC EUGLYCEMIC CLAMP TO PROBE THE PATHOPHYSIOLOGY OF MA AND LOW ENDURANCE IN A CLINICAL TRIAL OF ALKALI THERAPY IN CKD AND MA. WE WILL COMPARE VEVERIMER OR LOW-DOSE SODIUM BICARBONATE TO PLACEBO IN A MULTICENTER RANDOMIZED, DOUBLE-DUMMY PLACEBO-CONTROLLED, CROSS-OVER TRIAL DESIGN IN 102 PERSONS WITH MODERATE-SEVERE CKD AND MA. FIRST, WE WILL TEST THE EFFICACY OF 3-MONTHS OF ALKALI THERAPY COMPARING VEVERIMER OR LOW DOSE SODIUM BICARBONATE VERSUS PLACEBO ON MUSCLE METABOLIC HEALTH IN A RANDOMIZED CROSSOVER TRIAL IN MA. SECOND, TEST THE EFFICACY OF 3-MONTHS OF ALKALI THERAPY COMPARING VEVERIMER OR LOW DOSE SODIUM BICARBONATE VERSUS PLACEBO ON IMPROVING PHYSICAL ENDURANCE IN MA. OUR RATIONALE IS THAT IDENTIFICATION OF THERAPEUTIC TARGETS FOR LOW PHYSICAL ENDURANCE WILL INFORM THE DEVELOPMENT OF PHARMACOLOGIC INTERVENTIONS. LONG TERM, WE EXPECT STRATEGIES TREATING MA WILL IMPROVE EXERCISE TOLERANCE ENABLING EFFECTIVE ENGAGEMENT IN LIFESTYLE INTERVENTIONS IMPROVING QUALITY OF LIFE IN CKD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-08-18",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DK129793_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91175470,
+    "generated_unique_award_id": "ASST_NON_R01DK129793_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "IMPACT OF METABOLIC ACIDOSIS ON MUSCLE MITOCHONDRIAL ENERGETICS, METABOLIC HEALTH AND PHYSICAL ENDURANCE IN PERSONS WITH CHRONIC KIDNEY DISEASE - PROJECT SUMMARY AND ABSTRACT  CHRONIC KIDNEY DISEASE (CKD) IS HIGHLY PREVALENT AFFECTING 14% OF THE U.S. POPULATION LEADING TO SUBSTANTIAL MORBIDITY AND REDUCED QUALITY OF LIFE. OLDER ADULTS WITH CKD IDENTIFY MAINTENANCE OF FUNCTIONAL INDEPENDENCE AS THEIR TOP PRIORITY. SKELETAL MUSCLE HEALTH IS CRITICAL FOR MOBILITY AND AN UNDERRECOGNIZED TARGET OF METABOLIC ACIDOSIS (MA) AND PROTEIN ENERGY WASTING IN CKD. SKELETAL MUSCLE ENDURANCE PROVIDES A WINDOW INTO MUSCLE METABOLIC HEALTH AND MUSCLE QUALITY. MUSCLE MITOCHONDRIAL METABOLISM IS CENTRAL TO MUSCLE AND WALKING ENDURANCE PROVIDING ENERGY FROM CARBOHYDRATES AND FATS TO POWER REPEATED MUSCLE CONTRACTION. WE SHOWED METABOLIC ACIDOSIS AND MUSCLE ADIPOSITY AS THE MAJOR DETERMINANTS OF MUSCLE MITOCHONDRIAL FUNCTION.  METABOLIC ACIDOSIS (MA) IS LONG BELIEVED TO BE THE MAIN MECHANISM LEADING TO SKELETAL MUSCLE WASTING AND PERIPHERAL INSULIN RESISTANCE IN CKD. SKELETAL MUSCLE MITOCHONDRIAL METABOLISM IS CONSIDERED A PRINCIPAL DETERMINANT OF PERIPHERAL INSULIN SENSITIVITY AND MUSCLE QUALITY, BUT LITTLE IS KNOWN OF THE IMPACT OF MA ON MUSCLE MITOCHONDRIAL FUNCTION. MUSCLE MITOCHONDRIAL DYSFUNCTION LEADS TO DEFECTIVE LIPID METABOLISM AUGMENTING ADIPOSITY AND LIPOTOXIC INTERMEDIATES RESULTING IN INSULIN RESISTANCE, LOW ENDURANCE, AND MUSCLE ATROPHY. USING IN VIVO 31PHOSPHORUS MAGNETIC RESONANCE SPECTROSCOPY (31P MRS) WE SHOWED THAT THE PRESENCE AND SEVERITY OF CKD IS STRONGLY ASSOCIATED WITH IMPAIRED MUSCLE MITOCHONDRIAL CAPACITY TO GENERATE ATP TRANSLATING INTO POOR WALKING ENDURANCE. WE ALSO SHOWED MA AND MUSCLE ADIPOSITY ARE THE MAJOR DETERMINANTS OF MUSCLE MITOCHONDRIAL FUNCTION. RECENTLY A NON-SODIUM POLYMER (VEVERIMER) SELECTIVELY BINDING HYDROGEN CHLORIDE IN GASTROINTESTINAL TRACT SAFELY IMPROVED SERUM BICARBONATE AND MEANINGFULLY IMPROVED PHYSICAL FUNCTIONING IN A RANDOMIZED CLINICAL TRIAL. DESPITE THE IMPORTANCE OF MITOCHONDRIAL FUNCTION TO MUSCLE HEALTH, IT IS UNKNOWN IF TREATMENT OF MA BENEFITS MUSCLE MITOCHONDRIAL FUNCTION, ADIPOSITY OR ENDURANCE IN CKD.  THE PROPOSED PROJECT WILL USE PRECISE, IN VIVO 31P MRS AND GOLD-STANDARD TESTING OF PERIPHERAL INSULIN SENSITIVITY BY HYPERINSULINEMIC EUGLYCEMIC CLAMP TO PROBE THE PATHOPHYSIOLOGY OF MA AND LOW ENDURANCE IN A CLINICAL TRIAL OF ALKALI THERAPY IN CKD AND MA. WE WILL COMPARE VEVERIMER OR LOW-DOSE SODIUM BICARBONATE TO PLACEBO IN A MULTICENTER RANDOMIZED, DOUBLE-DUMMY PLACEBO-CONTROLLED, CROSS-OVER TRIAL DESIGN IN 102 PERSONS WITH MODERATE-SEVERE CKD AND MA. FIRST, WE WILL TEST THE EFFICACY OF 3-MONTHS OF ALKALI THERAPY COMPARING VEVERIMER OR LOW DOSE SODIUM BICARBONATE VERSUS PLACEBO ON MUSCLE METABOLIC HEALTH IN A RANDOMIZED CROSSOVER TRIAL IN MA. SECOND, TEST THE EFFICACY OF 3-MONTHS OF ALKALI THERAPY COMPARING VEVERIMER OR LOW DOSE SODIUM BICARBONATE VERSUS PLACEBO ON IMPROVING PHYSICAL ENDURANCE IN MA. OUR RATIONALE IS THAT IDENTIFICATION OF THERAPEUTIC TARGETS FOR LOW PHYSICAL ENDURANCE WILL INFORM THE DEVELOPMENT OF PHARMACOLOGIC INTERVENTIONS. LONG TERM, WE EXPECT STRATEGIES TREATING MA WILL IMPROVE EXERCISE TOLERANCE ENABLING EFFECTIVE ENGAGEMENT IN LIFESTYLE INTERVENTIONS IMPROVING QUALITY OF LIFE IN CKD.",
+    "total_obligation": 3236031,
+    "subaward_count": 4,
+    "total_subaward_amount": 1071327.01,
+    "date_signed": "2021-08-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1769408.83,
+    "total_account_obligation": 3236031,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1769408.83
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3236031
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2021-08-18",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1769408.83
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 170722054,
+    "Award ID": "S10OD036313",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+    "Award Amount": 748908,
+    "Total Outlays": 0,
+    "Description": "REPLACEMENT AND ENHANCEMENT OF CELL SORTING CAPABILITIES AT UCSC - PROJECT SUMMARY/ABSTRACT ESTABLISHED IN 2007, THE FLOW CYTOMETRY CORE FACILITY SERVES ALL RESEARCH PROGRAMS AND FACULTY WITHIN THE PHYSICAL AND BIOLOGICAL SCIENCES DIVISION AND THE DIVISION OF ENGINEERING. IT ALLOWS ACCESS TO HIGH-SPEED FLOW CYTOMETRY-BASED ANALYSIS AND CELL SORTING OF DISSOCIATED CELL POPULATIONS FROM HUMAN SAMPLES, ANIMAL EXPERIMENTS, AND CELL CULTURE STUDIES. THE UCSC CYTOMETRY CORE IS A HIGHLY UTILIZED FACILITY THAT HAS BEEN CRITICAL TO ALL RESEARCH WITHIN THE TWO DIVISIONS MENTIONED ABOVE. OUR CURRENT SORTER, A BD FACS ARIA II, IS OVER 17 YEARS OLD AND BD WILL NO LONGER SUPPORT THE SERVICE CONTRACT FOR THIS MACHINE STARTING 2025. IN ADDITION, RECENT ADVANCES IN FACS TECHNOLOGY HAVE RENDERED IT INCAPABLE OF MEETING STATE-OF-THE-ART RESEARCH NEEDS. THIS THREATENS TO LIMIT CRITICAL ADVANCES IN RESEARCH. TO ADDRESS THESE CHALLENGES THE SENIOR LEADERSHIP ACROSS OUR TWO DIVISIONS HAVE DEVELOPED A COMPREHENSIVE PLAN TO REVITALIZE THE UCSC CYTOMETRY CORE. THE PLAN INVOLVES ACQUIRING THE BD FACSYMPHONY™ S6 HIGH PARAMETER CELL SORTER, A BENCH-TOP HIGH-SPEED CELL SORTER EQUIPPED WITH FIVE LASERS CAPABLE OF ANALYZING UP TO 21 DIFFERENT COLORS PLUS FORWARD AND SIDE SCATTER. THE BD FACSYMPHONY™ S6 WILL BE CONTAINED WITHIN A BIOSAFETY CABINET TO MEET SAFETY AND REGULATORY REQUIREMENTS FOR SORTING CLINICAL SAMPLES. THE BD FACSYMPHONY™ S6 CELL SORTER REPRESENTS A CRUCIAL EARLY STEP IN ADVANCING THE SENIOR LEADERS' VISION TO MODERNIZE THE CYTOMETRY CORE. THIS INSTRUMENT WILL ENSURE THAT RESEARCHERS AT UCSC HAVE ACCESS TO THE CELL SORTING TECHNOLOGY THEY NEED TO CARRY OUT HIGH-IMPACT FUNDED RESEARCH 24 HOURS A DAY, 7 DAYS A WEEK, 365 DAYS A YEAR. WITHOUT THIS INSTRUMENT, THE CYTOMETRY CORE WILL BE UNABLE TO OFFER CELL SORTING, AND THE CLOSEST CELL SORTERS AVAILABLE TO THE CAMPUS ARE OVER AN HOUR AWAY WITH VERY LIMITED AVAILABILITY. ACQUISITION OF THE BD FACSYMPHONY™ S6 CELL SORTER IS THEREFORE ESSENTIAL TO CONTINUING HIGH-IMPACT NIH-FUNDED RESEARCH AT UCSC. INSTRUMENT SUPERVISION, TRAINING, MAINTENANCE SCHEDULING, AND RECHARGE ACCOUNTING FOR USE OF THE PROPOSED INSTRUMENT WILL BE ASSURED BY THE CYTOMETRY CORE FACILITY MANAGER AND GUIDED BY AN ADVISORY COMMITTEE. THE CORE FACILITY MANAGER'S SALARY AND INSTRUMENT OPERATION AND MAINTENANCE COSTS HAVE HISTORICALLY BEEN GUARANTEED BY UCSC AND WILL CONTINUE TO BE BACKED BY UCSC FOR AT LEAST 5 YEARS AFTER THE PURCHASE OF THIS INSTRUMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "VXUFPE4MCZH5",
+    "Recipient Location": {
+      "address_line1": "1156 HIGH ST",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SANTA CRUZ",
+      "congressional_code": "19",
+      "country_name": "UNITED STATES",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1077",
+      "zip5": "95064"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-05-15",
+    "End Date": "2026-05-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "427ea0fd-a29e-756b-4973-911cb119bc8d-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD036313_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 170722054,
+    "generated_unique_award_id": "ASST_NON_S10OD036313_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "REPLACEMENT AND ENHANCEMENT OF CELL SORTING CAPABILITIES AT UCSC - PROJECT SUMMARY/ABSTRACT ESTABLISHED IN 2007, THE FLOW CYTOMETRY CORE FACILITY SERVES ALL RESEARCH PROGRAMS AND FACULTY WITHIN THE PHYSICAL AND BIOLOGICAL SCIENCES DIVISION AND THE DIVISION OF ENGINEERING. IT ALLOWS ACCESS TO HIGH-SPEED FLOW CYTOMETRY-BASED ANALYSIS AND CELL SORTING OF DISSOCIATED CELL POPULATIONS FROM HUMAN SAMPLES, ANIMAL EXPERIMENTS, AND CELL CULTURE STUDIES. THE UCSC CYTOMETRY CORE IS A HIGHLY UTILIZED FACILITY THAT HAS BEEN CRITICAL TO ALL RESEARCH WITHIN THE TWO DIVISIONS MENTIONED ABOVE. OUR CURRENT SORTER, A BD FACS ARIA II, IS OVER 17 YEARS OLD AND BD WILL NO LONGER SUPPORT THE SERVICE CONTRACT FOR THIS MACHINE STARTING 2025. IN ADDITION, RECENT ADVANCES IN FACS TECHNOLOGY HAVE RENDERED IT INCAPABLE OF MEETING STATE-OF-THE-ART RESEARCH NEEDS. THIS THREATENS TO LIMIT CRITICAL ADVANCES IN RESEARCH. TO ADDRESS THESE CHALLENGES THE SENIOR LEADERSHIP ACROSS OUR TWO DIVISIONS HAVE DEVELOPED A COMPREHENSIVE PLAN TO REVITALIZE THE UCSC CYTOMETRY CORE. THE PLAN INVOLVES ACQUIRING THE BD FACSYMPHONY™ S6 HIGH PARAMETER CELL SORTER, A BENCH-TOP HIGH-SPEED CELL SORTER EQUIPPED WITH FIVE LASERS CAPABLE OF ANALYZING UP TO 21 DIFFERENT COLORS PLUS FORWARD AND SIDE SCATTER. THE BD FACSYMPHONY™ S6 WILL BE CONTAINED WITHIN A BIOSAFETY CABINET TO MEET SAFETY AND REGULATORY REQUIREMENTS FOR SORTING CLINICAL SAMPLES. THE BD FACSYMPHONY™ S6 CELL SORTER REPRESENTS A CRUCIAL EARLY STEP IN ADVANCING THE SENIOR LEADERS' VISION TO MODERNIZE THE CYTOMETRY CORE. THIS INSTRUMENT WILL ENSURE THAT RESEARCHERS AT UCSC HAVE ACCESS TO THE CELL SORTING TECHNOLOGY THEY NEED TO CARRY OUT HIGH-IMPACT FUNDED RESEARCH 24 HOURS A DAY, 7 DAYS A WEEK, 365 DAYS A YEAR. WITHOUT THIS INSTRUMENT, THE CYTOMETRY CORE WILL BE UNABLE TO OFFER CELL SORTING, AND THE CLOSEST CELL SORTERS AVAILABLE TO THE CAMPUS ARE OVER AN HOUR AWAY WITH VERY LIMITED AVAILABILITY. ACQUISITION OF THE BD FACSYMPHONY™ S6 CELL SORTER IS THEREFORE ESSENTIAL TO CONTINUING HIGH-IMPACT NIH-FUNDED RESEARCH AT UCSC. INSTRUMENT SUPERVISION, TRAINING, MAINTENANCE SCHEDULING, AND RECHARGE ACCOUNTING FOR USE OF THE PROPOSED INSTRUMENT WILL BE ASSURED BY THE CYTOMETRY CORE FACILITY MANAGER AND GUIDED BY AN ADVISORY COMMITTEE. THE CORE FACILITY MANAGER'S SALARY AND INSTRUMENT OPERATION AND MAINTENANCE COSTS HAVE HISTORICALLY BEEN GUARANTEED BY UCSC AND WILL CONTINUE TO BE BACKED BY UCSC FOR AT LEAST 5 YEARS AFTER THE PURCHASE OF THIS INSTRUMENT.",
+    "total_obligation": 748908,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-05-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 748908,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 748908
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2025-05-15",
+      "end_date": "2026-05-14",
+      "last_modified_date": "2025-05-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "427ea0fd-a29e-756b-4973-911cb119bc8d-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+      "recipient_uei": "VXUFPE4MCZH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SANTA CRUZ",
+        "county_code": "087",
+        "county_name": "SANTA CRUZ",
+        "address_line1": "1156 HIGH ST",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "19",
+        "zip4": "1077",
+        "zip5": "95064",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

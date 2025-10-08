@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91239062,
+    "Award ID": "R01NS119605",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1756914,
+    "Total Outlays": 1193434.18,
+    "Description": "CAVEOLIN-1 CONTRIBUTES TO THE LONG-TERM FUNCTION AND STRUCTURE OF THE NEUROVASCULAR UNIT AFTER JUVENILE CONCUSSION - SUMMARY PROJECT THE MAJORITY OF TRAUMATIC BRAIN INJURY (TBI) IS MILD IN NATURE BUT IS KNOWN TO ELICIT LONG-TERM CONSEQUENCES, INCLUDING EMERGENCE OF DEMENTIA AND ACCELERATED AGE-RELATED DECLINES. THE HIGHEST-AT-RISK GROUP ARE CHILDREN WHOSE BRAINS ARE STILL UNDERGOING DEVELOPMENT. THIS PROPOSAL WILL INVESTIGATE THE SHORT- AND LONG-TERM, CELLULAR AND MOLECULAR CHANGES IN THE BRAIN FOLLOWING JUVENILE MTBI (JMTBI) WITH THE GOAL TO INTELLIGENTLY DEVELOP NEW THERAPEUTIC OPTIONS. CAVEOLIN-1 (CAV-1) IS AN ABUNDANT STRUCTURAL PROTEIN INVOLVED IN CAVEOLAE FORMATION AND CELL SIGNALING WHICH IS EXPRESSED IN CEREBRAL ENDOTHELIAL CELLS AND IN ASTROCYTES, KEY COMPONENTS OF THE NEUROVASCULAR UNIT (NVU). RECENT DEVELOPMENT OF A COMPOUND TO TARGET THE CAVEOLIN SCAFFOLDING DOMAIN (CSD), A COMPLEX THAT COMPARTMENTALIZES STRUCTURAL PROTEINS (E.G. CLAUDIN-5) AND SIGNALING MOLECULES (E.G. ENOS), HAS PROVIDED TOOLS TO EXPLORE THE ROLE OF CAV-1 IN ACQUIRED NEUROLOGICAL DISEASE. AFTER STROKE, WE FOUND INCREASED CAV-1 EXPRESSION AND CAV-AP TREATMENT WAS BENEFICIAL FOR POST-INJURY RECOVERY. HOWEVER, CONSENSUS IS LACKING WHETHER CAV-1 EXHIBITS BENEFICIAL OR DELETERIOUS ACTIONS IN OTHER ACQUIRED BRAIN DISORDERS, SUCH AS JMTBI. OUR MODEL OF JMTBI EXHIBITS ACCELERATED LOSS OF COGNITION ASSOCIATED WITH DECREASED VASCULAR FUNCTION OVER THEIR LIFESPAN. WE THEREFORE WILL TEST THE HYPOTHESIS THAT DYSFUNCTION IN NEUROVASCULAR COUPLING AFTER JMTBI CAN BE PREVENTED BY MODULATION OF CAV-1 SIGNALING, BLUNTING ACCELERATED HIPPOCAMPAL AND CORTICAL AGING. AIM 1 WILL DEMONSTRATE THAT CAV-1 IS CRITICAL FOR MAINTAINING NVU FUNCTIONALITY. WE EXAMINE THE ROLE OF VASCULAR CAV-1 IN MALE \u0026 FEMALE JMTBI MICE IN NORMAL (WT), VASCULAR CAV-1 DEFICIENT MICE (CAV-1-/-) AND IN CAV-AP TREATED MICE. WE BELIEVE THAT JMTBI MICE TREATED WITH CAV-AP WILL EXHIBIT VASCULAR RECOVERY, WHEREAS THE LOSS OF CAV-1 WILL WORSEN NVU OUTCOMES. IN AIM 2 WE WILL EXAMINE HOW CAV- 1 IN REACTIVE ASTROCYTE PROCESSES INFLUENCES PROGRESSION OF JMTBI. WE WILL MODULATE CAV-1 EXPRESSION DIRECTLY IN ASTROCYTES BY INJECTING AAV-GFAP-CAV-1-SHRNA AND AAV-GFAP-SYNCAV-1 IN CONTROL AND INJURED MICE AND QUANTIFY VASCULAR RECOVERY AND BEHAVIORAL OUTCOMES. INCREASED ASTROCYTIC CAV-1 WILL BE ASSOCIATED WITH IMPROVED NVU PROPERTIES AND COGNITIVE OUTCOMES. IN AIM 3 WE WILL EXAMINE MALE \u0026 FEMALE MICE OVER THEIR LIFESPAN AND EXAMINING IF INCREASED CAV-1 BLUNTS ACCELERATED BRAIN AGING THAT WE HAVE OBSERVED AFTER JMTBI. WE WILL ASSESS BEHAVIORAL, NEUROIMAGING AND HISTOLOGICAL OUTCOMES. JMTBI MICE TREATED WITH CAV-AP WILL EXHIBIT IMPROVED OUTCOMES RELATED TO ENHANCED NVU FUNCTION AND INTEGRITY. IN SUM, THE PROPOSED RESEARCH IS A CRITICAL FIRST STEP IN EXAMINING THE ROLE OF CAV-1 IN JMTBI AND IF THERAPEUTIC INTERVENTION CAN LEAD TO ENHANCED NVU STABILITY AND FUNCTION AND THEREBY MODERATE ACCELERATED AGING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-08-01",
+    "End Date": "2024-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS119605_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91239062,
+    "generated_unique_award_id": "ASST_NON_R01NS119605_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAVEOLIN-1 CONTRIBUTES TO THE LONG-TERM FUNCTION AND STRUCTURE OF THE NEUROVASCULAR UNIT AFTER JUVENILE CONCUSSION - SUMMARY PROJECT THE MAJORITY OF TRAUMATIC BRAIN INJURY (TBI) IS MILD IN NATURE BUT IS KNOWN TO ELICIT LONG-TERM CONSEQUENCES, INCLUDING EMERGENCE OF DEMENTIA AND ACCELERATED AGE-RELATED DECLINES. THE HIGHEST-AT-RISK GROUP ARE CHILDREN WHOSE BRAINS ARE STILL UNDERGOING DEVELOPMENT. THIS PROPOSAL WILL INVESTIGATE THE SHORT- AND LONG-TERM, CELLULAR AND MOLECULAR CHANGES IN THE BRAIN FOLLOWING JUVENILE MTBI (JMTBI) WITH THE GOAL TO INTELLIGENTLY DEVELOP NEW THERAPEUTIC OPTIONS. CAVEOLIN-1 (CAV-1) IS AN ABUNDANT STRUCTURAL PROTEIN INVOLVED IN CAVEOLAE FORMATION AND CELL SIGNALING WHICH IS EXPRESSED IN CEREBRAL ENDOTHELIAL CELLS AND IN ASTROCYTES, KEY COMPONENTS OF THE NEUROVASCULAR UNIT (NVU). RECENT DEVELOPMENT OF A COMPOUND TO TARGET THE CAVEOLIN SCAFFOLDING DOMAIN (CSD), A COMPLEX THAT COMPARTMENTALIZES STRUCTURAL PROTEINS (E.G. CLAUDIN-5) AND SIGNALING MOLECULES (E.G. ENOS), HAS PROVIDED TOOLS TO EXPLORE THE ROLE OF CAV-1 IN ACQUIRED NEUROLOGICAL DISEASE. AFTER STROKE, WE FOUND INCREASED CAV-1 EXPRESSION AND CAV-AP TREATMENT WAS BENEFICIAL FOR POST-INJURY RECOVERY. HOWEVER, CONSENSUS IS LACKING WHETHER CAV-1 EXHIBITS BENEFICIAL OR DELETERIOUS ACTIONS IN OTHER ACQUIRED BRAIN DISORDERS, SUCH AS JMTBI. OUR MODEL OF JMTBI EXHIBITS ACCELERATED LOSS OF COGNITION ASSOCIATED WITH DECREASED VASCULAR FUNCTION OVER THEIR LIFESPAN. WE THEREFORE WILL TEST THE HYPOTHESIS THAT DYSFUNCTION IN NEUROVASCULAR COUPLING AFTER JMTBI CAN BE PREVENTED BY MODULATION OF CAV-1 SIGNALING, BLUNTING ACCELERATED HIPPOCAMPAL AND CORTICAL AGING. AIM 1 WILL DEMONSTRATE THAT CAV-1 IS CRITICAL FOR MAINTAINING NVU FUNCTIONALITY. WE EXAMINE THE ROLE OF VASCULAR CAV-1 IN MALE \u0026 FEMALE JMTBI MICE IN NORMAL (WT), VASCULAR CAV-1 DEFICIENT MICE (CAV-1-/-) AND IN CAV-AP TREATED MICE. WE BELIEVE THAT JMTBI MICE TREATED WITH CAV-AP WILL EXHIBIT VASCULAR RECOVERY, WHEREAS THE LOSS OF CAV-1 WILL WORSEN NVU OUTCOMES. IN AIM 2 WE WILL EXAMINE HOW CAV- 1 IN REACTIVE ASTROCYTE PROCESSES INFLUENCES PROGRESSION OF JMTBI. WE WILL MODULATE CAV-1 EXPRESSION DIRECTLY IN ASTROCYTES BY INJECTING AAV-GFAP-CAV-1-SHRNA AND AAV-GFAP-SYNCAV-1 IN CONTROL AND INJURED MICE AND QUANTIFY VASCULAR RECOVERY AND BEHAVIORAL OUTCOMES. INCREASED ASTROCYTIC CAV-1 WILL BE ASSOCIATED WITH IMPROVED NVU PROPERTIES AND COGNITIVE OUTCOMES. IN AIM 3 WE WILL EXAMINE MALE \u0026 FEMALE MICE OVER THEIR LIFESPAN AND EXAMINING IF INCREASED CAV-1 BLUNTS ACCELERATED BRAIN AGING THAT WE HAVE OBSERVED AFTER JMTBI. WE WILL ASSESS BEHAVIORAL, NEUROIMAGING AND HISTOLOGICAL OUTCOMES. JMTBI MICE TREATED WITH CAV-AP WILL EXHIBIT IMPROVED OUTCOMES RELATED TO ENHANCED NVU FUNCTION AND INTEGRITY. IN SUM, THE PROPOSED RESEARCH IS A CRITICAL FIRST STEP IN EXAMINING THE ROLE OF CAV-1 IN JMTBI AND IF THERAPEUTIC INTERVENTION CAN LEAD TO ENHANCED NVU STABILITY AND FUNCTION AND THEREBY MODERATE ACCELERATED AGING.",
+    "total_obligation": 1756914,
+    "subaward_count": 2,
+    "total_subaward_amount": 319246,
+    "date_signed": "2021-07-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1193434.18,
+    "total_account_obligation": 1756914,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1193434.18
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1756914
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2021-08-01",
+      "end_date": "2024-03-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1193434.18
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717952,
+    "Award ID": "S10OD036449",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 634038,
+    "Total Outlays": 634038,
+    "Description": "BD FACSYMPHONY S6 - SUMMARY/ABSTRACT THIS PROPOSAL REQUESTS FUNDS TO PURCHASE A BD FACSYMPHONY S6 FLOW CYTOMETRIC SORTER TO BE HOUSED IN AN ACTIVE AND ESTABLISHED CORE, THE FLOW CYTOMETRY CORE AT THE CALIFORNIA NATIONAL PRIMATE RESEARCH CENTER (CNPRC). THE CNPRC IS ONE OF SEVEN NATIONAL DESIGNATED PRIMATE RESEARCH CENTERS. LOCAL, REGIONAL, AND NATIONAL INVESTIGATORS PURSUE TRANSLATIONAL RESEARCH AT CNPRC THAT IS RELEVANT TO IMMUNOLOGY, INFECTIOUS DISEASE, GENE THERAPY AND SOMATIC CELL GENOME EDITING, REGENERATIVE MEDICINE AND STEM CELL TRANSPLANTATION, CARDIOVASCULAR DISEASE, CANCER, AND NEURODEVELOPMENT. THE INSTRUMENT IS REQUESTED TO SUPPORT \u003e20 CURRENT NIH-FUNDED RESEARCH PROJECTS FROM 6 MAJOR USERS AND 11 MINOR USERS, AS WELL AS PENDING AND FUTURE NIH- FUNDED RESEARCH, THAT SPANS BASIC, TRANSLATIONAL, AND EVEN CLINICAL RESEARCH. THESE PROJECTS INCLUDE STUDIES OF THERAPEUTIC HIV VACCINES, SIV PATHOGENESIS, GENOME EDITING, RETINAL GENE THERAPY, TISSUE-TARGETED AAV VECTORS, AND EVEN A PHASE-1/2A HUMAN CLINICAL TRIAL OF A NEXT-GENERATION COVID VACCINE CANDIDATE, FOR WHICH MECHANISTIC IMMUNOLOGIC ANALYSIS WILL BE PERFORMED AT UC DAVIS. ALL THESE STUDIES AND INDEED MUCH OF MODERN BIOMEDICINE REQUIRES THE ABILITY TO SEPARATELY STUDY FUNCTIONS OF SPECIFIC CELL TYPES, OR EVEN INDIVIDUAL CELLS. TO PERFORM SUCH STUDIES REPRODUCIBLY AND AT AN ADEQUATE QUALITY LEVEL, FURTHERMORE, REQUIRES AN INSTRUMENT THAT IS CONSISTENTLY CHECKED AND MAINTAINED, AND ONE THAT SHOULD BE UNDER SERVICE CONTRACT. THE BD FACSYMPHONY S6 FLOW CYTOMETRIC SORTER WILL SERVE THE INCREASING NUMBER OF SAMPLES OF OUR USERS THAT ARE CURRENTLY STRESSING A \u003e20-YEAR-OLD FACSARIA FLOW SORTER. THE FACSARIA WAS PURCHASED USING INSTITUTIONAL FUNDS AND HAS BEEN SUCCESSFULLY MAINTAINED FOR AN EXTRAORDINARILY LONG SERVICEABLE LIFETIME, AND WAS UNDER SERVICE CONTRACT CONTINUOUSLY UNTIL BD NO LONGER OFFERED THE CONTRACT. HOWEVER, THE AGE AND WIDE USE OF THE OLDER INSTRUMENT IMPACTS AVAILABILITY TO THE EXPANDING NIH-FUNDED RESEARCH OF OUR MAJOR USERS. TOGETHER, THESE CONSTRAINTS ARE HAMPERING THE PROGRESS OF NIH- FUNDED PROJECTS IN THEIR LABORATORIES AS WELL AS EFFORTS OF THEIR COLLABORATORS. THE FACSYMPHONY S6, WITH ITS GREATER SELECTION OF CHANNELS MATCHED TO THOSE IN OUR ANALYTIC CYTOMETERS, BETTER ROBUSTNESS, MORE CONSISTENT MAINTENANCE, AND HIGHER LASER POWER, WILL SIGNIFICANTLY ADVANCE OUR MAJOR AND MINOR USERS’ PURSUITS OF NOVEL MECHANISTIC INSIGHTS. WE WILL INTEGRATE THIS INSTRUMENT INTO AN EXISTING CNPRC CORE FACILITY, THE FLOW CYTOMETRY CORE, WHICH IS MAINTAINED BY UC DAVIS AND CNPRC WITH SIGNIFICANT INFRASTRUCTURE AND OVERSIGHT AND ADVISORY COMMITTEES. THE EXISTING INFRASTRUCTURE WILL INTEGRATE THE OPERATION, MAINTENANCE AND MANAGEMENT OF THE PROPOSED INSTRUMENT WHICH WILL, IN TURN, STIMULATE NEW RESEARCH PROJECTS AND INNOVATIONS FOR MANY YEARS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-01",
+    "End Date": "2025-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD036449_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717952,
+    "generated_unique_award_id": "ASST_NON_S10OD036449_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "BD FACSYMPHONY S6 - SUMMARY/ABSTRACT THIS PROPOSAL REQUESTS FUNDS TO PURCHASE A BD FACSYMPHONY S6 FLOW CYTOMETRIC SORTER TO BE HOUSED IN AN ACTIVE AND ESTABLISHED CORE, THE FLOW CYTOMETRY CORE AT THE CALIFORNIA NATIONAL PRIMATE RESEARCH CENTER (CNPRC). THE CNPRC IS ONE OF SEVEN NATIONAL DESIGNATED PRIMATE RESEARCH CENTERS. LOCAL, REGIONAL, AND NATIONAL INVESTIGATORS PURSUE TRANSLATIONAL RESEARCH AT CNPRC THAT IS RELEVANT TO IMMUNOLOGY, INFECTIOUS DISEASE, GENE THERAPY AND SOMATIC CELL GENOME EDITING, REGENERATIVE MEDICINE AND STEM CELL TRANSPLANTATION, CARDIOVASCULAR DISEASE, CANCER, AND NEURODEVELOPMENT. THE INSTRUMENT IS REQUESTED TO SUPPORT \u003e20 CURRENT NIH-FUNDED RESEARCH PROJECTS FROM 6 MAJOR USERS AND 11 MINOR USERS, AS WELL AS PENDING AND FUTURE NIH- FUNDED RESEARCH, THAT SPANS BASIC, TRANSLATIONAL, AND EVEN CLINICAL RESEARCH. THESE PROJECTS INCLUDE STUDIES OF THERAPEUTIC HIV VACCINES, SIV PATHOGENESIS, GENOME EDITING, RETINAL GENE THERAPY, TISSUE-TARGETED AAV VECTORS, AND EVEN A PHASE-1/2A HUMAN CLINICAL TRIAL OF A NEXT-GENERATION COVID VACCINE CANDIDATE, FOR WHICH MECHANISTIC IMMUNOLOGIC ANALYSIS WILL BE PERFORMED AT UC DAVIS. ALL THESE STUDIES AND INDEED MUCH OF MODERN BIOMEDICINE REQUIRES THE ABILITY TO SEPARATELY STUDY FUNCTIONS OF SPECIFIC CELL TYPES, OR EVEN INDIVIDUAL CELLS. TO PERFORM SUCH STUDIES REPRODUCIBLY AND AT AN ADEQUATE QUALITY LEVEL, FURTHERMORE, REQUIRES AN INSTRUMENT THAT IS CONSISTENTLY CHECKED AND MAINTAINED, AND ONE THAT SHOULD BE UNDER SERVICE CONTRACT. THE BD FACSYMPHONY S6 FLOW CYTOMETRIC SORTER WILL SERVE THE INCREASING NUMBER OF SAMPLES OF OUR USERS THAT ARE CURRENTLY STRESSING A \u003e20-YEAR-OLD FACSARIA FLOW SORTER. THE FACSARIA WAS PURCHASED USING INSTITUTIONAL FUNDS AND HAS BEEN SUCCESSFULLY MAINTAINED FOR AN EXTRAORDINARILY LONG SERVICEABLE LIFETIME, AND WAS UNDER SERVICE CONTRACT CONTINUOUSLY UNTIL BD NO LONGER OFFERED THE CONTRACT. HOWEVER, THE AGE AND WIDE USE OF THE OLDER INSTRUMENT IMPACTS AVAILABILITY TO THE EXPANDING NIH-FUNDED RESEARCH OF OUR MAJOR USERS. TOGETHER, THESE CONSTRAINTS ARE HAMPERING THE PROGRESS OF NIH- FUNDED PROJECTS IN THEIR LABORATORIES AS WELL AS EFFORTS OF THEIR COLLABORATORS. THE FACSYMPHONY S6, WITH ITS GREATER SELECTION OF CHANNELS MATCHED TO THOSE IN OUR ANALYTIC CYTOMETERS, BETTER ROBUSTNESS, MORE CONSISTENT MAINTENANCE, AND HIGHER LASER POWER, WILL SIGNIFICANTLY ADVANCE OUR MAJOR AND MINOR USERS’ PURSUITS OF NOVEL MECHANISTIC INSIGHTS. WE WILL INTEGRATE THIS INSTRUMENT INTO AN EXISTING CNPRC CORE FACILITY, THE FLOW CYTOMETRY CORE, WHICH IS MAINTAINED BY UC DAVIS AND CNPRC WITH SIGNIFICANT INFRASTRUCTURE AND OVERSIGHT AND ADVISORY COMMITTEES. THE EXISTING INFRASTRUCTURE WILL INTEGRATE THE OPERATION, MAINTENANCE AND MANAGEMENT OF THE PROPOSED INSTRUMENT WHICH WILL, IN TURN, STIMULATE NEW RESEARCH PROJECTS AND INNOVATIONS FOR MANY YEARS.",
+    "total_obligation": 634038,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-08-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 634038,
+    "total_account_obligation": 634038,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 634038
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 634038
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-01",
+      "end_date": "2025-08-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 634038
+  }
+}

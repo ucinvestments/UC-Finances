@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91123219,
+    "Award ID": "R01AG070647",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2388836.61,
+    "Total Outlays": 1365940.72,
+    "Description": "THE STUDY OF MUSCLE, MOBILITY AND AGING WITH KNEE OA - DETERIORATION OF MUSCULOSKELETAL TISSUES WITH AGE RESULTS IN OSTEOARTHRITIS, REDUCED MOBILITY, AND INCREASED DISABILITY. OSTEOARTHRITIS (OA) FREQUENTLY AFFECTS THE KNEE AND IS THE LEADING CAUSE OF DISABILITY WORLDWIDE. POOR MUSCLE CHARACTERISTICS ARE ASSOCIATED WITH KNEE OA (KOA) AND CROSS-SECTIONAL COMPARISONS OF HEALTHY CONTROLS AND KOA SUBJECTS SHOW DIFFERENCES IN MUSCLE COMPOSITION, QUADRICEPS MUSCLE STRENGTH AND POWER. A FEW, SMALL CROSS-SECTIONAL STUDIES HAVE ALSO RIGOROUSLY INVESTIGATED MUSCLE QUALITIES ASSOCIATED WITH REDUCED MOBILITY IN OLDER ADULTS, INDEPENDENT OF KOA, AND REPORTED REDUCED MUSCLE MASS, DECREASED ABILITY TO GENERATE ATP, DENERVATION, OXIDATIVE DAMAGE, AND DECREASED AUTOPHAGY. HOWEVER, THESE CLINICAL STUDIES HAVE BEEN SMALL, ONLY CROSS-SECTIONAL, AND OFTEN DID NOT INCLUDE INDIVIDUALS AT RISK FOR IMMOBILITY OR DOCUMENTED KOA. HOW THESE MUSCLE QUALITIES CHANGE WITH KOA IS NOT KNOWN AND REPRESENTS A ROADBLOCK TO UNDERSTANDING REDUCED MOBILITY AND INCREASED DISABILITY IN KOA. THE NIA/NIH RECENTLY FUNDED A STUDY OF MUSCLE, MOBILITY AND AGING (SOMMA), WHICH JUST BEGAN ENROLLING 875 INTERMEDIATE FUNCTIONING, ETHNICALLY DIVERSE WOMEN AND MEN AGE \u003e=70YRS. AT TWO CENTERS. THE SOMMA STUDY AIMS TO 1) UNDERSTAND THE CONTRIBUTIONS OF SKELETAL MUSCLE MASS, ENERGETICS, AND KEY PROPERTIES OF MUSCLE TISSUE FROM BIOPSIES TO MAJOR IMMOBILITY AND DISABILITY; AND 2) PRODUCE A UNIQUE BANK OF MUSCLE TISSUE, BLOOD, GENE EXPRESSION DATA, AND CLINICAL PHENOTYPING TO BE USED BY THE SCIENTIFIC COMMUNITY. WE PROPOSE TO OBTAIN KNEE RADIOGRAPHS AT THE FIRST SOMMA FOLLOW-UP VISIT TO UNDERSTAND THE CONTRIBUTIONS OF SKELETAL MUSCLE MASS AND COMPOSITION THAT LEADS TO REDUCED MOBILITY AND DISABILITY IN KOA SUBJECTS AND IF THIS DIFFERS FROM SUBJECTS WITHOUT KOA. THE SPECIFIC AIMS ARE: AIM 1A: WE WILL USE STATE OF THE ART MEASUREMENTS TO TEST THE HYPOTHESIS THAT MUSCLE PROPERTIES (STRENGTH, MASS, COMPOSITION, ENERGETICS- ATPMAX) DIFFER IN SUBJECTS WITH KOA COMPARED TO INDIVIDUALS WITHOUT KOA, AND WILL PERFORM SEPARATE ANALYSES FOR RADIOGRAPHIC KOA (REGARDLESS OF KNEE PAIN) AND SYMPTOMATIC KOA IN PERSONS WITH RADIOGRAPHIC OA AND FREQUENT KNEE PAIN. AIM 1B: WE WILL USE MUSCLE PROPERTIES (STRENGTH, MASS, COMPOSITION, ENERGETICS-ATPMAX) TO DEFINE MUSCLE PHENOTYPES TO TEST THE HYPOTHESIS THAT THERE ARE MUSCLE PHENOTYPES ASSOCIATED WITH KOA AND KOA AND PAIN. AIM 2: WE WILL TEST THE HYPOTHESIS THAT PERSONS WITH RADIOGRAPHIC KOA AND SYMPTOMATIC KOA WILL HAVE WORSE MOBILITY AND FUNCTIONAL OUTCOMES (400M WALKING SPEED AND MOBILITY ASSESSMENT TOOL- SHORT FORM, MAT-SF DISABILITY) THAN THOSE WITHOUT KOA AND THAT THIS DIFFERENCE IS MEDIATED IN PART BY SPECIFIC MUSCLE CHARACTERISTICS. OUR GOAL IS TO DETERMINE WHAT COMBINATION OF MUSCLE PROPERTIES ARE ASSOCIATED WITH FUNCTION IN KOA SUBJECTS AND USE THE INFORMATION TO DESIGN NOVEL MUSCLE-BASED TREATMENTS TO HELP SUBJECTS WITH KOA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172200",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-09-01",
+    "End Date": "2027-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG070647_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91123219,
+    "generated_unique_award_id": "ASST_NON_R01AG070647_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE STUDY OF MUSCLE, MOBILITY AND AGING WITH KNEE OA - DETERIORATION OF MUSCULOSKELETAL TISSUES WITH AGE RESULTS IN OSTEOARTHRITIS, REDUCED MOBILITY, AND INCREASED DISABILITY. OSTEOARTHRITIS (OA) FREQUENTLY AFFECTS THE KNEE AND IS THE LEADING CAUSE OF DISABILITY WORLDWIDE. POOR MUSCLE CHARACTERISTICS ARE ASSOCIATED WITH KNEE OA (KOA) AND CROSS-SECTIONAL COMPARISONS OF HEALTHY CONTROLS AND KOA SUBJECTS SHOW DIFFERENCES IN MUSCLE COMPOSITION, QUADRICEPS MUSCLE STRENGTH AND POWER. A FEW, SMALL CROSS-SECTIONAL STUDIES HAVE ALSO RIGOROUSLY INVESTIGATED MUSCLE QUALITIES ASSOCIATED WITH REDUCED MOBILITY IN OLDER ADULTS, INDEPENDENT OF KOA, AND REPORTED REDUCED MUSCLE MASS, DECREASED ABILITY TO GENERATE ATP, DENERVATION, OXIDATIVE DAMAGE, AND DECREASED AUTOPHAGY. HOWEVER, THESE CLINICAL STUDIES HAVE BEEN SMALL, ONLY CROSS-SECTIONAL, AND OFTEN DID NOT INCLUDE INDIVIDUALS AT RISK FOR IMMOBILITY OR DOCUMENTED KOA. HOW THESE MUSCLE QUALITIES CHANGE WITH KOA IS NOT KNOWN AND REPRESENTS A ROADBLOCK TO UNDERSTANDING REDUCED MOBILITY AND INCREASED DISABILITY IN KOA. THE NIA/NIH RECENTLY FUNDED A STUDY OF MUSCLE, MOBILITY AND AGING (SOMMA), WHICH JUST BEGAN ENROLLING 875 INTERMEDIATE FUNCTIONING, ETHNICALLY DIVERSE WOMEN AND MEN AGE \u003e=70YRS. AT TWO CENTERS. THE SOMMA STUDY AIMS TO 1) UNDERSTAND THE CONTRIBUTIONS OF SKELETAL MUSCLE MASS, ENERGETICS, AND KEY PROPERTIES OF MUSCLE TISSUE FROM BIOPSIES TO MAJOR IMMOBILITY AND DISABILITY; AND 2) PRODUCE A UNIQUE BANK OF MUSCLE TISSUE, BLOOD, GENE EXPRESSION DATA, AND CLINICAL PHENOTYPING TO BE USED BY THE SCIENTIFIC COMMUNITY. WE PROPOSE TO OBTAIN KNEE RADIOGRAPHS AT THE FIRST SOMMA FOLLOW-UP VISIT TO UNDERSTAND THE CONTRIBUTIONS OF SKELETAL MUSCLE MASS AND COMPOSITION THAT LEADS TO REDUCED MOBILITY AND DISABILITY IN KOA SUBJECTS AND IF THIS DIFFERS FROM SUBJECTS WITHOUT KOA. THE SPECIFIC AIMS ARE: AIM 1A: WE WILL USE STATE OF THE ART MEASUREMENTS TO TEST THE HYPOTHESIS THAT MUSCLE PROPERTIES (STRENGTH, MASS, COMPOSITION, ENERGETICS- ATPMAX) DIFFER IN SUBJECTS WITH KOA COMPARED TO INDIVIDUALS WITHOUT KOA, AND WILL PERFORM SEPARATE ANALYSES FOR RADIOGRAPHIC KOA (REGARDLESS OF KNEE PAIN) AND SYMPTOMATIC KOA IN PERSONS WITH RADIOGRAPHIC OA AND FREQUENT KNEE PAIN. AIM 1B: WE WILL USE MUSCLE PROPERTIES (STRENGTH, MASS, COMPOSITION, ENERGETICS-ATPMAX) TO DEFINE MUSCLE PHENOTYPES TO TEST THE HYPOTHESIS THAT THERE ARE MUSCLE PHENOTYPES ASSOCIATED WITH KOA AND KOA AND PAIN. AIM 2: WE WILL TEST THE HYPOTHESIS THAT PERSONS WITH RADIOGRAPHIC KOA AND SYMPTOMATIC KOA WILL HAVE WORSE MOBILITY AND FUNCTIONAL OUTCOMES (400M WALKING SPEED AND MOBILITY ASSESSMENT TOOL- SHORT FORM, MAT-SF DISABILITY) THAN THOSE WITHOUT KOA AND THAT THIS DIFFERENCE IS MEDIATED IN PART BY SPECIFIC MUSCLE CHARACTERISTICS. OUR GOAL IS TO DETERMINE WHAT COMBINATION OF MUSCLE PROPERTIES ARE ASSOCIATED WITH FUNCTION IN KOA SUBJECTS AND USE THE INFORMATION TO DESIGN NOVEL MUSCLE-BASED TREATMENTS TO HELP SUBJECTS WITH KOA.",
+    "total_obligation": 2388836.61,
+    "subaward_count": 6,
+    "total_subaward_amount": 256675,
+    "date_signed": "2021-08-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1365940.72,
+    "total_account_obligation": 2388836.61,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1365940.72
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2388836.61
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-01",
+      "end_date": "2027-05-31",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2200",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1365940.72
+  }
+}

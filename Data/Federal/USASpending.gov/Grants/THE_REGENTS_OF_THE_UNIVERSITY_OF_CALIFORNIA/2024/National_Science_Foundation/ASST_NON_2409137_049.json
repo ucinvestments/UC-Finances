@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57460258,
+    "Award ID": "2409137",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 2500000,
+    "Total Outlays": 26003.27,
+    "Description": "LOUIS STOKES STEM PATHWAYS AND RESEARCH ALLIANCE: UNIVERSITY OF CALIFORNIA LOUIS STOKES ALLIANCE FOR MINORITY PARTICIPATION (CAMP) -THE LOUIS STOKES ALLIANCES FOR MINORITY PARTICIPATION (LSAMP) PROGRAM ASSISTS UNIVERSITIES AND COLLEGES IN THEIR EFFORTS TO SIGNIFICANTLY INCREASE THE NUMBERS OF STUDENTS MATRICULATING INTO AND SUCCESSFULLY COMPLETING HIGH QUALITY DEGREE PROGRAMS IN SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (STEM) DISCIPLINES IN ORDER TO DIVERSIFY THE STEM WORKFORCE AND SUPPORTS THE PRODUCTION OF SCHOLARLY RESEARCH IN STEM BROADENING PARTICIPATION. PARTICULAR EMPHASIS IS PLACED ON TRANSFORMING UNDERGRADUATE STEM EDUCATION THROUGH INNOVATIVE, EVIDENCE-BASED RECRUITMENT AND RETENTION STRATEGIES, AND RELEVANT EDUCATIONAL EXPERIENCES IN SUPPORT OF RACIAL AND ETHNIC GROUPS UNDERREPRESENTED IN STEM DISCIPLINES: BLACKS AND AFRICAN AMERICANS, HISPANIC AND LATINO AMERICANS, AMERICAN INDIANS, ALASKA NATIVES, NATIVE HAWAIIANS, AND NATIVE PACIFIC ISLANDERS. THESE STRATEGIES FACILITATE THE PRODUCTION OF HIGHLY COMPETITIVE STUDENTS MOTIVATED TO PURSUE GRADUATE EDUCATION OR CAREERS IN STEM. FOR THE UNITED STATES (U.S.) TO REMAIN GLOBALLY COMPETITIVE, IT IS VITAL THAT IT TAPS INTO THE TALENT OF ALL ITS CITIZENS AND PROVIDES EXCEPTIONAL EDUCATIONAL PREPAREDNESS IN STEM AREAS THAT UNDERPIN THE KNOWLEDGE-BASED ECONOMY. THE CALIFORNIA LSAMP ALLIANCE CONSISTS OF NINE CAMPUSES IN THE UNIVERSITY OF CALIFORNIA SYSTEM WITH AN OVERALL GOAL TO SIGNIFICANTLY INCREASE THE NUMBER OF UNDERGRADUATES FROM UNDERREPRESENTED POPULATIONS WHO GRADUATE FROM UC CAMPUSES OVER THE PROJECT PERIOD AND TO PROVIDE TRAINING FOR 21ST CENTURY STEM CAREERS OR FOR GRADUATE STUDY AND RESEARCH. A MAJOR INSTITUTIONALIZATION WILL OCCUR DURING THIS PROJECT PERIOD IS TO BROADEN THE SCOPE OF CAMP TO INCLUDE CLOSE CONTACT WITH OTHER UCOP DIVERSITY PROGRAMS PROVIDING STUDENTS WITH OPPORTUNITIES THAT WILL INCREASE RETENTION AND GRADUATION RATES. IN ADDITION, THE PROJECT WILL EMPLOY A MAJOR FOCUSED EFFORT INTO INCREASING THE NUMBER OF COMMUNITY COLLEGE STUDENTS WHO TRANSFER AND GRADUATE WITH B.S. DEGREES FROM UC STEM DISCIPLINES, AS THIS TRANSFER RATE IS A GAP IN THE URM STEM STUDENT INTAKE AT UC. ACTIVITIES WILL INCLUDE FACULTY-MENTORED RESEARCH EXPERIENCES, USING A SYSTEM WIDE RESEARCH PORTAL MODEL TO OPEN OPPORTUNITIES BETWEEN AND AMONG CAMPUSES, INCLUDING TO COMMUNITY COLLEGE STUDENTS INTENDING TO TRANSFER. THE RESEARCH COMPONENT AND A MAJOR EXTERNAL ASSESSMENT COMPONENT TO ENSURE HONEST EVALUATION OF THE SUCCESSES AND SHORTFALLS IN THE PROGRAM AND IN THE NETWORK OF CAMPUSES IN THE ALLIANCE. THE CALIFORNIA ALLIANCE WILL INSTITUTIONALIZE ITS CAMP PROGRAM ALLIANCE TO PROVIDE SYSTEM WIDE COVERAGE AND COHESION TO STEM DIVERSITY EFFORTS AT THE UC. IT WILL CONTINUE TO PROVIDE EVIDENCE FOR INSTITUTIONAL CHANGE AND WILL SERVE AS A NATIONAL ENGINE OF INCREASED NUMBERS OF MINORITIZED UNDERGRADUATES WHO SUCCESSFULLY COMPLETE STEM DEGREES. ALLIANCE PARTNERS WILL SHARE INFORMATION WITH THE EXTERNAL EVALUATORS AND THE EDUCATIONAL RESEARCHER WHO WILL ANALYZE AND DISSEMINATE THE FINDINGS THROUGH PRESENTATIONS AT PROFESSIONAL MEETINGS, PUBLICATIONS IN PEER REVIEWED JOURNALS, AND VARIOUS CYBER-BASED OPPORTUNITIES. FINDINGS WILL ULTIMATELY RESULT IN SHARING BEST PRACTICES WITH COLLEGES AND UNIVERSITIES, AS WELL AS ALL LSAMP PROGRAMS, AROUND THE COUNTRY. A SYSTEM WIDE LSAMP WEBSITE WILL BE BOTH A REPOSITORY FOR FINDINGS AND INFORMATION AND A PORTAL FOR OPPORTUNITIES ACROSS THE ALLIANCE AND INTO PARTNER INSTITUTIONS ACROSS THE STATE. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "PKK5TD16N4H1",
+    "Recipient Location": {
+      "address_line1": "1111 FRANKLIN ST FL 8",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "OAKLAND",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5201",
+      "zip5": "94607"
+    },
+    "Primary Place of Performance": {
+      "city_name": "OAKLAND",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94607-5201",
+      "zip5": "94607"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-12-01",
+    "End Date": "2029-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9df6f273-648d-cf72-c4ef-346f414c585c-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2409137_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57460258,
+    "generated_unique_award_id": "ASST_NON_2409137_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "LOUIS STOKES STEM PATHWAYS AND RESEARCH ALLIANCE: UNIVERSITY OF CALIFORNIA LOUIS STOKES ALLIANCE FOR MINORITY PARTICIPATION (CAMP) -THE LOUIS STOKES ALLIANCES FOR MINORITY PARTICIPATION (LSAMP) PROGRAM ASSISTS UNIVERSITIES AND COLLEGES IN THEIR EFFORTS TO SIGNIFICANTLY INCREASE THE NUMBERS OF STUDENTS MATRICULATING INTO AND SUCCESSFULLY COMPLETING HIGH QUALITY DEGREE PROGRAMS IN SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (STEM) DISCIPLINES IN ORDER TO DIVERSIFY THE STEM WORKFORCE AND SUPPORTS THE PRODUCTION OF SCHOLARLY RESEARCH IN STEM BROADENING PARTICIPATION. PARTICULAR EMPHASIS IS PLACED ON TRANSFORMING UNDERGRADUATE STEM EDUCATION THROUGH INNOVATIVE, EVIDENCE-BASED RECRUITMENT AND RETENTION STRATEGIES, AND RELEVANT EDUCATIONAL EXPERIENCES IN SUPPORT OF RACIAL AND ETHNIC GROUPS UNDERREPRESENTED IN STEM DISCIPLINES: BLACKS AND AFRICAN AMERICANS, HISPANIC AND LATINO AMERICANS, AMERICAN INDIANS, ALASKA NATIVES, NATIVE HAWAIIANS, AND NATIVE PACIFIC ISLANDERS. THESE STRATEGIES FACILITATE THE PRODUCTION OF HIGHLY COMPETITIVE STUDENTS MOTIVATED TO PURSUE GRADUATE EDUCATION OR CAREERS IN STEM. FOR THE UNITED STATES (U.S.) TO REMAIN GLOBALLY COMPETITIVE, IT IS VITAL THAT IT TAPS INTO THE TALENT OF ALL ITS CITIZENS AND PROVIDES EXCEPTIONAL EDUCATIONAL PREPAREDNESS IN STEM AREAS THAT UNDERPIN THE KNOWLEDGE-BASED ECONOMY. THE CALIFORNIA LSAMP ALLIANCE CONSISTS OF NINE CAMPUSES IN THE UNIVERSITY OF CALIFORNIA SYSTEM WITH AN OVERALL GOAL TO SIGNIFICANTLY INCREASE THE NUMBER OF UNDERGRADUATES FROM UNDERREPRESENTED POPULATIONS WHO GRADUATE FROM UC CAMPUSES OVER THE PROJECT PERIOD AND TO PROVIDE TRAINING FOR 21ST CENTURY STEM CAREERS OR FOR GRADUATE STUDY AND RESEARCH. A MAJOR INSTITUTIONALIZATION WILL OCCUR DURING THIS PROJECT PERIOD IS TO BROADEN THE SCOPE OF CAMP TO INCLUDE CLOSE CONTACT WITH OTHER UCOP DIVERSITY PROGRAMS PROVIDING STUDENTS WITH OPPORTUNITIES THAT WILL INCREASE RETENTION AND GRADUATION RATES. IN ADDITION, THE PROJECT WILL EMPLOY A MAJOR FOCUSED EFFORT INTO INCREASING THE NUMBER OF COMMUNITY COLLEGE STUDENTS WHO TRANSFER AND GRADUATE WITH B.S. DEGREES FROM UC STEM DISCIPLINES, AS THIS TRANSFER RATE IS A GAP IN THE URM STEM STUDENT INTAKE AT UC. ACTIVITIES WILL INCLUDE FACULTY-MENTORED RESEARCH EXPERIENCES, USING A SYSTEM WIDE RESEARCH PORTAL MODEL TO OPEN OPPORTUNITIES BETWEEN AND AMONG CAMPUSES, INCLUDING TO COMMUNITY COLLEGE STUDENTS INTENDING TO TRANSFER. THE RESEARCH COMPONENT AND A MAJOR EXTERNAL ASSESSMENT COMPONENT TO ENSURE HONEST EVALUATION OF THE SUCCESSES AND SHORTFALLS IN THE PROGRAM AND IN THE NETWORK OF CAMPUSES IN THE ALLIANCE. THE CALIFORNIA ALLIANCE WILL INSTITUTIONALIZE ITS CAMP PROGRAM ALLIANCE TO PROVIDE SYSTEM WIDE COVERAGE AND COHESION TO STEM DIVERSITY EFFORTS AT THE UC. IT WILL CONTINUE TO PROVIDE EVIDENCE FOR INSTITUTIONAL CHANGE AND WILL SERVE AS A NATIONAL ENGINE OF INCREASED NUMBERS OF MINORITIZED UNDERGRADUATES WHO SUCCESSFULLY COMPLETE STEM DEGREES. ALLIANCE PARTNERS WILL SHARE INFORMATION WITH THE EXTERNAL EVALUATORS AND THE EDUCATIONAL RESEARCHER WHO WILL ANALYZE AND DISSEMINATE THE FINDINGS THROUGH PRESENTATIONS AT PROFESSIONAL MEETINGS, PUBLICATIONS IN PEER REVIEWED JOURNALS, AND VARIOUS CYBER-BASED OPPORTUNITIES. FINDINGS WILL ULTIMATELY RESULT IN SHARING BEST PRACTICES WITH COLLEGES AND UNIVERSITIES, AS WELL AS ALL LSAMP PROGRAMS, AROUND THE COUNTRY. A SYSTEM WIDE LSAMP WEBSITE WILL BE BOTH A REPOSITORY FOR FINDINGS AND INFORMATION AND A PORTAL FOR OPPORTUNITIES ACROSS THE ALLIANCE AND INTO PARTNER INSTITUTIONS ACROSS THE STATE. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "total_obligation": 2500000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-07-09",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 26003.27,
+    "total_account_obligation": 1000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 26003.27
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF EQUITY FOR EXCELLENCE IN STEM"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF EQUITY FOR EXCELLENCE IN STEM"
+    },
+    "period_of_performance": {
+      "start_date": "2024-12-01",
+      "end_date": "2029-11-30",
+      "last_modified_date": "2025-09-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9df6f273-648d-cf72-c4ef-346f414c585c-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "PKK5TD16N4H1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "OAKLAND",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1111 FRANKLIN ST FL 8",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5201",
+        "zip5": "94607",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "OAKLAND",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "5201",
+      "zip5": "94607",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 26003.27
+  }
+}

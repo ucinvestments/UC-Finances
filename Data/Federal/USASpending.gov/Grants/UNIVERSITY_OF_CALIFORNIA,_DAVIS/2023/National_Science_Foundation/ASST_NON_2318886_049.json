@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57226063,
+    "Award ID": "2318886",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 910000,
+    "Total Outlays": 352049.84,
+    "Description": "MECHANISMS OF WILLED ATTENTION -IN OUR DAILY LIVES, IT IS VITALLY IMPORTANT TO BE AWARE AND ALERT TO THE CHALLENGES OF OUR SURROUNDINGS, IN ORDER TAKE APPROPRIATE ACTIONS TO SURVIVE AND THRIVE. CENTRAL TO OUR SUCCESS IN DOING SO IS THE ABILITY TO ATTEND TO THE MOST SALIENT AND IMPORTANT EVENTS AND OBJECTS, WHILE ALSO IGNORING DISTRACTING INFORMATION THAT MAY DIVERT US FROM OUR GOALS. SEVERAL FACTORS CONTRIBUTE TO DETERMINING THE RELEVANCE OF EVENTS AND OBJECTS, INCLUDING OUR MOMENTARY GOALS (E.G., NAVIGATING SAFELY FROM HOME TO THE SUPERMARKET), OUR PAST EXPERIENCES AND KNOWLEDGE (E.G. WE RECALL THAT THE STREET NEAR THE STORE IS UNDERGOING CONSTRUCTION SO WE HAVE TO ATTEND TO THE DETOUR SIGNS AND CHANGE OUR NORMAL ROUTE), AND ENCOUNTERING UNEXPECTED EVENTS (E.G. A CHILD RUNNING AFTER A BALL IN THE STREET). OUR BRAIN?S ATTENTION SYSTEM HELPS US TO MANAGE THE MANY EXTERNAL CHALLENGES TO ACHIEVING OUR KEY GOALS. BUT EVERYDAY, WE ALSO MAKE MANY SELF-WILLED DECISIONS TO FOCUS OUR ATTENTION ON A NEW OBJECT OR EVENT, ARISING FROM OUR OWN INTERNAL CHOICE, NOT DRIVEN BY EXTERNAL SIGNALS, CUES OR EVENTS. TO FULLY UNDERSTAND ATTENTION, IT IS CRUCIAL TO INVESTIGATE THE BRAIN ACTIVITY CORRESPONDING TO SELF-INITIATED, AS WELL AS EXTERNALLY DRIVEN ATTENTION. THIS PROJECT USES NON-INVASIVE BRAIN NEUROIMAGING TECHNIQUES TO MEASURE THE BRAIN?S ACTIVITY DURING THE PERFORMANCE OF CHALLENGING TASKS. THESE TECHNIQUES ALLOW US TO MEASURE THE ELECTRICAL ACTIVITY OF THE BRAIN AS HUMAN VOLUNTEERS PAY ATTENTION TO VISUAL STIMULI AND IGNORE DISTRACTING STIMULI. RECORDINGS OF BRAIN ACTIVITY WITH THE EEG (ELECTROENCEPHALOGRAM) YIELD SUPERB TEMPORAL SIGNALS WITH MILLISECOND PRECISION ABOUT THE UNDERLYING BRAIN PROCESSES THAT SUPPORT ATTENTION. ANOTHER BRAIN IMAGING TECHNIQUE, KNOWN AS FUNCTIONAL MAGNETIC RESONANCE IMAGING (FMRI), SCANS THE BRAIN AND DELIVERS SUPERB SPATIAL RESOLUTION, REVEALING THE UNDERLYING ACTIVE BRAIN NETWORKS AND DIFFERENT BRAIN STRUCTURES THAT ENABLE SUCCESSFUL ATTENTION AND ACTION. UTILIZING THESE TWO TECHNIQUES, OUR RESEARCH INVESTIGATES HOW HUMANS ARE ABLE TO DIRECT THEIR ATTENTION WHEN THERE ARE NO EXTERNAL SIGNALS IN THE ENVIRONMENT TO ATTRACT OR DIRECT OUR ATTENTION, BY FOCUSING ON HOW HUMAN VOLITION SHAPES WHAT WE ATTEND TO. USING MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE METHODS FOR DATA ANALYSES, PRELIMINARY RESULTS HAVE REVEALED NEW ELECTRICAL BRAIN SIGNALS THAT ARE PREDICTIVE BRAIN SIGNATURES OF WHAT A HUMAN VOLUNTEER PAYS ATTENTION TO IN THE IMMEDIATE FUTURE. IDENTIFICATION OF THE BRAIN MECHANISMS THAT INITIATE OUR VOLUNTARY ATTENTION CAN LEAD TO DEEPER UNDERSTANDING OF HOW ATTENTION FAILS IN DISEASE, WITH FATIGUE, OR IN HIGHLY DEMANDING CIRCUMSTANCES. THIS RESEARCH ALSO HAS THE POTENTIAL TO LEAD TO THE DEVELOPMENT OF VALUABLE INTERVENTIONS, INCLUDING THE AUGMENTATION OF OUR ATTENTION ABILITIES TO SUPPORT HUMAN HEALTH AND IMPROVE HUMAN PERFORMANCE, WHETHER IT BE NAVIGATING ONE?S AUTOMOBILE IN HEAVY TRAFFIC, OR LANDING A SPACECRAFT ON THE MOON. IN CONJUNCTION WITH EXPERIMENTAL STUDIES, A KEY GOAL OF THIS PROJECT IS ALSO TO ADVANCE AND DIVERSIFY STEM EDUCATION BY INVOLVING MINORITY AND UNDERPRIVILEGED STUDENTS IN THE RESEARCH. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-08-01",
+    "End Date": "2026-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2318886_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57226063,
+    "generated_unique_award_id": "ASST_NON_2318886_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MECHANISMS OF WILLED ATTENTION -IN OUR DAILY LIVES, IT IS VITALLY IMPORTANT TO BE AWARE AND ALERT TO THE CHALLENGES OF OUR SURROUNDINGS, IN ORDER TAKE APPROPRIATE ACTIONS TO SURVIVE AND THRIVE. CENTRAL TO OUR SUCCESS IN DOING SO IS THE ABILITY TO ATTEND TO THE MOST SALIENT AND IMPORTANT EVENTS AND OBJECTS, WHILE ALSO IGNORING DISTRACTING INFORMATION THAT MAY DIVERT US FROM OUR GOALS. SEVERAL FACTORS CONTRIBUTE TO DETERMINING THE RELEVANCE OF EVENTS AND OBJECTS, INCLUDING OUR MOMENTARY GOALS (E.G., NAVIGATING SAFELY FROM HOME TO THE SUPERMARKET), OUR PAST EXPERIENCES AND KNOWLEDGE (E.G. WE RECALL THAT THE STREET NEAR THE STORE IS UNDERGOING CONSTRUCTION SO WE HAVE TO ATTEND TO THE DETOUR SIGNS AND CHANGE OUR NORMAL ROUTE), AND ENCOUNTERING UNEXPECTED EVENTS (E.G. A CHILD RUNNING AFTER A BALL IN THE STREET). OUR BRAIN?S ATTENTION SYSTEM HELPS US TO MANAGE THE MANY EXTERNAL CHALLENGES TO ACHIEVING OUR KEY GOALS. BUT EVERYDAY, WE ALSO MAKE MANY SELF-WILLED DECISIONS TO FOCUS OUR ATTENTION ON A NEW OBJECT OR EVENT, ARISING FROM OUR OWN INTERNAL CHOICE, NOT DRIVEN BY EXTERNAL SIGNALS, CUES OR EVENTS. TO FULLY UNDERSTAND ATTENTION, IT IS CRUCIAL TO INVESTIGATE THE BRAIN ACTIVITY CORRESPONDING TO SELF-INITIATED, AS WELL AS EXTERNALLY DRIVEN ATTENTION. THIS PROJECT USES NON-INVASIVE BRAIN NEUROIMAGING TECHNIQUES TO MEASURE THE BRAIN?S ACTIVITY DURING THE PERFORMANCE OF CHALLENGING TASKS. THESE TECHNIQUES ALLOW US TO MEASURE THE ELECTRICAL ACTIVITY OF THE BRAIN AS HUMAN VOLUNTEERS PAY ATTENTION TO VISUAL STIMULI AND IGNORE DISTRACTING STIMULI. RECORDINGS OF BRAIN ACTIVITY WITH THE EEG (ELECTROENCEPHALOGRAM) YIELD SUPERB TEMPORAL SIGNALS WITH MILLISECOND PRECISION ABOUT THE UNDERLYING BRAIN PROCESSES THAT SUPPORT ATTENTION. ANOTHER BRAIN IMAGING TECHNIQUE, KNOWN AS FUNCTIONAL MAGNETIC RESONANCE IMAGING (FMRI), SCANS THE BRAIN AND DELIVERS SUPERB SPATIAL RESOLUTION, REVEALING THE UNDERLYING ACTIVE BRAIN NETWORKS AND DIFFERENT BRAIN STRUCTURES THAT ENABLE SUCCESSFUL ATTENTION AND ACTION. UTILIZING THESE TWO TECHNIQUES, OUR RESEARCH INVESTIGATES HOW HUMANS ARE ABLE TO DIRECT THEIR ATTENTION WHEN THERE ARE NO EXTERNAL SIGNALS IN THE ENVIRONMENT TO ATTRACT OR DIRECT OUR ATTENTION, BY FOCUSING ON HOW HUMAN VOLITION SHAPES WHAT WE ATTEND TO. USING MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE METHODS FOR DATA ANALYSES, PRELIMINARY RESULTS HAVE REVEALED NEW ELECTRICAL BRAIN SIGNALS THAT ARE PREDICTIVE BRAIN SIGNATURES OF WHAT A HUMAN VOLUNTEER PAYS ATTENTION TO IN THE IMMEDIATE FUTURE. IDENTIFICATION OF THE BRAIN MECHANISMS THAT INITIATE OUR VOLUNTARY ATTENTION CAN LEAD TO DEEPER UNDERSTANDING OF HOW ATTENTION FAILS IN DISEASE, WITH FATIGUE, OR IN HIGHLY DEMANDING CIRCUMSTANCES. THIS RESEARCH ALSO HAS THE POTENTIAL TO LEAD TO THE DEVELOPMENT OF VALUABLE INTERVENTIONS, INCLUDING THE AUGMENTATION OF OUR ATTENTION ABILITIES TO SUPPORT HUMAN HEALTH AND IMPROVE HUMAN PERFORMANCE, WHETHER IT BE NAVIGATING ONE?S AUTOMOBILE IN HEAVY TRAFFIC, OR LANDING A SPACECRAFT ON THE MOON. IN CONJUNCTION WITH EXPERIMENTAL STUDIES, A KEY GOAL OF THIS PROJECT IS ALSO TO ADVANCE AND DIVERSIFY STEM EDUCATION BY INVOLVING MINORITY AND UNDERPRIVILEGED STUDENTS IN THE RESEARCH. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 910000,
+    "subaward_count": 2,
+    "total_subaward_amount": 169914,
+    "date_signed": "2023-07-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 360385.48,
+    "total_account_obligation": 910000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 360385.48
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 910000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF BEHAVIORAL  COGNITIVE SCI"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF BEHAVIORAL  COGNITIVE SCI"
+    },
+    "period_of_performance": {
+      "start_date": "2023-08-01",
+      "end_date": "2026-07-31",
+      "last_modified_date": "2023-08-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 360385.48
+  }
+}

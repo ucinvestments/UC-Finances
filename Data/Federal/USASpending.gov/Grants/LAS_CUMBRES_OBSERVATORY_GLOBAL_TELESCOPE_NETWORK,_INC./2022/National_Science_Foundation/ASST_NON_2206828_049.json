@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56809526,
+    "Award ID": "2206828",
+    "Recipient Name": "LAS CUMBRES OBSERVATORY GLOBAL TELESCOPE NETWORK, INC.",
+    "Award Amount": 599199,
+    "Total Outlays": 351404.54,
+    "Description": "PREPARING FOR SCIENCE WITH THE RUBIN OBSERVATORY: GROUNDWORK TO EXPLORE THE GALACTIC POPULATION OF EXOPLANETS -A TEAM LED BY THE UNIVERSITY OF CALIFORNIA-SANTA CRUZ WILL TEST IDEAS OF PLANET, STAR AND BLACK HOLE FORMATION TO COMPARE PREDICTIONS WITH MEASUREMENTS OF REAL-WORLD DISCOVERIES. THE VERA C. RUBIN OBSERVATORY'S LEGACY SURVEY OF SPACE AND TIME (LSST), WILL PRODUCE A GROUNDBREAKING SET OF DISCOVERIES. IT WILL FIND PLANETS, STARS, AND BLACK HOLES AT GREATER DISTANCES ACROSS THE GALAXY THAN HAS EVER BEEN PROBED BEFORE. BUT THE SURVEY DATA ALONE CANNOT FULLY CHARACTERIZE THESE DISCOVERIES. THIS PROJECT WILL MAKE SURE THAT SCIENTISTS ARE READY TO RESPOND TO LSST DISCOVERIES IN REAL-TIME. THE TEAM WILL BUILD THE SOFTWARE NEEDED TO CHARACTERIZE THE DISCOVERIES AND UNDERSTAND THE POPULATIONS OF PLANETS, STARS AND BLACK HOLES. THE SOFTWARE THEY PRODUCE WILL BE PUBLICLY AVAILABLE TO BENEFIT EVERYONE. THE TEAM WILL UPGRADE THEIR FREE EDUCATIONAL WEBSITE, TO HELP STUDENTS LEARN ABOUT THESE FASCINATING DISCOVERIES. CHARACTERIZING RAPIDLY EVOLVING TRANSIENT PHENOMENA LIKE MICROLENSING EVENTS REQUIRES A DEMANDING, RAPID-RESPONSE PROGRAM TO IDENTIFY CANDIDATES FROM THE FLOOD OF SURVEY DATA IN REAL-TIME. THIS PROJECT WILL BUILD THE OBSERVATIONAL AND THEORETICAL INFRASTRUCTURE NECESSARY TO CHARACTERIZE A LARGE SAMPLE OF EVENTS DISCOVERED BY THE VERA C. RUBIN LSST, AND MAKE THE RESULTING TOOLS AVAILABLE TO THE WHOLE COMMUNITY. THE TEAM WILL EXTEND OUR ALGORITHM TO PRIORITIZE MICROLENSING EVENTS IN REAL-TIME BASED ON DISCOVERY ALERTS FROM LOW-CADENCE SURVEYS LIKE LSST, ALLOWING CHARACTERIZATION OBSERVATIONS TO BE MADE IN A TIMELY MANNER. THEY WILL DEVELOP THE ANALYTICAL AND SOFTWARE FRAMEWORK NECESSARY TO MODEL THE LARGE SAMPLE OF EVENTS EXPECTED FROM RUBIN, UNDERSTAND THE SELECTION BIASES, AND INTERPRET THE SAMPLE OF DETECTED EVENTS IN TERMS OF THE UNDERLYING POPULATIONS. IN THE PROCESS, THE TEAM WILL EVALUATE THE LSST SURVEY STRATEGY TO DETERMINE WHERE ADDITIONAL OBSERVATIONS WILL PRODUCE THE GREATEST SCIENTIFIC YIELD AND THEREBY OPTIMIZE OUR FOLLOW-UP STRATEGY. THIS WILL BE PARTICULARLY IMPORTANT IN COORDINATING RUBIN'S SURVEY STRATEGY TO COMPLEMENT THAT OF THE NANCY ROMAN SPACE TELESCOPE'S CONTEMPORANEOUS EXOPLANET SURVEY. ALL OF THE TEAM'S SOFTWARE TOOLS WILL BE OPEN SOURCE AND PUBLICLY AVAILABLE TO BENEFIT THE WHOLE COMMUNITY, AND THE TEAM WILL EXTEND THE TRAINING MATERIALS AVAILABLE FROM OUR EDUCATIONAL WEBSITE TO MAKE THIS SUBJECT MORE ACCESSIBLE TO THE NEXT GENERATION OF STUDENTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GKNXAU6D3629",
+    "Recipient Location": {
+      "address_line1": "6740 CORTONA DR STE 102",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "GOLETA",
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5575",
+      "zip5": "93117"
+    },
+    "Primary Place of Performance": {
+      "city_name": "GOLETA",
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "93117-5575",
+      "zip5": "93117"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-10-01",
+    "End Date": "2025-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "4f2c8e05-bd66-a4b5-1785-c487be18ae63-R",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2206828_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56809526,
+    "generated_unique_award_id": "ASST_NON_2206828_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PREPARING FOR SCIENCE WITH THE RUBIN OBSERVATORY: GROUNDWORK TO EXPLORE THE GALACTIC POPULATION OF EXOPLANETS -A TEAM LED BY THE UNIVERSITY OF CALIFORNIA-SANTA CRUZ WILL TEST IDEAS OF PLANET, STAR AND BLACK HOLE FORMATION TO COMPARE PREDICTIONS WITH MEASUREMENTS OF REAL-WORLD DISCOVERIES. THE VERA C. RUBIN OBSERVATORY'S LEGACY SURVEY OF SPACE AND TIME (LSST), WILL PRODUCE A GROUNDBREAKING SET OF DISCOVERIES. IT WILL FIND PLANETS, STARS, AND BLACK HOLES AT GREATER DISTANCES ACROSS THE GALAXY THAN HAS EVER BEEN PROBED BEFORE. BUT THE SURVEY DATA ALONE CANNOT FULLY CHARACTERIZE THESE DISCOVERIES. THIS PROJECT WILL MAKE SURE THAT SCIENTISTS ARE READY TO RESPOND TO LSST DISCOVERIES IN REAL-TIME. THE TEAM WILL BUILD THE SOFTWARE NEEDED TO CHARACTERIZE THE DISCOVERIES AND UNDERSTAND THE POPULATIONS OF PLANETS, STARS AND BLACK HOLES. THE SOFTWARE THEY PRODUCE WILL BE PUBLICLY AVAILABLE TO BENEFIT EVERYONE. THE TEAM WILL UPGRADE THEIR FREE EDUCATIONAL WEBSITE, TO HELP STUDENTS LEARN ABOUT THESE FASCINATING DISCOVERIES. CHARACTERIZING RAPIDLY EVOLVING TRANSIENT PHENOMENA LIKE MICROLENSING EVENTS REQUIRES A DEMANDING, RAPID-RESPONSE PROGRAM TO IDENTIFY CANDIDATES FROM THE FLOOD OF SURVEY DATA IN REAL-TIME. THIS PROJECT WILL BUILD THE OBSERVATIONAL AND THEORETICAL INFRASTRUCTURE NECESSARY TO CHARACTERIZE A LARGE SAMPLE OF EVENTS DISCOVERED BY THE VERA C. RUBIN LSST, AND MAKE THE RESULTING TOOLS AVAILABLE TO THE WHOLE COMMUNITY. THE TEAM WILL EXTEND OUR ALGORITHM TO PRIORITIZE MICROLENSING EVENTS IN REAL-TIME BASED ON DISCOVERY ALERTS FROM LOW-CADENCE SURVEYS LIKE LSST, ALLOWING CHARACTERIZATION OBSERVATIONS TO BE MADE IN A TIMELY MANNER. THEY WILL DEVELOP THE ANALYTICAL AND SOFTWARE FRAMEWORK NECESSARY TO MODEL THE LARGE SAMPLE OF EVENTS EXPECTED FROM RUBIN, UNDERSTAND THE SELECTION BIASES, AND INTERPRET THE SAMPLE OF DETECTED EVENTS IN TERMS OF THE UNDERLYING POPULATIONS. IN THE PROCESS, THE TEAM WILL EVALUATE THE LSST SURVEY STRATEGY TO DETERMINE WHERE ADDITIONAL OBSERVATIONS WILL PRODUCE THE GREATEST SCIENTIFIC YIELD AND THEREBY OPTIMIZE OUR FOLLOW-UP STRATEGY. THIS WILL BE PARTICULARLY IMPORTANT IN COORDINATING RUBIN'S SURVEY STRATEGY TO COMPLEMENT THAT OF THE NANCY ROMAN SPACE TELESCOPE'S CONTEMPORANEOUS EXOPLANET SURVEY. ALL OF THE TEAM'S SOFTWARE TOOLS WILL BE OPEN SOURCE AND PUBLICLY AVAILABLE TO BENEFIT THE WHOLE COMMUNITY, AND THE TEAM WILL EXTEND THE TRAINING MATERIALS AVAILABLE FROM OUR EDUCATIONAL WEBSITE TO MAKE THIS SUBJECT MORE ACCESSIBLE TO THE NEXT GENERATION OF STUDENTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 599199,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-08-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 365031.59,
+    "total_account_obligation": 599199,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 365031.59
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 599199
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ASTRONOMICAL SCIENCES"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ASTRONOMICAL SCIENCES"
+    },
+    "period_of_performance": {
+      "start_date": "2022-10-01",
+      "end_date": "2025-09-30",
+      "last_modified_date": "2022-09-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "4f2c8e05-bd66-a4b5-1785-c487be18ae63-R",
+      "recipient_name": "LAS CUMBRES OBSERVATORY GLOBAL TELESCOPE NETWORK, INC.",
+      "recipient_uei": "GKNXAU6D3629",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "GOLETA",
+        "county_code": "083",
+        "county_name": "SANTA BARBARA",
+        "address_line1": "6740 CORTONA DR STE 102",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "24",
+        "zip4": "5575",
+        "zip5": "93117",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "GOLETA",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "24",
+      "zip4": "5575",
+      "zip5": "93117",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 365031.59
+  }
+}

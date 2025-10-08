@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92425374,
+    "Award ID": "T32GM144303",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1762894,
+    "Total Outlays": 1207949.68,
+    "Description": "TRAINING PROGRAM IN PHARMACOLOGY - TRAINING PROGRAM IN PHARMACOLOGY ABSTRACT: THE OVERARCHING GOAL OF THIS PREDOCTORAL TRAINING PROGRAM IN PHARMACOLOGY (TPPH) IS TO EDUCATE NEXT GENERATION OF BIOMEDICAL RESEARCHERS IN THE CONCEPTS OF DRUG DISCOVERY AND DEVELOPMENT, INCLUSIVE A CLINICAL PERSPECTIVE. THE FOUR FOCUS AREAS OF THIS TPPH ARE CARDIOVASCULAR, NEUROLOGICAL, AND IMMUNOLOGICAL DISEASES AND CANCER. UC DAVIS IS A WORLD LEADER IN DRUG DEVELOPMENT WITH MULTIPLE TRAINERS BRINGING DRUGS TO THE CLINIC (MOST RECENTLY DR. ROGAWSKI THE NOVEL POST-PARTUM ANTIDEPRESSANT BREXANOLONE) AND BIOLOGICS INCLUDING GENE THERAPY VECTORS WITH \u003e20 ONGOING CLINICAL TRIALS (DIRECTOR DR. NOLTA). TRAINEES FROM PHARMACOLOGY \u0026 TOXICOLOGY, PHYSIOLOGY, BIOMEDICAL ENGINEERING AND NEUROSCIENCE DEVELOP EXPERTISE IN DIVERSE AREAS. AREAS INCLUDE CLASSIC PHARMACOLOGY \u0026 DRUG TARGET IDENTIFICATION WITH CUTTING EDGE METHODS IN BIOCHEMISTRY, STRUCTURAL BIOLOGY, GENOMICS \u0026 PROTEOMICS, MOLECULAR AND CELL BIOLOGY; STRUCTURAL MODELING AND RATIONAL DRUG DESIGN; MEDICINAL CHEMISTRY; HIGH \u0026 SUPERRESOLUTION IMAGING; ELECTROPHYSIOLOGY; BEHAVIORAL PHYSIOLOGY; ENGINEERING OF MICROFLUIDIC AND OTHER DEVICES; ANIMAL MODELS OF DISEASE; NOVEL IN VIVO WHOLE ANIMAL IMAGING; AND TRANSLATIONAL THERAPEUTICS IN CLINICAL TRIALS INCLUDING STEM CELL AND GENETIC THERAPIES. THE TPPH WILL PROVIDE FOCUSED AND STUDENT-TAILORED SMALL GROUP TRAINING IN THE CORE PRINCIPLES OF PHARMACOLOGY FOR NON-PHARMACOLOGY TRAINEES, AND ENMESH THESE STUDENTS WITH PHARMACOLOGY STUDENTS FOR INTERDISCIPLINARY GROUP LEARNING IN DRUG DEVELOPMENT. A RELATED GOAL IS TO ENABLE ALL TRAINEES TO COMMUNICATE AND COLLABORATE ACROSS THE LARGE ARRAY OF RESEARCH DISCIPLINES THEY REPRESENT. THIS GOAL IS MAINLY REALIZED IN A HIGHLY INNOVATIVE STUDENT-DRIVEN, PROJECT-ORIENTED COURSE PROBLEM SOLVING IN PHARMACOLOGICAL SCIENCES, WHICH REJUVENATES ITSELF EVERY YEAR BASED ON STUDENT INITIATIVE AND INTEREST. IN THIS WAY OUR TPPH PRODUCES EXPERTS WITH A VARIETY OF BACKGROUNDS THAT CAN EFFECTIVELY COMMUNICATE AND COLLABORATE WITH EXPERTS FROM OTHER RELATED DISCIPLINES IN THE INCREASINGLY COMPLEX REALM OF DRUG DEVELOPMENT. UC DAVIS GRANTS MORE BACHELORS AND DOCTORAL DEGREES IN BIOLOGICAL SCIENCES THAN ANY OTHER U.S. UNIVERSITY. IT RECEIVED $961 MILLION IN EXTRAMURAL RESEARCH FUNDING IN 2020/21, WHICH PLACES IT, AS IN EARLIER YEARS, AMONG THE TOP 10 PUBLIC UNIVERSITIES. THE 30 TRAINING FACULTY ARE FROM 14 DEPARTMENTS IN 6 COLLEGES, WHERE EXTENSIVE COLLABORATIVE INTERACTIONS ALREADY EXIST. TRAINERS PROVIDE IN DEPTH EXPERTISE THAT RANGES FROM IDENTIFYING NOVEL THERAPEUTIC MOLECULAR TARGETS AND DEVELOPMENT OF THERAPEUTIC MOLECULES TO CLINICAL DRUG AND STEM CELL TRIALS AT THE NIH-FUNDED UC DAVIS CLINICAL AND TRANSLATIONAL SCIENCE CENTER (CTSC) AND NIH-DESIGNATED CANCER CENTER. POWERFUL AND NUMEROUS STATE- OF-THE-ART CORE FACILITIES AND CENTERS WILL PROVIDE TRAINEES WITH OUTSTANDING RESEARCH OPPORTUNITIES SPANNING FROM CHEMISTRY’S EMPHASIS ON PHARMACEUTICAL CHEMISTRY TO UNIQUE ANIMAL MODELS (INTERNATIONALLY RECOGNIZED MOUSE BIOLOGY CENTER, AGRICULTURAL \u0026 VETERINARY SCHOOLS, PRIMATE CENTER).",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-07-01",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_T32GM144303_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92425374,
+    "generated_unique_award_id": "ASST_NON_T32GM144303_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TRAINING PROGRAM IN PHARMACOLOGY - TRAINING PROGRAM IN PHARMACOLOGY ABSTRACT: THE OVERARCHING GOAL OF THIS PREDOCTORAL TRAINING PROGRAM IN PHARMACOLOGY (TPPH) IS TO EDUCATE NEXT GENERATION OF BIOMEDICAL RESEARCHERS IN THE CONCEPTS OF DRUG DISCOVERY AND DEVELOPMENT, INCLUSIVE A CLINICAL PERSPECTIVE. THE FOUR FOCUS AREAS OF THIS TPPH ARE CARDIOVASCULAR, NEUROLOGICAL, AND IMMUNOLOGICAL DISEASES AND CANCER. UC DAVIS IS A WORLD LEADER IN DRUG DEVELOPMENT WITH MULTIPLE TRAINERS BRINGING DRUGS TO THE CLINIC (MOST RECENTLY DR. ROGAWSKI THE NOVEL POST-PARTUM ANTIDEPRESSANT BREXANOLONE) AND BIOLOGICS INCLUDING GENE THERAPY VECTORS WITH \u003e20 ONGOING CLINICAL TRIALS (DIRECTOR DR. NOLTA). TRAINEES FROM PHARMACOLOGY \u0026 TOXICOLOGY, PHYSIOLOGY, BIOMEDICAL ENGINEERING AND NEUROSCIENCE DEVELOP EXPERTISE IN DIVERSE AREAS. AREAS INCLUDE CLASSIC PHARMACOLOGY \u0026 DRUG TARGET IDENTIFICATION WITH CUTTING EDGE METHODS IN BIOCHEMISTRY, STRUCTURAL BIOLOGY, GENOMICS \u0026 PROTEOMICS, MOLECULAR AND CELL BIOLOGY; STRUCTURAL MODELING AND RATIONAL DRUG DESIGN; MEDICINAL CHEMISTRY; HIGH \u0026 SUPERRESOLUTION IMAGING; ELECTROPHYSIOLOGY; BEHAVIORAL PHYSIOLOGY; ENGINEERING OF MICROFLUIDIC AND OTHER DEVICES; ANIMAL MODELS OF DISEASE; NOVEL IN VIVO WHOLE ANIMAL IMAGING; AND TRANSLATIONAL THERAPEUTICS IN CLINICAL TRIALS INCLUDING STEM CELL AND GENETIC THERAPIES. THE TPPH WILL PROVIDE FOCUSED AND STUDENT-TAILORED SMALL GROUP TRAINING IN THE CORE PRINCIPLES OF PHARMACOLOGY FOR NON-PHARMACOLOGY TRAINEES, AND ENMESH THESE STUDENTS WITH PHARMACOLOGY STUDENTS FOR INTERDISCIPLINARY GROUP LEARNING IN DRUG DEVELOPMENT. A RELATED GOAL IS TO ENABLE ALL TRAINEES TO COMMUNICATE AND COLLABORATE ACROSS THE LARGE ARRAY OF RESEARCH DISCIPLINES THEY REPRESENT. THIS GOAL IS MAINLY REALIZED IN A HIGHLY INNOVATIVE STUDENT-DRIVEN, PROJECT-ORIENTED COURSE PROBLEM SOLVING IN PHARMACOLOGICAL SCIENCES, WHICH REJUVENATES ITSELF EVERY YEAR BASED ON STUDENT INITIATIVE AND INTEREST. IN THIS WAY OUR TPPH PRODUCES EXPERTS WITH A VARIETY OF BACKGROUNDS THAT CAN EFFECTIVELY COMMUNICATE AND COLLABORATE WITH EXPERTS FROM OTHER RELATED DISCIPLINES IN THE INCREASINGLY COMPLEX REALM OF DRUG DEVELOPMENT. UC DAVIS GRANTS MORE BACHELORS AND DOCTORAL DEGREES IN BIOLOGICAL SCIENCES THAN ANY OTHER U.S. UNIVERSITY. IT RECEIVED $961 MILLION IN EXTRAMURAL RESEARCH FUNDING IN 2020/21, WHICH PLACES IT, AS IN EARLIER YEARS, AMONG THE TOP 10 PUBLIC UNIVERSITIES. THE 30 TRAINING FACULTY ARE FROM 14 DEPARTMENTS IN 6 COLLEGES, WHERE EXTENSIVE COLLABORATIVE INTERACTIONS ALREADY EXIST. TRAINERS PROVIDE IN DEPTH EXPERTISE THAT RANGES FROM IDENTIFYING NOVEL THERAPEUTIC MOLECULAR TARGETS AND DEVELOPMENT OF THERAPEUTIC MOLECULES TO CLINICAL DRUG AND STEM CELL TRIALS AT THE NIH-FUNDED UC DAVIS CLINICAL AND TRANSLATIONAL SCIENCE CENTER (CTSC) AND NIH-DESIGNATED CANCER CENTER. POWERFUL AND NUMEROUS STATE- OF-THE-ART CORE FACILITIES AND CENTERS WILL PROVIDE TRAINEES WITH OUTSTANDING RESEARCH OPPORTUNITIES SPANNING FROM CHEMISTRY’S EMPHASIS ON PHARMACEUTICAL CHEMISTRY TO UNIQUE ANIMAL MODELS (INTERNATIONALLY RECOGNIZED MOUSE BIOLOGY CENTER, AGRICULTURAL \u0026 VETERINARY SCHOOLS, PRIMATE CENTER).",
+    "total_obligation": 1762894,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-06-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1207949.68,
+    "total_account_obligation": 1762894,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1207949.68
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1762894
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2022-07-01",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1207949.68
+  }
+}

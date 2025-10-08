@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74730160,
+    "Award ID": "80NSSC20K1501",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 651979,
+    "Total Outlays": 457410.19,
+    "Description": "EXPOSURE TO THE SPACEFLIGHT ENVIRONMENT ADVERSELY AFFECTS MANY ASPECTS OF PHYSIOLOGY AND BEHAVIOR. INCLUDED AMONG THESE DELETERIOUS CHANGES ARE ALTERATIONS IN CIRCADIAN AND SLEEP/WAKE FUNCTION THAT NOT ONLY EXACERBATE PHYSIOLOGICAL AND PERFORMANCE DECREMENTS  BUT ALSO CORRELATE WITH DISRUPTED METABOLISM AND ELEVATED AGING BIOMARKERS. ARTIFICIAL GRAVITY (AG PRODUCED VIA THE CENTRIPETAL ACCELERATION OF CENTRIFUGATION) HAS LONG BEEN PROPOSED AS A COUNTERMEASURE TO MITIGATE OR EVEN PREVENT THESE DELETERIOUS CHANGES DURING SPACEFLIGHT AND HAS PROVED SUCCESSFUL IN A LIMITED STUDY ON MICE IN THE AREAS OF MUSCLE AND BONE. PLANNING FOR A MISSION TO MARS RAISES THE ADDITIONAL QUESTION OF HOW EFFECTIVE THE MARTIAN GRAVITATIONAL ENVIRONMENT WILL BE IN COMBATTING MICROGRAVITY INDUCED DEFICITS. FINALLY  IN ORDER FOR AN AG COUNTERMEASURE TO BE SUCCESSFULLY IMPLEMENTED  THE PARAMETERS OF AG EXPOSURE MUST BE EXPERIMENTALLY DEFINED. THIS PROGRAM SEEKS TO ELUCIDATE THE DOSE-RESPONSE CURVE FOR AN AG EXPOSURE COUNTERMEASURE USING AN ESTABLISHED MOUSE MODEL AND CENTRIFUGE ABOARD THE ISS. WE PROPOSE TO RECORD CIRCADIAN RHYTHMS OF BODY TEMPERATURE  FOOD INTAKE  REST/ACTIVITY AND OTHER VIDEO-RECORDED BEHAVIORS DURING 4 WEEKS OF AG EXPOSURE PRODUCED VIA CENTRIFUGATION IN UP TO FOUR SEQUENTIAL ISS STUDIES AS WELL AS TO EXAMINE THE EFFECTS OF AG ON CLOCK GENES UNDERLYING CIRCADIAN FUNCTION. ADDITIONAL OUTCOME MEASURES USING 'OMICS ANALYSES (E.G.  PROTEOMICS AND TRANSCRIPTOMICS) ON SELECT TISSUES POST FLIGHT WILL BE USED TO EXAMINE REGULATORY FACTORS AND BIOMARKERS RELATED TO THE PHYSIOLOGICAL AND BEHAVIORAL MEASURES. DATA FROM THE SUBJECTS EXPOSED TO AG WILL BE COMPARED WITH COHORTS STUDIED IN MICROGRAVITY ON THE SAME MISSIONS  AS WELL AS TO TERRESTRIAL GROUND CONTROLS. FOUR AG LEVELS ARE PROPOSED  ALLOWING THE ESTABLISHMENT OF AN AG COUNTERMEASURE DOSE-RESPONSE CURVE. THE AG LEVELS WE PROPOSE TO TEST INCLUDE LUNAR (0.17G)  MARTIAN (0.38G) AND TWO ADDITIONAL LEVELS INTERMEDIATE BETWEEN MARTIAN AND TERRESTRIAL. THIS SERIES OF STUDIES WILL BE THE FIRST TO ESTABLISH A DOSE RESPONSE RELATIONSHIP FOR AN AG COUNTERMEASURE AS WELL AS TO BEGIN TO ANSWER THE QUESTION OF WHETHER SUCH COUNTERMEASURES WOULD ALSO BE NECESSARY DURING LUNAR OR MARTIAN HABITATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR  STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2020-08-04",
+    "End Date": "2026-02-03",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC20K1501_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74730160,
+    "generated_unique_award_id": "ASST_NON_80NSSC20K1501_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EXPOSURE TO THE SPACEFLIGHT ENVIRONMENT ADVERSELY AFFECTS MANY ASPECTS OF PHYSIOLOGY AND BEHAVIOR. INCLUDED AMONG THESE DELETERIOUS CHANGES ARE ALTERATIONS IN CIRCADIAN AND SLEEP/WAKE FUNCTION THAT NOT ONLY EXACERBATE PHYSIOLOGICAL AND PERFORMANCE DECREMENTS  BUT ALSO CORRELATE WITH DISRUPTED METABOLISM AND ELEVATED AGING BIOMARKERS. ARTIFICIAL GRAVITY (AG PRODUCED VIA THE CENTRIPETAL ACCELERATION OF CENTRIFUGATION) HAS LONG BEEN PROPOSED AS A COUNTERMEASURE TO MITIGATE OR EVEN PREVENT THESE DELETERIOUS CHANGES DURING SPACEFLIGHT AND HAS PROVED SUCCESSFUL IN A LIMITED STUDY ON MICE IN THE AREAS OF MUSCLE AND BONE. PLANNING FOR A MISSION TO MARS RAISES THE ADDITIONAL QUESTION OF HOW EFFECTIVE THE MARTIAN GRAVITATIONAL ENVIRONMENT WILL BE IN COMBATTING MICROGRAVITY INDUCED DEFICITS. FINALLY  IN ORDER FOR AN AG COUNTERMEASURE TO BE SUCCESSFULLY IMPLEMENTED  THE PARAMETERS OF AG EXPOSURE MUST BE EXPERIMENTALLY DEFINED. THIS PROGRAM SEEKS TO ELUCIDATE THE DOSE-RESPONSE CURVE FOR AN AG EXPOSURE COUNTERMEASURE USING AN ESTABLISHED MOUSE MODEL AND CENTRIFUGE ABOARD THE ISS. WE PROPOSE TO RECORD CIRCADIAN RHYTHMS OF BODY TEMPERATURE  FOOD INTAKE  REST/ACTIVITY AND OTHER VIDEO-RECORDED BEHAVIORS DURING 4 WEEKS OF AG EXPOSURE PRODUCED VIA CENTRIFUGATION IN UP TO FOUR SEQUENTIAL ISS STUDIES AS WELL AS TO EXAMINE THE EFFECTS OF AG ON CLOCK GENES UNDERLYING CIRCADIAN FUNCTION. ADDITIONAL OUTCOME MEASURES USING 'OMICS ANALYSES (E.G.  PROTEOMICS AND TRANSCRIPTOMICS) ON SELECT TISSUES POST FLIGHT WILL BE USED TO EXAMINE REGULATORY FACTORS AND BIOMARKERS RELATED TO THE PHYSIOLOGICAL AND BEHAVIORAL MEASURES. DATA FROM THE SUBJECTS EXPOSED TO AG WILL BE COMPARED WITH COHORTS STUDIED IN MICROGRAVITY ON THE SAME MISSIONS  AS WELL AS TO TERRESTRIAL GROUND CONTROLS. FOUR AG LEVELS ARE PROPOSED  ALLOWING THE ESTABLISHMENT OF AN AG COUNTERMEASURE DOSE-RESPONSE CURVE. THE AG LEVELS WE PROPOSE TO TEST INCLUDE LUNAR (0.17G)  MARTIAN (0.38G) AND TWO ADDITIONAL LEVELS INTERMEDIATE BETWEEN MARTIAN AND TERRESTRIAL. THIS SERIES OF STUDIES WILL BE THE FIRST TO ESTABLISH A DOSE RESPONSE RELATIONSHIP FOR AN AG COUNTERMEASURE AS WELL AS TO BEGIN TO ANSWER THE QUESTION OF WHETHER SUCH COUNTERMEASURES WOULD ALSO BE NECESSARY DURING LUNAR OR MARTIAN HABITATION.",
+    "total_obligation": 651979,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2020-09-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 476819.89,
+    "total_account_obligation": 651979,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 476819.89
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 651979
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2020-08-04",
+      "end_date": "2026-02-03",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR  STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 476819.89
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56293736,
+    "Award ID": "20173842227227",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, MERCED",
+    "Award Amount": 995198.63,
+    "Total Outlays": 668508.94,
+    "Description": "PURPOSE: THE SAN JOAQUIN VALLEY OF CALIFORNIA IS AMONG THE NATION\u0026#39;S MOST DISADVANTAGED REGIONS, WITH AMONG THE LOWEST GRADUATION RATES AND LEVEL OF EDUCATION, AND HIGHEST POVERTY RATES. THE SJV IS ALSO AMONG THE MOST ETHNICALLY AND RACIALLY DIVERSE REGIONS OF CALIFORNIA (AND LIKELY THE NATION). THE PRIMARY PURPOSE OF OUR PROPOSAL IS TO MAINTAIN AND ENHANCE THE EXCELLENT MOMENTUM ESTABLISHED IN THE ORIGINAL CYCLE OF OUR USDA HSI PROGRAM AT UC MERCED BY EXPANDING THE NUMBER AND TYPE OF RESEARCH TRAINING OPPORTUNITIES TO THE DIVERSE POPULATION OF STUDENTS SUPPORTED BY UC MERCED AND OUR PARTNER HSIS, CSU STANISLAUS AND UC SANTA CRUZ.AUDIENCE: OUR PROGRAMS TARGET PRIMARILY STUDENTS FROM TRADITIONALLY UNDERREPRESENTED GROUPS IN STEM AND THOSE FROM SOCIAL-ECONOMICALLY DISADVANTAGED BACKGROUNDS. IN ADDITION FROM POSITIVELY IMPACTING OUR SCHOLARS, WE WILL ALSO BENEFIT LOCAL SCHOOLS AND THEIR STUDENTS THROUGH OUTREACH OPPORTUNITIES AS WELL AS THE COMMUNITY IN GENERAL.NUMBER OF SCHOLARS BENEFITING: WHILE WE PROPOSE TO FINANCIALLY SUPPORT 15 UNDERGRADUATE AND 10 GRADUATE SCHOLARS, THE BROADER IMPACTS WILL BENEFIT ALL UROC SCHOLARS AND REGIONAL STUDENTS (OVER 300/YR).PRODUCTS: OUR PRINCIPAL PRODUCTS ARE WELL-TRAINED UNDERGRADUATE AND GRADUATE LEVEL SCHOLARS THAT WILL BE HIGHLY QUALIFIED FOR ACADEMIC OR PROFESSIONAL POSITIONS IN AGRICULTURE-RELATED DISCIPLINES. OTHER PRODUCTS INCLUDE A LARGE NUMBER OF PEER-REVIEWED PUBLICATIONS, CONFERENCE AND MEETING ABSTRACTS AND PROCEEDINGS, AND NEW LEARNING MATERIALS FOR OUR OUTREACH EFFORTS.OUTCOMES/IMPACTS: WE EXPECT 100% OF OUR MS SCHOLARS TO GRADUATE AND CONTRIBUTE TO THE DIVERSITY DISPARITY IN THE STEM WORKFORCE ESPECIALLY WITHIN USDA. BASED ON THE FIRST ITERATION OF OUR GRANT WE EXPECT THE FOLLOWING TO CONSTITUTE MOST OF OUR EXPECTED OUTCOMES: (1) INCREASED GRADUATION RATE OF BOTH UNDERGRADUATE AND GRADUATE SCHOLARS COMPARED TO THE NON-SCHOLARS AT EACH INSTITUTION, (2) INCREASED PUBLICATIONS BY BOTH GROUPS, (3) INCREASED CONFERENCEAND MEETING PRESENTATIONS, (4) INCREASED NUMBER OF AWARDS AND HONORS BY BOTH GROUPS, (5) INCREASED NUMBER OF SCHOLARS PURSUING AGRICULTURE-RELATED CAREERS, AND (6) AN OPPORTUNITY TO MEET AND DISCUSS CAREER OPPORTUNITIES WITH USDA REPRESENTATIVES AT MEETINGS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "FFM7VPAG8P92",
+    "Recipient Location": {
+      "address_line1": "5200 N LAKE RD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "MERCED",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5001",
+      "zip5": "95343"
+    },
+    "Primary Place of Performance": {
+      "city_name": "MERCED",
+      "congressional_code": "16",
+      "country_name": "UNITED STATES",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95344",
+      "zip5": "95344"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2017-09-01",
+    "End Date": "2022-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "e5d977d0-85fb-65b4-d649-335857133b76-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20173842227227_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56293736,
+    "generated_unique_award_id": "ASST_NON_20173842227227_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PURPOSE: THE SAN JOAQUIN VALLEY OF CALIFORNIA IS AMONG THE NATION\u0026#39;S MOST DISADVANTAGED REGIONS, WITH AMONG THE LOWEST GRADUATION RATES AND LEVEL OF EDUCATION, AND HIGHEST POVERTY RATES. THE SJV IS ALSO AMONG THE MOST ETHNICALLY AND RACIALLY DIVERSE REGIONS OF CALIFORNIA (AND LIKELY THE NATION). THE PRIMARY PURPOSE OF OUR PROPOSAL IS TO MAINTAIN AND ENHANCE THE EXCELLENT MOMENTUM ESTABLISHED IN THE ORIGINAL CYCLE OF OUR USDA HSI PROGRAM AT UC MERCED BY EXPANDING THE NUMBER AND TYPE OF RESEARCH TRAINING OPPORTUNITIES TO THE DIVERSE POPULATION OF STUDENTS SUPPORTED BY UC MERCED AND OUR PARTNER HSIS, CSU STANISLAUS AND UC SANTA CRUZ.AUDIENCE: OUR PROGRAMS TARGET PRIMARILY STUDENTS FROM TRADITIONALLY UNDERREPRESENTED GROUPS IN STEM AND THOSE FROM SOCIAL-ECONOMICALLY DISADVANTAGED BACKGROUNDS. IN ADDITION FROM POSITIVELY IMPACTING OUR SCHOLARS, WE WILL ALSO BENEFIT LOCAL SCHOOLS AND THEIR STUDENTS THROUGH OUTREACH OPPORTUNITIES AS WELL AS THE COMMUNITY IN GENERAL.NUMBER OF SCHOLARS BENEFITING: WHILE WE PROPOSE TO FINANCIALLY SUPPORT 15 UNDERGRADUATE AND 10 GRADUATE SCHOLARS, THE BROADER IMPACTS WILL BENEFIT ALL UROC SCHOLARS AND REGIONAL STUDENTS (OVER 300/YR).PRODUCTS: OUR PRINCIPAL PRODUCTS ARE WELL-TRAINED UNDERGRADUATE AND GRADUATE LEVEL SCHOLARS THAT WILL BE HIGHLY QUALIFIED FOR ACADEMIC OR PROFESSIONAL POSITIONS IN AGRICULTURE-RELATED DISCIPLINES. OTHER PRODUCTS INCLUDE A LARGE NUMBER OF PEER-REVIEWED PUBLICATIONS, CONFERENCE AND MEETING ABSTRACTS AND PROCEEDINGS, AND NEW LEARNING MATERIALS FOR OUR OUTREACH EFFORTS.OUTCOMES/IMPACTS: WE EXPECT 100% OF OUR MS SCHOLARS TO GRADUATE AND CONTRIBUTE TO THE DIVERSITY DISPARITY IN THE STEM WORKFORCE ESPECIALLY WITHIN USDA. BASED ON THE FIRST ITERATION OF OUR GRANT WE EXPECT THE FOLLOWING TO CONSTITUTE MOST OF OUR EXPECTED OUTCOMES: (1) INCREASED GRADUATION RATE OF BOTH UNDERGRADUATE AND GRADUATE SCHOLARS COMPARED TO THE NON-SCHOLARS AT EACH INSTITUTION, (2) INCREASED PUBLICATIONS BY BOTH GROUPS, (3) INCREASED CONFERENCEAND MEETING PRESENTATIONS, (4) INCREASED NUMBER OF AWARDS AND HONORS BY BOTH GROUPS, (5) INCREASED NUMBER OF SCHOLARS PURSUING AGRICULTURE-RELATED CAREERS, AND (6) AN OPPORTUNITY TO MEET AND DISCUSS CAREER OPPORTUNITIES WITH USDA REPRESENTATIVES AT MEETINGS.",
+    "total_obligation": 995198.63,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2017-09-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 668508.94,
+    "total_account_obligation": 245198.63,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 668508.94
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 245198.63
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Youth, Family, and Community (IYFC)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Youth, Family, and Community (IYFC)"
+    },
+    "period_of_performance": {
+      "start_date": "2017-09-01",
+      "end_date": "2022-08-31",
+      "last_modified_date": "2023-04-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "e5d977d0-85fb-65b4-d649-335857133b76-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, MERCED",
+      "recipient_uei": "FFM7VPAG8P92",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "MERCED",
+        "county_code": "047",
+        "county_name": "MERCED",
+        "address_line1": "5200 N LAKE RD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "13",
+        "zip4": "5001",
+        "zip5": "95343",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "MERCED",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "13",
+      "zip4": "",
+      "zip5": "95344",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 668508.94
+  }
+}

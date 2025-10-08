@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57216601,
+    "Award ID": "2315798",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 919999,
+    "Total Outlays": 235035.87,
+    "Description": "DECODING THE EVOLUTIONARY DYNAMICS OF BACTERIAL REGULATORY SRNAS -SMALL RNAS (SRNAS) PLAY A CRUCIAL ROLE IN THE DIVERSIFICATION AND ADAPTATION OF BACTERIA, INFLUENCING VIRULENCE, ENVIRONMENTAL RESPONSES, AND METABOLISM. HOWEVER, THE UNDERSTANDING OF SRNA EVOLUTION IN BACTERIA IS TYPICALLY LIMITED DUE TO CHALLENGES IN IDENTIFYING SRNAS IN DISTANTLY RELATED SPECIES. RECENT RESEARCH HAS DISCOVERED SRNAS SHARED AMONG DIVERSE BACTERIA LIVING INSIDE HOSTS AND THAT SHARE A COMMON ANCESTOR. THEREFORE, THE EVOLUTION, FUNCTION AND REGULATION OF THESE SRNAS CAN BE STUDIED TO GAIN INSIGHTS INTO BACTERIAL INTERACTIONS WITH THEIR HOSTS AND ENVIRONMENT. MOREOVER, SRNAS HAVE POTENTIAL APPLICATIONS IN DEVELOPING TARGETED ANTIBIOTICS AND GREEN TECHNOLOGIES FOR AGRICULTURE AND PUBLIC HEALTH, TO COMBAT ANTIBIOTIC AND PESTICIDE RESISTANCE WHILE MINIMIZING NON-TARGET EFFECTS. THE BACTERIA STUDIED IN THIS PROJECT ARE REQUIRED FOR THEIR PEST INSECT HOSTS? SURVIVAL. THUS, UNDERSTANDING THE ROLE OF SRNAS IN MAINTAINING THESE MICROBE-PEST INTERACTIONS IS CRUCIAL FOR MANAGING AGRICULTURAL AND DISEASE-TRANSMITTING PESTS. THE PROJECT'S BROADER IMPACTS INCLUDE TRAINING AND DIVERSITY INITIATIVES, ENGAGING UNDERGRADUATE STUDENTS IN RESEARCH, AND PROMOTING INCLUSIVITY IN STEM EDUCATION. OUTREACH ACTIVITIES AND PUBLIC PRESENTATIONS WILL ENHANCE SCIENTIFIC UNDERSTANDING AMONG THE BROADER PUBLIC, ESPECIALLY LOW-INCOME COMMUNITIES. THIS PROJECT WILL FOSTER SCIENTIFIC DISCOVERY, TRAIN THE NEXT GENERATION OF RESEARCHERS, AND PROMOTE SCIENCE COMMUNICATION FOR THE BENEFIT OF SOCIETY. UNDERSTANDING HOW SMALL REGULATORY RNAS EVOLVE HAS BEEN CHALLENGING DUE TO THEIR RAPID EVOLUTION AND DIFFICULTIES IN FINDING RELATED SRNA IN DIVERSE BACTERIAL LINEAGES. RECENT RESEARCH HAS IDENTIFIED BACTERIA WITH CONSERVED SMALL RNAS EVEN AFTER MILLIONS OF YEARS OF DIVERGENCE, PROVIDING AN OPPORTUNITY TO STUDY THEIR EVOLUTION; THESE BACTERIA ARE ALSO OF INTEREST BECAUSE THEY LIVE INSIDE THE APHIDS, WHICH FEED ON PLANT SAP. THIS PROPOSAL AIMS TO INVESTIGATE THE EVOLUTION OF SRNA REGULATION AND FUNCTION IN THOSE BACTERIA SINCE THEIR DIVERGENCE FROM A COMMON ANCESTOR. THE RESEARCHERS WILL DETERMINE HOW SEQUENCE DIVERGENCE AND BINDING SPECIFICITY AFFECT THE FUNCTION AND STRUCTURE OF SRNAS THAT INTERACT WITH THEIR TARGET CODING SEQUENCES. ADDITIONALLY, THE RESEARCHERS WILL INVESTIGATE THE CONSERVATION OF MRNA TARGETS AMONG DIVERGENT SRNA ENCODED IN GENOMIC LOCATIONS FAR FROM THEIR TARGETS. THE FINDINGS OF THIS STUDY WILL ENHANCE OUR UNDERSTANDING OF THE FUNCTIONAL ROLES OF SRNAS AND HOW THEY CONTRIBUTE TO GENE REGULATION IN DIFFERENT BACTERIAL LINEAGES. MOREOVER, IT WILL PROVIDE INSIGHTS INTO THE EVOLUTIONARY HISTORY OF BACTERIA AND THEIR ADAPTATION TO THE ENVIRONMENT AND HOST CELLS OVER TIME. BY UNRAVELING THE MECHANISMS OF SRNA EVOLUTION, THIS RESEARCH CAN SHED LIGHT ON THE BROADER PROCESS OF GENE REGULATION AND ADAPTATION IN BACTERIA. UNDERGRADUATE STUDENTS WILL BE TRAINED IN THE COURSE OF THIS PROJECT, AND RESEARCHERS WILL CONTINUE TO PARTICIPATE IN THE ANNUAL CAMPUS-WIDE INSECT FESTIVALS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-09-01",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2315798_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57216601,
+    "generated_unique_award_id": "ASST_NON_2315798_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DECODING THE EVOLUTIONARY DYNAMICS OF BACTERIAL REGULATORY SRNAS -SMALL RNAS (SRNAS) PLAY A CRUCIAL ROLE IN THE DIVERSIFICATION AND ADAPTATION OF BACTERIA, INFLUENCING VIRULENCE, ENVIRONMENTAL RESPONSES, AND METABOLISM. HOWEVER, THE UNDERSTANDING OF SRNA EVOLUTION IN BACTERIA IS TYPICALLY LIMITED DUE TO CHALLENGES IN IDENTIFYING SRNAS IN DISTANTLY RELATED SPECIES. RECENT RESEARCH HAS DISCOVERED SRNAS SHARED AMONG DIVERSE BACTERIA LIVING INSIDE HOSTS AND THAT SHARE A COMMON ANCESTOR. THEREFORE, THE EVOLUTION, FUNCTION AND REGULATION OF THESE SRNAS CAN BE STUDIED TO GAIN INSIGHTS INTO BACTERIAL INTERACTIONS WITH THEIR HOSTS AND ENVIRONMENT. MOREOVER, SRNAS HAVE POTENTIAL APPLICATIONS IN DEVELOPING TARGETED ANTIBIOTICS AND GREEN TECHNOLOGIES FOR AGRICULTURE AND PUBLIC HEALTH, TO COMBAT ANTIBIOTIC AND PESTICIDE RESISTANCE WHILE MINIMIZING NON-TARGET EFFECTS. THE BACTERIA STUDIED IN THIS PROJECT ARE REQUIRED FOR THEIR PEST INSECT HOSTS? SURVIVAL. THUS, UNDERSTANDING THE ROLE OF SRNAS IN MAINTAINING THESE MICROBE-PEST INTERACTIONS IS CRUCIAL FOR MANAGING AGRICULTURAL AND DISEASE-TRANSMITTING PESTS. THE PROJECT'S BROADER IMPACTS INCLUDE TRAINING AND DIVERSITY INITIATIVES, ENGAGING UNDERGRADUATE STUDENTS IN RESEARCH, AND PROMOTING INCLUSIVITY IN STEM EDUCATION. OUTREACH ACTIVITIES AND PUBLIC PRESENTATIONS WILL ENHANCE SCIENTIFIC UNDERSTANDING AMONG THE BROADER PUBLIC, ESPECIALLY LOW-INCOME COMMUNITIES. THIS PROJECT WILL FOSTER SCIENTIFIC DISCOVERY, TRAIN THE NEXT GENERATION OF RESEARCHERS, AND PROMOTE SCIENCE COMMUNICATION FOR THE BENEFIT OF SOCIETY. UNDERSTANDING HOW SMALL REGULATORY RNAS EVOLVE HAS BEEN CHALLENGING DUE TO THEIR RAPID EVOLUTION AND DIFFICULTIES IN FINDING RELATED SRNA IN DIVERSE BACTERIAL LINEAGES. RECENT RESEARCH HAS IDENTIFIED BACTERIA WITH CONSERVED SMALL RNAS EVEN AFTER MILLIONS OF YEARS OF DIVERGENCE, PROVIDING AN OPPORTUNITY TO STUDY THEIR EVOLUTION; THESE BACTERIA ARE ALSO OF INTEREST BECAUSE THEY LIVE INSIDE THE APHIDS, WHICH FEED ON PLANT SAP. THIS PROPOSAL AIMS TO INVESTIGATE THE EVOLUTION OF SRNA REGULATION AND FUNCTION IN THOSE BACTERIA SINCE THEIR DIVERGENCE FROM A COMMON ANCESTOR. THE RESEARCHERS WILL DETERMINE HOW SEQUENCE DIVERGENCE AND BINDING SPECIFICITY AFFECT THE FUNCTION AND STRUCTURE OF SRNAS THAT INTERACT WITH THEIR TARGET CODING SEQUENCES. ADDITIONALLY, THE RESEARCHERS WILL INVESTIGATE THE CONSERVATION OF MRNA TARGETS AMONG DIVERGENT SRNA ENCODED IN GENOMIC LOCATIONS FAR FROM THEIR TARGETS. THE FINDINGS OF THIS STUDY WILL ENHANCE OUR UNDERSTANDING OF THE FUNCTIONAL ROLES OF SRNAS AND HOW THEY CONTRIBUTE TO GENE REGULATION IN DIFFERENT BACTERIAL LINEAGES. MOREOVER, IT WILL PROVIDE INSIGHTS INTO THE EVOLUTIONARY HISTORY OF BACTERIA AND THEIR ADAPTATION TO THE ENVIRONMENT AND HOST CELLS OVER TIME. BY UNRAVELING THE MECHANISMS OF SRNA EVOLUTION, THIS RESEARCH CAN SHED LIGHT ON THE BROADER PROCESS OF GENE REGULATION AND ADAPTATION IN BACTERIA. UNDERGRADUATE STUDENTS WILL BE TRAINED IN THE COURSE OF THIS PROJECT, AND RESEARCHERS WILL CONTINUE TO PARTICIPATE IN THE ANNUAL CAMPUS-WIDE INSECT FESTIVALS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 919999,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-07-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 235035.87,
+    "total_account_obligation": 919999,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 235035.87
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 919999
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MOLECULAR AND"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MOLECULAR AND"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2023-07-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 235035.87
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91197087,
+    "Award ID": "R01GM141324",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1228291,
+    "Total Outlays": 1190785.97,
+    "Description": "CHEMOENZYMATIC SYNTHESIS OF BACTERIAL NONULOSONIC ACIDS AND GLYCANS - PROJECT SUMMARY CHEMOENZYMATIC SYNTHESIS OF BACTERIAL NONULOSONIC ACIDS AND GLYCANS SIALIC ACIDS ARE A FAMILY OF WIDE-SPREAD NONULOSONIC ACIDS (ALPHA-KETO ACIDS WITH A NINE-CARBON BACKBONE) IN VERTEBRATES AND IN SOME PATHOGENIC BACTERIA. BACTERIA ALSO PRODUCE NONULOSONIC ACIDS THAT HAVE NOT BEEN FOUND IN ANIMALS. THESE BACTERIUM-SPECIFIC NONULOSONIC ACIDS HAVE BEEN USED BY BACTERIA AS PART OF THEIR CAPSULAR POLYSACCHARIDES (CPSS) AND LIPOPOLYSACCHARIDES (LPSS) WHICH ARE BACTERIAL VIRULENCE FACTORS AND POTENTIAL VACCINE CANDIDATES. STRUCTURALLY DEFINED BACTERIAL CPSS, LPSS, AND THE CORRESPONDING OLIGOSACCHARIDE REPEATING UNITS ARE IMPORTANT PROBES TO STUDY THEIR ROLES IN BACTERIAL INFECTION AND MICROBE-HOST INTERACTION INCLUDING THEIR INFLUENCE ON HOST IMMUNE SYSTEMS. THESE CARBOHYDRATES ARE ATTRACTIVE SYNTHETIC TARGETS BUT POSE SIGNIFICANT SYNTHETIC CHALLENGES. IN ADDITION TO BACTERIAL SPECIFIC NONULOSONIC ACIDS, THEY MAY CONTAIN OTHER MONOSACCHARIDE BUILDING BLOCKS THAT HAVE NOT BEEN FOUND IN MAMMALS. THE GLYCOSIDIC LINKAGES FOUND IN BACTERIAL POLYSACCHARIDES ARE ALSO MUCH MORE DIVERSE THAN THOSE IN MAMMALIAN GLYCANS. WE PROPOSE TO DEVELOP EFFICIENT CHEMOENZYMATIC METHODS TO SYNTHESIZE BACTERIAL NONULOSONIC ACIDS AND THEIR GLYCANS AS PART OF CPS AND LPS OLIGOSACCHARIDES OF PATHOGENIC BACTERIA. THESE REPRESENT BIOLOGICALLY IMPORTANT AND SYNTHETICALLY CHALLENGING TARGETS. IN THE CURRENT PROPOSAL DURATION, THE FOCUS WILL BE ON BACTERIAL GLYCANS CONTAINING LEGIONAMINIC ACID AND THEIR DERIVATIVES. THREE SPECIFIC AIMS ARE: 1, SYNTHESIZE ACCEPTORS AND MONOSACCHARIDE CHEMOENZYMATIC SYNTHONS FOR ONE-POT MULTIENZYME (OPME) GLYCOSYLATION SYSTEMS; 2, IDENTIFY AND CHARACTERIZE CANDIDATE SUGAR-1-P KINASES, UDP-SUGAR SYNTHETASES, AND GLYCOSYLTRANSFERASES; AND 3, CHEMOENZYMATIC SYNTHESIS OF BACTERIAL POLYSACCHARIDE REPEATING UNITS CONTAINING LEGIONAMINIC ACID OR DERIVATIVES. THE ENZYMES IDENTIFIED AND THE MONOSACCHARIDES DESIGNED ARE IMPORTANT TOOLS AND REAGENTS FOR ACCESSING SYNTHETIC CHALLENGING CARBOHYDRATES AND GLYCOCONJUGATES THAT ARE NOT LIMITED TO THE TARGETS DESCRIBED IN THE PROPOSAL. THE OLIGOSACCHARIDES PRODUCED ARE ESSENTIAL PROBES FOR BETTER UNDERSTANDING THE IMPORTANT ROLES OF BACTERIAL POLYSACCHARIDES. THEY ARE ALSO CANDIDATES FOR SYNTHESIZING STRUCTURALLY DEFINED CARBOHYDRATE-PROTEIN CONJUGATE VACCINES TO COMBAT BACTERIAL INFECTIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-03-05",
+    "End Date": "2025-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01GM141324_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91197087,
+    "generated_unique_award_id": "ASST_NON_R01GM141324_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CHEMOENZYMATIC SYNTHESIS OF BACTERIAL NONULOSONIC ACIDS AND GLYCANS - PROJECT SUMMARY CHEMOENZYMATIC SYNTHESIS OF BACTERIAL NONULOSONIC ACIDS AND GLYCANS SIALIC ACIDS ARE A FAMILY OF WIDE-SPREAD NONULOSONIC ACIDS (ALPHA-KETO ACIDS WITH A NINE-CARBON BACKBONE) IN VERTEBRATES AND IN SOME PATHOGENIC BACTERIA. BACTERIA ALSO PRODUCE NONULOSONIC ACIDS THAT HAVE NOT BEEN FOUND IN ANIMALS. THESE BACTERIUM-SPECIFIC NONULOSONIC ACIDS HAVE BEEN USED BY BACTERIA AS PART OF THEIR CAPSULAR POLYSACCHARIDES (CPSS) AND LIPOPOLYSACCHARIDES (LPSS) WHICH ARE BACTERIAL VIRULENCE FACTORS AND POTENTIAL VACCINE CANDIDATES. STRUCTURALLY DEFINED BACTERIAL CPSS, LPSS, AND THE CORRESPONDING OLIGOSACCHARIDE REPEATING UNITS ARE IMPORTANT PROBES TO STUDY THEIR ROLES IN BACTERIAL INFECTION AND MICROBE-HOST INTERACTION INCLUDING THEIR INFLUENCE ON HOST IMMUNE SYSTEMS. THESE CARBOHYDRATES ARE ATTRACTIVE SYNTHETIC TARGETS BUT POSE SIGNIFICANT SYNTHETIC CHALLENGES. IN ADDITION TO BACTERIAL SPECIFIC NONULOSONIC ACIDS, THEY MAY CONTAIN OTHER MONOSACCHARIDE BUILDING BLOCKS THAT HAVE NOT BEEN FOUND IN MAMMALS. THE GLYCOSIDIC LINKAGES FOUND IN BACTERIAL POLYSACCHARIDES ARE ALSO MUCH MORE DIVERSE THAN THOSE IN MAMMALIAN GLYCANS. WE PROPOSE TO DEVELOP EFFICIENT CHEMOENZYMATIC METHODS TO SYNTHESIZE BACTERIAL NONULOSONIC ACIDS AND THEIR GLYCANS AS PART OF CPS AND LPS OLIGOSACCHARIDES OF PATHOGENIC BACTERIA. THESE REPRESENT BIOLOGICALLY IMPORTANT AND SYNTHETICALLY CHALLENGING TARGETS. IN THE CURRENT PROPOSAL DURATION, THE FOCUS WILL BE ON BACTERIAL GLYCANS CONTAINING LEGIONAMINIC ACID AND THEIR DERIVATIVES. THREE SPECIFIC AIMS ARE: 1, SYNTHESIZE ACCEPTORS AND MONOSACCHARIDE CHEMOENZYMATIC SYNTHONS FOR ONE-POT MULTIENZYME (OPME) GLYCOSYLATION SYSTEMS; 2, IDENTIFY AND CHARACTERIZE CANDIDATE SUGAR-1-P KINASES, UDP-SUGAR SYNTHETASES, AND GLYCOSYLTRANSFERASES; AND 3, CHEMOENZYMATIC SYNTHESIS OF BACTERIAL POLYSACCHARIDE REPEATING UNITS CONTAINING LEGIONAMINIC ACID OR DERIVATIVES. THE ENZYMES IDENTIFIED AND THE MONOSACCHARIDES DESIGNED ARE IMPORTANT TOOLS AND REAGENTS FOR ACCESSING SYNTHETIC CHALLENGING CARBOHYDRATES AND GLYCOCONJUGATES THAT ARE NOT LIMITED TO THE TARGETS DESCRIBED IN THE PROPOSAL. THE OLIGOSACCHARIDES PRODUCED ARE ESSENTIAL PROBES FOR BETTER UNDERSTANDING THE IMPORTANT ROLES OF BACTERIAL POLYSACCHARIDES. THEY ARE ALSO CANDIDATES FOR SYNTHESIZING STRUCTURALLY DEFINED CARBOHYDRATE-PROTEIN CONJUGATE VACCINES TO COMBAT BACTERIAL INFECTIONS.",
+    "total_obligation": 1228291,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-03-04",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1190785.97,
+    "total_account_obligation": 1228291,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1190785.97
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1228291
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2021-03-05",
+      "end_date": "2025-01-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1190785.97
+  }
+}

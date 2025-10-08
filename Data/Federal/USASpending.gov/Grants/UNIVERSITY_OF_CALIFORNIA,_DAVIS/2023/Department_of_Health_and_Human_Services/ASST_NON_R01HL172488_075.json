@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91219253,
+    "Award ID": "R01HL172488",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1334993,
+    "Total Outlays": 928575.17,
+    "Description": "LDHA-LACTATE SIGNALING IN PULMONARY ARTERIAL HYPERTENSION - PULMONARY ARTERIAL HYPERTENSION (PAH), A PROGRESSIVE FATAL DISEASE, MANIFESTS BY REMODELING OF PULMONARY AR- TERIES (PA), LEADING TO INCREASED PA PRESSURE, RIGHT HEART FAILURE AND DEATH. THE KEY COMPONENT OF PA REMODELING IS THE PROGRESSIVE VESSEL WALL THICKENING DUE TO HYPER-PROLIFERATION OF PA SMOOTH MUSCLE CELLS (PASMC), ENDO- THELIAL CELLS (PAEC), AND ADVENTITIAL FIBROBLASTS (PAAF) THE MECHANISMS OF WHICH ARE NOT COMPLETELY UNDERSTOOD. PASMC IN PAH SWITCH TO UNIQUE DISEASE-SPECIFIC PHENOTYPE, CHARACTERIZED BY METABOLIC SHIFT TO GLYCOLYSIS, AU- TONOMOUS PROLIFERATION, AND APOPTOSIS RESISTANCE. PAH PULMONARY VASCULAR CELLS ARE ALSO HIGHLY SECRETORY AND SUPPORT PRO-PROLIFERATIVE MICROENVIRONMENT, FURTHER AMPLIFYING PA REMODELING AND PAH. PUBLISHED AND OUR NEW PRELIMINARY DATA STRONGLY SUGGEST THAT METABOLITE L-LACTATE ACTS AS A CENTRAL REGULATOR OF THE MOLECULAR AND MET- ABOLIC PROCESSES RESPONSIBLE FOR PULMONARY VASCULAR CELL HYPER-PROLIFERATION, REMODELING, AND PAH. OUR PILOT DATA SHOW THAT LACTATE, OVER-PRODUCED BY PAH PASMC DUE TO OVER-EXPRESSION OF LACTATE DEHYDROGENASE A (LDHA), PROMOTES ABERRANT LACTYLATION OF DNA TOPOISOMERASE 1 (TOP1) AND EMILIN1, LEADING TO TOP1 UP-REG- ULATION AND EMILIN1 DEFICIENCY, CONSEQUENT UP-REGULATION OF PRO-PROLIFERATIVE AKT-MTOR, YAP/TAZ, TGFΒ, IN- CREASED PROLIFERATION AND SURVIVAL. OUR DATA ALSO SUGGEST THAT LACTATE OVER-PRODUCTION IN PAH PASMC IS SELF- SUPPORTED VIA GLYCOLYSIS AND EMILIN1-TGFΒ1-HIF1Α-LDHA CIRCUIT, AND THAT LACTATE IS SECRETED BY PAH PASMC AND PROMOTES PROLIFERATION OF PA ENDOTHELIAL CELLS (PAEC) AND ADVENTITIAL FIBROBLASTS (PAAF). WE FURTHER REPORT THAT SUPPRESSION OF LDHA-LACTATE AXIS REDUCES PROLIFERATION AND INDUCES APOPTOSIS IN HUMAN PAH PASMC, RE- VERSES PULMONARY VASCULAR REMODELING AND EXPERIMENTAL PH IN MICE. WE PROPOSE TO ELUCIDATE THE ROLE AND MECHANISMS OF REGULATION AND FUNCTION OF LDHA-LACTATE SIGNALING IN PAH PULMONARY VASCULATURE AND EXPLORE THE BENEFITS OF TARGETING THIS PATHWAY TO CORRECT MECHANISTIC ABNORMALITIES AND REVERSE PA REMODELING AND PH. SPE- CIFICALLY, WE WILL: (1) CRITICALLY TEST THE ROLE OF LDHA-LACTATE IN PAH PASMC PROLIFERATION AND SURVIVAL, PULMONARY VASCULAR REMODELING AND PH USING HUMAN PAH AND NON-DISEASED PASMC AND LUNG TISSUE SAMPLES AND SM- SPECIFIC LDHAKNOCK-OUT MICE; DETERMINE THE RELATIONSHIP AMONG LDHA-LACTATE, LACTYLATION OF TOP1 AND EMILIN1, AND YAP/TAZ, AKT-MTOR, AND TGFΒ1 IN REGULATING PASMC PROLIFERATION AND SURVIVAL; (2) INVESTIGATE WHETHER LACTATE OVER-PRODUCTION IS SUPPORTED THROUGH UP-REGULATION OF GLYCOLYSIS AND EMILIN-TGFΒ1-HIF1Α-LDHA FEED- FORWARD LOOP, EVALUATE THE METABOLIC CONSEQUENCES OF LACTATE OVER-PRODUCTION, AND DETERMINE THE ROLE OF PASMC-SECRETED LACTATE IN THE PROLIFERATION OF PAEC AND PAAF; AND (3) EXAMINE WHETHER TARGETING LACTATE SIG- NALING BY LDHA INHIBITOR OXAMATE AND TOP1 INHIBITOR INDOTECAN SELECTIVELY INHIBITS PROLIFERATION AND INDUCES APOPTOSIS IN VITRO IN HUMAN PAH PASMC, REVERSES OR ATTENUATES EXPERIMENTAL PULMONARY VASCULAR REMODELING AND PH IN RATS. PROPOSED STUDY WILL IDENTIFY NEW CRITICAL MECHANISM OF PULMONARY VASCULAR REMODELING AND DIS- SECT NEW REMODELING-FOCUSED MOLECULAR TARGET(S) FOR THERAPEUTIC INTERVENTION. .",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-12-01",
+    "End Date": "2027-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL172488_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91219253,
+    "generated_unique_award_id": "ASST_NON_R01HL172488_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "LDHA-LACTATE SIGNALING IN PULMONARY ARTERIAL HYPERTENSION - PULMONARY ARTERIAL HYPERTENSION (PAH), A PROGRESSIVE FATAL DISEASE, MANIFESTS BY REMODELING OF PULMONARY AR- TERIES (PA), LEADING TO INCREASED PA PRESSURE, RIGHT HEART FAILURE AND DEATH. THE KEY COMPONENT OF PA REMODELING IS THE PROGRESSIVE VESSEL WALL THICKENING DUE TO HYPER-PROLIFERATION OF PA SMOOTH MUSCLE CELLS (PASMC), ENDO- THELIAL CELLS (PAEC), AND ADVENTITIAL FIBROBLASTS (PAAF) THE MECHANISMS OF WHICH ARE NOT COMPLETELY UNDERSTOOD. PASMC IN PAH SWITCH TO UNIQUE DISEASE-SPECIFIC PHENOTYPE, CHARACTERIZED BY METABOLIC SHIFT TO GLYCOLYSIS, AU- TONOMOUS PROLIFERATION, AND APOPTOSIS RESISTANCE. PAH PULMONARY VASCULAR CELLS ARE ALSO HIGHLY SECRETORY AND SUPPORT PRO-PROLIFERATIVE MICROENVIRONMENT, FURTHER AMPLIFYING PA REMODELING AND PAH. PUBLISHED AND OUR NEW PRELIMINARY DATA STRONGLY SUGGEST THAT METABOLITE L-LACTATE ACTS AS A CENTRAL REGULATOR OF THE MOLECULAR AND MET- ABOLIC PROCESSES RESPONSIBLE FOR PULMONARY VASCULAR CELL HYPER-PROLIFERATION, REMODELING, AND PAH. OUR PILOT DATA SHOW THAT LACTATE, OVER-PRODUCED BY PAH PASMC DUE TO OVER-EXPRESSION OF LACTATE DEHYDROGENASE A (LDHA), PROMOTES ABERRANT LACTYLATION OF DNA TOPOISOMERASE 1 (TOP1) AND EMILIN1, LEADING TO TOP1 UP-REG- ULATION AND EMILIN1 DEFICIENCY, CONSEQUENT UP-REGULATION OF PRO-PROLIFERATIVE AKT-MTOR, YAP/TAZ, TGFΒ, IN- CREASED PROLIFERATION AND SURVIVAL. OUR DATA ALSO SUGGEST THAT LACTATE OVER-PRODUCTION IN PAH PASMC IS SELF- SUPPORTED VIA GLYCOLYSIS AND EMILIN1-TGFΒ1-HIF1Α-LDHA CIRCUIT, AND THAT LACTATE IS SECRETED BY PAH PASMC AND PROMOTES PROLIFERATION OF PA ENDOTHELIAL CELLS (PAEC) AND ADVENTITIAL FIBROBLASTS (PAAF). WE FURTHER REPORT THAT SUPPRESSION OF LDHA-LACTATE AXIS REDUCES PROLIFERATION AND INDUCES APOPTOSIS IN HUMAN PAH PASMC, RE- VERSES PULMONARY VASCULAR REMODELING AND EXPERIMENTAL PH IN MICE. WE PROPOSE TO ELUCIDATE THE ROLE AND MECHANISMS OF REGULATION AND FUNCTION OF LDHA-LACTATE SIGNALING IN PAH PULMONARY VASCULATURE AND EXPLORE THE BENEFITS OF TARGETING THIS PATHWAY TO CORRECT MECHANISTIC ABNORMALITIES AND REVERSE PA REMODELING AND PH. SPE- CIFICALLY, WE WILL: (1) CRITICALLY TEST THE ROLE OF LDHA-LACTATE IN PAH PASMC PROLIFERATION AND SURVIVAL, PULMONARY VASCULAR REMODELING AND PH USING HUMAN PAH AND NON-DISEASED PASMC AND LUNG TISSUE SAMPLES AND SM- SPECIFIC LDHAKNOCK-OUT MICE; DETERMINE THE RELATIONSHIP AMONG LDHA-LACTATE, LACTYLATION OF TOP1 AND EMILIN1, AND YAP/TAZ, AKT-MTOR, AND TGFΒ1 IN REGULATING PASMC PROLIFERATION AND SURVIVAL; (2) INVESTIGATE WHETHER LACTATE OVER-PRODUCTION IS SUPPORTED THROUGH UP-REGULATION OF GLYCOLYSIS AND EMILIN-TGFΒ1-HIF1Α-LDHA FEED- FORWARD LOOP, EVALUATE THE METABOLIC CONSEQUENCES OF LACTATE OVER-PRODUCTION, AND DETERMINE THE ROLE OF PASMC-SECRETED LACTATE IN THE PROLIFERATION OF PAEC AND PAAF; AND (3) EXAMINE WHETHER TARGETING LACTATE SIG- NALING BY LDHA INHIBITOR OXAMATE AND TOP1 INHIBITOR INDOTECAN SELECTIVELY INHIBITS PROLIFERATION AND INDUCES APOPTOSIS IN VITRO IN HUMAN PAH PASMC, REVERSES OR ATTENUATES EXPERIMENTAL PULMONARY VASCULAR REMODELING AND PH IN RATS. PROPOSED STUDY WILL IDENTIFY NEW CRITICAL MECHANISM OF PULMONARY VASCULAR REMODELING AND DIS- SECT NEW REMODELING-FOCUSED MOLECULAR TARGET(S) FOR THERAPEUTIC INTERVENTION. .",
+    "total_obligation": 1334993,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-12-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 928575.17,
+    "total_account_obligation": 1334993,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 928575.17
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1334993
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-12-01",
+      "end_date": "2027-11-30",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 928575.17
+  }
+}

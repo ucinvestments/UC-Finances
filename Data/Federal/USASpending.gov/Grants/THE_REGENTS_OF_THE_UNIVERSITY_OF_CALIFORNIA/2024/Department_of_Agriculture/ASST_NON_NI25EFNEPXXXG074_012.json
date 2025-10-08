@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89861937,
+    "Award ID": "NI25EFNEPXXXG074",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 3779593,
+    "Total Outlays": 0,
+    "Description": "THE EXPANDED FOOD AND NUTRITION EDUCATION PROGRAM (EFNEP) PROVIDES FEDERAL FUNDING FOR SCIENCE-BASED OR EVIDENCE BASED ACTIVITIES TO ENABLE LOW-INCOME INDIVIDUALS AND FAMILIES TO ENGAGE IN NUTRITIONALLY SOUND FOOD PURCHASE AND PREPARATION PRACTICES. EFNEP IS AUTHORIZED BY SECTION 1425 OF THE NATIONAL AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING POLICY ACT OF 1977 (7 U.S.C. 3175), AND APPROPRIATIONS ARE MADE AVAILABLE PURSUANT TO SECTION 3(D) OF THE SMITH-LEVER ACT. UC AGRICULTURE AND NATURAL RESOURCES (UC ANR) MANAGES EFNEP IN 19 COUNTIES ACROSS CALIFORNIA. EFNEP DELIVERS RESEARCH-BASED NUTRITION EDUCATION TO LIMITED-RESOURCE FAMILIES WITH YOUNG CHILDREN TO ACQUIRE SKILLS, ATTITUDES, AND CHANGED BEHAVIORS NECESSARY FOR NUTRITIONALLY SOUND DIETS THAT CONTRIBUTE TO THEIR PERSONAL DEVELOPMENT AND NUTRITIONAL WELL-BEING. IN FFY2023, UC ANR'S EFNEP PROGRAMS HAD OVER 9,600 ENROLLED IN ITS EDUCATIONAL PROGRAMS. UC COOPERATIVE EXTENSION (UCCE) ACADEMICS PROVIDE OVERSIGHT, LEADERSHIP, AND GUIDANCE FOR EFNEP PROGRAMS. CURRICULA SUCH AS EATING SMART BEING ACTIVE ARE DELIVERED TO HELP ADULT PARTICIPANTS GAIN THE TOOLS NEEDED TO TAKE CONTROL OF THEIR MONEY BY TEACHING FAMILIES FOOD BUYING/BUDGETING SKILLS AND FOOD RESOURCE MANAGEMENT TECHNIQUES. FOLLOWING ARE FFY 2023 EVALUATION RESULTS TO DESCRIBE THE OUTCOMES THAT ARE MEASURED. ADULT GRADUATES FROM THE PROGRAM STATEWIDE AVERAGED A $63.95 MONTHLY SAVINGS IN THEIR GROCERY BUDGET, WHICH EQUATES TO A $767 SAVINGS ANNUALLY. AFTER COMPLETING EFNEP CLASSES, THE NUMBER OF PARTICIPANTS REPORTING THEY WERE UNABLE TO AFFORD BALANCED MEALS DECREASED FROM 89% TO 37%. IN ADDITION, PROGRAM FAMILIES MAKE STRIDES IN HEALTHY LIFESTYLES PRACTICES. EXAMPLES OF SUCH MEASURED OUTCOMES ARE LISTED BELOW. PARTICIPANTS ADOPT HOME FOOD SAFETY PRACTICES. EFNEP SURVEYED OVER 1,930 ADULT PARTICIPANTS, AND 84% SHOWED IMPROVEMENTS IN ONE OR MORE FOOD SAFETY PRACTICES, SUCH AS USING SAFE METHODS TO THAW FROZEN FOODS OR USING A MEAT THERMOMETER, AS A RESULT OF PARTICIPATING IN THE PROGRAM. OUT OF 1,815 YOUTH EFNEP PARTICIPANTS SURVEYED, 57% OF YOUTH IN KINDERGARTEN THROUGH GRADE 12 SHOWED IMPROVEMENTS IN FOOD SAFETY SKILLS AND KNOWLEDGE. PARTICIPANTS ADOPT HEALTHY EATING PRACTICES. EFNEP SURVEYED OVER 1,930 ADULT PARTICIPANTS, AND 98% REPORTED IMPROVEMENTS IN THEIR DIET QUALITY, INCLUDING EATING MORE OF RED AND ORANGE VEGETABLES, EATING MORE DARK GREEN VEGETABLES, AND EATING FRUIT MORE OFTEN EACH DAY. OUT OF 1,815 YOUTH EFNEP PARTICIPANTS SURVEYED, 87% REPORTED IMPROVEMENTS IN THEIR DIET QUALITY, INCLUDING EATING MORE FRUIT AND VEGETABLES. PARTICIPANTS ADOPT HEALTHY LIFESTYLE AND DECISION-MAKING PRACTICES. EFNEP SURVEYED OVER 1,930 ADULT PARTICIPANTS, AND 84% REPORTED INCREASING THEIR PHYSICAL ACTIVITY. OUT OF 1,815 YOUTH EFNEP PARTICIPANTS SURVEYED, 58% REPORTED INCREASING THEIR PHYSICAL ACTIVITY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "DJA9TB2ULCT1",
+    "Recipient Location": {
+      "address_line1": "1111 FRANKLIN ST 11TH FL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "OAKLAND",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0000",
+      "zip5": "94607"
+    },
+    "Primary Place of Performance": {
+      "city_name": "OAKLAND",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94607",
+      "zip5": "94607"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2024-10-01",
+    "End Date": "2029-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2b3d781a-26c9-36d8-b334-e3b592d9e6a5-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_NI25EFNEPXXXG074_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89861937,
+    "generated_unique_award_id": "ASST_NON_NI25EFNEPXXXG074_012",
+    "piid": "",
+    "category": "grant",
+    "type": "03",
+    "type_description": "FORMULA GRANT (A)",
+    "description": "THE EXPANDED FOOD AND NUTRITION EDUCATION PROGRAM (EFNEP) PROVIDES FEDERAL FUNDING FOR SCIENCE-BASED OR EVIDENCE BASED ACTIVITIES TO ENABLE LOW-INCOME INDIVIDUALS AND FAMILIES TO ENGAGE IN NUTRITIONALLY SOUND FOOD PURCHASE AND PREPARATION PRACTICES. EFNEP IS AUTHORIZED BY SECTION 1425 OF THE NATIONAL AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING POLICY ACT OF 1977 (7 U.S.C. 3175), AND APPROPRIATIONS ARE MADE AVAILABLE PURSUANT TO SECTION 3(D) OF THE SMITH-LEVER ACT. UC AGRICULTURE AND NATURAL RESOURCES (UC ANR) MANAGES EFNEP IN 19 COUNTIES ACROSS CALIFORNIA. EFNEP DELIVERS RESEARCH-BASED NUTRITION EDUCATION TO LIMITED-RESOURCE FAMILIES WITH YOUNG CHILDREN TO ACQUIRE SKILLS, ATTITUDES, AND CHANGED BEHAVIORS NECESSARY FOR NUTRITIONALLY SOUND DIETS THAT CONTRIBUTE TO THEIR PERSONAL DEVELOPMENT AND NUTRITIONAL WELL-BEING. IN FFY2023, UC ANR'S EFNEP PROGRAMS HAD OVER 9,600 ENROLLED IN ITS EDUCATIONAL PROGRAMS. UC COOPERATIVE EXTENSION (UCCE) ACADEMICS PROVIDE OVERSIGHT, LEADERSHIP, AND GUIDANCE FOR EFNEP PROGRAMS. CURRICULA SUCH AS EATING SMART BEING ACTIVE ARE DELIVERED TO HELP ADULT PARTICIPANTS GAIN THE TOOLS NEEDED TO TAKE CONTROL OF THEIR MONEY BY TEACHING FAMILIES FOOD BUYING/BUDGETING SKILLS AND FOOD RESOURCE MANAGEMENT TECHNIQUES. FOLLOWING ARE FFY 2023 EVALUATION RESULTS TO DESCRIBE THE OUTCOMES THAT ARE MEASURED. ADULT GRADUATES FROM THE PROGRAM STATEWIDE AVERAGED A $63.95 MONTHLY SAVINGS IN THEIR GROCERY BUDGET, WHICH EQUATES TO A $767 SAVINGS ANNUALLY. AFTER COMPLETING EFNEP CLASSES, THE NUMBER OF PARTICIPANTS REPORTING THEY WERE UNABLE TO AFFORD BALANCED MEALS DECREASED FROM 89% TO 37%. IN ADDITION, PROGRAM FAMILIES MAKE STRIDES IN HEALTHY LIFESTYLES PRACTICES. EXAMPLES OF SUCH MEASURED OUTCOMES ARE LISTED BELOW. PARTICIPANTS ADOPT HOME FOOD SAFETY PRACTICES. EFNEP SURVEYED OVER 1,930 ADULT PARTICIPANTS, AND 84% SHOWED IMPROVEMENTS IN ONE OR MORE FOOD SAFETY PRACTICES, SUCH AS USING SAFE METHODS TO THAW FROZEN FOODS OR USING A MEAT THERMOMETER, AS A RESULT OF PARTICIPATING IN THE PROGRAM. OUT OF 1,815 YOUTH EFNEP PARTICIPANTS SURVEYED, 57% OF YOUTH IN KINDERGARTEN THROUGH GRADE 12 SHOWED IMPROVEMENTS IN FOOD SAFETY SKILLS AND KNOWLEDGE. PARTICIPANTS ADOPT HEALTHY EATING PRACTICES. EFNEP SURVEYED OVER 1,930 ADULT PARTICIPANTS, AND 98% REPORTED IMPROVEMENTS IN THEIR DIET QUALITY, INCLUDING EATING MORE OF RED AND ORANGE VEGETABLES, EATING MORE DARK GREEN VEGETABLES, AND EATING FRUIT MORE OFTEN EACH DAY. OUT OF 1,815 YOUTH EFNEP PARTICIPANTS SURVEYED, 87% REPORTED IMPROVEMENTS IN THEIR DIET QUALITY, INCLUDING EATING MORE FRUIT AND VEGETABLES. PARTICIPANTS ADOPT HEALTHY LIFESTYLE AND DECISION-MAKING PRACTICES. EFNEP SURVEYED OVER 1,930 ADULT PARTICIPANTS, AND 84% REPORTED INCREASING THEIR PHYSICAL ACTIVITY. OUT OF 1,815 YOUTH EFNEP PARTICIPANTS SURVEYED, 58% REPORTED INCREASING THEIR PHYSICAL ACTIVITY.",
+    "total_obligation": 3779593,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-12-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 3779593,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3779593
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2024-10-01",
+      "end_date": "2029-09-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2b3d781a-26c9-36d8-b334-e3b592d9e6a5-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "DJA9TB2ULCT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "OAKLAND",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1111 FRANKLIN ST 11TH FL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "0000",
+        "zip5": "94607",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "OAKLAND",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "",
+      "zip5": "94607",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

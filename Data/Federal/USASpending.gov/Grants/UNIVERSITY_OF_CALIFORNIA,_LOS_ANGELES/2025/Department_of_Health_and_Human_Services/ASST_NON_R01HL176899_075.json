@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91219572,
+    "Award ID": "R01HL176899",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 732672,
+    "Total Outlays": 0,
+    "Description": "EVIDENCE-BASED TREATMENT FOR PTSD AND CARDIOVASCULAR DISEASE RISK - PROJECT SUMMARY POSTTRAUMATIC STRESS DISORDER (PTSD) IS AN OFTEN CHRONIC AND DISABLING MENTAL DISORDER THAT CAN HAVE ADVERSE CONSEQUENCES FOR HEALTH. INDEED, PTSD HAS BEEN LINKED TO HEIGHTENED INCIDENCE OF CARDIOVASCULAR DISEASE (CVD) AND MORTALITY. FORTUNATELY, THERE ARE HIGHLY EFFECTIVE TREATMENTS FOR PTSD, INCLUDING EVIDENCE-BASED PSYCHOTHERAPIES (EBPS) AND EVIDENCE-BASED ANTIDEPRESSANTS (EBAS). HOWEVER, IT IS NOT YET KNOWN IF THESE EVIDENCE-BASED TREATMENTS FOR PTSD CAN REDUCE INCIDENCE OF CVD OR MORTALITY, LIKELY DUE TO LIMITATIONS OF EXISTING EPIDEMIOLOGIC DATASETS AND THE INFEASIBILITY OF ANSWERING THESE QUESTIONS IN A RANDOMIZED CONTROLLED TRIAL FRAMEWORK. THE PROPOSED PROJECT IS DISTINCTIVELY POISED TO ADDRESS THESE QUESTIONS BY HARNESSING A UNIQUE DATA RESOURCE: THE WORLD’S MOST COMPREHENSIVE PTSD TREATMENT DATABASE, WITH UP TO 20 YEARS OF DATA ON OVER 2 MILLION VETERANS WITH PTSD RECEIVING CARE IN THE UNITED STATES DEPARTMENT OF VETERANS AFFAIRS HEALTHCARE SYSTEM. NOT ONLY DOES THIS DATA RESOURCE HAVE ELECTRONIC HEALTH RECORD (EHR) DOCUMENTATION OF PHARMACOTHERAPY FOR IDENTIFYING EBA RECEIPT, BUT WE TRAINED NATURAL LANGUAGE PROCESSING ALGORITHMS TO IDENTIFY EBPS FOR PTSD, AS WELL AS CHANGES IN PTSD SYMPTOMS ON A VALIDATED SELF-REPORT MEASURE. BY ANALYZING THESE COMPREHENSIVE EHR DATA, INCLUDING TREATMENT RECEIPT, PTSD SYMPTOM SEVERITY, CVD DIAGNOSES, AND MORTALITY, IN A LARGE, DIVERSE SAMPLE OF VETERANS, THE PROPOSED PROJECT IS THUS UNIQUELY POSITIONED TO ADDRESS THE IMPACT OF EVIDENCE-BASED TREATMENT FOR PTSD ON CVD OUTCOMES. IN AIM 1, WE WILL EXAMINE WHETHER INCIDENCE OF CVD AND MORTALITY (CARDIOVASCULAR AND ALL-CAUSE) VARY BY EVIDENCE-BASED PTSD TREATMENT RECEIVED (EBP, EBA, BOTH EBP/EBA, NO EVIDENCE-BASED TREATMENT). WE HYPOTHESIZE THAT RECEIPT OF EVIDENCE-BASED PTSD TREATMENT WILL BE ASSOCIATED WITH REDUCED INCIDENCE OF CVD (E.G., MYOCARDIAL INFARCTION, STROKE, AS DOCUMENTED WITH DIAGNOSTIC CODES IN THE EHR) AND MORTALITY, WITH VARIABILITY BY TREATMENT TYPE (E.G., EBPS MAY HAVE MORE CVD BENEFIT THAN EBAS GIVEN SOME FINDINGS OF HEIGHTENED CVD INCIDENCE WITH EBAS). IN AIM 2, WE WILL INVESTIGATE WHETHER CLINICALLY SIGNIFICANT IMPROVEMENT IN PTSD SYMPTOMS, AS WELL AS SYMPTOMATIC REMISSION, ARE ASSOCIATED WITH REDUCED CVD INCIDENCE AND MORTALITY, WITHIN TYPE OF TREATMENT RECEIVED. ALTHOUGH TREATMENT RECEIPT ALONE MAY HAVE IMPLICATIONS FOR CARDIOVASCULAR HEALTH, WE PREDICT THAT TREATMENT ACCOMPANIED BY CLINICALLY SIGNIFICANT PTSD SYMPTOM IMPROVEMENT OR SYMPTOMATIC REMISSION WILL BE MORE STRONGLY ASSOCIATED WITH REDUCED CVD INCIDENCE AND MORTALITY. IN EXPLORATORY AIMS, WE WILL EXAMINE THESE ASSOCIATIONS IN MODELS STRATIFIED BY RELEVANT PATIENT CHARACTERISTICS, NAMELY SEX, RACE, AND ETHNICITY. THIS PROJECT BRINGS TOGETHER AN INTERDISCIPLINARY TEAM OF EXPERTS, A COST-EFFECTIVE USE OF AN EXISTING DATA RESOURCE, AND INNOVATIVE QUESTIONS TO IDENTIFY POTENTIAL INTERVENTIONS FOR A LEADING CAUSE OF DEATH AND DISABILITY. FINDINGS HAVE THE POTENTIAL TO GUIDE TREATMENT DECISIONS FOR PATIENTS WITH PTSD TO BEST PROMOTE CARDIOVASCULAR HEALTH AND INFORM NEW APPROACHES TO PREVENT AND TREAT CVD IN BROADER PATIENT SAMPLES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4200",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-02-01",
+    "End Date": "2028-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL176899_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91219572,
+    "generated_unique_award_id": "ASST_NON_R01HL176899_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EVIDENCE-BASED TREATMENT FOR PTSD AND CARDIOVASCULAR DISEASE RISK - PROJECT SUMMARY POSTTRAUMATIC STRESS DISORDER (PTSD) IS AN OFTEN CHRONIC AND DISABLING MENTAL DISORDER THAT CAN HAVE ADVERSE CONSEQUENCES FOR HEALTH. INDEED, PTSD HAS BEEN LINKED TO HEIGHTENED INCIDENCE OF CARDIOVASCULAR DISEASE (CVD) AND MORTALITY. FORTUNATELY, THERE ARE HIGHLY EFFECTIVE TREATMENTS FOR PTSD, INCLUDING EVIDENCE-BASED PSYCHOTHERAPIES (EBPS) AND EVIDENCE-BASED ANTIDEPRESSANTS (EBAS). HOWEVER, IT IS NOT YET KNOWN IF THESE EVIDENCE-BASED TREATMENTS FOR PTSD CAN REDUCE INCIDENCE OF CVD OR MORTALITY, LIKELY DUE TO LIMITATIONS OF EXISTING EPIDEMIOLOGIC DATASETS AND THE INFEASIBILITY OF ANSWERING THESE QUESTIONS IN A RANDOMIZED CONTROLLED TRIAL FRAMEWORK. THE PROPOSED PROJECT IS DISTINCTIVELY POISED TO ADDRESS THESE QUESTIONS BY HARNESSING A UNIQUE DATA RESOURCE: THE WORLD’S MOST COMPREHENSIVE PTSD TREATMENT DATABASE, WITH UP TO 20 YEARS OF DATA ON OVER 2 MILLION VETERANS WITH PTSD RECEIVING CARE IN THE UNITED STATES DEPARTMENT OF VETERANS AFFAIRS HEALTHCARE SYSTEM. NOT ONLY DOES THIS DATA RESOURCE HAVE ELECTRONIC HEALTH RECORD (EHR) DOCUMENTATION OF PHARMACOTHERAPY FOR IDENTIFYING EBA RECEIPT, BUT WE TRAINED NATURAL LANGUAGE PROCESSING ALGORITHMS TO IDENTIFY EBPS FOR PTSD, AS WELL AS CHANGES IN PTSD SYMPTOMS ON A VALIDATED SELF-REPORT MEASURE. BY ANALYZING THESE COMPREHENSIVE EHR DATA, INCLUDING TREATMENT RECEIPT, PTSD SYMPTOM SEVERITY, CVD DIAGNOSES, AND MORTALITY, IN A LARGE, DIVERSE SAMPLE OF VETERANS, THE PROPOSED PROJECT IS THUS UNIQUELY POSITIONED TO ADDRESS THE IMPACT OF EVIDENCE-BASED TREATMENT FOR PTSD ON CVD OUTCOMES. IN AIM 1, WE WILL EXAMINE WHETHER INCIDENCE OF CVD AND MORTALITY (CARDIOVASCULAR AND ALL-CAUSE) VARY BY EVIDENCE-BASED PTSD TREATMENT RECEIVED (EBP, EBA, BOTH EBP/EBA, NO EVIDENCE-BASED TREATMENT). WE HYPOTHESIZE THAT RECEIPT OF EVIDENCE-BASED PTSD TREATMENT WILL BE ASSOCIATED WITH REDUCED INCIDENCE OF CVD (E.G., MYOCARDIAL INFARCTION, STROKE, AS DOCUMENTED WITH DIAGNOSTIC CODES IN THE EHR) AND MORTALITY, WITH VARIABILITY BY TREATMENT TYPE (E.G., EBPS MAY HAVE MORE CVD BENEFIT THAN EBAS GIVEN SOME FINDINGS OF HEIGHTENED CVD INCIDENCE WITH EBAS). IN AIM 2, WE WILL INVESTIGATE WHETHER CLINICALLY SIGNIFICANT IMPROVEMENT IN PTSD SYMPTOMS, AS WELL AS SYMPTOMATIC REMISSION, ARE ASSOCIATED WITH REDUCED CVD INCIDENCE AND MORTALITY, WITHIN TYPE OF TREATMENT RECEIVED. ALTHOUGH TREATMENT RECEIPT ALONE MAY HAVE IMPLICATIONS FOR CARDIOVASCULAR HEALTH, WE PREDICT THAT TREATMENT ACCOMPANIED BY CLINICALLY SIGNIFICANT PTSD SYMPTOM IMPROVEMENT OR SYMPTOMATIC REMISSION WILL BE MORE STRONGLY ASSOCIATED WITH REDUCED CVD INCIDENCE AND MORTALITY. IN EXPLORATORY AIMS, WE WILL EXAMINE THESE ASSOCIATIONS IN MODELS STRATIFIED BY RELEVANT PATIENT CHARACTERISTICS, NAMELY SEX, RACE, AND ETHNICITY. THIS PROJECT BRINGS TOGETHER AN INTERDISCIPLINARY TEAM OF EXPERTS, A COST-EFFECTIVE USE OF AN EXISTING DATA RESOURCE, AND INNOVATIVE QUESTIONS TO IDENTIFY POTENTIAL INTERVENTIONS FOR A LEADING CAUSE OF DEATH AND DISABILITY. FINDINGS HAVE THE POTENTIAL TO GUIDE TREATMENT DECISIONS FOR PATIENTS WITH PTSD TO BEST PROMOTE CARDIOVASCULAR HEALTH AND INFORM NEW APPROACHES TO PREVENT AND TREAT CVD IN BROADER PATIENT SAMPLES.",
+    "total_obligation": 732672,
+    "subaward_count": 2,
+    "total_subaward_amount": 247115,
+    "date_signed": "2025-01-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 732672,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 732672
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2025-02-01",
+      "end_date": "2028-11-30",
+      "last_modified_date": "2025-02-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4200",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

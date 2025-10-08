@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91329337,
+    "Award ID": "R35GM141800",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 610334.84,
+    "Total Outlays": 575790.93,
+    "Description": "MECHANISMS LINKING MITOCHONDRIAL FORM AND FUNCTION - SUMMARY MITOCHONDRIA ARE ENDOSYMBIOTIC ORGANELLES AND HAVE RETAINED A REDUCED GENOME PACKAGED INTO 100-1000 COPIES OF NUCLEOIDS PER CELL, DISTRIBUTED WITHIN DYNAMIC MITOCHONDRIA “SYNCYTIA”. MITOCHONDRIA ARE THE METABOLIC HUBS OF EUKARYOTIC CELLS, PRODUCING ATP VIA OXIDATIVE PHOSPHORYLATION AND OTHER CRITICAL BUILDING BLOCKS. THEY HAVE EVOLVED TO BEHAVE DYNAMICALLY AND TO BE AN INTEGRATING PLATFORM FOR THE ASSEMBLY AND REGULATION OF SIGNALING PATHWAYS, SUCH AS CELL DEATH AND INNATE IMMUNITY. GIVEN THEIR CENTRAL ROLES, IT IS NOT SURPRISING THAT THAT MITOCHONDRIAL DYSFUNCTION IS ASSOCIATED WITH AN INCREASINGLY LARGE PROPORTION OF HUMAN INHERITED DISORDERS AND WITH COMMON DISEASES, SUCH AS NEURODEGENERATIVE DISORDERS, METABOLIC SYNDROMES, AND CANCER. TO GAIN INSIGHT INTO THE ROLES OF MITOCHONDRIA IN SICKNESS AND IN HEALTH, WE ARE FOCUSED ON HOW MITOCHONDRIAL BEHAVIOR IS CONTROLLED WITHIN CELLS AND HOW THIS BEHAVIOR IS INTERTWINED WITH METABOLISM AND CELL BEHAVIOR. OUR CURRENT RESEARCH ADDRESSES THE OUTSTANDING QUESTIONS OF HOW MITOCHONDRIAL DNA COPY NUMBER AND TRANSMISSION IS CONTROLLED IN CELLS, HOW THE MITOCHONDRIAL INNER MEMBRANE IS DIFFERENTIATED INTO DISTINCT DOMAINS AND HOW MITOCHONDRIAL BEHAVIOR, METABOLISM AND CELL BEHAVIOR ARE INTEGRATED. ADDRESSING THESE QUESTIONS WILL ILLUMINATE HOW MITOCHONDRIA CONTRIBUTE TO CELLULAR HOMEOSTASIS AND PATHOGENESIS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-05-01",
+    "End Date": "2022-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM141800_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91329337,
+    "generated_unique_award_id": "ASST_NON_R35GM141800_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MECHANISMS LINKING MITOCHONDRIAL FORM AND FUNCTION - SUMMARY MITOCHONDRIA ARE ENDOSYMBIOTIC ORGANELLES AND HAVE RETAINED A REDUCED GENOME PACKAGED INTO 100-1000 COPIES OF NUCLEOIDS PER CELL, DISTRIBUTED WITHIN DYNAMIC MITOCHONDRIA “SYNCYTIA”. MITOCHONDRIA ARE THE METABOLIC HUBS OF EUKARYOTIC CELLS, PRODUCING ATP VIA OXIDATIVE PHOSPHORYLATION AND OTHER CRITICAL BUILDING BLOCKS. THEY HAVE EVOLVED TO BEHAVE DYNAMICALLY AND TO BE AN INTEGRATING PLATFORM FOR THE ASSEMBLY AND REGULATION OF SIGNALING PATHWAYS, SUCH AS CELL DEATH AND INNATE IMMUNITY. GIVEN THEIR CENTRAL ROLES, IT IS NOT SURPRISING THAT THAT MITOCHONDRIAL DYSFUNCTION IS ASSOCIATED WITH AN INCREASINGLY LARGE PROPORTION OF HUMAN INHERITED DISORDERS AND WITH COMMON DISEASES, SUCH AS NEURODEGENERATIVE DISORDERS, METABOLIC SYNDROMES, AND CANCER. TO GAIN INSIGHT INTO THE ROLES OF MITOCHONDRIA IN SICKNESS AND IN HEALTH, WE ARE FOCUSED ON HOW MITOCHONDRIAL BEHAVIOR IS CONTROLLED WITHIN CELLS AND HOW THIS BEHAVIOR IS INTERTWINED WITH METABOLISM AND CELL BEHAVIOR. OUR CURRENT RESEARCH ADDRESSES THE OUTSTANDING QUESTIONS OF HOW MITOCHONDRIAL DNA COPY NUMBER AND TRANSMISSION IS CONTROLLED IN CELLS, HOW THE MITOCHONDRIAL INNER MEMBRANE IS DIFFERENTIATED INTO DISTINCT DOMAINS AND HOW MITOCHONDRIAL BEHAVIOR, METABOLISM AND CELL BEHAVIOR ARE INTEGRATED. ADDRESSING THESE QUESTIONS WILL ILLUMINATE HOW MITOCHONDRIA CONTRIBUTE TO CELLULAR HOMEOSTASIS AND PATHOGENESIS.",
+    "total_obligation": 610334.84,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-04-07",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 575790.93,
+    "total_account_obligation": 610334.84,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 575790.93
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 610334.84
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 841,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Office of the Assistant Secretary for Financial Resources",
+        "code": "7571",
+        "abbreviation": "ASFR"
+      },
+      "office_agency_name": "ASFR OFFICE OF THE ASSISTANT SECRETARY FOR FINANCIAL RESOURCES"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2021-05-01",
+      "end_date": "2022-04-30",
+      "last_modified_date": "2023-10-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 575790.93
+  }
+}

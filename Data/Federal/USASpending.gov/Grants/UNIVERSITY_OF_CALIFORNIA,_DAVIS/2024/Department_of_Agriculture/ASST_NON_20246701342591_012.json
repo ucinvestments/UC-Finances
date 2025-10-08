@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56341818,
+    "Award ID": "20246701342591",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 585643,
+    "Total Outlays": 98434.69,
+    "Description": "FRUIT ROT DISEASES CAUSED BY SEVERAL PATHOGENS, NAMELY BOTRYTIS CINAREA, COLLETOTRICHUM ACUTATUM,AND NEOPESTALOTIOPSIS SP., ARE ECONOMICALLY IMPACTFUL IN STRAWBERRY NURSERIES, FRUITING FIELDS, GROCERY STORES, AND HOMES WORLDWIDE, ESPECIALLY WHERE WARM AND WET CONDITIONS PROVIDE THE PATHOGEN WITH THE IDEAL ENVIRONMENT TO CAUSE PRE- AND POSTHARVEST YIELD LOSSES. COMMERCIAL STRAWBERRY VARIETIES BENEFIT FROM BEING RESISTANT TO MULTIPLE FRUIT ROT DISEASES. FAVORABLE ALLELES FOR DISEASE RESISTANCES AND BOTHER TRAITS MAY EXIST IN WILD RELATIVES AND ARE BECOMING MORE ACCESSIBLE THROUGH MODERN, DATA-DRIVEN BREEDING APPROACHES INFORMED BY KNOWLEDGE OF GENETIC RELATIONSHIPS AND MOLECULAR DIVERSITY. THE OBJECTIVES OF THIS PROPOSAL ARE ALIGNED WITH THE FARM BILL PRIORITY OF PLANT HEALTH AND PRODUCTION AND PLANT PRODUCTS UNDER THE PROGRAM AREA OF PLANT BREEDING FOR AGRICULTURAL PRODUCTION AND SPECIFICALLY ADDRESSES BREEDING FOR IMPROVED CROP PRODUCTIVITY, EFFICIENCY, QUALITY, PERFORMANCE, AND LOCAL ADAPTATION TO BIOTIC AND ABIOTIC STRESS. THROUGH THE RESEARCH OUTLINED IN THIS PROPOSAL WE WILL EXPAND OUR KNOWLEDGE OF GENETIC RESISTANCE TO MULTIPLE FRUIT ROT PATHOGENS AND DEVELOP TOOLS TO IDENTIFY AND SELECT FOR QTL THAT UNDERLIE DESIRABLE VARIATION. SPECIFIC OBJECTIVES WILL ADDRESS 1) THE ACCESSIBILITY AND AVAILABILITY OF DONORS OF GENETIC RESISTANCE THAT EXIST IN PUBLIC GERMPLASM COLLECTIONS (USDA NCGR GRIN); 2) THE RELATIONSHIP BETWEEN FRUIT QUALITY TRAITS THAT AFFECT CONSUMER PREFERENCE AND THE PROCLIVITY TO BE INFECTED; 3) THE DEVELOPMENT OF BREEDING STRATEGIES THAT SIMULTANEOUSLY IMPROVEMENT OF FRUIT ROT DISEASE RESISTANCE THAT DO NOT ELIMINATE CONSUMER-FOCUSED FRUIT QUALITY; AND 4) THE NEED FOR THE DEVELOPMENT OF COST-EFFECTIVE,MOLECULAR MARKER TOOLS FOR STRAWBERRY BREEDERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2024-06-01",
+    "End Date": "2028-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20246701342591_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56341818,
+    "generated_unique_award_id": "ASST_NON_20246701342591_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FRUIT ROT DISEASES CAUSED BY SEVERAL PATHOGENS, NAMELY BOTRYTIS CINAREA, COLLETOTRICHUM ACUTATUM,AND NEOPESTALOTIOPSIS SP., ARE ECONOMICALLY IMPACTFUL IN STRAWBERRY NURSERIES, FRUITING FIELDS, GROCERY STORES, AND HOMES WORLDWIDE, ESPECIALLY WHERE WARM AND WET CONDITIONS PROVIDE THE PATHOGEN WITH THE IDEAL ENVIRONMENT TO CAUSE PRE- AND POSTHARVEST YIELD LOSSES. COMMERCIAL STRAWBERRY VARIETIES BENEFIT FROM BEING RESISTANT TO MULTIPLE FRUIT ROT DISEASES. FAVORABLE ALLELES FOR DISEASE RESISTANCES AND BOTHER TRAITS MAY EXIST IN WILD RELATIVES AND ARE BECOMING MORE ACCESSIBLE THROUGH MODERN, DATA-DRIVEN BREEDING APPROACHES INFORMED BY KNOWLEDGE OF GENETIC RELATIONSHIPS AND MOLECULAR DIVERSITY. THE OBJECTIVES OF THIS PROPOSAL ARE ALIGNED WITH THE FARM BILL PRIORITY OF PLANT HEALTH AND PRODUCTION AND PLANT PRODUCTS UNDER THE PROGRAM AREA OF PLANT BREEDING FOR AGRICULTURAL PRODUCTION AND SPECIFICALLY ADDRESSES BREEDING FOR IMPROVED CROP PRODUCTIVITY, EFFICIENCY, QUALITY, PERFORMANCE, AND LOCAL ADAPTATION TO BIOTIC AND ABIOTIC STRESS. THROUGH THE RESEARCH OUTLINED IN THIS PROPOSAL WE WILL EXPAND OUR KNOWLEDGE OF GENETIC RESISTANCE TO MULTIPLE FRUIT ROT PATHOGENS AND DEVELOP TOOLS TO IDENTIFY AND SELECT FOR QTL THAT UNDERLIE DESIRABLE VARIATION. SPECIFIC OBJECTIVES WILL ADDRESS 1) THE ACCESSIBILITY AND AVAILABILITY OF DONORS OF GENETIC RESISTANCE THAT EXIST IN PUBLIC GERMPLASM COLLECTIONS (USDA NCGR GRIN); 2) THE RELATIONSHIP BETWEEN FRUIT QUALITY TRAITS THAT AFFECT CONSUMER PREFERENCE AND THE PROCLIVITY TO BE INFECTED; 3) THE DEVELOPMENT OF BREEDING STRATEGIES THAT SIMULTANEOUSLY IMPROVEMENT OF FRUIT ROT DISEASE RESISTANCE THAT DO NOT ELIMINATE CONSUMER-FOCUSED FRUIT QUALITY; AND 4) THE NEED FOR THE DEVELOPMENT OF COST-EFFECTIVE,MOLECULAR MARKER TOOLS FOR STRAWBERRY BREEDERS.",
+    "total_obligation": 585643,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-05-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 145313.72,
+    "total_account_obligation": 585643,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 145313.72
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 585643
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2024-06-01",
+      "end_date": "2028-05-31",
+      "last_modified_date": "2024-06-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 145313.72
+  }
+}

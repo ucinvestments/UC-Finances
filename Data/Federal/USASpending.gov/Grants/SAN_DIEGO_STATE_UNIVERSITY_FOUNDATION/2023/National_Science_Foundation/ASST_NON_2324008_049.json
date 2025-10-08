@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57243837,
+    "Award ID": "2324008",
+    "Recipient Name": "SAN DIEGO STATE UNIVERSITY FOUNDATION",
+    "Award Amount": 2119702,
+    "Total Outlays": 686468.26,
+    "Description": "PARTNER: EXPAND AI2ES FOR 4D SPACE-TIME ORGANIZATION OF PRECIPITATION PROCESSES AND EXTREMES, VISUALIZATION TOOLS, AND WORKFORCE DEVELOPMENT -THIS PROJECT IS AN EXPANDAI PARTNERSHIP BETWEEN SAN DIEGO STATE UNIVERSITY, THE UNIVERSITY OF CALIFORNIA IRVINE, AND THE AI INSTITUTE FOR RESEARCH ON TRUSTWORTHY AI IN WEATHER, CLIMATE AND COASTAL OCEANOGRAPHY (AI2ES). IN THIS PROJECT, TWO MINORITY-SERVING INSTITUTIONS COLLABORATE WITH AN AI INSTITUTE TO LEAD NEW ACTIVITIES FOCUSED ON SCALING UP ALREADY-ESTABLISHED AI RESEARCH AND EDUCATION PROGRAMS AT THEIR INSTITUTIONS AND TO PURSUE SHARED, COMPLEMENTARY GOALS AROUND DEVELOPING AI WITH USE FOR SOCIETY IN MIND AND FOR DEVELOPING THE NEXT GENERATION OF AI EDUCATION AND WORKFORCE TALENT. THE PROJECT WILL ALSO BUILD COMMUNITY AND NEW CENTERS OF EXCELLENCE IN AI WHERE SUCH ACTIVITIES WERE NOT PREVIOUSLY WELL DEVELOPED. THE EXPAI2ES PROJECT EXPANDS RESEARCH, EDUCATIONAL ACTIVITIES, AND WORKFORCE DEVELOPMENT IN TWO HISPANIC-SERVING INSTITUTIONS (HSI). IN COLLABORATION WITH AI2ES, THESE ORGANIZATIONS LEAD A PARTNERSHIP IN AI BASIC RESEARCH AND AI APPLICATIONS TO ENVIRONMENTAL SCIENCE. THE RESEARCH FOCUS OF EXPAI2ES IS ON AI MODELING OF THE SPACE-TIME ORGANIZATION AND MULTISCALE STRUCTURE OF PRECIPITATION AND OTHER ATMOSPHERIC VARIABLES, WITH SPECIAL EMPHASIS ON EXTREMES AND UNCERTAINTY QUANTIFICATION. THE RESEARCH ALSO DEVELOPS 4-DIMENSIONAL DATA VISUALIZATION TOOLS, SUCH AS THE 4-DIMENSIONAL VISUAL DELIVERY (4DVD) SOFTWARE, THAT CAN SUPPORT A WIDER APPLICATION OF PROGRESSIVE EDUCATION PEDAGOGY FOR ATMOSPHERIC SCIENCES AND AI. THESE RESEARCH AND EDUCATIONAL ADVANCES WILL EFFECTIVELY ADDRESS IMMINENT CHALLENGES IN CLIMATE CHANGE, ENVIRONMENTAL SUSTAINABILITY, AND COSTLY WEATHER EXTREMES AND HAZARDS, WHILE ENGAGING A DIVERSE AND UNTAPPED POOL OF TALENT. THE PROGRESSIVE EDUCATION FOR ATMOSPHERIC SCIENCE (PEAS) FRAMEWORK TO BE ESTABLISHED IN THIS PROJECT WILL HELP DEVELOP NEW COURSE MATERIAL AND IMPROVE THE EDUCATIONAL OFFERINGS OF AI COURSES FOR RELEVANT INSTITUTIONS. THE PROJECT?S NOVEL ?PEAS+AI? EDUCATIONAL FRAMEWORK WILL BE FURTHER EXTENDED TO THE TRAINING OF SCHOOL TEACHERS WHO TOGETHER WITH STUDENTS CAN USE THE PROPOSED 4DVD TECHNOLOGY FOR CLIMATE DATA VISUALIZATION AND DISCOVERY. THE ENGAGEMENT WITH REAL ENVIRONMENTAL DATA COMBINED WITH THE MODERN VIDEO-BASED 4DVD AI TOOLS WILL INSPIRE STUDENTS TOWARDS STEM CAREERS TO WORK ON THE PRESSING PROBLEMS OF CLIMATE SCIENCE AND ENVIRONMENTAL SUSTAINABILITY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "H59JKGFZKHL7",
+    "Recipient Location": {
+      "address_line1": "5250 CAMPANILE DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN DIEGO",
+      "congressional_code": "51",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1901",
+      "zip5": "92182"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN DIEGO",
+      "congressional_code": "51",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92182-0001",
+      "zip5": "92182"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-09-01",
+    "End Date": "2027-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1ac8cba5-b951-7f72-969a-e08917e12ea8-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2324008_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57243837,
+    "generated_unique_award_id": "ASST_NON_2324008_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PARTNER: EXPAND AI2ES FOR 4D SPACE-TIME ORGANIZATION OF PRECIPITATION PROCESSES AND EXTREMES, VISUALIZATION TOOLS, AND WORKFORCE DEVELOPMENT -THIS PROJECT IS AN EXPANDAI PARTNERSHIP BETWEEN SAN DIEGO STATE UNIVERSITY, THE UNIVERSITY OF CALIFORNIA IRVINE, AND THE AI INSTITUTE FOR RESEARCH ON TRUSTWORTHY AI IN WEATHER, CLIMATE AND COASTAL OCEANOGRAPHY (AI2ES). IN THIS PROJECT, TWO MINORITY-SERVING INSTITUTIONS COLLABORATE WITH AN AI INSTITUTE TO LEAD NEW ACTIVITIES FOCUSED ON SCALING UP ALREADY-ESTABLISHED AI RESEARCH AND EDUCATION PROGRAMS AT THEIR INSTITUTIONS AND TO PURSUE SHARED, COMPLEMENTARY GOALS AROUND DEVELOPING AI WITH USE FOR SOCIETY IN MIND AND FOR DEVELOPING THE NEXT GENERATION OF AI EDUCATION AND WORKFORCE TALENT. THE PROJECT WILL ALSO BUILD COMMUNITY AND NEW CENTERS OF EXCELLENCE IN AI WHERE SUCH ACTIVITIES WERE NOT PREVIOUSLY WELL DEVELOPED. THE EXPAI2ES PROJECT EXPANDS RESEARCH, EDUCATIONAL ACTIVITIES, AND WORKFORCE DEVELOPMENT IN TWO HISPANIC-SERVING INSTITUTIONS (HSI). IN COLLABORATION WITH AI2ES, THESE ORGANIZATIONS LEAD A PARTNERSHIP IN AI BASIC RESEARCH AND AI APPLICATIONS TO ENVIRONMENTAL SCIENCE. THE RESEARCH FOCUS OF EXPAI2ES IS ON AI MODELING OF THE SPACE-TIME ORGANIZATION AND MULTISCALE STRUCTURE OF PRECIPITATION AND OTHER ATMOSPHERIC VARIABLES, WITH SPECIAL EMPHASIS ON EXTREMES AND UNCERTAINTY QUANTIFICATION. THE RESEARCH ALSO DEVELOPS 4-DIMENSIONAL DATA VISUALIZATION TOOLS, SUCH AS THE 4-DIMENSIONAL VISUAL DELIVERY (4DVD) SOFTWARE, THAT CAN SUPPORT A WIDER APPLICATION OF PROGRESSIVE EDUCATION PEDAGOGY FOR ATMOSPHERIC SCIENCES AND AI. THESE RESEARCH AND EDUCATIONAL ADVANCES WILL EFFECTIVELY ADDRESS IMMINENT CHALLENGES IN CLIMATE CHANGE, ENVIRONMENTAL SUSTAINABILITY, AND COSTLY WEATHER EXTREMES AND HAZARDS, WHILE ENGAGING A DIVERSE AND UNTAPPED POOL OF TALENT. THE PROGRESSIVE EDUCATION FOR ATMOSPHERIC SCIENCE (PEAS) FRAMEWORK TO BE ESTABLISHED IN THIS PROJECT WILL HELP DEVELOP NEW COURSE MATERIAL AND IMPROVE THE EDUCATIONAL OFFERINGS OF AI COURSES FOR RELEVANT INSTITUTIONS. THE PROJECT?S NOVEL ?PEAS+AI? EDUCATIONAL FRAMEWORK WILL BE FURTHER EXTENDED TO THE TRAINING OF SCHOOL TEACHERS WHO TOGETHER WITH STUDENTS CAN USE THE PROPOSED 4DVD TECHNOLOGY FOR CLIMATE DATA VISUALIZATION AND DISCOVERY. THE ENGAGEMENT WITH REAL ENVIRONMENTAL DATA COMBINED WITH THE MODERN VIDEO-BASED 4DVD AI TOOLS WILL INSPIRE STUDENTS TOWARDS STEM CAREERS TO WORK ON THE PRESSING PROBLEMS OF CLIMATE SCIENCE AND ENVIRONMENTAL SUSTAINABILITY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "total_obligation": 2119702,
+    "subaward_count": 1,
+    "total_subaward_amount": 287196,
+    "date_signed": "2023-08-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 743398.16,
+    "total_account_obligation": 2119702,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 743398.16
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2119702
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "TECHNOLOGY FRONTIERS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INFOR  INTELLIGENT SYSTEMS"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2027-08-31",
+      "last_modified_date": "2025-08-12",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1ac8cba5-b951-7f72-969a-e08917e12ea8-C",
+      "recipient_name": "SAN DIEGO STATE UNIVERSITY FOUNDATION",
+      "recipient_uei": "H59JKGFZKHL7",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "1ac8cba5-b951-7f72-969a-e08917e12ea8-P",
+      "parent_recipient_name": "SAN DIEGO STATE UNIVERSITY FOUNDATION",
+      "parent_recipient_uei": "H59JKGFZKHL7",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN DIEGO",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "5250 CAMPANILE DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "51",
+        "zip4": "1901",
+        "zip5": "92182",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN DIEGO",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "51",
+      "zip4": "0001",
+      "zip5": "92182",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 743398.16
+  }
+}

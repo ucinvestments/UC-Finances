@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89097269,
+    "Award ID": "K01TW012173",
+    "Recipient Name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+    "Award Amount": 728423,
+    "Total Outlays": 493244.42,
+    "Description": "PREP IMPLEMENTATION SCIENCE WITH HARD TO REACH POPULATIONS IN INDIA - PROJECT SUMMARY/ABSTRACT  ANNE E. FEHRENBACHER, PHD, MPH IS A SOCIAL EPIDEMIOLOGIST IN THE DEPARTMENT OF PSYCHIATRY AND BIOBEHAVIORAL SCIENCES AT THE UNIVERSITY OF CALIFORNIA, LOS ANGELES AND A FOGARY GLOCAL FELLOW AT THE PUBLIC HEALTH RESEARCH INSTITUTE OF INDIA. DR. FEHRENBACHER’S LONG-TERM CAREER GOAL IS TO BECOME AN INDEPENDENT INVESTIGATOR WITH EXPERTISE IN IMPLEMENTATION SCIENCE FOR HIV INTERVENTIONS WITH STIGMATIZED POPULATIONS. THE PROPOSED K01 RESEARCH AND TRAINING PLAN WILL PROVIDE DR. FEHRENBACHER WITH THE METHODOLOGICAL AND PRACTICAL SKILLS TO MEET THIS GOAL. THE PRESENT STUDY WILL EVALUATE THE ACCEPTABILITY, FEASIBILITY, AND SUSTAINABILITY OF AN ADAPTED WHO E-PREP IMPLEMENTATION TOOL TO INCREASE PREP UPTAKE, RETENTION, AND ADHERENCE.  DR. FEHRENBACHER’S RESEARCH PLAN WILL ADDRESS THREE SPECIFIC AIMS GUIDED BY THE EPIS FRAMEWORK OF IMPLEMENTATION SCIENCE: 1) TO MODEL BARRIERS AND FACILITATORS AT THE POLICY, STRUCTURAL, AND ORGANIZATIONAL LEVELS FOR ADOPTING THE WHO E-PREP IMPLEMENTATION TOOL TO SUPPORT PREP ROLLOUT IN TARGETED INTERVENTIONS IN INDIA; 2) TO ASSESS PATIENT AND PROVIDER PREFERENCES FOR BUNDLED INTERVENTION COMPONENTS TO INFORM THE ADAPTATION, LOCALIZATION, AND TAILORING OF THE WHO E-PREP IMPLEMENTATION TOOL; AND 3) TO EVALUATE THE ACCEPTABILITY, FEASIBILITY, AND SUSTAINABILITY OF THE ADAPTED WHO E-PREP IMPLEMENTATION TOOL. THE FIRST AIM WILL BE ADDRESSED THROUGH CONCEPT MAPPING AND BOTTLENECK ANALYSIS WITH POLICYMAKERS, HEALTH OFFICIALS, AND TARGETED INTERVENTION STAFF TO VISUALIZE STAKEHOLDER PRIORITIES FOR PREP IMPLEMENTATION. THE SECOND AIM WILL BE ADDRESSED USING CONJOINT ANALYSIS EXPERIMENTS CONDUCTED WITH PATIENTS AND PROVIDERS ASSESSING BUNDLED INTERVENTION ATTRIBUTES TO ELUCIDATE THE RELATIVE IMPORTANCE OF EACH ATTRIBUTE ON THE LIKELIHOOD OF SUCCESSFUL IMPLEMENTATION. THE THIRD AIM WILL INVOLVE A PILOT CLUSTER RANDOMIZED CONTROLLED TRIAL TO EVALUATE IMPLEMENTATION PROCESSES AND OUTCOMES ALONG THE HIV PREVENTION CONTINUUM FOR TESTING, LINKAGE, PREP UPTAKE, RETENTION, AND ADHERENCE.  DR. FEHRENBACHER’S TRAINING OBJECTIVES CORRESPOND WITH EACH OF THESE SPECIFIC AIMS, AS FOLLOWS: 1) TO GAIN EXPERTISE IN IMPLEMENTATION SCIENCE METHODS; 2) TO GAIN EXPERTISE IN THE DESIGN AND ADAPTATION OF EHEALTH INTERVENTIONS; AND 3) TO GAIN EXPERTISE IN MONITORING AND EVALUATION OF LONGITUDINAL INTERVENTIONS. THE FINDINGS FROM THIS IMPLEMENTATION SCIENCE STUDY WILL AID IN THE SCALE-UP OF SUSTAINABLE BIOBEHAVIORAL INTERVENTIONS TO REDUCE HIV DISPARITIES AMONG STIGMATIZED GROUPS ACROSS INDIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "G88KLJR3KYT5",
+    "Recipient Location": {
+      "address_line1": "3720 S FLOWER ST FL 3",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "34",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": "90033"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "34",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "900323649",
+      "zip5": "90032"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-01",
+    "End Date": "2027-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "56e7333e-38ec-5402-80b8-4d50309afb4c-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K01TW012173_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89097269,
+    "generated_unique_award_id": "ASST_NON_K01TW012173_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PREP IMPLEMENTATION SCIENCE WITH HARD TO REACH POPULATIONS IN INDIA - PROJECT SUMMARY/ABSTRACT  ANNE E. FEHRENBACHER, PHD, MPH IS A SOCIAL EPIDEMIOLOGIST IN THE DEPARTMENT OF PSYCHIATRY AND BIOBEHAVIORAL SCIENCES AT THE UNIVERSITY OF CALIFORNIA, LOS ANGELES AND A FOGARY GLOCAL FELLOW AT THE PUBLIC HEALTH RESEARCH INSTITUTE OF INDIA. DR. FEHRENBACHER’S LONG-TERM CAREER GOAL IS TO BECOME AN INDEPENDENT INVESTIGATOR WITH EXPERTISE IN IMPLEMENTATION SCIENCE FOR HIV INTERVENTIONS WITH STIGMATIZED POPULATIONS. THE PROPOSED K01 RESEARCH AND TRAINING PLAN WILL PROVIDE DR. FEHRENBACHER WITH THE METHODOLOGICAL AND PRACTICAL SKILLS TO MEET THIS GOAL. THE PRESENT STUDY WILL EVALUATE THE ACCEPTABILITY, FEASIBILITY, AND SUSTAINABILITY OF AN ADAPTED WHO E-PREP IMPLEMENTATION TOOL TO INCREASE PREP UPTAKE, RETENTION, AND ADHERENCE.  DR. FEHRENBACHER’S RESEARCH PLAN WILL ADDRESS THREE SPECIFIC AIMS GUIDED BY THE EPIS FRAMEWORK OF IMPLEMENTATION SCIENCE: 1) TO MODEL BARRIERS AND FACILITATORS AT THE POLICY, STRUCTURAL, AND ORGANIZATIONAL LEVELS FOR ADOPTING THE WHO E-PREP IMPLEMENTATION TOOL TO SUPPORT PREP ROLLOUT IN TARGETED INTERVENTIONS IN INDIA; 2) TO ASSESS PATIENT AND PROVIDER PREFERENCES FOR BUNDLED INTERVENTION COMPONENTS TO INFORM THE ADAPTATION, LOCALIZATION, AND TAILORING OF THE WHO E-PREP IMPLEMENTATION TOOL; AND 3) TO EVALUATE THE ACCEPTABILITY, FEASIBILITY, AND SUSTAINABILITY OF THE ADAPTED WHO E-PREP IMPLEMENTATION TOOL. THE FIRST AIM WILL BE ADDRESSED THROUGH CONCEPT MAPPING AND BOTTLENECK ANALYSIS WITH POLICYMAKERS, HEALTH OFFICIALS, AND TARGETED INTERVENTION STAFF TO VISUALIZE STAKEHOLDER PRIORITIES FOR PREP IMPLEMENTATION. THE SECOND AIM WILL BE ADDRESSED USING CONJOINT ANALYSIS EXPERIMENTS CONDUCTED WITH PATIENTS AND PROVIDERS ASSESSING BUNDLED INTERVENTION ATTRIBUTES TO ELUCIDATE THE RELATIVE IMPORTANCE OF EACH ATTRIBUTE ON THE LIKELIHOOD OF SUCCESSFUL IMPLEMENTATION. THE THIRD AIM WILL INVOLVE A PILOT CLUSTER RANDOMIZED CONTROLLED TRIAL TO EVALUATE IMPLEMENTATION PROCESSES AND OUTCOMES ALONG THE HIV PREVENTION CONTINUUM FOR TESTING, LINKAGE, PREP UPTAKE, RETENTION, AND ADHERENCE.  DR. FEHRENBACHER’S TRAINING OBJECTIVES CORRESPOND WITH EACH OF THESE SPECIFIC AIMS, AS FOLLOWS: 1) TO GAIN EXPERTISE IN IMPLEMENTATION SCIENCE METHODS; 2) TO GAIN EXPERTISE IN THE DESIGN AND ADAPTATION OF EHEALTH INTERVENTIONS; AND 3) TO GAIN EXPERTISE IN MONITORING AND EVALUATION OF LONGITUDINAL INTERVENTIONS. THE FINDINGS FROM THIS IMPLEMENTATION SCIENCE STUDY WILL AID IN THE SCALE-UP OF SUSTAINABLE BIOBEHAVIORAL INTERVENTIONS TO REDUCE HIV DISPARITIES AMONG STIGMATIZED GROUPS ACROSS INDIA.",
+    "total_obligation": 728423,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-09-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 493244.42,
+    "total_account_obligation": 728423,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 493244.42
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 728423
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Fogarty International Center"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Fogarty International Center"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-01",
+      "end_date": "2027-04-30",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "56e7333e-38ec-5402-80b8-4d50309afb4c-R",
+      "recipient_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+      "recipient_uei": "G88KLJR3KYT5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "3720 S FLOWER ST FL 3",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "34",
+        "zip4": "",
+        "zip5": "90033",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "34",
+      "zip4": "3649",
+      "zip5": "90032",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 493244.42
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 90267266,
+    "Award ID": "OT2OD032742",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 21026388,
+    "Total Outlays": 12042792.1,
+    "Description": "BRIDGE2AI: CELL MAPS FOR AI (CM4AI) DATA GENERATION PROJECT - AS PART OF THE NIH COMMON FUND’S BRIDGE2AI PROGRAM, THE CM4AI DATA GENERATION  PROJECT SEEKS TO MAP THE SPATIOTEMPORAL ARCHITECTURE OF HUMAN CELLS AND USE THESE  MAPS TOWARD THE GRAND CHALLENGE OF INTERPRETABLE GENOTYPE-PHENOTYPE LEARNING. IN  GENOMICS AND PRECISION MEDICINE, MACHINE LEARNING MODELS ARE OFTEN \"BLACK BOXES,\"  PREDICTING PHENOTYPES FROM GENOTYPES WITHOUT UNDERSTANDING THE MECHANISMS BY  WHICH SUCH TRANSLATION OCCURS. TO ADDRESS THIS DEFICIENCY, PROJECT WILL LAUNCH A  COORDINATED EFFORT INVOLVING THREE COMPLEMENTARY MAPPING APPROACHES – PROTEOMIC  MASS SPECTROMETRY, CELLULAR IMAGING, AND GENETIC PERTURBATION VIA CRISPR/CAS9 – CREATING A LIBRARY OF LARGE-SCALE MAPS OF CELLULAR STRUCTURE/FUNCTION ACROSS  DEMOGRAPHIC AND DISEASE CONTEXTS. THESE DATA WILL BROADLY STIMULATE RESEARCH AND  DEVELOPMENT IN \"VISIBLE\" MACHINE LEARNING SYSTEMS INFORMED BY MULTI-SCALE CELL AND  TISSUE ARCHITECTURE. IN ADDITION TO DATA AND TOOLS, THIS PROJECT WILL IMPLEMENT A  STANDARDS DATA MANAGEMENT APPROACH BASED ON FAIR ACCESS AND SOFTWARE PRINCIPLES,  WITH DEEP PROVENANCE AND REPLICATION PACKAGES FOR REPRESENTATION OF CELL MAPS AND  THEIR UNDERLYING DATASETS; INITIATE A RESEARCH PROGRAM IN ETHICAL AI, ESPECIALLY AS IT  RELATES TO HOW MAPS WILL BE USED IN GENOMIC MEDICINE AND MODEL INTERPRETATION; AND  STIMULATE A DIVERSE PORTFOLIO OF TRAINING OPPORTUNITIES IN THE EMERGING FIELD OF  BIOMACHINE LEARNING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "920930041",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-01",
+    "End Date": "2026-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_OT2OD032742_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 90267266,
+    "generated_unique_award_id": "ASST_NON_OT2OD032742_075",
+    "piid": "",
+    "category": "direct payment",
+    "type": "06",
+    "type_description": "DIRECT PAYMENT FOR SPECIFIED USE, AS A SUBSIDY OR OTHER NON-REIMBURSABLE DIRECT FINANCIAL AID (C)",
+    "description": "BRIDGE2AI: CELL MAPS FOR AI (CM4AI) DATA GENERATION PROJECT - AS PART OF THE NIH COMMON FUND’S BRIDGE2AI PROGRAM, THE CM4AI DATA GENERATION  PROJECT SEEKS TO MAP THE SPATIOTEMPORAL ARCHITECTURE OF HUMAN CELLS AND USE THESE  MAPS TOWARD THE GRAND CHALLENGE OF INTERPRETABLE GENOTYPE-PHENOTYPE LEARNING. IN  GENOMICS AND PRECISION MEDICINE, MACHINE LEARNING MODELS ARE OFTEN \"BLACK BOXES,\"  PREDICTING PHENOTYPES FROM GENOTYPES WITHOUT UNDERSTANDING THE MECHANISMS BY  WHICH SUCH TRANSLATION OCCURS. TO ADDRESS THIS DEFICIENCY, PROJECT WILL LAUNCH A  COORDINATED EFFORT INVOLVING THREE COMPLEMENTARY MAPPING APPROACHES – PROTEOMIC  MASS SPECTROMETRY, CELLULAR IMAGING, AND GENETIC PERTURBATION VIA CRISPR/CAS9 – CREATING A LIBRARY OF LARGE-SCALE MAPS OF CELLULAR STRUCTURE/FUNCTION ACROSS  DEMOGRAPHIC AND DISEASE CONTEXTS. THESE DATA WILL BROADLY STIMULATE RESEARCH AND  DEVELOPMENT IN \"VISIBLE\" MACHINE LEARNING SYSTEMS INFORMED BY MULTI-SCALE CELL AND  TISSUE ARCHITECTURE. IN ADDITION TO DATA AND TOOLS, THIS PROJECT WILL IMPLEMENT A  STANDARDS DATA MANAGEMENT APPROACH BASED ON FAIR ACCESS AND SOFTWARE PRINCIPLES,  WITH DEEP PROVENANCE AND REPLICATION PACKAGES FOR REPRESENTATION OF CELL MAPS AND  THEIR UNDERLYING DATASETS; INITIATE A RESEARCH PROGRAM IN ETHICAL AI, ESPECIALLY AS IT  RELATES TO HOW MAPS WILL BE USED IN GENOMIC MEDICINE AND MODEL INTERPRETATION; AND  STIMULATE A DIVERSE PORTFOLIO OF TRAINING OPPORTUNITIES IN THE EMERGING FIELD OF  BIOMACHINE LEARNING.",
+    "total_obligation": 21026388,
+    "subaward_count": 2,
+    "total_subaward_amount": 2313332,
+    "date_signed": "2022-09-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 12042792.1,
+    "total_account_obligation": 15801851,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 12042792.1
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 15801851
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-01",
+      "end_date": "2026-11-30",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0041",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 12042792.1
+  }
+}

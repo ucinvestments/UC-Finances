@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91314225,
+    "Award ID": "R24AG073138",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 5183524,
+    "Total Outlays": 4514985.69,
+    "Description": "TAU BASED MONKEY MODEL OF ALZHEIMER'S DISEASE; STRUCTURE AND FUNCTION - ALZHEIMER’S DISEASE (AD) IS A DEVASTATING CONDITION THAT AFFECTS MORE THAN 5 MILLION AMERICANS, WITH A TOTAL ANNUAL COST OF MORE THAN $300 BILLION PREDICTED IN 2020. CURRENTLY THERE ARE NO EFFECTIVE TREATMENTS TO COUNTERACT OR SLOW THE PROGRESSION OF AD, WITH PROMISING FINDINGS IN RODENTS FAILING TO TRANSLATE INTO SUCCESSFUL THERAPIES FOR PATIENTS. MONKEY MODELS MAY PROVIDE A MORE POWERFUL TRANSLATIONAL MODEL. THE GOAL OF THIS PROPOSAL IS TO CHARACTERIZE A MONKEY MODEL OF TAU PATHOLOGY IN AD. THIS IS RESPONSIVE TO RFA-AG-21-003 REQUESTING PROPOSALS THAT TARGET THE “DEVELOPMENT, CHARACTERIZATION, AND VALIDATION OF SUITABLE NEW OR UNCONVENTIONAL MAMMALIAN NON-MURINE MODELS OF AD THAT MAY REPRESENT IMPROVED TRANSLATIONAL POTENTIAL BY BETTER REPLICATING PATHOLOGICAL FEATURES OF THE DISEASE”. WITH RESPECT TO NONHUMAN PRIMATE (NHP) MODELS OF AD, THE RFA STATES EXPLICITLY THAT “NHP HAVE A VERY HIGH TRANSLATIONAL VALUE BECAUSE OF THEIR CLOSE RELATIONSHIP TO HUMANS IN TERMS OF PHYLOGENY, GENETICS, PHYSIOLOGY, COGNITION, EMOTION, AND SOCIAL BEHAVIOR”. IN THIS PROPOSAL WE DESCRIBE INITIAL FINDINGS IN A TAU-BASED MONKEY MODEL OF AD AND PROPOSE A PROGRAM TO FULLY DEVELOP AND VALIDATE THE MODEL BY THREE PIS WHO HAVE DECADES OF EXPERIENCE ON AGING AND NEURODEGENERATION IN NHP MODELS. WE HAVE TARGETED THE HIGHLY VULNERABLE ENTORHINAL CORTEX (ERC) FOR UNILATERAL INFUSIONS OF AN ADENO-ASSOCIATED VIRUS EXPRESSING A DOUBLE TAU MUTATION KNOWN TO CAUSE TAU-RELATED DEMENTIA IN HUMANS (AAV-P301L/S320F) AND CHARACTERIZED NEUROPATHOLOGY AT 3 AND 6 MONTHS AFTER VIRAL INJECTION IN NHPS. THIS CAUSES EXTENSIVE AND PROGRESSIVE NEUROINFLAMMATION AND TAU-BASED NEUROPATHOLOGY, INCLUDING END-STAGE NEUROFIBRILLARY TANGLES, IN ERC AND IN HIPPOCAMPAL AND NEOCORTICAL TARGETS OF ERC. PRELIMINARY PET IMAGING IN THESE MONKEYS DISPLAYS ROBUST PHOSPHO-TAU ACCUMULATION IN THE HIPPOCAMPUS. THE PROGRESSIVE TIME COURSE RELATIVE TO THE TIME OF VECTOR INJECTION IS A GREAT STRENGTH IN TERMS OF USING THIS MODEL FOR THERAPEUTIC DEVELOPMENT. THESE EARLY STUDIES DEMONSTRATE THE POTENTIAL FOR THIS MODEL TO REPLICATE PATHOLOGICAL FEATURES OF AD IN THE MONKEY BRAIN AND TO CAPTURE ASPECTS OF PATHOLOGY THAT HAVE NOT BEEN WELL-MODELED IN RODENTS. WE PROPOSE TO DO A FULL, RIGOROUS CHARACTERIZATION OF THIS MODEL, INCLUDING LONG-TERM BEHAVIORAL ASSESSMENT, IN VIVO IMAGING, FLUID BIOMARKER ASSESSMENT, AND MICROSCOPIC ANALYSES. FULL CHARACTERIZATION OF THIS MODEL, WILL PROVIDE A PLATFORM TO TEST THERAPEUTIC AGENTS AT DIFFERENT POINTS IN THE DISEASE PROCESS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-09-01",
+    "End Date": "2025-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R24AG073138_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91314225,
+    "generated_unique_award_id": "ASST_NON_R24AG073138_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TAU BASED MONKEY MODEL OF ALZHEIMER'S DISEASE; STRUCTURE AND FUNCTION - ALZHEIMER’S DISEASE (AD) IS A DEVASTATING CONDITION THAT AFFECTS MORE THAN 5 MILLION AMERICANS, WITH A TOTAL ANNUAL COST OF MORE THAN $300 BILLION PREDICTED IN 2020. CURRENTLY THERE ARE NO EFFECTIVE TREATMENTS TO COUNTERACT OR SLOW THE PROGRESSION OF AD, WITH PROMISING FINDINGS IN RODENTS FAILING TO TRANSLATE INTO SUCCESSFUL THERAPIES FOR PATIENTS. MONKEY MODELS MAY PROVIDE A MORE POWERFUL TRANSLATIONAL MODEL. THE GOAL OF THIS PROPOSAL IS TO CHARACTERIZE A MONKEY MODEL OF TAU PATHOLOGY IN AD. THIS IS RESPONSIVE TO RFA-AG-21-003 REQUESTING PROPOSALS THAT TARGET THE “DEVELOPMENT, CHARACTERIZATION, AND VALIDATION OF SUITABLE NEW OR UNCONVENTIONAL MAMMALIAN NON-MURINE MODELS OF AD THAT MAY REPRESENT IMPROVED TRANSLATIONAL POTENTIAL BY BETTER REPLICATING PATHOLOGICAL FEATURES OF THE DISEASE”. WITH RESPECT TO NONHUMAN PRIMATE (NHP) MODELS OF AD, THE RFA STATES EXPLICITLY THAT “NHP HAVE A VERY HIGH TRANSLATIONAL VALUE BECAUSE OF THEIR CLOSE RELATIONSHIP TO HUMANS IN TERMS OF PHYLOGENY, GENETICS, PHYSIOLOGY, COGNITION, EMOTION, AND SOCIAL BEHAVIOR”. IN THIS PROPOSAL WE DESCRIBE INITIAL FINDINGS IN A TAU-BASED MONKEY MODEL OF AD AND PROPOSE A PROGRAM TO FULLY DEVELOP AND VALIDATE THE MODEL BY THREE PIS WHO HAVE DECADES OF EXPERIENCE ON AGING AND NEURODEGENERATION IN NHP MODELS. WE HAVE TARGETED THE HIGHLY VULNERABLE ENTORHINAL CORTEX (ERC) FOR UNILATERAL INFUSIONS OF AN ADENO-ASSOCIATED VIRUS EXPRESSING A DOUBLE TAU MUTATION KNOWN TO CAUSE TAU-RELATED DEMENTIA IN HUMANS (AAV-P301L/S320F) AND CHARACTERIZED NEUROPATHOLOGY AT 3 AND 6 MONTHS AFTER VIRAL INJECTION IN NHPS. THIS CAUSES EXTENSIVE AND PROGRESSIVE NEUROINFLAMMATION AND TAU-BASED NEUROPATHOLOGY, INCLUDING END-STAGE NEUROFIBRILLARY TANGLES, IN ERC AND IN HIPPOCAMPAL AND NEOCORTICAL TARGETS OF ERC. PRELIMINARY PET IMAGING IN THESE MONKEYS DISPLAYS ROBUST PHOSPHO-TAU ACCUMULATION IN THE HIPPOCAMPUS. THE PROGRESSIVE TIME COURSE RELATIVE TO THE TIME OF VECTOR INJECTION IS A GREAT STRENGTH IN TERMS OF USING THIS MODEL FOR THERAPEUTIC DEVELOPMENT. THESE EARLY STUDIES DEMONSTRATE THE POTENTIAL FOR THIS MODEL TO REPLICATE PATHOLOGICAL FEATURES OF AD IN THE MONKEY BRAIN AND TO CAPTURE ASPECTS OF PATHOLOGY THAT HAVE NOT BEEN WELL-MODELED IN RODENTS. WE PROPOSE TO DO A FULL, RIGOROUS CHARACTERIZATION OF THIS MODEL, INCLUDING LONG-TERM BEHAVIORAL ASSESSMENT, IN VIVO IMAGING, FLUID BIOMARKER ASSESSMENT, AND MICROSCOPIC ANALYSES. FULL CHARACTERIZATION OF THIS MODEL, WILL PROVIDE A PLATFORM TO TEST THERAPEUTIC AGENTS AT DIFFERENT POINTS IN THE DISEASE PROCESS.",
+    "total_obligation": 5183524,
+    "subaward_count": 8,
+    "total_subaward_amount": 1329825.05,
+    "date_signed": "2021-08-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 4514985.69,
+    "total_account_obligation": 5183524,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 4514985.69
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 5183524
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-01",
+      "end_date": "2025-05-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 4514985.69
+  }
+}

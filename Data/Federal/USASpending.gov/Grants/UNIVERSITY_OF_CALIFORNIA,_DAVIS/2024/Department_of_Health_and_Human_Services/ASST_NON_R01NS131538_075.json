@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91240103,
+    "Award ID": "R01NS131538",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 952355,
+    "Total Outlays": 389543.02,
+    "Description": "ENGINEERING AN EXTRACELLULAR VESICLE-BASED TARGETED REGENERATIVE NANOTHERAPEUTIC FOR MULTIPLE SCLEROSIS - ABSTRACT MULTIPLE SCLEROSIS (MS) IS AN AUTOIMMUNE DISEASE THAT GIVES RISE TO CHRONIC NEUROLOGICAL DEFICITS. IT IS CAUSED BY AN IMMUNOLOGICAL ATTACK ON THE MYELIN SHEATH LEADING TO DEMYELINATION AND AXON DEGENERATION. MS IS THE MOST COMMON DEMYELINATING DISEASE OF THE CNS IN YOUNG ADULTS. 8,000-10,000 CHILDREN AND APPROXIMATELY 1 MILLION ADULTS ARE CURRENTLY DIAGNOSED WITH MS IN THE US. FURTHERMORE, MOST MS CASES RESULT IN FREQUENT RELAPSES. CURRENTLY AVAILABLE TREATMENTS CAN DIMINISH THE INCIDENCE OF ACUTE FLARE-UPS, BUT DO NOT PREVENT PROGRESSIVE AXONAL DEGENERATION AND NEUROLOGICAL DISABILITY. MESENCHYMAL STEM/STROMAL CELLS (MSCS) AND MSC-DERIVED EXTRACELLULAR VESICLES (EVS) HAVE BEEN SUGGESTED AS A PROMISING APPROACH FOR THE TREATMENT OF MS, SINCE MSCS AND MCS-EVS CAN CONFER MULTIFACTORIAL THERAPEUTIC FUNCTIONS SUCH AS IMMUNOMODULATION, NEUROPROTECTION, AND ANGIOGENESIS. OUR LAB HAS ESTABLISHED METHODS TO ISOLATE AND EXPAND EARLY GESTATIONAL PLACENTA-DERIVED MSCS (PMSCS) AND DEMONSTRATED THAT COMPARED WITH ADULT TISSUE-DERIVED MSCS, PMSCS AND PMSC-EVS POSSESS SUPERIOR IMMUNOMODULATORY, NEUROPROTECTIVE AND PRO-ANGIOGENIC FUNCTIONS. IN A PRELIMINARY STUDY, WE CONFIRMED PMSC-EVS PROMOTED RE-MYELINATION THROUGH THE DIFFERENTIATION OF OLIGODENDROCYTE PRECURSOR CELLS (OPCS) INTO MATURE OLIGODENDROCYTES AND IMPROVED MOTOR FUNCTION OUTCOMES IN AN EXPERIMENTAL AUTOIMMUNE ENCEPHALOMYELITIS (EAE) MOUSE MODEL OF MS. ONE MAJOR OBSTACLE OF EFFECTIVE CLINICAL APPLICATION OF EVS IS THE LACK OF DISEASE-SPECIFIC TARGETING EFFICIENCY TO THE SITES OF INJURY, ESPECIALLY TO THE CNS. IT IS WELL KNOWN THAT INTEGRIN A4SS1 IS HIGHLY EXPRESSED BY MULTIPLE PATHOGENIC LYMPHOCYTES AND MEDIATES INFLAMMATORY CELL HOMING INTO THE CNS IN MS. CURRENTLY, THERAPIES TARGETING INTEGRIN A4SS1 HAVE BEEN USED AS A TREATMENT FOR ADULT MS. USING ULTRA-HIGH THROUGHPUT ONE-BEAD ONE-COMPOUND (OBOC) COMBINATORIAL SCREENING, WE IDENTIFIED LLP2A AS A HIGH-AFFINITY (IC50~2PM) AND HIGH-SPECIFICITY TARGETING LIGAND AGAINST ACTIVATED A4SS1 INTEGRIN. FURTHERMORE, WE SHOWED THAT LLP2A IS AN A4SS1 INTEGRIN ANTAGONIST AND CAN DECREASE INFLAMMATION. THE OVERALL GOAL OF THIS PROPOSAL IS TO DEVELOP A NEW MULTI-COMPONENT, MULTI-FUNCTIONAL, EV BASED NANOTHERAPEUTIC WITH IMPROVED TARGETING EFFICIENCY FOR MS. THE TREATMENT IS COMPRISED OF UNIQUE PMSC-EVS THAT WILL BE FURTHER ENGINEERED BY SURFACE MODIFICATION WITH TARGETING LIGAND LLP2A. IN THIS APPLICATION, WE HYPOTHESIZE THAT CONJUGATION OF LLP2A ONTO THE SURFACE OF PMSC-EVS (LLP2A-PMSC-EVS) CAN FACILITATE THE TARGETING OF PMSC-EVS TO MULTIPLE ACTIVATED PATHOGENIC IMMUNE CELL SUBSETS, THUS IMPROVING PMSC-EV TARGETING EFFICIENCY, TISSUE DISTRIBUTION, AND ULTIMATELY THERAPEUTIC EFFICACY. WE WILL LEVERAGE OUR LAB’S ESTABLISHED STATE-OF-THE-ART BULK AND SINGLE-EV CHARACTERIZATION METHODS TO EVALUATE LIGAND CONJUGATION EFFICACY ON EVS. THE CENTRAL OBJECTIVE OF THIS STUDY IS TO DEVELOP AN EFFECTIVE APPROACH TO MODIFY PMSC-EVS WITH LLP2A TO EFFICIENTLY TARGET AND MODULATE PATHOGENIC LYMPHOCYTES TO PROMOTE NEUROPROTECTION AND REMYELINATION. THIS STUDY WILL FACILITATE FUTURE INVESTIGATIONS INTO FINDING A NOVEL BIOENGINEERING APPROACH OF STEM CELL-DERIVED AND CELL-FREE REGENERATIVE THERAPY FOR MS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172201",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-01",
+    "End Date": "2029-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS131538_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91240103,
+    "generated_unique_award_id": "ASST_NON_R01NS131538_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ENGINEERING AN EXTRACELLULAR VESICLE-BASED TARGETED REGENERATIVE NANOTHERAPEUTIC FOR MULTIPLE SCLEROSIS - ABSTRACT MULTIPLE SCLEROSIS (MS) IS AN AUTOIMMUNE DISEASE THAT GIVES RISE TO CHRONIC NEUROLOGICAL DEFICITS. IT IS CAUSED BY AN IMMUNOLOGICAL ATTACK ON THE MYELIN SHEATH LEADING TO DEMYELINATION AND AXON DEGENERATION. MS IS THE MOST COMMON DEMYELINATING DISEASE OF THE CNS IN YOUNG ADULTS. 8,000-10,000 CHILDREN AND APPROXIMATELY 1 MILLION ADULTS ARE CURRENTLY DIAGNOSED WITH MS IN THE US. FURTHERMORE, MOST MS CASES RESULT IN FREQUENT RELAPSES. CURRENTLY AVAILABLE TREATMENTS CAN DIMINISH THE INCIDENCE OF ACUTE FLARE-UPS, BUT DO NOT PREVENT PROGRESSIVE AXONAL DEGENERATION AND NEUROLOGICAL DISABILITY. MESENCHYMAL STEM/STROMAL CELLS (MSCS) AND MSC-DERIVED EXTRACELLULAR VESICLES (EVS) HAVE BEEN SUGGESTED AS A PROMISING APPROACH FOR THE TREATMENT OF MS, SINCE MSCS AND MCS-EVS CAN CONFER MULTIFACTORIAL THERAPEUTIC FUNCTIONS SUCH AS IMMUNOMODULATION, NEUROPROTECTION, AND ANGIOGENESIS. OUR LAB HAS ESTABLISHED METHODS TO ISOLATE AND EXPAND EARLY GESTATIONAL PLACENTA-DERIVED MSCS (PMSCS) AND DEMONSTRATED THAT COMPARED WITH ADULT TISSUE-DERIVED MSCS, PMSCS AND PMSC-EVS POSSESS SUPERIOR IMMUNOMODULATORY, NEUROPROTECTIVE AND PRO-ANGIOGENIC FUNCTIONS. IN A PRELIMINARY STUDY, WE CONFIRMED PMSC-EVS PROMOTED RE-MYELINATION THROUGH THE DIFFERENTIATION OF OLIGODENDROCYTE PRECURSOR CELLS (OPCS) INTO MATURE OLIGODENDROCYTES AND IMPROVED MOTOR FUNCTION OUTCOMES IN AN EXPERIMENTAL AUTOIMMUNE ENCEPHALOMYELITIS (EAE) MOUSE MODEL OF MS. ONE MAJOR OBSTACLE OF EFFECTIVE CLINICAL APPLICATION OF EVS IS THE LACK OF DISEASE-SPECIFIC TARGETING EFFICIENCY TO THE SITES OF INJURY, ESPECIALLY TO THE CNS. IT IS WELL KNOWN THAT INTEGRIN A4SS1 IS HIGHLY EXPRESSED BY MULTIPLE PATHOGENIC LYMPHOCYTES AND MEDIATES INFLAMMATORY CELL HOMING INTO THE CNS IN MS. CURRENTLY, THERAPIES TARGETING INTEGRIN A4SS1 HAVE BEEN USED AS A TREATMENT FOR ADULT MS. USING ULTRA-HIGH THROUGHPUT ONE-BEAD ONE-COMPOUND (OBOC) COMBINATORIAL SCREENING, WE IDENTIFIED LLP2A AS A HIGH-AFFINITY (IC50~2PM) AND HIGH-SPECIFICITY TARGETING LIGAND AGAINST ACTIVATED A4SS1 INTEGRIN. FURTHERMORE, WE SHOWED THAT LLP2A IS AN A4SS1 INTEGRIN ANTAGONIST AND CAN DECREASE INFLAMMATION. THE OVERALL GOAL OF THIS PROPOSAL IS TO DEVELOP A NEW MULTI-COMPONENT, MULTI-FUNCTIONAL, EV BASED NANOTHERAPEUTIC WITH IMPROVED TARGETING EFFICIENCY FOR MS. THE TREATMENT IS COMPRISED OF UNIQUE PMSC-EVS THAT WILL BE FURTHER ENGINEERED BY SURFACE MODIFICATION WITH TARGETING LIGAND LLP2A. IN THIS APPLICATION, WE HYPOTHESIZE THAT CONJUGATION OF LLP2A ONTO THE SURFACE OF PMSC-EVS (LLP2A-PMSC-EVS) CAN FACILITATE THE TARGETING OF PMSC-EVS TO MULTIPLE ACTIVATED PATHOGENIC IMMUNE CELL SUBSETS, THUS IMPROVING PMSC-EV TARGETING EFFICIENCY, TISSUE DISTRIBUTION, AND ULTIMATELY THERAPEUTIC EFFICACY. WE WILL LEVERAGE OUR LAB’S ESTABLISHED STATE-OF-THE-ART BULK AND SINGLE-EV CHARACTERIZATION METHODS TO EVALUATE LIGAND CONJUGATION EFFICACY ON EVS. THE CENTRAL OBJECTIVE OF THIS STUDY IS TO DEVELOP AN EFFECTIVE APPROACH TO MODIFY PMSC-EVS WITH LLP2A TO EFFICIENTLY TARGET AND MODULATE PATHOGENIC LYMPHOCYTES TO PROMOTE NEUROPROTECTION AND REMYELINATION. THIS STUDY WILL FACILITATE FUTURE INVESTIGATIONS INTO FINDING A NOVEL BIOENGINEERING APPROACH OF STEM CELL-DERIVED AND CELL-FREE REGENERATIVE THERAPY FOR MS.",
+    "total_obligation": 952355,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-08-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 389543.02,
+    "total_account_obligation": 952355,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 389543.02
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 952355
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-01",
+      "end_date": "2029-08-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2201",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 389543.02
+  }
+}

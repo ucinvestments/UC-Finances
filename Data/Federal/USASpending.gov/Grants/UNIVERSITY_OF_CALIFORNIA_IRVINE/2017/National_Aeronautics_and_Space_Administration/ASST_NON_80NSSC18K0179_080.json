@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74725203,
+    "Award ID": "80NSSC18K0179",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 658765.89,
+    "Total Outlays": 266686.75,
+    "Description": "FIRE IS A CRITICAL COMPONENT OF THE EARTH SYSTEM. NASA S EARTH OBSERVING SATELLITES MONITOR ACTIVE FIRES  MAP BURNED AREA  AND ESTIMATE TRACE GAS AND AEROSOL EMISSIONS FROM FIRES WORLDWIDE. GLOBALLY  FIRES EMIT MORE THAN 2 PG C PER YEAR  YET IMPORTANT CHALLENGES REMAIN WITH RESPECT TO INTEGRATING FIRE EMISSIONS INTO CARBON MONITORING SYSTEMS. ONE IMPEDIMENT TO ROUTINE MONITORING  REPORTING  AND VERIFICATION (MRV) OF FIRES IS THE NEED FOR EMISSIONS INFORMATION OVER A RANGE OF TEMPORAL AND SPATIAL SCALES. ON DAILY TO WEEKLY TIME SCALES  NEAR-REAL TIME FIRE EMISSIONS DATA ARE NEEDED TO SUPPORT FORECASTS AND RESPONSE EFFORTS DURING WILDFIRE EMERGENCIES. TIME SERIES OF ANNUAL FIRE EMISSIONS BY FIRE TYPE  SUCH AS PRODUCTS FROM THE GLOBAL FIRE EMISSIONS DATABASE (GFED)  ARE IMPORTANT FOR GREENHOUSE GAS REPORTING AT REGIONAL  NATIONAL  AND GLOBAL SCALES  INCLUDING THE GLOBAL CARBON PROJECT S ANNUAL CARBON BUDGET. OVER LONGER TIME SCALES  THE 17-YEAR MODERATE RESOLUTION IMAGING SPECTROMETER (MODIS) DATA RECORD NOW CAPTURES IMPORTANT YEAR-TO-YEAR VARIABILITY AND SECULAR TRENDS IN GLOBAL FIRE ACTIVITY FROM CHANGING LAND USE AND CLIMATE. HERE  WE PROPOSE TO DEVELOP A SUITE OF GFED PRODUCTS TO BETTER INTEGRATE FIRE EMISSIONS INFORMATION INTO EXISTING CARBON MONITORING SYSTEMS. NEW PRODUCTS SPECIFICALLY TARGET CARBON MONITORING SYSTEM AND STAKEHOLDER NEEDS FOR LOW-LATENCY DATA PRODUCTS  IMPROVED ESTIMATES OF GLOBAL BURNING AND TRENDS  AND A DETAILED ASSESSMENT OF THE DIRECT AND INDIRECT CONTRIBUTIONS FROM FIRE TO THE GLOBAL METHANE BUDGET. FIRST  WE WILL CREATE A NEAR-REAL TIME GFED EMISSIONS PRODUCT USING NEW  375 M RESOLUTION VISIBLE INFRARED IMAGING RADIOMETER SUITE (VIIRS) ACTIVE FIRE DETECTIONS. IN PARALLEL  WE PROPOSE TO DEVELOP AND RELEASE GFED VERSION 5  BUILDING ON IMPROVEMENTS TO COLLECTION 6 MODIS BURNED AREA  VIIRS ACTIVE FIRE DETECTIONS  AND NOVEL CONSTRAINTS ON FUEL LOADS FROM BIOMASS DATASETS DEVELOPED BY PRIOR NASA CARBON MONITORING SYSTEM (CMS) PROJECTS. THIRD  WE WILL RUN GEOS-CHEM ATMOSPHERIC MODEL SIMULATIONS TO ESTIMATE THE INFLUENCE OF GLOBAL FIRE ACTIVITY ON METHANE EMISSIONS AND METHANE LIFETIMES BASED ON CHANGING HYDROXYL RADICAL (OH) CONCENTRATIONS. FOURTH  SATELLITE DATA SUGGEST A STRONG DECLINE IN SAVANNA AND GRASSLAND FIRES OVER THE PAST TWO DECADES; WE PROPOSE TO EVALUATE CHANGING FIRE DYNAMICS USING INDIVIDUAL FIRE INFORMATION AND HIGHER RESOLUTION LANDSAT 8 AND SENTINEL-2 DATA FOR CASE STUDY REGIONS WITH DECLINING FIRE ACTIVITY. FINALLY  WE WILL UPDATE AND EXPAND THE ONLINE GFED ANALYSIS TOOL TO SERVE NEARREAL TIME GFED5 PRODUCTS AND SUPPORT STAKEHOLDER INTEREST IN FIRE ACTIVITY AND REPORTING AT A RANGE OF SPATIAL AND TEMPORAL SCALES. THIS SUITE OF GFED5 PRODUCTS SPECIFICALLY TARGETS DATA NEEDS FOR ONGOING CMS-FLUX RESEARCH  GLOBAL ANALYSIS OF CO2 AND CH4 BY THE GLOBAL CARBON PROJECT AND NOAA S CARBON TRACKER  AND SCIENTIFIC AND MEDIA INTEREST IN LARGE WILDFIRE COMPLEXES AS THEY DEVELOP. THE PROPOSED RESEARCH DIRECTLY RESPONDS TO THREE COMPONENTS OF THE ROSES A.7 CMS RESEARCH ANNOUNCEMENT  INCLUDING THE NEED TO  ADVANCE REMOTE SENSING-BASED APPROACHES TO MONITORING  REPORTING  AND VERIFICATION    EXTEND  AND/OR IMPROVE EXISTING CMS PRODUCTS FOR BIOMASS OR FLUX RESULTING FROM NASA S FIRST PHASES OF CMS PILOT STUDIES   AND  ENHANCE NATIONAL REPORTED CARBON EMISSIONS INVENTORIES.  THE PROPOSED EFFORT WILL PROVIDE CONSISTENT GLOBAL FIRE EMISSIONS DATA PRODUCTS FOR OVER TWO DECADES  GROUNDED IN NASA SATELLITE OBSERVATIONS  TO SUPPORT GREENHOUSE GAS MRV EFFORTS AND ADVANCE OUR UNDERSTANDING OF FIRE IN THE EARTH SYSTEM. INVESTMENTS IN NEAR-REAL TIME GFED PRODUCTS AND AN ONLINE DATA DELIVERY AND ANALYSIS SYSTEM WILL HARNESS THE FULL POTENTIAL OF NASA S REMOTE SENSING OBSERVATIONS FOR STAKEHOLDER ENGAGEMENT AND RESEARCH NEEDS ON FIRE CARBON LOSSES  ATMOSPHERIC CHEMISTRY  AND ATTRIBUTION OF CHANGING FIRE DYNAMICS TO HUMAN ACTIVITY AND CLIMATE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "141 INNOVATION DR STE 250",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "45",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "3213",
+      "zip5": "92617"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "45",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92617-3213",
+      "zip5": "92617"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2017-11-27",
+    "End Date": "2021-10-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC18K0179_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74725203,
+    "generated_unique_award_id": "ASST_NON_80NSSC18K0179_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FIRE IS A CRITICAL COMPONENT OF THE EARTH SYSTEM. NASA S EARTH OBSERVING SATELLITES MONITOR ACTIVE FIRES  MAP BURNED AREA  AND ESTIMATE TRACE GAS AND AEROSOL EMISSIONS FROM FIRES WORLDWIDE. GLOBALLY  FIRES EMIT MORE THAN 2 PG C PER YEAR  YET IMPORTANT CHALLENGES REMAIN WITH RESPECT TO INTEGRATING FIRE EMISSIONS INTO CARBON MONITORING SYSTEMS. ONE IMPEDIMENT TO ROUTINE MONITORING  REPORTING  AND VERIFICATION (MRV) OF FIRES IS THE NEED FOR EMISSIONS INFORMATION OVER A RANGE OF TEMPORAL AND SPATIAL SCALES. ON DAILY TO WEEKLY TIME SCALES  NEAR-REAL TIME FIRE EMISSIONS DATA ARE NEEDED TO SUPPORT FORECASTS AND RESPONSE EFFORTS DURING WILDFIRE EMERGENCIES. TIME SERIES OF ANNUAL FIRE EMISSIONS BY FIRE TYPE  SUCH AS PRODUCTS FROM THE GLOBAL FIRE EMISSIONS DATABASE (GFED)  ARE IMPORTANT FOR GREENHOUSE GAS REPORTING AT REGIONAL  NATIONAL  AND GLOBAL SCALES  INCLUDING THE GLOBAL CARBON PROJECT S ANNUAL CARBON BUDGET. OVER LONGER TIME SCALES  THE 17-YEAR MODERATE RESOLUTION IMAGING SPECTROMETER (MODIS) DATA RECORD NOW CAPTURES IMPORTANT YEAR-TO-YEAR VARIABILITY AND SECULAR TRENDS IN GLOBAL FIRE ACTIVITY FROM CHANGING LAND USE AND CLIMATE. HERE  WE PROPOSE TO DEVELOP A SUITE OF GFED PRODUCTS TO BETTER INTEGRATE FIRE EMISSIONS INFORMATION INTO EXISTING CARBON MONITORING SYSTEMS. NEW PRODUCTS SPECIFICALLY TARGET CARBON MONITORING SYSTEM AND STAKEHOLDER NEEDS FOR LOW-LATENCY DATA PRODUCTS  IMPROVED ESTIMATES OF GLOBAL BURNING AND TRENDS  AND A DETAILED ASSESSMENT OF THE DIRECT AND INDIRECT CONTRIBUTIONS FROM FIRE TO THE GLOBAL METHANE BUDGET. FIRST  WE WILL CREATE A NEAR-REAL TIME GFED EMISSIONS PRODUCT USING NEW  375 M RESOLUTION VISIBLE INFRARED IMAGING RADIOMETER SUITE (VIIRS) ACTIVE FIRE DETECTIONS. IN PARALLEL  WE PROPOSE TO DEVELOP AND RELEASE GFED VERSION 5  BUILDING ON IMPROVEMENTS TO COLLECTION 6 MODIS BURNED AREA  VIIRS ACTIVE FIRE DETECTIONS  AND NOVEL CONSTRAINTS ON FUEL LOADS FROM BIOMASS DATASETS DEVELOPED BY PRIOR NASA CARBON MONITORING SYSTEM (CMS) PROJECTS. THIRD  WE WILL RUN GEOS-CHEM ATMOSPHERIC MODEL SIMULATIONS TO ESTIMATE THE INFLUENCE OF GLOBAL FIRE ACTIVITY ON METHANE EMISSIONS AND METHANE LIFETIMES BASED ON CHANGING HYDROXYL RADICAL (OH) CONCENTRATIONS. FOURTH  SATELLITE DATA SUGGEST A STRONG DECLINE IN SAVANNA AND GRASSLAND FIRES OVER THE PAST TWO DECADES; WE PROPOSE TO EVALUATE CHANGING FIRE DYNAMICS USING INDIVIDUAL FIRE INFORMATION AND HIGHER RESOLUTION LANDSAT 8 AND SENTINEL-2 DATA FOR CASE STUDY REGIONS WITH DECLINING FIRE ACTIVITY. FINALLY  WE WILL UPDATE AND EXPAND THE ONLINE GFED ANALYSIS TOOL TO SERVE NEARREAL TIME GFED5 PRODUCTS AND SUPPORT STAKEHOLDER INTEREST IN FIRE ACTIVITY AND REPORTING AT A RANGE OF SPATIAL AND TEMPORAL SCALES. THIS SUITE OF GFED5 PRODUCTS SPECIFICALLY TARGETS DATA NEEDS FOR ONGOING CMS-FLUX RESEARCH  GLOBAL ANALYSIS OF CO2 AND CH4 BY THE GLOBAL CARBON PROJECT AND NOAA S CARBON TRACKER  AND SCIENTIFIC AND MEDIA INTEREST IN LARGE WILDFIRE COMPLEXES AS THEY DEVELOP. THE PROPOSED RESEARCH DIRECTLY RESPONDS TO THREE COMPONENTS OF THE ROSES A.7 CMS RESEARCH ANNOUNCEMENT  INCLUDING THE NEED TO  ADVANCE REMOTE SENSING-BASED APPROACHES TO MONITORING  REPORTING  AND VERIFICATION    EXTEND  AND/OR IMPROVE EXISTING CMS PRODUCTS FOR BIOMASS OR FLUX RESULTING FROM NASA S FIRST PHASES OF CMS PILOT STUDIES   AND  ENHANCE NATIONAL REPORTED CARBON EMISSIONS INVENTORIES.  THE PROPOSED EFFORT WILL PROVIDE CONSISTENT GLOBAL FIRE EMISSIONS DATA PRODUCTS FOR OVER TWO DECADES  GROUNDED IN NASA SATELLITE OBSERVATIONS  TO SUPPORT GREENHOUSE GAS MRV EFFORTS AND ADVANCE OUR UNDERSTANDING OF FIRE IN THE EARTH SYSTEM. INVESTMENTS IN NEAR-REAL TIME GFED PRODUCTS AND AN ONLINE DATA DELIVERY AND ANALYSIS SYSTEM WILL HARNESS THE FULL POTENTIAL OF NASA S REMOTE SENSING OBSERVATIONS FOR STAKEHOLDER ENGAGEMENT AND RESEARCH NEEDS ON FIRE CARBON LOSSES  ATMOSPHERIC CHEMISTRY  AND ATTRIBUTION OF CHANGING FIRE DYNAMICS TO HUMAN ACTIVITY AND CLIMATE.",
+    "total_obligation": 658765.89,
+    "subaward_count": 3,
+    "total_subaward_amount": 293889,
+    "date_signed": "2017-11-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 266686.75,
+    "total_account_obligation": -828.11,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 266686.75
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -828.11
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2017-11-27",
+      "end_date": "2021-10-30",
+      "last_modified_date": "2022-05-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "141 INNOVATION DR STE 250",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "3213",
+        "zip5": "92617",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "3213",
+      "zip5": "92617",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 266686.75
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 172240099,
+    "Award ID": "2428060",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2999927,
+    "Total Outlays": 1110.46,
+    "Description": "FMRG: BIO: ENGINEERED PLANTS IN CULTURE (EPIC) - BIOMANUFACTURING IN LOW RESOURCE ENVIRONMENTS -LIVING ORGANISMS ARE VERSATILE. THEY CAN PRODUCE MANY IMPORTANT CHEMICALS AND DRUGS. MOST PROCESSES UTILIZING LIVING ORGANISMS OR ENZYMES ARE DONE AT LARGE SCALE IN CENTRALIZED FACILITIES. EXAMPLES INCLUDE BREWING, PHARMACEUTICAL MANUFACTURING, OR HIGH FRUCTOSE CORN SYRUP. THE APPROACH WORKS FINE IN A RESOURCE RICH ENVIRONMENT. IT DOES NOT WORK SO WELL IN LOW RESOURCE ENVIRONMENTS, WHERE RAW MATERIALS AND ENERGY MUST BE IMPORTED TO THE SITE SUCH AS IN UNDERSERVED RURAL COMMUNITIES, BATTLEFIELDS, DESERTS, OR SPACE. THE OBJECTIVE OF THIS FUTURE MANUFACTURING RESEARCH GRANT (FMRG) PROJECT IS TO DEVELOP SMALL SCALE, LARGELY SELF-SUFFICIENT BIOMANUFACTURING. THIS EFFORT WILL INVOLVE PLANT CELLS AND FAST-GROWING AQUATIC PLANTS. THEY UTILIZE AN INEXPENSIVE ENERGY SOURCE, SUNLIGHT. THEY CONSUME AN INEXPENSIVE RAW MATERIAL, CARBON DIOXIDE. THE PROJECT COULD LEAD TO THE DEVELOPMENT OF TECHNOLOGY TO REPLACE ENERGY-INTENSIVE MANUFACTURING PROCESSES. THE ENGINEERED PLANTS IN CULTURE (EPIC) PROJECT WILL ALSO DEVELOP AND IMPLEMENT EDUCATIONAL AND OUTREACH ACTIVITIES THAT WILL ATTRACT AND TRAIN STUDENTS IN THIS NEW FIELD. THE ENGINEERED PLANTS IN CULTURE (EPIC) PROJECT WILL USE ENGINEERED PLANT CELLS, PLANT EMBRYOS, AND FAST-GROWING AQUATIC PLANTS AS BIOPRODUCTION PLATFORMS. EPIC WILL INCORPORATE PLANT SYNTHETIC BIOLOGY AND BIOPROCESS ENGINEERING. THREE RESEARCH CHALLENGES TO BE ADDRESSED. THE FIRST IS ENGINEERING PLANT CELL LINES FOR IMPROVED BIOPRODUCTION AND DOWNSTREAM PROCESSING EFFICIENCY. THE SECOND IS RECYCLING PLANT BIOMASS WASTE FOR USE IN SUBSEQUENT CULTURES TO IMPROVE SUSTAINABILITY AND LOWER PRODUCTION COSTS. THE THIRD IS IDENTIFYING STABLE GENOMIC LOCI FOR TARGETED INSERTION OF EXPRESSION CASSETTES. THREE TYPES OF PLANT PRODUCTION PLATFORMS WILL BE INVESTIGATED. THESE INCLUDE RICE CELL SUSPENSION CULTURES, WALNUT EMBRYO CULTURES, AND SMALL, FAST-GROWING AQUATIC DUCKWEED PLANTS. ALSO UNDER DEVELOPMENT WILL BE BIOREACTORS FOR THE DIFFERENT PRODUCTION HOSTS THAT CAN BE 3D PRINTED AT LOW COST AND IMPLEMENTED LOCALLY. TECHNO-ECONOMIC MODELS WILL BE DEVELOPED FOR EACH OF THE PLATFORMS TO EVALUATE COMMERCIAL VIABILITY AND IDENTIFY PRIORITIES FOR PROCESS DEVELOPMENT EFFORTS. TO TEST THE PERFORMANCE OF ONE OF THESE SYSTEMS UNDER A SEVERELY CONSTRAINED, LOW RESOURCE ENVIRONMENT, A BIOREACTOR CONTAINING A PLANT CELL SUSPENSION CULTURE WILL BE DEVELOPED AND TESTED IN LOW EARTH ORBIT ON THE INTERNATIONAL SPACE STATION IN THE FINAL YEAR OF THE PROJECT. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-06-01",
+    "End Date": "2029-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2428060_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 172240099,
+    "generated_unique_award_id": "ASST_NON_2428060_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FMRG: BIO: ENGINEERED PLANTS IN CULTURE (EPIC) - BIOMANUFACTURING IN LOW RESOURCE ENVIRONMENTS -LIVING ORGANISMS ARE VERSATILE. THEY CAN PRODUCE MANY IMPORTANT CHEMICALS AND DRUGS. MOST PROCESSES UTILIZING LIVING ORGANISMS OR ENZYMES ARE DONE AT LARGE SCALE IN CENTRALIZED FACILITIES. EXAMPLES INCLUDE BREWING, PHARMACEUTICAL MANUFACTURING, OR HIGH FRUCTOSE CORN SYRUP. THE APPROACH WORKS FINE IN A RESOURCE RICH ENVIRONMENT. IT DOES NOT WORK SO WELL IN LOW RESOURCE ENVIRONMENTS, WHERE RAW MATERIALS AND ENERGY MUST BE IMPORTED TO THE SITE SUCH AS IN UNDERSERVED RURAL COMMUNITIES, BATTLEFIELDS, DESERTS, OR SPACE. THE OBJECTIVE OF THIS FUTURE MANUFACTURING RESEARCH GRANT (FMRG) PROJECT IS TO DEVELOP SMALL SCALE, LARGELY SELF-SUFFICIENT BIOMANUFACTURING. THIS EFFORT WILL INVOLVE PLANT CELLS AND FAST-GROWING AQUATIC PLANTS. THEY UTILIZE AN INEXPENSIVE ENERGY SOURCE, SUNLIGHT. THEY CONSUME AN INEXPENSIVE RAW MATERIAL, CARBON DIOXIDE. THE PROJECT COULD LEAD TO THE DEVELOPMENT OF TECHNOLOGY TO REPLACE ENERGY-INTENSIVE MANUFACTURING PROCESSES. THE ENGINEERED PLANTS IN CULTURE (EPIC) PROJECT WILL ALSO DEVELOP AND IMPLEMENT EDUCATIONAL AND OUTREACH ACTIVITIES THAT WILL ATTRACT AND TRAIN STUDENTS IN THIS NEW FIELD. THE ENGINEERED PLANTS IN CULTURE (EPIC) PROJECT WILL USE ENGINEERED PLANT CELLS, PLANT EMBRYOS, AND FAST-GROWING AQUATIC PLANTS AS BIOPRODUCTION PLATFORMS. EPIC WILL INCORPORATE PLANT SYNTHETIC BIOLOGY AND BIOPROCESS ENGINEERING. THREE RESEARCH CHALLENGES TO BE ADDRESSED. THE FIRST IS ENGINEERING PLANT CELL LINES FOR IMPROVED BIOPRODUCTION AND DOWNSTREAM PROCESSING EFFICIENCY. THE SECOND IS RECYCLING PLANT BIOMASS WASTE FOR USE IN SUBSEQUENT CULTURES TO IMPROVE SUSTAINABILITY AND LOWER PRODUCTION COSTS. THE THIRD IS IDENTIFYING STABLE GENOMIC LOCI FOR TARGETED INSERTION OF EXPRESSION CASSETTES. THREE TYPES OF PLANT PRODUCTION PLATFORMS WILL BE INVESTIGATED. THESE INCLUDE RICE CELL SUSPENSION CULTURES, WALNUT EMBRYO CULTURES, AND SMALL, FAST-GROWING AQUATIC DUCKWEED PLANTS. ALSO UNDER DEVELOPMENT WILL BE BIOREACTORS FOR THE DIFFERENT PRODUCTION HOSTS THAT CAN BE 3D PRINTED AT LOW COST AND IMPLEMENTED LOCALLY. TECHNO-ECONOMIC MODELS WILL BE DEVELOPED FOR EACH OF THE PLATFORMS TO EVALUATE COMMERCIAL VIABILITY AND IDENTIFY PRIORITIES FOR PROCESS DEVELOPMENT EFFORTS. TO TEST THE PERFORMANCE OF ONE OF THESE SYSTEMS UNDER A SEVERELY CONSTRAINED, LOW RESOURCE ENVIRONMENT, A BIOREACTOR CONTAINING A PLANT CELL SUSPENSION CULTURE WILL BE DEVELOPED AND TESTED IN LOW EARTH ORBIT ON THE INTERNATIONAL SPACE STATION IN THE FINAL YEAR OF THE PROJECT. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "total_obligation": 2999927,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-06-04",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 10034.49,
+    "total_account_obligation": 2999927,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 10034.49
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2999927
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "OFC INTERNTL SCIENCE  ENG"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF CHEMICAL BIOENGINEERING"
+    },
+    "period_of_performance": {
+      "start_date": "2025-06-01",
+      "end_date": "2029-05-31",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 10034.49
+  }
+}

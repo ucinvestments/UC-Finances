@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91152884,
+    "Award ID": "R01CA240751",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2398453,
+    "Total Outlays": 2233357.4,
+    "Description": "THE IMPACT OF OBESITY ON RADIOTHERAPY ANTI-TUMOR EFFECTS - ABSTRACT OBESITY HAS REACHED PANDEMIC LEVELS IN THE UNITED STATES AND WILL SOON SURPASS SMOKING AS THE NUMBER ONE CAUSE OF PREVENTABLE CANCER. UNDERSTANDING HOW TO BEST TREAT OBESE CANCER PATIENTS IS A CRITICAL UNMET NEED. PRECLINICAL DATA FROM OUR LAB SHOW INCREASED RESISTANCE TO RADIOTHERAPY (RT) IN OBESE MOUSE CANCER MODELS. CLINICAL DATA DEMONSTRATES THAT OBESE CANCER PATIENTS ARE MORE RESISTANT TO RADIOTHERAPY AND HAVE HIGHER RATES OF RECURRENCE. VERY FEW MECHANISTIC STUDIES HAVE ADDRESSED THESE FINDINGS AND UNDERSTANDING THE MECHANISMS GOVERNING RADIOTHERAPY RESISTANCE IN OBESITY IS A GAP IN KNOWLEDGE. OUR PRIOR STUDIES DEMONSTRATE THAT OBESITY, LIKELY VIA LEPTIN, A HORMONE ELEVATED IN OBESITY, CAN ALTER THE PROLIFERATION / SURVIVAL OF CANCERS AND ALSO CHANGE THE IMMUNE RESPONSE TO CANCER, LEADING TO CHANGES IN THE EFFICACY OF CANCER THERAPIES. OBESITY SUPPRESSES ADAPTIVE T CELL ANTI-TUMOR IMMUNITY AND THE IMMUNE SYSTEM STRONGLY CONTRIBUTES TO THE ANTI-TUMOR EFFECTS OF RT, PROVIDING A POTENTIAL MECHANISM LINKING OBESITY AND RT RESISTANCE. OBESITY RELATED ADIPOKINES CAN INDUCE ANTI- APOPTOTIC FACTORS AND RT RESISTANCE. BASED ON THESE OBSERVATIONS WE HYPOTHESIZE THAT OBESITY INDUCES RESISTANCE TO RT DIRECTLY BY INCREASING ANTI-APOPTOTIC FACTORS IN CANCER CELLS AND INDIRECTLY BY INDUCING SUPPRESSION OF ADAPTIVE ANTI-TUMOR IMMUNITY IN THE TUMOR MICROENVIRONMENT (TME). WE ALSO HYPOTHESIZE THAT LEPTIN SIGNALING MAY MEDIATE THE RT RESISTANCE OBSERVED IN OBESITY. THIS PROPOSAL SEEKS TO TEST THESE HYPOTHESES AND FURTHER DELINEATE MECHANISTIC LINKS BETWEEN OBESITY AND RT RESISTANCE USING THREE SPECIFIC AIMS. WE WILL USE LEAN AND DIET INDUCED OBESITY (DIO) MOUSE MODELS, IMMUNOSUPPRESSED MICE (RAG2 -/-), AS WELL AS MICE THAT LACK FUNCTIONAL LEPTIN SIGNALING (DB/DB) OR LACK ENDOGENOUS LEPTIN (OB/OB) TO EVALUATE HOW OBESITY AND LEPTIN SIGNALING WITHIN CANCER CELLS AND WITHIN THE TUMOR MICROENVIRONMENT INFLUENCE RESISTANCE TO RADIOTHERAPY. IN SPECIFIC AIM 1 WE WILL EXAMINE THE EFFECTS OF OBESITY ON THE EFFICACY OF RT AND ALSO EXAMINE THE DIRECT EFFECTS ON THE TUMOR AS WELL AS THE INDIRECT EFFECTS VIA T CELL DYSFUNCTION OR OTHER IMMUNE MECHANISMS. IN SPECIFIC AIM 2 WE WILL INVESTIGATE LEPTIN SIGNALING AS AN UNDERLYING MECHANISM WHEREBY OBESITY INDUCES RESISTANCE TO RT BOTH THROUGH DIRECT EFFECTS ON CANCER CELL PROLIFERATION / SURVIVAL AND ALSO THROUGH INDIRECT EFFECTS ON THE TME. IN SPECIFIC AIM 3 WE WILL TEST AN EXPLORATORY HYPOTHESIS THAT ABLATIVE RT IS ABLE TO IMPROVE RT EFFICACY IN OBESITY BY OVERCOMING THE MECHANISMS OF OBESITY INDUCED DIRECT (BUT NOT IMMUNE RELATED INDIRECT) RT RESISTANCE. UNDERSTANDING HOW OBESITY IMPACTS RT RESPONSE AND DEVELOPING STRATEGIES TO ADDRESS THESE ISSUES WILL IMPROVE OUTCOMES IN OBESE PATIENTS TREATED WITH RT. THUS, THESE STUDIES CAN HAVE A MAJOR CLINICAL IMPACT AND REPRESENT A STEP TOWARDS PERSONALIZED MEDICINE BY TAILORING RT TREATMENT STRATEGIES TO A PATIENT'S METABOLIC PARAMETERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-03-01",
+    "End Date": "2027-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA240751_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91152884,
+    "generated_unique_award_id": "ASST_NON_R01CA240751_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE IMPACT OF OBESITY ON RADIOTHERAPY ANTI-TUMOR EFFECTS - ABSTRACT OBESITY HAS REACHED PANDEMIC LEVELS IN THE UNITED STATES AND WILL SOON SURPASS SMOKING AS THE NUMBER ONE CAUSE OF PREVENTABLE CANCER. UNDERSTANDING HOW TO BEST TREAT OBESE CANCER PATIENTS IS A CRITICAL UNMET NEED. PRECLINICAL DATA FROM OUR LAB SHOW INCREASED RESISTANCE TO RADIOTHERAPY (RT) IN OBESE MOUSE CANCER MODELS. CLINICAL DATA DEMONSTRATES THAT OBESE CANCER PATIENTS ARE MORE RESISTANT TO RADIOTHERAPY AND HAVE HIGHER RATES OF RECURRENCE. VERY FEW MECHANISTIC STUDIES HAVE ADDRESSED THESE FINDINGS AND UNDERSTANDING THE MECHANISMS GOVERNING RADIOTHERAPY RESISTANCE IN OBESITY IS A GAP IN KNOWLEDGE. OUR PRIOR STUDIES DEMONSTRATE THAT OBESITY, LIKELY VIA LEPTIN, A HORMONE ELEVATED IN OBESITY, CAN ALTER THE PROLIFERATION / SURVIVAL OF CANCERS AND ALSO CHANGE THE IMMUNE RESPONSE TO CANCER, LEADING TO CHANGES IN THE EFFICACY OF CANCER THERAPIES. OBESITY SUPPRESSES ADAPTIVE T CELL ANTI-TUMOR IMMUNITY AND THE IMMUNE SYSTEM STRONGLY CONTRIBUTES TO THE ANTI-TUMOR EFFECTS OF RT, PROVIDING A POTENTIAL MECHANISM LINKING OBESITY AND RT RESISTANCE. OBESITY RELATED ADIPOKINES CAN INDUCE ANTI- APOPTOTIC FACTORS AND RT RESISTANCE. BASED ON THESE OBSERVATIONS WE HYPOTHESIZE THAT OBESITY INDUCES RESISTANCE TO RT DIRECTLY BY INCREASING ANTI-APOPTOTIC FACTORS IN CANCER CELLS AND INDIRECTLY BY INDUCING SUPPRESSION OF ADAPTIVE ANTI-TUMOR IMMUNITY IN THE TUMOR MICROENVIRONMENT (TME). WE ALSO HYPOTHESIZE THAT LEPTIN SIGNALING MAY MEDIATE THE RT RESISTANCE OBSERVED IN OBESITY. THIS PROPOSAL SEEKS TO TEST THESE HYPOTHESES AND FURTHER DELINEATE MECHANISTIC LINKS BETWEEN OBESITY AND RT RESISTANCE USING THREE SPECIFIC AIMS. WE WILL USE LEAN AND DIET INDUCED OBESITY (DIO) MOUSE MODELS, IMMUNOSUPPRESSED MICE (RAG2 -/-), AS WELL AS MICE THAT LACK FUNCTIONAL LEPTIN SIGNALING (DB/DB) OR LACK ENDOGENOUS LEPTIN (OB/OB) TO EVALUATE HOW OBESITY AND LEPTIN SIGNALING WITHIN CANCER CELLS AND WITHIN THE TUMOR MICROENVIRONMENT INFLUENCE RESISTANCE TO RADIOTHERAPY. IN SPECIFIC AIM 1 WE WILL EXAMINE THE EFFECTS OF OBESITY ON THE EFFICACY OF RT AND ALSO EXAMINE THE DIRECT EFFECTS ON THE TUMOR AS WELL AS THE INDIRECT EFFECTS VIA T CELL DYSFUNCTION OR OTHER IMMUNE MECHANISMS. IN SPECIFIC AIM 2 WE WILL INVESTIGATE LEPTIN SIGNALING AS AN UNDERLYING MECHANISM WHEREBY OBESITY INDUCES RESISTANCE TO RT BOTH THROUGH DIRECT EFFECTS ON CANCER CELL PROLIFERATION / SURVIVAL AND ALSO THROUGH INDIRECT EFFECTS ON THE TME. IN SPECIFIC AIM 3 WE WILL TEST AN EXPLORATORY HYPOTHESIS THAT ABLATIVE RT IS ABLE TO IMPROVE RT EFFICACY IN OBESITY BY OVERCOMING THE MECHANISMS OF OBESITY INDUCED DIRECT (BUT NOT IMMUNE RELATED INDIRECT) RT RESISTANCE. UNDERSTANDING HOW OBESITY IMPACTS RT RESPONSE AND DEVELOPING STRATEGIES TO ADDRESS THESE ISSUES WILL IMPROVE OUTCOMES IN OBESE PATIENTS TREATED WITH RT. THUS, THESE STUDIES CAN HAVE A MAJOR CLINICAL IMPACT AND REPRESENT A STEP TOWARDS PERSONALIZED MEDICINE BY TAILORING RT TREATMENT STRATEGIES TO A PATIENT'S METABOLIC PARAMETERS.",
+    "total_obligation": 2398453,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-02-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2233357.4,
+    "total_account_obligation": 2377570,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2233357.4
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2377570
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-03-01",
+      "end_date": "2027-02-28",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2233357.4
+  }
+}

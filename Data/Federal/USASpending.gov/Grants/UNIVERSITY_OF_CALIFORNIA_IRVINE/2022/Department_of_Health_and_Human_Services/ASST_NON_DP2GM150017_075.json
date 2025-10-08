@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 81396672,
+    "Award ID": "DP2GM150017",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 2581431,
+    "Total Outlays": 1337722.27,
+    "Description": "GEL-BASED OPTICAL-ISOLATION SINGLE-CELL 3D SPATIAL MULTIOMICS - ABSTRACT  PROPER FUNCTIONING OF THE HUMAN BODY RELIES ON THE ORGANIZATION OF CELLS IN 3D SPACE. A CELL’S FUNCTION AND FATE ARE DETERMINED BY ITS BIOMOLECULE COMPOSITION AND ITS 3D ENVIRONMENT. THE SPATIALLY IDENTIFICATION OF PROTEINS, RNAS, AND DNAS IN A TISSUE THUS PROVIDES A POWERFUL MAP TO DECIPHER HOW CELLS BUILD TISSUES AND BECOME DISEASED. THROUGH THE USE OF SINGLE-CELL OMICS, IT’S BEEN POSSIBLE TO REVEAL RARE CELL TYPES THAT BENCHMARK DEVELOPMENT, ONCOGENESIS, AND BRAIN FUNCTIONS. HOWEVER, THE CELL ISOLATION PROCESS IN SINGLE-CELL ANALYSIS UNAVOIDABLY CAUSES LOSS OF SPATIAL INFORMATION. TO OBTAIN SPATIAL INFORMATION, SPATIAL TRANSCRIPTOMICS BASED ON IMAGING OR SEQUENCING HAVE EMERGED TO GIVE INSIGHT INTO THE HETEROGENEOUS EXPRESSION PATTERNS IN TUMORS, BRAIN, AND WOUND TISSUES. UNFORTUNATELY, MOST SPATIAL TRANSCRIPTOMICS METHODS CAN ONLY EXAMINE THIN TISSUE SECTIONS, AND ARE INCOMPATIBLE WITH PROTEOMICS. TO ADDRESS THESE DRAWBACKS, THE GOAL OF THE PROJECT IS TO DEVELOP A CONCEPTUALLY NOVEL 3D SPATIAL MULTIOMICS TECHNOLOGY FEATURING GEL-BASED OPTICAL ISOLATION (GO3D). THE PROPOSED GO3D TECHNOLOGY IS DISTINCT FROM ALL CURRENT SPATIAL OMICS, AND WILL ENABLE THE PROFILING OF PROTEINS, RNAS, AND DNAS OF WHOLE-MOUNT TISSUES WITH SUBCELLULAR RESOLUTION, HIGH COVERAGE AND HIGH THROUGHPUT, SIMULTANEOUSLY. THIS INNOVATIVE DESIGN IS BASED ON THE GEL-BASED LABEL-RETENTION EXPANSION MICROSCOPY (LR- EXM) THAT THE PI PUBLISHED RECENTLY. GO3D WILL DRASTICALLY TRANSFORM OUR UNDERSTANDING OF MANY CRITICAL BIOMEDICAL QUESTIONS, WHICH WE LACK OF TOOLS TO ADDRESS CURRENTLY. FOR EXAMPLE, HOW ARE CELLS IN A HIGHLY DYNAMIC SKIN MIGRATE IN 3D TO HEAL WOUNDS? HOW DO SPECIALIZED NEURONS BUILD BRAIN? AND WHERE DO MICROBES INTERACT WITH WHAT CELL TYPES IN GUT?",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-01",
+    "End Date": "2027-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_DP2GM150017_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 81396672,
+    "generated_unique_award_id": "ASST_NON_DP2GM150017_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "GEL-BASED OPTICAL-ISOLATION SINGLE-CELL 3D SPATIAL MULTIOMICS - ABSTRACT  PROPER FUNCTIONING OF THE HUMAN BODY RELIES ON THE ORGANIZATION OF CELLS IN 3D SPACE. A CELL’S FUNCTION AND FATE ARE DETERMINED BY ITS BIOMOLECULE COMPOSITION AND ITS 3D ENVIRONMENT. THE SPATIALLY IDENTIFICATION OF PROTEINS, RNAS, AND DNAS IN A TISSUE THUS PROVIDES A POWERFUL MAP TO DECIPHER HOW CELLS BUILD TISSUES AND BECOME DISEASED. THROUGH THE USE OF SINGLE-CELL OMICS, IT’S BEEN POSSIBLE TO REVEAL RARE CELL TYPES THAT BENCHMARK DEVELOPMENT, ONCOGENESIS, AND BRAIN FUNCTIONS. HOWEVER, THE CELL ISOLATION PROCESS IN SINGLE-CELL ANALYSIS UNAVOIDABLY CAUSES LOSS OF SPATIAL INFORMATION. TO OBTAIN SPATIAL INFORMATION, SPATIAL TRANSCRIPTOMICS BASED ON IMAGING OR SEQUENCING HAVE EMERGED TO GIVE INSIGHT INTO THE HETEROGENEOUS EXPRESSION PATTERNS IN TUMORS, BRAIN, AND WOUND TISSUES. UNFORTUNATELY, MOST SPATIAL TRANSCRIPTOMICS METHODS CAN ONLY EXAMINE THIN TISSUE SECTIONS, AND ARE INCOMPATIBLE WITH PROTEOMICS. TO ADDRESS THESE DRAWBACKS, THE GOAL OF THE PROJECT IS TO DEVELOP A CONCEPTUALLY NOVEL 3D SPATIAL MULTIOMICS TECHNOLOGY FEATURING GEL-BASED OPTICAL ISOLATION (GO3D). THE PROPOSED GO3D TECHNOLOGY IS DISTINCT FROM ALL CURRENT SPATIAL OMICS, AND WILL ENABLE THE PROFILING OF PROTEINS, RNAS, AND DNAS OF WHOLE-MOUNT TISSUES WITH SUBCELLULAR RESOLUTION, HIGH COVERAGE AND HIGH THROUGHPUT, SIMULTANEOUSLY. THIS INNOVATIVE DESIGN IS BASED ON THE GEL-BASED LABEL-RETENTION EXPANSION MICROSCOPY (LR- EXM) THAT THE PI PUBLISHED RECENTLY. GO3D WILL DRASTICALLY TRANSFORM OUR UNDERSTANDING OF MANY CRITICAL BIOMEDICAL QUESTIONS, WHICH WE LACK OF TOOLS TO ADDRESS CURRENTLY. FOR EXAMPLE, HOW ARE CELLS IN A HIGHLY DYNAMIC SKIN MIGRATE IN 3D TO HEAL WOUNDS? HOW DO SPECIALIZED NEURONS BUILD BRAIN? AND WHERE DO MICROBES INTERACT WITH WHAT CELL TYPES IN GUT?",
+    "total_obligation": 2581431,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-08-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1337722.27,
+    "total_account_obligation": 1648422,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1337722.27
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1648422
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 841,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Office of the Assistant Secretary for Financial Resources",
+        "code": "7571",
+        "abbreviation": "ASFR"
+      },
+      "office_agency_name": "ASFR OFFICE OF THE ASSISTANT SECRETARY FOR FINANCIAL RESOURCES"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-01",
+      "end_date": "2027-08-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1337722.27
+  }
+}

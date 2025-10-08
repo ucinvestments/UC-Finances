@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 81354326,
+    "Award ID": "DESC0002003",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 918000,
+    "Total Outlays": null,
+    "Description": "NEW; TITLE: CLOUD-AEROSOL PHYSICS IN SUPER-PARAMETERIZED ATMOSPHERIC REGIONAL CLIMATE SIMULATIONS (CAP-SPARCS); PI - LYNN M. RUSSELL",
+    "Contract Award Type": "",
+    "Recipient UEI": "",
+    "Recipient Location": {
+      "address_line1": null,
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "53",
+      "country_name": null,
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0210",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": null,
+      "country_name": null,
+      "county_code": null,
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Energy",
+    "Awarding Sub Agency": "Department of Energy",
+    "Start Date": "2009-09-16",
+    "End Date": "2011-08-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "68f737b4-5c3b-26f6-45c8-045ee61381c3-R",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_DESC0002003_089",
+    "awarding_agency_id": 930,
+    "agency_slug": "department-of-energy",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 81354326,
+    "generated_unique_award_id": "ASST_NON_DESC0002003_089",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "",
+    "description": "NEW; TITLE: CLOUD-AEROSOL PHYSICS IN SUPER-PARAMETERIZED ATMOSPHERIC REGIONAL CLIMATE SIMULATIONS (CAP-SPARCS); PI - LYNN M. RUSSELL",
+    "total_obligation": 918000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2009-09-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 930,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Energy",
+        "code": "089",
+        "abbreviation": "DOE",
+        "slug": "department-of-energy"
+      },
+      "subtier_agency": {
+        "name": "Department of Energy",
+        "code": "8900",
+        "abbreviation": "DOE"
+      },
+      "office_agency_name": ""
+    },
+    "period_of_performance": {
+      "start_date": "2009-09-16",
+      "end_date": "2011-08-14",
+      "last_modified_date": "2015-02-13",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "68f737b4-5c3b-26f6-45c8-045ee61381c3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "",
+        "country_name": "",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0210",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "",
+      "country_name": "",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

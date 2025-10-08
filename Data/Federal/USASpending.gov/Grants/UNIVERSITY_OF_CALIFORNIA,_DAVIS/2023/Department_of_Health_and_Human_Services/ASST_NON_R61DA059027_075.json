@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91365358,
+    "Award ID": "R61DA059027",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1005183,
+    "Total Outlays": 750235.27,
+    "Description": "A MULTI-TEAM SYSTEM IMPLEMENTATION STRATEGY TO IMPROVE BUPRENORPHINE ADHERENCE FOR PATIENTS WHO INITIATE TREATMENT IN THE EMERGENCY DEPARTMENT - PROJECT SUMMARY/ABSTRACT DRUG OVERDOSE DEATHS CONTINUE TO RISE IN THE US DUE LARGELY TO OPIOID-RELATED DEATHS, DESPITE AVAILABILITY OF BUPRENORPHINE, A HIGHLY EFFECTIVE TREATMENT FOR OPIOID USE DISORDER (OUD). STARTING BUPRENORPHINE FOR OUD IN EMERGENCY DEPARTMENTS IS AN INCREASINGLY COMMON PRACTICE ACROSS THE US. A LARGE CLINICAL TRIAL FOUND THAT EMERGENCY DEPARTMENT-INITIATED BUPRENORPHINE PLUS REFERRAL TO PRIMARY CARE FOR ONGOING TREATMENT SIGNIFICANTLY INCREASED BUPRENORPHINE TREATMENT RATES, BUT EFFECTS WERE NOT SUSTAINED PAST TWO MONTHS. EFFECTIVE STRATEGIES TO HELP PATIENTS START, RESTART, AND SUSTAIN BUPRENORPHINE TREATMENT ARE URGENTLY NEEDED TO REDUCE OVERDOSE DEATHS. TO INCREASE BUPRENORPHINE TREATMENT, CALIFORNIA ESTABLISHED CA BRIDGE, A STATE-FUNDED PROGRAM IN \u003e200 HOSPITALS THAT OFFERS SAME-DAY BUPRENORPHINE INITIATION PLUS REFERRAL TO PRIMARY CARE FOR PATIENTS WITH OUD WHO SEEK CARE IN EMERGENCY DEPARTMENTS. HOWEVER, SUBOPTIMAL CARE COORDINATION PERSISTS, ESPECIALLY FOR LOW- INCOME PATIENTS. THIS STUDY’S OVERARCHING HYPOTHESIS IS THAT AN IMPLEMENTATION STRATEGY THAT ENCOURAGES COORDINATION INVOLVING ONGOING PARTNERSHIPS RATHER THAN ONE-TIME HANDOFFS BETWEEN EMERGENCY DEPARTMENT AND PRIMARY CARE TEAMS WILL IMPROVE BUPRENORPHINE TREATMENT AND RETENTION RATES FOR PATIENTS WHO START BUPRENORPHINE IN THE EMERGENCY DEPARTMENT. THE OBJECTIVE IS TO REFINE AN IMPLEMENTATION STRATEGY INFORMED BY MULTITEAM SYSTEMS THEORY THAT IS FOCUSED ON IMPROVING OUD CARE COORDINATION BETWEEN EMERGENCY DEPARTMENT AND PRIMARY CARE TEAMS AND THEN TEST THIS STRATEGY IN A HYBRID TYPE III EFFECTIVENESS-IMPLEMENTATION STUDY USING A STEPPED WEDGE DESIGN RANDOMIZED AT THE SITE LEVEL. THE R61 PHASE WILL INVOLVE COLLECTING AND ANALYZING DATA FROM TWO CA BRIDGE SITES TO IDENTIFY CORE AND PERIPHERAL ELEMENTS OF THIS IMPLEMENTATION STRATEGY AND DEVELOP AN IMPLEMENTATION STRATEGY, A PRELIMINARY IMPLEMENTATION BLUEPRINT, AND DATA COLLECTION PROTOCOLS FOR THE R33 PHASE. THE STEPPED WEDGE STUDY DURING THE R33 PHASE WILL INVOLVE FOUR CA BRIDGE SITES. IMPLEMENTATION OUTCOMES WILL INCLUDE BETWEEN-TEAM COORDINATING ACTIVITIES AND CARE TRANSITIONS. EFFECTIVENESS OUTCOMES WILL INCLUDE RATES OF OUTPATIENT BUPRENORPHINE INITIATION (FILLING =1 OUTPATIENT PRESCRIPTION) AND SUSTAINED BUPRENORPHINE TREATMENT 3, 6, AND 12 MONTHS AFTER PATIENTS LEAVE THE EMERGENCY DEPARTMENT, ASSESSED WITH DATA FROM CALIFORNIA’S PRESCRIPTION DRUG MONITORING PROGRAM. FACTORS ASSOCIATED WITH SUCCESSFUL IMPLEMENTATION AND SUSTAINABILITY WILL BE IDENTIFIED THROUGH PRE- AND POST-IMPLEMENTATION INTERVIEWS WITH PATIENTS, STAFF, AND MANAGERS AT EACH EMERGENCY DEPARTMENT AND PRIMARY CARE CLINIC AND THROUGH ENGAGEMENT WITH RELEVANT STAKEHOLDERS, INCLUDING PATIENTS, CA BRIDGE STATEWIDE LEADERSHIP AND PROSPECTIVE PAYERS. STUDY RESULTS WILL BE USED TO DEVELOP AN IMPLEMENTATION BLUEPRINT THAT HOSPITALS IN CALIFORNIA AND ACROSS THE US CAN USE TO IMPROVE OUD TREATMENT OUTCOMES FOR PATIENTS WHO START BUPRENORPHINE IN EMERGENCY DEPARTMENTS. THIS STUDY WILL ADVANCE EFFORTS TO IMPROVE LONG-TERM BUPRENORPHINE TREATMENT RATES AT SCALE FOR LOW-INCOME AND OTHER VULNERABLE PATIENTS WHO DISPROPORTIONATELY SEEK OUD CARE IN EMERGENCY DEPARTMENTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172201",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-08-01",
+    "End Date": "2025-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R61DA059027_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91365358,
+    "generated_unique_award_id": "ASST_NON_R61DA059027_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A MULTI-TEAM SYSTEM IMPLEMENTATION STRATEGY TO IMPROVE BUPRENORPHINE ADHERENCE FOR PATIENTS WHO INITIATE TREATMENT IN THE EMERGENCY DEPARTMENT - PROJECT SUMMARY/ABSTRACT DRUG OVERDOSE DEATHS CONTINUE TO RISE IN THE US DUE LARGELY TO OPIOID-RELATED DEATHS, DESPITE AVAILABILITY OF BUPRENORPHINE, A HIGHLY EFFECTIVE TREATMENT FOR OPIOID USE DISORDER (OUD). STARTING BUPRENORPHINE FOR OUD IN EMERGENCY DEPARTMENTS IS AN INCREASINGLY COMMON PRACTICE ACROSS THE US. A LARGE CLINICAL TRIAL FOUND THAT EMERGENCY DEPARTMENT-INITIATED BUPRENORPHINE PLUS REFERRAL TO PRIMARY CARE FOR ONGOING TREATMENT SIGNIFICANTLY INCREASED BUPRENORPHINE TREATMENT RATES, BUT EFFECTS WERE NOT SUSTAINED PAST TWO MONTHS. EFFECTIVE STRATEGIES TO HELP PATIENTS START, RESTART, AND SUSTAIN BUPRENORPHINE TREATMENT ARE URGENTLY NEEDED TO REDUCE OVERDOSE DEATHS. TO INCREASE BUPRENORPHINE TREATMENT, CALIFORNIA ESTABLISHED CA BRIDGE, A STATE-FUNDED PROGRAM IN \u003e200 HOSPITALS THAT OFFERS SAME-DAY BUPRENORPHINE INITIATION PLUS REFERRAL TO PRIMARY CARE FOR PATIENTS WITH OUD WHO SEEK CARE IN EMERGENCY DEPARTMENTS. HOWEVER, SUBOPTIMAL CARE COORDINATION PERSISTS, ESPECIALLY FOR LOW- INCOME PATIENTS. THIS STUDY’S OVERARCHING HYPOTHESIS IS THAT AN IMPLEMENTATION STRATEGY THAT ENCOURAGES COORDINATION INVOLVING ONGOING PARTNERSHIPS RATHER THAN ONE-TIME HANDOFFS BETWEEN EMERGENCY DEPARTMENT AND PRIMARY CARE TEAMS WILL IMPROVE BUPRENORPHINE TREATMENT AND RETENTION RATES FOR PATIENTS WHO START BUPRENORPHINE IN THE EMERGENCY DEPARTMENT. THE OBJECTIVE IS TO REFINE AN IMPLEMENTATION STRATEGY INFORMED BY MULTITEAM SYSTEMS THEORY THAT IS FOCUSED ON IMPROVING OUD CARE COORDINATION BETWEEN EMERGENCY DEPARTMENT AND PRIMARY CARE TEAMS AND THEN TEST THIS STRATEGY IN A HYBRID TYPE III EFFECTIVENESS-IMPLEMENTATION STUDY USING A STEPPED WEDGE DESIGN RANDOMIZED AT THE SITE LEVEL. THE R61 PHASE WILL INVOLVE COLLECTING AND ANALYZING DATA FROM TWO CA BRIDGE SITES TO IDENTIFY CORE AND PERIPHERAL ELEMENTS OF THIS IMPLEMENTATION STRATEGY AND DEVELOP AN IMPLEMENTATION STRATEGY, A PRELIMINARY IMPLEMENTATION BLUEPRINT, AND DATA COLLECTION PROTOCOLS FOR THE R33 PHASE. THE STEPPED WEDGE STUDY DURING THE R33 PHASE WILL INVOLVE FOUR CA BRIDGE SITES. IMPLEMENTATION OUTCOMES WILL INCLUDE BETWEEN-TEAM COORDINATING ACTIVITIES AND CARE TRANSITIONS. EFFECTIVENESS OUTCOMES WILL INCLUDE RATES OF OUTPATIENT BUPRENORPHINE INITIATION (FILLING =1 OUTPATIENT PRESCRIPTION) AND SUSTAINED BUPRENORPHINE TREATMENT 3, 6, AND 12 MONTHS AFTER PATIENTS LEAVE THE EMERGENCY DEPARTMENT, ASSESSED WITH DATA FROM CALIFORNIA’S PRESCRIPTION DRUG MONITORING PROGRAM. FACTORS ASSOCIATED WITH SUCCESSFUL IMPLEMENTATION AND SUSTAINABILITY WILL BE IDENTIFIED THROUGH PRE- AND POST-IMPLEMENTATION INTERVIEWS WITH PATIENTS, STAFF, AND MANAGERS AT EACH EMERGENCY DEPARTMENT AND PRIMARY CARE CLINIC AND THROUGH ENGAGEMENT WITH RELEVANT STAKEHOLDERS, INCLUDING PATIENTS, CA BRIDGE STATEWIDE LEADERSHIP AND PROSPECTIVE PAYERS. STUDY RESULTS WILL BE USED TO DEVELOP AN IMPLEMENTATION BLUEPRINT THAT HOSPITALS IN CALIFORNIA AND ACROSS THE US CAN USE TO IMPROVE OUD TREATMENT OUTCOMES FOR PATIENTS WHO START BUPRENORPHINE IN EMERGENCY DEPARTMENTS. THIS STUDY WILL ADVANCE EFFORTS TO IMPROVE LONG-TERM BUPRENORPHINE TREATMENT RATES AT SCALE FOR LOW-INCOME AND OTHER VULNERABLE PATIENTS WHO DISPROPORTIONATELY SEEK OUD CARE IN EMERGENCY DEPARTMENTS.",
+    "total_obligation": 1005183,
+    "subaward_count": 2,
+    "total_subaward_amount": 39825,
+    "date_signed": "2023-07-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 750235.27,
+    "total_account_obligation": 1005183,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 750235.27
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1005183
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "period_of_performance": {
+      "start_date": "2023-08-01",
+      "end_date": "2025-07-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2201",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 750235.27
+  }
+}

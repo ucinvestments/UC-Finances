@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91329898,
+    "Award ID": "R35GM147069",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 2149183.34,
+    "Total Outlays": 759676.9,
+    "Description": "NOVEL APPROACHES TO DETECT AND TREAT SEPSIS - PROJECT SUMMARY/ABSTRACT: BACKGROUND. SEPSIS, A SEVERE AND LIFE-THREATENING CONDITION, IS ONE OF THE MOST COMMON CAUSES OF DEATH IN HOSPITALIZED PATIENTS. SEPSIS IS GENERALLY CAUSED BY BACTERIAL INFECTION, INCLUDING BOTH GRAM-NEGATIVE AND POSITIVE BACTERIA. IN THE UNITED STATES, THE HOSPITAL MORTALITY RATE OF PATIENTS WITH SEPSIS COULD BE AS HIGH AS 41.1%, WHICH ACCOUNTS FOR MORE THAN 250,000 DEATHS AND $20 BILLION LOSS ANNUALLY. DUE TO THE INADEQUATE SENSITIVITY AND SPECIFICITY OF THE CURRENT TECHNOLOGIES, THERE IS NO GLOBAL STANDARD FOR SEPSIS DIAGNOSIS. IN THIS PROJECT, THE PI HAS THE AMBITION TO ADDRESS THE CRITICAL BOTTLENECKS SPECIFICALLY OF CONCERN IN SEPSIS TESTING USING: 1) HYBRID BIO-INORGANIC NANOBOTS, 2) CRISPR-BASED DEVICES, AND 3) CRISPR-EQUIPPED ENGINEERED PHAGES. GOALS FOR THE NEXT FIVE YEARS. OUR FIRST GOAL IS TO ENGINEER PHAGE M13 WITH NANOBODIES ON THE CAPSID PROTEIN PVIII AND HIS-TAGS ON THE TAIL FIBER PROTEIN PIII. AFTER BINDING COBALT-COATED MAGNETIC NANOPARTICLES, THE RESULTING HYBRID BIO-INORGANIC NANOBOTS WILL BE USED TO CONCENTRATE AND PURIFY PATHOGENS FROM BLOOD SAMPLES. CAPTURE EFFICIENCY WILL BE INVESTIGATED USING SPIKED SAMPLES AND THEN PROCEED TO CLINICAL ONES. TAKING ADVANTAGE OF CRISPR AND MICROFLUIDIC TECHNOLOGIES, THE SECOND GOAL IS TO FABRICATE PORTABLE DEVICES TO DETECT SEPSIS-RELATED PATHOGENS, WHICH CAN BE USED IN RESOURCE-LIMITED SETTINGS. THE LAST GOAL IS TO ENGINEER PHAGES WITH DIFFERENT CRISPR SYSTEMS, THAT CAN BE USED TO DETECT AND COMBAT SEPSIS-RELATED BACTERIAL PATHOGENS. TOWARDS THE END OF THE FIFTH YEAR, WE WILL HAVE INTEGRATED THESE TECHNOLOGIES AS A ROBUST TOOL FOR SEPSIS DIAGNOSIS. OVERALL VISION OF THE RESEARCH PROGRAM. THE TECHNOLOGIES WE ARE DEVELOPING WILL HAVE A BROAD IMPACT ON THE BIOMEDICAL RESEARCH COMMUNITIES TO DETECT AND TREAT SEPSIS, EVEN FOR OTHER DISEASES. OUR DEVELOPED TECHNOLOGIES CAN ALSO ADVANCE PATHOGEN DETECTION IN OTHER FIELDS, SUCH AS FOOD SAFETY AND ENVIRONMENTAL MONITORING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM147069_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91329898,
+    "generated_unique_award_id": "ASST_NON_R35GM147069_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NOVEL APPROACHES TO DETECT AND TREAT SEPSIS - PROJECT SUMMARY/ABSTRACT: BACKGROUND. SEPSIS, A SEVERE AND LIFE-THREATENING CONDITION, IS ONE OF THE MOST COMMON CAUSES OF DEATH IN HOSPITALIZED PATIENTS. SEPSIS IS GENERALLY CAUSED BY BACTERIAL INFECTION, INCLUDING BOTH GRAM-NEGATIVE AND POSITIVE BACTERIA. IN THE UNITED STATES, THE HOSPITAL MORTALITY RATE OF PATIENTS WITH SEPSIS COULD BE AS HIGH AS 41.1%, WHICH ACCOUNTS FOR MORE THAN 250,000 DEATHS AND $20 BILLION LOSS ANNUALLY. DUE TO THE INADEQUATE SENSITIVITY AND SPECIFICITY OF THE CURRENT TECHNOLOGIES, THERE IS NO GLOBAL STANDARD FOR SEPSIS DIAGNOSIS. IN THIS PROJECT, THE PI HAS THE AMBITION TO ADDRESS THE CRITICAL BOTTLENECKS SPECIFICALLY OF CONCERN IN SEPSIS TESTING USING: 1) HYBRID BIO-INORGANIC NANOBOTS, 2) CRISPR-BASED DEVICES, AND 3) CRISPR-EQUIPPED ENGINEERED PHAGES. GOALS FOR THE NEXT FIVE YEARS. OUR FIRST GOAL IS TO ENGINEER PHAGE M13 WITH NANOBODIES ON THE CAPSID PROTEIN PVIII AND HIS-TAGS ON THE TAIL FIBER PROTEIN PIII. AFTER BINDING COBALT-COATED MAGNETIC NANOPARTICLES, THE RESULTING HYBRID BIO-INORGANIC NANOBOTS WILL BE USED TO CONCENTRATE AND PURIFY PATHOGENS FROM BLOOD SAMPLES. CAPTURE EFFICIENCY WILL BE INVESTIGATED USING SPIKED SAMPLES AND THEN PROCEED TO CLINICAL ONES. TAKING ADVANTAGE OF CRISPR AND MICROFLUIDIC TECHNOLOGIES, THE SECOND GOAL IS TO FABRICATE PORTABLE DEVICES TO DETECT SEPSIS-RELATED PATHOGENS, WHICH CAN BE USED IN RESOURCE-LIMITED SETTINGS. THE LAST GOAL IS TO ENGINEER PHAGES WITH DIFFERENT CRISPR SYSTEMS, THAT CAN BE USED TO DETECT AND COMBAT SEPSIS-RELATED BACTERIAL PATHOGENS. TOWARDS THE END OF THE FIFTH YEAR, WE WILL HAVE INTEGRATED THESE TECHNOLOGIES AS A ROBUST TOOL FOR SEPSIS DIAGNOSIS. OVERALL VISION OF THE RESEARCH PROGRAM. THE TECHNOLOGIES WE ARE DEVELOPING WILL HAVE A BROAD IMPACT ON THE BIOMEDICAL RESEARCH COMMUNITIES TO DETECT AND TREAT SEPSIS, EVEN FOR OTHER DISEASES. OUR DEVELOPED TECHNOLOGIES CAN ALSO ADVANCE PATHOGEN DETECTION IN OTHER FIELDS, SUCH AS FOOD SAFETY AND ENVIRONMENTAL MONITORING.",
+    "total_obligation": 2149183.34,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-07-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 759676.9,
+    "total_account_obligation": 1755433.34,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 759676.9
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1755433.34
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 759676.9
+  }
+}

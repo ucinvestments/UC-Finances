@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89095436,
+    "Award ID": "K01HG013352",
+    "Recipient Name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+    "Award Amount": 591326,
+    "Total Outlays": 371634.29,
+    "Description": "A MULTI-STAKEHOLDER APPROACH TO THE ELSI OF SOCIAL AND BEHAVIORAL GENOMICS: INVESTIGATING THE FIELD'S DOWNSTREAM IMPLICATIONS TO MITIGATE HARMS, PROMOTE BENEFITS, AND LOCATE SOCIAL RESPONSIBILITY - PROJECT SUMMARY  THIS PROPOSAL ADDRESSES THE ETHICAL, SOCIAL, AND POLICY IMPLICATIONS OF AN EMERGING, CONTROVERSIAL FIELD OF RESEARCH: SOCIAL AND BEHAVIORAL GENOMICS (SBG). USING MOLECULAR, GENOME-WIDE DATA, SBG EXAMINES WHETHER AND HOW GENETIC DIFFERENCES BETWEEN INDIVIDUALS SHAPE DIFFERENCES IN TRAITS AND OUTCOMES SUCH AS EDUCATIONAL ATTAINMENT AND MATH ABILITY. TODAY, SBG IS MORE ACCESSIBLE THAN EVER. MEMBERS OF THE PUBLIC CAN EASILY ACQUIRE DIRECT-TO-CONSUMER GENETIC TESTS FOR INTELLIGENCE, MATH ABILITY, AND SEXUAL PROMISCUITY, AMONG OTHERS.  DESPITE THE GROWING AVAILABILITY OF SBG DATA, FEW POLICIES AND INCENTIVES EXIST TO CONSIDER SBG’S DOWNSTREAM IMPLICATIONS. FURTHER, THERE REMAINS A CRITICAL LACK OF BREADTH REGARDING WHO GETS TO DEFINE THE HARMS AND BENEFITS OF SBG. AS SUCH, SBG ENGENDERS A HOST OF DIFFICULT ELSI QUESTIONS TO BE ADDRESSED BY THIS K01: WHAT ARE THE DOWNSTREAM IMPLICATIONS OF SOCIAL AND BEHAVIORAL GENOMICS AS IDENTIFIED BY A BROADER SET OF STAKEHOLDERS THAN EVER BEFORE (I.E., SBG RESEARCHERS, JOURNAL EDITORS, JOURNALISTS, MEMBERS OF INDUSTRY, PARENTS, AND EDUCATORS)? WHAT ARE STAKEHOLDERS’ ROLES IN PRODUCING, PROMOTING, AND/OR MITIGATING THE DOWNSTREAM HARMS AND BENEFITS OF SBG? HOW MIGHT THE POTENTIAL HARMS OF SBG BE MITIGATED AGAINST AND ITS POTENTIAL BENEFITS PROMOTED? TO ADDRESS THESE QUESTIONS, THIS PROPOSAL INCLUDES A PLAN OF RESEARCH THAT WILL ACHIEVE THREE AIMS. AIM 1 WILL USE IN-DEPTH, SEMI-STRUCTURED INTERVIEWS TO INVESTIGATE STAKEHOLDERS’ (I.E., SBG RESEARCHERS, JOURNAL EDITORS, JOURNALISTS, MEMBERS OF INDUSTRY, PARENTS, AND EDUCATORS) ROLES IN THE CONDUCT AND TRANSLATION OF SBG AND THEIR PERSPECTIVES ON THE DOWNSTREAM HARMS/BENEFITS OF SBG. AIM 2 WILL ADAPT THE ETHICAL MATRIX TO DETERMINE STAKEHOLDERS’ ROLES IN PRODUCING, MITIGATING, AND/OR PROMOTING SBG’S DOWNSTREAM HARMS AND BENEFITS FOR THE PURPOSE OF LOCATING SOCIAL RESPONSIBILITY. FINALLY, AIM 3 WILL DRAW UPON DELIBERATIVE ENGAGEMENT THEORY AND METHODS TO DESIGN, IMPLEMENT, AND EVALUATE A SERIES OF PARTICIPATORY SESSIONS THAT BRING A SELECTION OF STAKEHOLDERS INTERVIEWED IN AIM 1 TOGETHER TO: (1) DISCUSS (DIS)AGREEMENTS ABOUT AIM 1 AND 2 FINDINGS; AND (2) IDENTIFY STRATEGIES FOR MITIGATING THE HARMS AND PROMOTING THE BENEFITS OF SBG.  BUILDING ON DR. MARTSCHENKO’S STRONG BACKGROUND IN MIXED-METHODS EDUCATION RESEARCH, POLICY DEVELOPMENT, AND THE ETHICAL, LEGAL, AND SOCIAL IMPLICATIONS (ELSI) OF HUMAN GENETICS/GENOMICS, THESE AIMS WILL BE ACHIEVED WITH A CAREER DEVELOPMENT PLAN THAT INCLUDES REQUIRED TRAINING AND COURSEWORK IN SCIENCE, TECHNOLOGY, AND SOCIETY (STS) STUDIES AND DELIBERATIVE ENGAGEMENT THEORY AND METHODS. DR. MARTSCHENKO’S CAREER DEVELOPMENT PLAN WILL ALSO STRENGTHEN HER INTERDISCIPLINARY ELSI NETWORKS. THE CAREER DEVELOPMENT PLAN IS SUPPORTED BY A TEAM OF ESTEEMED, INTERDISCIPLINARY SCHOLARS AT STANFORD UNIVERSITY, THE HASTINGS CENTER, THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, AND THE UNIVERSITY OF CALIFORNIA, LOS ANGELES: MILDRED K. CHO (PRIMARY MENTOR), ERIK PARENS (CO-MENTOR), JANET SHIM (CO-MENTOR), JULIE HARRIS-WAI (CO-MENTOR), BARBARA KOENIG (ADVISORY COMMITTEE), AARON PANOFSKY (ADVISORY COMMITTEE), AND BEN DOMINGUE (ADVISORY COMMITTEE).",
+    "Contract Award Type": "",
+    "Recipient UEI": "HJD6G4D6TJY5",
+    "Recipient Location": {
+      "address_line1": "450 JANE STANFORD WAY",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "STANFORD",
+      "congressional_code": "16",
+      "country_name": "UNITED STATES",
+      "county_code": "085",
+      "county_name": "SANTA CLARA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2004",
+      "zip5": "94305"
+    },
+    "Primary Place of Performance": {
+      "city_name": "STANFORD",
+      "congressional_code": "16",
+      "country_name": "UNITED STATES",
+      "county_code": "085",
+      "county_name": "SANTA CLARA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94305",
+      "zip5": "94305"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-02-06",
+    "End Date": "2029-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0c13d643-4334-38ed-1952-0db7e2ac5e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K01HG013352_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89095436,
+    "generated_unique_award_id": "ASST_NON_K01HG013352_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A MULTI-STAKEHOLDER APPROACH TO THE ELSI OF SOCIAL AND BEHAVIORAL GENOMICS: INVESTIGATING THE FIELD'S DOWNSTREAM IMPLICATIONS TO MITIGATE HARMS, PROMOTE BENEFITS, AND LOCATE SOCIAL RESPONSIBILITY - PROJECT SUMMARY  THIS PROPOSAL ADDRESSES THE ETHICAL, SOCIAL, AND POLICY IMPLICATIONS OF AN EMERGING, CONTROVERSIAL FIELD OF RESEARCH: SOCIAL AND BEHAVIORAL GENOMICS (SBG). USING MOLECULAR, GENOME-WIDE DATA, SBG EXAMINES WHETHER AND HOW GENETIC DIFFERENCES BETWEEN INDIVIDUALS SHAPE DIFFERENCES IN TRAITS AND OUTCOMES SUCH AS EDUCATIONAL ATTAINMENT AND MATH ABILITY. TODAY, SBG IS MORE ACCESSIBLE THAN EVER. MEMBERS OF THE PUBLIC CAN EASILY ACQUIRE DIRECT-TO-CONSUMER GENETIC TESTS FOR INTELLIGENCE, MATH ABILITY, AND SEXUAL PROMISCUITY, AMONG OTHERS.  DESPITE THE GROWING AVAILABILITY OF SBG DATA, FEW POLICIES AND INCENTIVES EXIST TO CONSIDER SBG’S DOWNSTREAM IMPLICATIONS. FURTHER, THERE REMAINS A CRITICAL LACK OF BREADTH REGARDING WHO GETS TO DEFINE THE HARMS AND BENEFITS OF SBG. AS SUCH, SBG ENGENDERS A HOST OF DIFFICULT ELSI QUESTIONS TO BE ADDRESSED BY THIS K01: WHAT ARE THE DOWNSTREAM IMPLICATIONS OF SOCIAL AND BEHAVIORAL GENOMICS AS IDENTIFIED BY A BROADER SET OF STAKEHOLDERS THAN EVER BEFORE (I.E., SBG RESEARCHERS, JOURNAL EDITORS, JOURNALISTS, MEMBERS OF INDUSTRY, PARENTS, AND EDUCATORS)? WHAT ARE STAKEHOLDERS’ ROLES IN PRODUCING, PROMOTING, AND/OR MITIGATING THE DOWNSTREAM HARMS AND BENEFITS OF SBG? HOW MIGHT THE POTENTIAL HARMS OF SBG BE MITIGATED AGAINST AND ITS POTENTIAL BENEFITS PROMOTED? TO ADDRESS THESE QUESTIONS, THIS PROPOSAL INCLUDES A PLAN OF RESEARCH THAT WILL ACHIEVE THREE AIMS. AIM 1 WILL USE IN-DEPTH, SEMI-STRUCTURED INTERVIEWS TO INVESTIGATE STAKEHOLDERS’ (I.E., SBG RESEARCHERS, JOURNAL EDITORS, JOURNALISTS, MEMBERS OF INDUSTRY, PARENTS, AND EDUCATORS) ROLES IN THE CONDUCT AND TRANSLATION OF SBG AND THEIR PERSPECTIVES ON THE DOWNSTREAM HARMS/BENEFITS OF SBG. AIM 2 WILL ADAPT THE ETHICAL MATRIX TO DETERMINE STAKEHOLDERS’ ROLES IN PRODUCING, MITIGATING, AND/OR PROMOTING SBG’S DOWNSTREAM HARMS AND BENEFITS FOR THE PURPOSE OF LOCATING SOCIAL RESPONSIBILITY. FINALLY, AIM 3 WILL DRAW UPON DELIBERATIVE ENGAGEMENT THEORY AND METHODS TO DESIGN, IMPLEMENT, AND EVALUATE A SERIES OF PARTICIPATORY SESSIONS THAT BRING A SELECTION OF STAKEHOLDERS INTERVIEWED IN AIM 1 TOGETHER TO: (1) DISCUSS (DIS)AGREEMENTS ABOUT AIM 1 AND 2 FINDINGS; AND (2) IDENTIFY STRATEGIES FOR MITIGATING THE HARMS AND PROMOTING THE BENEFITS OF SBG.  BUILDING ON DR. MARTSCHENKO’S STRONG BACKGROUND IN MIXED-METHODS EDUCATION RESEARCH, POLICY DEVELOPMENT, AND THE ETHICAL, LEGAL, AND SOCIAL IMPLICATIONS (ELSI) OF HUMAN GENETICS/GENOMICS, THESE AIMS WILL BE ACHIEVED WITH A CAREER DEVELOPMENT PLAN THAT INCLUDES REQUIRED TRAINING AND COURSEWORK IN SCIENCE, TECHNOLOGY, AND SOCIETY (STS) STUDIES AND DELIBERATIVE ENGAGEMENT THEORY AND METHODS. DR. MARTSCHENKO’S CAREER DEVELOPMENT PLAN WILL ALSO STRENGTHEN HER INTERDISCIPLINARY ELSI NETWORKS. THE CAREER DEVELOPMENT PLAN IS SUPPORTED BY A TEAM OF ESTEEMED, INTERDISCIPLINARY SCHOLARS AT STANFORD UNIVERSITY, THE HASTINGS CENTER, THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, AND THE UNIVERSITY OF CALIFORNIA, LOS ANGELES: MILDRED K. CHO (PRIMARY MENTOR), ERIK PARENS (CO-MENTOR), JANET SHIM (CO-MENTOR), JULIE HARRIS-WAI (CO-MENTOR), BARBARA KOENIG (ADVISORY COMMITTEE), AARON PANOFSKY (ADVISORY COMMITTEE), AND BEN DOMINGUE (ADVISORY COMMITTEE).",
+    "total_obligation": 591326,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-02-06",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 371634.29,
+    "total_account_obligation": 591326,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 371634.29
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 591326
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Human Genome Research Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Human Genome Research Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2024-02-06",
+      "end_date": "2029-01-31",
+      "last_modified_date": "2025-03-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0c13d643-4334-38ed-1952-0db7e2ac5e56-R",
+      "recipient_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+      "recipient_uei": "HJD6G4D6TJY5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "LELAND STANFORD JUNIOR UNIVERSITY",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "STANFORD",
+        "county_code": "085",
+        "county_name": "SANTA CLARA",
+        "address_line1": "450 JANE STANFORD WAY",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "16",
+        "zip4": "2004",
+        "zip5": "94305",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "STANFORD",
+      "county_code": "085",
+      "county_name": "SANTA CLARA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "16",
+      "zip4": "",
+      "zip5": "94305",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 371634.29
+  }
+}

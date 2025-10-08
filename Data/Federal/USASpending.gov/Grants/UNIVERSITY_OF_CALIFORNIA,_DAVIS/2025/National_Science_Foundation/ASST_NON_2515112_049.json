@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 175665732,
+    "Award ID": "2515112",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 700000,
+    "Total Outlays": null,
+    "Description": "EXPERIMENTAL STUDIES OF THE PROPERTIES OF THE QGP AND THE QCD PHASE DIAGRAM AT UC DAVIS -THERE ARE FOUR FORCES IN NATURE: THE GRAVITATIONAL FORCE, THE ELECTROMAGNETIC FORCE, THE WEAK NUCLEAR FORCE, AND THE STRONG FORCE. QUANTUM CHROMODYNAMICS (QCD) IS THE THEORETICAL FRAMEWORK THAT DESCRIBES THE STRONG NUCLEAR FORCE. THE FUNDAMENTAL PARTICLES THAT INTERACT VIA THIS FORCE ARE THE QUARKS AND GLUONS THAT BUILD UP PROTONS AND NEUTRONS, WHICH IN TURN BUILD UP THE NUCLEI THAT ARE AT THE CORES OF ALL ATOMS. THIS PROJECT AIMS TO STUDY THE NATURE OF MATTER AT VERY HIGH TEMPERATURES (ABOUT A MILLION TIMES HOTTER THAN THE SUN?S CORE), WHERE THE PARTICLES WITHIN THE MATTER INTERACT VIA THE STRONG NUCLEAR FORCE. AT THESE HIGH TEMPERATURES, NUCLEAR MATTER REACHES A PHASE CALLED THE QUARK-GLUON PLASMA (QGP). THE PRIMARY GOAL OF THIS PROJECT IS TO ACHIEVE A BETTER UNDERSTANDING OF THE NATURE OF MATTER GOVERNED BY STRONG FORCE INTERACTION. THIS WILL ALLOW BETTER EXPLANATIONS OF THE EARLY PHASE OF THE BIG BANG WHEN THE UNIVERSE UNDERWENT A TRANSITION FROM A QGP TO HOT GAS OF NEUTRONS AND PROTONS. THIS TRANSITION OCCURRED PRIOR TO THE FORMATION OF LIGHT NUCLEI, BIG-BANG NUCLEOSYNTHESIS (TEN MINUTES AFTER THE START OF THE BIG BANG), OR THE FORMATION OF ATOMS (ONE HUNDRED THOUSAND YEARS LATER). HIGH ENERGY COLLISIONS OF NUCLEI ARE ALSO DOMINATED BY STRONG FORCE INTERACTIONS. THE PRIMARY ACTIVITY OF THIS PROJECT IS THE STUDY OF HIGH ENERGY NUCLEAR INTERACTIONS PRODUCED AT TWO MAJOR ACCELERATOR FACILITIES: THE RELATIVISTIC HEAVY ION COLLIDER (RHIC) AND THE LARGE HADRON COLLIDER (LHC). AT RHIC, THE UC DAVIS NUCLEAR PHYSICS GROUP (UCD NPG) WILL STUDY THE THERMODYNAMIC PROPERTIES OF THE QGP. AT THE LHC, THE UCD NPG WILL USE HEAVY-QUARK BOUND STATES TO STUDY THE PROPERTIES OF THE QGP AT THE HIGHEST AVAILABLE TEMPERATURES. POTENTIAL BENEFITS ARE A BETTER UNDERSTANDING OF THE UNIVERSE, A BETTER UNDERSTANDING OF THE SHIELDING NEEDED TO PROTECT FROM HIGH ENERGY SPACE RADIATION, AND THE IMPORTANT TRAINING OF THE NEXT GENERATION OF SCIENTISTS TO TACKLE MAJOR TECHNICAL CHALLENGES AND TO WORK IN LARGE INTERNATIONAL COLLABORATIONS USING THE LATEST DATA TOOLS AND TECHNIQUES. THE GOALS OF THE PROJECT INCLUDE DETERMINING THE NATURE OF THE TRANSITION FROM A QGP PHASE TO A HOT HADRONIC GAS, ADVANCING OUR UNDERSTANDING OF THE TEMPERATURES PRODUCED IN THE HOTTEST COLLISIONS AVAILABLE, AND ADVANCING OUR UNDERSTANDING OF THE MAGNETIC PROPERTIES OF THE QGP. THE SCOPE OF THIS PROJECT INVOLVES STUDIES AT RHIC AND AT THE LHC. AT THE ENERGY RANGE COVERED BY RHIC AND THE FIXED-TARGET PROGRAM OF THE STAR EXPERIMENT, FROM 3 ? 200 GEV, THE UCD NPG WILL STUDY THE PHASE DIAGRAM OF QCD MATTER. ANALYSES OF HADRON SPECTRA AND BARYON-NUMBER FLUCTUATIONS WILL BE USED TO CHARACTERIZE THE QCD ENVIRONMENT AT EACH MEASURED ENERGY. AT THE TOP ENERGY AVAILABLE AT THE LHC, THE UCD NPG WILL STUDY HEAVY-QUARKONIUM STATES WITH THE CMS EXPERIMENT. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-09-15",
+    "End Date": "2027-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2515112_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 175665732,
+    "generated_unique_award_id": "ASST_NON_2515112_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EXPERIMENTAL STUDIES OF THE PROPERTIES OF THE QGP AND THE QCD PHASE DIAGRAM AT UC DAVIS -THERE ARE FOUR FORCES IN NATURE: THE GRAVITATIONAL FORCE, THE ELECTROMAGNETIC FORCE, THE WEAK NUCLEAR FORCE, AND THE STRONG FORCE. QUANTUM CHROMODYNAMICS (QCD) IS THE THEORETICAL FRAMEWORK THAT DESCRIBES THE STRONG NUCLEAR FORCE. THE FUNDAMENTAL PARTICLES THAT INTERACT VIA THIS FORCE ARE THE QUARKS AND GLUONS THAT BUILD UP PROTONS AND NEUTRONS, WHICH IN TURN BUILD UP THE NUCLEI THAT ARE AT THE CORES OF ALL ATOMS. THIS PROJECT AIMS TO STUDY THE NATURE OF MATTER AT VERY HIGH TEMPERATURES (ABOUT A MILLION TIMES HOTTER THAN THE SUN?S CORE), WHERE THE PARTICLES WITHIN THE MATTER INTERACT VIA THE STRONG NUCLEAR FORCE. AT THESE HIGH TEMPERATURES, NUCLEAR MATTER REACHES A PHASE CALLED THE QUARK-GLUON PLASMA (QGP). THE PRIMARY GOAL OF THIS PROJECT IS TO ACHIEVE A BETTER UNDERSTANDING OF THE NATURE OF MATTER GOVERNED BY STRONG FORCE INTERACTION. THIS WILL ALLOW BETTER EXPLANATIONS OF THE EARLY PHASE OF THE BIG BANG WHEN THE UNIVERSE UNDERWENT A TRANSITION FROM A QGP TO HOT GAS OF NEUTRONS AND PROTONS. THIS TRANSITION OCCURRED PRIOR TO THE FORMATION OF LIGHT NUCLEI, BIG-BANG NUCLEOSYNTHESIS (TEN MINUTES AFTER THE START OF THE BIG BANG), OR THE FORMATION OF ATOMS (ONE HUNDRED THOUSAND YEARS LATER). HIGH ENERGY COLLISIONS OF NUCLEI ARE ALSO DOMINATED BY STRONG FORCE INTERACTIONS. THE PRIMARY ACTIVITY OF THIS PROJECT IS THE STUDY OF HIGH ENERGY NUCLEAR INTERACTIONS PRODUCED AT TWO MAJOR ACCELERATOR FACILITIES: THE RELATIVISTIC HEAVY ION COLLIDER (RHIC) AND THE LARGE HADRON COLLIDER (LHC). AT RHIC, THE UC DAVIS NUCLEAR PHYSICS GROUP (UCD NPG) WILL STUDY THE THERMODYNAMIC PROPERTIES OF THE QGP. AT THE LHC, THE UCD NPG WILL USE HEAVY-QUARK BOUND STATES TO STUDY THE PROPERTIES OF THE QGP AT THE HIGHEST AVAILABLE TEMPERATURES. POTENTIAL BENEFITS ARE A BETTER UNDERSTANDING OF THE UNIVERSE, A BETTER UNDERSTANDING OF THE SHIELDING NEEDED TO PROTECT FROM HIGH ENERGY SPACE RADIATION, AND THE IMPORTANT TRAINING OF THE NEXT GENERATION OF SCIENTISTS TO TACKLE MAJOR TECHNICAL CHALLENGES AND TO WORK IN LARGE INTERNATIONAL COLLABORATIONS USING THE LATEST DATA TOOLS AND TECHNIQUES. THE GOALS OF THE PROJECT INCLUDE DETERMINING THE NATURE OF THE TRANSITION FROM A QGP PHASE TO A HOT HADRONIC GAS, ADVANCING OUR UNDERSTANDING OF THE TEMPERATURES PRODUCED IN THE HOTTEST COLLISIONS AVAILABLE, AND ADVANCING OUR UNDERSTANDING OF THE MAGNETIC PROPERTIES OF THE QGP. THE SCOPE OF THIS PROJECT INVOLVES STUDIES AT RHIC AND AT THE LHC. AT THE ENERGY RANGE COVERED BY RHIC AND THE FIXED-TARGET PROGRAM OF THE STAR EXPERIMENT, FROM 3 ? 200 GEV, THE UCD NPG WILL STUDY THE PHASE DIAGRAM OF QCD MATTER. ANALYSES OF HADRON SPECTRA AND BARYON-NUMBER FLUCTUATIONS WILL BE USED TO CHARACTERIZE THE QCD ENVIRONMENT AT EACH MEASURED ENERGY. AT THE TOP ENERGY AVAILABLE AT THE LHC, THE UCD NPG WILL STUDY HEAVY-QUARKONIUM STATES WITH THE CMS EXPERIMENT. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 700000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-09-04",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF PHYSICS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF PHYSICS"
+    },
+    "period_of_performance": {
+      "start_date": "2025-09-15",
+      "end_date": "2027-08-31",
+      "last_modified_date": "2025-09-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57278902,
+    "Award ID": "2339159",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 781541,
+    "Total Outlays": 48822.96,
+    "Description": "CAREER: MICROFABRICATED MESOSCALE SOFT ROBOTS WITH EMBODIED INTELLIGENCE FOR MINIMALLY INVASIVE SURGERY -THIS FACULTY EARLY CAREER DEVELOPMENT (CAREER) PROJECT WILL CREATE A CLASS OF SURGICAL ROBOTS, FROM SUBMILLIMETER TO TENS OF MILLIMETERS IN DIAMETER, WITH NEW CAPABILITIES TO SAFELY NAVIGATE WITHIN THE HUMAN BODY AND PERFORM DYNAMIC DEXTEROUS MANIPULATION OF SOFT TISSUE. THESE CAPABILITIES ARE ENABLED BY INNOVATIONS IN MICROFABRICATED SHAPE-MEMORY ALLOY (SMA) ACTUATORS, WITH INTEGRATED FORCE AND SHAPE SENSORS, AND INCLUDING THERMAL MANAGEMENT LAYERS FOR MINIMIZING ACTUATOR CROSSTALK AND SPEEDING RESPONSE TIMES. NEW DATA-DRIVEN FEEDBACK CONTROL SCHEMES WILL BE FORMULATED TO CLOSE THE LOOP BETWEEN SENSORS AND ACTUATORS. THE RESULTING ROBOT END-EFFECTORS WILL BE CAPABLE OF ASSUMING INTRICATE SHAPES AND APPLYING PRECISE TIP FORCES, SUITABLE FOR PERFORMING COMPLEX PROCEDURES IN HARD-TO-REACH AREAS, WITHOUT DAMAGE TO DELICATE SURROUNDING TISSUE. THE OVERARCHING GOAL OF THIS PROJECT IS A NEW CLASS OF SOFT ROBOTS FOR MINIMALLY INVASIVE SURGERY (MIS), WITH BETTER OUTCOMES AND FASTER RECOVERY AS THE ASSOCIATED BENEFITS FOR AN AGING SOCIETY. THE PROJECT THEMES WILL BE INTEGRATED INTO UNIVERSITY ROBOTICS CLASSES AND PROJECT-BASED HIGH SCHOOL SUBJECT MODULES. OUTREACH EFFORTS WILL ENGAGE STUDENTS FROM UNIVERSITIES, COMMUNITY COLLEGES, AND HIGH SCHOOLS DIRECTLY IN THE RESEARCH PROCESS, WITH SPECIFIC ATTENTION TO GROUPS TRADITIONALLY UNDERREPRESENTED IN STEM FIELDS. THIS PROJECT WILL CREATE A NEW CLASS OF MICROFABRICATED MESOSCALE SHAPE-MEMORY ALLOY SMA DEVICES, AND SYSTEMATICALLY INTEGRATE ACTUATION, SENSING, MODELING, AND CONTROL TECHNIQUES TO ENABLE DEXTEROUS AND DYNAMIC CONTROL FOR CHALLENGING MIS TASKS. THE PROJECT IS BUILT UPON THE FOLLOWING THREE RESEARCH THRUSTS: 1) FABRICATING SOFT SMA BIMORPHS, 2) IMPLEMENTING DATA-DRIVEN CONTROL AND MODEL-BASED ESTIMATION, AND 3) CREATING MULTI-DEGREE-OF-FREEDOM MESOSCALE SMA ROBOTS. THE FIRST THRUST LEVERAGES MICROFABRICATION TECHNOLOGIES TO PATTERN SMA ON SOFT SUBSTRATES, RESULTING IN MULTI-LAYERED ACTIVE SMA STRUCTURES. THE SECOND THRUST EMBEDS SHAPE AND FORCE SENSORS WITH THE SMA ACTUATORS AND ADDS COMPLEMENTARY MODEL-BASED ESTIMATION AND DATA-DRIVEN CONTROL ALGORITHMS FOR SHAPE AND FORCE CONTROL. THE THIRD THRUST SPECIALIZES, EXTENDS, AND REFINES THE NEW SURGICAL ROBOTS FOR THE TASK OF MIS. THE ROBOTS? NEW CAPABILITIES WILL BE DEMONSTRATED IN NAVIGATION TASKS USING 3D-PRINTED HEART AND VASCULATURE PHANTOMS, AND IN ABLATION TASKS USING PIG HEARTS. THESE DEMONSTRATIONS WILL PROVIDE INSIGHTS INTO THE IMPACT OF THE OUTCOMES OF THIS PROJECT TO MIS, SPECIFICALLY TO UNDERSTAND HOW THE SAFETY AND EFFICACY OF ENDOVASCULAR CATHETERIZATION AND TISSUE ABLATION PROCEDURES CAN BE IMPROVED BY SMA-ACTUATED SOFT SURGICAL ROBOTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-07-01",
+    "End Date": "2029-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2339159_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57278902,
+    "generated_unique_award_id": "ASST_NON_2339159_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAREER: MICROFABRICATED MESOSCALE SOFT ROBOTS WITH EMBODIED INTELLIGENCE FOR MINIMALLY INVASIVE SURGERY -THIS FACULTY EARLY CAREER DEVELOPMENT (CAREER) PROJECT WILL CREATE A CLASS OF SURGICAL ROBOTS, FROM SUBMILLIMETER TO TENS OF MILLIMETERS IN DIAMETER, WITH NEW CAPABILITIES TO SAFELY NAVIGATE WITHIN THE HUMAN BODY AND PERFORM DYNAMIC DEXTEROUS MANIPULATION OF SOFT TISSUE. THESE CAPABILITIES ARE ENABLED BY INNOVATIONS IN MICROFABRICATED SHAPE-MEMORY ALLOY (SMA) ACTUATORS, WITH INTEGRATED FORCE AND SHAPE SENSORS, AND INCLUDING THERMAL MANAGEMENT LAYERS FOR MINIMIZING ACTUATOR CROSSTALK AND SPEEDING RESPONSE TIMES. NEW DATA-DRIVEN FEEDBACK CONTROL SCHEMES WILL BE FORMULATED TO CLOSE THE LOOP BETWEEN SENSORS AND ACTUATORS. THE RESULTING ROBOT END-EFFECTORS WILL BE CAPABLE OF ASSUMING INTRICATE SHAPES AND APPLYING PRECISE TIP FORCES, SUITABLE FOR PERFORMING COMPLEX PROCEDURES IN HARD-TO-REACH AREAS, WITHOUT DAMAGE TO DELICATE SURROUNDING TISSUE. THE OVERARCHING GOAL OF THIS PROJECT IS A NEW CLASS OF SOFT ROBOTS FOR MINIMALLY INVASIVE SURGERY (MIS), WITH BETTER OUTCOMES AND FASTER RECOVERY AS THE ASSOCIATED BENEFITS FOR AN AGING SOCIETY. THE PROJECT THEMES WILL BE INTEGRATED INTO UNIVERSITY ROBOTICS CLASSES AND PROJECT-BASED HIGH SCHOOL SUBJECT MODULES. OUTREACH EFFORTS WILL ENGAGE STUDENTS FROM UNIVERSITIES, COMMUNITY COLLEGES, AND HIGH SCHOOLS DIRECTLY IN THE RESEARCH PROCESS, WITH SPECIFIC ATTENTION TO GROUPS TRADITIONALLY UNDERREPRESENTED IN STEM FIELDS. THIS PROJECT WILL CREATE A NEW CLASS OF MICROFABRICATED MESOSCALE SHAPE-MEMORY ALLOY SMA DEVICES, AND SYSTEMATICALLY INTEGRATE ACTUATION, SENSING, MODELING, AND CONTROL TECHNIQUES TO ENABLE DEXTEROUS AND DYNAMIC CONTROL FOR CHALLENGING MIS TASKS. THE PROJECT IS BUILT UPON THE FOLLOWING THREE RESEARCH THRUSTS: 1) FABRICATING SOFT SMA BIMORPHS, 2) IMPLEMENTING DATA-DRIVEN CONTROL AND MODEL-BASED ESTIMATION, AND 3) CREATING MULTI-DEGREE-OF-FREEDOM MESOSCALE SMA ROBOTS. THE FIRST THRUST LEVERAGES MICROFABRICATION TECHNOLOGIES TO PATTERN SMA ON SOFT SUBSTRATES, RESULTING IN MULTI-LAYERED ACTIVE SMA STRUCTURES. THE SECOND THRUST EMBEDS SHAPE AND FORCE SENSORS WITH THE SMA ACTUATORS AND ADDS COMPLEMENTARY MODEL-BASED ESTIMATION AND DATA-DRIVEN CONTROL ALGORITHMS FOR SHAPE AND FORCE CONTROL. THE THIRD THRUST SPECIALIZES, EXTENDS, AND REFINES THE NEW SURGICAL ROBOTS FOR THE TASK OF MIS. THE ROBOTS? NEW CAPABILITIES WILL BE DEMONSTRATED IN NAVIGATION TASKS USING 3D-PRINTED HEART AND VASCULATURE PHANTOMS, AND IN ABLATION TASKS USING PIG HEARTS. THESE DEMONSTRATIONS WILL PROVIDE INSIGHTS INTO THE IMPACT OF THE OUTCOMES OF THIS PROJECT TO MIS, SPECIFICALLY TO UNDERSTAND HOW THE SAFETY AND EFFICACY OF ENDOVASCULAR CATHETERIZATION AND TISSUE ABLATION PROCEDURES CAN BE IMPROVED BY SMA-ACTUATED SOFT SURGICAL ROBOTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 781541,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-05-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 48822.96,
+    "total_account_obligation": 781541,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 48822.96
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 781541
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INFOR  INTELLIGENT SYSTEMS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF CIVIL, MECHAN  MANUF INNOV"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-06-30",
+      "last_modified_date": "2024-05-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "parent_recipient_uei": "MR5QC5FCAVH5",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 48822.96
+  }
+}

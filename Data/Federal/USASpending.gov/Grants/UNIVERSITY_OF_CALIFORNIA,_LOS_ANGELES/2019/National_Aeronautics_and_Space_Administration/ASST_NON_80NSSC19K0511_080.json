@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74727316,
+    "Award ID": "80NSSC19K0511",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 619809.28,
+    "Total Outlays": 608131.78,
+    "Description": "OBJECTIVES: RECENT ADVANCES IN OUR ABILITY TO MEASURE STABLE ISOTOPE RATIOS OF LIGHT  ROCK-FORMING ELEMENTS  INCLUDING ISOTOPE RATIOS OF ZN  K  FE  MG  AND SI  AMONG OTHERS  HAS RESULTED IN AN EMERGING HYPOTHESIS THAT COLLISIONS AMONG ROCKY PLANETESIMALS  PLANETARY EMBRYOS  AND/OR PROTO-PLANETS CAUSED LOSSES OF MODERATELY VOLATILE ELEMENTS (E.G.  K) AND \"COMMON\" OR MODERATELY REFRACTORY ELEMENTS (MG  SI). IF CORRECT  THIS HYPOTHESIS WOULD ARGUE FOR A PREVALENCE OF MAGMA OCEANS EXPOSED TO SPACE DURING PLANET FORMATION. THE PRIMARY MOTIVATING EVIDENCE IS IN THE FORM OF HEAVY ISOTOPE ENRICHMENTS IN SEVERAL ROCK-FORMING ELEMENTS RELATIVE TO CHONDRITES. OUR GOAL IS TO ASSESS THE MEANING OF HEAVY ISOTOPE ENRICHMENT OF MODERATELY REFRACTORY ELEMENTS IN ROCKY SOLAR SYSTEM BODIES BY CALIBRATING SELF-CONSISTENT MODELS FOR MULTI-ELEMENT ISOTOPE FRACTIONATION DURING EVAPORATION USING EXPERIMENTS ON RELEVANT STARTING MATERIALS. APPROACH: EXPERIMENTS WILL BE PERFORMED UNDER A VARIETY OF CONDITIONS (TEMPERATURE  ENVELOPING GAS MOLECULAR WEIGHT  OXYGEN FUGACITY) TO EXPLORE THE FACTORS CONTROLLING THE RELATIVE FRACTIONATIONS IN THE DIFFERENT ISOTOPE SYSTEMS. THESE NEW DATA WILL BE USED TO EVALUATE RECENT HYPOTHESES THAT ENRICHMENT IN THE HEAVY ISOTOPES OF MG  SI  AND FE IN DIFFERENTIATED ROCKY BODIES IN THE SOLAR SYSTEM (E.G.  EARTH  MARS  MOON  AND THE ANGRITE PARENT BODY) RESULTED FROM EVAPORATION OF MAGMA OCEANS ON PLANET PRECURSORS. WE PROPOSE A SERIES OF EXPERIMENTS TO EVAPORATE CARBONACEOUS AND ENSTATITE CHONDRITE STARTING MATERIALS AT VARIOUS TEMPERATURES AND OXYGEN FUGACITIES. WE WILL: 1. HEAT SAMPLES WITH AN INFRARED LASER AS THEY ARE AERODYNAMICALLY LEVITATED IN GASES OF CONTROLLED COMPOSITION 2. MEASURE BULK CHEMICAL COMPOSITIONS OF SYNTHETIC AND NATURAL CHONDRITIC STARTING MATERIALS AND THEIR EVAPORATIVE RESIDUES USING EPMA 3. CALCULATE MASS LOSS RATES AND EVAPORATIVE FLUXES 4. DEFINE REFERENCE FLUXES FOR SPECIFIED COMPOSITIONS  T  PTOTAL  AND PO2 5. USE THE DERIVED EVAPORATIVE FLUXES TO DERIVE RELEVANT EVAPORATION PARAMETERS 6. MEASURE FE  MG  SI  AND O ISOTOPE RATIOS FOR THE STARTING MATERIALS AND EVAPORATION RESIDUES AT DIFFERENT DEGREES OF MASS LOSS USING MC-ICPMS AND LASER-HEATING ASSISTED FLUORINATION 7. USE THE RESULTS TO ASSESS COMPETING MODELS FOR EVAPORATION OF MOLTEN SILICATES AS THE CAUSE OF HEAVY ISOTOPE ENRICHMENT IN EARTH  MARS  MOON  AND METEORITE PARENT BODIES (E.G.  THE ANGRITE PARENT BODY). OUR APPROACH TAKES ADVANTAGE OF A NEW METHOD FOR MELTING AND EVAPORATING MATERIALS UNDER CONTROLLED CONDITIONS. THE RESULTS WILL BE A SELF-CONSISTENT SET OF EXPERIMENTALLY-DETERMINED EVAPORATION PARAMETERS RELEVANT TO THE PROBLEM OF PLANETESIMAL EVOLUTION. RELEVANCE TO EMERGING WORLDS: THE PROPOSED EXPERIMENTS WILL PROVIDE ESSENTIAL AND DEFINITIVE DATA NECESSARY TO CONSTRUCT DETAILED MODELS FOR EVAPORATION FROM CHONDRITIC-LIKE MELTS THAT IN TURN CAN BE USED TO TEST QUANTITATIVELY THE PROPOSAL THAT EVAPORATION IMPARTED ISOTOPIC SIGNATURES FOR THESE ELEMENTS TO ROCKY BODIES IN THE SOLAR SYSTEM. THE \"EMERGING WORLDS\" PROGRAM HAS THE STATED GOAL OF FOSTERING OUR UNDERSTANDING OF THE FORMATION AND EARLY EVOLUTION OF THE SOLAR SYSTEM  INCLUDING THE FORMATION AND EVOLUTION OF PLANET PRECURSORS (ROSES APPENDIX C.2). OUR WORK IS DIRECTED TOWARDS ACHIEVING A FULLER UNDERSTANDING OF HOW ROCKY BODIES ACQUIRED THEIR CHEMICAL AND ISOTOPIC CHARACTERISTICS AND SO IS RELEVANT TO THE STATED GOALS OF THE PROGRAM.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "90095"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "90095-1302",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2019-03-01",
+    "End Date": "2024-02-29",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC19K0511_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74727316,
+    "generated_unique_award_id": "ASST_NON_80NSSC19K0511_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "OBJECTIVES: RECENT ADVANCES IN OUR ABILITY TO MEASURE STABLE ISOTOPE RATIOS OF LIGHT  ROCK-FORMING ELEMENTS  INCLUDING ISOTOPE RATIOS OF ZN  K  FE  MG  AND SI  AMONG OTHERS  HAS RESULTED IN AN EMERGING HYPOTHESIS THAT COLLISIONS AMONG ROCKY PLANETESIMALS  PLANETARY EMBRYOS  AND/OR PROTO-PLANETS CAUSED LOSSES OF MODERATELY VOLATILE ELEMENTS (E.G.  K) AND \"COMMON\" OR MODERATELY REFRACTORY ELEMENTS (MG  SI). IF CORRECT  THIS HYPOTHESIS WOULD ARGUE FOR A PREVALENCE OF MAGMA OCEANS EXPOSED TO SPACE DURING PLANET FORMATION. THE PRIMARY MOTIVATING EVIDENCE IS IN THE FORM OF HEAVY ISOTOPE ENRICHMENTS IN SEVERAL ROCK-FORMING ELEMENTS RELATIVE TO CHONDRITES. OUR GOAL IS TO ASSESS THE MEANING OF HEAVY ISOTOPE ENRICHMENT OF MODERATELY REFRACTORY ELEMENTS IN ROCKY SOLAR SYSTEM BODIES BY CALIBRATING SELF-CONSISTENT MODELS FOR MULTI-ELEMENT ISOTOPE FRACTIONATION DURING EVAPORATION USING EXPERIMENTS ON RELEVANT STARTING MATERIALS. APPROACH: EXPERIMENTS WILL BE PERFORMED UNDER A VARIETY OF CONDITIONS (TEMPERATURE  ENVELOPING GAS MOLECULAR WEIGHT  OXYGEN FUGACITY) TO EXPLORE THE FACTORS CONTROLLING THE RELATIVE FRACTIONATIONS IN THE DIFFERENT ISOTOPE SYSTEMS. THESE NEW DATA WILL BE USED TO EVALUATE RECENT HYPOTHESES THAT ENRICHMENT IN THE HEAVY ISOTOPES OF MG  SI  AND FE IN DIFFERENTIATED ROCKY BODIES IN THE SOLAR SYSTEM (E.G.  EARTH  MARS  MOON  AND THE ANGRITE PARENT BODY) RESULTED FROM EVAPORATION OF MAGMA OCEANS ON PLANET PRECURSORS. WE PROPOSE A SERIES OF EXPERIMENTS TO EVAPORATE CARBONACEOUS AND ENSTATITE CHONDRITE STARTING MATERIALS AT VARIOUS TEMPERATURES AND OXYGEN FUGACITIES. WE WILL: 1. HEAT SAMPLES WITH AN INFRARED LASER AS THEY ARE AERODYNAMICALLY LEVITATED IN GASES OF CONTROLLED COMPOSITION 2. MEASURE BULK CHEMICAL COMPOSITIONS OF SYNTHETIC AND NATURAL CHONDRITIC STARTING MATERIALS AND THEIR EVAPORATIVE RESIDUES USING EPMA 3. CALCULATE MASS LOSS RATES AND EVAPORATIVE FLUXES 4. DEFINE REFERENCE FLUXES FOR SPECIFIED COMPOSITIONS  T  PTOTAL  AND PO2 5. USE THE DERIVED EVAPORATIVE FLUXES TO DERIVE RELEVANT EVAPORATION PARAMETERS 6. MEASURE FE  MG  SI  AND O ISOTOPE RATIOS FOR THE STARTING MATERIALS AND EVAPORATION RESIDUES AT DIFFERENT DEGREES OF MASS LOSS USING MC-ICPMS AND LASER-HEATING ASSISTED FLUORINATION 7. USE THE RESULTS TO ASSESS COMPETING MODELS FOR EVAPORATION OF MOLTEN SILICATES AS THE CAUSE OF HEAVY ISOTOPE ENRICHMENT IN EARTH  MARS  MOON  AND METEORITE PARENT BODIES (E.G.  THE ANGRITE PARENT BODY). OUR APPROACH TAKES ADVANTAGE OF A NEW METHOD FOR MELTING AND EVAPORATING MATERIALS UNDER CONTROLLED CONDITIONS. THE RESULTS WILL BE A SELF-CONSISTENT SET OF EXPERIMENTALLY-DETERMINED EVAPORATION PARAMETERS RELEVANT TO THE PROBLEM OF PLANETESIMAL EVOLUTION. RELEVANCE TO EMERGING WORLDS: THE PROPOSED EXPERIMENTS WILL PROVIDE ESSENTIAL AND DEFINITIVE DATA NECESSARY TO CONSTRUCT DETAILED MODELS FOR EVAPORATION FROM CHONDRITIC-LIKE MELTS THAT IN TURN CAN BE USED TO TEST QUANTITATIVELY THE PROPOSAL THAT EVAPORATION IMPARTED ISOTOPIC SIGNATURES FOR THESE ELEMENTS TO ROCKY BODIES IN THE SOLAR SYSTEM. THE \"EMERGING WORLDS\" PROGRAM HAS THE STATED GOAL OF FOSTERING OUR UNDERSTANDING OF THE FORMATION AND EARLY EVOLUTION OF THE SOLAR SYSTEM  INCLUDING THE FORMATION AND EVOLUTION OF PLANET PRECURSORS (ROSES APPENDIX C.2). OUR WORK IS DIRECTED TOWARDS ACHIEVING A FULLER UNDERSTANDING OF HOW ROCKY BODIES ACQUIRED THEIR CHEMICAL AND ISOTOPIC CHARACTERISTICS AND SO IS RELEVANT TO THE STATED GOALS OF THE PROGRAM.",
+    "total_obligation": 619809.28,
+    "subaward_count": 3,
+    "total_subaward_amount": 194332,
+    "date_signed": "2019-03-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 608131.78,
+    "total_account_obligation": 259162.28,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 608131.78
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 259162.28
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2019-03-01",
+      "end_date": "2024-02-29",
+      "last_modified_date": "2025-04-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "0001",
+        "zip5": "90095",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "1302",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 608131.78
+  }
+}

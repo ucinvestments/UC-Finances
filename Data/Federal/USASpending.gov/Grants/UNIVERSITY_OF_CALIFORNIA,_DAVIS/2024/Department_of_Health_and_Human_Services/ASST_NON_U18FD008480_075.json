@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92621764,
+    "Award ID": "U18FD008480",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1000000,
+    "Total Outlays": 698024.51,
+    "Description": "UC DAVIS IGA INNOVATION CENTER - WE PROPOSE TO ESTABLISH THE “UC DAVIS INTENTIONAL GENOMIC ALTERATION (IGA) INNOVATION CENTER” FOCUSED ON RESEARCH ON IGAS IN MAJOR LIVESTOCK SPECIES TO ADVANCE THE USE OF GENE EDITING TECHNOLOGIES IN FOOD ANIMALS, WHILE GENERATING AND SHARING BOTH PHENOTYPIC AND BIOINFORMATIC DATA TO SUPPORT A SCIENCE-BASED APPROACH TO THE REGULATION OF IGAS IN FOOD ANIMALS. UC DAVIS HAS LONG BEEN A LEADER IN APPLYING GENETIC TECHNOLOGIES TO FARM ANIMAL SPECIES AND WE ARE UNIQUELY POSITIONED TO ADDRESS ISSUES SURROUNDING THE USE OF GENE EDITING IN ANIMALS DESTINED FOR THE FOOD CHAIN DUE TO THE DEPTH AND BREADTH OF EXTANT FOOD ANIMALS (CATTLE, PIGS, SHEEP, AND GOATS) WITH IGAS WE HAVE GENERATED, AND THE PIPELINE WE HAVE PLANNED FOR THE FUTURE. THESE ANIMALS HAVE BEEN PRODUCED FOR BOTH AGRICULTURAL AND BIOMEDICAL PURPOSES OVER THE PAST 20 YEARS, WITH GENE EDITED ANIMALS PREDOMINATING IN THE PAST 5 YEARS. THIS INVENTORY INCLUDES GENETICALLY ENGINEERED AND GENE-EDITED KNOCKOUT AND KNOCK-IN ANIMALS RESULTING FROM BOTH MICROINJECTION AND ELECTROPORATION, SOME OF WHICH HAVE MULTIPLE GENERATIONS OF OFFSPRING. THE SPECIFIC AIMS OF THIS COOPERATIVE AGREEMENT ARE: AIM 1: TO DEVELOP A GOLD STANDARD WORKFLOW FOR ASSESSING ON- AND OFF-TARGET EVENTS AS A RESULT OF GENE EDITING. WHOLE GENOME SEQUENCING (WGS), IN VITRO AND IN SILICO APPROACHES TO DETECT ON- AND OFF-TARGET EVENTS WILL BE COMPARED TO ESTABLISH A STRATEGY THAT WILL ACCOUNT FOR NATURAL SEQUENCE VARIABILITY, SEQUENCING DEPTH AND BIOINFORMATICS WORKFLOWS TO ENSURE ACCURATE IDENTIFICATION OF ON- AND OFF-TARGET CHANGES IN THE GENOME. AIM 2: TO DOCUMENT THE GENOTYPIC AND PHENOTYPIC DURABILITY OF IGAS ACROSS GENERATIONS AND SPECIES. GENOTYPIC DURABILITY OF ON- AND OFF-TARGET EVENTS WILL BE DOCUMENTED IN GENE EDITED CATTLE, PIGS, AND SHEEP AND, BOVINE EMBRYONIC STEM CELLS (BESCS) AND PHENOTYPIC DURABILITY ASSESSED INCLUDING COMPILING INFORMATION ON KNOWN VARIATION IN NUTRIENT PROFILES OF PRODUCTS DERIVED FROM FOOD ANIMALS TO HELP INFORM DESIGN OF EXPERIMENTS TO EXPLICITLY EVALUATE ALTERATIONS IN PRODUCT COMPOSITION. AIM 3: TO ASSESS THE REPRODUCIBILITY OF VARIOUS GENE EDITING PLATFORMS INCLUDING PRIME EDITING IN TERMS OF EFFICACY OF EDITING AND PRESENCE OF OFF-TARGET CUTTING IN DIFFERENT CELL TYPES. WE ANTICIPATE SHARING THE MATERIALS AND DATA WE PRODUCE WITH FDA SCIENTIFIC OR PROGRAM STAFF AND COORDINATING PROJECT ACTIVITIES WITH THE FDA TO PROVIDE EVIDENCE TO ADDRESS REGULATORY QUESTIONS TO HELP ADVANCE THE SAFE USE OF GENE EDITING TO IMPROVE THE SUSTAINABILITY OF ANIMAL AGRICULTURE, AND FACILITATE MORE FDA-REGULATED PRODUCTS COMING TO MARKET.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "Food and Drug Administration",
+    "Start Date": "2024-09-15",
+    "End Date": "2029-09-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U18FD008480_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92621764,
+    "generated_unique_award_id": "ASST_NON_U18FD008480_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "UC DAVIS IGA INNOVATION CENTER - WE PROPOSE TO ESTABLISH THE “UC DAVIS INTENTIONAL GENOMIC ALTERATION (IGA) INNOVATION CENTER” FOCUSED ON RESEARCH ON IGAS IN MAJOR LIVESTOCK SPECIES TO ADVANCE THE USE OF GENE EDITING TECHNOLOGIES IN FOOD ANIMALS, WHILE GENERATING AND SHARING BOTH PHENOTYPIC AND BIOINFORMATIC DATA TO SUPPORT A SCIENCE-BASED APPROACH TO THE REGULATION OF IGAS IN FOOD ANIMALS. UC DAVIS HAS LONG BEEN A LEADER IN APPLYING GENETIC TECHNOLOGIES TO FARM ANIMAL SPECIES AND WE ARE UNIQUELY POSITIONED TO ADDRESS ISSUES SURROUNDING THE USE OF GENE EDITING IN ANIMALS DESTINED FOR THE FOOD CHAIN DUE TO THE DEPTH AND BREADTH OF EXTANT FOOD ANIMALS (CATTLE, PIGS, SHEEP, AND GOATS) WITH IGAS WE HAVE GENERATED, AND THE PIPELINE WE HAVE PLANNED FOR THE FUTURE. THESE ANIMALS HAVE BEEN PRODUCED FOR BOTH AGRICULTURAL AND BIOMEDICAL PURPOSES OVER THE PAST 20 YEARS, WITH GENE EDITED ANIMALS PREDOMINATING IN THE PAST 5 YEARS. THIS INVENTORY INCLUDES GENETICALLY ENGINEERED AND GENE-EDITED KNOCKOUT AND KNOCK-IN ANIMALS RESULTING FROM BOTH MICROINJECTION AND ELECTROPORATION, SOME OF WHICH HAVE MULTIPLE GENERATIONS OF OFFSPRING. THE SPECIFIC AIMS OF THIS COOPERATIVE AGREEMENT ARE: AIM 1: TO DEVELOP A GOLD STANDARD WORKFLOW FOR ASSESSING ON- AND OFF-TARGET EVENTS AS A RESULT OF GENE EDITING. WHOLE GENOME SEQUENCING (WGS), IN VITRO AND IN SILICO APPROACHES TO DETECT ON- AND OFF-TARGET EVENTS WILL BE COMPARED TO ESTABLISH A STRATEGY THAT WILL ACCOUNT FOR NATURAL SEQUENCE VARIABILITY, SEQUENCING DEPTH AND BIOINFORMATICS WORKFLOWS TO ENSURE ACCURATE IDENTIFICATION OF ON- AND OFF-TARGET CHANGES IN THE GENOME. AIM 2: TO DOCUMENT THE GENOTYPIC AND PHENOTYPIC DURABILITY OF IGAS ACROSS GENERATIONS AND SPECIES. GENOTYPIC DURABILITY OF ON- AND OFF-TARGET EVENTS WILL BE DOCUMENTED IN GENE EDITED CATTLE, PIGS, AND SHEEP AND, BOVINE EMBRYONIC STEM CELLS (BESCS) AND PHENOTYPIC DURABILITY ASSESSED INCLUDING COMPILING INFORMATION ON KNOWN VARIATION IN NUTRIENT PROFILES OF PRODUCTS DERIVED FROM FOOD ANIMALS TO HELP INFORM DESIGN OF EXPERIMENTS TO EXPLICITLY EVALUATE ALTERATIONS IN PRODUCT COMPOSITION. AIM 3: TO ASSESS THE REPRODUCIBILITY OF VARIOUS GENE EDITING PLATFORMS INCLUDING PRIME EDITING IN TERMS OF EFFICACY OF EDITING AND PRESENCE OF OFF-TARGET CUTTING IN DIFFERENT CELL TYPES. WE ANTICIPATE SHARING THE MATERIALS AND DATA WE PRODUCE WITH FDA SCIENTIFIC OR PROGRAM STAFF AND COORDINATING PROJECT ACTIVITIES WITH THE FDA TO PROVIDE EVIDENCE TO ADDRESS REGULATORY QUESTIONS TO HELP ADVANCE THE SAFE USE OF GENE EDITING TO IMPROVE THE SUSTAINABILITY OF ANIMAL AGRICULTURE, AND FACILITATE MORE FDA-REGULATED PRODUCTS COMING TO MARKET.",
+    "total_obligation": 1000000,
+    "subaward_count": 1,
+    "total_subaward_amount": 134512,
+    "date_signed": "2024-09-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 698024.51,
+    "total_account_obligation": 1000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 698024.51
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 825,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Food and Drug Administration",
+        "code": "7524",
+        "abbreviation": "FDA"
+      },
+      "office_agency_name": "FDA CENTER FOR VETERINARY MEDICINE"
+    },
+    "awarding_agency": {
+      "id": 825,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Food and Drug Administration",
+        "code": "7524",
+        "abbreviation": "FDA"
+      },
+      "office_agency_name": "FDA Office of Acquisitions and Grants Services"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-15",
+      "end_date": "2029-09-14",
+      "last_modified_date": "2024-10-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 698024.51
+  }
+}

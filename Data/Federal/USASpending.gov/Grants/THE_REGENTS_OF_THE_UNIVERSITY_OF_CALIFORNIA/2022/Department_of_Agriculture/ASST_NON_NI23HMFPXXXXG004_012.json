@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89860957,
+    "Award ID": "NI23HMFPXXXXG004",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 2340977,
+    "Total Outlays": 2340977,
+    "Description": "UC AGRICULTURE AND NATURAL RESOURCES (UC ANR) IS THE LAND-GRANT ARM FOR THE UNIVERSITY OF CALIFORNIA. THE AGRICULTURAL EXPERIMENT STATION (AES) ON THREE UC CAMPUSES IS INTEGRATED WITH UC COOPERATIVE EXTENSION (UCCE) ACROSS THE STATE. UC ANR HAS PROGRAMS IN EVERY COUNTY IN CALIFORNIA, NINE RESEARCH AND EXTENSION CENTERS (RECS), TWO UC SYSTEMWIDE INSTITUTES AND ELEVEN STATEWIDE PROGRAMS. UC ANR IS EXCITED TO BE EXPANDING THE UCCE ACADEMIC FOOTPRINT BY OVER 100 NEW RECRUITMENTS. THE LOCATIONS OF UCCE SPECIALISTS IS ALSO EXPANDING FROM THE EXISTING LOCATIONS AT UC BERKELEY, UC DAVIS, UC RIVERSIDE, UC SANTA BARBARA, UC SANTA CRUZ AND UC MERCED, RECS AND IN COUNTY OFFICES TO ADD THE UC IRVINE AND UC LOS ANGELES CAMPUSES.  THE UC ANR NETWORK ENGAGES ACADEMICS ACROSS THE ENTIRE UC SYSTEM TO ENCOURAGE INTEGRATED TEAMS TO WORK ON COMPLEX ISSUES THAT REQUIRE MULTIDISCIPLINARY APPROACHES TO FIND SOLUTIONS. THE UC ANR CONNECTIONS ALSO INCLUDE FACULTY FROM THE STATE UNIVERSITY SYSTEM, PRIVATE COLLEGES AND UNIVERSITIES, AND STAKEHOLDERS REPRESENTING FEDERAL AND STATE GOVERNMENTAL AGENCIES, ORGANIZATIONS REPRESENTING AGRICULTURAL AND NATURAL RESOURCE PRODUCTION, NON-GOVERNMENTAL ORGANIZATIONS (NGO'S), AND OTHER INTEREST AREAS INCLUDING THE ENVIRONMENT, YOUTH, AND NUTRITION.  UC ANR HAS THE VISION OF MAKING A POSITIVE DIFFERENCE IN THE LIVES OF EVERY CALIFORNIAN. UC ANR ENVISIONS A THRIVING CALIFORNIA WHERE HEALTHY PEOPLE AND COMMUNITIES, HEALTHY FOOD SYSTEMS, AND HEALTHY ENVIRONMENTS ARE STRENGTHENED BY A CLOSE PARTNERSHIP BETWEEN THE UNIVERSITY OF CALIFORNIA AND ITS RESEARCH AND EXTENSION PROGRAMS AND THE PEOPLE OF THE STATE. THE UNIVERSITY REMAINS CONNECTED AND COMMITTED TO THE PEOPLE OF CALIFORNIA, WHO ENJOY A HIGH QUALITY OF LIFE, A HEALTHY ENVIRONMENT, AND ECONOMIC SUCCESS IN A GLOBAL ECONOMY.  UC ANR'S MISSION IS TO MAINTAIN AND ENHANCE CONNECTIONS THAT FULLY ENGAGE UC WITH THE PEOPLE OF CALIFORNIA AND TO ACHIEVE INNOVATION IN FUNDAMENTAL AND APPLIED RESEARCH AND EDUCATION THAT SUPPORTS SUSTAINABLE, SAFE, NUTRITIOUS FOOD PRODUCTION AND DELIVERY; ECONOMIC SUCCESS IN A GLOBAL ECONOMY; A SUSTAINABLE, HEALTHY, PRODUCTIVE ENVIRONMENT; AND SCIENCE LITERACY AND YOUTH DEVELOPMENT PROGRAMS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "DJA9TB2ULCT1",
+    "Recipient Location": {
+      "address_line1": "1111 FRANKLIN ST 11TH FL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "OAKLAND",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0000",
+      "zip5": "94607"
+    },
+    "Primary Place of Performance": {
+      "city_name": "OAKLAND",
+      "congressional_code": "09",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94607",
+      "zip5": "94607"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2022-10-01",
+    "End Date": "2024-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2b3d781a-26c9-36d8-b334-e3b592d9e6a5-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_NI23HMFPXXXXG004_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89860957,
+    "generated_unique_award_id": "ASST_NON_NI23HMFPXXXXG004_012",
+    "piid": "",
+    "category": "grant",
+    "type": "03",
+    "type_description": "FORMULA GRANT (A)",
+    "description": "UC AGRICULTURE AND NATURAL RESOURCES (UC ANR) IS THE LAND-GRANT ARM FOR THE UNIVERSITY OF CALIFORNIA. THE AGRICULTURAL EXPERIMENT STATION (AES) ON THREE UC CAMPUSES IS INTEGRATED WITH UC COOPERATIVE EXTENSION (UCCE) ACROSS THE STATE. UC ANR HAS PROGRAMS IN EVERY COUNTY IN CALIFORNIA, NINE RESEARCH AND EXTENSION CENTERS (RECS), TWO UC SYSTEMWIDE INSTITUTES AND ELEVEN STATEWIDE PROGRAMS. UC ANR IS EXCITED TO BE EXPANDING THE UCCE ACADEMIC FOOTPRINT BY OVER 100 NEW RECRUITMENTS. THE LOCATIONS OF UCCE SPECIALISTS IS ALSO EXPANDING FROM THE EXISTING LOCATIONS AT UC BERKELEY, UC DAVIS, UC RIVERSIDE, UC SANTA BARBARA, UC SANTA CRUZ AND UC MERCED, RECS AND IN COUNTY OFFICES TO ADD THE UC IRVINE AND UC LOS ANGELES CAMPUSES.  THE UC ANR NETWORK ENGAGES ACADEMICS ACROSS THE ENTIRE UC SYSTEM TO ENCOURAGE INTEGRATED TEAMS TO WORK ON COMPLEX ISSUES THAT REQUIRE MULTIDISCIPLINARY APPROACHES TO FIND SOLUTIONS. THE UC ANR CONNECTIONS ALSO INCLUDE FACULTY FROM THE STATE UNIVERSITY SYSTEM, PRIVATE COLLEGES AND UNIVERSITIES, AND STAKEHOLDERS REPRESENTING FEDERAL AND STATE GOVERNMENTAL AGENCIES, ORGANIZATIONS REPRESENTING AGRICULTURAL AND NATURAL RESOURCE PRODUCTION, NON-GOVERNMENTAL ORGANIZATIONS (NGO'S), AND OTHER INTEREST AREAS INCLUDING THE ENVIRONMENT, YOUTH, AND NUTRITION.  UC ANR HAS THE VISION OF MAKING A POSITIVE DIFFERENCE IN THE LIVES OF EVERY CALIFORNIAN. UC ANR ENVISIONS A THRIVING CALIFORNIA WHERE HEALTHY PEOPLE AND COMMUNITIES, HEALTHY FOOD SYSTEMS, AND HEALTHY ENVIRONMENTS ARE STRENGTHENED BY A CLOSE PARTNERSHIP BETWEEN THE UNIVERSITY OF CALIFORNIA AND ITS RESEARCH AND EXTENSION PROGRAMS AND THE PEOPLE OF THE STATE. THE UNIVERSITY REMAINS CONNECTED AND COMMITTED TO THE PEOPLE OF CALIFORNIA, WHO ENJOY A HIGH QUALITY OF LIFE, A HEALTHY ENVIRONMENT, AND ECONOMIC SUCCESS IN A GLOBAL ECONOMY.  UC ANR'S MISSION IS TO MAINTAIN AND ENHANCE CONNECTIONS THAT FULLY ENGAGE UC WITH THE PEOPLE OF CALIFORNIA AND TO ACHIEVE INNOVATION IN FUNDAMENTAL AND APPLIED RESEARCH AND EDUCATION THAT SUPPORTS SUSTAINABLE, SAFE, NUTRITIOUS FOOD PRODUCTION AND DELIVERY; ECONOMIC SUCCESS IN A GLOBAL ECONOMY; A SUSTAINABLE, HEALTHY, PRODUCTIVE ENVIRONMENT; AND SCIENCE LITERACY AND YOUTH DEVELOPMENT PROGRAMS.",
+    "total_obligation": 2340977,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-11-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2340977,
+    "total_account_obligation": 2340977,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2340977
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2340977
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2022-10-01",
+      "end_date": "2024-09-30",
+      "last_modified_date": "2025-03-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2b3d781a-26c9-36d8-b334-e3b592d9e6a5-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "DJA9TB2ULCT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "OAKLAND",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1111 FRANKLIN ST 11TH FL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "0000",
+        "zip5": "94607",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "OAKLAND",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "",
+      "zip5": "94607",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2340977
+  }
+}

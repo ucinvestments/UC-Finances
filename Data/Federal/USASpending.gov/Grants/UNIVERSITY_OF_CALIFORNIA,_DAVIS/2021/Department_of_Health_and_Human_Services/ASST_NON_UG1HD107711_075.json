@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92643034,
+    "Award ID": "UG1HD107711",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 11224088,
+    "Total Outlays": 9383341.12,
+    "Description": "CALIFORNIA PARTNERSHIP FOR PERSONALIZED NUTRITION - PROJECT SUMMARY: POOR DIET AND SEDENTARY BEHAVIORS ARE ASSOCIATED WITH SOME OF THE LEADING CAUSES OF PREMATURE DEATH IN THE U.S. WHILE NUTRITIONISTS UNDERSTAND THAT THERE ARE A VARIETY OF EATING BEHAVIORS THAT HAVE POSITIVE BENEFITS TO HEALTH AND FUNCTION IN GENERAL TERMS, IT HAS BEEN DIFFICULT TO TAILOR DIETARY RECOMMENDATIONS TO THE INDIVIDUAL. PUBLIC HEALTH RECOMMENDATIONS AND MARKETING THAT AIM TO IMPROVE ‘DIET QUALITY’ (OR COMPLEMENTARY OUTCOMES, SUCH AS PHYSICAL ACTIVITY) HAVE BEEN HAMPERED BY A BROAD BRUSH ‘ONE-SIZE FITS ALL’ APPROACH WITHOUT DISTINGUISHING INDIVIDUALIZED NEEDS. A BIG CHALLENGE TO DESIGN OF STRATEGIES FOR MORE PERSONALIZED PUBLIC HEALTH IS THE PAUCITY OF LARGE-SCALE INTERVENTIONS THAT HAVE TESTED PERSON-TO-PERSON DIFFERENCES IN PHYSIOLOGICAL RESPONSES TO STANDARDIZED FOODS OR DIET PATTERNS. THE PREMISE OF THE NIH NUTRITION FOR PRECISION HEALTH PROGRAM AND THIS APPLICATION TO ESTABLISH THE CALIFORNIA PARTNERSHIP FOR PERSONALIZED NUTRITION CLINICAL CENTER IS THAT VARIANCE IN DIETARY PATTERNS AND PHYSIOLOGICAL RESPONSES TO PATTERNS AND SPECIFIC FOODS ARE SHAPED BY DISPARATE FACTORS INCLUDING COMPLEX GENETIC, MICROBIOME, PSYCHOSOCIAL, HUMAN ECOLOGY, AND METABOLIC VARIABLES. WE AIM TO EXAMINE WHICH FACTOR OR COMBINATION OF FACTORS INFLUENCE RESPONSES TO A TEST MEAL COMPOSED OF STRATEGIC INGREDIENTS THAT INTERROGATE MULTIPLE BIOLOGICAL SYSTEMS IN PARALLEL, POPULATION-WIDE BUT WITH A CONSIDERATION OF SUB-GROUPS THAT DIFFER WITH RESPECT TO GLUCOSE CONTROL AND MICROBIOME (TYPE 2 DIABETIC, PRE-DIABETIC, AND NON- DIABETIC PERSONS). IN ADDITION, THE DIFFERENTIAL (INTRA- AND INTERINDIVIDUAL) RESPONSES TO THREE DISPARATE DIETS (MEDITERRANEAN, LOW-CARBOHYDRATE, AND HIGH-CARBOHYDRATE) WILL BE TESTED IN FREE-LIVING AND DOMICILED CONDITIONS, TO CHARACTERIZE MICROBIOTA SHIFTS AND TO ASSOCIATE DIET WITH CHANGES IN MULTI-SYSTEM PHYSIOLOGY AND CHRONOBIOLOGY. FINALLY, THE STUDY DESIGN ALSO PROVIDES BIOSPECIMENS FOR METABOLOMICS, CHEMISTRY, AND MICROBIOME; ADVANCED METABOLIC PHYSIOLOGY DATA; INNOVATIVE APP AND WEARABLE DERIVED DATA; IN ADDITION TO CORE PROTOCOL EMR AND GENOMIC DATA SUITABLE FOR HIGH QUALITY DATA MODELING AND ADVANCED STATISTICAL/ARTIFICIAL INTELLIGENCE “BIG DATA” METHODS FOR DISCOVERY OF PERSONALIZED NUTRITIONAL OPTIMIZATION. THE CALIFORNIA PARTNERSHIP FOR PERSONALIZED NUTRITION ESTABLISHED IN THIS PROJECT GROWS OUT OF THE CALIFORNIA PRECISION MEDICINE CONSORTIUM (CAPMC), THE ALL OF US HEALTH PROVIDER ORGANIZATION IN CALIFORNIA,. THE CAPMC HAS ESTABLISHED TEAMWORK STATEWIDE FOR RECRUITMENT AND RETENTION, WITH ENGAGEMENT OF THE GREAT DIVERSITY OF THE POPULATION OF THE STATE OF CALIFORNIA. THIS TEAM, COMBINED WITH THE CONSIDERABLE EXPERIENCE IN CLINICAL NUTRITION, FEEDING STUDIES AND MICRO- AND MACRO-NUTRIENT ASSESSMENT, DIGITAL APP AND WEARABLE TECHNOLOGIES, MODERN HUMAN ECOLOGY, COMMUNITY ALLIANCES, AND FOOD FOR HEALTH AND WELLNESS PROVIDES A COMBINATION IDEALLY SUITED TO THE GOALS OF THE NUTRITION FOR PRECISION HEALTH NATIONAL PROGRAM.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-12-10",
+    "End Date": "2026-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_UG1HD107711_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92643034,
+    "generated_unique_award_id": "ASST_NON_UG1HD107711_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "CALIFORNIA PARTNERSHIP FOR PERSONALIZED NUTRITION - PROJECT SUMMARY: POOR DIET AND SEDENTARY BEHAVIORS ARE ASSOCIATED WITH SOME OF THE LEADING CAUSES OF PREMATURE DEATH IN THE U.S. WHILE NUTRITIONISTS UNDERSTAND THAT THERE ARE A VARIETY OF EATING BEHAVIORS THAT HAVE POSITIVE BENEFITS TO HEALTH AND FUNCTION IN GENERAL TERMS, IT HAS BEEN DIFFICULT TO TAILOR DIETARY RECOMMENDATIONS TO THE INDIVIDUAL. PUBLIC HEALTH RECOMMENDATIONS AND MARKETING THAT AIM TO IMPROVE ‘DIET QUALITY’ (OR COMPLEMENTARY OUTCOMES, SUCH AS PHYSICAL ACTIVITY) HAVE BEEN HAMPERED BY A BROAD BRUSH ‘ONE-SIZE FITS ALL’ APPROACH WITHOUT DISTINGUISHING INDIVIDUALIZED NEEDS. A BIG CHALLENGE TO DESIGN OF STRATEGIES FOR MORE PERSONALIZED PUBLIC HEALTH IS THE PAUCITY OF LARGE-SCALE INTERVENTIONS THAT HAVE TESTED PERSON-TO-PERSON DIFFERENCES IN PHYSIOLOGICAL RESPONSES TO STANDARDIZED FOODS OR DIET PATTERNS. THE PREMISE OF THE NIH NUTRITION FOR PRECISION HEALTH PROGRAM AND THIS APPLICATION TO ESTABLISH THE CALIFORNIA PARTNERSHIP FOR PERSONALIZED NUTRITION CLINICAL CENTER IS THAT VARIANCE IN DIETARY PATTERNS AND PHYSIOLOGICAL RESPONSES TO PATTERNS AND SPECIFIC FOODS ARE SHAPED BY DISPARATE FACTORS INCLUDING COMPLEX GENETIC, MICROBIOME, PSYCHOSOCIAL, HUMAN ECOLOGY, AND METABOLIC VARIABLES. WE AIM TO EXAMINE WHICH FACTOR OR COMBINATION OF FACTORS INFLUENCE RESPONSES TO A TEST MEAL COMPOSED OF STRATEGIC INGREDIENTS THAT INTERROGATE MULTIPLE BIOLOGICAL SYSTEMS IN PARALLEL, POPULATION-WIDE BUT WITH A CONSIDERATION OF SUB-GROUPS THAT DIFFER WITH RESPECT TO GLUCOSE CONTROL AND MICROBIOME (TYPE 2 DIABETIC, PRE-DIABETIC, AND NON- DIABETIC PERSONS). IN ADDITION, THE DIFFERENTIAL (INTRA- AND INTERINDIVIDUAL) RESPONSES TO THREE DISPARATE DIETS (MEDITERRANEAN, LOW-CARBOHYDRATE, AND HIGH-CARBOHYDRATE) WILL BE TESTED IN FREE-LIVING AND DOMICILED CONDITIONS, TO CHARACTERIZE MICROBIOTA SHIFTS AND TO ASSOCIATE DIET WITH CHANGES IN MULTI-SYSTEM PHYSIOLOGY AND CHRONOBIOLOGY. FINALLY, THE STUDY DESIGN ALSO PROVIDES BIOSPECIMENS FOR METABOLOMICS, CHEMISTRY, AND MICROBIOME; ADVANCED METABOLIC PHYSIOLOGY DATA; INNOVATIVE APP AND WEARABLE DERIVED DATA; IN ADDITION TO CORE PROTOCOL EMR AND GENOMIC DATA SUITABLE FOR HIGH QUALITY DATA MODELING AND ADVANCED STATISTICAL/ARTIFICIAL INTELLIGENCE “BIG DATA” METHODS FOR DISCOVERY OF PERSONALIZED NUTRITIONAL OPTIMIZATION. THE CALIFORNIA PARTNERSHIP FOR PERSONALIZED NUTRITION ESTABLISHED IN THIS PROJECT GROWS OUT OF THE CALIFORNIA PRECISION MEDICINE CONSORTIUM (CAPMC), THE ALL OF US HEALTH PROVIDER ORGANIZATION IN CALIFORNIA,. THE CAPMC HAS ESTABLISHED TEAMWORK STATEWIDE FOR RECRUITMENT AND RETENTION, WITH ENGAGEMENT OF THE GREAT DIVERSITY OF THE POPULATION OF THE STATE OF CALIFORNIA. THIS TEAM, COMBINED WITH THE CONSIDERABLE EXPERIENCE IN CLINICAL NUTRITION, FEEDING STUDIES AND MICRO- AND MACRO-NUTRIENT ASSESSMENT, DIGITAL APP AND WEARABLE TECHNOLOGIES, MODERN HUMAN ECOLOGY, COMMUNITY ALLIANCES, AND FOOD FOR HEALTH AND WELLNESS PROVIDES A COMBINATION IDEALLY SUITED TO THE GOALS OF THE NUTRITION FOR PRECISION HEALTH NATIONAL PROGRAM.",
+    "total_obligation": 11224088,
+    "subaward_count": 9,
+    "total_subaward_amount": 3419403.03,
+    "date_signed": "2021-12-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 9383341.12,
+    "total_account_obligation": 11224088,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 9383341.12
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 11224088
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2021-12-10",
+      "end_date": "2026-11-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 9383341.12
+  }
+}

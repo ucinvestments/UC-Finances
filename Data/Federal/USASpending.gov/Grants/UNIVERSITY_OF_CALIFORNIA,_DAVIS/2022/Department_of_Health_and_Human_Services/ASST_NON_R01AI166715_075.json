@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91134833,
+    "Award ID": "R01AI166715",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1891808,
+    "Total Outlays": 1166503.51,
+    "Description": "MECHANISMS OF HOST LEUKOCYTE-MEDIATED TOXOPLASMA DISSEMINATION IN ITS HOST - THE INTRACELLULAR PARASITE TOXOPLASMA GONDII CAUSES LIFE-THREATENING DISEASE IN IMMUNOSUPPRESSED OR TRANSPLANT PATIENTS. ITS PATHOLOGY MAINLY RELIES ON THE DISSEMINATION OF THE PARASITE FROM THE SITE OF INFECTION TO VARIOUS ESSENTIAL ORGANS, SUCH AS THE BRAIN, WHERE IT CAUSES TISSUE DESTRUCTION. T. GONDII OFTEN USES A TROJAN HORSE MECHANISM TO FACILITATE ITS DISSEMINATION, DURING WHICH IT HIJACKS THE HOST CELL MIGRATION MACHINERY TO CO- OPT HOST LEUKOCYTES AS SHUTTLING VECTORS. EXACTLY HOW T. GONDII DOES SO, HOWEVER, IS LARGELY UNKNOWN. WE RECENTLY IDENTIFIED A NOVEL T. GONDII PROTEIN IMPORTANT FOR ITS DISSEMINATION, WHICH WE NAMED TGWIP. WE FOUND THAT UPON INVASION THE PARASITE SECRETED TGWIP INTO THE HOST CELL CYTOSOL, WHERE TGWIP STIMULATED DENDRITIC CELLS TO BECOME HYPER-MIGRATORY AND UNDERGO A MESENCHYMAL TO AMOEBOID TRANSITION (MAT). THE PROCESS WAS ASSOCIATED WITH A DRAMATIC REARRANGEMENT OF THE ACTIN CYTOSKELETON. THE OVERALL OBJECTIVE OF THIS APPLICATION IS TO DETERMINE THE MOLECULAR MECHANISMS BY WHICH TGWIP MEDIATES T. GONDII DISSEMINATION IN THE HOST. OUR CENTRAL HYPOTHESIS IS THAT TGWIP PROMOTES DISSEMINATION BY MODULATING LEUKOCYTE ACTIN DYNAMICS. THIS HYPOTHESIS WAS FORMULATED BASED ON OUR PRELIMINARY DATA SHOWING THAT TGWIP DIRECTLY INTERACTS WITH SEVERAL CENTRAL REGULATORS OF THE ACTIN CYTOSKELETON INVOLVED IN CELL MIGRATION, INCLUDING THE WAVE REGULATORY COMPLEX (WRC), THE SH2-SH3 ADAPTOR PROTEINS NCK AND GRB2, AND THE SHP1/2 TYROSINE PHOSPHATASES. WE WILL TEST OUR HYPOTHESIS BY PURSUING TWO AIMS: 1) DETERMINE HOW TGWIP INTERACTS WITH VARIOUS ACTIN REGULATORS TO MODULATE HOST ACTIN DYNAMICS IN VITRO, AND 2) DETERMINE HOW TGWIP ENHANCES HOST LEUKOCYTE MOTILITY TO FACILITATE DISSEMINATION IN VIVO. SPECIFICALLY, OUR TEAM WILL COMBINE BIOCHEMISTRY, CELL BIOLOGY, AND ANIMAL MODELS TO DETERMINE (I) HOW TGWIP DIRECTLY INTERACTS WITH THE WRC, NCK, GRB2, AND SHP1/2, AND HOW THE INTERACTIONS INFLUENCE ACTIN POLYMERIZATION IN VITRO; (II) HOW THESE INTERACTIONS ALTER THE MIGRATIVE BEHAVIORS OF PRIMARY DENDRITIC CELLS; AND (III) HOW DISRUPTION OF THESE INTERACTIONS INFLUENCES IN VIVO DISSEMINATION OF T. GONDII IN MICE. OUR PROPOSED RESEARCH IS INNOVATIVE BECAUSE IT WILL UNRAVEL A NOVEL MECHANISM BY WHICH TGWIP, AS A NEWLY IDENTIFIED PARASITE EFFECTOR UNIQUE TO T. GONDII, COORDINATES SEVERAL DISTINCT HOST ACTIN REGULATORS TO REROUTE LEUCOCYTE MIGRATION AND FACILITATE T. GONDII DISSEMINATION. OUR WORK IS SIGNIFICANT BECAUSE UNDERSTANDING THE MOLECULAR AND BIOCHEMICAL MECHANISMS UNDERLYING T. GONDII DISSEMINATION WILL LAY THE FOUNDATION FOR THE DEVELOPMENT OF NOVEL INTERVENTIONS THAT CAN DIRECTLY TARGET THESE MECHANISMS AND BLOCK T. GONDII DISSEMINATION AFTER ACUTE INFECTION OR REACTIVATION IN AIDS OR TRANSPLANT PATIENTS OR FROM THE MOTHER TO THE FETUS. THIS KNOWLEDGE WILL BE ALSO IMPORTANT FOR THE DEVELOPMENT OF A SAFE, NON-TRANSMISSIBLE LIVE VACCINE THAT CAN PREVENT T. GONDII TRANSMISSION FROM ANIMALS. FURTHERMORE, BY UNDERSTANDING HOW TGWIP PROMOTES MAT IN INFECTED DCS, OUR WORK WILL PROVIDE VALUABLE INSIGHTS INTO HOW OTHER CELLS, SUCH AS METASTATIC CANCER CELLS AND LEUKOCYTES, MAY USE A SIMILAR MECHANISM TO UNDERGO MAT IN RESPONSE TO DIVERSE ENVIRONMENTAL CONDITIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-05-17",
+    "End Date": "2027-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI166715_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91134833,
+    "generated_unique_award_id": "ASST_NON_R01AI166715_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MECHANISMS OF HOST LEUKOCYTE-MEDIATED TOXOPLASMA DISSEMINATION IN ITS HOST - THE INTRACELLULAR PARASITE TOXOPLASMA GONDII CAUSES LIFE-THREATENING DISEASE IN IMMUNOSUPPRESSED OR TRANSPLANT PATIENTS. ITS PATHOLOGY MAINLY RELIES ON THE DISSEMINATION OF THE PARASITE FROM THE SITE OF INFECTION TO VARIOUS ESSENTIAL ORGANS, SUCH AS THE BRAIN, WHERE IT CAUSES TISSUE DESTRUCTION. T. GONDII OFTEN USES A TROJAN HORSE MECHANISM TO FACILITATE ITS DISSEMINATION, DURING WHICH IT HIJACKS THE HOST CELL MIGRATION MACHINERY TO CO- OPT HOST LEUKOCYTES AS SHUTTLING VECTORS. EXACTLY HOW T. GONDII DOES SO, HOWEVER, IS LARGELY UNKNOWN. WE RECENTLY IDENTIFIED A NOVEL T. GONDII PROTEIN IMPORTANT FOR ITS DISSEMINATION, WHICH WE NAMED TGWIP. WE FOUND THAT UPON INVASION THE PARASITE SECRETED TGWIP INTO THE HOST CELL CYTOSOL, WHERE TGWIP STIMULATED DENDRITIC CELLS TO BECOME HYPER-MIGRATORY AND UNDERGO A MESENCHYMAL TO AMOEBOID TRANSITION (MAT). THE PROCESS WAS ASSOCIATED WITH A DRAMATIC REARRANGEMENT OF THE ACTIN CYTOSKELETON. THE OVERALL OBJECTIVE OF THIS APPLICATION IS TO DETERMINE THE MOLECULAR MECHANISMS BY WHICH TGWIP MEDIATES T. GONDII DISSEMINATION IN THE HOST. OUR CENTRAL HYPOTHESIS IS THAT TGWIP PROMOTES DISSEMINATION BY MODULATING LEUKOCYTE ACTIN DYNAMICS. THIS HYPOTHESIS WAS FORMULATED BASED ON OUR PRELIMINARY DATA SHOWING THAT TGWIP DIRECTLY INTERACTS WITH SEVERAL CENTRAL REGULATORS OF THE ACTIN CYTOSKELETON INVOLVED IN CELL MIGRATION, INCLUDING THE WAVE REGULATORY COMPLEX (WRC), THE SH2-SH3 ADAPTOR PROTEINS NCK AND GRB2, AND THE SHP1/2 TYROSINE PHOSPHATASES. WE WILL TEST OUR HYPOTHESIS BY PURSUING TWO AIMS: 1) DETERMINE HOW TGWIP INTERACTS WITH VARIOUS ACTIN REGULATORS TO MODULATE HOST ACTIN DYNAMICS IN VITRO, AND 2) DETERMINE HOW TGWIP ENHANCES HOST LEUKOCYTE MOTILITY TO FACILITATE DISSEMINATION IN VIVO. SPECIFICALLY, OUR TEAM WILL COMBINE BIOCHEMISTRY, CELL BIOLOGY, AND ANIMAL MODELS TO DETERMINE (I) HOW TGWIP DIRECTLY INTERACTS WITH THE WRC, NCK, GRB2, AND SHP1/2, AND HOW THE INTERACTIONS INFLUENCE ACTIN POLYMERIZATION IN VITRO; (II) HOW THESE INTERACTIONS ALTER THE MIGRATIVE BEHAVIORS OF PRIMARY DENDRITIC CELLS; AND (III) HOW DISRUPTION OF THESE INTERACTIONS INFLUENCES IN VIVO DISSEMINATION OF T. GONDII IN MICE. OUR PROPOSED RESEARCH IS INNOVATIVE BECAUSE IT WILL UNRAVEL A NOVEL MECHANISM BY WHICH TGWIP, AS A NEWLY IDENTIFIED PARASITE EFFECTOR UNIQUE TO T. GONDII, COORDINATES SEVERAL DISTINCT HOST ACTIN REGULATORS TO REROUTE LEUCOCYTE MIGRATION AND FACILITATE T. GONDII DISSEMINATION. OUR WORK IS SIGNIFICANT BECAUSE UNDERSTANDING THE MOLECULAR AND BIOCHEMICAL MECHANISMS UNDERLYING T. GONDII DISSEMINATION WILL LAY THE FOUNDATION FOR THE DEVELOPMENT OF NOVEL INTERVENTIONS THAT CAN DIRECTLY TARGET THESE MECHANISMS AND BLOCK T. GONDII DISSEMINATION AFTER ACUTE INFECTION OR REACTIVATION IN AIDS OR TRANSPLANT PATIENTS OR FROM THE MOTHER TO THE FETUS. THIS KNOWLEDGE WILL BE ALSO IMPORTANT FOR THE DEVELOPMENT OF A SAFE, NON-TRANSMISSIBLE LIVE VACCINE THAT CAN PREVENT T. GONDII TRANSMISSION FROM ANIMALS. FURTHERMORE, BY UNDERSTANDING HOW TGWIP PROMOTES MAT IN INFECTED DCS, OUR WORK WILL PROVIDE VALUABLE INSIGHTS INTO HOW OTHER CELLS, SUCH AS METASTATIC CANCER CELLS AND LEUKOCYTES, MAY USE A SIMILAR MECHANISM TO UNDERGO MAT IN RESPONSE TO DIVERSE ENVIRONMENTAL CONDITIONS.",
+    "total_obligation": 1891808,
+    "subaward_count": 3,
+    "total_subaward_amount": 421476,
+    "date_signed": "2022-05-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1166503.51,
+    "total_account_obligation": 1891808,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1166503.51
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1891808
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2022-05-17",
+      "end_date": "2027-04-30",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1166503.51
+  }
+}

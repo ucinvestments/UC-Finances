@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 172258660,
+    "Award ID": "UH3OD035550",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1973808,
+    "Total Outlays": 19978.42,
+    "Description": "PRENATAL ENVIRONMENT AND CHILD HEALTH (PEACH) IN ECHO - PRENATAL ENVIRONMENT AND CHILD HEALTH (PEACH) IN ECHO ABSTRACT FEW MODIFIABLE FACTORS HAVE BEEN IDENTIFIED THAT IMPROVE NEURODEVELOPMENTAL (ND) OUTCOMES. ONE SUCH FACTOR, SUPPLEMENTAL FOLIC ACID (SFA), TAKEN BEFORE AND DURING THE FIRST WEEKS POST-CONCEPTION, REDUCED RISK FOR NEURAL TUBE DEFECTS (NTDS) BY UP TO 70% IN RANDOMIZED TRIALS, INITIATING MANDATORY FOOD GRAIN FORTIFICATION AND GUIDELINES FOR SFA INTAKE FOR PEOPLE WHO COULD OR HAD BECOME PREGNANT, WITH SUBSEQUENT INCREASES IN BLOOD FOLATE CONCENTRATIONS AND REDUCED NTD PREVALENCE. WHILE GENERALLY REGARDED AS A PUBLIC HEALTH SUCCESS, THE IMPACTS HAVE NOT BEEN EVENLY DISTRIBUTED ACROSS SUB-POPULATIONS WITHIN THE US, WITH HISPANIC POPULATIONS AT HIGHER RISK FOR NTDS, MORE LIKELY TO HAVE SUBOPTIMAL FOLATE STATUS, AND LESS LIKELY TO TAKE SFA. FURTHER, THE BIOLOGIC MECHANISMS BEHIND THIS PROTECTION REMAIN UNCLEAR. PRENATAL SFA AND ADEQUATE FOLATE STATUS HAS SINCE BEEN ASSOCIATED WITH IMPROVED BEHAVIORAL AND LANGUAGE OUTCOMES, HIGHER EXECUTIVE FUNCTIONING, AND REDUCED RISK FOR ATTENTION DEFICIT/HYPERACTIVITY DISORDER (ADHD), AUTISM SPECTRUM DISORDER (ASD) AND ASSOCIATED TRAITS. HIGH FOLATE/SFA HAS ALSO BEEN SHOWN TO ATTENUATE INCREASED RISKS ASSOCIATED WITH SEVERAL CONTAMINANT EXPOSURES THAT ARE MORE PREVALENT IN GROUPS THAT ARE UNDER-REPRESENTED IN RESEARCH AND/OR MORE LIKELY TO HAVE SUB-OPTIMAL FOLATE STATUS AND LESS LIKELY TO MEET SFA INTAKE RECOMMENDATIONS. ONE EXAMPLE INCLUDES PLASTICIZERS IN PERSONAL CARE PRODUCTS THAT ARE MORE PREVALENT IN HISPANIC POPULATIONS AND ARE LINKED TO INCREASED ND RISK WHICH IS ATTENUATED WITH PRENATAL SFA. MANY GAPS IN UNDERSTANDING AND IMPLEMENTATION OF SFA MEASURES NEED TO BE ADDRESSED TO INCREASE THE PUBLIC HEALTH IMPACT OF SFA INTERVENTIONS TO THEIR FULLEST POTENTIAL: 1) HOW DOES THE TIMING OF SFA INITIATION AND ITS ASSOCIATION WITH BLOOD FOLATE DIFFER ACROSS SUBPOPULATIONS? 2) WHAT OTHER CHILD HEALTH OUTCOMES ARE ASSOCIATED WITH PRENATAL SFA AND BLOOD FOLATE? 3) HOW DO THESE ASSOCIATIONS DIFFER BY THE TIMING AND DOSE OF SFA INTAKE? 4) HOW DO DOSES AND TIMING OF SFA AND FOLATE CONCENTRATIONS LINKED WITH IMPROVED CHILD OUTCOMES DIFFER ACROSS PEOPLE WITH DIFFERENT GENETIC, ENVIRONMENTAL, AND NUTRITIONAL BACKGROUNDS? 5) DOES PERICONCEPTIONAL SFA/FOLATE STATUS MODIFY ASSOCIATIONS BETWEEN ENVIRONMENTAL CONTAMINANTS, INCLUDING NOVEL CHEMICALS, AND ND OUTCOMES INCLUDING BEHAVIORAL PROBLEMS AND HIGH AUTISTIC TRAITS? 6) WHAT BIOLOGIC PATHWAYS ARE MODIFIED IN UTERO BY PERICONCEPTIONAL SFA AND SUBOPTIMAL FOLATE STATUS? 7) HOW DO THOSE BIOLOGIC PATHWAYS RELATE TO KNOWN ND PATHWAYS? 8) HOW DOES THE CONCEIVING PARTNER'S PRECONCEPTION FOLATE STATUS RELATE TO PLACENTA EPIGENETICS AND THE CHILD'S OUTCOMES? OUR STRONG TEAM WITH RELEVANT EXPERTISE IN REPRODUCTIVE, ENVIRONMENTAL AND NUTRITIONAL EPIDEMIOLOGY, INTERACTIONS, EPIGENETICS AND ND ASSESSMENT, PLUS AMPLE EXPERIENCE ENGAGING COMMUNITY PARTNERS, WILL RECRUIT 740 EXPECTING FAMILIES IN NORTHERN CALIFORNIA REPRESENTING DIVERSE RACIAL, ETHNIC, SOCIOECONOMIC, GENETIC AND ENVIRONMENTAL BACKGROUNDS TO ENRICH THE ECHO COHORT WITH PARTICIPANTS TRADITIONALLY UNDERREPRESENTED IN RESEARCH TO ADDRESS THESE GAPS AND PRODUCE FINDINGS THAT WILL SUBSTANTIALLY INFORM PUBLIC HEALTH POLICIES FOR MORE EFFECTIVE IMPROVEMENT OF CHILD DEVELOPMENTAL OUTCOMES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-01",
+    "End Date": "2030-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_UH3OD035550_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 172258660,
+    "generated_unique_award_id": "ASST_NON_UH3OD035550_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "PRENATAL ENVIRONMENT AND CHILD HEALTH (PEACH) IN ECHO - PRENATAL ENVIRONMENT AND CHILD HEALTH (PEACH) IN ECHO ABSTRACT FEW MODIFIABLE FACTORS HAVE BEEN IDENTIFIED THAT IMPROVE NEURODEVELOPMENTAL (ND) OUTCOMES. ONE SUCH FACTOR, SUPPLEMENTAL FOLIC ACID (SFA), TAKEN BEFORE AND DURING THE FIRST WEEKS POST-CONCEPTION, REDUCED RISK FOR NEURAL TUBE DEFECTS (NTDS) BY UP TO 70% IN RANDOMIZED TRIALS, INITIATING MANDATORY FOOD GRAIN FORTIFICATION AND GUIDELINES FOR SFA INTAKE FOR PEOPLE WHO COULD OR HAD BECOME PREGNANT, WITH SUBSEQUENT INCREASES IN BLOOD FOLATE CONCENTRATIONS AND REDUCED NTD PREVALENCE. WHILE GENERALLY REGARDED AS A PUBLIC HEALTH SUCCESS, THE IMPACTS HAVE NOT BEEN EVENLY DISTRIBUTED ACROSS SUB-POPULATIONS WITHIN THE US, WITH HISPANIC POPULATIONS AT HIGHER RISK FOR NTDS, MORE LIKELY TO HAVE SUBOPTIMAL FOLATE STATUS, AND LESS LIKELY TO TAKE SFA. FURTHER, THE BIOLOGIC MECHANISMS BEHIND THIS PROTECTION REMAIN UNCLEAR. PRENATAL SFA AND ADEQUATE FOLATE STATUS HAS SINCE BEEN ASSOCIATED WITH IMPROVED BEHAVIORAL AND LANGUAGE OUTCOMES, HIGHER EXECUTIVE FUNCTIONING, AND REDUCED RISK FOR ATTENTION DEFICIT/HYPERACTIVITY DISORDER (ADHD), AUTISM SPECTRUM DISORDER (ASD) AND ASSOCIATED TRAITS. HIGH FOLATE/SFA HAS ALSO BEEN SHOWN TO ATTENUATE INCREASED RISKS ASSOCIATED WITH SEVERAL CONTAMINANT EXPOSURES THAT ARE MORE PREVALENT IN GROUPS THAT ARE UNDER-REPRESENTED IN RESEARCH AND/OR MORE LIKELY TO HAVE SUB-OPTIMAL FOLATE STATUS AND LESS LIKELY TO MEET SFA INTAKE RECOMMENDATIONS. ONE EXAMPLE INCLUDES PLASTICIZERS IN PERSONAL CARE PRODUCTS THAT ARE MORE PREVALENT IN HISPANIC POPULATIONS AND ARE LINKED TO INCREASED ND RISK WHICH IS ATTENUATED WITH PRENATAL SFA. MANY GAPS IN UNDERSTANDING AND IMPLEMENTATION OF SFA MEASURES NEED TO BE ADDRESSED TO INCREASE THE PUBLIC HEALTH IMPACT OF SFA INTERVENTIONS TO THEIR FULLEST POTENTIAL: 1) HOW DOES THE TIMING OF SFA INITIATION AND ITS ASSOCIATION WITH BLOOD FOLATE DIFFER ACROSS SUBPOPULATIONS? 2) WHAT OTHER CHILD HEALTH OUTCOMES ARE ASSOCIATED WITH PRENATAL SFA AND BLOOD FOLATE? 3) HOW DO THESE ASSOCIATIONS DIFFER BY THE TIMING AND DOSE OF SFA INTAKE? 4) HOW DO DOSES AND TIMING OF SFA AND FOLATE CONCENTRATIONS LINKED WITH IMPROVED CHILD OUTCOMES DIFFER ACROSS PEOPLE WITH DIFFERENT GENETIC, ENVIRONMENTAL, AND NUTRITIONAL BACKGROUNDS? 5) DOES PERICONCEPTIONAL SFA/FOLATE STATUS MODIFY ASSOCIATIONS BETWEEN ENVIRONMENTAL CONTAMINANTS, INCLUDING NOVEL CHEMICALS, AND ND OUTCOMES INCLUDING BEHAVIORAL PROBLEMS AND HIGH AUTISTIC TRAITS? 6) WHAT BIOLOGIC PATHWAYS ARE MODIFIED IN UTERO BY PERICONCEPTIONAL SFA AND SUBOPTIMAL FOLATE STATUS? 7) HOW DO THOSE BIOLOGIC PATHWAYS RELATE TO KNOWN ND PATHWAYS? 8) HOW DOES THE CONCEIVING PARTNER'S PRECONCEPTION FOLATE STATUS RELATE TO PLACENTA EPIGENETICS AND THE CHILD'S OUTCOMES? OUR STRONG TEAM WITH RELEVANT EXPERTISE IN REPRODUCTIVE, ENVIRONMENTAL AND NUTRITIONAL EPIDEMIOLOGY, INTERACTIONS, EPIGENETICS AND ND ASSESSMENT, PLUS AMPLE EXPERIENCE ENGAGING COMMUNITY PARTNERS, WILL RECRUIT 740 EXPECTING FAMILIES IN NORTHERN CALIFORNIA REPRESENTING DIVERSE RACIAL, ETHNIC, SOCIOECONOMIC, GENETIC AND ENVIRONMENTAL BACKGROUNDS TO ENRICH THE ECHO COHORT WITH PARTICIPANTS TRADITIONALLY UNDERREPRESENTED IN RESEARCH TO ADDRESS THESE GAPS AND PRODUCE FINDINGS THAT WILL SUBSTANTIALLY INFORM PUBLIC HEALTH POLICIES FOR MORE EFFECTIVE IMPROVEMENT OF CHILD DEVELOPMENTAL OUTCOMES.",
+    "total_obligation": 1973808,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-06-06",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 19978.42,
+    "total_account_obligation": 1973808,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 19978.42
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1973808
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2030-05-31",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 19978.42
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 170326291,
+    "Award ID": "2445609",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 1293270,
+    "Total Outlays": 0,
+    "Description": "INTEGRATING LARGE DATA-DRIVEN EXPLORATIONS IN COMPUTATIONAL ENVIRONMENTAL SCIENCES -BOTH DATA MODELING AND AGENT-BASED MODELING HAVE BEEN FOUND TO BE PROMISING WAYS TO INTEGRATE COMPUTING WITHIN THE SCIENCE CURRICULUM TO EXPLORE THESE TYPES OF COMPLEX SYSTEMS, AND THEY ARE BECOMING PART OF STANDARDS AND CURRICULA IN THEIR OWN RIGHT. HOWEVER, THERE ARE STILL SIGNIFICANT CHALLENGES IN LEARNING THE DISTINCT TECHNOLOGIES AND PEDAGOGICAL APPROACHES REQUIRED TO SUCCESSFULLY INTEGRATE THESE TYPES OF MODELING INTO CLASSROOM INSTRUCTION. THIS PROJECT SEEKS TO DEVELOP NEW TECHNOLOGICAL AND PEDAGOGICAL FRAMEWORKS THAT CAN BE USED TO LINK THESE TWO FORMS OF MODELING, LOWERING BARRIERS AND OFFERING MULTIPLE POINTS FOR ENTRY INTO COMPUTING FOR BOTH TEACHERS AND STUDENTS. IN THIS PROJECT, MIDDLE SCHOOL STUDENTS WILL EXPLORE ENVIRONMENTAL SCIENCE USING DATA MODELING AND AGENT-BASED MODELING. THEY WILL ALSO LEARN ABOUT STEM CAREER PATHWAYS THROUGH SESSIONS WITH COMPUTATIONAL ENVIRONMENTAL SCIENTISTS. BY CONNECTING THESE PRACTICING SCIENTISTS WITH MIDDLE SCHOOL STUDENTS, THE PROJECT WILL INTRODUCE COMPUTING AS RELEVANT AND IMPORTANT, MODEL SCIENCE CAREERS AS MEANINGFUL, AND FOSTER A SENSE OF SHARED IDENTITY FOR STUDENTS. TARGETING MIDDLE SCHOOL IS CRUCIAL BECAUSE THIS IS WHEN STUDENTS? CAREER ASPIRATIONS ARE SHAPED, AND WHEN THEIR STEM INTEREST AND PARTICIPATION DROP STEEPLY. THE PROJECT WILL DESIGN THREE TECHNOLOGY-RICH UNITS THAT INTEGRATE DATA AND COMPUTATIONAL MODELING TO EXPLORE ENVIRONMENTAL ISSUES USING TWO EXISTING FREE, WEB-BASED SOFTWARE TOOLS THAT ARE ALREADY USED BY MANY MIDDLE SCHOOL STUDENTS AND TEACHERS. THE COMMON ONLINE DATA ANALYSIS PLATFORM (CODAP) IS A FREE EDUCATIONAL APP FOR DATA ANALYSIS; MODELING + DATA (MODA) IS A PLATFORM FOR STUDENTS TO EASILY PROGRAM ABMS USING DOMAIN-SPECIFIC BLOCKS, AND COMPARE THEM WITH REAL-WORLD DATA FOR VALIDATION. BOTH TOOLS WERE DEVELOPED THROUGH PRIOR NSF AWARDS. THE DEVELOPED ?ZOOM-IN ON SCIENCE SESSIONS? LEARNING PROGRAM WILL INTRODUCE STUDENTS TO THE NATURE OF COMPUTATIONAL SCIENCES AND CAREER PATHWAYS IN THE COMPUTATIONAL SCIENCES BY BRINGING ENVIRONMENTAL SCIENTISTS TO CLASSROOMS IN PERSON OR VIRTUALLY. USING DESIGN-BASED RESEARCH METHODOLOGIES, ARTIFACT ANALYSIS, SURVEYS, INTERVIEWS, AND SCREEN RECORDINGS/CLASSROOM OBSERVATIONS, THE PROJECT TEAM WILL STUDY STRATEGIES TO BROADEN PARTICIPATION IN COMPUTING THROUGH CONSEQUENTIAL CONTENT AND INTEGRATED MENTORSHIP BY ADDRESSING THE QUESTIONS I) HOW DO CURRICULAR UNITS FOCUSED ON ENVIRONMENTAL ISSUES ENGAGE STUDENTS IN COMPUTING PRACTICES TO GENERATE SCIENTIFIC EXPLANATIONS? AND II) HOW DO THESE ACTIVITIES, INTEGRATED WITH ZOOM-IN-ON SCIENCE SESSIONS, IMPACT STUDENTS? SELF-EFFICACY, ATTRIBUTED VALUES, AND SENSE OF IDENTITY TOWARDS SCIENCE AND COMPUTING? THE PROJECT AIMS TO INVOLVE 10 IN-SERVICE TEACHERS AND DIRECTLY IMPACT APPROXIMATELY 500 STUDENTS FROM 4 PARTNERING MIDDLE SCHOOLS. THIS PROJECT IS FUNDED BY THE INNOVATIVE TECHNOLOGY EXPERIENCES FOR STUDENTS AND TEACHERS (ITEST) PROGRAM, WHICH SUPPORTS PROJECTS THAT BUILD UNDERSTANDINGS OF PRACTICES, PROGRAM ELEMENTS, CONTEXTS AND PROCESSES CONTRIBUTING TO INCREASING STUDENTS' KNOWLEDGE AND INTEREST IN SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS (STEM) AND INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) CAREERS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "1608 4TH ST STE 201",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1749",
+      "zip5": "94710"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94710-1749",
+      "zip5": "94710"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-05-01",
+    "End Date": "2028-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2445609_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 170326291,
+    "generated_unique_award_id": "ASST_NON_2445609_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INTEGRATING LARGE DATA-DRIVEN EXPLORATIONS IN COMPUTATIONAL ENVIRONMENTAL SCIENCES -BOTH DATA MODELING AND AGENT-BASED MODELING HAVE BEEN FOUND TO BE PROMISING WAYS TO INTEGRATE COMPUTING WITHIN THE SCIENCE CURRICULUM TO EXPLORE THESE TYPES OF COMPLEX SYSTEMS, AND THEY ARE BECOMING PART OF STANDARDS AND CURRICULA IN THEIR OWN RIGHT. HOWEVER, THERE ARE STILL SIGNIFICANT CHALLENGES IN LEARNING THE DISTINCT TECHNOLOGIES AND PEDAGOGICAL APPROACHES REQUIRED TO SUCCESSFULLY INTEGRATE THESE TYPES OF MODELING INTO CLASSROOM INSTRUCTION. THIS PROJECT SEEKS TO DEVELOP NEW TECHNOLOGICAL AND PEDAGOGICAL FRAMEWORKS THAT CAN BE USED TO LINK THESE TWO FORMS OF MODELING, LOWERING BARRIERS AND OFFERING MULTIPLE POINTS FOR ENTRY INTO COMPUTING FOR BOTH TEACHERS AND STUDENTS. IN THIS PROJECT, MIDDLE SCHOOL STUDENTS WILL EXPLORE ENVIRONMENTAL SCIENCE USING DATA MODELING AND AGENT-BASED MODELING. THEY WILL ALSO LEARN ABOUT STEM CAREER PATHWAYS THROUGH SESSIONS WITH COMPUTATIONAL ENVIRONMENTAL SCIENTISTS. BY CONNECTING THESE PRACTICING SCIENTISTS WITH MIDDLE SCHOOL STUDENTS, THE PROJECT WILL INTRODUCE COMPUTING AS RELEVANT AND IMPORTANT, MODEL SCIENCE CAREERS AS MEANINGFUL, AND FOSTER A SENSE OF SHARED IDENTITY FOR STUDENTS. TARGETING MIDDLE SCHOOL IS CRUCIAL BECAUSE THIS IS WHEN STUDENTS? CAREER ASPIRATIONS ARE SHAPED, AND WHEN THEIR STEM INTEREST AND PARTICIPATION DROP STEEPLY. THE PROJECT WILL DESIGN THREE TECHNOLOGY-RICH UNITS THAT INTEGRATE DATA AND COMPUTATIONAL MODELING TO EXPLORE ENVIRONMENTAL ISSUES USING TWO EXISTING FREE, WEB-BASED SOFTWARE TOOLS THAT ARE ALREADY USED BY MANY MIDDLE SCHOOL STUDENTS AND TEACHERS. THE COMMON ONLINE DATA ANALYSIS PLATFORM (CODAP) IS A FREE EDUCATIONAL APP FOR DATA ANALYSIS; MODELING + DATA (MODA) IS A PLATFORM FOR STUDENTS TO EASILY PROGRAM ABMS USING DOMAIN-SPECIFIC BLOCKS, AND COMPARE THEM WITH REAL-WORLD DATA FOR VALIDATION. BOTH TOOLS WERE DEVELOPED THROUGH PRIOR NSF AWARDS. THE DEVELOPED ?ZOOM-IN ON SCIENCE SESSIONS? LEARNING PROGRAM WILL INTRODUCE STUDENTS TO THE NATURE OF COMPUTATIONAL SCIENCES AND CAREER PATHWAYS IN THE COMPUTATIONAL SCIENCES BY BRINGING ENVIRONMENTAL SCIENTISTS TO CLASSROOMS IN PERSON OR VIRTUALLY. USING DESIGN-BASED RESEARCH METHODOLOGIES, ARTIFACT ANALYSIS, SURVEYS, INTERVIEWS, AND SCREEN RECORDINGS/CLASSROOM OBSERVATIONS, THE PROJECT TEAM WILL STUDY STRATEGIES TO BROADEN PARTICIPATION IN COMPUTING THROUGH CONSEQUENTIAL CONTENT AND INTEGRATED MENTORSHIP BY ADDRESSING THE QUESTIONS I) HOW DO CURRICULAR UNITS FOCUSED ON ENVIRONMENTAL ISSUES ENGAGE STUDENTS IN COMPUTING PRACTICES TO GENERATE SCIENTIFIC EXPLANATIONS? AND II) HOW DO THESE ACTIVITIES, INTEGRATED WITH ZOOM-IN-ON SCIENCE SESSIONS, IMPACT STUDENTS? SELF-EFFICACY, ATTRIBUTED VALUES, AND SENSE OF IDENTITY TOWARDS SCIENCE AND COMPUTING? THE PROJECT AIMS TO INVOLVE 10 IN-SERVICE TEACHERS AND DIRECTLY IMPACT APPROXIMATELY 500 STUDENTS FROM 4 PARTNERING MIDDLE SCHOOLS. THIS PROJECT IS FUNDED BY THE INNOVATIVE TECHNOLOGY EXPERIENCES FOR STUDENTS AND TEACHERS (ITEST) PROGRAM, WHICH SUPPORTS PROJECTS THAT BUILD UNDERSTANDINGS OF PRACTICES, PROGRAM ELEMENTS, CONTEXTS AND PROCESSES CONTRIBUTING TO INCREASING STUDENTS' KNOWLEDGE AND INTEREST IN SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS (STEM) AND INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) CAREERS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "total_obligation": 1293270,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-04-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 1293270,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1293270
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF RESEARCH ON LEARNING IN"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF RESEARCH ON LEARNING IN"
+    },
+    "period_of_performance": {
+      "start_date": "2025-05-01",
+      "end_date": "2028-04-30",
+      "last_modified_date": "2025-05-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1608 4TH ST STE 201",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "1749",
+        "zip5": "94710",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "1749",
+      "zip5": "94710",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57408340,
+    "Award ID": "23A60HG000015",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 5999908,
+    "Total Outlays": 998694.43,
+    "Description": "LEAD APPLICANT ORGANIZATION NAME: BETTY IRENE MOORE SCHOOL OF NURSING AT UC, DAVIS LEAD APPLICANT ORGANIZATION TYPE: EDUCATION TRAINING PROVIDER-PUBLIC SCHOOL OF NURSING LEAD APPLICANT LOCATION (CITY AND STATE): SACRAMENTO, CALIFORNIA NAMES OF REQUIRED PARTNERS: EDUCATION TRAINING PARTNER UNIVERSITY OF CA, DAVIS EMPLOYER PARTNERS: 1) CAL POLY HUMBOLDT, 2) CSU, SACRAMENTO, 3) CSU, SONOMA, 4) AMERICAN RIVER COLLEGE, 5) SACRAMENTO CITY COLLEGE,   6) UNIVERSITY OF CA, SAN FRANCISCO WORKFORCE DEVELOPMENT: HEALTHIMPACT   CA ORGANIZATION OF ASSOCIATE DEGREE NURSING WORKER ORGANIZATIONS: CAPITAL CITY BLACK NURSES ASSOCIATION   NATIONAL ASSOCIATION OFHISPANIC NURSES, SACRAMENTO CHAPTER GEOGRAPHIC SCOPE1) LOCAL REGIONAL: RURAL AND UNDERSERVED COUNTIES IN NORTHERN CALIFORNIA REGION2) SPECIFIC LOCATIONS: SACRAMENTO, YOLO, SONOMA, HUMBOLDT, BUTTE, GLEN, SHASTA, YUBA, EL DORADO, SUTTER, AMADOR, PLACER, SISKIYOU, AND DEL NORTE COUNTIES TOTAL FEDERAL FUNDING REQUESTED:  5,999,708 TOTAL MATCH PROPOSED:  1,879,880 PROJECT TITLE: RESIDENCY IN EDUCATION, TEACHING, AND INSTRUCTION IN NURSING (RETAIN) PROPOSED NUMBER OF PARTICIPANTS WHO START TRAINING: 68 SUMMARY OF GRANT PURPOSE AND EMPLOYMENT AND TRAINING ACTIVITIES OFFERED: THE PURPOSE OF THIS GRANT IS TO INCREASE THE NUMBERS OF ACADEMICALLY TRAINED NURSE FACULTY AND CLINICAL INSTRUCTORS IN RURAL AND URBAN UNDERSERVED AREAS OF NORTHERN CALIFORNIA. WORKING WITH PARTNER ORGANIZATIONS, FINALIZE THE DESIGN OF RETAIN AND ESTABLISH THE GRANT INFRASTRUCTURE. WE WILL RECRUIT 20 NURSES TO PARTICIPATE IN A 12-MONTH LIMITED TERM, FULLY BENEFITTED FACULTY POSITION AS NURSE FACULTY RESIDENTS (NFRS). THE NFRS WILL SPEND 50  OF THEIR TIME COMPLETING A GRADUATE DEGREE AND 50  CO-TEACHING WITH A MENTOR AND COMPLETING A GRADUATE ACADEMIC CERTIFICATE (GAC) IN EDUCATION. THE GRANT WILL PAY SALARIES, SOME SUPPORT SERVICES, AND  50,000 TOWARD TUITION FOR EACH PARTICIPANT. AN ADDITIONAL 48 NURSES WILL PARTICIPATE IN A 6-MONTH CLINICAL INSTRUCTOR INTERNSHIP (CI2). THEY WILL ALSO COMPLETE PORTIONS OF THE GAC, BE MENTORED BY AN EXPERIENCED CLINICAL INSTRUCTOR AND PAID A STIPEND. UPON PROGRAM COMPLETION, ALL WILL BE ELIGIBLE TO SIT FOR ONE OF THE NATIONAL LEAGUE FOR NURSING CNE CERTIFICATION EXAMS. TARGET POPULATION(S) TO BE SERVED: UNDEREMPLOYED NURSES (PART-TIME, RETIRED)  INCUMBENTWORKERS (NON-FACULTY NURSES)  HISTORICALLY MARGINALIZED AND UNDERREPRESENTED POPULATIONS INRURAL AND URBAN UNDERSERVED AREAS OF NORTHERN CALIFORNIA THE SELECTED TRAINING TRACK: NURSE EDUCATION PROFESSIONAL TARGETED H-1B OCCUPATIONS: ASSOCIATES, BACHELORS, OR MASTERS PREPARED REGISTERED NURSES(RNS) (O NET CODE 29-1141.00 TO 29-1141.03), NURSE PRACTITIONERS (O NET CODE 29-1171.00) AND CLINICAL NURSE SPECIALISTS (CNSS) (O NET CODE 29-1141.04) RECOGNIZED POSTSECONDARY CREDENTIALS OFFERED: MASTERS DEGREE, DOCTOR OF NURSING PRACTICE, PHD IN NURSING, GRADUATE ACADEMIC CERTIFICATE IN EDUCATION SUBRECIPIENT ROLES: PARTNERS ARE EMPLOYERS, PROVIDE STUDENTS, AND SIT ON ADVISORY COUNCIL. NEW OR EXISTING PROGRAM(S): THIS IS A NEW TRAINING PROGRAM THAT WILL INCREASE THE NUMBERS OF NURSE FACULTY AND CLINICAL INSTRUCTORS IN NORTHERN CALIFORNIA. PUBLIC CONTACT INFORMATION: DEB BAKERJIAN PHD, APRN, FAANP, FGSA, FWAN, FAANINTERIM ASSOCIATE DEAN FOR PRACTICE AND CLINICAL PROFESSOR 2570 48TH STREET, SACRAMENTO, CA 95817 916.734.7124 DBAKERJIAN UCDAVIS.EDU",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": "VC RESEARCH",
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Labor",
+    "Awarding Sub Agency": "Employment and Training Administration",
+    "Start Date": "2023-06-01",
+    "End Date": "2028-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_23A60HG000015_1601",
+    "awarding_agency_id": 267,
+    "agency_slug": "department-of-labor",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57408340,
+    "generated_unique_award_id": "ASST_NON_23A60HG000015_1601",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "LEAD APPLICANT ORGANIZATION NAME: BETTY IRENE MOORE SCHOOL OF NURSING AT UC, DAVIS LEAD APPLICANT ORGANIZATION TYPE: EDUCATION TRAINING PROVIDER-PUBLIC SCHOOL OF NURSING LEAD APPLICANT LOCATION (CITY AND STATE): SACRAMENTO, CALIFORNIA NAMES OF REQUIRED PARTNERS: EDUCATION TRAINING PARTNER UNIVERSITY OF CA, DAVIS EMPLOYER PARTNERS: 1) CAL POLY HUMBOLDT, 2) CSU, SACRAMENTO, 3) CSU, SONOMA, 4) AMERICAN RIVER COLLEGE, 5) SACRAMENTO CITY COLLEGE,   6) UNIVERSITY OF CA, SAN FRANCISCO WORKFORCE DEVELOPMENT: HEALTHIMPACT   CA ORGANIZATION OF ASSOCIATE DEGREE NURSING WORKER ORGANIZATIONS: CAPITAL CITY BLACK NURSES ASSOCIATION   NATIONAL ASSOCIATION OFHISPANIC NURSES, SACRAMENTO CHAPTER GEOGRAPHIC SCOPE1) LOCAL REGIONAL: RURAL AND UNDERSERVED COUNTIES IN NORTHERN CALIFORNIA REGION2) SPECIFIC LOCATIONS: SACRAMENTO, YOLO, SONOMA, HUMBOLDT, BUTTE, GLEN, SHASTA, YUBA, EL DORADO, SUTTER, AMADOR, PLACER, SISKIYOU, AND DEL NORTE COUNTIES TOTAL FEDERAL FUNDING REQUESTED:  5,999,708 TOTAL MATCH PROPOSED:  1,879,880 PROJECT TITLE: RESIDENCY IN EDUCATION, TEACHING, AND INSTRUCTION IN NURSING (RETAIN) PROPOSED NUMBER OF PARTICIPANTS WHO START TRAINING: 68 SUMMARY OF GRANT PURPOSE AND EMPLOYMENT AND TRAINING ACTIVITIES OFFERED: THE PURPOSE OF THIS GRANT IS TO INCREASE THE NUMBERS OF ACADEMICALLY TRAINED NURSE FACULTY AND CLINICAL INSTRUCTORS IN RURAL AND URBAN UNDERSERVED AREAS OF NORTHERN CALIFORNIA. WORKING WITH PARTNER ORGANIZATIONS, FINALIZE THE DESIGN OF RETAIN AND ESTABLISH THE GRANT INFRASTRUCTURE. WE WILL RECRUIT 20 NURSES TO PARTICIPATE IN A 12-MONTH LIMITED TERM, FULLY BENEFITTED FACULTY POSITION AS NURSE FACULTY RESIDENTS (NFRS). THE NFRS WILL SPEND 50  OF THEIR TIME COMPLETING A GRADUATE DEGREE AND 50  CO-TEACHING WITH A MENTOR AND COMPLETING A GRADUATE ACADEMIC CERTIFICATE (GAC) IN EDUCATION. THE GRANT WILL PAY SALARIES, SOME SUPPORT SERVICES, AND  50,000 TOWARD TUITION FOR EACH PARTICIPANT. AN ADDITIONAL 48 NURSES WILL PARTICIPATE IN A 6-MONTH CLINICAL INSTRUCTOR INTERNSHIP (CI2). THEY WILL ALSO COMPLETE PORTIONS OF THE GAC, BE MENTORED BY AN EXPERIENCED CLINICAL INSTRUCTOR AND PAID A STIPEND. UPON PROGRAM COMPLETION, ALL WILL BE ELIGIBLE TO SIT FOR ONE OF THE NATIONAL LEAGUE FOR NURSING CNE CERTIFICATION EXAMS. TARGET POPULATION(S) TO BE SERVED: UNDEREMPLOYED NURSES (PART-TIME, RETIRED)  INCUMBENTWORKERS (NON-FACULTY NURSES)  HISTORICALLY MARGINALIZED AND UNDERREPRESENTED POPULATIONS INRURAL AND URBAN UNDERSERVED AREAS OF NORTHERN CALIFORNIA THE SELECTED TRAINING TRACK: NURSE EDUCATION PROFESSIONAL TARGETED H-1B OCCUPATIONS: ASSOCIATES, BACHELORS, OR MASTERS PREPARED REGISTERED NURSES(RNS) (O NET CODE 29-1141.00 TO 29-1141.03), NURSE PRACTITIONERS (O NET CODE 29-1171.00) AND CLINICAL NURSE SPECIALISTS (CNSS) (O NET CODE 29-1141.04) RECOGNIZED POSTSECONDARY CREDENTIALS OFFERED: MASTERS DEGREE, DOCTOR OF NURSING PRACTICE, PHD IN NURSING, GRADUATE ACADEMIC CERTIFICATE IN EDUCATION SUBRECIPIENT ROLES: PARTNERS ARE EMPLOYERS, PROVIDE STUDENTS, AND SIT ON ADVISORY COUNCIL. NEW OR EXISTING PROGRAM(S): THIS IS A NEW TRAINING PROGRAM THAT WILL INCREASE THE NUMBERS OF NURSE FACULTY AND CLINICAL INSTRUCTORS IN NORTHERN CALIFORNIA. PUBLIC CONTACT INFORMATION: DEB BAKERJIAN PHD, APRN, FAANP, FGSA, FWAN, FAANINTERIM ASSOCIATE DEAN FOR PRACTICE AND CLINICAL PROFESSOR 2570 48TH STREET, SACRAMENTO, CA 95817 916.734.7124 DBAKERJIAN UCDAVIS.EDU",
+    "total_obligation": 5999908,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-05-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1089707.21,
+    "total_account_obligation": 5999908,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1089707.21
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 5999908
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 291,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Labor",
+        "code": "1601",
+        "abbreviation": "DOL",
+        "slug": "department-of-labor"
+      },
+      "subtier_agency": {
+        "name": "Employment and Training Administration",
+        "code": "1630",
+        "abbreviation": "ETA"
+      },
+      "office_agency_name": "OFFICE OF WORKFORCE INVESTMENT"
+    },
+    "awarding_agency": {
+      "id": 291,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Labor",
+        "code": "1601",
+        "abbreviation": "DOL",
+        "slug": "department-of-labor"
+      },
+      "subtier_agency": {
+        "name": "Employment and Training Administration",
+        "code": "1630",
+        "abbreviation": "ETA"
+      },
+      "office_agency_name": "DOL (ETA) GRANTS MANAGEMENT"
+    },
+    "period_of_performance": {
+      "start_date": "2023-06-01",
+      "end_date": "2028-05-31",
+      "last_modified_date": "2025-08-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": "VC RESEARCH",
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "90",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1089707.21
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91156301,
+    "Award ID": "R01CA294557",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1269486,
+    "Total Outlays": 509741.01,
+    "Description": "DEVELOPMENT OF NOVEL NANOTHERAPEUTICS TO OVERCOME THERAPY RESISTANCE USING CANINE BRAIN TUMOR AS A SPONTANEOUS MODEL - TITLE: DEVELOPMENT OF NOVEL NANOTHERAPEUTICS TO OVERCOME THERAPY RESISTANCE USING CANINE BRAIN TUMOR AS A SPONTANEOUS MODEL PROJECT SUMMARY/ABSTRACT HIGH-GRADE GLIOMAS (HGGS), INCLUDING GLIOBLASTOMA (GBM), ARE UNIFORMLY FATAL PRIMARY BRAIN TUMORS. DESPITE DECADES OF RESEARCH, THERE HAVE BEEN ALMOST NO REGULATORY DRUG APPROVALS FOR TREATMENT OF GBM IN THE UNITED STATES SINCE BEVACIZUMAB IN 2009. THE LACK OF THERAPEUTIC ADVANCEMENT HIGHLIGHTS THERAPEUTIC RESISTANCE OF HGG AND THE DEPENDENCY ON PRECLINICAL RODENT MODELS THAT DO NOT FAITHFULLY RECAPITULATE THE HETEROGENEITY AND COMPLEXITY OF HUMAN TUMORS. TO ADDRESS THESE UNMET NEEDS, THE GOAL OF THIS APPLICATION IS TO DEVELOP NOVEL NANOTHERAPEUTICS TO OVERCOME THERAPY RESISTANCE USING COMPANION DOGS WITH HGG AS A SPONTANEOUS MODEL. THE CURRENT STANDARD-OF-CARE THERAPIES FOR PRIMARY OR RECURRENT HGG CAUSE AUTOPHAGY INDUCTION AND RESULT IN CELL RESISTANCE AND ENHANCEMENT OF STEMNESS FEATURES. GLIOMA STEM-LIKE CELLS (GSCS) HAVE BEEN LINKED TO TUMOR RECURRENCE AND DRUG RESISTANCE. ENRICHMENT OF GSCS AFTER CHEMOTHERAPY IS ASSOCIATED WITH MORE AGGRESSIVE TUMOR REBOUND. GLIOMA CELLS, PARTICULARLY GSCS, HIGHLY RELY ON ELEVATED AUTOPHAGY. THEREFORE, AUTOPHAGY IS A PROMISING TARGET IN HGG TO IMPROVE TREATMENT AND OVERCOME THERAPY RESISTANCE. AMINOQUINOLINE DRUGS, CHLOROQUINE (CQ) OR HYDROXYCHLOROQUINE (HCQ), HAVE BEEN TESTED IN SEVERAL CLINICAL TRIALS AS AUTOPHAGY INHIBITORS AND DEMONSTRATED THEIR POSITIVE EFFECT IN IMPROVEMENT OF MEDIAN SURVIVAL OF PATIENTS AFTER RADIATION/TEMOZOLOMIDE TREATMENTS. HOWEVER, CQ/HCQ SUFFERS FROM LIMITED POTENCY IN INHIBITING AUTOPHAGY, ADVERSE EFFECTS AT THERAPEUTIC DOSE LEVEL, AND NON-SPECIFIC DELIVERY PROFILES. FURTHERMORE, THE BLOOD-BRAIN BARRIER/BLOOD-BRAIN TUMOR BARRIER (BBB/BBTB) POSES A UNIQUE CHALLENGE FOR SUCCESSFUL THERAPEUTIC DELIVERY TO BRAIN TUMORS. RECENTLY, WE HAVE DEVELOPED A SERIES OF NOVEL BISAMINOQUINOLINE DERIVATIVES (BAQD) BY PHARMACOPHORE HYBRIDIZATION APPROACH. BAQDS HAVE OUTSTANDING AUTOPHAGY INHIBITING- AND LYSOSOMAL DISRUPTING- CAPABILITIES AND ARE 30-50 TIMES MORE POTENT THAN CQ AND HCQ. THE LEAD BAQD IS UNDERGOING IND SUBMISSION (#165331) FOR FIRST-IN- HUMAN CLINICAL TRIALS IN 2024. WE ALSO DEVELOPED NOVEL BBB/BBTB-TRAVERSING AND TUMOR-PENETRATING NANOPARTICLES (BTNS) TO SIGNIFICANTLY IMPROVE THE DRUG DELIVERY TO BRAIN TUMORS. IN THIS PROPOSAL, WE PLAN TO 1) DEVELOP A SERIES OF BAQD LOADED BTNS (BTN@BAQD) AND INVESTIGATE THEIR EFFECT IN REVERSING DRUG RESISTANCE AND CANCER STEMNESS IN HGGS, 2) EVALUATE THEIR DELIVERY EFFICIENCY AND ANTITUMOR EFFICACY IN ORTHOTOPIC GLIOMA RODENT MODELS, AND 3) ULTIMATELY DETERMINE THE PHARMACOKINETICS (PK), TOXICITY, TUMOR UPTAKE AND THERAPEUTIC RESPONSE OF SELECTED BTN@BAQD IN DOGS WITH SPONTANEOUS HGG. SN-38, A HIGHLY POTENT METABOLITE OF IRINOTECAN WILL BE CO-LOADED INTO BTN@BAQD TO KILL BULK GLIOMA CELLS. WE ANTICIPATE THAT OUR BAQD LOADED NANOPARTICLES CAN EFFICACIOUSLY IMPROVE THE TREATMENT OF BRAIN TUMOR THROUGH EFFECTIVE AUTOPHAGY INHIBITION BY POTENT BAQD AND EFFICIENT DELIVERY OF HIGH CONCENTRATIONS OF DRUGS TO GLIOMAS BY OUR UNIQUE BTN STRATEGY, RESPECTIVELY. OUR TEAM’S EXPERTISE IN CGMP NANOPARTICLE PRODUCTION AND SUCCESSFUL EXPERIENCE IN MOVING A NANOFORMULATION INTO CLINICAL TRIALS (NCT05519241) WILL FACILITATE THE CLINICAL TRANSLATION OF THE BTN@BAQD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172217",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-07-01",
+    "End Date": "2028-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA294557_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91156301,
+    "generated_unique_award_id": "ASST_NON_R01CA294557_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DEVELOPMENT OF NOVEL NANOTHERAPEUTICS TO OVERCOME THERAPY RESISTANCE USING CANINE BRAIN TUMOR AS A SPONTANEOUS MODEL - TITLE: DEVELOPMENT OF NOVEL NANOTHERAPEUTICS TO OVERCOME THERAPY RESISTANCE USING CANINE BRAIN TUMOR AS A SPONTANEOUS MODEL PROJECT SUMMARY/ABSTRACT HIGH-GRADE GLIOMAS (HGGS), INCLUDING GLIOBLASTOMA (GBM), ARE UNIFORMLY FATAL PRIMARY BRAIN TUMORS. DESPITE DECADES OF RESEARCH, THERE HAVE BEEN ALMOST NO REGULATORY DRUG APPROVALS FOR TREATMENT OF GBM IN THE UNITED STATES SINCE BEVACIZUMAB IN 2009. THE LACK OF THERAPEUTIC ADVANCEMENT HIGHLIGHTS THERAPEUTIC RESISTANCE OF HGG AND THE DEPENDENCY ON PRECLINICAL RODENT MODELS THAT DO NOT FAITHFULLY RECAPITULATE THE HETEROGENEITY AND COMPLEXITY OF HUMAN TUMORS. TO ADDRESS THESE UNMET NEEDS, THE GOAL OF THIS APPLICATION IS TO DEVELOP NOVEL NANOTHERAPEUTICS TO OVERCOME THERAPY RESISTANCE USING COMPANION DOGS WITH HGG AS A SPONTANEOUS MODEL. THE CURRENT STANDARD-OF-CARE THERAPIES FOR PRIMARY OR RECURRENT HGG CAUSE AUTOPHAGY INDUCTION AND RESULT IN CELL RESISTANCE AND ENHANCEMENT OF STEMNESS FEATURES. GLIOMA STEM-LIKE CELLS (GSCS) HAVE BEEN LINKED TO TUMOR RECURRENCE AND DRUG RESISTANCE. ENRICHMENT OF GSCS AFTER CHEMOTHERAPY IS ASSOCIATED WITH MORE AGGRESSIVE TUMOR REBOUND. GLIOMA CELLS, PARTICULARLY GSCS, HIGHLY RELY ON ELEVATED AUTOPHAGY. THEREFORE, AUTOPHAGY IS A PROMISING TARGET IN HGG TO IMPROVE TREATMENT AND OVERCOME THERAPY RESISTANCE. AMINOQUINOLINE DRUGS, CHLOROQUINE (CQ) OR HYDROXYCHLOROQUINE (HCQ), HAVE BEEN TESTED IN SEVERAL CLINICAL TRIALS AS AUTOPHAGY INHIBITORS AND DEMONSTRATED THEIR POSITIVE EFFECT IN IMPROVEMENT OF MEDIAN SURVIVAL OF PATIENTS AFTER RADIATION/TEMOZOLOMIDE TREATMENTS. HOWEVER, CQ/HCQ SUFFERS FROM LIMITED POTENCY IN INHIBITING AUTOPHAGY, ADVERSE EFFECTS AT THERAPEUTIC DOSE LEVEL, AND NON-SPECIFIC DELIVERY PROFILES. FURTHERMORE, THE BLOOD-BRAIN BARRIER/BLOOD-BRAIN TUMOR BARRIER (BBB/BBTB) POSES A UNIQUE CHALLENGE FOR SUCCESSFUL THERAPEUTIC DELIVERY TO BRAIN TUMORS. RECENTLY, WE HAVE DEVELOPED A SERIES OF NOVEL BISAMINOQUINOLINE DERIVATIVES (BAQD) BY PHARMACOPHORE HYBRIDIZATION APPROACH. BAQDS HAVE OUTSTANDING AUTOPHAGY INHIBITING- AND LYSOSOMAL DISRUPTING- CAPABILITIES AND ARE 30-50 TIMES MORE POTENT THAN CQ AND HCQ. THE LEAD BAQD IS UNDERGOING IND SUBMISSION (#165331) FOR FIRST-IN- HUMAN CLINICAL TRIALS IN 2024. WE ALSO DEVELOPED NOVEL BBB/BBTB-TRAVERSING AND TUMOR-PENETRATING NANOPARTICLES (BTNS) TO SIGNIFICANTLY IMPROVE THE DRUG DELIVERY TO BRAIN TUMORS. IN THIS PROPOSAL, WE PLAN TO 1) DEVELOP A SERIES OF BAQD LOADED BTNS (BTN@BAQD) AND INVESTIGATE THEIR EFFECT IN REVERSING DRUG RESISTANCE AND CANCER STEMNESS IN HGGS, 2) EVALUATE THEIR DELIVERY EFFICIENCY AND ANTITUMOR EFFICACY IN ORTHOTOPIC GLIOMA RODENT MODELS, AND 3) ULTIMATELY DETERMINE THE PHARMACOKINETICS (PK), TOXICITY, TUMOR UPTAKE AND THERAPEUTIC RESPONSE OF SELECTED BTN@BAQD IN DOGS WITH SPONTANEOUS HGG. SN-38, A HIGHLY POTENT METABOLITE OF IRINOTECAN WILL BE CO-LOADED INTO BTN@BAQD TO KILL BULK GLIOMA CELLS. WE ANTICIPATE THAT OUR BAQD LOADED NANOPARTICLES CAN EFFICACIOUSLY IMPROVE THE TREATMENT OF BRAIN TUMOR THROUGH EFFECTIVE AUTOPHAGY INHIBITION BY POTENT BAQD AND EFFICIENT DELIVERY OF HIGH CONCENTRATIONS OF DRUGS TO GLIOMAS BY OUR UNIQUE BTN STRATEGY, RESPECTIVELY. OUR TEAM’S EXPERTISE IN CGMP NANOPARTICLE PRODUCTION AND SUCCESSFUL EXPERIENCE IN MOVING A NANOFORMULATION INTO CLINICAL TRIALS (NCT05519241) WILL FACILITATE THE CLINICAL TRANSLATION OF THE BTN@BAQD.",
+    "total_obligation": 1269486,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-06-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 509741.01,
+    "total_account_obligation": 1269486,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 509741.01
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1269486
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-01",
+      "end_date": "2028-06-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2217",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 509741.01
+  }
+}

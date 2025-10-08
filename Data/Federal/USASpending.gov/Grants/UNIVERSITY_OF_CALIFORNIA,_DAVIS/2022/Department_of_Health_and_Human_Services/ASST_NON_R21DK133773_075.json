@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91296453,
+    "Award ID": "R21DK133773",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 592575,
+    "Total Outlays": 557886.24,
+    "Description": "FLUORESCENCE LIFETIME IMAGING (FLIM): A METHOD TO EVALUATE COLON INFLAMMATION IN VIVO - PROJECT SUMMARY/ABSTRACT INFLAMMATORY BOWEL DISEASE (IBD) IS AN UMBRELLA TERM FOR GASTROINTESTINAL (GI) DISEASES WHERE CHRONIC INFLAMMATION AND ITS SEQUELAE SIGNIFICANTLY IMPACT A PATIENT’S PHYSICAL HEALTH, QUALITY OF LIFE, AND HEALTHCARE UTILIZATION. EARLY DIAGNOSIS OF GI INFLAMMATION COULD PROMPT EARLIER MEDICAL INTERVENTION WITH A DIRECT IMPACT ON PATIENT’S PROGNOSIS AND QUALITY OF LIFE. THERE IS A NEED FOR NOVEL METHODS CAPABLE OF DETECTING EARLY AND LOW- GRADE GI INFLAMMATION. THE GOAL OF THIS PROPOSAL IS TO DEMONSTRATE THE FEASIBILITY OF FLUORESCENCE LIFETIME IMAGING (FLIM) FOR DETECTING EARLY COLORECTAL INFLAMMATION IN VIVO. WITHOUT REQUIRING EXOGENOUS LABELING AGENTS, FLIM IS SENSITIVE TO CHANGES IN CELLULAR METABOLISM, WHICH IS ALTERED AT THE ONSET OF INFLAMMATORY PROCESSES. OUR SPECIFIC AIMS FOCUS ON ESTABLISHING FLIM AS A RESEARCH TOOL TO QUANTIFY AND MONITOR INFLAMMATION AT THE TISSUE LEVEL USING THE IN VIVO MURINE COLON AS A MODEL. IN AIM 1 WE WILL (SUB-AIM 1.1) FABRICATE A SIDE-VIEWING ENDOSCOPIC PROBE FOR NONDESTRUCTIVE, IN SITU, AND IN VIVO INTRALUMINAL IMAGING OF THE FULL LENGTH OF THE COLON AND (SUB-AIM 1.2) SHOW THAT FLIM IS SENSITIVE TO EPITHELIAL METABOLISM USING WILD-TYPE AND PPAR-G KNOCKOUT MICE TREATED WITH ANTIBIOTIC (STREPTOMYCIN) TO GENERATE TRANSIENT DYSBIOSIS AND WITH 5-ASA TO PROTECT AGAINST ANTIBIOTIC EFFECTS. IN AIM 2 WE WILL TEST THE RELEVANCE OF FLIM FOR DETECTING EARLY INFLAMMATORY CHANGES WITH A MODEL THAT RECAPITULATES ASPECTS OF PRE-IBD (HIGH-FAT DIET AND ANTIBIOTICS). USING IMAGE PROCESSING AND STATISTICAL ANALYSIS, WE WILL VALIDATE THE FLIM PARAMETERS WITH HISTOPATHOLOGY AND BIOCHEMICAL ASSAYS (H\u0026E, TISSUE HYPOXIA, INTRACELLULAR LACTATE, NAD+/NADH, ADP/ATP, PDH ACTIVITY) PERFORMED AFTER NECROPSY (N = 6 ANIMALS/GROUP FOR BOTH MALE AND FEMALE MICE). THE BROAD RANGE OF INFLAMMATORY RESPONSES GENERATED WITH THIS STUDY WILL DEMONSTRATE THE SENSITIVITY OF FLIM AS A RESEARCH TOOL FOR LABEL-FREE, NONDESTRUCTIVE, IN VIVO INTRALUMINAL DETECTING AND MONITORING THE HOST RESPONSE TO GI INFLAMMATION. RESULTS FROM THIS RESEARCH ARE EXPECTED TO PROVIDE CONVINCING PRELIMINARY DATA FOR SUBSEQUENT R01-TYPE RESEARCH GRANT APPLICATIONS THAT BUILD ON THE PROPOSED CONCEPT. THE LONG-TERM GOAL OF THE PI IS TO ESTABLISH FLIM AS A NONDESTRUCTIVE AND LABEL-FREE, IN SITU AND IN VIVO, MESOSCOPIC IMAGING MODALITY TO STUDY 1) PATHOGENESIS AND TREATMENT OF GI INFLAMMATION OVER TIME, 2) THE HOST-MICROBIOTA RELATIONSHIP WITH PHARMACOLOGICAL AND DIETARY CHANGES, AND 3) TO TRANSLATE THIS APPROACH INTO A CLINICAL TOOL FOR IN VIVO ENDOSCOPIC IMAGING OF THE HUMAN GI TRACT. WE ANTICIPATE THAT THE APPLICATIONS OF THE PROPOSED IMPLEMENTATION OF FLIM RANGE FROM EARLY DETECTION OF INFLAMMATORY AND INFECTIOUS DISEASES AND CANCER TO THE CLOSE MONITORING OF PHARMACOLOGICAL AND NUTRITIONAL TREATMENTS ON THE GI TRACT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-15",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R21DK133773_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91296453,
+    "generated_unique_award_id": "ASST_NON_R21DK133773_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FLUORESCENCE LIFETIME IMAGING (FLIM): A METHOD TO EVALUATE COLON INFLAMMATION IN VIVO - PROJECT SUMMARY/ABSTRACT INFLAMMATORY BOWEL DISEASE (IBD) IS AN UMBRELLA TERM FOR GASTROINTESTINAL (GI) DISEASES WHERE CHRONIC INFLAMMATION AND ITS SEQUELAE SIGNIFICANTLY IMPACT A PATIENT’S PHYSICAL HEALTH, QUALITY OF LIFE, AND HEALTHCARE UTILIZATION. EARLY DIAGNOSIS OF GI INFLAMMATION COULD PROMPT EARLIER MEDICAL INTERVENTION WITH A DIRECT IMPACT ON PATIENT’S PROGNOSIS AND QUALITY OF LIFE. THERE IS A NEED FOR NOVEL METHODS CAPABLE OF DETECTING EARLY AND LOW- GRADE GI INFLAMMATION. THE GOAL OF THIS PROPOSAL IS TO DEMONSTRATE THE FEASIBILITY OF FLUORESCENCE LIFETIME IMAGING (FLIM) FOR DETECTING EARLY COLORECTAL INFLAMMATION IN VIVO. WITHOUT REQUIRING EXOGENOUS LABELING AGENTS, FLIM IS SENSITIVE TO CHANGES IN CELLULAR METABOLISM, WHICH IS ALTERED AT THE ONSET OF INFLAMMATORY PROCESSES. OUR SPECIFIC AIMS FOCUS ON ESTABLISHING FLIM AS A RESEARCH TOOL TO QUANTIFY AND MONITOR INFLAMMATION AT THE TISSUE LEVEL USING THE IN VIVO MURINE COLON AS A MODEL. IN AIM 1 WE WILL (SUB-AIM 1.1) FABRICATE A SIDE-VIEWING ENDOSCOPIC PROBE FOR NONDESTRUCTIVE, IN SITU, AND IN VIVO INTRALUMINAL IMAGING OF THE FULL LENGTH OF THE COLON AND (SUB-AIM 1.2) SHOW THAT FLIM IS SENSITIVE TO EPITHELIAL METABOLISM USING WILD-TYPE AND PPAR-G KNOCKOUT MICE TREATED WITH ANTIBIOTIC (STREPTOMYCIN) TO GENERATE TRANSIENT DYSBIOSIS AND WITH 5-ASA TO PROTECT AGAINST ANTIBIOTIC EFFECTS. IN AIM 2 WE WILL TEST THE RELEVANCE OF FLIM FOR DETECTING EARLY INFLAMMATORY CHANGES WITH A MODEL THAT RECAPITULATES ASPECTS OF PRE-IBD (HIGH-FAT DIET AND ANTIBIOTICS). USING IMAGE PROCESSING AND STATISTICAL ANALYSIS, WE WILL VALIDATE THE FLIM PARAMETERS WITH HISTOPATHOLOGY AND BIOCHEMICAL ASSAYS (H\u0026E, TISSUE HYPOXIA, INTRACELLULAR LACTATE, NAD+/NADH, ADP/ATP, PDH ACTIVITY) PERFORMED AFTER NECROPSY (N = 6 ANIMALS/GROUP FOR BOTH MALE AND FEMALE MICE). THE BROAD RANGE OF INFLAMMATORY RESPONSES GENERATED WITH THIS STUDY WILL DEMONSTRATE THE SENSITIVITY OF FLIM AS A RESEARCH TOOL FOR LABEL-FREE, NONDESTRUCTIVE, IN VIVO INTRALUMINAL DETECTING AND MONITORING THE HOST RESPONSE TO GI INFLAMMATION. RESULTS FROM THIS RESEARCH ARE EXPECTED TO PROVIDE CONVINCING PRELIMINARY DATA FOR SUBSEQUENT R01-TYPE RESEARCH GRANT APPLICATIONS THAT BUILD ON THE PROPOSED CONCEPT. THE LONG-TERM GOAL OF THE PI IS TO ESTABLISH FLIM AS A NONDESTRUCTIVE AND LABEL-FREE, IN SITU AND IN VIVO, MESOSCOPIC IMAGING MODALITY TO STUDY 1) PATHOGENESIS AND TREATMENT OF GI INFLAMMATION OVER TIME, 2) THE HOST-MICROBIOTA RELATIONSHIP WITH PHARMACOLOGICAL AND DIETARY CHANGES, AND 3) TO TRANSLATE THIS APPROACH INTO A CLINICAL TOOL FOR IN VIVO ENDOSCOPIC IMAGING OF THE HUMAN GI TRACT. WE ANTICIPATE THAT THE APPLICATIONS OF THE PROPOSED IMPLEMENTATION OF FLIM RANGE FROM EARLY DETECTION OF INFLAMMATORY AND INFECTIOUS DISEASES AND CANCER TO THE CLOSE MONITORING OF PHARMACOLOGICAL AND NUTRITIONAL TREATMENTS ON THE GI TRACT.",
+    "total_obligation": 592575,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-09-05",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 557886.24,
+    "total_account_obligation": 592575,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 557886.24
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 592575
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-15",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 557886.24
+  }
+}

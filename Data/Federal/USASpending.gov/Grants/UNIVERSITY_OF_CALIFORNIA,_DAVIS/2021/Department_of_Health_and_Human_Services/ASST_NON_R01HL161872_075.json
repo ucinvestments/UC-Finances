@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91218026,
+    "Award ID": "R01HL161872",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2611156,
+    "Total Outlays": 1983719.22,
+    "Description": "CAMP SIGNALING IN VASCULAR SMOOTH MUSCLE IN HEALTH AND DISEASE - ABSTRACT . THE SECOND MESSENGER 3',5'-CYCLIC ADENOSINE MONOPHOSPHATE (CAMP) IS ESSENTIAL FOR REGULATING VASCULAR SMOOTH MUSCLE (VSM) FUNCTION, INCLUDING REACTIVITY. THE DOGMA THAT CAMP SIGNALING IN VSM ONLY MEDIATES RELAXATION WAS RECENTLY CHALLENGED BY OUR OBSERVATION THAT GLUCOSE INDUCES A SUBTLE CAMP SYNTHESIS THAT PROMOTES CONTRACTION. THESE RESULTS SUGGEST THAT CAMP VERSATILITY TO REGULATE VSM REACTIVITY TO DIVERSE STIMULI DEPENDS ON THEIR SPATIALLY CONFINED PROPERTIES WITHIN THE CELL, OF WHICH LITTLE IS KNOWN. MOREOVER, NO STUDIES HAVE EXAMINED HOW CAMP POOLS ARE MODULATED BY BIOLOGICAL SEX AND ITS FUNCTIONAL IMPLICATIONS IN VSM IN HEALTH AND DISEASE. STUDIES HERE WILL THEREFORE ADDRESS THESE KEY KNOWLEDGE GAPS. BY LEVERAGING THE USE OF A SOPHISTICATED TOOLKIT IN HUMAN AND MOUSE VSM, EXCITING PRELIMINARY DATA IS GENERATED IN SUPPORT OF THE CENTRAL HYPOTHESIS THAT THE PRODUCTION OF DISCRETE CAMP POOLS IS ESSENTIAL FOR INTEGRATING RECEPTOR-DEPENDENT CAMP SIGNALING TO CONTROL VSM REACTIVITY IN HEALTH AND DISEASE, AND THIS IS DEPENDENT ON BIOLOGICAL SEX. THIS HYPOTHESIS WILL BE TESTED IN THREE SPECIFIC AIMS. AIM 1 IS TO TEST THE HYPOTHESIS THAT GS PROTEIN-COUPLED RECEPTORS (GSPCRS) INDUCE SEX- SPECIFIC DISCRETE CAMP POOLS IN VSM. AIM 2 IS TO TEST THE HYPOTHESIS THAT GSPCRS CELLULAR SEGREGATION TRIGGERS DISTINCT SEX-SPECIFIC DISCRETE CAMP POOLS IN VSM. FINALLY, AIM 3 IS TO TEST THE HYPOTHESIS THAT DISCRETE CAMP POOLS IN VSM ARE DISRUPTED IN DIABETES AND HYPERTENSION (HTN). THE PROPOSAL HAS HIGH BASIC, TRANSLATIONAL AND CLINICAL SIGNIFICANCE AS IT WILL REVEAL 1) NEW INSIGHT INTO DISCRETE CAMP POOLS IN VSM, 2) THEIR INFLUENCE BY BIOLOGICAL SEX IN HEALTH AND DISEASE, AND 3) OPPORTUNITIES TO IDENTIFY NOVEL TARGETS AND DEVELOP NEW THERAPEUTIC STRATEGIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-12-01",
+    "End Date": "2025-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL161872_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91218026,
+    "generated_unique_award_id": "ASST_NON_R01HL161872_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAMP SIGNALING IN VASCULAR SMOOTH MUSCLE IN HEALTH AND DISEASE - ABSTRACT . THE SECOND MESSENGER 3',5'-CYCLIC ADENOSINE MONOPHOSPHATE (CAMP) IS ESSENTIAL FOR REGULATING VASCULAR SMOOTH MUSCLE (VSM) FUNCTION, INCLUDING REACTIVITY. THE DOGMA THAT CAMP SIGNALING IN VSM ONLY MEDIATES RELAXATION WAS RECENTLY CHALLENGED BY OUR OBSERVATION THAT GLUCOSE INDUCES A SUBTLE CAMP SYNTHESIS THAT PROMOTES CONTRACTION. THESE RESULTS SUGGEST THAT CAMP VERSATILITY TO REGULATE VSM REACTIVITY TO DIVERSE STIMULI DEPENDS ON THEIR SPATIALLY CONFINED PROPERTIES WITHIN THE CELL, OF WHICH LITTLE IS KNOWN. MOREOVER, NO STUDIES HAVE EXAMINED HOW CAMP POOLS ARE MODULATED BY BIOLOGICAL SEX AND ITS FUNCTIONAL IMPLICATIONS IN VSM IN HEALTH AND DISEASE. STUDIES HERE WILL THEREFORE ADDRESS THESE KEY KNOWLEDGE GAPS. BY LEVERAGING THE USE OF A SOPHISTICATED TOOLKIT IN HUMAN AND MOUSE VSM, EXCITING PRELIMINARY DATA IS GENERATED IN SUPPORT OF THE CENTRAL HYPOTHESIS THAT THE PRODUCTION OF DISCRETE CAMP POOLS IS ESSENTIAL FOR INTEGRATING RECEPTOR-DEPENDENT CAMP SIGNALING TO CONTROL VSM REACTIVITY IN HEALTH AND DISEASE, AND THIS IS DEPENDENT ON BIOLOGICAL SEX. THIS HYPOTHESIS WILL BE TESTED IN THREE SPECIFIC AIMS. AIM 1 IS TO TEST THE HYPOTHESIS THAT GS PROTEIN-COUPLED RECEPTORS (GSPCRS) INDUCE SEX- SPECIFIC DISCRETE CAMP POOLS IN VSM. AIM 2 IS TO TEST THE HYPOTHESIS THAT GSPCRS CELLULAR SEGREGATION TRIGGERS DISTINCT SEX-SPECIFIC DISCRETE CAMP POOLS IN VSM. FINALLY, AIM 3 IS TO TEST THE HYPOTHESIS THAT DISCRETE CAMP POOLS IN VSM ARE DISRUPTED IN DIABETES AND HYPERTENSION (HTN). THE PROPOSAL HAS HIGH BASIC, TRANSLATIONAL AND CLINICAL SIGNIFICANCE AS IT WILL REVEAL 1) NEW INSIGHT INTO DISCRETE CAMP POOLS IN VSM, 2) THEIR INFLUENCE BY BIOLOGICAL SEX IN HEALTH AND DISEASE, AND 3) OPPORTUNITIES TO IDENTIFY NOVEL TARGETS AND DEVELOP NEW THERAPEUTIC STRATEGIES.",
+    "total_obligation": 2611156,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-11-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1983719.22,
+    "total_account_obligation": 2611156,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1983719.22
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2611156
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2021-12-01",
+      "end_date": "2025-11-30",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1983719.22
+  }
+}

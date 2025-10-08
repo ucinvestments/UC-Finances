@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91155410,
+    "Award ID": "R01CA279342",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1299432,
+    "Total Outlays": 832240.5,
+    "Description": "A NOVEL MOLECULARLY TARGETED THERANOSTIC APPROACH VIA THE ALPHAVBETA6 INTEGRIN FOR THE DETECTION AND TREATMENT OF METASTATIC CANCERS - PROJECT SUMMARY/ABSTRACT WE PROPOSE TO EVALUATE A NOVEL AVSS6 INTEGRIN MOLECULARLY TARGETED THERANOSTIC APPROACH FOR THE DETECTION AND TREATMENT OF METASTATIC CANCERS. THE AVSS6 INTEGRIN IS A CELL SURFACE RECEPTOR THAT IS LOW OR UNDETECTABLE IN NORMAL ADULT EPITHELIUM BUT IS WIDELY EXPRESSED ON NUMEROUS CARCINOMAS. THERE IS A STATISTICALLY SIGNIFICANT ASSOCIATION BETWEEN THE HIGH EXPRESSION OF THE AVSS6 INTEGRIN, DISTANT SPREAD, AND POOR SURVIVAL. WE PREVIOUSLY DEVELOPED AN AVSS6 -BINDING PEPTIDE (BP) WITH NANOMOLAR AFFINITY AND HIGH SELECTIVITY FOR THE INTEGRIN AVSS66. OUR PRIOR CLINICAL DATA DEMONSTRATES THAT USING [18F]-AVSS6 -BP PET/CT IMAGING WE CAN DETECT BOTH PRIMARY TUMORS AND METASTASES. PET IMAGES SHOWED LOW BACKGROUND UPTAKE IN NORMAL BRAIN, LUNGS, LIVER, AND OSSEOUS SKELETON WHICH ARE COMMON SITES OF METASTATIC DISEASE. FURTHERMORE, SUB-CENTIMETER METASTASES TO THESE ORGANS WERE DETECTED USING [18F]AVSS6 -BP PET/CT. WE FURTHER DEVELOPED OUR AVSS6-BP INTO A NOVEL THERANOSTIC PAIR, [68GA]GA DOTA-5G AND [177LU]LU DOTA-ABM-5G IN WHICH [68GA]GA DOTA-5G IS BEING DEVELOPED AS A DIAGNOSTIC AND [177LU]LU DOTA-ABM-5G IS BEING DEVELOPED AS A RADIOTHERAPY. WE NOW PROPOSE A PROSPECTIVE CLINICAL TRIAL TO TEST THE [68GA]GA DOTA-5G AND [177LU]LU DOTA-ABM-5G IN PATIENTS WITH METASTATIC DISEASE. PATIENTS WILL UNDERGO [68GA]GA DOTA-5G PET/CT SCANS TO CONFIRM ELIGIBILITY FOR THE [177LU]LU DOTA-ABM-5G THERAPY AND FOLLOW UP [68GA]GA DOTA-5G PET/CT SCANS TO EVALUATE TREATMENT RESPONSE. WE HYPOTHESIZE THAT A) [68GA]GA DOTA-5G WILL DETECT LESIONS IN PATIENTS WITH METASTATIC CANCERS B) THE THERANOSTIC PAIR [68GA]GA DOTA-5G/ [177LU]LU DOTA-ABM-5G WILL BE SAFE AND WELL TOLERATED; AND C) A THERAPEUTIC RESPONSE WILL BE ACHIEVED WITH A SINGLE DOSE OF [177LU]LU DOTA-ABM-5G. THIS PROPOSAL LEVERAGES THE COMPLIMENTARY EXPERTISE OF DR. SUTCLIFFE TO DEVELOP AND TRANSLATE THE THERANOSTIC AGENTS, AND DR. FOSTER TO TREAT PATIENTS AND INTERPRET IMAGES FOR TREATMENT RESPONSE. THE ABILITY OF THE SUTCLIFFE LAB TO GENERATE THE THERANOSTIC AGENTS IN THIS STUDY FOR PATIENTS TREATED AT UC DAVIS MAXIMIZES EXISTING RESOURCES AND A WELL-ESTABLISHED SUCCESSFUL COLLABORATION BETWEEN THE PIS, INCREASING THE SPEED OF TRANSLATION OF THESE THERANOSTIC AGENTS FROM RESEARCH TO PHASE II TRIALS AND ULTIMATELY, A STANDARD OF CARE OPTION FOR PATIENTS WITH METASTATIC DISEASE. GIVEN THE ROLE OF THE AVSS6 INTEGRIN RECEPTOR IN THE PROCESSES OF INVASION AND METASTASIS, AVSS6 IS A VERY ATTRACTIVE TARGET FOR THE DETECTION AND TREATMENT OF METASTATIC CANCERS AND COULD HAVE BROAD IMPACT ACROSS MULTIPLE CANCERS. [68GA]GA DOTA-5G WILL MORE ACCURATELY AND NON-INVASIVELY DETECT DISEASE AND THE PROMISING PHARMACOKINETIC PROFILE OF THE THERANOSTICS PROPOSED SUGGESTS THAT OFF-TARGET TOXICITY OF THIS [177LU]LU DOTA-ABM-5G THERAPY IS NOT EXPECTED. THIS POSES A MAJOR IMPROVEMENT OVER CURRENT TREATMENTS THAT ARE KNOWN TO CAUSE BONE MARROW TOXICITY, HEPATOBILIARY TOXICITY, AND CARDIOTOXICITY. COLLECTIVELY, THIS PROPOSAL WILL SIGNIFICANTLY HELP TRANSFORM CANCER TREATMENT FOR PATIENTS WITH ADVANCED DISEASE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-21",
+    "End Date": "2029-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA279342_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91155410,
+    "generated_unique_award_id": "ASST_NON_R01CA279342_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A NOVEL MOLECULARLY TARGETED THERANOSTIC APPROACH VIA THE ALPHAVBETA6 INTEGRIN FOR THE DETECTION AND TREATMENT OF METASTATIC CANCERS - PROJECT SUMMARY/ABSTRACT WE PROPOSE TO EVALUATE A NOVEL AVSS6 INTEGRIN MOLECULARLY TARGETED THERANOSTIC APPROACH FOR THE DETECTION AND TREATMENT OF METASTATIC CANCERS. THE AVSS6 INTEGRIN IS A CELL SURFACE RECEPTOR THAT IS LOW OR UNDETECTABLE IN NORMAL ADULT EPITHELIUM BUT IS WIDELY EXPRESSED ON NUMEROUS CARCINOMAS. THERE IS A STATISTICALLY SIGNIFICANT ASSOCIATION BETWEEN THE HIGH EXPRESSION OF THE AVSS6 INTEGRIN, DISTANT SPREAD, AND POOR SURVIVAL. WE PREVIOUSLY DEVELOPED AN AVSS6 -BINDING PEPTIDE (BP) WITH NANOMOLAR AFFINITY AND HIGH SELECTIVITY FOR THE INTEGRIN AVSS66. OUR PRIOR CLINICAL DATA DEMONSTRATES THAT USING [18F]-AVSS6 -BP PET/CT IMAGING WE CAN DETECT BOTH PRIMARY TUMORS AND METASTASES. PET IMAGES SHOWED LOW BACKGROUND UPTAKE IN NORMAL BRAIN, LUNGS, LIVER, AND OSSEOUS SKELETON WHICH ARE COMMON SITES OF METASTATIC DISEASE. FURTHERMORE, SUB-CENTIMETER METASTASES TO THESE ORGANS WERE DETECTED USING [18F]AVSS6 -BP PET/CT. WE FURTHER DEVELOPED OUR AVSS6-BP INTO A NOVEL THERANOSTIC PAIR, [68GA]GA DOTA-5G AND [177LU]LU DOTA-ABM-5G IN WHICH [68GA]GA DOTA-5G IS BEING DEVELOPED AS A DIAGNOSTIC AND [177LU]LU DOTA-ABM-5G IS BEING DEVELOPED AS A RADIOTHERAPY. WE NOW PROPOSE A PROSPECTIVE CLINICAL TRIAL TO TEST THE [68GA]GA DOTA-5G AND [177LU]LU DOTA-ABM-5G IN PATIENTS WITH METASTATIC DISEASE. PATIENTS WILL UNDERGO [68GA]GA DOTA-5G PET/CT SCANS TO CONFIRM ELIGIBILITY FOR THE [177LU]LU DOTA-ABM-5G THERAPY AND FOLLOW UP [68GA]GA DOTA-5G PET/CT SCANS TO EVALUATE TREATMENT RESPONSE. WE HYPOTHESIZE THAT A) [68GA]GA DOTA-5G WILL DETECT LESIONS IN PATIENTS WITH METASTATIC CANCERS B) THE THERANOSTIC PAIR [68GA]GA DOTA-5G/ [177LU]LU DOTA-ABM-5G WILL BE SAFE AND WELL TOLERATED; AND C) A THERAPEUTIC RESPONSE WILL BE ACHIEVED WITH A SINGLE DOSE OF [177LU]LU DOTA-ABM-5G. THIS PROPOSAL LEVERAGES THE COMPLIMENTARY EXPERTISE OF DR. SUTCLIFFE TO DEVELOP AND TRANSLATE THE THERANOSTIC AGENTS, AND DR. FOSTER TO TREAT PATIENTS AND INTERPRET IMAGES FOR TREATMENT RESPONSE. THE ABILITY OF THE SUTCLIFFE LAB TO GENERATE THE THERANOSTIC AGENTS IN THIS STUDY FOR PATIENTS TREATED AT UC DAVIS MAXIMIZES EXISTING RESOURCES AND A WELL-ESTABLISHED SUCCESSFUL COLLABORATION BETWEEN THE PIS, INCREASING THE SPEED OF TRANSLATION OF THESE THERANOSTIC AGENTS FROM RESEARCH TO PHASE II TRIALS AND ULTIMATELY, A STANDARD OF CARE OPTION FOR PATIENTS WITH METASTATIC DISEASE. GIVEN THE ROLE OF THE AVSS6 INTEGRIN RECEPTOR IN THE PROCESSES OF INVASION AND METASTASIS, AVSS6 IS A VERY ATTRACTIVE TARGET FOR THE DETECTION AND TREATMENT OF METASTATIC CANCERS AND COULD HAVE BROAD IMPACT ACROSS MULTIPLE CANCERS. [68GA]GA DOTA-5G WILL MORE ACCURATELY AND NON-INVASIVELY DETECT DISEASE AND THE PROMISING PHARMACOKINETIC PROFILE OF THE THERANOSTICS PROPOSED SUGGESTS THAT OFF-TARGET TOXICITY OF THIS [177LU]LU DOTA-ABM-5G THERAPY IS NOT EXPECTED. THIS POSES A MAJOR IMPROVEMENT OVER CURRENT TREATMENTS THAT ARE KNOWN TO CAUSE BONE MARROW TOXICITY, HEPATOBILIARY TOXICITY, AND CARDIOTOXICITY. COLLECTIVELY, THIS PROPOSAL WILL SIGNIFICANTLY HELP TRANSFORM CANCER TREATMENT FOR PATIENTS WITH ADVANCED DISEASE.",
+    "total_obligation": 1299432,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-09-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 832240.5,
+    "total_account_obligation": 1299432,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 832240.5
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1299432
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-21",
+      "end_date": "2029-05-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 832240.5
+  }
+}

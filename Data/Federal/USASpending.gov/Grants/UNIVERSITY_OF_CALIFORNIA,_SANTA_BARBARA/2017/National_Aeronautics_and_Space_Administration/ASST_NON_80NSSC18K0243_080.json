@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74725264,
+    "Award ID": "80NSSC18K0243",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+    "Award Amount": 2146908.28,
+    "Total Outlays": 1447807.22,
+    "Description": "THIS INVESTIGATION WILL DEMONSTRATE ULTRA-LOW SIZE  WEIGHT  AND POWER (SWAP) LIDAR PHOTONIC INTEGRATED CIRCUITS (PICS) FOR EARTH SCIENCE SENSING APPLICATIONS FOR MEASURING ATMOSPHERIC CONSTITUENTS SUCH AS CARBON DIOXIDE (CO2).  THE EXTREME REDUCTION IN SWAP WILL ENABLE SIGNIFICANTLY MORE SCIENCE MEASUREMENTS AT LOWER COST.  THIS TECHNOLOGY DEVELOPMENT IS APPLICABLE TO CURRENT AND PLANNED APPLICATIONS LIKE LAB  DEMONSTRATIONS  HEAVY-LIFT AIRCRAFT (E.G. DC8) MEASUREMENTS  AND SATELLITE MISSIONS SUCH AS  ASCENDS  BUT IT IS PARTICULARLY ENABLING FOR LIMITED-RESOURCE PLATFORMS LIKE CUBESATS AND UNMANNED  AIRCRAFT (E.G. IKHANA). THE INTEGRATED LIDAR PIC WILL ENABLE SPECTROSCOPIC MEASUREMENTS OF THE EARTH'S ATMOSPHERE WITH INCREASED SENSITIVITY WHILE SIGNIFICANTLY REDUCING SWAP. IT WILL ENABLE NEAR INFRARED (NIR) MULTI-WAVELENGTH ANALYSIS (E.G. CO2 AND GREENHOUSE GAS MONITORING) WITH THE SAME INTEGRATED DEVICE.  THE FOCUS OF THIS WORK WILL BE TO REALIZE A FULLY FUNCTIONAL SYSTEM ON A CHIP FOR EARTH SCIENCE MEASUREMENTS USING PHOTONIC INTEGRATION TECHNOLOGY. PICS HAVE BEEN HIGHLY DEVELOPED FOR THE  TELECOMMUNICATIONS INDUSTRY; HOWEVER  THESE PICS DO NOT MEET THE NEEDS FOR SCIENTIFIC LIDAR  APPLICATIONS. WE WILL LEVERAGE THE SIGNIFICANT INVESTMENT FROM THE TELECOMMUNICATIONS INDUSTRY AND  DEVELOP PICS CUSTOMIZED FOR EARTH SCIENCE APPLICATIONS. THE PICS WILL INCLUDE COMPONENTS SUCH AS FAST TUNING OPTICAL SOURCES  PHOTODIODES  AND PASSIVE WAVEGUIDES. PICS WILL BE CLOSELY  INTEGRATED WITH ELECTRONIC INTEGRATED CIRCUITS (EICS) TO FORM SOPHISTICATED INTEGRATED OPTICAL  PHASE-LOCKED LOOP (PLL) CIRCUITS FOR DYNAMICALLY SWITCHING AND LOCKING A SEED LASER MODULE ACROSS  THE GAS ABSORPTION LINE. THE PICS COULD EVENTUALLY BE QUALIFIED FOR SPACE  THUS SETTING A PATH FOR INSERTION INTO FUTURE NASA MISSIONS. THE PROPOSED TECHNOLOGY IS MODULAR AND CAN BE TRANSFERRED TO OTHER WAVELENGTHS FOR MEASUREMENTS OF  OTHER SPECIES. OUR OBJECTIVES ARE TO (1) SIGNIFICANTLY LOWER THE COST AND SWAP OF THE LIDAR TRANSMITTER  (2) ENABLE MISSIONS FOR MULTIPLE SPECIES NOT POSSIBLE WITH PRIOR STATE OF THE ART  (3) SCAN MULTIPLE PROGRAMMABLE WAVELENGTH POINTS  AND (4) IMPROVE TRANSMITTER RELIABILITY AND RUGGEDNESS. ALTHOUGH WE PROPOSE LASER SPECTROSCOPY AS A PATHFINDER DEMONSTRATION  INVESTMENT IN THIS TECHNOLOGY WILL HAVE SIGNIFICANT REACH INTO MANY ADDITIONAL NASA SCIENCE MEASUREMENTS THAT ARE ENABLED BY REDUCTIONS IN SWAP  COST AND COMPLEXITY AND IMPROVEMENTS IN PERFORMANCE. THE TEAM COMPRISES THE UNIVERSITY OF CALIFORNIA SANTA BARBARA (UCSB) AND MEMBERS OF THE SCIENCE AND ENGINEERING DIRECTORATES AT NASA GODDARD SPACE FLIGHT CENTER (GSFC). THESE GROUPS ARE EXPERTS IN INTEGRATED PHOTONICS AND LIDAR  RESPECTIVELY. UCSB HAS PIONEERED PICS BASED ON A NUMBER OF MATERIALS PLATFORMS  AND IS ALSO THE WEST COAST HUB OF THE AMERICAN INSTITUTE FOR MANUFACTURING INTEGRATED PHOTONICS (AIM PHOTONICS)  A FEDERALLY FUNDED INSTITUTE FOR MANUFACTURING INNOVATION. UCSB IS CURRENTLY WORKING ON TWO NASA GRANTS IN CLOSE COLLABORATION WITH THE LASERS AND ELECTRO-OPTICS BRANCH AT NASA GSFC: THE EARLY CAREER FACULTY SPACE TECHNOLOGY RESEARCH GRANT ON LOW SWAP LASERS FOR DEEP SPACE COMMUNICATIONS AND THE EARLY STAGE INNOVATIONS AWARD ON INTEGRATED PHOTONICS FOR LOW-EARTH ORBIT SPACE OPTICAL COMMUNICATIONS. THE GROUP AT GSFC HAS BEEN WORKING ON THE ASCENDS MISSION AND RELATED TECHNOLOGY DEVELOPMENT FOR MANY YEARS AND HAS DIRECT KNOWLEDGE OF THE SCIENCE NEEDS AND THE INSTRUMENT PERFORMANCE REQUIREMENTS. THE COMBINATION OF DEVICE  PIC  INTEGRATED OPTICAL PLL  AND ELECTRONIC-PHOTONIC SUBSYSTEM EXPERTISE FROM UCSB  WITH THE LIDAR  LASER INSTRUMENT  EARTH SCIENCE  DETECTION  AND REMOTE SENSING EXPERTISE FROM NASA GSFC PUTS OUR TEAM IN A STRONG POSITION TO ACHIEVE THE OBJECTIVES OF THIS PROGRAM. THE PERIOD OF PERFORMANCE IS 01/01/2018-12/31/2020. THE ENTRY TRL IS 1-2 AND THE PLANNED EXIT IS 3-4.",
+    "Contract Award Type": "",
+    "Recipient UEI": "G9QBQDH39DF4",
+    "Recipient Location": {
+      "address_line1": "3227 CHEADLE HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": null,
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "93106"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "93106-0001",
+      "zip5": "93106"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2017-12-11",
+    "End Date": "2022-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2e3fd571-0484-5e6b-3e26-4381689012c6-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC18K0243_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74725264,
+    "generated_unique_award_id": "ASST_NON_80NSSC18K0243_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THIS INVESTIGATION WILL DEMONSTRATE ULTRA-LOW SIZE  WEIGHT  AND POWER (SWAP) LIDAR PHOTONIC INTEGRATED CIRCUITS (PICS) FOR EARTH SCIENCE SENSING APPLICATIONS FOR MEASURING ATMOSPHERIC CONSTITUENTS SUCH AS CARBON DIOXIDE (CO2).  THE EXTREME REDUCTION IN SWAP WILL ENABLE SIGNIFICANTLY MORE SCIENCE MEASUREMENTS AT LOWER COST.  THIS TECHNOLOGY DEVELOPMENT IS APPLICABLE TO CURRENT AND PLANNED APPLICATIONS LIKE LAB  DEMONSTRATIONS  HEAVY-LIFT AIRCRAFT (E.G. DC8) MEASUREMENTS  AND SATELLITE MISSIONS SUCH AS  ASCENDS  BUT IT IS PARTICULARLY ENABLING FOR LIMITED-RESOURCE PLATFORMS LIKE CUBESATS AND UNMANNED  AIRCRAFT (E.G. IKHANA). THE INTEGRATED LIDAR PIC WILL ENABLE SPECTROSCOPIC MEASUREMENTS OF THE EARTH'S ATMOSPHERE WITH INCREASED SENSITIVITY WHILE SIGNIFICANTLY REDUCING SWAP. IT WILL ENABLE NEAR INFRARED (NIR) MULTI-WAVELENGTH ANALYSIS (E.G. CO2 AND GREENHOUSE GAS MONITORING) WITH THE SAME INTEGRATED DEVICE.  THE FOCUS OF THIS WORK WILL BE TO REALIZE A FULLY FUNCTIONAL SYSTEM ON A CHIP FOR EARTH SCIENCE MEASUREMENTS USING PHOTONIC INTEGRATION TECHNOLOGY. PICS HAVE BEEN HIGHLY DEVELOPED FOR THE  TELECOMMUNICATIONS INDUSTRY; HOWEVER  THESE PICS DO NOT MEET THE NEEDS FOR SCIENTIFIC LIDAR  APPLICATIONS. WE WILL LEVERAGE THE SIGNIFICANT INVESTMENT FROM THE TELECOMMUNICATIONS INDUSTRY AND  DEVELOP PICS CUSTOMIZED FOR EARTH SCIENCE APPLICATIONS. THE PICS WILL INCLUDE COMPONENTS SUCH AS FAST TUNING OPTICAL SOURCES  PHOTODIODES  AND PASSIVE WAVEGUIDES. PICS WILL BE CLOSELY  INTEGRATED WITH ELECTRONIC INTEGRATED CIRCUITS (EICS) TO FORM SOPHISTICATED INTEGRATED OPTICAL  PHASE-LOCKED LOOP (PLL) CIRCUITS FOR DYNAMICALLY SWITCHING AND LOCKING A SEED LASER MODULE ACROSS  THE GAS ABSORPTION LINE. THE PICS COULD EVENTUALLY BE QUALIFIED FOR SPACE  THUS SETTING A PATH FOR INSERTION INTO FUTURE NASA MISSIONS. THE PROPOSED TECHNOLOGY IS MODULAR AND CAN BE TRANSFERRED TO OTHER WAVELENGTHS FOR MEASUREMENTS OF  OTHER SPECIES. OUR OBJECTIVES ARE TO (1) SIGNIFICANTLY LOWER THE COST AND SWAP OF THE LIDAR TRANSMITTER  (2) ENABLE MISSIONS FOR MULTIPLE SPECIES NOT POSSIBLE WITH PRIOR STATE OF THE ART  (3) SCAN MULTIPLE PROGRAMMABLE WAVELENGTH POINTS  AND (4) IMPROVE TRANSMITTER RELIABILITY AND RUGGEDNESS. ALTHOUGH WE PROPOSE LASER SPECTROSCOPY AS A PATHFINDER DEMONSTRATION  INVESTMENT IN THIS TECHNOLOGY WILL HAVE SIGNIFICANT REACH INTO MANY ADDITIONAL NASA SCIENCE MEASUREMENTS THAT ARE ENABLED BY REDUCTIONS IN SWAP  COST AND COMPLEXITY AND IMPROVEMENTS IN PERFORMANCE. THE TEAM COMPRISES THE UNIVERSITY OF CALIFORNIA SANTA BARBARA (UCSB) AND MEMBERS OF THE SCIENCE AND ENGINEERING DIRECTORATES AT NASA GODDARD SPACE FLIGHT CENTER (GSFC). THESE GROUPS ARE EXPERTS IN INTEGRATED PHOTONICS AND LIDAR  RESPECTIVELY. UCSB HAS PIONEERED PICS BASED ON A NUMBER OF MATERIALS PLATFORMS  AND IS ALSO THE WEST COAST HUB OF THE AMERICAN INSTITUTE FOR MANUFACTURING INTEGRATED PHOTONICS (AIM PHOTONICS)  A FEDERALLY FUNDED INSTITUTE FOR MANUFACTURING INNOVATION. UCSB IS CURRENTLY WORKING ON TWO NASA GRANTS IN CLOSE COLLABORATION WITH THE LASERS AND ELECTRO-OPTICS BRANCH AT NASA GSFC: THE EARLY CAREER FACULTY SPACE TECHNOLOGY RESEARCH GRANT ON LOW SWAP LASERS FOR DEEP SPACE COMMUNICATIONS AND THE EARLY STAGE INNOVATIONS AWARD ON INTEGRATED PHOTONICS FOR LOW-EARTH ORBIT SPACE OPTICAL COMMUNICATIONS. THE GROUP AT GSFC HAS BEEN WORKING ON THE ASCENDS MISSION AND RELATED TECHNOLOGY DEVELOPMENT FOR MANY YEARS AND HAS DIRECT KNOWLEDGE OF THE SCIENCE NEEDS AND THE INSTRUMENT PERFORMANCE REQUIREMENTS. THE COMBINATION OF DEVICE  PIC  INTEGRATED OPTICAL PLL  AND ELECTRONIC-PHOTONIC SUBSYSTEM EXPERTISE FROM UCSB  WITH THE LIDAR  LASER INSTRUMENT  EARTH SCIENCE  DETECTION  AND REMOTE SENSING EXPERTISE FROM NASA GSFC PUTS OUR TEAM IN A STRONG POSITION TO ACHIEVE THE OBJECTIVES OF THIS PROGRAM. THE PERIOD OF PERFORMANCE IS 01/01/2018-12/31/2020. THE ENTRY TRL IS 1-2 AND THE PLANNED EXIT IS 3-4.",
+    "total_obligation": 2146908.28,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2017-12-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1447807.22,
+    "total_account_obligation": 1146250.19,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1447807.22
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1146250.19
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2017-12-11",
+      "end_date": "2022-04-30",
+      "last_modified_date": "2023-05-22",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2e3fd571-0484-5e6b-3e26-4381689012c6-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+      "recipient_uei": "G9QBQDH39DF4",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Local Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "",
+        "county_code": "083",
+        "county_name": "SANTA BARBARA",
+        "address_line1": "3227 CHEADLE HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "24",
+        "zip4": "0001",
+        "zip5": "93106",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "24",
+      "zip4": "0001",
+      "zip5": "93106",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1447807.22
+  }
+}

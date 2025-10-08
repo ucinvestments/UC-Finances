@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91240353,
+    "Award ID": "R01NS135005",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 968264,
+    "Total Outlays": 509641.72,
+    "Description": "THE ELECTRICAL BASIS OF PROPRIOCEPTIVE SIGNALING - PROJECT SUMMARY. OUR ABILITY TO INTERNALLY SENSE BODY AND LIMB POSITION, REFERRED TO AS PROPRIOCEPTION, IS ESSENTIAL FOR PURPOSEFUL MOVEMENT AND IS KNOWN TO BE IMPAIRED IN A VARIETY OF CONDITIONS SUCH AS AMYOTROPHIC LATERAL SCLEROSIS, PERIPHERAL NEUROPATHY, AND AGING. CONVERSELY, ACTIVATION OF PERIPHERAL PROPRIOCEPTIVE PATHWAYS PROMOTES RECOVERY FROM SPINAL CORD INJURY, HIGHLIGHTING THE TRANSLATIONAL RELEVANCE OF UNDERSTANDING HOW PROPRIOCEPTION IS ENCODED. PROPRIOCEPTORS, THE SENSORY NEURONS THAT INITIATE PROPRIOCEPTIVE SIGNALING, REQUIRE PIEZO2 TO TRANSDUCE MUSCLE MOVEMENT INTO ELECTRICAL SIGNALS FOR NORMAL MOTOR FUNCTION. WHAT HAPPENS DOWNSTREAM OF PIEZO2 ACTIVATION IS DEBATED. WE WILL ADDRESS A FUNDAMENTAL YET UNANSWERED QUESTION IN THE FIELD OF SENSORY-MOTOR NEUROSCIENCE: HOW DO VOLTAGE- GATED SODIUM CHANNELS (NAVS) SHAPE PROPRIOCEPTOR FUNCTION IN SENSORY-MOTOR CIRCUITS? MAMMALIAN PROPRIOCEPTORS EXPRESS THREE NAVS: NAV1.1, NAV1.6, AND NAV1.7. OUR LAB HAS PUBLISHED THE ONLY FUNCTIONAL EVIDENCE TO DATE ON THE CONTRIBUTIONS OF ANY NAV TO MAMMALIAN PROPRIOCEPTION. BECAUSE THE GENETIC ACCESS POINT TO PROPRIOCEPTORS IS PARVALBUMIN, A PROTEIN ALSO EXPRESSED IN BRAIN AND SPINAL CORD NEURONS, WE USED A SENSORY-NEURON WIDE GENETIC TARGETING STRATEGY THAT SPARES THE CONFOUNDING FACTORS ASSOCIATED WITH NAV DELETION IN THE CENTRAL NERVOUS SYSTEM. WE REPORTED THAT LOSS OF THE NAV1.1 ISOFORM RESULTS IN INCONSISTENT PROPRIOCEPTOR CODING OF SUSTAINED MUSCLE STRETCH AND VISIBLE MOTOR BEHAVIOR DEFICITS. OUR NEW PILOT DATA SUPPORT THE NOTION THAT WHILE NAV1.1 IS TASKED WITH MAINTAINING RELIABLE PROPRIOCEPTIVE TRANSMISSION, THE NAV1.6 ISOFORM IS TASKED WITH INITIATING PROPRIOCEPTIVE SIGNALING. THE ROLE OF NAV1.7 IN SHAPING PROPRIOCEPTIVE SIGNALING REMAINS UNKNOWN AND WILL BE DIRECTLY INVESTIGATED FOR THE FIRST TIME IN THIS PROPOSAL. WE WILL LEVERAGE INDUCIBLE CONDITIONAL KNOCKOUT MOUSE MODELS TO SYSTEMATICALLY DELETE INDIVIDUAL NAVS AFTER PROPRIOCEPTOR DEVELOPMENT AND INVESTIGATE HOW NAV1.1, NAV1.6, AND NAV1.7 DISTINCTLY CONTRIBUTE TO MAMMALIAN PROPRIOCEPTION. USING A COMBINATION OF BEHAVIOR AND MECHANISTIC IN VITRO PATCH-CLAMP ELECTROPHYSIOLOGICAL EXPERIMENTS, WE AIM TO DETERMINE HOW ACUTE DISRUPTION OF NAV EXPRESSION POST-WEANING IMPACTS MOTOR BEHAVIORS, AND WILL ALSO IDENTIFY NAV SUBTYPE-SPECIFIC BIOPHYSICAL FEATURES THAT GOVERN PROPRIOCEPTOR EXCITABILITY. THESE STUDIES WILL BE COMPLEMENTED BY QUANTITATIVE IMMUNOHISTOCHEMISTRY AND SUPER-RESOLUTION IMAGING TO IDENTIFY THE CELLULAR LOCALIZATION OF EACH NAV ISOFORM WITHIN PROPRIOCEPTORS. WE WILL ALSO USE EX VIVO MUSCLE-NERVE RECORDINGS AND OPTOGENETICS TO DEFINE HOW NAVS EXPRESSED IN PROPRIOCEPTORS INDIVIDUALLY SHAPE PERIPHERAL NEUROTRANSMISSION, WHICH WILL INFORM INTERPRETATION OF OUR BEHAVIORAL ANALYSES. FINALLY, WE WILL DETERMINE WHICH NAVS ARE ESSENTIAL FOR PROPRIOCEPTOR SYNAPTIC TRANSMISSION IN CENTRAL CIRCUITS USING TWO DIFFERENT EX VIVO SPINAL CORD ELECTROPHYSIOLOGY PREPARATIONS. COLLECTIVELY, THIS WORK WILL ADVANCE OUR FUNDAMENTAL UNDERSTANDING OF MAMMALIAN PROPRIOCEPTION AND ILLUMINATE THE SPECIFIC AND DISTINCT ROLES OF NAVS IN SENSORY-DRIVEN MOTOR BEHAVIOR, WHICH WILL CONTRIBUTE NEW INSIGHTS INTO NEUROLOGICAL CONDITIONS IN WHICH PROPRIOCEPTION IS IMPAIRED.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-07-01",
+    "End Date": "2029-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS135005_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91240353,
+    "generated_unique_award_id": "ASST_NON_R01NS135005_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE ELECTRICAL BASIS OF PROPRIOCEPTIVE SIGNALING - PROJECT SUMMARY. OUR ABILITY TO INTERNALLY SENSE BODY AND LIMB POSITION, REFERRED TO AS PROPRIOCEPTION, IS ESSENTIAL FOR PURPOSEFUL MOVEMENT AND IS KNOWN TO BE IMPAIRED IN A VARIETY OF CONDITIONS SUCH AS AMYOTROPHIC LATERAL SCLEROSIS, PERIPHERAL NEUROPATHY, AND AGING. CONVERSELY, ACTIVATION OF PERIPHERAL PROPRIOCEPTIVE PATHWAYS PROMOTES RECOVERY FROM SPINAL CORD INJURY, HIGHLIGHTING THE TRANSLATIONAL RELEVANCE OF UNDERSTANDING HOW PROPRIOCEPTION IS ENCODED. PROPRIOCEPTORS, THE SENSORY NEURONS THAT INITIATE PROPRIOCEPTIVE SIGNALING, REQUIRE PIEZO2 TO TRANSDUCE MUSCLE MOVEMENT INTO ELECTRICAL SIGNALS FOR NORMAL MOTOR FUNCTION. WHAT HAPPENS DOWNSTREAM OF PIEZO2 ACTIVATION IS DEBATED. WE WILL ADDRESS A FUNDAMENTAL YET UNANSWERED QUESTION IN THE FIELD OF SENSORY-MOTOR NEUROSCIENCE: HOW DO VOLTAGE- GATED SODIUM CHANNELS (NAVS) SHAPE PROPRIOCEPTOR FUNCTION IN SENSORY-MOTOR CIRCUITS? MAMMALIAN PROPRIOCEPTORS EXPRESS THREE NAVS: NAV1.1, NAV1.6, AND NAV1.7. OUR LAB HAS PUBLISHED THE ONLY FUNCTIONAL EVIDENCE TO DATE ON THE CONTRIBUTIONS OF ANY NAV TO MAMMALIAN PROPRIOCEPTION. BECAUSE THE GENETIC ACCESS POINT TO PROPRIOCEPTORS IS PARVALBUMIN, A PROTEIN ALSO EXPRESSED IN BRAIN AND SPINAL CORD NEURONS, WE USED A SENSORY-NEURON WIDE GENETIC TARGETING STRATEGY THAT SPARES THE CONFOUNDING FACTORS ASSOCIATED WITH NAV DELETION IN THE CENTRAL NERVOUS SYSTEM. WE REPORTED THAT LOSS OF THE NAV1.1 ISOFORM RESULTS IN INCONSISTENT PROPRIOCEPTOR CODING OF SUSTAINED MUSCLE STRETCH AND VISIBLE MOTOR BEHAVIOR DEFICITS. OUR NEW PILOT DATA SUPPORT THE NOTION THAT WHILE NAV1.1 IS TASKED WITH MAINTAINING RELIABLE PROPRIOCEPTIVE TRANSMISSION, THE NAV1.6 ISOFORM IS TASKED WITH INITIATING PROPRIOCEPTIVE SIGNALING. THE ROLE OF NAV1.7 IN SHAPING PROPRIOCEPTIVE SIGNALING REMAINS UNKNOWN AND WILL BE DIRECTLY INVESTIGATED FOR THE FIRST TIME IN THIS PROPOSAL. WE WILL LEVERAGE INDUCIBLE CONDITIONAL KNOCKOUT MOUSE MODELS TO SYSTEMATICALLY DELETE INDIVIDUAL NAVS AFTER PROPRIOCEPTOR DEVELOPMENT AND INVESTIGATE HOW NAV1.1, NAV1.6, AND NAV1.7 DISTINCTLY CONTRIBUTE TO MAMMALIAN PROPRIOCEPTION. USING A COMBINATION OF BEHAVIOR AND MECHANISTIC IN VITRO PATCH-CLAMP ELECTROPHYSIOLOGICAL EXPERIMENTS, WE AIM TO DETERMINE HOW ACUTE DISRUPTION OF NAV EXPRESSION POST-WEANING IMPACTS MOTOR BEHAVIORS, AND WILL ALSO IDENTIFY NAV SUBTYPE-SPECIFIC BIOPHYSICAL FEATURES THAT GOVERN PROPRIOCEPTOR EXCITABILITY. THESE STUDIES WILL BE COMPLEMENTED BY QUANTITATIVE IMMUNOHISTOCHEMISTRY AND SUPER-RESOLUTION IMAGING TO IDENTIFY THE CELLULAR LOCALIZATION OF EACH NAV ISOFORM WITHIN PROPRIOCEPTORS. WE WILL ALSO USE EX VIVO MUSCLE-NERVE RECORDINGS AND OPTOGENETICS TO DEFINE HOW NAVS EXPRESSED IN PROPRIOCEPTORS INDIVIDUALLY SHAPE PERIPHERAL NEUROTRANSMISSION, WHICH WILL INFORM INTERPRETATION OF OUR BEHAVIORAL ANALYSES. FINALLY, WE WILL DETERMINE WHICH NAVS ARE ESSENTIAL FOR PROPRIOCEPTOR SYNAPTIC TRANSMISSION IN CENTRAL CIRCUITS USING TWO DIFFERENT EX VIVO SPINAL CORD ELECTROPHYSIOLOGY PREPARATIONS. COLLECTIVELY, THIS WORK WILL ADVANCE OUR FUNDAMENTAL UNDERSTANDING OF MAMMALIAN PROPRIOCEPTION AND ILLUMINATE THE SPECIFIC AND DISTINCT ROLES OF NAVS IN SENSORY-DRIVEN MOTOR BEHAVIOR, WHICH WILL CONTRIBUTE NEW INSIGHTS INTO NEUROLOGICAL CONDITIONS IN WHICH PROPRIOCEPTION IS IMPAIRED.",
+    "total_obligation": 968264,
+    "subaward_count": 2,
+    "total_subaward_amount": 149414,
+    "date_signed": "2024-07-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 509641.72,
+    "total_account_obligation": 968264,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 509641.72
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 968264
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-05-31",
+      "last_modified_date": "2025-05-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 509641.72
+  }
+}

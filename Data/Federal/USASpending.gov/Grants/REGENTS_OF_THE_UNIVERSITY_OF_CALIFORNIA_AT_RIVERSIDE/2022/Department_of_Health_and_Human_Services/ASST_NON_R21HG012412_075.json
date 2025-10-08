@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91303310,
+    "Award ID": "R21HG012412",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 601923,
+    "Total Outlays": 558601.7,
+    "Description": "NOVEL CHEMICAL PROBES FOR SEQUENCING MULTIPLE DNA MODIFICATIONS AT SINGLE-NUCLEOTIDE RESOLUTION - HUMAN DNA IS SUSCEPTIBLE TO CHEMICAL AND PHYSICAL AGENTS FROM ENDOGENOUS AND ENVIRONMENTAL SOURCES, PRODUCING VARIOUS DNA MODIFICATIONS. RESEARCH HAS DOCUMENTED A PLETHORA OF DNA MODIFICATIONS, INCLUDING MORE THAN 50 ENDOGENOUS NUCLEOBASE MODIFICATIONS AND MANY COVALENT ADDUCTS DERIVED FROM ENVIRONMENTAL CHEMICALS. CERTAIN DNA MODIFICATIONS FUNCTION IN GENE REGULATION, WHEREAS OTHER LESIONS HAVE MUTAGENIC AND PATHOGENIC EFFECTS. RECENT SEQUENCING DATA HAVE REVEALED THAT THE DISTRIBUTION OF DNA MODIFICATIONS IN THE GENOME IS NOT UNIFORM. MAPPING DNA MODIFICATIONS ON A GENOME-WIDE SCALE IS CRITICAL FOR CLARIFYING THEIR ROLES IN GENETIC REGULATION, DEVELOPMENT, AND PATHOGENESIS. UNFORTUNATELY, CURRENT METHODS FOR SEQUENCING DNA MODIFICATIONS SUFFER FROM ONE OR MORE DRAWBACKS IN TERMS OF SENSITIVITY, SPECIFICITY, RESOLUTION, AND THROUGHPUT. THIS PROPOSAL ADDRESSES THESE LIMITATIONS BY DEVELOPING A NOVEL DNA SEQUENCING METHOD ON ILLUMINA SEQUENCERS TO MAP MORE THAN 10 DNA MODIFICATIONS SIMULTANEOUSLY. THE SUCCESSFUL COMPLETION OF THIS PROPOSAL WILL FACILITATE THE PI’S LONG-TERM GOAL OF DECIPHERING THE FUNCTIONAL IMPORTANCE OF DNA MODIFICATIONS IN MUTAGENESIS AND GENE REGULATION. THE RESEARCH EXPLOITS THE CHEMISTRY OF DNA REPAIR AND DEVELOPS HIGHLY SPECIFIC CHEMICAL PROBES FOR SEQUENCING MULTIPLE DNA MODIFICATIONS AT SINGLE-NUCLEOTIDE RESOLUTION. THESE NOVEL CHEMICALS CAPTURE AND ENRICH ABASIC (AP) SITES, A CENTRAL INTERMEDIATE IN DNA REPAIR. IN ADDITION, TWO CHEMICAL PROBES SERVE AS UNIQUE LOCATOR CODES DURING AMPLIFICATION, ALLOWING SEQUENCING READOUT. SIMULTANEOUS MAPPING OF DIFFERENT DNA LESIONS WILL BE ACHIEVED THROUGH COUPLING LESION-SPECIFIC DNA REPAIR ENZYMES WITH MULTIPLEX SEQUENCING. THE PROPOSAL IS GROUNDED ON OUR COMPELLING DATA DEMONSTRATING THE FEASIBILITY OF TWO SYNTHETIC PROBES TO LABEL AND ENRICH AP DNA WITH HIGH SPECIFICITY AND SENSITIVITY. THE PROPOSED SEQUENCING PLATFORM WILL BE FURTHER DEVELOPED AND OPTIMIZED VIA TWO AIMS. AIM 1 IS TO OPTIMIZE THE WORKFLOW FOR SIMULTANEOUS SEQUENCING MULTIPLE ALKYLATED DNA MODIFICATIONS. AIM 2 IS TO SYNTHESIZE ANOTHER NOVEL COMPOUND FOR SEQUENCING CYTOSINE MODIFICATIONS AND MISPAIRS. THE EXPECTED OUTCOME IS THAT THE PROPOSED METHOD WILL ADDRESS A MAJOR UNMET NEED IN SEQUENCING MULTIPLE DNA MODIFICATIONS ON ILLUMINA SEQUENCERS. IN THE LONG RUN, THE DEVELOPED TECHNOLOGY WILL AID THE GENERATION OF SINGLE-NUCLEOTIDE RESOLUTION GENOMIC MAPS FOR VARIOUS DNA MODIFICATIONS IN A HIGH- THROUGHPUT AND COST-EFFECTIVE MANNER. THE PROPOSED RESEARCH IS SIGNIFICANT BECAUSE, COMPARED TO OTHER ILLUMINA- BASED METHODS, THE TECHNOLOGY WILL ALLOW GREATER THAN ONE ORDER OF MAGNITUDE IMPROVEMENT OVER EXISTING METHODS IN THE NUMBER OF MODIFICATIONS SEQUENCED, COMPLEMENTING THE RECENT PROGRESS WITH PACBIO AND NANOPORE TECHNOLOGIES. THE INNOVATION OF THE PROJECT LIES IN THE DEVELOPMENT OF NOVEL CHEMICAL PROBES TO FACILITATE ENRICHMENT, CREATIVE USE OF MULTIPLE REPAIR ENZYMES TO ENSURE MAPPING ACCURACY, AND THE TWO UNIQUE LOCATOR PROBES TO ALLOW AMPLIFICATION AND SEQUENCING READOUT. TOGETHER, THE INNOVATIVE METHOD WILL ACHIEVE UNPRECEDENTED SPECIFICITY AND SENSITIVITY, WHICH REDUCE SEQUENCING DEPTH AND COSTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-02",
+    "End Date": "2024-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R21HG012412_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91303310,
+    "generated_unique_award_id": "ASST_NON_R21HG012412_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NOVEL CHEMICAL PROBES FOR SEQUENCING MULTIPLE DNA MODIFICATIONS AT SINGLE-NUCLEOTIDE RESOLUTION - HUMAN DNA IS SUSCEPTIBLE TO CHEMICAL AND PHYSICAL AGENTS FROM ENDOGENOUS AND ENVIRONMENTAL SOURCES, PRODUCING VARIOUS DNA MODIFICATIONS. RESEARCH HAS DOCUMENTED A PLETHORA OF DNA MODIFICATIONS, INCLUDING MORE THAN 50 ENDOGENOUS NUCLEOBASE MODIFICATIONS AND MANY COVALENT ADDUCTS DERIVED FROM ENVIRONMENTAL CHEMICALS. CERTAIN DNA MODIFICATIONS FUNCTION IN GENE REGULATION, WHEREAS OTHER LESIONS HAVE MUTAGENIC AND PATHOGENIC EFFECTS. RECENT SEQUENCING DATA HAVE REVEALED THAT THE DISTRIBUTION OF DNA MODIFICATIONS IN THE GENOME IS NOT UNIFORM. MAPPING DNA MODIFICATIONS ON A GENOME-WIDE SCALE IS CRITICAL FOR CLARIFYING THEIR ROLES IN GENETIC REGULATION, DEVELOPMENT, AND PATHOGENESIS. UNFORTUNATELY, CURRENT METHODS FOR SEQUENCING DNA MODIFICATIONS SUFFER FROM ONE OR MORE DRAWBACKS IN TERMS OF SENSITIVITY, SPECIFICITY, RESOLUTION, AND THROUGHPUT. THIS PROPOSAL ADDRESSES THESE LIMITATIONS BY DEVELOPING A NOVEL DNA SEQUENCING METHOD ON ILLUMINA SEQUENCERS TO MAP MORE THAN 10 DNA MODIFICATIONS SIMULTANEOUSLY. THE SUCCESSFUL COMPLETION OF THIS PROPOSAL WILL FACILITATE THE PI’S LONG-TERM GOAL OF DECIPHERING THE FUNCTIONAL IMPORTANCE OF DNA MODIFICATIONS IN MUTAGENESIS AND GENE REGULATION. THE RESEARCH EXPLOITS THE CHEMISTRY OF DNA REPAIR AND DEVELOPS HIGHLY SPECIFIC CHEMICAL PROBES FOR SEQUENCING MULTIPLE DNA MODIFICATIONS AT SINGLE-NUCLEOTIDE RESOLUTION. THESE NOVEL CHEMICALS CAPTURE AND ENRICH ABASIC (AP) SITES, A CENTRAL INTERMEDIATE IN DNA REPAIR. IN ADDITION, TWO CHEMICAL PROBES SERVE AS UNIQUE LOCATOR CODES DURING AMPLIFICATION, ALLOWING SEQUENCING READOUT. SIMULTANEOUS MAPPING OF DIFFERENT DNA LESIONS WILL BE ACHIEVED THROUGH COUPLING LESION-SPECIFIC DNA REPAIR ENZYMES WITH MULTIPLEX SEQUENCING. THE PROPOSAL IS GROUNDED ON OUR COMPELLING DATA DEMONSTRATING THE FEASIBILITY OF TWO SYNTHETIC PROBES TO LABEL AND ENRICH AP DNA WITH HIGH SPECIFICITY AND SENSITIVITY. THE PROPOSED SEQUENCING PLATFORM WILL BE FURTHER DEVELOPED AND OPTIMIZED VIA TWO AIMS. AIM 1 IS TO OPTIMIZE THE WORKFLOW FOR SIMULTANEOUS SEQUENCING MULTIPLE ALKYLATED DNA MODIFICATIONS. AIM 2 IS TO SYNTHESIZE ANOTHER NOVEL COMPOUND FOR SEQUENCING CYTOSINE MODIFICATIONS AND MISPAIRS. THE EXPECTED OUTCOME IS THAT THE PROPOSED METHOD WILL ADDRESS A MAJOR UNMET NEED IN SEQUENCING MULTIPLE DNA MODIFICATIONS ON ILLUMINA SEQUENCERS. IN THE LONG RUN, THE DEVELOPED TECHNOLOGY WILL AID THE GENERATION OF SINGLE-NUCLEOTIDE RESOLUTION GENOMIC MAPS FOR VARIOUS DNA MODIFICATIONS IN A HIGH- THROUGHPUT AND COST-EFFECTIVE MANNER. THE PROPOSED RESEARCH IS SIGNIFICANT BECAUSE, COMPARED TO OTHER ILLUMINA- BASED METHODS, THE TECHNOLOGY WILL ALLOW GREATER THAN ONE ORDER OF MAGNITUDE IMPROVEMENT OVER EXISTING METHODS IN THE NUMBER OF MODIFICATIONS SEQUENCED, COMPLEMENTING THE RECENT PROGRESS WITH PACBIO AND NANOPORE TECHNOLOGIES. THE INNOVATION OF THE PROJECT LIES IN THE DEVELOPMENT OF NOVEL CHEMICAL PROBES TO FACILITATE ENRICHMENT, CREATIVE USE OF MULTIPLE REPAIR ENZYMES TO ENSURE MAPPING ACCURACY, AND THE TWO UNIQUE LOCATOR PROBES TO ALLOW AMPLIFICATION AND SEQUENCING READOUT. TOGETHER, THE INNOVATIVE METHOD WILL ACHIEVE UNPRECEDENTED SPECIFICITY AND SENSITIVITY, WHICH REDUCE SEQUENCING DEPTH AND COSTS.",
+    "total_obligation": 601923,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-08-02",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 558601.7,
+    "total_account_obligation": 601923,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 558601.7
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 601923
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Human Genome Research Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Human Genome Research Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-02",
+      "end_date": "2024-07-31",
+      "last_modified_date": "2023-12-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 558601.7
+  }
+}

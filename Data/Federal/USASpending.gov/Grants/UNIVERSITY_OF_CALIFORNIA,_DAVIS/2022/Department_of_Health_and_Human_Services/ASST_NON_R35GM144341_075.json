@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91329689,
+    "Award ID": "R35GM144341",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1808362,
+    "Total Outlays": 1686747.51,
+    "Description": "FUNCTION AND REGULATORY MECHANISMS OF THE WNT5A-ROR MORPHOGENETIC PATHWAY - PROJECT SUMMARY/ABSTRACT WNT5A-ROR SIGNALING IS AN EVOLUTIONARILY CONSERVED DEVELOPMENTAL SIGNALING PATHWAY THAT CONTROLS MORPHOGENETIC CELL AND TISSUE BEHAVIOR. MISREGULATION OF THE PATHWAY IN VERTEBRATES RESULTS IN PROFOUND TISSUE ELONGATION DEFECTS, INCLUDING SHORTENING AND WIDENING OF THE BODY AXIS, LIMBS, AND FACE. IN HUMANS, MUTATIONS IN KEY NODES OF THE PATHWAY, INCLUDING THE WNT5A LIGAND, THE ROR2 AND FRIZZLED (FZD2) CO-RECEPTORS, AND THE CYTOPLASMIC SIGNAL TRANSDUCERS DISHEVELLED (DVL) 1 AND DVL3, GIVE RISE TO ROBINOW SYNDROME, A CONGENITAL DISORDER WITH HIGHLY SIMILAR TISSUE ELONGATION PHENOTYPES. NOTABLY, BULLDOGS EXHIBIT SIMILAR PHYSICAL CHARACTERISTICS AND CARRY A MUTATION IN DVL2, ANALOGOUS TO THE HUMAN MUTATIONS IN DVL1 AND DVL3, THAT REDUCES ITS CAPACITY TO RESPOND TO WNT5A-ROR SIGNALS. DESPITE ITS PHYSIOLOGICAL AND CLINICAL IMPORTANCE, THE BIOCHEMICAL STEPS AND CYTOSKELETAL MECHANISMS THAT MEDIATE WNT5A-ROR SIGNALING REMAIN LARGELY UNCHARACTERIZED; CONSEQUENTLY, INSIGHTS INTO THE DISEASE MECHANISM(S) DRIVING ROBINOW SYNDROME ARE UNKNOWN. THE OVERARCHING GOAL OF OUR RESEARCH IS TO DISSECT WNT5A-ROR PATHWAY FUNCTION AND REGULATION AT THE BIOCHEMICAL, CELLULAR AND ORGANISMAL LEVELS. SPECIFICALLY, WE ASK IN THIS PROPOSAL: 1) HOW DOES THE ROR/FZD CO-RECEPTOR COMPLEX TRANSMIT WNT5A SIGNALS AT THE CELL SURFACE, AND HOW DO PATHOGENIC MUTATIONS IN ROR2 ALTER RECEPTOR COMPLEX FUNCTION? 2) HOW DO DVL SCAFFOLDING PROTEINS RELAY WNT5A-ROR SIGNALS IN THE CYTOSOL, AND HOW DO MUTATIONS IN HUMAN DVL1 AND DVL3 AND CANINE DVL2 DISRUPT DVL FUNCTION? 3) HOW DOES THE WNT5A-ROR PATHWAY ENGAGE THE CYTOSKELETON TO ALTER CELL BEHAVIOR AND BIOMECHANICS, AND HOW DO DISEASE MUTATIONS IN THE PATHWAY PERTURB THESE PROCESSES? TO ADDRESS THESE QUESTIONS, WE HAVE DEVELOPED NOVEL REPORTER ASSAYS THAT ENABLE QUANTITATIVE MEASUREMENT OF WNT5A-ROR SIGNALING ACTIVITY IN LIVE CELLS. WE HAVE ALSO DEVELOPED A HIGHLY PHYSIOLOGICAL CELL CULTURE SYSTEM IN WHICH WE CAN READILY KNOCK OUT AND RE-EXPRESS PROTEINS OF INTEREST AT NEAR-ENDOGENOUS LEVELS TO RESCUE SIGNALING. USING THIS APPROACH, WE WILL CONDUCT DETAILED ROR2 AND DVL STRUCTURE-FUNCTION ANALYSES TO IDENTIFY THE STRUCTURAL ELEMENTS AND MECHANISMS REQUIRED FOR THESE PROTEINS’ RESPECTIVE FUNCTIONS. THESE EXPERIMENTS WILL BE COMPLEMENTED BY PROTEIN BINDING STUDIES TO DEFINE ROR2 AND DVL PROTEIN INTERACTION NETWORKS AND HOW THEIR DISRUPTION CONTRIBUTES TO DISEASE PATHOGENESIS. TO ELUCIDATE THE CELL BIOLOGICAL FUNCTION OF THE PATHWAY, WE HAVE OPTIMIZED 2D AND 3D CULTURE SYSTEMS FOR CELL BEHAVIORAL ANALYSES AND IDENTIFIED A CRITICAL ROLE FOR WNT5A-ROR SIGNALING IN CONTROLLING CELL MIGRATION, STRESS FIBER STABILIZATION AND ACTOMYOSIN-BASED CONTRACTILITY. THESE OBSERVATIONS COINCIDE WITH BIOCHEMICAL AND SUBCELLULAR LOCALIZATION CHANGES IN THE RHOA-MLC-ACTOMYOSIN REGULATORY NETWORK. WE WILL CONDUCT PHARMACOLOGICAL AND GENETIC PERTURBATION EXPERIMENTS TO DISSECT THE FUNCTION OF THIS NETWORK IN NORMAL AND PATHOGENIC WNT5A-ROR-DIRECTED CELL BEHAVIORS. THE SUCCESSFUL COMPLETION OF THIS PROJECT WILL YIELD THE FIRST DETAILED MECHANISTIC PORTRAIT OF THE WNT5A-ROR SIGNALING NETWORK AND ILLUMINATE THE PATHOGENIC MECHANISMS OF WNT5A-ROR-DRIVEN DISEASES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-02-01",
+    "End Date": "2027-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM144341_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91329689,
+    "generated_unique_award_id": "ASST_NON_R35GM144341_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FUNCTION AND REGULATORY MECHANISMS OF THE WNT5A-ROR MORPHOGENETIC PATHWAY - PROJECT SUMMARY/ABSTRACT WNT5A-ROR SIGNALING IS AN EVOLUTIONARILY CONSERVED DEVELOPMENTAL SIGNALING PATHWAY THAT CONTROLS MORPHOGENETIC CELL AND TISSUE BEHAVIOR. MISREGULATION OF THE PATHWAY IN VERTEBRATES RESULTS IN PROFOUND TISSUE ELONGATION DEFECTS, INCLUDING SHORTENING AND WIDENING OF THE BODY AXIS, LIMBS, AND FACE. IN HUMANS, MUTATIONS IN KEY NODES OF THE PATHWAY, INCLUDING THE WNT5A LIGAND, THE ROR2 AND FRIZZLED (FZD2) CO-RECEPTORS, AND THE CYTOPLASMIC SIGNAL TRANSDUCERS DISHEVELLED (DVL) 1 AND DVL3, GIVE RISE TO ROBINOW SYNDROME, A CONGENITAL DISORDER WITH HIGHLY SIMILAR TISSUE ELONGATION PHENOTYPES. NOTABLY, BULLDOGS EXHIBIT SIMILAR PHYSICAL CHARACTERISTICS AND CARRY A MUTATION IN DVL2, ANALOGOUS TO THE HUMAN MUTATIONS IN DVL1 AND DVL3, THAT REDUCES ITS CAPACITY TO RESPOND TO WNT5A-ROR SIGNALS. DESPITE ITS PHYSIOLOGICAL AND CLINICAL IMPORTANCE, THE BIOCHEMICAL STEPS AND CYTOSKELETAL MECHANISMS THAT MEDIATE WNT5A-ROR SIGNALING REMAIN LARGELY UNCHARACTERIZED; CONSEQUENTLY, INSIGHTS INTO THE DISEASE MECHANISM(S) DRIVING ROBINOW SYNDROME ARE UNKNOWN. THE OVERARCHING GOAL OF OUR RESEARCH IS TO DISSECT WNT5A-ROR PATHWAY FUNCTION AND REGULATION AT THE BIOCHEMICAL, CELLULAR AND ORGANISMAL LEVELS. SPECIFICALLY, WE ASK IN THIS PROPOSAL: 1) HOW DOES THE ROR/FZD CO-RECEPTOR COMPLEX TRANSMIT WNT5A SIGNALS AT THE CELL SURFACE, AND HOW DO PATHOGENIC MUTATIONS IN ROR2 ALTER RECEPTOR COMPLEX FUNCTION? 2) HOW DO DVL SCAFFOLDING PROTEINS RELAY WNT5A-ROR SIGNALS IN THE CYTOSOL, AND HOW DO MUTATIONS IN HUMAN DVL1 AND DVL3 AND CANINE DVL2 DISRUPT DVL FUNCTION? 3) HOW DOES THE WNT5A-ROR PATHWAY ENGAGE THE CYTOSKELETON TO ALTER CELL BEHAVIOR AND BIOMECHANICS, AND HOW DO DISEASE MUTATIONS IN THE PATHWAY PERTURB THESE PROCESSES? TO ADDRESS THESE QUESTIONS, WE HAVE DEVELOPED NOVEL REPORTER ASSAYS THAT ENABLE QUANTITATIVE MEASUREMENT OF WNT5A-ROR SIGNALING ACTIVITY IN LIVE CELLS. WE HAVE ALSO DEVELOPED A HIGHLY PHYSIOLOGICAL CELL CULTURE SYSTEM IN WHICH WE CAN READILY KNOCK OUT AND RE-EXPRESS PROTEINS OF INTEREST AT NEAR-ENDOGENOUS LEVELS TO RESCUE SIGNALING. USING THIS APPROACH, WE WILL CONDUCT DETAILED ROR2 AND DVL STRUCTURE-FUNCTION ANALYSES TO IDENTIFY THE STRUCTURAL ELEMENTS AND MECHANISMS REQUIRED FOR THESE PROTEINS’ RESPECTIVE FUNCTIONS. THESE EXPERIMENTS WILL BE COMPLEMENTED BY PROTEIN BINDING STUDIES TO DEFINE ROR2 AND DVL PROTEIN INTERACTION NETWORKS AND HOW THEIR DISRUPTION CONTRIBUTES TO DISEASE PATHOGENESIS. TO ELUCIDATE THE CELL BIOLOGICAL FUNCTION OF THE PATHWAY, WE HAVE OPTIMIZED 2D AND 3D CULTURE SYSTEMS FOR CELL BEHAVIORAL ANALYSES AND IDENTIFIED A CRITICAL ROLE FOR WNT5A-ROR SIGNALING IN CONTROLLING CELL MIGRATION, STRESS FIBER STABILIZATION AND ACTOMYOSIN-BASED CONTRACTILITY. THESE OBSERVATIONS COINCIDE WITH BIOCHEMICAL AND SUBCELLULAR LOCALIZATION CHANGES IN THE RHOA-MLC-ACTOMYOSIN REGULATORY NETWORK. WE WILL CONDUCT PHARMACOLOGICAL AND GENETIC PERTURBATION EXPERIMENTS TO DISSECT THE FUNCTION OF THIS NETWORK IN NORMAL AND PATHOGENIC WNT5A-ROR-DIRECTED CELL BEHAVIORS. THE SUCCESSFUL COMPLETION OF THIS PROJECT WILL YIELD THE FIRST DETAILED MECHANISTIC PORTRAIT OF THE WNT5A-ROR SIGNALING NETWORK AND ILLUMINATE THE PATHOGENIC MECHANISMS OF WNT5A-ROR-DRIVEN DISEASES.",
+    "total_obligation": 1808362,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-01-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1686747.51,
+    "total_account_obligation": 1808362,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1686747.51
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1808362
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2022-02-01",
+      "end_date": "2027-01-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1686747.51
+  }
+}

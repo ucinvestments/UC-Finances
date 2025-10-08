@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91217780,
+    "Award ID": "R01HL159492",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1205000,
+    "Total Outlays": 644916.23,
+    "Description": "FORCING THE SINOATRIAL NODE PACEMAKER FUNCTION - PROJECT SUMMARY PACEMAKING SINOATRIAL NODE (SAN) THAT ORCHESTRATES THE HEART RHYTHM CAN BECOME DYSFUNCTIONAL WITH AGING. BIOPACEMAKERS COMPOSED OF HUMAN INDUCED PLURIPOTENT STEM CELL (HIPSC)-DERIVED PACEMAKING CARDIOMYOCYTES (P-CMS) CAN BE ONE THERAPEUTIC STRATEGY THAT CAN RESTORE THE SINUS RHYTHM IN PATIENTS SUFFERING FROM SAN DYSFUNCTION. THE DEVELOPMENT OF BIOPACEMAKERS IS HAMPERED BY ISSUES SUCH AS LOW DIFFERENTIATION YIELD OF P- CMS FROM HIPSCS AND THE LONG-TERM MAINTENANCE OF THE PACEMAKING FUNCTION IN ENGINEERED PACEMAKING TISSUES. THE FUNCTION AND PHENOTYPE OF P-CMS CAN BE AFFECTED BY MECHANICAL FORCES IMPOSED BY THE EXTRACELLULAR MATRIX (ECM) FORMING THE CELLULAR MICROENVIRONMENT AND THE CYCLIC STRAIN DUE TO CARDIAC CONTRACTIONS. THE ECM HAS BEEN WELL DEMONSTRATED FOR SHAPING THE PHENOTYPE OF THE WORKING CMS. HENCE, AN OPTIMAL ECM SHOULD ALSO PROMOTE AND SUSTAIN PACEMAKING FUNCTION IN P-CMS. WE HAVE DATA DEMONSTRATING THAT ECM OF THE SAN CAN BETTER SUSTAIN THE PACEMAKING PHENOTYPE IN HIPSC-DERIVED CMS EVEN WHEN SUBJECTED TO CYCLIC STRAIN COMPARED TO THE LEFT VENTRICULAR COUNTERPART BUT THE EXACT MECHANISMS THAT INDUCE AND MAINTAIN THE PACEMAKING PHENOTYPE ARE UNCLEAR. THE GOAL OF THIS PROJECT IS TO UNDERSTAND THE MECHANISMS OF MECHANOTRANSDUCTION IN P-CMS THAT CAN BE MODULATED BY THE ECM. WE HYPOTHESIZE THAT THE SAN ECM MAY MODULATE THE MECHANOTRANSDUCTION IN RESIDENT P-CMS VIA CELL-ECM JUNCTIONS AT THE COSTAMERES AND THE CELL-CELL JUNCTIONS AT THE FASCIA ADHERENS TO MAINTAIN THE PACEMAKING PHENOTYPE. TO TEST THE MECHANISTIC UNDERPINNINGS OF OUR HYPOTHESIS, WE PROPOSE THE FOLLOWING THREE AIMS: 1) TO DETERMINE THE CELL-ECM-MEDIATED MECHANOTRANSDUCTION SIGNALING IN P-CMS, 2) TO DETERMINE THE CELL-CELL-MEDIATED MECHANOTRANSDUCTION SIGNALING IN THE P-CMS, AND 3) TO DETERMINE THE INTEGRATED CELL-ECM AND CELL-CELL JUNCTION NETWORK IN MECHANOTRANSDUCTION SIGNALING IN THE P-CMS. A BETTER UNDERSTANDING OF THE MECHANOTRANSDUCTION MECHANISMS IN P-CMS CAN YIELD A SOURCE OF HUMAN P-CMS FROM HIPSCS WITH LONG- TERM PACEMAKING FUNCTION, A SET OF MICROENVIRONMENTAL CRITERIA NECESSARY FOR ENGINEERING SUSTAINABLE BIOPACEMAKERS AND INSPIRE FUTURE NEW THERAPEUTIC OR PREVENTIVE STRATEGIES FOR SAN DYSFUNCTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172305",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-07-26",
+    "End Date": "2027-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL159492_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91217780,
+    "generated_unique_award_id": "ASST_NON_R01HL159492_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FORCING THE SINOATRIAL NODE PACEMAKER FUNCTION - PROJECT SUMMARY PACEMAKING SINOATRIAL NODE (SAN) THAT ORCHESTRATES THE HEART RHYTHM CAN BECOME DYSFUNCTIONAL WITH AGING. BIOPACEMAKERS COMPOSED OF HUMAN INDUCED PLURIPOTENT STEM CELL (HIPSC)-DERIVED PACEMAKING CARDIOMYOCYTES (P-CMS) CAN BE ONE THERAPEUTIC STRATEGY THAT CAN RESTORE THE SINUS RHYTHM IN PATIENTS SUFFERING FROM SAN DYSFUNCTION. THE DEVELOPMENT OF BIOPACEMAKERS IS HAMPERED BY ISSUES SUCH AS LOW DIFFERENTIATION YIELD OF P- CMS FROM HIPSCS AND THE LONG-TERM MAINTENANCE OF THE PACEMAKING FUNCTION IN ENGINEERED PACEMAKING TISSUES. THE FUNCTION AND PHENOTYPE OF P-CMS CAN BE AFFECTED BY MECHANICAL FORCES IMPOSED BY THE EXTRACELLULAR MATRIX (ECM) FORMING THE CELLULAR MICROENVIRONMENT AND THE CYCLIC STRAIN DUE TO CARDIAC CONTRACTIONS. THE ECM HAS BEEN WELL DEMONSTRATED FOR SHAPING THE PHENOTYPE OF THE WORKING CMS. HENCE, AN OPTIMAL ECM SHOULD ALSO PROMOTE AND SUSTAIN PACEMAKING FUNCTION IN P-CMS. WE HAVE DATA DEMONSTRATING THAT ECM OF THE SAN CAN BETTER SUSTAIN THE PACEMAKING PHENOTYPE IN HIPSC-DERIVED CMS EVEN WHEN SUBJECTED TO CYCLIC STRAIN COMPARED TO THE LEFT VENTRICULAR COUNTERPART BUT THE EXACT MECHANISMS THAT INDUCE AND MAINTAIN THE PACEMAKING PHENOTYPE ARE UNCLEAR. THE GOAL OF THIS PROJECT IS TO UNDERSTAND THE MECHANISMS OF MECHANOTRANSDUCTION IN P-CMS THAT CAN BE MODULATED BY THE ECM. WE HYPOTHESIZE THAT THE SAN ECM MAY MODULATE THE MECHANOTRANSDUCTION IN RESIDENT P-CMS VIA CELL-ECM JUNCTIONS AT THE COSTAMERES AND THE CELL-CELL JUNCTIONS AT THE FASCIA ADHERENS TO MAINTAIN THE PACEMAKING PHENOTYPE. TO TEST THE MECHANISTIC UNDERPINNINGS OF OUR HYPOTHESIS, WE PROPOSE THE FOLLOWING THREE AIMS: 1) TO DETERMINE THE CELL-ECM-MEDIATED MECHANOTRANSDUCTION SIGNALING IN P-CMS, 2) TO DETERMINE THE CELL-CELL-MEDIATED MECHANOTRANSDUCTION SIGNALING IN THE P-CMS, AND 3) TO DETERMINE THE INTEGRATED CELL-ECM AND CELL-CELL JUNCTION NETWORK IN MECHANOTRANSDUCTION SIGNALING IN THE P-CMS. A BETTER UNDERSTANDING OF THE MECHANOTRANSDUCTION MECHANISMS IN P-CMS CAN YIELD A SOURCE OF HUMAN P-CMS FROM HIPSCS WITH LONG- TERM PACEMAKING FUNCTION, A SET OF MICROENVIRONMENTAL CRITERIA NECESSARY FOR ENGINEERING SUSTAINABLE BIOPACEMAKERS AND INSPIRE FUTURE NEW THERAPEUTIC OR PREVENTIVE STRATEGIES FOR SAN DYSFUNCTION.",
+    "total_obligation": 1205000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-07-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 644916.23,
+    "total_account_obligation": 1205000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 644916.23
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1205000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-07-26",
+      "end_date": "2027-05-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2305",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 644916.23
+  }
+}

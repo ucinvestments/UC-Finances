@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89112101,
+    "Award ID": "K24HL141354",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+    "Award Amount": 729564.48,
+    "Total Outlays": 307783.01,
+    "Description": "USE AND OUTCOMES OF ANTICOAGULANTS FOR THE TREATMENT AND PREVENTION OF THROMBOSIS AMONG HOSPITALIZED PATIENTS",
+    "Contract Award Type": "",
+    "Recipient UEI": "KMH5K9V7S518",
+    "Recipient Location": {
+      "address_line1": "1855 FOLSOM ST STE 425",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4249",
+      "zip5": "94103"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "941432206",
+      "zip5": "94143"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2018-07-01",
+    "End Date": "2024-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K24HL141354_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89112101,
+    "generated_unique_award_id": "ASST_NON_K24HL141354_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "USE AND OUTCOMES OF ANTICOAGULANTS FOR THE TREATMENT AND PREVENTION OF THROMBOSIS AMONG HOSPITALIZED PATIENTS",
+    "total_obligation": 729564.48,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2018-06-19",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 307783.01,
+    "total_account_obligation": 486376.32,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 307783.01
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 486376.32
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2018-07-01",
+      "end_date": "2024-06-30",
+      "last_modified_date": "2024-12-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "recipient_uei": "KMH5K9V7S518",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "parent_recipient_uei": "KMH5K9V7S518",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN FRANCISCO",
+        "county_code": "075",
+        "county_name": "SAN FRANCISCO",
+        "address_line1": "1855 FOLSOM ST STE 425",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "11",
+        "zip4": "4249",
+        "zip5": "94103",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN FRANCISCO",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "11",
+      "zip4": "2206",
+      "zip5": "94143",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 307783.01
+  }
+}

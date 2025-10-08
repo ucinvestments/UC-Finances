@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 69577338,
+    "Award ID": "5860487037",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 145200,
+    "Total Outlays": 79771.61,
+    "Description": "USE OF GENOME WIDE ASSOCIATION STUDIES (GWAS) FOR THE ELUCIDATION OF GENES UNDERLYING SORGHUM RESISTANCE TO THE SUGARCANE APHID - THE SUGARCANE APHID (SCA: MELANAPHIS SACCHARI) POSES A RECENT AND SEVERE PEST CHALLENGE TO GRAIN SORGHUM GROWERS AND THE ENTIRE RELATED VALUE CHAIN. TO ADDRESS THE SCA CRISIS, THE CURRENT EFFORT SEEKS TO IDENTIFY GENETIC AND METABOLIC TRAITS ASSOCIATED WITH SCA RESISTANCE OR TOLERANCE. FIELD-BASED ASSESSMENTS OF 1) SCA RESISTANCE AND 2) SPECIALIZED DEFENSE-RELATED METABOLITES WILL BE ANALYZED IN 2 LARGE SORGHUM ASSOCIATION PANELS, NAMELY THE SORGHUM ASSOCIATION PANEL (SAP) AND THE SORGHUM BIOENERGY ASSOCIATION PANEL (BAP) WITH SEED STOCKS CURATED BY THE USDA GERMPLASM RESOURCES INFORMATION NETWORK (GRIN) AND FOR WHICH EXTENSIVE GENOTYPE DATA ARE IMMEDIATELY AVAILABLE. ALL MEASURED TRAITS WILL BE UTILIZED FOR GENOME WIDE ASSOCIATION STUDIES (GWAS) USING ASSOCIATION MAPPING TO IDENTIFY QUANTITATIVE TRAIT LOCI (QTLS) AND CANDIDATE GENES ASSOCIATED WITH SCA RESISTANCE AND SORGHUM DEFENSES. GENETIC AND/OR BIOCHEMICAL MECHANISMS UNCOVERED CAN THEN BE LEVERAGED FOR TARGETED IMPROVEMENTS IN BREEDING FOR SCA RESISTANCE OR TOLERANCE IN SORGHUM.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": "DEPT 621",
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "49",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0621",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "49",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92093-0116",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Agricultural Research Service",
+    "Start Date": "2017-09-01",
+    "End Date": "2021-09-01",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_5860487037_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 69577338,
+    "generated_unique_award_id": "ASST_NON_5860487037_012",
+    "piid": "",
+    "category": "other",
+    "type": "11",
+    "type_description": "OTHER REIMBURSABLE, CONTINGENT, INTANGIBLE, OR INDIRECT FINANCIAL ASSISTANCE",
+    "description": "USE OF GENOME WIDE ASSOCIATION STUDIES (GWAS) FOR THE ELUCIDATION OF GENES UNDERLYING SORGHUM RESISTANCE TO THE SUGARCANE APHID - THE SUGARCANE APHID (SCA: MELANAPHIS SACCHARI) POSES A RECENT AND SEVERE PEST CHALLENGE TO GRAIN SORGHUM GROWERS AND THE ENTIRE RELATED VALUE CHAIN. TO ADDRESS THE SCA CRISIS, THE CURRENT EFFORT SEEKS TO IDENTIFY GENETIC AND METABOLIC TRAITS ASSOCIATED WITH SCA RESISTANCE OR TOLERANCE. FIELD-BASED ASSESSMENTS OF 1) SCA RESISTANCE AND 2) SPECIALIZED DEFENSE-RELATED METABOLITES WILL BE ANALYZED IN 2 LARGE SORGHUM ASSOCIATION PANELS, NAMELY THE SORGHUM ASSOCIATION PANEL (SAP) AND THE SORGHUM BIOENERGY ASSOCIATION PANEL (BAP) WITH SEED STOCKS CURATED BY THE USDA GERMPLASM RESOURCES INFORMATION NETWORK (GRIN) AND FOR WHICH EXTENSIVE GENOTYPE DATA ARE IMMEDIATELY AVAILABLE. ALL MEASURED TRAITS WILL BE UTILIZED FOR GENOME WIDE ASSOCIATION STUDIES (GWAS) USING ASSOCIATION MAPPING TO IDENTIFY QUANTITATIVE TRAIT LOCI (QTLS) AND CANDIDATE GENES ASSOCIATED WITH SCA RESISTANCE AND SORGHUM DEFENSES. GENETIC AND/OR BIOCHEMICAL MECHANISMS UNCOVERED CAN THEN BE LEVERAGED FOR TARGETED IMPROVEMENTS IN BREEDING FOR SCA RESISTANCE OR TOLERANCE IN SORGHUM.",
+    "total_obligation": 145200,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2018-08-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 79771.61,
+    "total_account_obligation": 43560,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 79771.61
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 43560
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "awarding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "period_of_performance": {
+      "start_date": "2017-09-01",
+      "end_date": "2021-09-01",
+      "last_modified_date": "2020-07-23",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": "804355790",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": "DEPT 621",
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0621",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0116",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 79771.61
+  }
+}

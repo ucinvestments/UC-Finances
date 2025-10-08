@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 75629434,
+    "Award ID": "84042201",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 799660,
+    "Total Outlays": 562200.05,
+    "Description": "DESCRIPTION:\nTHE PURPOSE OF THE PROPOSED RESEARCH IS TO DEVELOP A PORTABLE, SMALL, LIGHTWEIGHT, LOW-POWER INSTRUMENT FOR NEAR REAL-TIME SPECIATION AND QUANTIFICATION OF VOLATILE ORGANIC COMPOUNDS (VOCS), INCLUDING HAZARDOUS AIR POLLUTANTS (HAPS), IN THE AMBIENT ATMOSPHERE AND INDOORS.\nACTIVITIES:\nTHE PROPOSED PROJECT WILL BUILD, TEST, AND FIELD DEPLOY A GAS CHROMATOGRAPHY CROSSFLOW ION MOBILITY SPECTROMETER (GC-CF-IMS) THAT IS MODERATE IN COST, CAN PROVIDE MEASUREMENTS AT GOOD TIME RESOLUTION, REQUIRES LOW POWER, IS COMPACT AND LIGHTWEIGHT, AND CAN IDENTIFY INDIVIDUAL COMPOUNDS THAT ARE HAZARDOUS AIR POLLUTANTS (HAPS). AT LEAST TWO FIELD STUDIES WILL BE CONDUCTED WITH THE INSTRUMENT TO TEST ITS CAPABILITIES IN SITUATIONS RELEVANT TO COMMUNITIES FACING ENVIRONMENTAL INJUSTICES. A COMMUNITY ADVISORY COMMITTEE WILL BE FORMED TO ASSIST IN DEVELOPING A DEPLOYMENT STRATEGY FOR FIELD TESTING IN SUCH COMMUNITIES AND IN WORKING WITH THESE COMMUNITIES TO UNDERSTAND THE STUDY RESULTS AND TRANSLATE THEM INTO ACTIONS FOR REDUCING EXPOSURE TO HAPS.\nOUTCOMES:\nTHE ANTICIPATED DELIVERABLES ARE ANNUAL PROGRESS AND FINAL REPORTS. THE EXPECTED OUTCOMES INCLUDE A NEW INSTRUMENT SUITABLE FOR UNDER-RESOURCED COMMUNITIES TO USE TO DETECT HAZARDOUS AIR POLLUTANTS (HAPS) IN THE AIR THEY BREATHE AND USE THIS INFORMATION TO MOTIVATE EMISSIONS CONTROLS LEADING TO CLEANER AIR AND CONSEQUENTLY IMPROVED HEALTH. THE INTENDED BENEFICIARIES ARE THE SCIENTIFIC COMMUNITY AND COMMUNITIES AFFECTED BY AIR TOXIC POLLUTION.\nSUBRECIPIENT:\nNO SUBAWARDS ARE INCLUDED IN THIS ASSISTANCE AGREEMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "22",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Environmental Protection Agency",
+    "Awarding Sub Agency": "Environmental Protection Agency",
+    "Start Date": "2022-05-01",
+    "End Date": "2027-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_84042201_068",
+    "awarding_agency_id": 700,
+    "agency_slug": "environmental-protection-agency",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 75629434,
+    "generated_unique_award_id": "ASST_NON_84042201_068",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DESCRIPTION:\nTHE PURPOSE OF THE PROPOSED RESEARCH IS TO DEVELOP A PORTABLE, SMALL, LIGHTWEIGHT, LOW-POWER INSTRUMENT FOR NEAR REAL-TIME SPECIATION AND QUANTIFICATION OF VOLATILE ORGANIC COMPOUNDS (VOCS), INCLUDING HAZARDOUS AIR POLLUTANTS (HAPS), IN THE AMBIENT ATMOSPHERE AND INDOORS.\nACTIVITIES:\nTHE PROPOSED PROJECT WILL BUILD, TEST, AND FIELD DEPLOY A GAS CHROMATOGRAPHY CROSSFLOW ION MOBILITY SPECTROMETER (GC-CF-IMS) THAT IS MODERATE IN COST, CAN PROVIDE MEASUREMENTS AT GOOD TIME RESOLUTION, REQUIRES LOW POWER, IS COMPACT AND LIGHTWEIGHT, AND CAN IDENTIFY INDIVIDUAL COMPOUNDS THAT ARE HAZARDOUS AIR POLLUTANTS (HAPS). AT LEAST TWO FIELD STUDIES WILL BE CONDUCTED WITH THE INSTRUMENT TO TEST ITS CAPABILITIES IN SITUATIONS RELEVANT TO COMMUNITIES FACING ENVIRONMENTAL INJUSTICES. A COMMUNITY ADVISORY COMMITTEE WILL BE FORMED TO ASSIST IN DEVELOPING A DEPLOYMENT STRATEGY FOR FIELD TESTING IN SUCH COMMUNITIES AND IN WORKING WITH THESE COMMUNITIES TO UNDERSTAND THE STUDY RESULTS AND TRANSLATE THEM INTO ACTIONS FOR REDUCING EXPOSURE TO HAPS.\nOUTCOMES:\nTHE ANTICIPATED DELIVERABLES ARE ANNUAL PROGRESS AND FINAL REPORTS. THE EXPECTED OUTCOMES INCLUDE A NEW INSTRUMENT SUITABLE FOR UNDER-RESOURCED COMMUNITIES TO USE TO DETECT HAZARDOUS AIR POLLUTANTS (HAPS) IN THE AIR THEY BREATHE AND USE THIS INFORMATION TO MOTIVATE EMISSIONS CONTROLS LEADING TO CLEANER AIR AND CONSEQUENTLY IMPROVED HEALTH. THE INTENDED BENEFICIARIES ARE THE SCIENTIFIC COMMUNITY AND COMMUNITIES AFFECTED BY AIR TOXIC POLLUTION.\nSUBRECIPIENT:\nNO SUBAWARDS ARE INCLUDED IN THIS ASSISTANCE AGREEMENT.",
+    "total_obligation": 799660,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-04-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 562200.05,
+    "total_account_obligation": 799660,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 562200.05
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 799660
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 700,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "068",
+        "abbreviation": "EPA",
+        "slug": "environmental-protection-agency"
+      },
+      "subtier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "6800",
+        "abbreviation": "EPA"
+      },
+      "office_agency_name": "OFC RESEARCH  DEV (ORD) (FUNDING)"
+    },
+    "awarding_agency": {
+      "id": 700,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "068",
+        "abbreviation": "EPA",
+        "slug": "environmental-protection-agency"
+      },
+      "subtier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "6800",
+        "abbreviation": "EPA"
+      },
+      "office_agency_name": "OFC GRANTS \u0026 DEBARMENT(OGD) (GRANT)"
+    },
+    "period_of_performance": {
+      "start_date": "2022-05-01",
+      "end_date": "2027-04-30",
+      "last_modified_date": "2025-07-30",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 562200.05
+  }
+}

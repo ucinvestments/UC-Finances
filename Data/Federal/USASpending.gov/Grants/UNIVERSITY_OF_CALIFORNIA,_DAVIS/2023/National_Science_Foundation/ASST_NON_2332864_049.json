@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57264260,
+    "Award ID": "2332864",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2629323,
+    "Total Outlays": 1646003.75,
+    "Description": "AI INSTITUTES VIRTUAL ORGANIZATION (AIVO): EXPANDING THE NETWORK -THE NATIONAL ARTIFICIAL INTELLIGENCE (AI) RESEARCH INSTITUTES PROGRAM IS A MULTI-AGENCY AND MULTI-SECTOR EFFORT IMPLEMENTING THE U.S. FEDERAL GOVERNMENT STRATEGY TO ADVANCE A COHESIVE APPROACH TO AI-RELATED OPPORTUNITIES AND RISKS. LAUNCHED IN 2019, THE PROGRAM NOW INCLUDES 25 AI INSTITUTES. EACH INSTITUTE IS A LARGE-SCALE EFFORT INVOLVING A NETWORK OF MULTIPLE FUNDED ORGANIZATIONS, MANY RESEARCH PROFESSIONALS, AND COMMUNITY PARTNERS WORKING TOGETHER TO ADVANCE AND APPLY AI KNOWLEDGE AND METHODS AND BUILD NEW PLATFORMS FOR AI RESEARCH INFRASTRUCTURE AND INNOVATION. IN THIS PROJECT, THE AI INSTITUTES VIRTUAL ORGANIZATION (AIVO) BUILDS A COMMUNITY HUB ACTIVITY THAT CONNECTS THESE INDIVIDUAL INSTITUTES INTO A NETWORK OF NETWORKS THAT IS GREATER THAN THE SUM OF ITS PARTS. THE KEY ACTIVITIES OF AIVO IN THIS PROJECT INCLUDE THE PLANNING AND HOSTING OF ANNUAL MEETINGS OF THE INSTITUTES FOR KNOWLEDGE EXCHANGE, COORDINATION OF PUBLIC ENGAGEMENT WITH THE INSTITUTES AND THEIR WORK, AND A RANGE OF NEW PROGRAMS FOR BUILDING NEW COLLABORATIONS AMONG THE INSTITUTES AND WITH THE BROADER RESEARCH COMMUNITY. THE NINE INTERRELATED EFFORTS UNDER THIS PROJECT ESTABLISH EXCELLENT CONDITIONS TO FORM COMMUNITIES AND ADDRESS TOPICS ACROSS INSTITUTE BOUNDARIES. AIVO IS AN NSF-FUNDED, COMMUNITY-LED ACTIVITY FOR COORDINATION, COLLABORATION, AND COMMUNITY BUILDING IN THE AI INSTITUTES PROGRAM COMMUNITY. IN THIS PROJECT, AIVO WILL EXPAND COMMUNITY ENGAGEMENT IN NINE INTERRELATED PROJECTS: 1) PLANNING AND CONDUCTING THE PROGRAM-WIDE LEADERSHIP CONFERENCE, SUMMIT FOR AI INSTITUTES LEADERSHIP (SAIL 2023); 2) PLANNING AND CONDUCTING A PUBLIC ENGAGEMENT EVENT CO-LOCATED WITH SAIL 2023 FOR THE EXPOSITION OF AI INSTITUTES TO BROADER SOCIETY AND THE EXPLORATION OF NEW COLLABORATIONS; 3) PLANNING FOR FUTURE SUCH LEADERSHIP AND PUBLIC ENGAGEMENT CONFERENCES; 4) DEVELOPMENT AND INTEGRATION OF DYNAMIC AND COLLABORATIVE FEATURES FOR THE AIVO WEB SITE TO DELIVER A LIVE LOOK AT INSTITUTE ACTIVITY, IMPLEMENT COLLABORATIVE FEATURES, AND MAKE THE PROJECTS AND PERSONNEL OF THE INSTITUTES ACCESSIBLE TO THE PUBLIC; 5) A PROGRAM TO SUPPORT INSTITUTES IN DEVELOPING NEW INTERNATIONAL COLLABORATIONS; 6) THE HOSTING OF INTRA-INSTITUTE COLLABORATION PLATFORMS TO FACILITATE COMMUNITY GROWTH; 7) A PROGRAM TO PROVIDE TRAVEL ASSISTANCE GRANTS TO INSTITUTES TO INCREASE ATTENDANCE OF EARLY-CAREER RESEARCHERS AT KEY AI CONFERENCES; THE FORMALIZATION AND SUPPORT TO SPECIAL INTEREST GROUPS (SIGS) TO BRING TOGETHER PERSONNEL FROM DIVERSE INSTITUTES AROUND PRIORITY TOPICS; AND 9) DEVELOPMENT AND HOSTING OF AIVO WORKSHOPS TO BUILD INTER-INSTITUTE COMMUNITY AROUND COMMON THEMES OF INTEREST. TOGETHER, THE EFFORTS OF THIS VIRTUAL ORGANIZATION REPRESENT A ROBUST SUITE OF INSTITUTE SUPPORT PROGRAMS AND EXPERTISE TO ENHANCE THE IMPACT OF A KEY NATIONAL INVESTMENT IN AI AND REACH A MUCH WIDER AUDIENCE THROUGH DIVERSE ENGAGEMENT MECHANISMS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-09-01",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2332864_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57264260,
+    "generated_unique_award_id": "ASST_NON_2332864_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AI INSTITUTES VIRTUAL ORGANIZATION (AIVO): EXPANDING THE NETWORK -THE NATIONAL ARTIFICIAL INTELLIGENCE (AI) RESEARCH INSTITUTES PROGRAM IS A MULTI-AGENCY AND MULTI-SECTOR EFFORT IMPLEMENTING THE U.S. FEDERAL GOVERNMENT STRATEGY TO ADVANCE A COHESIVE APPROACH TO AI-RELATED OPPORTUNITIES AND RISKS. LAUNCHED IN 2019, THE PROGRAM NOW INCLUDES 25 AI INSTITUTES. EACH INSTITUTE IS A LARGE-SCALE EFFORT INVOLVING A NETWORK OF MULTIPLE FUNDED ORGANIZATIONS, MANY RESEARCH PROFESSIONALS, AND COMMUNITY PARTNERS WORKING TOGETHER TO ADVANCE AND APPLY AI KNOWLEDGE AND METHODS AND BUILD NEW PLATFORMS FOR AI RESEARCH INFRASTRUCTURE AND INNOVATION. IN THIS PROJECT, THE AI INSTITUTES VIRTUAL ORGANIZATION (AIVO) BUILDS A COMMUNITY HUB ACTIVITY THAT CONNECTS THESE INDIVIDUAL INSTITUTES INTO A NETWORK OF NETWORKS THAT IS GREATER THAN THE SUM OF ITS PARTS. THE KEY ACTIVITIES OF AIVO IN THIS PROJECT INCLUDE THE PLANNING AND HOSTING OF ANNUAL MEETINGS OF THE INSTITUTES FOR KNOWLEDGE EXCHANGE, COORDINATION OF PUBLIC ENGAGEMENT WITH THE INSTITUTES AND THEIR WORK, AND A RANGE OF NEW PROGRAMS FOR BUILDING NEW COLLABORATIONS AMONG THE INSTITUTES AND WITH THE BROADER RESEARCH COMMUNITY. THE NINE INTERRELATED EFFORTS UNDER THIS PROJECT ESTABLISH EXCELLENT CONDITIONS TO FORM COMMUNITIES AND ADDRESS TOPICS ACROSS INSTITUTE BOUNDARIES. AIVO IS AN NSF-FUNDED, COMMUNITY-LED ACTIVITY FOR COORDINATION, COLLABORATION, AND COMMUNITY BUILDING IN THE AI INSTITUTES PROGRAM COMMUNITY. IN THIS PROJECT, AIVO WILL EXPAND COMMUNITY ENGAGEMENT IN NINE INTERRELATED PROJECTS: 1) PLANNING AND CONDUCTING THE PROGRAM-WIDE LEADERSHIP CONFERENCE, SUMMIT FOR AI INSTITUTES LEADERSHIP (SAIL 2023); 2) PLANNING AND CONDUCTING A PUBLIC ENGAGEMENT EVENT CO-LOCATED WITH SAIL 2023 FOR THE EXPOSITION OF AI INSTITUTES TO BROADER SOCIETY AND THE EXPLORATION OF NEW COLLABORATIONS; 3) PLANNING FOR FUTURE SUCH LEADERSHIP AND PUBLIC ENGAGEMENT CONFERENCES; 4) DEVELOPMENT AND INTEGRATION OF DYNAMIC AND COLLABORATIVE FEATURES FOR THE AIVO WEB SITE TO DELIVER A LIVE LOOK AT INSTITUTE ACTIVITY, IMPLEMENT COLLABORATIVE FEATURES, AND MAKE THE PROJECTS AND PERSONNEL OF THE INSTITUTES ACCESSIBLE TO THE PUBLIC; 5) A PROGRAM TO SUPPORT INSTITUTES IN DEVELOPING NEW INTERNATIONAL COLLABORATIONS; 6) THE HOSTING OF INTRA-INSTITUTE COLLABORATION PLATFORMS TO FACILITATE COMMUNITY GROWTH; 7) A PROGRAM TO PROVIDE TRAVEL ASSISTANCE GRANTS TO INSTITUTES TO INCREASE ATTENDANCE OF EARLY-CAREER RESEARCHERS AT KEY AI CONFERENCES; THE FORMALIZATION AND SUPPORT TO SPECIAL INTEREST GROUPS (SIGS) TO BRING TOGETHER PERSONNEL FROM DIVERSE INSTITUTES AROUND PRIORITY TOPICS; AND 9) DEVELOPMENT AND HOSTING OF AIVO WORKSHOPS TO BUILD INTER-INSTITUTE COMMUNITY AROUND COMMON THEMES OF INTEREST. TOGETHER, THE EFFORTS OF THIS VIRTUAL ORGANIZATION REPRESENT A ROBUST SUITE OF INSTITUTE SUPPORT PROGRAMS AND EXPERTISE TO ENHANCE THE IMPACT OF A KEY NATIONAL INVESTMENT IN AI AND REACH A MUCH WIDER AUDIENCE THROUGH DIVERSE ENGAGEMENT MECHANISMS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 2629323,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-08-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1729757.99,
+    "total_account_obligation": 2629323,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1729757.99
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2629323
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INFOR  INTELLIGENT SYSTEMS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INFOR  INTELLIGENT SYSTEMS"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2025-07-17",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1729757.99
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74726448,
+    "Award ID": "80NSSC18K1487",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 1397826.03,
+    "Total Outlays": 684413.94,
+    "Description": "NEXT-GENERATION SATELLITE AND SUBORBITAL COSMIC MICROWAVE BACKGROUND (CMB) MISSIONS TARGET THE DETECTION OF GRAVITATIONAL WAVES FROM INFLATION THROUGH THE NANOKELVIN FLUCTUATIONS THEY INDUCE IN THE B-MODE POLARIZATION. WE ALREADY KNOW THAT THIS SIGNAL IS FAINTER THAN THE POLARIZED EMISSION FROM RELATIVISTIC ELECTRONS AND DUST IN OUR GALAXY AT ALL FREQUENCIES  EVEN IN THE CLEANEST REGIONS OF THE SKY. THE SUCCESS OF FUTURE CMB MISSIONS THEREFORE DEPENDS ON OUR ABILITY TO CONTROL GALACTIC FOREGROUND CONTAMINATION TO EXQUISITE PRECISION. THIS IN TURN REQUIRES DETAILED OPTIMIZATION OF THE INSTRUMENT DESIGN AND OBSERVING STRATEGY  AND VALIDATION AND VERIFICATION OF THE ANALYSIS PIPELINE  BOTH IN THE PRESENCE OF SUCH SIGNALS. OUR WORK WILL DELIVER THE SYNTHETIC DATASETS REQUIRED TO DO THIS  INCLUDING BOTH REALISTIC MODELS OF THE GALACTIC FOREGROUNDS AND DETAILED MODELING OF THE INEVITABLE SYSTEMATIC EFFECTS INDUCED BY IMPERFECT INSTRUMENTS  UNCERTAIN OBSERVATIONS  AND APPROXIMATE ANALYSIS ALGORITHMS. IN ADDITION  IT WILL SUPPORT STUDIES OF THE COMPLEMENTARITY BETWEEN SATELLITE AND SUBORBITAL CMB MISSIONS  THE CROSSCORRELATION OF CMB AND OTHER MISSIONS  AND OF THE USE OF THE ALL-SKY MAPS OF POLARIZED MICROWAVE EMISSION PRODUCED BY SUCH A CMB MISSION FOR GALACTIC SCIENCE. TO ACHIEVE THESE GOALS  WE WILL COUPLE THE THEORETICAL EXPERTISE ACROSS OUR 4 NODES WITH STATE-OF-THE-ART HIGH-PERFORMANCE COMPUTING (HPC) RESOURCES BOTH (I) TO DEVELOP MORE REALISTIC MODELS OF POLARIZED GALACTIC EMISSION OVER THE FULL RANGE OF FREQUENCIES AND ANGULAR SCALES RELEVANT TO CMB MISSIONS  AND (II) TO GENERATE AND REDUCE MORE DETAILED SYNTHETIC CMB MISSION DATA INCLUDING THE CRITICAL SYSTEMATIC EFFECTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "2150 SHATTUCK AVE RM 313",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5940",
+      "zip5": "94704"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94704-3373",
+      "zip5": "94704"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2018-10-01",
+    "End Date": "2022-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC18K1487_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74726448,
+    "generated_unique_award_id": "ASST_NON_80NSSC18K1487_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NEXT-GENERATION SATELLITE AND SUBORBITAL COSMIC MICROWAVE BACKGROUND (CMB) MISSIONS TARGET THE DETECTION OF GRAVITATIONAL WAVES FROM INFLATION THROUGH THE NANOKELVIN FLUCTUATIONS THEY INDUCE IN THE B-MODE POLARIZATION. WE ALREADY KNOW THAT THIS SIGNAL IS FAINTER THAN THE POLARIZED EMISSION FROM RELATIVISTIC ELECTRONS AND DUST IN OUR GALAXY AT ALL FREQUENCIES  EVEN IN THE CLEANEST REGIONS OF THE SKY. THE SUCCESS OF FUTURE CMB MISSIONS THEREFORE DEPENDS ON OUR ABILITY TO CONTROL GALACTIC FOREGROUND CONTAMINATION TO EXQUISITE PRECISION. THIS IN TURN REQUIRES DETAILED OPTIMIZATION OF THE INSTRUMENT DESIGN AND OBSERVING STRATEGY  AND VALIDATION AND VERIFICATION OF THE ANALYSIS PIPELINE  BOTH IN THE PRESENCE OF SUCH SIGNALS. OUR WORK WILL DELIVER THE SYNTHETIC DATASETS REQUIRED TO DO THIS  INCLUDING BOTH REALISTIC MODELS OF THE GALACTIC FOREGROUNDS AND DETAILED MODELING OF THE INEVITABLE SYSTEMATIC EFFECTS INDUCED BY IMPERFECT INSTRUMENTS  UNCERTAIN OBSERVATIONS  AND APPROXIMATE ANALYSIS ALGORITHMS. IN ADDITION  IT WILL SUPPORT STUDIES OF THE COMPLEMENTARITY BETWEEN SATELLITE AND SUBORBITAL CMB MISSIONS  THE CROSSCORRELATION OF CMB AND OTHER MISSIONS  AND OF THE USE OF THE ALL-SKY MAPS OF POLARIZED MICROWAVE EMISSION PRODUCED BY SUCH A CMB MISSION FOR GALACTIC SCIENCE. TO ACHIEVE THESE GOALS  WE WILL COUPLE THE THEORETICAL EXPERTISE ACROSS OUR 4 NODES WITH STATE-OF-THE-ART HIGH-PERFORMANCE COMPUTING (HPC) RESOURCES BOTH (I) TO DEVELOP MORE REALISTIC MODELS OF POLARIZED GALACTIC EMISSION OVER THE FULL RANGE OF FREQUENCIES AND ANGULAR SCALES RELEVANT TO CMB MISSIONS  AND (II) TO GENERATE AND REDUCE MORE DETAILED SYNTHETIC CMB MISSION DATA INCLUDING THE CRITICAL SYSTEMATIC EFFECTS.",
+    "total_obligation": 1397826.03,
+    "subaward_count": 2,
+    "total_subaward_amount": 733194.69,
+    "date_signed": "2018-09-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 684413.94,
+    "total_account_obligation": 474048.03,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 684413.94
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 474048.03
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2018-10-01",
+      "end_date": "2022-09-30",
+      "last_modified_date": "2024-09-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "2150 SHATTUCK AVE RM 313",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5940",
+        "zip5": "94704",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "3373",
+      "zip5": "94704",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 684413.94
+  }
+}

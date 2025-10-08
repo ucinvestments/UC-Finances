@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91228785,
+    "Award ID": "R01MH125873",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1906847,
+    "Total Outlays": 1531555.09,
+    "Description": "SEX AND PUBERTAL INFLUENCES ON DEVELOPMENTAL TRAJECTORIES OF BRAIN NETWORKS INVOLVED IN SCHIZOPHRENIA - DESPITE CLEAR SCIENTIFIC AND RELEVANCE TO PUBLIC HEALTH, THE MECHANISMS UNDERLYING HETEROGENEITY IN SCHIZOPHRENIA (SZ) ARE POORLY UNDERSTOOD. THERE IS A CRITICAL NEED TO IDENTIFY MECHANISMS THAT CONTRIBUTE TO HETEROGENEITY AS CURRENT TREATMENTS ARE INEFFECTIVE FOR THE MAJORITY OF PATIENTS. ONE SOURCE OF HETEROGENEITY IS BIOLOGICAL SEX. OUR CENTRAL HYPOTHESIS IS THAT: (1) SEX-DIFFERENTIAL SYMPTOMS IN SZ ARISE FROM SEX DIFFERENCES IN SPECIFIC NEURAL NETWORKS, AND (2) THESE SEX DIFFERENCES EMERGE AS A CONSEQUENCE OF PUBERTAL INFLUENCES DURING THE CRITICAL NEURODEVELOPMENTAL PERIOD OF ADOLESCENCE. THE ADOLESCENT BRAIN AND COGNITIVE DEVELOPMENT STUDY (ABCD), A 10-YEAR LONGITUDINAL STUDY FOLLOWING 11,875 9-10-YEAR-OLDS INTO EARLY ADULTHOOD, IS UNIQUELY CAPABLE OF TESTING THIS HYPOTHESIS. IN RESPONSE TO THIS FOA, WE PROPOSE TO USE ABCD BASELINE AND FOLLOW UP DATA YEARS 1-6 TO EXAMINE SEX AND PUBERTAL INFLUENCES ON ADOLESCENT DEVELOPMENT OF TWO NEURAL NETWORKS ASSOCIATED WITH SEX DIFFERENCES IN SZ. WE WILL ASSESS TASK-BASED ACTIVATION AND CONNECTIVITY IN THE FRONTAL-LIMBIC EMOTION REGULATION AND FRONTAL-STRIATAL REWARD PROCESSING NETWORKS USING EMOTIONAL N-BACK AND MONETARY INCENTIVE DELAY FMRI TASK DATA RESPECTIVELY. WE WILL ALSO ASSESS RESTING STATE FUNCTIONAL CONNECTIVITY (RSFC) IN EACH NETWORK. WE WILL TEST SEX AND PUBERTAL INFLUENCES ON ACTIVATION AND CONNECTIVITY IN EACH NETWORK AT ABCD BASELINE (AIM 1), AS WELL AS ASSOCIATIONS BETWEEN SEX, PUBERTY, AND DEVELOPMENTAL TRAJECTORIES OF EACH NETWORK (AIM 2), AND THE DEVELOPMENT OF PSYCHOSIS, NEGATIVE VALENCE, AND POSITIVE VALENCE SYSTEM SYMPTOMS (AIM 3) FROM BASELINE (9- 10 YEARS OLD) TO YEAR 6 (15-16 YEARS OLD). WE WILL PURSUE THE FOLLOWING SPECIFIC AIMS: 1. CHARACTERIZE SEX DIFFERENCES AND EFFECTS OF PUBERTY MARKERS ON FRONTAL-LIMBIC AND FRONTAL-STRIATAL NETWORKS AT BASELINE AS MEASURED BY TASK-BASED FMRI AND RSFC. WE HYPOTHESIZE VARIABILITY IN PUBERTY MARKERS (DEVELOPMENT, HORMONES) RELATES TO VARIABILITY IN FRONTAL-LIMBIC AND FRONTAL-STRIATAL NETWORKS AND THAT SEX MODERATES THESE RELATIONSHIPS. 2. TEST EFFECTS OF SEX AND PUBERTY MARKERS ON AGE-RELATED CHANGES IN FRONTAL-LIMBIC AND FRONTAL-STRIATAL NETWORKS AS MEASURED BY TASK-BASED FMRI AND RSFC AT BASELINE, 2-, 4-, AND 6-YEAR FOLLOW UP. WE HYPOTHESIZE AGE-RELATED CHANGES IN PUBERTY MARKERS MEDIATE DEVELOPMENTAL TRAJECTORIES OF THESE NETWORKS AND THAT SEX MODERATES THESE RELATIONSHIPS. 3. DETERMINE IF SEX AND/OR PUBERTY MARKERS MODERATE ACTIVATION AND CONNECTIVITY OF EACH NETWORK AT BASELINE, 2-, 4-, AND 6-YEAR FOLLOW UP IN RELATION TO DEVELOPMENT OF PSYCHOSIS AND SYMPTOMS RELATED TO NEGATIVE AND POSITIVE VALENCE SYSTEMS IN YEARS 1- 6. WE PREDICT SEX AND PUBERTY MARKERS WILL COVARY WITH FRONTAL-LIMBIC AND FRONTAL-STRIATAL NETWORKS OVER TIME TO PREDICT SUBSEQUENT DEVELOPMENT OF SEX-DIFFERENTIAL SYMPTOMS IN SZ. THIS WORK WILL DETERMINE SEX AND PUBERTAL MODIFIERS OF NEURODEVELOPMENTAL TRAJECTORIES THAT CONTRIBUTE TO THE EMERGENCE OF SZ, A MAJOR NIMH PRIORITY. RESULTS WILL ANSWER CRITICAL QUESTIONS ABOUT MECHANISMS UNDERLYING HETEROGENEITY IN SZ AND WILL HAVE A SUBSTANTIAL PUBLIC HEALTH IMPACT BY ADVANCING NEW SEX-BASED PRECISION MEDICINE TREATMENTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172219",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-03-01",
+    "End Date": "2025-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01MH125873_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91228785,
+    "generated_unique_award_id": "ASST_NON_R01MH125873_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SEX AND PUBERTAL INFLUENCES ON DEVELOPMENTAL TRAJECTORIES OF BRAIN NETWORKS INVOLVED IN SCHIZOPHRENIA - DESPITE CLEAR SCIENTIFIC AND RELEVANCE TO PUBLIC HEALTH, THE MECHANISMS UNDERLYING HETEROGENEITY IN SCHIZOPHRENIA (SZ) ARE POORLY UNDERSTOOD. THERE IS A CRITICAL NEED TO IDENTIFY MECHANISMS THAT CONTRIBUTE TO HETEROGENEITY AS CURRENT TREATMENTS ARE INEFFECTIVE FOR THE MAJORITY OF PATIENTS. ONE SOURCE OF HETEROGENEITY IS BIOLOGICAL SEX. OUR CENTRAL HYPOTHESIS IS THAT: (1) SEX-DIFFERENTIAL SYMPTOMS IN SZ ARISE FROM SEX DIFFERENCES IN SPECIFIC NEURAL NETWORKS, AND (2) THESE SEX DIFFERENCES EMERGE AS A CONSEQUENCE OF PUBERTAL INFLUENCES DURING THE CRITICAL NEURODEVELOPMENTAL PERIOD OF ADOLESCENCE. THE ADOLESCENT BRAIN AND COGNITIVE DEVELOPMENT STUDY (ABCD), A 10-YEAR LONGITUDINAL STUDY FOLLOWING 11,875 9-10-YEAR-OLDS INTO EARLY ADULTHOOD, IS UNIQUELY CAPABLE OF TESTING THIS HYPOTHESIS. IN RESPONSE TO THIS FOA, WE PROPOSE TO USE ABCD BASELINE AND FOLLOW UP DATA YEARS 1-6 TO EXAMINE SEX AND PUBERTAL INFLUENCES ON ADOLESCENT DEVELOPMENT OF TWO NEURAL NETWORKS ASSOCIATED WITH SEX DIFFERENCES IN SZ. WE WILL ASSESS TASK-BASED ACTIVATION AND CONNECTIVITY IN THE FRONTAL-LIMBIC EMOTION REGULATION AND FRONTAL-STRIATAL REWARD PROCESSING NETWORKS USING EMOTIONAL N-BACK AND MONETARY INCENTIVE DELAY FMRI TASK DATA RESPECTIVELY. WE WILL ALSO ASSESS RESTING STATE FUNCTIONAL CONNECTIVITY (RSFC) IN EACH NETWORK. WE WILL TEST SEX AND PUBERTAL INFLUENCES ON ACTIVATION AND CONNECTIVITY IN EACH NETWORK AT ABCD BASELINE (AIM 1), AS WELL AS ASSOCIATIONS BETWEEN SEX, PUBERTY, AND DEVELOPMENTAL TRAJECTORIES OF EACH NETWORK (AIM 2), AND THE DEVELOPMENT OF PSYCHOSIS, NEGATIVE VALENCE, AND POSITIVE VALENCE SYSTEM SYMPTOMS (AIM 3) FROM BASELINE (9- 10 YEARS OLD) TO YEAR 6 (15-16 YEARS OLD). WE WILL PURSUE THE FOLLOWING SPECIFIC AIMS: 1. CHARACTERIZE SEX DIFFERENCES AND EFFECTS OF PUBERTY MARKERS ON FRONTAL-LIMBIC AND FRONTAL-STRIATAL NETWORKS AT BASELINE AS MEASURED BY TASK-BASED FMRI AND RSFC. WE HYPOTHESIZE VARIABILITY IN PUBERTY MARKERS (DEVELOPMENT, HORMONES) RELATES TO VARIABILITY IN FRONTAL-LIMBIC AND FRONTAL-STRIATAL NETWORKS AND THAT SEX MODERATES THESE RELATIONSHIPS. 2. TEST EFFECTS OF SEX AND PUBERTY MARKERS ON AGE-RELATED CHANGES IN FRONTAL-LIMBIC AND FRONTAL-STRIATAL NETWORKS AS MEASURED BY TASK-BASED FMRI AND RSFC AT BASELINE, 2-, 4-, AND 6-YEAR FOLLOW UP. WE HYPOTHESIZE AGE-RELATED CHANGES IN PUBERTY MARKERS MEDIATE DEVELOPMENTAL TRAJECTORIES OF THESE NETWORKS AND THAT SEX MODERATES THESE RELATIONSHIPS. 3. DETERMINE IF SEX AND/OR PUBERTY MARKERS MODERATE ACTIVATION AND CONNECTIVITY OF EACH NETWORK AT BASELINE, 2-, 4-, AND 6-YEAR FOLLOW UP IN RELATION TO DEVELOPMENT OF PSYCHOSIS AND SYMPTOMS RELATED TO NEGATIVE AND POSITIVE VALENCE SYSTEMS IN YEARS 1- 6. WE PREDICT SEX AND PUBERTY MARKERS WILL COVARY WITH FRONTAL-LIMBIC AND FRONTAL-STRIATAL NETWORKS OVER TIME TO PREDICT SUBSEQUENT DEVELOPMENT OF SEX-DIFFERENTIAL SYMPTOMS IN SZ. THIS WORK WILL DETERMINE SEX AND PUBERTAL MODIFIERS OF NEURODEVELOPMENTAL TRAJECTORIES THAT CONTRIBUTE TO THE EMERGENCE OF SZ, A MAJOR NIMH PRIORITY. RESULTS WILL ANSWER CRITICAL QUESTIONS ABOUT MECHANISMS UNDERLYING HETEROGENEITY IN SZ AND WILL HAVE A SUBSTANTIAL PUBLIC HEALTH IMPACT BY ADVANCING NEW SEX-BASED PRECISION MEDICINE TREATMENTS.",
+    "total_obligation": 1906847,
+    "subaward_count": 3,
+    "total_subaward_amount": 302679,
+    "date_signed": "2021-02-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1531555.09,
+    "total_account_obligation": 1906847,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1531555.09
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1906847
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2021-03-01",
+      "end_date": "2025-12-31",
+      "last_modified_date": "2024-12-17",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2219",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1531555.09
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74725451,
+    "Award ID": "80NSSC18K0437",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+    "Award Amount": 1268186.45,
+    "Total Outlays": 876448.56,
+    "Description": "FOOD WEB DYNAMICS PLAY AN IMPORTANT ROLE IN PARTITIONING THE PELAGIC NET COMMUNITY PRODUCTION (NCP) BETWEEN PARTICULATE (POM) AND DISSOLVED ORGANIC MATTER (DOM). APPROXIMATELY 50% OF THE DOM PRODUCED IS RAPIDLY CONSUMED TO MEET BACTERIAL CARBON DEMAND. HOWEVER  BIOTIC AND ABIOTIC TRANSFORMATION OF ORGANIC MATTER CAN LEAD TO THE ACCUMULATION OF CARBON-RICH DOM RESISTANT TO RAPID MICROBIAL DEGRADATION IN THE SURFACE OCEAN; A FRACTION OF THIS PERSISTS LONG ENOUGH TO BE ENTRAINED DURING OVERTURN SUCH THAT IT IMPACTS THE EFFICIENCY AND MAGNITUDE OF THE BIOLOGICAL CARBON PUMP. THE VERTICAL REDISTRIBUTION OF DOM RESULTS IN THE GLOBAL OCEAN EXPORT OF ~1.8 PG C FROM THE EUPHOTIC ZONE  OR ~20% OF THE TOTAL EXPORT PRODUCTION. THUS  VERTICAL EXPORT OF DOM REPRESENTS ONE OF THE FIVE MAJOR FLUX PATHWAYS CENTRAL TO THE EXPORT PROGRAM. THE CONTRIBUTION OF DOM TO EXPORT FLUX IS MOST PRONOUNCED AT HIGH LATITUDES WHERE CONVECTIVE MIXING AND SUBMESOSCALE PROCESSES DELIVER DISSOLVED AND SUSPENDED MATERIALS TO THE DEPTH  WHEREBY THE CARBON IS SEQUESTERED FOR DECADES TO MILLENNIA. TO RESOLVE THE CONTRIBUTION DOM TO EXPORT IT IS CRITICAL TO OBTAIN HIGH QUALITY DOM DATA  ASSESS THE CONTROLS ON ITS NET PRODUCTION  CHEMICALLY CHARACTERIZE THE ACCUMULATED POOL  AND QUANTIFY EXPORT; IT IS CRITICAL TO ASSESS THE MICROBIAL BIOAVAILABILITY AT EACH ECOSYSTEM / CARBON CYCLING (ECC) STATE OBSERVED BY THE EXPORTS FIELD CAMPAIGNS IN THE NORTH PACIFIC AND NORTH ATLANTIC. THE GUIDING HYPOTHESES OF THIS PROPOSED PROJECT ARE: H1: GIVEN QUANTIFICATION OF NCP  THE NET PRODUCTION (ACCUMULATION) OF DOC IS A PREDICTABLE PROCESS FOR THESE SUBARCTIC SYSTEMS. H2: GIVEN MEASURES OF VERTICAL OVERTURN  DOC EXPORT TO THE TWILIGHT ZONE IS A PREDICTABLE PROCESS. THE CARLSON (UCSB) AND HANSELL (RSMAS) TEAM HAS OVER TWO DECADES OF EXPERIENCE RESOLVING TEMPORAL AND BASIN SCALE DISTRIBUTIONS BULK DOC AND DON ACROSS THE GLOBAL OCEAN AND  FROM THOSE  THEIR CONTRIBUTIONS TO VERTICAL FLUX. THEY HAVE EXPERIENCE DETERMINING THE DIAGENETIC CHARACTERIZATION OF DOM THROUGH THE MEASURE OF SPECIFIC COMPOUNDS SUCH AS THE DISSOLVED COMBINED NEUTRAL SUGAR COMPONENT. THEY HAVE OPTIMIZED THE MICROBIAL REMINERALIZATION BIOASSAYS NECESSARY TO ASSESS THE BIOAVAILABILITY / PERSISTENCE (I.E. EXPORT POTENTIAL) OF THE ACCUMULATED DOM. THE TEAM IS POISED TO GENERATE MISSION-CRITICAL DATA FOR EXPORTS (TABLE 2 OF THE IMPLEMENTATION PLAN) THAT ADDRESS COMPONENTS OF SCIENTIFIC QUESTIONS SQ1 AND SQ2. SPECIFICALLY  THIS PROPOSED WORK AIMS TO: A. UNDERSTAND CONTROLS ON THE FRACTIONS OF NET PRIMARY PRODUCTION AND NET COMMUNITY PRODUCTION PARTITIONED AS DOC AND DON B. DETERMINE THE FLUX OF THE MOST LABILE FRACTION OF DOM REQUIRED TO MEET CARBON DEMAND OF HETEROTROPHIC BACTERIAL PRODUCTION (I.E. BACTERIAL CARBON DEMAND) C. DETERMINE DOM BIOAVAILABILITY TO MICROBES AND THE FRACTION OF THE SEASONALLY ACCUMULATED POOL THAT PERSISTS FOR WEEKS TO MONTHS D. ASSESS DOM DIAGENETIC STATE (COMPOSITIONAL VARIATIONS) OVER VARYING ECOSYSTEM / CARBON CYCLING (ECC) STATES. E. EVALUATE PHYSICAL MIXING OF DOM OUT OF THE EUPHOTIC ZONE  ITS CONTRIBUTION TO EXPORT AND ITS FATE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "G9QBQDH39DF4",
+    "Recipient Location": {
+      "address_line1": "3227 CHEADLE HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SANTA BARBARA",
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "93106"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SANTA BARBARA",
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "93106-0001",
+      "zip5": "93106"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2018-01-19",
+    "End Date": "2023-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2e3fd571-0484-5e6b-3e26-4381689012c6-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC18K0437_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74725451,
+    "generated_unique_award_id": "ASST_NON_80NSSC18K0437_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FOOD WEB DYNAMICS PLAY AN IMPORTANT ROLE IN PARTITIONING THE PELAGIC NET COMMUNITY PRODUCTION (NCP) BETWEEN PARTICULATE (POM) AND DISSOLVED ORGANIC MATTER (DOM). APPROXIMATELY 50% OF THE DOM PRODUCED IS RAPIDLY CONSUMED TO MEET BACTERIAL CARBON DEMAND. HOWEVER  BIOTIC AND ABIOTIC TRANSFORMATION OF ORGANIC MATTER CAN LEAD TO THE ACCUMULATION OF CARBON-RICH DOM RESISTANT TO RAPID MICROBIAL DEGRADATION IN THE SURFACE OCEAN; A FRACTION OF THIS PERSISTS LONG ENOUGH TO BE ENTRAINED DURING OVERTURN SUCH THAT IT IMPACTS THE EFFICIENCY AND MAGNITUDE OF THE BIOLOGICAL CARBON PUMP. THE VERTICAL REDISTRIBUTION OF DOM RESULTS IN THE GLOBAL OCEAN EXPORT OF ~1.8 PG C FROM THE EUPHOTIC ZONE  OR ~20% OF THE TOTAL EXPORT PRODUCTION. THUS  VERTICAL EXPORT OF DOM REPRESENTS ONE OF THE FIVE MAJOR FLUX PATHWAYS CENTRAL TO THE EXPORT PROGRAM. THE CONTRIBUTION OF DOM TO EXPORT FLUX IS MOST PRONOUNCED AT HIGH LATITUDES WHERE CONVECTIVE MIXING AND SUBMESOSCALE PROCESSES DELIVER DISSOLVED AND SUSPENDED MATERIALS TO THE DEPTH  WHEREBY THE CARBON IS SEQUESTERED FOR DECADES TO MILLENNIA. TO RESOLVE THE CONTRIBUTION DOM TO EXPORT IT IS CRITICAL TO OBTAIN HIGH QUALITY DOM DATA  ASSESS THE CONTROLS ON ITS NET PRODUCTION  CHEMICALLY CHARACTERIZE THE ACCUMULATED POOL  AND QUANTIFY EXPORT; IT IS CRITICAL TO ASSESS THE MICROBIAL BIOAVAILABILITY AT EACH ECOSYSTEM / CARBON CYCLING (ECC) STATE OBSERVED BY THE EXPORTS FIELD CAMPAIGNS IN THE NORTH PACIFIC AND NORTH ATLANTIC. THE GUIDING HYPOTHESES OF THIS PROPOSED PROJECT ARE: H1: GIVEN QUANTIFICATION OF NCP  THE NET PRODUCTION (ACCUMULATION) OF DOC IS A PREDICTABLE PROCESS FOR THESE SUBARCTIC SYSTEMS. H2: GIVEN MEASURES OF VERTICAL OVERTURN  DOC EXPORT TO THE TWILIGHT ZONE IS A PREDICTABLE PROCESS. THE CARLSON (UCSB) AND HANSELL (RSMAS) TEAM HAS OVER TWO DECADES OF EXPERIENCE RESOLVING TEMPORAL AND BASIN SCALE DISTRIBUTIONS BULK DOC AND DON ACROSS THE GLOBAL OCEAN AND  FROM THOSE  THEIR CONTRIBUTIONS TO VERTICAL FLUX. THEY HAVE EXPERIENCE DETERMINING THE DIAGENETIC CHARACTERIZATION OF DOM THROUGH THE MEASURE OF SPECIFIC COMPOUNDS SUCH AS THE DISSOLVED COMBINED NEUTRAL SUGAR COMPONENT. THEY HAVE OPTIMIZED THE MICROBIAL REMINERALIZATION BIOASSAYS NECESSARY TO ASSESS THE BIOAVAILABILITY / PERSISTENCE (I.E. EXPORT POTENTIAL) OF THE ACCUMULATED DOM. THE TEAM IS POISED TO GENERATE MISSION-CRITICAL DATA FOR EXPORTS (TABLE 2 OF THE IMPLEMENTATION PLAN) THAT ADDRESS COMPONENTS OF SCIENTIFIC QUESTIONS SQ1 AND SQ2. SPECIFICALLY  THIS PROPOSED WORK AIMS TO: A. UNDERSTAND CONTROLS ON THE FRACTIONS OF NET PRIMARY PRODUCTION AND NET COMMUNITY PRODUCTION PARTITIONED AS DOC AND DON B. DETERMINE THE FLUX OF THE MOST LABILE FRACTION OF DOM REQUIRED TO MEET CARBON DEMAND OF HETEROTROPHIC BACTERIAL PRODUCTION (I.E. BACTERIAL CARBON DEMAND) C. DETERMINE DOM BIOAVAILABILITY TO MICROBES AND THE FRACTION OF THE SEASONALLY ACCUMULATED POOL THAT PERSISTS FOR WEEKS TO MONTHS D. ASSESS DOM DIAGENETIC STATE (COMPOSITIONAL VARIATIONS) OVER VARYING ECOSYSTEM / CARBON CYCLING (ECC) STATES. E. EVALUATE PHYSICAL MIXING OF DOM OUT OF THE EUPHOTIC ZONE  ITS CONTRIBUTION TO EXPORT AND ITS FATE.",
+    "total_obligation": 1268186.45,
+    "subaward_count": 4,
+    "total_subaward_amount": 637312,
+    "date_signed": "2018-02-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 876448.56,
+    "total_account_obligation": 254271.45,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 876448.56
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 254271.45
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2018-01-19",
+      "end_date": "2023-01-31",
+      "last_modified_date": "2024-09-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2e3fd571-0484-5e6b-3e26-4381689012c6-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+      "recipient_uei": "G9QBQDH39DF4",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Local Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SANTA BARBARA",
+        "county_code": "083",
+        "county_name": "SANTA BARBARA",
+        "address_line1": "3227 CHEADLE HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "24",
+        "zip4": "0001",
+        "zip5": "93106",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SANTA BARBARA",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "24",
+      "zip4": "0001",
+      "zip5": "93106",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 876448.56
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91359643,
+    "Award ID": "R56AG083336",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 795542,
+    "Total Outlays": 310396.32,
+    "Description": "IDENTIFYING LIPID MEDIATOR PATHWAYS INVOLVED IN NEURONAL SURVIVAL AND REPAIR IN ALZHEIMER'S DISEASE - PROJECT SUMMARY / ABSTRACT ALZHEIMER’S DISEASE (AD) IS AN INCURABLE BRAIN DISORDER WHICH AFFECTS 1 IN 10 INDIVIDUALS ABOVE THE AGE OF 65. WITH AGE, THERE IS A PROGRESSIVE LOSS OF NEURONS IN THE BRAIN THAT BECOMES ACCELERATED IN THE PRESENCE OF AD PATHOLOGY, RESULTING IN COGNITIVE DECLINE. ALTHOUGH MULTIPLE PATHOLOGICAL PROCESSES IN THE BRAIN (E.G. INFLAMMATION, AMYLOID OR TAU) CAN CAUSE NEURONAL LOSS, LITTLE IS KNOWN ABOUT PATHWAYS THAT PROMOTE NEURONAL SURVIVAL AND REPAIR. DATA FROM OUR LAB SUGGEST THAT NEURONAL SURVIVAL AND REPAIR PATHWAYS ARE REGULATED BY A CLASS OF BIOACTIVE ‘PRO-REPAIR LIPID MEDIATORS’ THAT ARE MOSTLY BOUND/ESTERIFIED TO BRAIN PHOSPHOLIPIDS. UNLIKE FREE LIPID MEDIATORS, PRO-REPAIR MEDIATORS TRAPPED IN PHOSPHOLIPIDS ARE INACTIVE AND CANNOT REPAIR THE BRAIN. IN AD, THERE IS A DEFICIT IN FREE PRO-REPAIR LIPID MEDIATORS IN THE BRAIN WHICH COULD BE CAUSED BY INCREASED ‘TRAPPING’ IN PHOSPHOLIPIDS AND OTHER LIPID POOLS. THE MAIN GOAL OF THIS PROPOSAL IS TO UNDERSTAND WHETHER NEURONAL LOSS IN AD IS CAUSED BY DEFICITS IN THE SUPPLY OF FREE PRO-REPAIR LIPID MEDIATORS FROM BRAIN ESTERIFIED LIPID POOLS. THE CENTRAL HYPOTHESIS IS THAT IN AD, NEURONAL DAMAGE AND LOSS OCCUR BECAUSE OF DEFICITS IN THE SUPPLY OF FREE PRO-REPAIR LIPID MEDIATORS FROM ESTERIFIED LIPID POOLS. IN AIM 1, WE WILL USE TRACER STUDIES TO UNDERSTAND THE TIME-COURSE OF CHANGES IN PRO- REPAIR LIPID MEDIATOR TURNOVER FROM ESTERIFIED LIPID POOLS IN RELATION TO NEURONAL LOSS, COGNITIVE IMPAIRMENTS AND PATHOLOGICAL MARKERS OF AD (E.G. INFLAMMATION) IN A TRANSGENIC RAT MODEL OF AD. IN AIM 2, WE WILL TEST WHETHER REPLETION OF ESTERIFIED PRO-REPAIR LIPID MEDIATOR POOLS IN AD RATS, CONFERS NEUROPROTECTION AND REVERSES BEHAVIORAL (COGNITIVE) IMPAIRMENTS BY INCREASING THE SUPPLY OF FREE PRO-REPAIR LIPID MEDIATORS. UNDERSTANDING WHETHER THE SUPPLY OF FREE LIPID MEDIATORS FROM ESTERIFIED POOLS IS DEFECTIVE IN AD, PAVES THE WAY FOR DEVELOPING TARGETED THERAPIES THAT CAN REVIVE NEURONAL LOSS AND COGNITIVE IMPAIRMENTS CAUSED BY THE DISEASE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-30",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R56AG083336_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91359643,
+    "generated_unique_award_id": "ASST_NON_R56AG083336_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "IDENTIFYING LIPID MEDIATOR PATHWAYS INVOLVED IN NEURONAL SURVIVAL AND REPAIR IN ALZHEIMER'S DISEASE - PROJECT SUMMARY / ABSTRACT ALZHEIMER’S DISEASE (AD) IS AN INCURABLE BRAIN DISORDER WHICH AFFECTS 1 IN 10 INDIVIDUALS ABOVE THE AGE OF 65. WITH AGE, THERE IS A PROGRESSIVE LOSS OF NEURONS IN THE BRAIN THAT BECOMES ACCELERATED IN THE PRESENCE OF AD PATHOLOGY, RESULTING IN COGNITIVE DECLINE. ALTHOUGH MULTIPLE PATHOLOGICAL PROCESSES IN THE BRAIN (E.G. INFLAMMATION, AMYLOID OR TAU) CAN CAUSE NEURONAL LOSS, LITTLE IS KNOWN ABOUT PATHWAYS THAT PROMOTE NEURONAL SURVIVAL AND REPAIR. DATA FROM OUR LAB SUGGEST THAT NEURONAL SURVIVAL AND REPAIR PATHWAYS ARE REGULATED BY A CLASS OF BIOACTIVE ‘PRO-REPAIR LIPID MEDIATORS’ THAT ARE MOSTLY BOUND/ESTERIFIED TO BRAIN PHOSPHOLIPIDS. UNLIKE FREE LIPID MEDIATORS, PRO-REPAIR MEDIATORS TRAPPED IN PHOSPHOLIPIDS ARE INACTIVE AND CANNOT REPAIR THE BRAIN. IN AD, THERE IS A DEFICIT IN FREE PRO-REPAIR LIPID MEDIATORS IN THE BRAIN WHICH COULD BE CAUSED BY INCREASED ‘TRAPPING’ IN PHOSPHOLIPIDS AND OTHER LIPID POOLS. THE MAIN GOAL OF THIS PROPOSAL IS TO UNDERSTAND WHETHER NEURONAL LOSS IN AD IS CAUSED BY DEFICITS IN THE SUPPLY OF FREE PRO-REPAIR LIPID MEDIATORS FROM BRAIN ESTERIFIED LIPID POOLS. THE CENTRAL HYPOTHESIS IS THAT IN AD, NEURONAL DAMAGE AND LOSS OCCUR BECAUSE OF DEFICITS IN THE SUPPLY OF FREE PRO-REPAIR LIPID MEDIATORS FROM ESTERIFIED LIPID POOLS. IN AIM 1, WE WILL USE TRACER STUDIES TO UNDERSTAND THE TIME-COURSE OF CHANGES IN PRO- REPAIR LIPID MEDIATOR TURNOVER FROM ESTERIFIED LIPID POOLS IN RELATION TO NEURONAL LOSS, COGNITIVE IMPAIRMENTS AND PATHOLOGICAL MARKERS OF AD (E.G. INFLAMMATION) IN A TRANSGENIC RAT MODEL OF AD. IN AIM 2, WE WILL TEST WHETHER REPLETION OF ESTERIFIED PRO-REPAIR LIPID MEDIATOR POOLS IN AD RATS, CONFERS NEUROPROTECTION AND REVERSES BEHAVIORAL (COGNITIVE) IMPAIRMENTS BY INCREASING THE SUPPLY OF FREE PRO-REPAIR LIPID MEDIATORS. UNDERSTANDING WHETHER THE SUPPLY OF FREE LIPID MEDIATORS FROM ESTERIFIED POOLS IS DEFECTIVE IN AD, PAVES THE WAY FOR DEVELOPING TARGETED THERAPIES THAT CAN REVIVE NEURONAL LOSS AND COGNITIVE IMPAIRMENTS CAUSED BY THE DISEASE.",
+    "total_obligation": 795542,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-09-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 310396.32,
+    "total_account_obligation": 795542,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 310396.32
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 795542
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-30",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 310396.32
+  }
+}

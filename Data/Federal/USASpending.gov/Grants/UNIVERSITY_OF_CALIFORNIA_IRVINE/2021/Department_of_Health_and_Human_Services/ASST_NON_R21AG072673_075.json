@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91275513,
+    "Award ID": "R21AG072673",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 801024,
+    "Total Outlays": 729451.66,
+    "Description": "IMPROVING MULTI-STEP PLANNING IN AGING BY OVERCOMING DEFICITS IN MEMORY ENCODING - PROJECT SUMMARY/ABSTRACT THE OBJECTIVE OF THIS R21 PROPOSAL IS TO INVESTIGATE THE BEHAVIORAL AND NEURAL SIGNATURES OF AGE-RELATED DECLINE IN MEMORY FUNCTION IN SERVICE OF MULTI-STEP PLANNING. WE ANTICIPATE THAT THE RESULTS OBTAINED HERE WILL SERVE AS PRELIMINARY FINDINGS IN SUPPORT OF A RESEARCH PROGRAM USING NEUROIMAGING TO EVALUATE HOW THESE CIRCUITS ARE ALTERED IN DISEASES OF AGING, SUCH AS ALZHEIMER'S DISEASE AND MILD COGNITIVE IMPAIRMENT (MCI).  PREVIOUS RESEARCH INTO DECISION-MAKING IN AGING HAS FOCUSED PRIMARILY ON TASKS THAT INVOLVE REPEATED REINFORCEMENT OF SPECIFIC ACTIONS OR STIMULI (E.G. SEQUENTIAL REINFORCEMENT LEARNING TASKS), OR ON COMPARISONS BETWEEN ITEMS WHOSE VALUES ARE DIRECTLY INSTRUCTED (E.G. GAMBLES). A SEPARATE FORM OF DECISIONS, ARGUABLY MORE GERMANE TO EVERYDAY EXPERIENCE, ARE THOSE IN WHICH CHOICES DEPEND ON PLANNING: SEARCHING THROUGH DISPARATE EVENTS FROM OUR PAST EXPERIENCE, AND REASSEMBLING THEM TO ACHIEVE NEW GOALS INTRODUCED IN THE MOMENT (E.G. SEEKING AN ICE CREAM STORE YOU MAY HAVE PASSED BY BUT NEVER ENTERED).  THESE TYPES OF DECISIONS, IN ADDITION TO BEING RELATIVELY UNDER-STUDIED IN OLDER ADULTS, ARE ALSO DISTINCT IN THAT THEY DEPEND ON LONG-TERM, EPISODIC MEMORY. EPISODIC MEMORY IS KNOWN TO DECLINE IN AGE. A SPECIFIC ASPECT OF EPISODIC MEMORY THAT IS KNOWN TO DECLINE WITH AGE IS THE COMPUTATION CALLED PATTERN SEPARATION: THE ABILITY TO CREATE DIVERGENT NEURAL PATTERNS THAT REFLECT INPUTS WITH SIMILAR OR OVERLAPPING SENSORY FEATURES (E.G. TWO FLAVORS OF ICE CREAM). PATTERN SEPARATION ALLOWS US TO RAPIDLY RETRIEVE AND RE-USE INFORMATION EVEN IN THE FACE OF INTERFERENCE. WE CAN MEASURE PATTERN SEPARATION IN BEHAVIOR USING THE MNEMONIC SIMILARITY TASK (MST), A SHORT, WIDELY USED ASSAY THAT PREDICTS COGNITIVE AND NEURAL DEFICITS ACROSS THE LIFESPAN.  WHILE WE KNOW THAT PATTERN SEPARATION AND PLANNING BOTH DECLINE WITH AGE, AND WE KNOW THAT BOTH FUNCTIONS ARE SUPPORTED BY THE SAME NEURAL STRUCTURES IN HEALTHY ADULTS, WE DO NOT KNOW IF THEY CO-EXIST IN THE SAME NEURAL CIRCUITS, NOR DO WE KNOW IF A DECLINE IN PATTERN SEPARATION YIELDS A DECLINE IN PLANNING ABILITY.  HERE, WE AIM TO FILL THIS GAP IN KNOWLEDGE, EXAMINING (AIM 1) THE ABILITY OF OLDER ADULTS TO CONSTRUCT MULTI-STEP PLANS, AND HOW IT CORRESPONDS TO PATTERN SEPARATION; (AIM 2) TO FURTHER ASK WHETHER TAKING ACCOUNT OF AN INDIVIDUAL’S DECLINE IN PATTERN SEPARATION CAN ALLOW US TO STRUCTURE THEIR EXPERIENCES IN A WAY THAT IMPROVES THEIR ABILITY TO LATER CONSTRUCT PLANS ON THE BASIS OF THOSE EXPERIENCES; (AIM 3) WHETHER NEURAL CIRCUITS FOR PATTERN SEPARATION AND PLANNING OVERLAP, AND HOW THEY INTERACT IN NORMAL COGNITIVE AGING. IN SUM, THE PROPOSED RESEARCH WILL DETERMINE WHETHER WE CAN IMPROVE INDIVIDUAL DECISION-MAKING BY TAKING ACCOUNT OF INDIVIDUAL DIFFERENCES IN MEMORY FUNCTION; THE FINDINGS WILL INFORM RESEARCH INTO EARLY DETECTION AND TREATMENT OF A WIDE RANGE OF DISEASES OF AGING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-05-01",
+    "End Date": "2025-01-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R21AG072673_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91275513,
+    "generated_unique_award_id": "ASST_NON_R21AG072673_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "IMPROVING MULTI-STEP PLANNING IN AGING BY OVERCOMING DEFICITS IN MEMORY ENCODING - PROJECT SUMMARY/ABSTRACT THE OBJECTIVE OF THIS R21 PROPOSAL IS TO INVESTIGATE THE BEHAVIORAL AND NEURAL SIGNATURES OF AGE-RELATED DECLINE IN MEMORY FUNCTION IN SERVICE OF MULTI-STEP PLANNING. WE ANTICIPATE THAT THE RESULTS OBTAINED HERE WILL SERVE AS PRELIMINARY FINDINGS IN SUPPORT OF A RESEARCH PROGRAM USING NEUROIMAGING TO EVALUATE HOW THESE CIRCUITS ARE ALTERED IN DISEASES OF AGING, SUCH AS ALZHEIMER'S DISEASE AND MILD COGNITIVE IMPAIRMENT (MCI).  PREVIOUS RESEARCH INTO DECISION-MAKING IN AGING HAS FOCUSED PRIMARILY ON TASKS THAT INVOLVE REPEATED REINFORCEMENT OF SPECIFIC ACTIONS OR STIMULI (E.G. SEQUENTIAL REINFORCEMENT LEARNING TASKS), OR ON COMPARISONS BETWEEN ITEMS WHOSE VALUES ARE DIRECTLY INSTRUCTED (E.G. GAMBLES). A SEPARATE FORM OF DECISIONS, ARGUABLY MORE GERMANE TO EVERYDAY EXPERIENCE, ARE THOSE IN WHICH CHOICES DEPEND ON PLANNING: SEARCHING THROUGH DISPARATE EVENTS FROM OUR PAST EXPERIENCE, AND REASSEMBLING THEM TO ACHIEVE NEW GOALS INTRODUCED IN THE MOMENT (E.G. SEEKING AN ICE CREAM STORE YOU MAY HAVE PASSED BY BUT NEVER ENTERED).  THESE TYPES OF DECISIONS, IN ADDITION TO BEING RELATIVELY UNDER-STUDIED IN OLDER ADULTS, ARE ALSO DISTINCT IN THAT THEY DEPEND ON LONG-TERM, EPISODIC MEMORY. EPISODIC MEMORY IS KNOWN TO DECLINE IN AGE. A SPECIFIC ASPECT OF EPISODIC MEMORY THAT IS KNOWN TO DECLINE WITH AGE IS THE COMPUTATION CALLED PATTERN SEPARATION: THE ABILITY TO CREATE DIVERGENT NEURAL PATTERNS THAT REFLECT INPUTS WITH SIMILAR OR OVERLAPPING SENSORY FEATURES (E.G. TWO FLAVORS OF ICE CREAM). PATTERN SEPARATION ALLOWS US TO RAPIDLY RETRIEVE AND RE-USE INFORMATION EVEN IN THE FACE OF INTERFERENCE. WE CAN MEASURE PATTERN SEPARATION IN BEHAVIOR USING THE MNEMONIC SIMILARITY TASK (MST), A SHORT, WIDELY USED ASSAY THAT PREDICTS COGNITIVE AND NEURAL DEFICITS ACROSS THE LIFESPAN.  WHILE WE KNOW THAT PATTERN SEPARATION AND PLANNING BOTH DECLINE WITH AGE, AND WE KNOW THAT BOTH FUNCTIONS ARE SUPPORTED BY THE SAME NEURAL STRUCTURES IN HEALTHY ADULTS, WE DO NOT KNOW IF THEY CO-EXIST IN THE SAME NEURAL CIRCUITS, NOR DO WE KNOW IF A DECLINE IN PATTERN SEPARATION YIELDS A DECLINE IN PLANNING ABILITY.  HERE, WE AIM TO FILL THIS GAP IN KNOWLEDGE, EXAMINING (AIM 1) THE ABILITY OF OLDER ADULTS TO CONSTRUCT MULTI-STEP PLANS, AND HOW IT CORRESPONDS TO PATTERN SEPARATION; (AIM 2) TO FURTHER ASK WHETHER TAKING ACCOUNT OF AN INDIVIDUAL’S DECLINE IN PATTERN SEPARATION CAN ALLOW US TO STRUCTURE THEIR EXPERIENCES IN A WAY THAT IMPROVES THEIR ABILITY TO LATER CONSTRUCT PLANS ON THE BASIS OF THOSE EXPERIENCES; (AIM 3) WHETHER NEURAL CIRCUITS FOR PATTERN SEPARATION AND PLANNING OVERLAP, AND HOW THEY INTERACT IN NORMAL COGNITIVE AGING. IN SUM, THE PROPOSED RESEARCH WILL DETERMINE WHETHER WE CAN IMPROVE INDIVIDUAL DECISION-MAKING BY TAKING ACCOUNT OF INDIVIDUAL DIFFERENCES IN MEMORY FUNCTION; THE FINDINGS WILL INFORM RESEARCH INTO EARLY DETECTION AND TREATMENT OF A WIDE RANGE OF DISEASES OF AGING.",
+    "total_obligation": 801024,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-04-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 729451.66,
+    "total_account_obligation": 801024,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 729451.66
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 801024
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-05-01",
+      "end_date": "2025-01-30",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 729451.66
+  }
+}

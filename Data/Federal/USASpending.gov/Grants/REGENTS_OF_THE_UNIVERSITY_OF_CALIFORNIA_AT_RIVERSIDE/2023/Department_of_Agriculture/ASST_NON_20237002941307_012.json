@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56338670,
+    "Award ID": "20237002941307",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1365000,
+    "Total Outlays": 532091.49,
+    "Description": "THIS PROJECT AIMS TO INTERNALLY EXPRESS HEAT-STABLE ANTIMICROBIAL PEPTIDE (SAMP) IN COMMERCIAL CITRUS VARIETIES AND DELIVER NON-TRANSGENIC HLB-RESISTANT/TOLERANT TREES TO CITRUS GROWERS, WHICH ADDRESSES THE PRIORITY AREA 1. DEVELOPMENT OF COMMERCIAL CITRUS VARIETIES, AND 5. A DELIVERY SYSTEM FOR THERAPEUTICS. SAMP, WHICH HAS BACTERICIDAL AND IMMUNITY PRIMING ACTIVITIES, HAS BEEN SHOWN TO CONTROL HLB EFFECTIVELY BY EXTERNAL APPLICATION IN THE GREENHOUSE TRIALS. TO BE MORE SUSTAINABLE AND COST-EFFECTIVE, WE PROPOSE TO GENERATE NON-TRANSGENIC COMMERCIAL CITRUS CULTIVARS THAT EXPRESS SAMP SYSTEMICALLY AND CONTINUOUSLY VIA TWO APPROACHES: 1) INTRAGENIC INTRODUCTION OF SAMP, UNDER A CITRUS-DERIVED PHLOEM-SPECIFIC PROMOTER, INTO COMMERCIAL CITRUS VARIETIES; AND 2) SYSTEMIC EXPRESSION OF SAMP USING AN ASYMPTOMATIC WEAK STRAIN OF CITRUS TRISTEZA VIRUS (CTV), A PHLOEM LIMITED CITRUS VIRUS. USING BIOLISTIC BOMBARDMENT, WE WILL GENERATE, SCREEN AND SELECT FOR STABLE AND SYSTEMIC SAMP EXPRESSION ROOTSTOCK US942, CARRIZO AND KUHARSKE, AND SCIONS HAMLIN, VALENCIA AND NAVEL. WE\u0026#39;VE GENERATED SAMP CARRYING CTV, WHICH COULD REPLICATE AND SPREAD SYSTEMICALLY IN CITRUS. WE WILL INFECT THIS CTV-SAMP ONTO DESIRED COMMERCIAL VARIETIES. THESE INTRAGENIC AND CTV-INFECTED CITRUS PLANTS WILL BE EXAMINED FOR SAMP EXPRESSION AND SUBJECTED TO CLAS INFECTION. THE DISEASE SYMPTOM, CANOPY SIZE, AND CLAS TITER WILL BE MEASURED TO SELECT FOR THE MOST RESISTANT TREES AGAINST CLAS IN BOTH GREENHOUSE AND FIELD TRIALS IN FL. PROVIDING HLB-RESISTANT VARIETIES THAT CAN EXPRESS SAMP CONTINUOUSLY AND SYSTEMICALLY IN THE PHLOEM TO KILL CLAS DIRECTLY AND TO ALSO INDUCE HOST IMMUNITY WILL BE THE MOST SUSTAINABLE, COST-EFFECTIVE, LABOR-SAVING, USER- AND ECO-FRIENDLY SOLUTION FOR HLB CONTROL.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2023-09-15",
+    "End Date": "2026-09-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20237002941307_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56338670,
+    "generated_unique_award_id": "ASST_NON_20237002941307_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THIS PROJECT AIMS TO INTERNALLY EXPRESS HEAT-STABLE ANTIMICROBIAL PEPTIDE (SAMP) IN COMMERCIAL CITRUS VARIETIES AND DELIVER NON-TRANSGENIC HLB-RESISTANT/TOLERANT TREES TO CITRUS GROWERS, WHICH ADDRESSES THE PRIORITY AREA 1. DEVELOPMENT OF COMMERCIAL CITRUS VARIETIES, AND 5. A DELIVERY SYSTEM FOR THERAPEUTICS. SAMP, WHICH HAS BACTERICIDAL AND IMMUNITY PRIMING ACTIVITIES, HAS BEEN SHOWN TO CONTROL HLB EFFECTIVELY BY EXTERNAL APPLICATION IN THE GREENHOUSE TRIALS. TO BE MORE SUSTAINABLE AND COST-EFFECTIVE, WE PROPOSE TO GENERATE NON-TRANSGENIC COMMERCIAL CITRUS CULTIVARS THAT EXPRESS SAMP SYSTEMICALLY AND CONTINUOUSLY VIA TWO APPROACHES: 1) INTRAGENIC INTRODUCTION OF SAMP, UNDER A CITRUS-DERIVED PHLOEM-SPECIFIC PROMOTER, INTO COMMERCIAL CITRUS VARIETIES; AND 2) SYSTEMIC EXPRESSION OF SAMP USING AN ASYMPTOMATIC WEAK STRAIN OF CITRUS TRISTEZA VIRUS (CTV), A PHLOEM LIMITED CITRUS VIRUS. USING BIOLISTIC BOMBARDMENT, WE WILL GENERATE, SCREEN AND SELECT FOR STABLE AND SYSTEMIC SAMP EXPRESSION ROOTSTOCK US942, CARRIZO AND KUHARSKE, AND SCIONS HAMLIN, VALENCIA AND NAVEL. WE\u0026#39;VE GENERATED SAMP CARRYING CTV, WHICH COULD REPLICATE AND SPREAD SYSTEMICALLY IN CITRUS. WE WILL INFECT THIS CTV-SAMP ONTO DESIRED COMMERCIAL VARIETIES. THESE INTRAGENIC AND CTV-INFECTED CITRUS PLANTS WILL BE EXAMINED FOR SAMP EXPRESSION AND SUBJECTED TO CLAS INFECTION. THE DISEASE SYMPTOM, CANOPY SIZE, AND CLAS TITER WILL BE MEASURED TO SELECT FOR THE MOST RESISTANT TREES AGAINST CLAS IN BOTH GREENHOUSE AND FIELD TRIALS IN FL. PROVIDING HLB-RESISTANT VARIETIES THAT CAN EXPRESS SAMP CONTINUOUSLY AND SYSTEMICALLY IN THE PHLOEM TO KILL CLAS DIRECTLY AND TO ALSO INDUCE HOST IMMUNITY WILL BE THE MOST SUSTAINABLE, COST-EFFECTIVE, LABOR-SAVING, USER- AND ECO-FRIENDLY SOLUTION FOR HLB CONTROL.",
+    "total_obligation": 1365000,
+    "subaward_count": 3,
+    "total_subaward_amount": 710554,
+    "date_signed": "2023-09-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 599687.24,
+    "total_account_obligation": 1365000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 599687.24
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1365000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-15",
+      "end_date": "2026-09-14",
+      "last_modified_date": "2023-09-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 599687.24
+  }
+}

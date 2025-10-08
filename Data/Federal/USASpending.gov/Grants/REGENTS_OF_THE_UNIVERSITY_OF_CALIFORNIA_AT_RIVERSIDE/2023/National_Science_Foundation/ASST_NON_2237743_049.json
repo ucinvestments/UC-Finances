@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56989477,
+    "Award ID": "2237743",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 799904,
+    "Total Outlays": 8907.82,
+    "Description": "CAREER: UNRAVELING THE ROLE OF THE VARYING OCEAN CIRCULATION IN CLIMATE CHANGE -VARYING OCEAN CIRCULATIONS PLAY AN IMPORTANT ROLE IN CLIMATE CHANGE. THESE CIRCULATIONS ARE DRIVEN BY SURFACE WINDS AND THE CHANGING BUOYANCY OF THE SEA. SEPARATING THE EFFECTS OF WIND- AND BUOYANCY-DRIVEN OCEAN CIRCULATIONS ON CLIMATE CHANGE FROM THE EFFECTS OF OTHER VARYING AND INTERACTING CLIMATE COMPONENTS IS DIFFICULT. BY ISOLATING AND QUANTIFY THE EFFECTS THAT DRIVE THE OCEAN, THE MAIN GOAL OF THIS PROJECT IS TO OBTAIN AN IN-DEPTH UNDERSTANDING OF THE ROLE OF VARYING OCEAN CIRCULATIONS IN ON-GOING AND FUTURE CLIMATE CHANGES. THE WORK CAN HELP QUANTIFY THE CLIMATE IMPACTS OF THE OCEAN CIRCULATIONS (SUCH AS STORM TRACK SHIFT AND TROPICAL RAIN-BELT MIGRATION), THEREBY ADVANCING CLIMATE PREDICTIONS. ALONG WITH COURSE DEVELOPMENTS AND PUBLIC OUTREACH, THE PROJECT WILL TRAIN YOUNG SCIENTISTS AT THE UNIVERSITY OF CALIFORNIA RIVERSIDE. THE PROJECT WILL APPLY A NOVEL ENSEMBLE-OVERRIDING METHOD TO MULTIPLE CLIMATE MODELS TO ADDRESS SEVERAL KEY QUESTIONS: (1) WHAT ARE THE EFFECTS OF WIND- AND BUOYANCY-DRIVEN OCEAN CIRCULATION CHANGES UNDER VARIOUS ANTHROPOGENIC FORCINGS? (2) HOW TO UNDERSTAND THE COUPLED CHANGES IN EXTRATROPICAL ATMOSPHERIC CIRCULATION AND WIND-DRIVEN GYRE CIRCULATION? (3) HOW WILL SOUTHERN OCEAN CIRCULATION CHANGE CONTRIBUTE TO CLIMATE RESPONSE TO ANTHROPOGENIC FORCING? (4) HOW TO UNDERSTAND THE DISTINCT CHANGES AND CLIMATE IMPACTS OF THE SIMULATED HISTORICAL ATLANTIC MERIDIONAL OVERTURNING CIRCULATIONS BETWEEN THE LATEST TWO GENERATIONS OF CLIMATE MODELS? THE ACTIVITIES WILL HELP TRAIN ONE POSTDOCTORAL SCHOLAR AND ONE PH.D. STUDENT. THE INVESTIGATOR WILL INCORPORATE PROJECT RESULTS INTO AN UNDERGRADUATE COURSE AND MENTOR UNDERGRADUATE STUDENTS IN RESEARCH AT UNIVERSITY OF CALIFORNIA RIVERSIDE, CONDUCT WORKSHOPS AND GIVE PUBLIC LECTURES AT MUSEUM OF RIVERSIDE, AND CONDUCT SUMMER RESEARCH PROGRAM FOR RIVERSIDE UNIFIED SCHOOL DISTRICT K-12 STUDENTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-9800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-05-01",
+    "End Date": "2028-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2237743_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56989477,
+    "generated_unique_award_id": "ASST_NON_2237743_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAREER: UNRAVELING THE ROLE OF THE VARYING OCEAN CIRCULATION IN CLIMATE CHANGE -VARYING OCEAN CIRCULATIONS PLAY AN IMPORTANT ROLE IN CLIMATE CHANGE. THESE CIRCULATIONS ARE DRIVEN BY SURFACE WINDS AND THE CHANGING BUOYANCY OF THE SEA. SEPARATING THE EFFECTS OF WIND- AND BUOYANCY-DRIVEN OCEAN CIRCULATIONS ON CLIMATE CHANGE FROM THE EFFECTS OF OTHER VARYING AND INTERACTING CLIMATE COMPONENTS IS DIFFICULT. BY ISOLATING AND QUANTIFY THE EFFECTS THAT DRIVE THE OCEAN, THE MAIN GOAL OF THIS PROJECT IS TO OBTAIN AN IN-DEPTH UNDERSTANDING OF THE ROLE OF VARYING OCEAN CIRCULATIONS IN ON-GOING AND FUTURE CLIMATE CHANGES. THE WORK CAN HELP QUANTIFY THE CLIMATE IMPACTS OF THE OCEAN CIRCULATIONS (SUCH AS STORM TRACK SHIFT AND TROPICAL RAIN-BELT MIGRATION), THEREBY ADVANCING CLIMATE PREDICTIONS. ALONG WITH COURSE DEVELOPMENTS AND PUBLIC OUTREACH, THE PROJECT WILL TRAIN YOUNG SCIENTISTS AT THE UNIVERSITY OF CALIFORNIA RIVERSIDE. THE PROJECT WILL APPLY A NOVEL ENSEMBLE-OVERRIDING METHOD TO MULTIPLE CLIMATE MODELS TO ADDRESS SEVERAL KEY QUESTIONS: (1) WHAT ARE THE EFFECTS OF WIND- AND BUOYANCY-DRIVEN OCEAN CIRCULATION CHANGES UNDER VARIOUS ANTHROPOGENIC FORCINGS? (2) HOW TO UNDERSTAND THE COUPLED CHANGES IN EXTRATROPICAL ATMOSPHERIC CIRCULATION AND WIND-DRIVEN GYRE CIRCULATION? (3) HOW WILL SOUTHERN OCEAN CIRCULATION CHANGE CONTRIBUTE TO CLIMATE RESPONSE TO ANTHROPOGENIC FORCING? (4) HOW TO UNDERSTAND THE DISTINCT CHANGES AND CLIMATE IMPACTS OF THE SIMULATED HISTORICAL ATLANTIC MERIDIONAL OVERTURNING CIRCULATIONS BETWEEN THE LATEST TWO GENERATIONS OF CLIMATE MODELS? THE ACTIVITIES WILL HELP TRAIN ONE POSTDOCTORAL SCHOLAR AND ONE PH.D. STUDENT. THE INVESTIGATOR WILL INCORPORATE PROJECT RESULTS INTO AN UNDERGRADUATE COURSE AND MENTOR UNDERGRADUATE STUDENTS IN RESEARCH AT UNIVERSITY OF CALIFORNIA RIVERSIDE, CONDUCT WORKSHOPS AND GIVE PUBLIC LECTURES AT MUSEUM OF RIVERSIDE, AND CONDUCT SUMMER RESEARCH PROGRAM FOR RIVERSIDE UNIFIED SCHOOL DISTRICT K-12 STUDENTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 799904,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-12-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 8907.82,
+    "total_account_obligation": 799904,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 8907.82
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 799904
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ATMOSPHERIC AND"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ATMOSPHERIC AND"
+    },
+    "period_of_performance": {
+      "start_date": "2023-05-01",
+      "end_date": "2028-04-30",
+      "last_modified_date": "2022-12-19",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 8907.82
+  }
+}

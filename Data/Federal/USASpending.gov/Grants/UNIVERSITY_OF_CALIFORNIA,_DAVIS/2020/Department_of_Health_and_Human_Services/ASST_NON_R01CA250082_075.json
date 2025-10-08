@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91153475,
+    "Award ID": "R01CA250082",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1872645,
+    "Total Outlays": 1106770.39,
+    "Description": "THERAPEUTIC TARGETING WNT5A SIGNALING FOR ADVANCED PROSTATE CANCER - ENZALUTAMIDE AND ABIRATERONE ARE INITIALLY EFFECTIVE FOR THE TREATMENT OF CASTRATION-RESISTANT PROSTATE CANCER (CRPC). HOWEVER, RESISTANCE TO BOTH DRUGS OCCURS FREQUENTLY THROUGH MECHANISMS WHICH ARE INCOMPLETELY UNDERSTOOD. EVIDENCE FROM BOTH CLINICAL AND EXPERIMENTAL STUDIES DEMONSTRATE THAT WNT SIGNALING, PARTICULARLY THROUGH WNT5A, PLAYS VITAL ROLES IN PROMOTING CRPC PROGRESSION AND INDUCTION OF RESISTANCE TO ENZALUTAMIDE AND ABIRATERONE. DEVELOPMENT OF NOVEL STRATEGIES TARGETING WNT5A TO OVERCOME RESISTANCE IS AN URGENT NEED. PRELIMINARY AND CLINICAL DATA DEMONSTRATE THAT WNT5A SIGNALING IS SIGNIFICANTLY ACTIVATED IN RESISTANT CRPC CELLS AND SPECIMENS FROM CRPC PATIENTS. DOWN REGULATION OF WNT5A INHIBITS AR/AR VARIANTS EXPRESSION, SUPPRESSES CELL GROWTH, AND RESENSITIZES RESISTANT CELLS TO ANTI-ANDROGEN TREATMENT. THE OBJECTIVE OF THIS PROPOSAL IS TO FULLY DELINEATE THE ROLE OF WNT5A SIGNALING IN DRUG RESISTANCE AND DETERMINE THE EFFICACY OF TARGETING WNT5A USING TWO NOVEL STRATEGIES TO OVERCOME RESISTANCE. IN AIM 1, WE WILL DETERMINE THE ROLE OF WNT5A IN THE DEVELOPMENT OF RESISTANCE TO ENZALUTAMIDE AND ABIRATERONE. IN AIM 2, WE WILL EVALUATE THE EFFICACY OF TWO NOVEL STRATEGIES TARGETING WNT5A FOR INHIBITING RESISTANT CRPC TUMOR GROWTH AND RE-SENSITIZATION TO ENZALUTAMIDE/ABIRATERONE TREATMENT. IN AIM 3, WE WILL ELUCIDATE THE MECHANISMS OF ACTION BY WNT5A INHIBITION IN RESISTANT CRPC. WE HOPE THAT BY COMPLETION OF THIS STUDY WE WILL PROVIDE A NOVEL THERAPEUTIC APPROACH TO TREAT ADVANCED CRPC THROUGH TARGETING WNT5A. WE ALSO EXPECT THAT TARGETING WNT5A IN CONJUNCTION WITH ENZALUTAMIDE/ABIRATERONE THERAPY WILL INCREASE THE MAGNITUDE AND DURATION OF THE BENEFITS OF SECOND-GENERATION ANTIANDROGENS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2020-12-01",
+    "End Date": "2026-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA250082_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91153475,
+    "generated_unique_award_id": "ASST_NON_R01CA250082_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THERAPEUTIC TARGETING WNT5A SIGNALING FOR ADVANCED PROSTATE CANCER - ENZALUTAMIDE AND ABIRATERONE ARE INITIALLY EFFECTIVE FOR THE TREATMENT OF CASTRATION-RESISTANT PROSTATE CANCER (CRPC). HOWEVER, RESISTANCE TO BOTH DRUGS OCCURS FREQUENTLY THROUGH MECHANISMS WHICH ARE INCOMPLETELY UNDERSTOOD. EVIDENCE FROM BOTH CLINICAL AND EXPERIMENTAL STUDIES DEMONSTRATE THAT WNT SIGNALING, PARTICULARLY THROUGH WNT5A, PLAYS VITAL ROLES IN PROMOTING CRPC PROGRESSION AND INDUCTION OF RESISTANCE TO ENZALUTAMIDE AND ABIRATERONE. DEVELOPMENT OF NOVEL STRATEGIES TARGETING WNT5A TO OVERCOME RESISTANCE IS AN URGENT NEED. PRELIMINARY AND CLINICAL DATA DEMONSTRATE THAT WNT5A SIGNALING IS SIGNIFICANTLY ACTIVATED IN RESISTANT CRPC CELLS AND SPECIMENS FROM CRPC PATIENTS. DOWN REGULATION OF WNT5A INHIBITS AR/AR VARIANTS EXPRESSION, SUPPRESSES CELL GROWTH, AND RESENSITIZES RESISTANT CELLS TO ANTI-ANDROGEN TREATMENT. THE OBJECTIVE OF THIS PROPOSAL IS TO FULLY DELINEATE THE ROLE OF WNT5A SIGNALING IN DRUG RESISTANCE AND DETERMINE THE EFFICACY OF TARGETING WNT5A USING TWO NOVEL STRATEGIES TO OVERCOME RESISTANCE. IN AIM 1, WE WILL DETERMINE THE ROLE OF WNT5A IN THE DEVELOPMENT OF RESISTANCE TO ENZALUTAMIDE AND ABIRATERONE. IN AIM 2, WE WILL EVALUATE THE EFFICACY OF TWO NOVEL STRATEGIES TARGETING WNT5A FOR INHIBITING RESISTANT CRPC TUMOR GROWTH AND RE-SENSITIZATION TO ENZALUTAMIDE/ABIRATERONE TREATMENT. IN AIM 3, WE WILL ELUCIDATE THE MECHANISMS OF ACTION BY WNT5A INHIBITION IN RESISTANT CRPC. WE HOPE THAT BY COMPLETION OF THIS STUDY WE WILL PROVIDE A NOVEL THERAPEUTIC APPROACH TO TREAT ADVANCED CRPC THROUGH TARGETING WNT5A. WE ALSO EXPECT THAT TARGETING WNT5A IN CONJUNCTION WITH ENZALUTAMIDE/ABIRATERONE THERAPY WILL INCREASE THE MAGNITUDE AND DURATION OF THE BENEFITS OF SECOND-GENERATION ANTIANDROGENS.",
+    "total_obligation": 1872645,
+    "subaward_count": 1,
+    "total_subaward_amount": 212776,
+    "date_signed": "2020-12-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1106770.39,
+    "total_account_obligation": 1872645,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1106770.39
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1872645
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2020-12-01",
+      "end_date": "2026-11-30",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1106770.39
+  }
+}

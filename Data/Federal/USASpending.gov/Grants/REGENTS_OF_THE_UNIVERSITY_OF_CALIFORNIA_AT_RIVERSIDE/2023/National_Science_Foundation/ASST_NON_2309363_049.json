@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57177171,
+    "Award ID": "2309363",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 611766,
+    "Total Outlays": 91659.18,
+    "Description": "SPECTROSCOPY OF DENSE POSITRONIUM -POSITRONIUM IS A HYDROGEN-LIKE ATOM WHERE, INSTEAD OF A PROTON, THE POSITIVELY CHARGED PARTICLE IS A POSITRON, THE ANTI-PARTICLE OF THE ELECTRON. UNLIKE ORDINARY HYDROGEN ATOMS, POSITRONIUM ATOMS SPONTANEOUSLY DECAY ? THE ELECTRON AND POSITRON ANNIHILATE AND THE ENERGY, ORIGINALLY IN THE FORM OF MASS, IS CONVERTED INTO GAMMA RAYS. THE PRIMARY WORK OF THIS RESEARCH TEAM OF FACULTY, STUDENTS AND A POST-DOC WILL BE TO PRODUCE A HIGH-DENSITY GAS OF POSITRONIUM AND COOL IT TO PRODUCE THE FIRST POSITRONIUM SUPERFLUID, KNOWN AS A BOSE-EINSTEIN CONDENSATE (BEC). SUCH CONDENSATES HAVE BEEN STUDIED FOR OTHER ATOMS AND EXHIBIT A RICH RANGE OF BEHAVIORS, BUT NEW EXPERIMENTAL TECHNIQUES WILL BE REQUIRED TO OBSERVE BOSE CONDENSATION IN POSITRONIUM. SCIENTIFICALLY INTERESTING IN ITS OWN RIGHT, IF A CONDENSATE OF POSITRONIUM CAN BE PRODUCED, THE FACT THAT POSITRONIUM ATOMS DECAY TO GAMMA RAYS OPENS THE POSSIBILITY OF CREATING A GAMMA RAY LASER. POSITRONIUM IN SUFFICIENT QUANTITIES AND AT LOW TEMPERATURES IS PREDICTED TO EXHIBIT STIMULATED ANNIHILATION, IN WHICH ONE ANNIHILATION GAMMA RAY PHOTON INDUCES THE EMISSION OF OTHERS OF EXACTLY THE SAME DIRECTION AND ENERGY, THE ESSENTIAL ACTIVITY REQUIRED FOR ALL TYPES OF LASER ACTION. THE SECOND GOAL OF THE PROJECT IS THEREFORE TO OBTAIN EVIDENCE FOR THIS STIMULATED ANNIHILATION TO OPEN THE WAY FOR THE FIRST HIGHLY PENETRATING ANNIHILATION GAMMA RAY LASERS. STUDENTS WILL BE INVOLVED IN ALL ASPECTS OF THIS RESEARCH AND WILL LEARN IMPORTANT LABORATORY TECHNIQUES WIDELY APPLICABLE IN PHYSICS. BESIDES THE SCIENTIFIC INTEREST IN THE PHENOMENA, LONG TERM POSSIBLE BENEFITS FROM A GAMMA RAY LASER INCLUDE MEDICAL APPLICATIONS TO RADIOGRAPHY AND RADIATION THERAPY, DEFENSE AND OTHER USES OF HIGH POWER GAMMA RAY BEAMS, AND THE POSSIBILITY OF GAMMA RAY LASER IGNITION OF FUSION FOR CLEAN, LOW COST ELECTRIC POWER GENERATING PLANTS. THE PRINCIPAL GOALS OF THE PROJECT ARE TO (1) PRODUCE AND OBSERVE A BOSE-EINSTEIN CONDENSATE OF POSITRONIUM AND (2) TO OBTAIN EVIDENCE FOR THE STIMULATED EMISSION OF ITS TWO-PHOTON ANNIHILATION RADIATION. THE PROJECT WILL USE AN EXISTING SLOW POSITRON BEAM AND MAGNETIC TRAP SYSTEM THAT PRODUCES NANOSECOND PULSES OF ABOUT 100 MILLION 30% SPIN-POLARIZED POSITRONS. THE POSITRONS WILL BE EXTRACTED FROM THE CONFINING MAGNETIC FIELD OF THE TRAP AND FOCUSED IN A 200 MICRON DIAMETER SPOT ON A THIN METAL FILM THAT EFFICIENTLY EMITS SLOW POSITRONS. THESE WILL BE ACCELERATED AND FOCUSED TO A 5 MICRON SPOT ONTO A TARGET CONTAINING CAVITIES WITHIN WHICH HIGH DENSITY POSITRONIUM WILL BE FORMED AND THERMALIZE TO LOW TEMPERATURES. THE POSITRONIUM TEMPERATURE WILL BE MEASURED AS A FUNCTION OF TIME BY THE ANGULAR CORRELATION OF THE ANNIHILATION PHOTON PAIRS USING AN EXISTING DETECTOR. THE PRESENCE OF A CONDENSATE WILL BE INFERRED FROM ITS SUB-THERMAL APPARENT TEMPERATURE. VARIOUS CAVITY GEOMETRIES WILL BE USED TO ACHIEVE THE REQUIRED HIGH POSITRONIUM DENSITIES AND SUFFICIENTLY COLD POSITRONIUM TEMPERATURES AROUND 10 K. HAVING MADE THE FIRST POSITRONIUM BOSE-EINSTEIN CONDENSATE, A SEARCH WILL BE MADE FOR THE STIMULATED EMISSION OF ITS ANNIHILATION GAMMA RAYS. BESIDES ENABLING THE PRODUCTION OF THE FIRST GAMMA RAY LASERS, THIS WORK WILL OPEN THE WAY FOR OTHER TOPICS INVOLVING HIGH DENSITY POSITRONS, INCLUDING THE FIRST PRODUCTION AND STUDIES OF THE POSITRONIUM POSITIVE ION (THE BOUND STATE OF TWO POSITRONS AND ONE ELECTRON), FORMATION OF A POSITRONIUM ATOM LASER BEAM, AND PRODUCTION OF BOSE-EINSTEIN CONDENSED POSITRONIUM BUBBLES IN SUPERFLUID HELIUM-4. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-09-01",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2309363_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57177171,
+    "generated_unique_award_id": "ASST_NON_2309363_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SPECTROSCOPY OF DENSE POSITRONIUM -POSITRONIUM IS A HYDROGEN-LIKE ATOM WHERE, INSTEAD OF A PROTON, THE POSITIVELY CHARGED PARTICLE IS A POSITRON, THE ANTI-PARTICLE OF THE ELECTRON. UNLIKE ORDINARY HYDROGEN ATOMS, POSITRONIUM ATOMS SPONTANEOUSLY DECAY ? THE ELECTRON AND POSITRON ANNIHILATE AND THE ENERGY, ORIGINALLY IN THE FORM OF MASS, IS CONVERTED INTO GAMMA RAYS. THE PRIMARY WORK OF THIS RESEARCH TEAM OF FACULTY, STUDENTS AND A POST-DOC WILL BE TO PRODUCE A HIGH-DENSITY GAS OF POSITRONIUM AND COOL IT TO PRODUCE THE FIRST POSITRONIUM SUPERFLUID, KNOWN AS A BOSE-EINSTEIN CONDENSATE (BEC). SUCH CONDENSATES HAVE BEEN STUDIED FOR OTHER ATOMS AND EXHIBIT A RICH RANGE OF BEHAVIORS, BUT NEW EXPERIMENTAL TECHNIQUES WILL BE REQUIRED TO OBSERVE BOSE CONDENSATION IN POSITRONIUM. SCIENTIFICALLY INTERESTING IN ITS OWN RIGHT, IF A CONDENSATE OF POSITRONIUM CAN BE PRODUCED, THE FACT THAT POSITRONIUM ATOMS DECAY TO GAMMA RAYS OPENS THE POSSIBILITY OF CREATING A GAMMA RAY LASER. POSITRONIUM IN SUFFICIENT QUANTITIES AND AT LOW TEMPERATURES IS PREDICTED TO EXHIBIT STIMULATED ANNIHILATION, IN WHICH ONE ANNIHILATION GAMMA RAY PHOTON INDUCES THE EMISSION OF OTHERS OF EXACTLY THE SAME DIRECTION AND ENERGY, THE ESSENTIAL ACTIVITY REQUIRED FOR ALL TYPES OF LASER ACTION. THE SECOND GOAL OF THE PROJECT IS THEREFORE TO OBTAIN EVIDENCE FOR THIS STIMULATED ANNIHILATION TO OPEN THE WAY FOR THE FIRST HIGHLY PENETRATING ANNIHILATION GAMMA RAY LASERS. STUDENTS WILL BE INVOLVED IN ALL ASPECTS OF THIS RESEARCH AND WILL LEARN IMPORTANT LABORATORY TECHNIQUES WIDELY APPLICABLE IN PHYSICS. BESIDES THE SCIENTIFIC INTEREST IN THE PHENOMENA, LONG TERM POSSIBLE BENEFITS FROM A GAMMA RAY LASER INCLUDE MEDICAL APPLICATIONS TO RADIOGRAPHY AND RADIATION THERAPY, DEFENSE AND OTHER USES OF HIGH POWER GAMMA RAY BEAMS, AND THE POSSIBILITY OF GAMMA RAY LASER IGNITION OF FUSION FOR CLEAN, LOW COST ELECTRIC POWER GENERATING PLANTS. THE PRINCIPAL GOALS OF THE PROJECT ARE TO (1) PRODUCE AND OBSERVE A BOSE-EINSTEIN CONDENSATE OF POSITRONIUM AND (2) TO OBTAIN EVIDENCE FOR THE STIMULATED EMISSION OF ITS TWO-PHOTON ANNIHILATION RADIATION. THE PROJECT WILL USE AN EXISTING SLOW POSITRON BEAM AND MAGNETIC TRAP SYSTEM THAT PRODUCES NANOSECOND PULSES OF ABOUT 100 MILLION 30% SPIN-POLARIZED POSITRONS. THE POSITRONS WILL BE EXTRACTED FROM THE CONFINING MAGNETIC FIELD OF THE TRAP AND FOCUSED IN A 200 MICRON DIAMETER SPOT ON A THIN METAL FILM THAT EFFICIENTLY EMITS SLOW POSITRONS. THESE WILL BE ACCELERATED AND FOCUSED TO A 5 MICRON SPOT ONTO A TARGET CONTAINING CAVITIES WITHIN WHICH HIGH DENSITY POSITRONIUM WILL BE FORMED AND THERMALIZE TO LOW TEMPERATURES. THE POSITRONIUM TEMPERATURE WILL BE MEASURED AS A FUNCTION OF TIME BY THE ANGULAR CORRELATION OF THE ANNIHILATION PHOTON PAIRS USING AN EXISTING DETECTOR. THE PRESENCE OF A CONDENSATE WILL BE INFERRED FROM ITS SUB-THERMAL APPARENT TEMPERATURE. VARIOUS CAVITY GEOMETRIES WILL BE USED TO ACHIEVE THE REQUIRED HIGH POSITRONIUM DENSITIES AND SUFFICIENTLY COLD POSITRONIUM TEMPERATURES AROUND 10 K. HAVING MADE THE FIRST POSITRONIUM BOSE-EINSTEIN CONDENSATE, A SEARCH WILL BE MADE FOR THE STIMULATED EMISSION OF ITS ANNIHILATION GAMMA RAYS. BESIDES ENABLING THE PRODUCTION OF THE FIRST GAMMA RAY LASERS, THIS WORK WILL OPEN THE WAY FOR OTHER TOPICS INVOLVING HIGH DENSITY POSITRONS, INCLUDING THE FIRST PRODUCTION AND STUDIES OF THE POSITRONIUM POSITIVE ION (THE BOUND STATE OF TWO POSITRONS AND ONE ELECTRON), FORMATION OF A POSITRONIUM ATOM LASER BEAM, AND PRODUCTION OF BOSE-EINSTEIN CONDENSED POSITRONIUM BUBBLES IN SUPERFLUID HELIUM-4. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 611766,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-07-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 91659.18,
+    "total_account_obligation": 611766,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 91659.18
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 611766
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF PHYSICS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF PHYSICS"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2025-09-10",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 91659.18
+  }
+}

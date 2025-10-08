@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92427375,
+    "Award ID": "T34GM149470",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1568611,
+    "Total Outlays": 802918.33,
+    "Description": "MARC AT UNIVERSITY OF CALIFORNIA RIVERSIDE - PROJECT SUMMARY THE UNIVERSITY OF CALIFORNIA RIVERSIDE (UCR) IS ONE OF THE MOST DIVERSE CAMPUSES IN THE NATION AND IS IN ONE OF THE MOST RAPIDLY GROWING AND DIVERSE REGIONS OF THE U.S. MOST UNDERGRADUATE STUDENTS AT UCR COME FROM THIS REGION AND ARE FROM UNDERREPRESENTED GROUPS IN THE SCIENCES. THUS, THERE IS A BROAD BASE OF UNDERREPRESENTED (UR) STUDENTS FROM WHICH TO SELECT AND PROMOTE INTEREST IN A RESEARCH CAREER IN BIOMEDICAL OR BEHAVIORAL SCIENCES. THE MAIN GOAL OF THE MARC PROGRAM AT UCR IS TO INCREASE THE NUMBER OF UR STUDENTS PURSUING PHD DEGREES AND RESEARCH CAREERS IN THE BIOMEDICALLY-RELATED SCIENCES. THIS TRAINING GRANT PROVIDES A SUMMER PRE-MARC DEVELOPMENT PROGRAM (9-10 STUDENTS/YEAR) TO INCREASE THE ELIGIBLE POOL OF STUDENTS FOR THE RESEARCH TRAINEE PROGRAM (16 POSITIONS/YEAR; 2-3 YEARS OF TRAINING). THE OBJECTIVES OF THE PROGRAM ARE: (1) INCREASE THE NUMBER OF UCR MINORITY STUDENTS MAJORING IN THE SCIENCES WHO ARE QUALIFIED TO BECOME MARC TRAINEES THROUGH OUTREACH TO LOCAL HIGH SCHOOLS AND COMMUNITY COLLEGES. (2) INCREASE THE NUMBER OF QUALIFIED STUDENTS WHO APPLY TO THE MARC PROGRAM BY USING FRESHMAN COURSES AND DISCOVERY SEMINARS, BY SYNERGIZING WITH HONORS AND EXISTING MINORITY PROGRAMS ON CAMPUS, AND BY ENGAGING STUDENTS IN PRE-MARC UNDERGRADUATE RESEARCH BEFORE THEIR SOPHOMORE YEAR AND STIMULATING THEIR INTEREST IN A BIOMEDICAL RESEARCH CAREER. (3) THE CORE OF THE PROGRAM IS PREPARING THE MARC TRAINEES FOR GRADUATE STUDIES IN HIGHLY COMPETITIVE RESEARCH INSTITUTIONS. WE WILL ACHIEVE THIS BY IMMERSING MARC TRAINEES IN INTENSIVE CUTTING-EDGE RESEARCH IN LABORATORIES OF FACULTY MENTORS ON CAMPUS DURING THE ACADEMIC YEAR AND IN ONE OTHER OFF-CAMPUS LABORATORY AT A HIGH-CALIBER RESEARCH INSTITUTION DURING ONE SUMMER; WE WILL ALSO PROVIDE SPECIFIC CLASSES THAT WILL PREPARE THE TRAINEES TO THINK CRITICALLY, TO DESIGN AND IMPLEMENT RIGOROUS AND ETHICAL EXPERIMENTS, TO LEARN MODERN RESEARCH METHODS, TO WRITE SCIENTIFIC REPORTS/PAPERS AND FELLOWSHIPS, AND TO BE EFFICIENT COMMUNICATORS IN FRONT OF EXPERT AND LAY AUDIENCES. GUIDANCE IN APPLYING TO GRADUATE PROGRAMS WILL BE PROVIDED. THIS WILL GIVE SELF-CONFIDENCE AND PREPARE THE TRAINEES TO ENTER AND SUCCEED IN THE MOST COMPETITIVE GRADUATE PROGRAMS IN THE U.S. THIS PROGRAM IS FOR 5 YEARS AND PROPOSES TO TRAIN ABOUT 48 MARC STUDENTS WITH THE GOAL THAT ABOUT 80% OF THEM WILL SUCCEED IN ENTERING HIGH QUALITY PHD OR MD/PHD PROGRAMS IN THE BIOMEDICAL SCIENCES.  RELEVANCE: THIS MARC TRAINING GRANT WILL NOT ONLY CONTRIBUTE TO INCREASE THE NUMBER OF UR BIOMEDICAL SCIENTISTS BUT SHOULD ALSO HAVE BROADER IMPACTS. MARC SCHOLARS WILL BE ROLE MODELS THAT INSPIRE NEW GENERATIONS AND HELP BREAK DOWN DISCRIMINATORY BARRIERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-06-01",
+    "End Date": "2028-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_T34GM149470_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92427375,
+    "generated_unique_award_id": "ASST_NON_T34GM149470_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MARC AT UNIVERSITY OF CALIFORNIA RIVERSIDE - PROJECT SUMMARY THE UNIVERSITY OF CALIFORNIA RIVERSIDE (UCR) IS ONE OF THE MOST DIVERSE CAMPUSES IN THE NATION AND IS IN ONE OF THE MOST RAPIDLY GROWING AND DIVERSE REGIONS OF THE U.S. MOST UNDERGRADUATE STUDENTS AT UCR COME FROM THIS REGION AND ARE FROM UNDERREPRESENTED GROUPS IN THE SCIENCES. THUS, THERE IS A BROAD BASE OF UNDERREPRESENTED (UR) STUDENTS FROM WHICH TO SELECT AND PROMOTE INTEREST IN A RESEARCH CAREER IN BIOMEDICAL OR BEHAVIORAL SCIENCES. THE MAIN GOAL OF THE MARC PROGRAM AT UCR IS TO INCREASE THE NUMBER OF UR STUDENTS PURSUING PHD DEGREES AND RESEARCH CAREERS IN THE BIOMEDICALLY-RELATED SCIENCES. THIS TRAINING GRANT PROVIDES A SUMMER PRE-MARC DEVELOPMENT PROGRAM (9-10 STUDENTS/YEAR) TO INCREASE THE ELIGIBLE POOL OF STUDENTS FOR THE RESEARCH TRAINEE PROGRAM (16 POSITIONS/YEAR; 2-3 YEARS OF TRAINING). THE OBJECTIVES OF THE PROGRAM ARE: (1) INCREASE THE NUMBER OF UCR MINORITY STUDENTS MAJORING IN THE SCIENCES WHO ARE QUALIFIED TO BECOME MARC TRAINEES THROUGH OUTREACH TO LOCAL HIGH SCHOOLS AND COMMUNITY COLLEGES. (2) INCREASE THE NUMBER OF QUALIFIED STUDENTS WHO APPLY TO THE MARC PROGRAM BY USING FRESHMAN COURSES AND DISCOVERY SEMINARS, BY SYNERGIZING WITH HONORS AND EXISTING MINORITY PROGRAMS ON CAMPUS, AND BY ENGAGING STUDENTS IN PRE-MARC UNDERGRADUATE RESEARCH BEFORE THEIR SOPHOMORE YEAR AND STIMULATING THEIR INTEREST IN A BIOMEDICAL RESEARCH CAREER. (3) THE CORE OF THE PROGRAM IS PREPARING THE MARC TRAINEES FOR GRADUATE STUDIES IN HIGHLY COMPETITIVE RESEARCH INSTITUTIONS. WE WILL ACHIEVE THIS BY IMMERSING MARC TRAINEES IN INTENSIVE CUTTING-EDGE RESEARCH IN LABORATORIES OF FACULTY MENTORS ON CAMPUS DURING THE ACADEMIC YEAR AND IN ONE OTHER OFF-CAMPUS LABORATORY AT A HIGH-CALIBER RESEARCH INSTITUTION DURING ONE SUMMER; WE WILL ALSO PROVIDE SPECIFIC CLASSES THAT WILL PREPARE THE TRAINEES TO THINK CRITICALLY, TO DESIGN AND IMPLEMENT RIGOROUS AND ETHICAL EXPERIMENTS, TO LEARN MODERN RESEARCH METHODS, TO WRITE SCIENTIFIC REPORTS/PAPERS AND FELLOWSHIPS, AND TO BE EFFICIENT COMMUNICATORS IN FRONT OF EXPERT AND LAY AUDIENCES. GUIDANCE IN APPLYING TO GRADUATE PROGRAMS WILL BE PROVIDED. THIS WILL GIVE SELF-CONFIDENCE AND PREPARE THE TRAINEES TO ENTER AND SUCCEED IN THE MOST COMPETITIVE GRADUATE PROGRAMS IN THE U.S. THIS PROGRAM IS FOR 5 YEARS AND PROPOSES TO TRAIN ABOUT 48 MARC STUDENTS WITH THE GOAL THAT ABOUT 80% OF THEM WILL SUCCEED IN ENTERING HIGH QUALITY PHD OR MD/PHD PROGRAMS IN THE BIOMEDICAL SCIENCES.  RELEVANCE: THIS MARC TRAINING GRANT WILL NOT ONLY CONTRIBUTE TO INCREASE THE NUMBER OF UR BIOMEDICAL SCIENTISTS BUT SHOULD ALSO HAVE BROADER IMPACTS. MARC SCHOLARS WILL BE ROLE MODELS THAT INSPIRE NEW GENERATIONS AND HELP BREAK DOWN DISCRIMINATORY BARRIERS.",
+    "total_obligation": 1568611,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-05-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 802918.33,
+    "total_account_obligation": 1568611,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 802918.33
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1568611
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-06-01",
+      "end_date": "2028-05-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 802918.33
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56337856,
+    "Award ID": "20236701539741",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 650000,
+    "Total Outlays": 319768.87,
+    "Description": "ANIMAL HEALTH AND PRODUCTION PLAY CRITICAL ROLES IN THE SUSTAINABILITY AND COMPETITIVENESS OF U.S. AGRICULTURE. THE U.S. SWINE INDUSTRY IS CONTINUALLY STRUGGLING WITH THE CHALLENGE OF KEEPING PIGS HEALTHY, AND THE CHALLENGE IS BECOMING EVEN MORE DIFFICULT DUE TO THE SIGNIFICANTLY RESTRICTED USE OF ANTIBIOTICS IN INDUSTRY. THE CURRENT PROJECT IS FOCUSING ON ESCHERICHIA COLI (E. COLI) DIARRHEA, ONE OF THE MOST COMMON DISEASES IN PRE-WEANING AND POST-WEANING PIGS. THE POST-WEANING MORTALITY RATIO IS 6-10%, BUT SOMETIME MAY RISE UP TO 20%. DIARRHEA PER SE ACCOUNTS FOR 20-30% OF CASES OF MORTALITY IN WEANLING PIGS. ALTHOUGH, E. COLI DIARRHEA IS NOT ONE OF HIGH MORTALITY PIG DISEASES, IT HAS TREMENDOUS NEGATIVE EFFECTS ON FEED INTAKE, INTESTINAL DEVELOPMENT, NUTRIENT ABSORPTION, AND LIFELONG PRODUCTION AND WELFARE OF PIGS. THE ECONOMIC LOSSES DUE TO E. COLI DIARRHEA ARE HUGE, ESPECIALLY WITH THE RECENT REEMERGENCE OF E. COLI INFECTION IN THE US.THE FEED IS A VERY IMPORTANT PART OF A HERD HEALTH PROGRAM. THERE ARE DIETARY TECHNOLOGIES HAVE BEEN WIDELY ADOPTED, SUCH AS USING SPRAY-DRIED PLASMA AND HIGH DOSE OF ZINC OXIDE, TO PROMOTE PIG HEALTH. HOWEVER, THERE IS LITTLE CONSISTENT INFORMATION ABOUT THE EXTENT OF USE OF OTHER FUNCTIONAL INGREDIENTS OR FEED ADDITIVES. THIS PROJECT IS FOCUSING ON ORGANIC FATTY ACID DERIVATIVES THAT WE JUDGE TO OFFER THE GREATEST AND MOST IMMEDIATE POTENTIAL VALUE TO THE SWINE INDUSTRY. THE OVERARCHING GOAL OF THE RESEARCH COMPONENT IS TO GENERATE THE MOST VALUABLE INFORMATION POSSIBLE USING THE RESOURCES AVAILABLE AND TO IMPROVE THE HEALTH AND PRODUCTIVITY OF PIGS. OUR CENTRAL HYPOTHESIS IS THAT DIETARY ORGANIC ACID DERIVATIVES ENHANCE INTESTINAL DEVELOPMENT AND INTEGRITY, REDUCE INTESTINAL INFLAMMATION CAUSED BY POST-WEANING E. COLI INFECTION, THUS, IMPROVING OVERALL DISEASE RESISTANCE AND GROWTH OF WEANLING PIGS.TO TEST THE HYPOTHESIS, THE PROJECT INCLUDES THREE SPECIFIC AIMS: (1) TO EXPLORE THE ROLE OF ORGANIC FATTY ACID DERIVATIVES ON GUT HEALTH AND/OR GROWTH PERFORMANCE OF WEANLING PIGS IN DISEASE-CHALLENGE CONDITIONS, (2) TO INCREASE THE KNOWLEDGE BASE CONCERNING THE BIOLOGICAL EFFICACY AND MECHANISMS OF ACTION OF ORGANIC FATTY ACID DERIVATIVES WITH POTENTIAL TO AID IN PREVENTION AND CONTROL OF POST-WEANING DIARRHEA, AND (3) TO COMPARE THE IMPACTS OF ORGANIC FATTY ACID DERIVATIVES VS. IN-FEED ANTIBIOTICS AND PHARMACOLOGICAL DOSE OF ZINC OXIDE ON DISEASE RESISTANCE AND GROWTH PROMOTION IN PIGS.TO ADDRESS THOSE OBJECTIVES, A DISEASE CHALLENGE STUDY WILL BE PERFORMED WITH THE MOST COMMON PATHOGENIC E. COLI RESPONSIBLE FOR POST-WEANING DIARRHEA. TWO DIFFERENT ORGANIC FATTY ACID DERIVATIVES AND THEIR COMBINATIONS WILL BE EVALUATEDBY INVESTIGATING THE INFLUENCES OF DIETARY SUPPLEMENTATION OF ORGANIC FATTY ACID DERIVATIVES ON DIARRHEA, GUT BARRIER FUNCTION AND MUCOSAL IMMUNITY, INDIGENOUS MICROBIOTA CHANGE AND THEIR METABOLITES IN WEANED PIGS. THE IMPACTS OF ORGANIC FATTY ACID DERIVATIVES VS. ANTIBIOTICS AND PHARMACOLOGICAL D,OSE OF ZINC OXIDE ON PIG HEALTH AND GROWTH WILL BE COMPARED.OUTCOME OF THIS RESEARCH WILL ADVANCE BASIC AND APPLIED INFORMATION ABOUT ORGANIC FATTY ACID DERIVATIVES AS A NUTRITIONAL/HEALTH INTERVENTION TO KEEP PIGS HEALTHY, AND SUBSEQUENTLY MAY INCREASE PROFITABILITY FOR PORK PRODUCERS BY PROVIDING ALTERNATIVE INGREDIENTS TO ANTIBIOTICS TRADITIONALLY USED IN FEED. RESULTS OF THIS RESEARCH WILL ALSO PROVIDE MECHANISTIC UNDERSTANDING OF A HEALTHY GUT IN YOUNG ANIMALS. FINDINGS AND RECOMMENDATIONS WILL BE DISSEMINATED TO LIVESTOCK AND FEED INDUSTRY STAKEHOLDERS, HENCE THE POSITIVE IMPACTS OF THIS RESEARCH WILL BE MAGNIFIED. RESULTS WILL PRIMARILY BE USED BY SWINE PRODUCERS, NUTRITIONISTS IN THE FEED INDUSTRY, CONSULTING NUTRITIONISTS, VETERINARIANS, AND OTHER STAKEHOLDERS INVOLVED IN IMPROVING PIG HEALTH AND MAXIMIZING PROFITS IN THE SWINE INDUSTRY. THIS PROJECT WILL ALSO CONTRIBUTE TO AN INCREASED SUSTAINABILITY OF SWINE PRODUCTION AND INCREASED SAFE AND ADEQUATE FOOD SUPPLY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2023-06-01",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20236701539741_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56337856,
+    "generated_unique_award_id": "ASST_NON_20236701539741_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ANIMAL HEALTH AND PRODUCTION PLAY CRITICAL ROLES IN THE SUSTAINABILITY AND COMPETITIVENESS OF U.S. AGRICULTURE. THE U.S. SWINE INDUSTRY IS CONTINUALLY STRUGGLING WITH THE CHALLENGE OF KEEPING PIGS HEALTHY, AND THE CHALLENGE IS BECOMING EVEN MORE DIFFICULT DUE TO THE SIGNIFICANTLY RESTRICTED USE OF ANTIBIOTICS IN INDUSTRY. THE CURRENT PROJECT IS FOCUSING ON ESCHERICHIA COLI (E. COLI) DIARRHEA, ONE OF THE MOST COMMON DISEASES IN PRE-WEANING AND POST-WEANING PIGS. THE POST-WEANING MORTALITY RATIO IS 6-10%, BUT SOMETIME MAY RISE UP TO 20%. DIARRHEA PER SE ACCOUNTS FOR 20-30% OF CASES OF MORTALITY IN WEANLING PIGS. ALTHOUGH, E. COLI DIARRHEA IS NOT ONE OF HIGH MORTALITY PIG DISEASES, IT HAS TREMENDOUS NEGATIVE EFFECTS ON FEED INTAKE, INTESTINAL DEVELOPMENT, NUTRIENT ABSORPTION, AND LIFELONG PRODUCTION AND WELFARE OF PIGS. THE ECONOMIC LOSSES DUE TO E. COLI DIARRHEA ARE HUGE, ESPECIALLY WITH THE RECENT REEMERGENCE OF E. COLI INFECTION IN THE US.THE FEED IS A VERY IMPORTANT PART OF A HERD HEALTH PROGRAM. THERE ARE DIETARY TECHNOLOGIES HAVE BEEN WIDELY ADOPTED, SUCH AS USING SPRAY-DRIED PLASMA AND HIGH DOSE OF ZINC OXIDE, TO PROMOTE PIG HEALTH. HOWEVER, THERE IS LITTLE CONSISTENT INFORMATION ABOUT THE EXTENT OF USE OF OTHER FUNCTIONAL INGREDIENTS OR FEED ADDITIVES. THIS PROJECT IS FOCUSING ON ORGANIC FATTY ACID DERIVATIVES THAT WE JUDGE TO OFFER THE GREATEST AND MOST IMMEDIATE POTENTIAL VALUE TO THE SWINE INDUSTRY. THE OVERARCHING GOAL OF THE RESEARCH COMPONENT IS TO GENERATE THE MOST VALUABLE INFORMATION POSSIBLE USING THE RESOURCES AVAILABLE AND TO IMPROVE THE HEALTH AND PRODUCTIVITY OF PIGS. OUR CENTRAL HYPOTHESIS IS THAT DIETARY ORGANIC ACID DERIVATIVES ENHANCE INTESTINAL DEVELOPMENT AND INTEGRITY, REDUCE INTESTINAL INFLAMMATION CAUSED BY POST-WEANING E. COLI INFECTION, THUS, IMPROVING OVERALL DISEASE RESISTANCE AND GROWTH OF WEANLING PIGS.TO TEST THE HYPOTHESIS, THE PROJECT INCLUDES THREE SPECIFIC AIMS: (1) TO EXPLORE THE ROLE OF ORGANIC FATTY ACID DERIVATIVES ON GUT HEALTH AND/OR GROWTH PERFORMANCE OF WEANLING PIGS IN DISEASE-CHALLENGE CONDITIONS, (2) TO INCREASE THE KNOWLEDGE BASE CONCERNING THE BIOLOGICAL EFFICACY AND MECHANISMS OF ACTION OF ORGANIC FATTY ACID DERIVATIVES WITH POTENTIAL TO AID IN PREVENTION AND CONTROL OF POST-WEANING DIARRHEA, AND (3) TO COMPARE THE IMPACTS OF ORGANIC FATTY ACID DERIVATIVES VS. IN-FEED ANTIBIOTICS AND PHARMACOLOGICAL DOSE OF ZINC OXIDE ON DISEASE RESISTANCE AND GROWTH PROMOTION IN PIGS.TO ADDRESS THOSE OBJECTIVES, A DISEASE CHALLENGE STUDY WILL BE PERFORMED WITH THE MOST COMMON PATHOGENIC E. COLI RESPONSIBLE FOR POST-WEANING DIARRHEA. TWO DIFFERENT ORGANIC FATTY ACID DERIVATIVES AND THEIR COMBINATIONS WILL BE EVALUATEDBY INVESTIGATING THE INFLUENCES OF DIETARY SUPPLEMENTATION OF ORGANIC FATTY ACID DERIVATIVES ON DIARRHEA, GUT BARRIER FUNCTION AND MUCOSAL IMMUNITY, INDIGENOUS MICROBIOTA CHANGE AND THEIR METABOLITES IN WEANED PIGS. THE IMPACTS OF ORGANIC FATTY ACID DERIVATIVES VS. ANTIBIOTICS AND PHARMACOLOGICAL D,OSE OF ZINC OXIDE ON PIG HEALTH AND GROWTH WILL BE COMPARED.OUTCOME OF THIS RESEARCH WILL ADVANCE BASIC AND APPLIED INFORMATION ABOUT ORGANIC FATTY ACID DERIVATIVES AS A NUTRITIONAL/HEALTH INTERVENTION TO KEEP PIGS HEALTHY, AND SUBSEQUENTLY MAY INCREASE PROFITABILITY FOR PORK PRODUCERS BY PROVIDING ALTERNATIVE INGREDIENTS TO ANTIBIOTICS TRADITIONALLY USED IN FEED. RESULTS OF THIS RESEARCH WILL ALSO PROVIDE MECHANISTIC UNDERSTANDING OF A HEALTHY GUT IN YOUNG ANIMALS. FINDINGS AND RECOMMENDATIONS WILL BE DISSEMINATED TO LIVESTOCK AND FEED INDUSTRY STAKEHOLDERS, HENCE THE POSITIVE IMPACTS OF THIS RESEARCH WILL BE MAGNIFIED. RESULTS WILL PRIMARILY BE USED BY SWINE PRODUCERS, NUTRITIONISTS IN THE FEED INDUSTRY, CONSULTING NUTRITIONISTS, VETERINARIANS, AND OTHER STAKEHOLDERS INVOLVED IN IMPROVING PIG HEALTH AND MAXIMIZING PROFITS IN THE SWINE INDUSTRY. THIS PROJECT WILL ALSO CONTRIBUTE TO AN INCREASED SUSTAINABILITY OF SWINE PRODUCTION AND INCREASED SAFE AND ADEQUATE FOOD SUPPLY.",
+    "total_obligation": 650000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-04-04",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 364792.38,
+    "total_account_obligation": 650000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 364792.38
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 650000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2023-06-01",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2023-04-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 364792.38
+  }
+}

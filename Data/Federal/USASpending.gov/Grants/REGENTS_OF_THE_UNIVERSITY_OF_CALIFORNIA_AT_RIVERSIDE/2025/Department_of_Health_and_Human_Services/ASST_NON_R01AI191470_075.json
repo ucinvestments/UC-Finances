@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91136250,
+    "Award ID": "R01AI191470",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 704041,
+    "Total Outlays": 189017.52,
+    "Description": "SEX-DEPENDENT INNATE IMMUNE MECHANISMS IN TYPE 2 IMMUNITY AND OBESITY - OBESITY IS A RISING PUBLIC HEALTH CONCERN LINKED TO MULTIPLE PREVENTABLE COMORBIDITIES, SUCH AS WORSE INFECTION OUTCOMES, INFLAMMATORY DISORDERS, AND TYPE 2 DIABETES. OBESITY AFFECTS THE IMMUNE SYSTEM, AND THE UNDERLYING IMMUNE RESPONSE IS A CRITICAL REGULATOR OF ITS OUTCOME. A MORE COMMON TYPE 1 (TH1) IMMUNE RESPONSE IS ASSOCIATED WITH PRO-INFLAMMATORY AND CHRONIC INFLAMMATION OUTCOMES, WHILE THE LESS COMMON T HELPER TYPE 2 (TH2) IMMUNE RESPONSE MEDIATES PROTECTION. TH2 IMMUNE RESPONSES ARE ALSO CRITICAL IN IMMUNITY AGAINST SOIL- TRANSMITTED HELMINTH INFECTIONS, WHICH ARE A SIGNIFICANT PUBLIC HEALTH CONCERN, INFECTING TWO BILLION PEOPLE WORLDWIDE. IDENTIFICATION OF EFFECTOR CELLS AND MOLECULES THAT PROMOTE PROTECTIVE TH2 IMMUNE RESPONSES THEREFORE HAVE BROAD IMPLICATIONS FOR NEW TREATMENTS IN BOTH METABOLIC DISORDERS AND HELMINTH INFECTION. SIGNIFICANT SEX DIFFERENCES EXIST IN OBESITY AND PARASITIC HELMINTH INFECTIONS, HOWEVER, THE UNDERLYING IMMUNE MECHANISMS DRIVING THIS SEXUAL DIMORPHISM ARE UNDERSTUDIED. IN OUR RECENT PAPER WE HAVE SHOWN THAT THIS MECHANISM INVOLVES MACROPHAGE-EOSINOPHIL INTERACTIONS, WHICH ARE IN PART REGULATED BY THE RELMΑ PROTEIN, RELEASED BY MACROPHAGES IN A SEX-SPECIFIC WAY. IN THIS PROPOSAL WE EXPAND THESE RESULTS BY STUDYING THESE INTERACTIONS IN DIET-INDUCED OBESITY AND TYPE 2 IMMUNITY TRIGGERED BY HELMINTH INFECTION. IN AIM 1, WE WILL INVESTIGATE SEX DIFFERENCES IN MACROPHAGE AND EOSINOPHIL FUNCTION AND TEST THE HYPOTHESIS THAT THESE INNATE CELLS PROTECT FROM DIET-INDUCED OBESITY AND HELMINTH INFECTION IN A SEX-DEPENDENT MANNER. AIM 2 WILL DETERMINE WHETHER MYELOID CELL-INTRINSIC RELM Α PROMOTES MACROPHAGE DIFFERENTIATION AND EOSINOPHIL RESPONSES IN THE ADIPOSE TISSUE MICROENVIRONMENT. AIM 3 WILL COMBINE SINGLE CELL TRANSCRIPTOMICS FROM LAB-DERIVED DATA OF IN VITRO AND IN VIVO- DERIVED EOSINOPHILS WITH PUBLICLY AVAILABLE DATASETS TO DEFINE EOSINOPHIL POPULATIONS AND IDENTIFY SPECIFIC SUBPOPULATIONS AND CELLULAR PATHWAYS INVOLVED. AT THE OUTCOME OF THIS PROPOSAL, WE WILL HAVE LEVERAGED OUR EXPERTISE IN METABOLISM, IMMUNOLOGY AND BIOINFORMATICS COUPLED WITH THE STRENGTHS OF IN VIVO MODELS AND MECHANISTIC IN VITRO STUDIES WITH NEW SINGLE CELL TRANSCRIPTOMIC TECHNOLOGIES TO DETERMINE PROTECTIVE TYPE 2 IMMUNE MECHANISMS. RESULTS FROM THIS STUDY WILL HAVE BROAD PUBLIC HEALTH IMPLICATIONS IN TACKLING THE OBESITY EPIDEMIC AND GAINING CRITICAL KNOWLEDGE OF BENEFICIAL TYPE 2 IMMUNE MECHANISMS TRIGGERED BY HELMINTH INFECTIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925210001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-01-02",
+    "End Date": "2029-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI191470_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91136250,
+    "generated_unique_award_id": "ASST_NON_R01AI191470_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SEX-DEPENDENT INNATE IMMUNE MECHANISMS IN TYPE 2 IMMUNITY AND OBESITY - OBESITY IS A RISING PUBLIC HEALTH CONCERN LINKED TO MULTIPLE PREVENTABLE COMORBIDITIES, SUCH AS WORSE INFECTION OUTCOMES, INFLAMMATORY DISORDERS, AND TYPE 2 DIABETES. OBESITY AFFECTS THE IMMUNE SYSTEM, AND THE UNDERLYING IMMUNE RESPONSE IS A CRITICAL REGULATOR OF ITS OUTCOME. A MORE COMMON TYPE 1 (TH1) IMMUNE RESPONSE IS ASSOCIATED WITH PRO-INFLAMMATORY AND CHRONIC INFLAMMATION OUTCOMES, WHILE THE LESS COMMON T HELPER TYPE 2 (TH2) IMMUNE RESPONSE MEDIATES PROTECTION. TH2 IMMUNE RESPONSES ARE ALSO CRITICAL IN IMMUNITY AGAINST SOIL- TRANSMITTED HELMINTH INFECTIONS, WHICH ARE A SIGNIFICANT PUBLIC HEALTH CONCERN, INFECTING TWO BILLION PEOPLE WORLDWIDE. IDENTIFICATION OF EFFECTOR CELLS AND MOLECULES THAT PROMOTE PROTECTIVE TH2 IMMUNE RESPONSES THEREFORE HAVE BROAD IMPLICATIONS FOR NEW TREATMENTS IN BOTH METABOLIC DISORDERS AND HELMINTH INFECTION. SIGNIFICANT SEX DIFFERENCES EXIST IN OBESITY AND PARASITIC HELMINTH INFECTIONS, HOWEVER, THE UNDERLYING IMMUNE MECHANISMS DRIVING THIS SEXUAL DIMORPHISM ARE UNDERSTUDIED. IN OUR RECENT PAPER WE HAVE SHOWN THAT THIS MECHANISM INVOLVES MACROPHAGE-EOSINOPHIL INTERACTIONS, WHICH ARE IN PART REGULATED BY THE RELMΑ PROTEIN, RELEASED BY MACROPHAGES IN A SEX-SPECIFIC WAY. IN THIS PROPOSAL WE EXPAND THESE RESULTS BY STUDYING THESE INTERACTIONS IN DIET-INDUCED OBESITY AND TYPE 2 IMMUNITY TRIGGERED BY HELMINTH INFECTION. IN AIM 1, WE WILL INVESTIGATE SEX DIFFERENCES IN MACROPHAGE AND EOSINOPHIL FUNCTION AND TEST THE HYPOTHESIS THAT THESE INNATE CELLS PROTECT FROM DIET-INDUCED OBESITY AND HELMINTH INFECTION IN A SEX-DEPENDENT MANNER. AIM 2 WILL DETERMINE WHETHER MYELOID CELL-INTRINSIC RELM Α PROMOTES MACROPHAGE DIFFERENTIATION AND EOSINOPHIL RESPONSES IN THE ADIPOSE TISSUE MICROENVIRONMENT. AIM 3 WILL COMBINE SINGLE CELL TRANSCRIPTOMICS FROM LAB-DERIVED DATA OF IN VITRO AND IN VIVO- DERIVED EOSINOPHILS WITH PUBLICLY AVAILABLE DATASETS TO DEFINE EOSINOPHIL POPULATIONS AND IDENTIFY SPECIFIC SUBPOPULATIONS AND CELLULAR PATHWAYS INVOLVED. AT THE OUTCOME OF THIS PROPOSAL, WE WILL HAVE LEVERAGED OUR EXPERTISE IN METABOLISM, IMMUNOLOGY AND BIOINFORMATICS COUPLED WITH THE STRENGTHS OF IN VIVO MODELS AND MECHANISTIC IN VITRO STUDIES WITH NEW SINGLE CELL TRANSCRIPTOMIC TECHNOLOGIES TO DETERMINE PROTECTIVE TYPE 2 IMMUNE MECHANISMS. RESULTS FROM THIS STUDY WILL HAVE BROAD PUBLIC HEALTH IMPLICATIONS IN TACKLING THE OBESITY EPIDEMIC AND GAINING CRITICAL KNOWLEDGE OF BENEFICIAL TYPE 2 IMMUNE MECHANISMS TRIGGERED BY HELMINTH INFECTIONS.",
+    "total_obligation": 704041,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-01-02",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 189017.52,
+    "total_account_obligation": 704041,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 189017.52
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 704041
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-01-02",
+      "end_date": "2029-12-31",
+      "last_modified_date": "2025-01-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 189017.52
+  }
+}

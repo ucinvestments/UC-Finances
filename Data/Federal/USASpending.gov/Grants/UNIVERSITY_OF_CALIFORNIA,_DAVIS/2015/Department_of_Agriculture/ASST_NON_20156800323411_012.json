@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56277537,
+    "Award ID": "20156800323411",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3000000,
+    "Total Outlays": 1496082.85,
+    "Description": "CROSS CONTAMINATION OF FRESH PRODUCE DURING WASHING, CONVEYING AND HANDLING IS A CRITICAL RISK FACTOR THAT HAS BEEN ASSOCIATED WITH MAJOR DISEASE OUTBREAKS. THE PROPOSED INTEGRATED PROJECT BRINGS TOGETHER UNIQUE, COMPLEMENTARY AND SYNERGISTIC APPROACHES TO ADDRESS THIS CHALLENGE. THE PROJECT TEAM CONSISTS OF FOOD MICROBIOLOGISTS, ENGINEERS, FOOD CHEMISTS AND PROCESS MODELERS. THIS TEAM WILL DEVELOP NOVEL PROCESSES AND TECHNOLOGIES AIMED AT IDENTIFYING AND MINIMIZING THE RISK OF CROSS-CONTAMINATION DURING PRODUCE WASHING, CONVEYING AND HANDLING. TO REDUCE THE RISK OF CROSS-CONTAMINATION DURING PRODUCE WASHING, THE RESEARCH PLAN WILL QUANTITATIVELY MEASURE AND MATHEMATICALLY MODEL THE ROLE OF WASHING CONDITIONS ON ATTACHMENT OF BACTERIA TO FRESH PRODUCE FROM WASH WATER. BASED ON THIS FUNDAMENTAL UNDERSTANDING, THE RESEARCH WILL PROVIDE GUIDELINES FOR THE DESIGN OF FRESH PRODUCE WASHING EQUIPMENT AND THE FLOW CONDITIONS DURING WASHING OF PRODUCE. TO DETERMINE OPTIMAL CONCENTRATION OF A SELECTED SANITIZER IN WASH WATER, THE RESEARCH PLAN WILL DEVELOP A NOVEL PROCESS CONTROL SENSOR BASED ON DIRECT MEASUREMENT OF OXIDATIVE STRESS IN BACTERIA. THE THRESHOLD LEVEL OF OXIDATIVE STRESS IN BACTERIA WILL BE QUANTIFIED AND CORRELATED WITH REDUCTION IN MICROBIAL LOAD IN WASH WATER. SUCCESS IN THIS RESEARCH WILL RESULT IN A UNIQUE PROCESS CONTROL TOOL TO REDUCE THE RISK OF CROSS CONTAMINATION OF FRESH PRODUCE AND ENHANCE FUNDAMENTAL UNDERSTANDING OF OXIDATIVE STRESS RESISTANCE OF BACTERIA TO SANITIZERS. TO ENABLE RAPID DETECTION OF PATHOGENS IN WASH WATER AND FRESH PRODUCE, THE RESEARCH PLAN WILL SYNERGISTICALLY COMBINE NANOPHOTONICS AND BACTERIOPHAGES TO DEVELOP A NOVEL POINT OF USE DEVICE. THIS APPROACH IS BASED ON RAPID AMPLIFICATION OF BACTERIOPHAGES UPON SPECIFIC TARGETING OF PATHOGENS AND HIGHLY SENSITIVE DETECTION OF AMPLIFIED PHAGES ON A NANOPHOTONIC ARRAY. SUCCESS IN THIS RESEARCH WILL ENABLE RAPID DETECTION OF PATHOGENS IN WASH WATER AND PRODUCE SAMPLES WITHOUT ENRICHMENT AND EXTENDED CULTURING OF BACTERIA. TO REDUCE THE RISK OF CROSS CONTAMINATION DURING WASHING AND HANDLING, THIS RESEARCH PLAN WILL DEVELOP AN ALTERNATIVE SANITIZATION TECHNOLOGY USING PLASMA TREATED WATER AND VALIDATE ITS EFFICACY IN REDUCING MICROBIAL LOAD IN WASH WATER, WHILE PRESERVING THE QUALITY OF FRESH PRODUCE. SUCCESS IN THIS RESEARCH WILL LEAD TO A NOVEL PROCESSING TECHNOLOGY TO IMPROVE SAFETY OF FRESH PRODUCE.TO REDUCE THE RISK OF CROSS CONTAMINATION DURING CONVEYING, HANDLING AND STORAGE, THIS RESEARCH WILL DEVELOP A RECHARGEABLE SELF-DECONTAMINATING FUNCTIONS ON FOOD CONTACT MATERIALS, THUS ENABLING CONTINUOUS SANITATION OF FOOD CONTACT SURFACES. SUCCESS IN THIS RESEARCH WILL REDUCE TRANSFER OF BACTERIA FROM SURFACES TO FRESH PRODUCE. TO ENABLE INTEGRATION OF RESEARCH WITH EDUCATION, THIS PROJECT AIMS TO DEVELOP A COMPREHENSIVE EDUCATIONAL PROGRAM AIMED AT TRAINING CURRENT AND FUTURE STUDENTS IN INTERDISCIPLINARY TOPICS RELATED TO FOOD SAFETY, WATER AND SURFACE CHEMISTRIES, NOVEL PROCESSING TECHNOLOGIES AND BIOSENSORS. FOR SUCCESSFUL TRANSLATION OF RESEARCH TO INDUSTRIAL PRACTICE, THIS PROJECT WILL COLLABORATE EXTENSIVELY WITH INDUSTRIAL PARTNERS FOR BOTH VALIDATION AND TRANSFER OF TECHNOLOGIES. THESE COLLABORATIVE EFFORTS WILL BE COMPLEMENTED BY OUTREACH PLANS TO DISSEMINATE KNOWLEDGE REGARDING FOOD SAFETY AND NOVEL TECHNOLOGIES TO CURRENT PROFESSIONALS IN INDUSTRY. IN SUMMARY, SUCCESS OF THE PROPOSED PROJECT WILL HAVE A SIGNIFICANT IMPACT IN REDUCING THE INCIDENCE OF FOOD BORNE ILLNESS RESULTING FROM CROSS-CONTAMINATION OF FRESH PRODUCE DURING WASHING, CONVEYING AND HANDLING OPERATIONS. THIS IMPACT WILL BE REALIZED BASED ON DEVELOPMENT AND COMMERCIALIZATION OF INNOVATIVE TECHNOLOGIES AND EDUCATION OF CURRENT AND FUTURE PROFESSIONALS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2015-05-01",
+    "End Date": "2023-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20156800323411_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56277537,
+    "generated_unique_award_id": "ASST_NON_20156800323411_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CROSS CONTAMINATION OF FRESH PRODUCE DURING WASHING, CONVEYING AND HANDLING IS A CRITICAL RISK FACTOR THAT HAS BEEN ASSOCIATED WITH MAJOR DISEASE OUTBREAKS. THE PROPOSED INTEGRATED PROJECT BRINGS TOGETHER UNIQUE, COMPLEMENTARY AND SYNERGISTIC APPROACHES TO ADDRESS THIS CHALLENGE. THE PROJECT TEAM CONSISTS OF FOOD MICROBIOLOGISTS, ENGINEERS, FOOD CHEMISTS AND PROCESS MODELERS. THIS TEAM WILL DEVELOP NOVEL PROCESSES AND TECHNOLOGIES AIMED AT IDENTIFYING AND MINIMIZING THE RISK OF CROSS-CONTAMINATION DURING PRODUCE WASHING, CONVEYING AND HANDLING. TO REDUCE THE RISK OF CROSS-CONTAMINATION DURING PRODUCE WASHING, THE RESEARCH PLAN WILL QUANTITATIVELY MEASURE AND MATHEMATICALLY MODEL THE ROLE OF WASHING CONDITIONS ON ATTACHMENT OF BACTERIA TO FRESH PRODUCE FROM WASH WATER. BASED ON THIS FUNDAMENTAL UNDERSTANDING, THE RESEARCH WILL PROVIDE GUIDELINES FOR THE DESIGN OF FRESH PRODUCE WASHING EQUIPMENT AND THE FLOW CONDITIONS DURING WASHING OF PRODUCE. TO DETERMINE OPTIMAL CONCENTRATION OF A SELECTED SANITIZER IN WASH WATER, THE RESEARCH PLAN WILL DEVELOP A NOVEL PROCESS CONTROL SENSOR BASED ON DIRECT MEASUREMENT OF OXIDATIVE STRESS IN BACTERIA. THE THRESHOLD LEVEL OF OXIDATIVE STRESS IN BACTERIA WILL BE QUANTIFIED AND CORRELATED WITH REDUCTION IN MICROBIAL LOAD IN WASH WATER. SUCCESS IN THIS RESEARCH WILL RESULT IN A UNIQUE PROCESS CONTROL TOOL TO REDUCE THE RISK OF CROSS CONTAMINATION OF FRESH PRODUCE AND ENHANCE FUNDAMENTAL UNDERSTANDING OF OXIDATIVE STRESS RESISTANCE OF BACTERIA TO SANITIZERS. TO ENABLE RAPID DETECTION OF PATHOGENS IN WASH WATER AND FRESH PRODUCE, THE RESEARCH PLAN WILL SYNERGISTICALLY COMBINE NANOPHOTONICS AND BACTERIOPHAGES TO DEVELOP A NOVEL POINT OF USE DEVICE. THIS APPROACH IS BASED ON RAPID AMPLIFICATION OF BACTERIOPHAGES UPON SPECIFIC TARGETING OF PATHOGENS AND HIGHLY SENSITIVE DETECTION OF AMPLIFIED PHAGES ON A NANOPHOTONIC ARRAY. SUCCESS IN THIS RESEARCH WILL ENABLE RAPID DETECTION OF PATHOGENS IN WASH WATER AND PRODUCE SAMPLES WITHOUT ENRICHMENT AND EXTENDED CULTURING OF BACTERIA. TO REDUCE THE RISK OF CROSS CONTAMINATION DURING WASHING AND HANDLING, THIS RESEARCH PLAN WILL DEVELOP AN ALTERNATIVE SANITIZATION TECHNOLOGY USING PLASMA TREATED WATER AND VALIDATE ITS EFFICACY IN REDUCING MICROBIAL LOAD IN WASH WATER, WHILE PRESERVING THE QUALITY OF FRESH PRODUCE. SUCCESS IN THIS RESEARCH WILL LEAD TO A NOVEL PROCESSING TECHNOLOGY TO IMPROVE SAFETY OF FRESH PRODUCE.TO REDUCE THE RISK OF CROSS CONTAMINATION DURING CONVEYING, HANDLING AND STORAGE, THIS RESEARCH WILL DEVELOP A RECHARGEABLE SELF-DECONTAMINATING FUNCTIONS ON FOOD CONTACT MATERIALS, THUS ENABLING CONTINUOUS SANITATION OF FOOD CONTACT SURFACES. SUCCESS IN THIS RESEARCH WILL REDUCE TRANSFER OF BACTERIA FROM SURFACES TO FRESH PRODUCE. TO ENABLE INTEGRATION OF RESEARCH WITH EDUCATION, THIS PROJECT AIMS TO DEVELOP A COMPREHENSIVE EDUCATIONAL PROGRAM AIMED AT TRAINING CURRENT AND FUTURE STUDENTS IN INTERDISCIPLINARY TOPICS RELATED TO FOOD SAFETY, WATER AND SURFACE CHEMISTRIES, NOVEL PROCESSING TECHNOLOGIES AND BIOSENSORS. FOR SUCCESSFUL TRANSLATION OF RESEARCH TO INDUSTRIAL PRACTICE, THIS PROJECT WILL COLLABORATE EXTENSIVELY WITH INDUSTRIAL PARTNERS FOR BOTH VALIDATION AND TRANSFER OF TECHNOLOGIES. THESE COLLABORATIVE EFFORTS WILL BE COMPLEMENTED BY OUTREACH PLANS TO DISSEMINATE KNOWLEDGE REGARDING FOOD SAFETY AND NOVEL TECHNOLOGIES TO CURRENT PROFESSIONALS IN INDUSTRY. IN SUMMARY, SUCCESS OF THE PROPOSED PROJECT WILL HAVE A SIGNIFICANT IMPACT IN REDUCING THE INCIDENCE OF FOOD BORNE ILLNESS RESULTING FROM CROSS-CONTAMINATION OF FRESH PRODUCE DURING WASHING, CONVEYING AND HANDLING OPERATIONS. THIS IMPACT WILL BE REALIZED BASED ON DEVELOPMENT AND COMMERCIALIZATION OF INNOVATIVE TECHNOLOGIES AND EDUCATION OF CURRENT AND FUTURE PROFESSIONALS.",
+    "total_obligation": 3000000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2017-05-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1496082.85,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1496082.85
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2015-05-01",
+      "end_date": "2023-04-30",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1496082.85
+  }
+}

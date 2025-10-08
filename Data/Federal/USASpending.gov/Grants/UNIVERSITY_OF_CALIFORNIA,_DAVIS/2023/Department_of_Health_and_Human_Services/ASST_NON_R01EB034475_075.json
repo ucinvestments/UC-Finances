@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91180161,
+    "Award ID": "R01EB034475",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1818787,
+    "Total Outlays": 995838.98,
+    "Description": "AI-ACCELERATED OPTICAL SIMULATION FOR FAST TIMING NUCLEAR IMAGING - PROJECT SUMMARY/ ABSTRACT IMPROVING QUANTIFICATION AT HIGH SPATIAL RESOLUTION IS DRIVING TECHNOLOGY DEVELOPMENTS IN NUCLEAR IMAGING. POSITRON EMISSION TOMOGRAPHY (PET) SCANNERS AND SINGLE PHOTON EMISSION COMPUTED TOMOGRAPHY (SPECT) USE RADIATION DETECTORS, WHICH PERFORMANCE CAN BE IMPROVED WHEN THE IMAGE FORMATION PROCESS IS UNDERSTOOD. OPTIMIZING OPTICAL MECHANISMS SUCH AS SCINTILLATION OR PROMPT PHOTON EMISSION AT THE CORE OF THESE DETECTORS IS ESSENTIAL TO ADVANCE THE TECHNOLOGY AND IS THE FOCUS OF THIS PROPOSAL. DUE TO THE COMPLEXITY OF THESE PHENOMENA AND THE DIFFICULTY TO DISENTANGLE THEIR COMPONENTS EXPERIMENTALLY, RESEARCH ON RADIATION DETECTOR OPTICS RELIES ON SIMULATIONS INTEGRATING HIGH AND LOW ENERGY PHYSICS. NO SIMULATORS CURRENTLY OFFER THE SPEED AND FIDELITY NECESSARY TO UNDERSTAND IMAGE FORMATION FROM THE DETECTOR TO THE SYSTEM.  WE PROPOSE TO DEVELOP A RADICALLY DIFFERENT AI-BASED HIGH-FIDELITY OPTICAL MODELING FRAMEWORK, ALLOWING MULTIDIMENSIONAL OPTICAL INFORMATION TO BE RAPIDLY GENERATED, COLLECTED, AND PROCESSED AT THE SYSTEM LEVEL. BY REPLACING INDIVIDUAL PHOTON TRACKING WITH A DEEP-LEARNING APPROACH, WE EXPECT TO ACCELERATE SIMULATIONS BY SEVERAL ORDERS OF MAGNITUDE IN SYSTEMS INVOLVING EXTENSIVE OPTICAL PHOTON TRACKING, SUCH AS LARGE DETECTORS OR FAST TIMING DETECTORS. WE ORGANIZE THIS R01 PROPOSAL IN THREE SPECIFIC AIMS FOCUSING ON IMPLEMENTING THIS FRAMEWORK IN THE GEANT4/GATE SIMULATORS AND APPLYING IT TO TIME-OF-FLIGHT (TOF) PET. GATE IS A FREE OPENSOURCE PLATFORM AT THE FOREFRONT OF NUCLEAR MEDICINE SIMULATION. WE HAVE A TRACK RECORD OF DEVELOPING OPTICAL MODELING STRATEGIES AND CREATED THE LUT DAVIS MODEL. THIS GRANT WILL DESIGN AND IMPLEMENT THE OPTIGAN, A CUSTOM GENERATIVE ADVERSARIAL NETWORK (GAN) THAT WILL BE TRAINED WITH HIGH-FIDELITY SIMULATIONS BASED ON THE LUT DAVIS MODEL. NEW LIGHT TRANSPORT FEATURES AND CRYSTAL-PHOTODETECTOR INTERFACE MODELS MIXING PARTICLE AND WAVE OPTICS WILL BE DEVELOPED AND INTEGRATED INTO THE OPTIGAN (AIMS 1 AND 2).  WE HAVE EXTENSIVELY STUDIED AND DEVELOPED CERENKOV-BASED RADIATION DETECTORS, ONE OF THE PROMPT PHOTON EMISSION MECHANISMS MOST PURSUED TO ACHIEVE TIMING RESOLUTION BELOW 50 PS AND UNLOCK RECONSTRUCTION-FREE PET. TO DEVELOP PROMPT PHOTON-BASED PET SYSTEMS SEVERAL QUESTIONS MUST BE SOLVED: HOW TO IMPROVE THE PRODUCTION AND TRANSPORT OF THESE PROMPT PHOTONS WITH NEW MATERIALS, HOW TO IMPROVE THEIR COLLECTION, AND HOW TO HARNESS THE PROMPT PHOTON INFORMATION FOR FAST COINCIDENCE TIMING. THESE QUESTIONS MOTIVATE THE DEVELOPMENT OF INNOVATIVE DETECTOR OPTICS AND ALGORITHMS FOR TOF PET, WHICH WE WILL INVESTIGATE WITH THE OPTIGAN TOGETHER WITH EXPERIMENTAL AND THEORETICAL WORK (AIMS 2 AND 3).  THE OBJECTIVE OF THIS GRANT IS TO ENABLE A LEAP IN DETECTOR TECHNOLOGY THROUGH UNPRECEDENTED SIMULATION CAPABILITIES AND NEW STRATEGIES TO LEVERAGE FAST DETECTORS IN NUCLEAR IMAGING SCANNERS. DEVELOPING DETECTOR TECHNOLOGY NOW THAT ENABLES THE NEXT GENERATION OF SCANNERS TO RESPOND TO CLINICAL AND RESEARCH NEEDS OF NUCLEAR MEDICINE IS ESSENTIAL, AS THE INTEGRATION OF THESE ADVANCES REQUIRES YEARS BEFORE COMMERCIALIZATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-08-15",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01EB034475_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91180161,
+    "generated_unique_award_id": "ASST_NON_R01EB034475_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AI-ACCELERATED OPTICAL SIMULATION FOR FAST TIMING NUCLEAR IMAGING - PROJECT SUMMARY/ ABSTRACT IMPROVING QUANTIFICATION AT HIGH SPATIAL RESOLUTION IS DRIVING TECHNOLOGY DEVELOPMENTS IN NUCLEAR IMAGING. POSITRON EMISSION TOMOGRAPHY (PET) SCANNERS AND SINGLE PHOTON EMISSION COMPUTED TOMOGRAPHY (SPECT) USE RADIATION DETECTORS, WHICH PERFORMANCE CAN BE IMPROVED WHEN THE IMAGE FORMATION PROCESS IS UNDERSTOOD. OPTIMIZING OPTICAL MECHANISMS SUCH AS SCINTILLATION OR PROMPT PHOTON EMISSION AT THE CORE OF THESE DETECTORS IS ESSENTIAL TO ADVANCE THE TECHNOLOGY AND IS THE FOCUS OF THIS PROPOSAL. DUE TO THE COMPLEXITY OF THESE PHENOMENA AND THE DIFFICULTY TO DISENTANGLE THEIR COMPONENTS EXPERIMENTALLY, RESEARCH ON RADIATION DETECTOR OPTICS RELIES ON SIMULATIONS INTEGRATING HIGH AND LOW ENERGY PHYSICS. NO SIMULATORS CURRENTLY OFFER THE SPEED AND FIDELITY NECESSARY TO UNDERSTAND IMAGE FORMATION FROM THE DETECTOR TO THE SYSTEM.  WE PROPOSE TO DEVELOP A RADICALLY DIFFERENT AI-BASED HIGH-FIDELITY OPTICAL MODELING FRAMEWORK, ALLOWING MULTIDIMENSIONAL OPTICAL INFORMATION TO BE RAPIDLY GENERATED, COLLECTED, AND PROCESSED AT THE SYSTEM LEVEL. BY REPLACING INDIVIDUAL PHOTON TRACKING WITH A DEEP-LEARNING APPROACH, WE EXPECT TO ACCELERATE SIMULATIONS BY SEVERAL ORDERS OF MAGNITUDE IN SYSTEMS INVOLVING EXTENSIVE OPTICAL PHOTON TRACKING, SUCH AS LARGE DETECTORS OR FAST TIMING DETECTORS. WE ORGANIZE THIS R01 PROPOSAL IN THREE SPECIFIC AIMS FOCUSING ON IMPLEMENTING THIS FRAMEWORK IN THE GEANT4/GATE SIMULATORS AND APPLYING IT TO TIME-OF-FLIGHT (TOF) PET. GATE IS A FREE OPENSOURCE PLATFORM AT THE FOREFRONT OF NUCLEAR MEDICINE SIMULATION. WE HAVE A TRACK RECORD OF DEVELOPING OPTICAL MODELING STRATEGIES AND CREATED THE LUT DAVIS MODEL. THIS GRANT WILL DESIGN AND IMPLEMENT THE OPTIGAN, A CUSTOM GENERATIVE ADVERSARIAL NETWORK (GAN) THAT WILL BE TRAINED WITH HIGH-FIDELITY SIMULATIONS BASED ON THE LUT DAVIS MODEL. NEW LIGHT TRANSPORT FEATURES AND CRYSTAL-PHOTODETECTOR INTERFACE MODELS MIXING PARTICLE AND WAVE OPTICS WILL BE DEVELOPED AND INTEGRATED INTO THE OPTIGAN (AIMS 1 AND 2).  WE HAVE EXTENSIVELY STUDIED AND DEVELOPED CERENKOV-BASED RADIATION DETECTORS, ONE OF THE PROMPT PHOTON EMISSION MECHANISMS MOST PURSUED TO ACHIEVE TIMING RESOLUTION BELOW 50 PS AND UNLOCK RECONSTRUCTION-FREE PET. TO DEVELOP PROMPT PHOTON-BASED PET SYSTEMS SEVERAL QUESTIONS MUST BE SOLVED: HOW TO IMPROVE THE PRODUCTION AND TRANSPORT OF THESE PROMPT PHOTONS WITH NEW MATERIALS, HOW TO IMPROVE THEIR COLLECTION, AND HOW TO HARNESS THE PROMPT PHOTON INFORMATION FOR FAST COINCIDENCE TIMING. THESE QUESTIONS MOTIVATE THE DEVELOPMENT OF INNOVATIVE DETECTOR OPTICS AND ALGORITHMS FOR TOF PET, WHICH WE WILL INVESTIGATE WITH THE OPTIGAN TOGETHER WITH EXPERIMENTAL AND THEORETICAL WORK (AIMS 2 AND 3).  THE OBJECTIVE OF THIS GRANT IS TO ENABLE A LEAP IN DETECTOR TECHNOLOGY THROUGH UNPRECEDENTED SIMULATION CAPABILITIES AND NEW STRATEGIES TO LEVERAGE FAST DETECTORS IN NUCLEAR IMAGING SCANNERS. DEVELOPING DETECTOR TECHNOLOGY NOW THAT ENABLES THE NEXT GENERATION OF SCANNERS TO RESPOND TO CLINICAL AND RESEARCH NEEDS OF NUCLEAR MEDICINE IS ESSENTIAL, AS THE INTEGRATION OF THESE ADVANCES REQUIRES YEARS BEFORE COMMERCIALIZATION.",
+    "total_obligation": 1818787,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-08-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 995838.98,
+    "total_account_obligation": 1818787,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 995838.98
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1818787
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "period_of_performance": {
+      "start_date": "2023-08-15",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2025-07-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 995838.98
+  }
+}

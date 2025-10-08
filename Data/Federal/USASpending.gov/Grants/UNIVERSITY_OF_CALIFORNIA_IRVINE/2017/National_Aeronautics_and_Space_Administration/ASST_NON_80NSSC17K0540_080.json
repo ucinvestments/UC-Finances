@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74724733,
+    "Award ID": "80NSSC17K0540",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 888806.24,
+    "Total Outlays": 56007.63,
+    "Description": "AUTOMATED WEATHER STATION AND AWS-LIKE NETWORKS ARE THE PRIMARY SOURCE OF SURFACE-LEVEL METEOROLOGICAL DATA IN REMOTE POLAR REGIONS. THESE NETWORKS HAVE DEVELOPED ORGANICALLY AND INDEPENDENTLY  AND DELIVER DATA TO RESEARCHERS IN IDIOSYNCRATIC ASCII FORMATS THAT HINDER AUTOMATED PROCESSING AND INTERCOMPARISON AMONG NETWORKS. MOREOVER  STATION TILT CAUSES SIGNIFICANT BIASES IN POLAR AWS MEASUREMENTS OF RADIATION AND WIND DIRECTION. RESEARCHERS  NETWORK OPERATORS  AND DATA CENTERS WOULD BENEFIT FROM AWS- LIKE DATA IN A COMMON FORMAT  AMENABLE TO AUTOMATED ANALYSIS  AND ADJUSTED FOR KNOWN BIASES. THIS PROJECT ADDRESSES THESE NEEDS BY DEVELOPING A SCIENTIFIC SOFTWARE WORKFLOW CALLED \"JUSTIFIED AWS\" (JAWS) TO INGEST LEVEL 2 (L2) DATA IN THE MULTIPLE FORMATS NOW DISTRIBUTED  HARMONIZE IT INTO A COMMON FORMAT  AND DELIVER VALUE-ADDED LEVEL 3 (L3) OUTPUT SUITABLE FOR DISTRIBUTION BY THE NETWORK OPERATOR  ANALYSIS BY THE RESEARCHER  AND CURATION BY THE DATA CENTER.  POLAR CLIMATE RESEARCHERS CURRENTLY FACE DAUNTING PROBLEMS INCLUDING HOW TO EASILY: 1. AUTOMATE ANALYSIS (SUBSETTING  STATISTICS  UNIT CONVERSION) OF AWS-LIKE L2 ASCII DATA. 2. COMBINE OR INTERCOMPARE DATA AND DATA QUALITY FROM AMONG UNHARMONIZED L2 DATASETS. 3. ADJUST L2 DATA FOR BIASES SUCH AS AWS TILT ANGLE AND DIRECTION. JAWS ADDRESSES THESE COMMON ISSUES BY HARMONIZING AWS L2 DATA INTO A COMMON FORMAT  AND APPLYING ACCEPTED METHODS TO QUANTIFY QUALITY AND ESTIMATE BIASES. SPECIFICALLY  JAWS ENABLES USERS AND NETWORK OPERATORS TO 1. CONVERT L2 DATA (USUALLY ASCII TABLES) INTO A NETCDF-BASED L3 FORMAT COMPLIANT WITH METADATA CONVENTIONS (CLIMATE-FORECAST AND ACDD) THAT PROMOTE AUTOMATED DISCOVERY AND ANALYSIS. 2. INCLUDE VALUE-ADDED L3 FEATURES LIKE THE RETROSPECTIVE  ITERATIVE  GEOMETRY-BASED (RIGB) TILT ANGLE AND DIRECTION CORRECTIONS  SOLAR ANGLES  AND STANDARDIZED QUALITY FLAGS. 3. PROVIDE A SCRIPTABLE API TO EXTEND THE INITIAL L2-TO-L3 CONVERSION TO NEWER AWS-LIKE NETWORKS AND INSTRUMENTS. POLAR AWS NETWORK EXPERTS AND NSIDC DAAC PERSONNEL  EACH WITH DECADES OF EXPERIENCE  WILL HELP GUIDE AND DELIBERATE THE L3 CONVENTIONS IMPLEMENTED IN STAGES 2-3.  THE PROJECT WILL START ON JULY 1  2017 AT ENTRY TECHNOLOGY READINESS LEVEL 3 AND WILL EXIT ON JUNE 30  2019 AT TRL 6. JAWS IS NOW A HETEROGENEOUS COLLECTION OF SCRIPTS AND METHODS DEVELOPED AND VALIDATED AT UCI OVER THE PAST 15 YEARS. AT EXIT  JAWS WILL COMPRISE THREE MODULAR STAGES WRITTEN IN OR WRAPPED BY PYTHON  INSTALLABLE BY CONDA: STAGE 1 INGESTS AND TRANSLATES L2 DATA INTO NETCDF. STAGE 2 ANNOTATES THE NETCDF WITH CF AND ACDD METADATA. STAGE 3 DERIVES VALUE-ADDED SCIENTIFIC AND QUALITY INFORMATION. THE LABOR- INTENSIVE TASKS INCLUDE TURNING OUR HETEROGENEOUS WORKFLOW INTO A ROBUST  STANDARDS-COMPLIANT  EXTENSIBLE WORKFLOW WITH AN API BASED ON BEST PRACTICES OF MODERN SCIENTIFIC INFORMATION SYSTEMS AND SERVICES. IMPLEMENTATION OF STAGES 1-2 MAY BE STRAIGHTFORWARD THOUGH TEDIOUS DUE TO THE MENAGERIE OF L2 FORMATS  INSTRUMENTS  AND ASSUMPTIONS. THE RIGB COMPONENT OF STAGE 3 REQUIRES ONGOING ASSIMILATION OF ANCILLARY NASA DATA (CERES  AIRS) AND USE OF AUTOMATED DATA TRANSFER PROTOCOLS (DAP  THREDDS).  THE IMMEDIATE TARGET RECIPIENT ELEMENTS ARE POLAR AWS NETWORK MANAGERS  USERS  AND DATA DISTRIBUTORS. L2 BOREHOLE DATA SUFFERS FROM SIMILAR INTEROPERABILITY ISSUES  AS DOES NON-POLAR AWS DATA. HENCE OUR L3 FORMAT WILL BE EXTENSIBLE TO GLOBAL AWS AND PERMAFROST NETWORKS. JAWS WILL INCREASE IN SITU DATA ACCESSIBILITY AND UTILITY  AND ENABLE NEW DERIVED PRODUCTS (BOTH ARE AIST GOALS). THE PI IS A LONG-STANDING RESEARCHER  OPEN SOURCE SOFTWARE DEVELOPER  AND EDUCATOR WHO UNDERSTANDS OBSTACLES TO HARMONIZING DISPARATE DATASETS WITH NASA INTEROPERABILITY RECOMMENDATIONS. OUR TEAM PARTICIPATES IN RELEVANT GEOSCIENCE COMMUNITIES  INCLUDING ESDS WORKING GROUPS  ESIP  AGU  AND EARTHCUBE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "141 INNOVATION DR STE 250",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "45",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "3213",
+      "zip5": "92617"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "45",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92617-3213",
+      "zip5": "92617"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2017-10-01",
+    "End Date": "2020-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC17K0540_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74724733,
+    "generated_unique_award_id": "ASST_NON_80NSSC17K0540_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AUTOMATED WEATHER STATION AND AWS-LIKE NETWORKS ARE THE PRIMARY SOURCE OF SURFACE-LEVEL METEOROLOGICAL DATA IN REMOTE POLAR REGIONS. THESE NETWORKS HAVE DEVELOPED ORGANICALLY AND INDEPENDENTLY  AND DELIVER DATA TO RESEARCHERS IN IDIOSYNCRATIC ASCII FORMATS THAT HINDER AUTOMATED PROCESSING AND INTERCOMPARISON AMONG NETWORKS. MOREOVER  STATION TILT CAUSES SIGNIFICANT BIASES IN POLAR AWS MEASUREMENTS OF RADIATION AND WIND DIRECTION. RESEARCHERS  NETWORK OPERATORS  AND DATA CENTERS WOULD BENEFIT FROM AWS- LIKE DATA IN A COMMON FORMAT  AMENABLE TO AUTOMATED ANALYSIS  AND ADJUSTED FOR KNOWN BIASES. THIS PROJECT ADDRESSES THESE NEEDS BY DEVELOPING A SCIENTIFIC SOFTWARE WORKFLOW CALLED \"JUSTIFIED AWS\" (JAWS) TO INGEST LEVEL 2 (L2) DATA IN THE MULTIPLE FORMATS NOW DISTRIBUTED  HARMONIZE IT INTO A COMMON FORMAT  AND DELIVER VALUE-ADDED LEVEL 3 (L3) OUTPUT SUITABLE FOR DISTRIBUTION BY THE NETWORK OPERATOR  ANALYSIS BY THE RESEARCHER  AND CURATION BY THE DATA CENTER.  POLAR CLIMATE RESEARCHERS CURRENTLY FACE DAUNTING PROBLEMS INCLUDING HOW TO EASILY: 1. AUTOMATE ANALYSIS (SUBSETTING  STATISTICS  UNIT CONVERSION) OF AWS-LIKE L2 ASCII DATA. 2. COMBINE OR INTERCOMPARE DATA AND DATA QUALITY FROM AMONG UNHARMONIZED L2 DATASETS. 3. ADJUST L2 DATA FOR BIASES SUCH AS AWS TILT ANGLE AND DIRECTION. JAWS ADDRESSES THESE COMMON ISSUES BY HARMONIZING AWS L2 DATA INTO A COMMON FORMAT  AND APPLYING ACCEPTED METHODS TO QUANTIFY QUALITY AND ESTIMATE BIASES. SPECIFICALLY  JAWS ENABLES USERS AND NETWORK OPERATORS TO 1. CONVERT L2 DATA (USUALLY ASCII TABLES) INTO A NETCDF-BASED L3 FORMAT COMPLIANT WITH METADATA CONVENTIONS (CLIMATE-FORECAST AND ACDD) THAT PROMOTE AUTOMATED DISCOVERY AND ANALYSIS. 2. INCLUDE VALUE-ADDED L3 FEATURES LIKE THE RETROSPECTIVE  ITERATIVE  GEOMETRY-BASED (RIGB) TILT ANGLE AND DIRECTION CORRECTIONS  SOLAR ANGLES  AND STANDARDIZED QUALITY FLAGS. 3. PROVIDE A SCRIPTABLE API TO EXTEND THE INITIAL L2-TO-L3 CONVERSION TO NEWER AWS-LIKE NETWORKS AND INSTRUMENTS. POLAR AWS NETWORK EXPERTS AND NSIDC DAAC PERSONNEL  EACH WITH DECADES OF EXPERIENCE  WILL HELP GUIDE AND DELIBERATE THE L3 CONVENTIONS IMPLEMENTED IN STAGES 2-3.  THE PROJECT WILL START ON JULY 1  2017 AT ENTRY TECHNOLOGY READINESS LEVEL 3 AND WILL EXIT ON JUNE 30  2019 AT TRL 6. JAWS IS NOW A HETEROGENEOUS COLLECTION OF SCRIPTS AND METHODS DEVELOPED AND VALIDATED AT UCI OVER THE PAST 15 YEARS. AT EXIT  JAWS WILL COMPRISE THREE MODULAR STAGES WRITTEN IN OR WRAPPED BY PYTHON  INSTALLABLE BY CONDA: STAGE 1 INGESTS AND TRANSLATES L2 DATA INTO NETCDF. STAGE 2 ANNOTATES THE NETCDF WITH CF AND ACDD METADATA. STAGE 3 DERIVES VALUE-ADDED SCIENTIFIC AND QUALITY INFORMATION. THE LABOR- INTENSIVE TASKS INCLUDE TURNING OUR HETEROGENEOUS WORKFLOW INTO A ROBUST  STANDARDS-COMPLIANT  EXTENSIBLE WORKFLOW WITH AN API BASED ON BEST PRACTICES OF MODERN SCIENTIFIC INFORMATION SYSTEMS AND SERVICES. IMPLEMENTATION OF STAGES 1-2 MAY BE STRAIGHTFORWARD THOUGH TEDIOUS DUE TO THE MENAGERIE OF L2 FORMATS  INSTRUMENTS  AND ASSUMPTIONS. THE RIGB COMPONENT OF STAGE 3 REQUIRES ONGOING ASSIMILATION OF ANCILLARY NASA DATA (CERES  AIRS) AND USE OF AUTOMATED DATA TRANSFER PROTOCOLS (DAP  THREDDS).  THE IMMEDIATE TARGET RECIPIENT ELEMENTS ARE POLAR AWS NETWORK MANAGERS  USERS  AND DATA DISTRIBUTORS. L2 BOREHOLE DATA SUFFERS FROM SIMILAR INTEROPERABILITY ISSUES  AS DOES NON-POLAR AWS DATA. HENCE OUR L3 FORMAT WILL BE EXTENSIBLE TO GLOBAL AWS AND PERMAFROST NETWORKS. JAWS WILL INCREASE IN SITU DATA ACCESSIBILITY AND UTILITY  AND ENABLE NEW DERIVED PRODUCTS (BOTH ARE AIST GOALS). THE PI IS A LONG-STANDING RESEARCHER  OPEN SOURCE SOFTWARE DEVELOPER  AND EDUCATOR WHO UNDERSTANDS OBSTACLES TO HARMONIZING DISPARATE DATASETS WITH NASA INTEROPERABILITY RECOMMENDATIONS. OUR TEAM PARTICIPATES IN RELEVANT GEOSCIENCE COMMUNITIES  INCLUDING ESDS WORKING GROUPS  ESIP  AGU  AND EARTHCUBE.",
+    "total_obligation": 888806.24,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2017-09-05",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 56007.63,
+    "total_account_obligation": -21.76,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 56007.63
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -21.76
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2017-10-01",
+      "end_date": "2020-06-30",
+      "last_modified_date": "2020-10-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": "046705849",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "141 INNOVATION DR STE 250",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "3213",
+        "zip5": "92617",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "3213",
+      "zip5": "92617",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 56007.63
+  }
+}

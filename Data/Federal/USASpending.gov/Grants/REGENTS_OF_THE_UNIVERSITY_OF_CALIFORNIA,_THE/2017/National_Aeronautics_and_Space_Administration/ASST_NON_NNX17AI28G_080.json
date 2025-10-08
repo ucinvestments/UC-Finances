@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89967743,
+    "Award ID": "NNX17AI28G",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 596818.34,
+    "Total Outlays": 0,
+    "Description": "WE PROPOSE AN INVESTIGATION OF MOMENTUM PROCESSES IN SOLAR ERUPTIONS BY COMBINING MULTI-INSTRUMENT OBSERVATIONS AND STATE-OFTHE- ART NUMERICAL MODELING. THE CORONAL LORENTZ FORCE CAN BE ESTIMATED USING HIGH-CADENCE PHOTOSPHERIC VECTOR MAGNETOGRAMS AND EXHIBITS A RAPID AND PERMANENT CHANGE DURING MAJOR ERUPTIONS. PRELIMINARY INVESTIGATIONS (SUN ET AL. 2015  2016) SUGGEST AN EXCESS OF THE LORENTZ FORCE IMPULSE COMPARED TO CME MOMENTUM (THE  EXCESS PROBLEM ) AND THIS IMPULSE IS APPARENTLY SIGNIFICANTLY GREATER FOR ERUPTIVE FLARES (WITH CMES) COMPARED TO NON-ERUPTIVE FLARES (WITHOUT CMES). WE WILL ADDRESS THE FOLLOWING QUESTIONS: (1) HOW DOES PHOTOSPHERIC MAGNETIC FIELD EVOLVE DURING SOLAR ERUPTIONS? HOW IS IT RELATED TO THE EVOLUTION OF THE LORENTZ FORCE? (2) HOW DOES THE OBSERVED LORENTZ FORCE IMPULSE (AND ITS TEMPORAL AND SPATIAL DISTRIBUTION) RELATE TO THE CME MOMENTUM? ARE THERE SYSTEMATIC DIFFERENCES BETWEEN ERUPTIVE AND NON-ERUPTIVE FLARES? (3) WHAT CAN WE LEARN FROM MHD MODELS ABOUT THE SPATIAL AND TEMPORAL DISTRIBUTION OF VARIOUS MOMENTUM PROCESSES? CAN WE USE DATA-DRIVEN NUMERICAL MODELING TO EXPLAIN THE OBSERVATIONAL RESULTS? METHODOLOGY: OUR PROPOSED INVESTIGATION WILL ANALYZE NEW 135S VECTOR MAGNETOGRAMS FROM SDO/HMI  CORONAL EUV AND CORONAGRAPH IMAGES FROM SDO  STEREO  AND SOHO IN CONJUNCTION WITH RUNNING MHD SIMULATIONS OF CME INITIATION USING THE CGEM/RADMHD CODE. WE PROPOSE THE FOLLOWING: 1. CHARACTERIZE MAGNETIC FIELD AND FORCE EVOLUTION. WE WILL SURVEY BOTH ERUPTIVE AND NON-ERUPTIVE FLARES IN THE SDO ERA AND EVALUATE THE FIELD CHANGES AND MAGNETIC FORCES IN THE SOURCE REGIONS USING HIGH-CADENCE HMI DATA. THE RESULTS WILL BE COMPARED WITH OTHER ACTIVE REGION PROPERTIES (FIELD STRENGTH  FLUX CONTENT  AND MAGNETIC TOPOLOGY) TO FURTHER UNDERSTAND THE SPECIFIC ROLE OF THE LORENTZ FORCE IN SOLAR ERUPTIONS. 2. CHARACTERIZE VARIOUS MOMENTUM PROCESSES. FOR ERUPTIVE EVENTS  WE WILL PERFORM DETAILED STUDIES OF THE CME MASS AND DYNAMICS  INCLUDING THE MOMENTUM EVOLUTION ASSOCIATED WITH THE HEIGHT-TIME TRANSITION BETWEEN PRE-ERUPTIVE SLOW RISE PHASE THROUGH THE ONSET OF CME INITIATION AND ACCELERATION. 3. QUANTIFY THE FORCE EVOLUTION AND MOMENTUM PROCESSES IN MHD MODELS. IN ORDER TO FILL THE GAP BETWEEN OBSERVATIONS OF PHOTOSPHERIC BOUNDARY EVOLUTION AND OBSERVATIONS OF THE RESULTING FLARE AND CME ERUPTION WE WILL DEVELOP NEW INITIALIZATION STATE PROCEDURES FOR THE RADMHD CODE THAT ALLOW FOR REALISTIC SOLAR ATMOSPHERE DENSITY/TEMPERATURE STRATIFICATION. WE PROPOSE TO RUN THE TORUS INSTABILITY AND MAGNETIC BREAKOUT CME ERUPTION MODELS IN RADMHD AND ANALYZE THE FORCES AND MOMENTUM EVOLUTION IN THE SIMULATIONS. THESE RESULTS WILL BE CRITICAL TO SOLVING THE LORENTZ FORCE  EXCESS PROBLEM.  4. SYNTHESIZE OBSERVATIONAL AND MODELING RESULTS TO INTERPRET THE RELATION BETWEEN MAGNETIC FORCES AND MOMENTUM PROCESSES DURING FLARES AND CMES. WE WILL THEN PERFORM A REALISTIC DATA-DRIVEN CME ERUPTION USING 135 S HMI DATA BUILDING ON THE CAPABILITIES DEVELOPED FOR THE CGEM/RADMHD FRAMEWORK (FISHER ET AL. 2015). FROM MHD SIMULATION ANALYSES WE WILL BE ABLE TO CHARACTERIZE THE LORENTZ FORCE IMPULSE AND THE MOMENTUM TRANSFER DURING IDEAL AND/OR RESISTIVE INSTABILITIES FROM FLARE RECONNECTION JETS TO THE EJECTA VIA FLUID AND PARTICLES  AND FOLLOW THE MOMENTUM EVOLUTION THROUGH CME PROPAGATION. WE WILL DIRECTLY COMPARE DATA-DRIVEN RADMHD RESULTS TO OBSERVATIONS. THIS WORK WILL CONTRIBUTE TO THE UNDERSTANDING OF CME AND FLARE PROCESSES AND IMPROVE OUR CAPABILITY FOR SPACE WEATHER FORECASTING. IT IS DIRECTLY RELEVANT TO THE DECADAL SURVEY GOAL  DETERMINE THE ORIGINS OF THE SUN S ACTIVITY AND PREDICT THE VARIATIONS OF THE SPACE ENVIRONMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "2150 SHATTUCK AVE RM 313",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5940",
+      "zip5": "94704"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94704-5940",
+      "zip5": "94704"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2017-04-01",
+    "End Date": "2020-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_NNX17AI28G_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89967743,
+    "generated_unique_award_id": "ASST_NON_NNX17AI28G_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "WE PROPOSE AN INVESTIGATION OF MOMENTUM PROCESSES IN SOLAR ERUPTIONS BY COMBINING MULTI-INSTRUMENT OBSERVATIONS AND STATE-OFTHE- ART NUMERICAL MODELING. THE CORONAL LORENTZ FORCE CAN BE ESTIMATED USING HIGH-CADENCE PHOTOSPHERIC VECTOR MAGNETOGRAMS AND EXHIBITS A RAPID AND PERMANENT CHANGE DURING MAJOR ERUPTIONS. PRELIMINARY INVESTIGATIONS (SUN ET AL. 2015  2016) SUGGEST AN EXCESS OF THE LORENTZ FORCE IMPULSE COMPARED TO CME MOMENTUM (THE  EXCESS PROBLEM ) AND THIS IMPULSE IS APPARENTLY SIGNIFICANTLY GREATER FOR ERUPTIVE FLARES (WITH CMES) COMPARED TO NON-ERUPTIVE FLARES (WITHOUT CMES). WE WILL ADDRESS THE FOLLOWING QUESTIONS: (1) HOW DOES PHOTOSPHERIC MAGNETIC FIELD EVOLVE DURING SOLAR ERUPTIONS? HOW IS IT RELATED TO THE EVOLUTION OF THE LORENTZ FORCE? (2) HOW DOES THE OBSERVED LORENTZ FORCE IMPULSE (AND ITS TEMPORAL AND SPATIAL DISTRIBUTION) RELATE TO THE CME MOMENTUM? ARE THERE SYSTEMATIC DIFFERENCES BETWEEN ERUPTIVE AND NON-ERUPTIVE FLARES? (3) WHAT CAN WE LEARN FROM MHD MODELS ABOUT THE SPATIAL AND TEMPORAL DISTRIBUTION OF VARIOUS MOMENTUM PROCESSES? CAN WE USE DATA-DRIVEN NUMERICAL MODELING TO EXPLAIN THE OBSERVATIONAL RESULTS? METHODOLOGY: OUR PROPOSED INVESTIGATION WILL ANALYZE NEW 135S VECTOR MAGNETOGRAMS FROM SDO/HMI  CORONAL EUV AND CORONAGRAPH IMAGES FROM SDO  STEREO  AND SOHO IN CONJUNCTION WITH RUNNING MHD SIMULATIONS OF CME INITIATION USING THE CGEM/RADMHD CODE. WE PROPOSE THE FOLLOWING: 1. CHARACTERIZE MAGNETIC FIELD AND FORCE EVOLUTION. WE WILL SURVEY BOTH ERUPTIVE AND NON-ERUPTIVE FLARES IN THE SDO ERA AND EVALUATE THE FIELD CHANGES AND MAGNETIC FORCES IN THE SOURCE REGIONS USING HIGH-CADENCE HMI DATA. THE RESULTS WILL BE COMPARED WITH OTHER ACTIVE REGION PROPERTIES (FIELD STRENGTH  FLUX CONTENT  AND MAGNETIC TOPOLOGY) TO FURTHER UNDERSTAND THE SPECIFIC ROLE OF THE LORENTZ FORCE IN SOLAR ERUPTIONS. 2. CHARACTERIZE VARIOUS MOMENTUM PROCESSES. FOR ERUPTIVE EVENTS  WE WILL PERFORM DETAILED STUDIES OF THE CME MASS AND DYNAMICS  INCLUDING THE MOMENTUM EVOLUTION ASSOCIATED WITH THE HEIGHT-TIME TRANSITION BETWEEN PRE-ERUPTIVE SLOW RISE PHASE THROUGH THE ONSET OF CME INITIATION AND ACCELERATION. 3. QUANTIFY THE FORCE EVOLUTION AND MOMENTUM PROCESSES IN MHD MODELS. IN ORDER TO FILL THE GAP BETWEEN OBSERVATIONS OF PHOTOSPHERIC BOUNDARY EVOLUTION AND OBSERVATIONS OF THE RESULTING FLARE AND CME ERUPTION WE WILL DEVELOP NEW INITIALIZATION STATE PROCEDURES FOR THE RADMHD CODE THAT ALLOW FOR REALISTIC SOLAR ATMOSPHERE DENSITY/TEMPERATURE STRATIFICATION. WE PROPOSE TO RUN THE TORUS INSTABILITY AND MAGNETIC BREAKOUT CME ERUPTION MODELS IN RADMHD AND ANALYZE THE FORCES AND MOMENTUM EVOLUTION IN THE SIMULATIONS. THESE RESULTS WILL BE CRITICAL TO SOLVING THE LORENTZ FORCE  EXCESS PROBLEM.  4. SYNTHESIZE OBSERVATIONAL AND MODELING RESULTS TO INTERPRET THE RELATION BETWEEN MAGNETIC FORCES AND MOMENTUM PROCESSES DURING FLARES AND CMES. WE WILL THEN PERFORM A REALISTIC DATA-DRIVEN CME ERUPTION USING 135 S HMI DATA BUILDING ON THE CAPABILITIES DEVELOPED FOR THE CGEM/RADMHD FRAMEWORK (FISHER ET AL. 2015). FROM MHD SIMULATION ANALYSES WE WILL BE ABLE TO CHARACTERIZE THE LORENTZ FORCE IMPULSE AND THE MOMENTUM TRANSFER DURING IDEAL AND/OR RESISTIVE INSTABILITIES FROM FLARE RECONNECTION JETS TO THE EJECTA VIA FLUID AND PARTICLES  AND FOLLOW THE MOMENTUM EVOLUTION THROUGH CME PROPAGATION. WE WILL DIRECTLY COMPARE DATA-DRIVEN RADMHD RESULTS TO OBSERVATIONS. THIS WORK WILL CONTRIBUTE TO THE UNDERSTANDING OF CME AND FLARE PROCESSES AND IMPROVE OUR CAPABILITY FOR SPACE WEATHER FORECASTING. IT IS DIRECTLY RELEVANT TO THE DECADAL SURVEY GOAL  DETERMINE THE ORIGINS OF THE SUN S ACTIVITY AND PREDICT THE VARIATIONS OF THE SPACE ENVIRONMENT.",
+    "total_obligation": 596818.34,
+    "subaward_count": 2,
+    "total_subaward_amount": 174130,
+    "date_signed": "2017-04-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": -81.66,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -81.66
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2017-04-01",
+      "end_date": "2020-03-31",
+      "last_modified_date": "2020-11-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": "124726725",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "2150 SHATTUCK AVE RM 313",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5940",
+        "zip5": "94704",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "5940",
+      "zip5": "94704",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

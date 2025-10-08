@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91135370,
+    "Award ID": "R01AI173803",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1220315,
+    "Total Outlays": 1027757.06,
+    "Description": "RESTRICTION OF TOXOPLASMA GROWTH IN HUMAN CELLS - TOXOPLASMA GONDII IS AN OBLIGATE INTRACELLULAR PARASITE THAT CAN CAUSE SEVERE DISEASE IN CONGENITALLY INFECTED INFANTS AND IN IMMUNOSUPPRESSED PEOPLE. TOXOPLASMA CO-OPTS HOST CELLS BY SECRETING EFFECTOR PROTEINS, CALLED ROPS AND GRAS, INTO THE HOST CELL. IN MICE, THE CYTOKINE INTERFERON GAMMA (IFNΓ) IS ESSENTIAL TO CONTROL TOXOPLASMA BY INDUCING A VARIETY OF PARASITICIDAL MECHANISMS WHILE IN HUMANS THE CYTOKINE TUMOR NECROSIS FACTOR (TNF)Α CAN COMPENSATE FOR THE ABSENCE OF IFNΓ. THE IFNΓ-INDUCED MECHANISMS THAT CONTROL TOXOPLASMA IN RODENTS ARE LARGELY ABSENT IN HUMANS AND MOST OF THE PARASITE’S ROPS AND GRAS THAT DETERMINE VIRULENCE IN RODENTS PLAY NO ROLE IN COUNTERACTING THE HUMAN IFNΓ RESPONSE. THUS, DESPITE TOXOPLASMA’S ENORMOUS HEALTH IMPLICATIONS, THERE IS CURRENTLY A LACK OF MECHANISTIC KNOWLEDGE ON (I) HOW IFNΓ- OR TNFΑ-STIMULATED PRIMARY HUMAN CELLS INHIBIT TOXOPLASMA GROWTH; AND (II) HOW TOXOPLASMA SECRETED EFFECTORS ALLOW PARASITE GROWTH IN STIMULATED PRIMARY HUMAN CELLS. OUR LONG-TERM GOAL IS TO DETERMINE HOW TOXOPLASMA SECRETED EFFECTORS MEDIATE ITS SURVIVAL IN HUMANS, EVEN IN THE PRESENCE OF A FULLY FUNCTIONING IMMUNE SYSTEM, WHICH COULD HELP THE DEVELOPMENT OF TARGETED INTERVENTIONS TO MINIMIZE THE ADVERSE HEALTH EFFECTS OF TOXOPLASMOSIS IN AT-RISK INDIVIDUALS. THE OVERALL OBJECTIVE FOR THIS APPLICATION IS TO DETERMINE THE MECHANISMS BY WHICH ACTIVATED PRIMARY HUMAN CELLS DETECT AND DESTROY TOXOPLASMA AND HOW TOXOPLASMA COUNTERACTS THESE MECHANISMS. OUR HYPOTHESES ARE (I) THAT MECHANISMS OF TOXOPLASMA GROWTH INHIBITION IN STIMULATED HUMAN CELLS ARE GUANYLATE-BINDING PROTEIN (GBP1)-MEDIATED BREAKAGE OF THE VACUOLE FOLLOWED BY ENDOLYSOSOMAL FUSION WITH THE PARASITOPHOROROUS VACUOLE, WHICH IS TOXOPLASMA’S REPLICATION NICHE, AND INDUCTION OF EARLY PARASITE EGRESS; AND (II) THAT THE NOVEL TOXOPLASMA GRA EFFECTORS IDENTIFIED FROM OUR GENOME-WIDE PARASITE LOSS-OF-FUNCTION SCREEN IN IFNΓ-STIMULATED HUMAN CELLS DETERMINE PARASITE RESISTANCE TO IFNΓ BY PREVENTING EARLY PARASITE EGRESS. THE HYPOTHESES WILL BE TESTED BY PURSUING TWO SPECIFIC AIMS: 1) DETERMINE THE MECHANISM BY WHICH IFNΓ/TNFΑ-STIMULATED HUMAN CELLS INHIBIT TOXOPLASMA GROWTH; AND 2) DETERMINE THE MECHANISM BY WHICH TOXOPLASMA EFFECTORS AFFECT PARASITE FITNESS IN IFNΓ/TNFΑ-STIMULATED HUMAN CELLS. THE RESEARCH PROPOSED IN THIS APPLICATION IS INNOVATIVE BECAUSE IT IS USING RESULTS FROM AN UNBIASED INNOVATIVE CRISPR/CAS9 LOSS-OF-FUNCTION SCREEN THAT IDENTIFIED TOXOPLASMA GENES THAT DETERMINE RESISTANCE TO IFNΓ-MEDIATED PARASITE GROWTH INHIBITION IN PRIMARY HUMAN CELLS. THESE RESULTS ARE EXPECTED TO HAVE AN IMPORTANT POSITIVE IMPACT BECAUSE THEY WILL PROVIDE A SCIENCE-BASED FRAMEWORK FOR THE FUTURE DEVELOPMENT OF NOVEL TARGETS FOR THERAPY, E.G., BY STIMULATING HOST PARASITE KILLING MECHANISM OR BY INHIBITING PARASITE VIRULENCE DETERMINANTS. OUR RESULTS WILL ALSO AID PREDICTION OF TOXOPLASMA STRAIN VIRULENCE IN HUMANS AND IDENTIFICATION OF HUMAN TOXOPLASMOSIS SUSCEPTIBILITY LOCI.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-11-13",
+    "End Date": "2028-10-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI173803_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91135370,
+    "generated_unique_award_id": "ASST_NON_R01AI173803_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "RESTRICTION OF TOXOPLASMA GROWTH IN HUMAN CELLS - TOXOPLASMA GONDII IS AN OBLIGATE INTRACELLULAR PARASITE THAT CAN CAUSE SEVERE DISEASE IN CONGENITALLY INFECTED INFANTS AND IN IMMUNOSUPPRESSED PEOPLE. TOXOPLASMA CO-OPTS HOST CELLS BY SECRETING EFFECTOR PROTEINS, CALLED ROPS AND GRAS, INTO THE HOST CELL. IN MICE, THE CYTOKINE INTERFERON GAMMA (IFNΓ) IS ESSENTIAL TO CONTROL TOXOPLASMA BY INDUCING A VARIETY OF PARASITICIDAL MECHANISMS WHILE IN HUMANS THE CYTOKINE TUMOR NECROSIS FACTOR (TNF)Α CAN COMPENSATE FOR THE ABSENCE OF IFNΓ. THE IFNΓ-INDUCED MECHANISMS THAT CONTROL TOXOPLASMA IN RODENTS ARE LARGELY ABSENT IN HUMANS AND MOST OF THE PARASITE’S ROPS AND GRAS THAT DETERMINE VIRULENCE IN RODENTS PLAY NO ROLE IN COUNTERACTING THE HUMAN IFNΓ RESPONSE. THUS, DESPITE TOXOPLASMA’S ENORMOUS HEALTH IMPLICATIONS, THERE IS CURRENTLY A LACK OF MECHANISTIC KNOWLEDGE ON (I) HOW IFNΓ- OR TNFΑ-STIMULATED PRIMARY HUMAN CELLS INHIBIT TOXOPLASMA GROWTH; AND (II) HOW TOXOPLASMA SECRETED EFFECTORS ALLOW PARASITE GROWTH IN STIMULATED PRIMARY HUMAN CELLS. OUR LONG-TERM GOAL IS TO DETERMINE HOW TOXOPLASMA SECRETED EFFECTORS MEDIATE ITS SURVIVAL IN HUMANS, EVEN IN THE PRESENCE OF A FULLY FUNCTIONING IMMUNE SYSTEM, WHICH COULD HELP THE DEVELOPMENT OF TARGETED INTERVENTIONS TO MINIMIZE THE ADVERSE HEALTH EFFECTS OF TOXOPLASMOSIS IN AT-RISK INDIVIDUALS. THE OVERALL OBJECTIVE FOR THIS APPLICATION IS TO DETERMINE THE MECHANISMS BY WHICH ACTIVATED PRIMARY HUMAN CELLS DETECT AND DESTROY TOXOPLASMA AND HOW TOXOPLASMA COUNTERACTS THESE MECHANISMS. OUR HYPOTHESES ARE (I) THAT MECHANISMS OF TOXOPLASMA GROWTH INHIBITION IN STIMULATED HUMAN CELLS ARE GUANYLATE-BINDING PROTEIN (GBP1)-MEDIATED BREAKAGE OF THE VACUOLE FOLLOWED BY ENDOLYSOSOMAL FUSION WITH THE PARASITOPHOROROUS VACUOLE, WHICH IS TOXOPLASMA’S REPLICATION NICHE, AND INDUCTION OF EARLY PARASITE EGRESS; AND (II) THAT THE NOVEL TOXOPLASMA GRA EFFECTORS IDENTIFIED FROM OUR GENOME-WIDE PARASITE LOSS-OF-FUNCTION SCREEN IN IFNΓ-STIMULATED HUMAN CELLS DETERMINE PARASITE RESISTANCE TO IFNΓ BY PREVENTING EARLY PARASITE EGRESS. THE HYPOTHESES WILL BE TESTED BY PURSUING TWO SPECIFIC AIMS: 1) DETERMINE THE MECHANISM BY WHICH IFNΓ/TNFΑ-STIMULATED HUMAN CELLS INHIBIT TOXOPLASMA GROWTH; AND 2) DETERMINE THE MECHANISM BY WHICH TOXOPLASMA EFFECTORS AFFECT PARASITE FITNESS IN IFNΓ/TNFΑ-STIMULATED HUMAN CELLS. THE RESEARCH PROPOSED IN THIS APPLICATION IS INNOVATIVE BECAUSE IT IS USING RESULTS FROM AN UNBIASED INNOVATIVE CRISPR/CAS9 LOSS-OF-FUNCTION SCREEN THAT IDENTIFIED TOXOPLASMA GENES THAT DETERMINE RESISTANCE TO IFNΓ-MEDIATED PARASITE GROWTH INHIBITION IN PRIMARY HUMAN CELLS. THESE RESULTS ARE EXPECTED TO HAVE AN IMPORTANT POSITIVE IMPACT BECAUSE THEY WILL PROVIDE A SCIENCE-BASED FRAMEWORK FOR THE FUTURE DEVELOPMENT OF NOVEL TARGETS FOR THERAPY, E.G., BY STIMULATING HOST PARASITE KILLING MECHANISM OR BY INHIBITING PARASITE VIRULENCE DETERMINANTS. OUR RESULTS WILL ALSO AID PREDICTION OF TOXOPLASMA STRAIN VIRULENCE IN HUMANS AND IDENTIFICATION OF HUMAN TOXOPLASMOSIS SUSCEPTIBILITY LOCI.",
+    "total_obligation": 1220315,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-11-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1027757.06,
+    "total_account_obligation": 1220315,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1027757.06
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1220315
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2023-11-13",
+      "end_date": "2028-10-31",
+      "last_modified_date": "2024-11-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1027757.06
+  }
+}

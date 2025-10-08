@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92427359,
+    "Award ID": "T34GM146637",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1165021,
+    "Total Outlays": 315314.58,
+    "Description": "BRIDGES TO THE BACCALAUREATE RESEARCH TRAINING PROGRAM AT UNIVERSITY OF CALIFORNIA, RIVERSIDE - THE UNIVERSITY OF CALIFORNIA RIVERSIDE (UCR) AND RIVERSIDE CITY COLLEGE (RCC) PROPOSE TO CREATE A BRIDGES TO THE BACCALAUREATE (B2B) RESEARCH EDUCATION PROGRAM TO FACILITATE TRANSFER OF COMMUNITY COLLEGE STUDENTS INTO UNIVERSITY BIOMEDICAL AND BEHAVIORAL SCIENCE MAJORS, WITH THE ULTIMATE GOAL OF INCREASING PARTICIPATION OF UNDERREPRESENTED IN MEDICINE AND SCIENCE (URIMS) GROUPS IN RESEARCH-ORIENTED CAREERS IN THESE AREAS. MANY URIMS STUDENTS HAVE LESS ACCESS TO HIGH QUALITY SCIENCE INSTRUCTION, RESOURCES AND ENRICHING OPPORTUNITIES AT ALL STAGES OF PUBLIC EDUCATION. AFRICAN-AMERICANS, CHICANO/LATINOS, NATIVE AMERICANS, HAWAIIAN AND ALASKAN NATIVES, PACIFIC ISLANDERS OR SOCIO-ECONOMICALLY DISADVANTAGED STUDENTS MAKE UP A SMALL PERCENTAGE OF SCIENCE TEACHERS IN K-12 AS WELL AS HIGHER EDUCATION, AND ARE EVEN MORE UNDERREPRESENTED IN BIOMEDICAL AND BEHAVIORAL SCIENCE FIELDS REQUIRING POST-GRADUATE DEGREES. THE PROPOSED B2B PROGRAM WILL IDENTIFY COMMUNITY COLLEGE STUDENTS AT RCC COMMITTED TO PURSUING A CAREER IN SCIENCE AND FACILITATE THEIR TRANSFER AND SUCCESSFUL COMPLETION OF BACCALAUREATE DEGREES IN SCIENCE, TECHNOLOGY, ENGINEERING, AND MATH (STEM) MAJORS. THE PROGRAM CONTAINS INTERVENTIONS AND SUPPORT SERVICES DESIGNED TO HELP B2B SCHOLARS ACHIEVE GRADUATION IN A NORMATIVE TWO-YEAR WINDOW FOLLOWING MATRICULATION AT UCR AND TO ADDRESS THE CAUSES OF URIMS ATTRITION IN STEM PROGRAMS. SPECIFIC PROGRAM COMPONENTS INCLUDE: COMPENSATED RESEARCH EXPERIENCES TO STIMULATE GREATER AWARENESS OF CAREER OPTIONS IN THE BIOMEDICAL AND BEHAVIORAL SCIENCES AND TO REDUCE THE NECESSITY OF WORKING IN NON-ACADEMIC JOBS; PEER AND FACULTY MENTORING THAT BEGINS BEFORE RCC/B2B SCHOLARS TRANSFER TO UCR; AND A SUMMER BOOT CAMP TO FAMILIARIZE INCOMING STUDENTS WITH UCR’S COURSE STRUCTURE AND STUDENT SUPPORT SERVICES. BY CREATING A PROGRAM THAT BRIDGES THE COMMUNITY COLLEGE AND UNIVERSITY EDUCATION AND PROVIDES ENHANCED PREPARATION BEFORE AND MENTORING AFTER TRANSFER, WE BELIEVE WE CAN OVERCOME THESE DISADVANTAGES AND IMPROVE THE SUCCESS AND PERSISTENCE OF URIMS TRANSFER STUDENTS IN BIOMEDICAL AND BEHAVIORAL SCIENCES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_T34GM146637_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92427359,
+    "generated_unique_award_id": "ASST_NON_T34GM146637_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "BRIDGES TO THE BACCALAUREATE RESEARCH TRAINING PROGRAM AT UNIVERSITY OF CALIFORNIA, RIVERSIDE - THE UNIVERSITY OF CALIFORNIA RIVERSIDE (UCR) AND RIVERSIDE CITY COLLEGE (RCC) PROPOSE TO CREATE A BRIDGES TO THE BACCALAUREATE (B2B) RESEARCH EDUCATION PROGRAM TO FACILITATE TRANSFER OF COMMUNITY COLLEGE STUDENTS INTO UNIVERSITY BIOMEDICAL AND BEHAVIORAL SCIENCE MAJORS, WITH THE ULTIMATE GOAL OF INCREASING PARTICIPATION OF UNDERREPRESENTED IN MEDICINE AND SCIENCE (URIMS) GROUPS IN RESEARCH-ORIENTED CAREERS IN THESE AREAS. MANY URIMS STUDENTS HAVE LESS ACCESS TO HIGH QUALITY SCIENCE INSTRUCTION, RESOURCES AND ENRICHING OPPORTUNITIES AT ALL STAGES OF PUBLIC EDUCATION. AFRICAN-AMERICANS, CHICANO/LATINOS, NATIVE AMERICANS, HAWAIIAN AND ALASKAN NATIVES, PACIFIC ISLANDERS OR SOCIO-ECONOMICALLY DISADVANTAGED STUDENTS MAKE UP A SMALL PERCENTAGE OF SCIENCE TEACHERS IN K-12 AS WELL AS HIGHER EDUCATION, AND ARE EVEN MORE UNDERREPRESENTED IN BIOMEDICAL AND BEHAVIORAL SCIENCE FIELDS REQUIRING POST-GRADUATE DEGREES. THE PROPOSED B2B PROGRAM WILL IDENTIFY COMMUNITY COLLEGE STUDENTS AT RCC COMMITTED TO PURSUING A CAREER IN SCIENCE AND FACILITATE THEIR TRANSFER AND SUCCESSFUL COMPLETION OF BACCALAUREATE DEGREES IN SCIENCE, TECHNOLOGY, ENGINEERING, AND MATH (STEM) MAJORS. THE PROGRAM CONTAINS INTERVENTIONS AND SUPPORT SERVICES DESIGNED TO HELP B2B SCHOLARS ACHIEVE GRADUATION IN A NORMATIVE TWO-YEAR WINDOW FOLLOWING MATRICULATION AT UCR AND TO ADDRESS THE CAUSES OF URIMS ATTRITION IN STEM PROGRAMS. SPECIFIC PROGRAM COMPONENTS INCLUDE: COMPENSATED RESEARCH EXPERIENCES TO STIMULATE GREATER AWARENESS OF CAREER OPTIONS IN THE BIOMEDICAL AND BEHAVIORAL SCIENCES AND TO REDUCE THE NECESSITY OF WORKING IN NON-ACADEMIC JOBS; PEER AND FACULTY MENTORING THAT BEGINS BEFORE RCC/B2B SCHOLARS TRANSFER TO UCR; AND A SUMMER BOOT CAMP TO FAMILIARIZE INCOMING STUDENTS WITH UCR’S COURSE STRUCTURE AND STUDENT SUPPORT SERVICES. BY CREATING A PROGRAM THAT BRIDGES THE COMMUNITY COLLEGE AND UNIVERSITY EDUCATION AND PROVIDES ENHANCED PREPARATION BEFORE AND MENTORING AFTER TRANSFER, WE BELIEVE WE CAN OVERCOME THESE DISADVANTAGES AND IMPROVE THE SUCCESS AND PERSISTENCE OF URIMS TRANSFER STUDENTS IN BIOMEDICAL AND BEHAVIORAL SCIENCES.",
+    "total_obligation": 1165021,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-08-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 315314.58,
+    "total_account_obligation": 1165021,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 315314.58
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1165021
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 315314.58
+  }
+}

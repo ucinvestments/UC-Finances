@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91121469,
+    "Award ID": "R01AG052132",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 18022067,
+    "Total Outlays": 13127764.55,
+    "Description": "LIFECOURSE HEALTH, CEREBRAL PATHOLOGY AND ETHNIC DISPARITIES IN DEMENTIA (KHANDLE STUDY) - THE KHANDLE (KAISER HEALTHY AGING AND DIVERSE LIFE EXPERIENCES [2R01AG052132-06] STUDY INITIATED IN 2017 IS A LIFECOURSE COHORT STUDY OF DISPARITIES IN COGNITIVE AGEING AND ALZHEIMER'S DISEASE AND RELATED DEMENTIAS (ADRD) IN DIVERSE ELDERLY INDIVIDUALS. KHANDLE IS ONE OF THE LARGEST LIFECOURSE COHORTS WITH DIVERSE RACIAL/ETHNIC COMPOSITION AND PROSPECTIVE CLINICAL, LIFESTYLE, AND BEHAVIORAL DATA FROM 1964 -PRESENT. IN CYCLE 1, WE ENROLLED 1712 INDIVIDUALS AGED 65+ (MEAN AGE 76, RANGE 65-103; 60% FEMALE) WITH REPRESENTATION OF BLACKS, ASIANS, LATINOS, AND WHITES AND 3 ASSESSMENT WAVES. WE HAVE COMPLETED 2 ASSESSMENT WAVES, AND WAVE 3 WILL FINISH MAY 2021. ALL WAVES INCLUDE COMPREHENSIVE, PSYCHOMETRICALLY SOPHISTICATED COGNITIVE OUTCOMES, PSYCHOSOCIAL MEASURES SUCH AS DISCRIMINATION, STRESS, RESIDENTIAL HISTORY, A ROBUST CLINICAL PROTOCOL TO ASSESS PREVALENT AND INCIDENT MILD COGNITIVE IMPAIRMENT (MCI) AND ADRD AND A 25% SUBSAMPLE WITH AMYLOID PET AND MRI IMAGING. KHANDLE PARTICIPANTS ENCOMPASSES AN ARRAY OF LIFE EXPERIENCES; 25% BORN OUTSIDE THE US, 63% WITH MOTHERS = HIGH SCHOOL EDUCATION, 28% REPORTING FINANCIAL PROBLEMS IN CHILDHOOD, 17% BORN IN SOUTHERN STATES, AND 24.8% COGNITIVE IMPAIRMENT AT BASELINE. IN THIS COMPETITIVE RENEWAL WE EXTEND OUR STUDIES TO INVESTIGATE LIFECOURSE FACTORS RELATED TO COGNITIVE TRAJECTORIES, BRAIN IMAGING CHANGES, AND BRAIN DONATION BASED NEUROPATHOLOGY WITH A NEW FOCUS ON SEX DIFFERENCES. WE WILL CONTINUE INVESTIGATIONS OF INCIDENT ADRD, MCI, VASCULAR BRAIN INJURY CHANGES AND AMYLOID PET TAKING ADVANTAGE OF IMAGING IN CYCLE 1 AND REPEATING IN CYCLE 2. WE WILL ENHANCE KHANDLE WITH RECRUITMENT OF 500 NEW INDIVIDUALS FROM DIVERSE BACKGROUNDS AND WILL INVESTIGATE SEX DIFFERENCES LEVERAGING RETROSPECTIVE DATA TO ACCOUNT FOR SELECTIVE SURVIVAL. KHANDLE IS UNIQUELY POSITIONED TO ADDRESS TIMING OF LIFECOURSE EXPOSURES AND THE SPECTRUM OF COGNITIVE AND CEREBROPATHOLOGICAL AGING IN A DIVERSE COHORT WITH INCREASED ADRD INCIDENCE AND COGNITIVE CHANGES IN THE NEXT 5 YEARS (MEAN AGE 81 AT START OF CYCLE 2). OUR AIMS ARE: AIM 1: EVALUATE HOW LIFE EXPERIENCES, EARLY- MIDLIFE HEALTH AND DEVELOPMENT OF COMORBIDITIES INFLUENCE ADRD INCIDENCE AND COGNITIVE TRAJECTORIES OVER 9 YEARS. WE WILL USE A DIVERSE COHORT TO EVALUATE TIMING OF CUMULATIVE EXPOSURES AND WILL ADDRESS RACIAL/ETHNIC GROUP DIFFERENCES. AIM 2: EXAMINE HOW LIFECOURSE HEALTH IMPACTS AMYLOID PET AND STRUCTURAL MRI CHANGES AND HOW NEUROIMAGING BIOMARKERS PREDICT COGNITIVE DECLINE IN DIVERSE ELDERLY. AIM 3: INVESTIGATE SEX DIFFERENCES IN ADRD INCIDENCE AND COGNITIVE DECLINE IN A DIVERSE COHORT WHILE INVESTIGATING THE ROLE OF SELECTIVE SURVIVAL AND COMPETING RISK OF VASCULAR MORTALITY. AIM 4: INITIATE A BRAIN DONATION PROGRAM FOR KHANDLE, CHARACTERIZE THE SPECTRUM OF NEUROPATHOLOGY IN A DIVERSE COHORT AND EVALUATE PREDICTORS OF INTEREST, CONSENT, AND PARTICIPATION. FINDINGS FROM KHANDLE CYCLE 2 WILL UNCOVER MECHANISMS FOR REDUCING DISPARITIES IN ADRD AND COGNITIVE AGING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2016-06-01",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG052132_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91121469,
+    "generated_unique_award_id": "ASST_NON_R01AG052132_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "LIFECOURSE HEALTH, CEREBRAL PATHOLOGY AND ETHNIC DISPARITIES IN DEMENTIA (KHANDLE STUDY) - THE KHANDLE (KAISER HEALTHY AGING AND DIVERSE LIFE EXPERIENCES [2R01AG052132-06] STUDY INITIATED IN 2017 IS A LIFECOURSE COHORT STUDY OF DISPARITIES IN COGNITIVE AGEING AND ALZHEIMER'S DISEASE AND RELATED DEMENTIAS (ADRD) IN DIVERSE ELDERLY INDIVIDUALS. KHANDLE IS ONE OF THE LARGEST LIFECOURSE COHORTS WITH DIVERSE RACIAL/ETHNIC COMPOSITION AND PROSPECTIVE CLINICAL, LIFESTYLE, AND BEHAVIORAL DATA FROM 1964 -PRESENT. IN CYCLE 1, WE ENROLLED 1712 INDIVIDUALS AGED 65+ (MEAN AGE 76, RANGE 65-103; 60% FEMALE) WITH REPRESENTATION OF BLACKS, ASIANS, LATINOS, AND WHITES AND 3 ASSESSMENT WAVES. WE HAVE COMPLETED 2 ASSESSMENT WAVES, AND WAVE 3 WILL FINISH MAY 2021. ALL WAVES INCLUDE COMPREHENSIVE, PSYCHOMETRICALLY SOPHISTICATED COGNITIVE OUTCOMES, PSYCHOSOCIAL MEASURES SUCH AS DISCRIMINATION, STRESS, RESIDENTIAL HISTORY, A ROBUST CLINICAL PROTOCOL TO ASSESS PREVALENT AND INCIDENT MILD COGNITIVE IMPAIRMENT (MCI) AND ADRD AND A 25% SUBSAMPLE WITH AMYLOID PET AND MRI IMAGING. KHANDLE PARTICIPANTS ENCOMPASSES AN ARRAY OF LIFE EXPERIENCES; 25% BORN OUTSIDE THE US, 63% WITH MOTHERS = HIGH SCHOOL EDUCATION, 28% REPORTING FINANCIAL PROBLEMS IN CHILDHOOD, 17% BORN IN SOUTHERN STATES, AND 24.8% COGNITIVE IMPAIRMENT AT BASELINE. IN THIS COMPETITIVE RENEWAL WE EXTEND OUR STUDIES TO INVESTIGATE LIFECOURSE FACTORS RELATED TO COGNITIVE TRAJECTORIES, BRAIN IMAGING CHANGES, AND BRAIN DONATION BASED NEUROPATHOLOGY WITH A NEW FOCUS ON SEX DIFFERENCES. WE WILL CONTINUE INVESTIGATIONS OF INCIDENT ADRD, MCI, VASCULAR BRAIN INJURY CHANGES AND AMYLOID PET TAKING ADVANTAGE OF IMAGING IN CYCLE 1 AND REPEATING IN CYCLE 2. WE WILL ENHANCE KHANDLE WITH RECRUITMENT OF 500 NEW INDIVIDUALS FROM DIVERSE BACKGROUNDS AND WILL INVESTIGATE SEX DIFFERENCES LEVERAGING RETROSPECTIVE DATA TO ACCOUNT FOR SELECTIVE SURVIVAL. KHANDLE IS UNIQUELY POSITIONED TO ADDRESS TIMING OF LIFECOURSE EXPOSURES AND THE SPECTRUM OF COGNITIVE AND CEREBROPATHOLOGICAL AGING IN A DIVERSE COHORT WITH INCREASED ADRD INCIDENCE AND COGNITIVE CHANGES IN THE NEXT 5 YEARS (MEAN AGE 81 AT START OF CYCLE 2). OUR AIMS ARE: AIM 1: EVALUATE HOW LIFE EXPERIENCES, EARLY- MIDLIFE HEALTH AND DEVELOPMENT OF COMORBIDITIES INFLUENCE ADRD INCIDENCE AND COGNITIVE TRAJECTORIES OVER 9 YEARS. WE WILL USE A DIVERSE COHORT TO EVALUATE TIMING OF CUMULATIVE EXPOSURES AND WILL ADDRESS RACIAL/ETHNIC GROUP DIFFERENCES. AIM 2: EXAMINE HOW LIFECOURSE HEALTH IMPACTS AMYLOID PET AND STRUCTURAL MRI CHANGES AND HOW NEUROIMAGING BIOMARKERS PREDICT COGNITIVE DECLINE IN DIVERSE ELDERLY. AIM 3: INVESTIGATE SEX DIFFERENCES IN ADRD INCIDENCE AND COGNITIVE DECLINE IN A DIVERSE COHORT WHILE INVESTIGATING THE ROLE OF SELECTIVE SURVIVAL AND COMPETING RISK OF VASCULAR MORTALITY. AIM 4: INITIATE A BRAIN DONATION PROGRAM FOR KHANDLE, CHARACTERIZE THE SPECTRUM OF NEUROPATHOLOGY IN A DIVERSE COHORT AND EVALUATE PREDICTORS OF INTEREST, CONSENT, AND PARTICIPATION. FINDINGS FROM KHANDLE CYCLE 2 WILL UNCOVER MECHANISMS FOR REDUCING DISPARITIES IN ADRD AND COGNITIVE AGING.",
+    "total_obligation": 18022067,
+    "subaward_count": 8,
+    "total_subaward_amount": 4606159,
+    "date_signed": "2021-08-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 13127764.55,
+    "total_account_obligation": 18022067,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 13127764.55
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 18022067
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2016-06-01",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 13127764.55
+  }
+}

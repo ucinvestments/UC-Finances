@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 80569924,
+    "Award ID": "AP23PPQFO000C001",
+    "Recipient Name": "FOOD \u0026 AGRICULTURE, CALIFORNIA DEPARTMENT OF",
+    "Award Amount": 15574754,
+    "Total Outlays": 15574754,
+    "Description": "1.AWARD PURPOSE: APHIS IN PARTNERSHIP WITH THE CALIFORNIA DEPARTMENT OF FOOD AND AGRICULTURE (CDFA) AND COUNTY AGRICULTURE COMMISSIONERS (CAC) WORK TO MINIMIZE THE STATEWIDE IMPACT OF THE GLASSY-WINGED SHARPSHOOTER (GWSS) AND PIERCE’S DISEASE (PD). WITH GWSS ESTABLISHED IN SOME PARTS OF CALIFORNIA, THE CONTAINMENT, DETECTION, REGULATORY AND AREA-WIDE SUPPRESSION ACTIVITIES ARE FUNDED BY THIS AGREEMENT AND HELP DETECT NEW INFESTATIONS EARLY SO THEY CAN BE CONTROLLED THROUGH THE RAPID RESPONSE COMPONENT OF THE PROGRAM. 2.ACTIVITIES TO BE PERFORMED: A) CDFA STAFF WILL WORK WITH EACH CAC TO IMPLEMENT A UNIFORM AGREEMENT. THE WORK CONDUCTED UNDER THESE CAC AGREEMENTS WILL BE PERFORMED BY EXISTING PERMANENT OR SEASONAL EMPLOYEES. IN COUNTIES THAT DO NOT CONDUCT ANY STATEWIDE DETECTION PROGRAMS, CDFA STAFF WILL PERFORM THESE DUTIES ON BEHALF OF THE CAC AND PIERCE’S DISEASE CONTROL PROGRAM (PDCP). IN EITHER SCENARIO PERSONNEL WILL BE TRAINED ON PDCP PROTOCOLS AND AGREEMENTS. B) WITH AGREEMENTS IN EFFECT, EACH CAC, AS APPROPRIATE, WILL IMPLEMENT NURSERY AND BULK CITRUS COMPLIANCE AGREEMENTS AND PROTOCOLS. IN ADDITION, THEY WILL ALSO IMPLEMENT STATEWIDE DETECTION AND DELIMITATION PROTOCOLS. LASTLY, THEY WILL CONDUCT LOCAL OUTREACH TO REGULATED ENTITIES, STAKEHOLDERS, AND OTHER INTERESTED PARTIES. C) CDFA OR CAC WILL CONDUCT TRAPPING IN GWSS INFESTED AND ADJACENT AGRICULTURAL AREAS. IN ADDITION, CDFA WILL PROVIDE SUPPLIES, ASSIST THE CAC WHEN NEEDED, HELP TROUBLESHOOT CAC ISSUES, AND PREPARE REPORTS. D) BASED ON AGRICULTURAL AREA TRAPPING, CDFA WORKS WITH APHIS, TREATMENT COORDINATORS, AND CAC TO HELP IMPLEMENT AREA-WIDE TREATMENTS AND REIMBURSEMENTS IN AREAS WHERE GWSS HAS BEEN FOUND AND AT RISK OF PIERCE’S DISEASE. 3. DELIVERABLES AND EXPECTED OUTCOMES: CDFA WILL TRAIN CAC PERSONNEL. QUALITY CONTROL ASSESSMENTS OF THE CAC SURVEY PROGRAMS, AND OVERSIGHT OF THE ORIGIN CERTIFICATION PROGRAMS FOR NURSERY STOCK AND BULK CITRUS WILL TAKE PLACE. CAC LED DETECTION TRAPPING OF URBAN AND RESIDENTIAL AREAS, AS WELL AS HIGH RISK NURSERIES, WILL OCCUR. CAC WILL IMPLEMENT ORIGIN CERTIFICATION INSPECTIONS OR PERIODIC DESTINATION INSPECTIONS ON NURSERY STOCK AND BULK CITRUS SHIPMENTS. TRAPPING RECORDS, INSPECTIONS CONDUCTED, AND NURSERY/BULK CITRUS SHIPMENT CERTIFICATES ISSUED WILL BE REPORTED. DELIMITATION SURVEYS IN RESPONSE TO GWSS FINDS IN NEW COUNTIES WILL BE COMPLETED TO ENSURE GWSS DOESN’T BECOME ESTABLISHED IN NEW COUNTIES. 4. INTENDED BENEFICIARY(IES): GLASSY-WINGED SHARPSHOOTER, NOT NATIVE TO CALIFORNIA, THREATENS TO SPREAD THE DESTRUCTIVE PIERCE’S DISEASE BACTERIUM TO GRAPES AND OTHER IMPORTANT CROPS THROUGHOUT THE STATE. THE ESTABLISHMENT OF GWSS IN CALIFORNIA PUT ALL GRAPES AND OTHER SUSCEPTIBLE CROPS THROUGHOUT THE STATE AT RISK OF SUCCUMBING TO PIERCE’S DISEASE AND RELATED PLANT DISEASES. CALIFORNIA’S MORE THAN $4.9 BILLION A YEAR GRAPE INDUSTRY WOULD BENEFIT FROM THESE ACTIVITIES. 5. SUBRECIPIENT ACTIVITIES, IF KNOWN OR SPECIFIED AT THE TIME OF AWARD: 49 CAC AGREEMENTS, AREAWIDE PROGRAMS IN FRESNO, KERN, MADERA AND TULARE COUNTIES, TREATMENT COORDINATORS IN TULARE, KERN, AND FRESNO AND MADERA COUNTIES, AND UNIVERSITY OF CALIFORNIA AT RIVERSIDE ALL PARTICIPATE IN CARRYING OUT ACTIVITIES LISTED IN THE AGREEMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "H8ANDD5WXME7",
+    "Recipient Location": {
+      "address_line1": "1220 N ST STE 400",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5603",
+      "zip5": "95814"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Animal and Plant Health Inspection Service",
+    "Start Date": "2022-10-01",
+    "End Date": "2023-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2673dc0c-eb29-402e-2f47-3115c28630f0-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_AP23PPQFO000C001_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 80569924,
+    "generated_unique_award_id": "ASST_NON_AP23PPQFO000C001_012",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "1.AWARD PURPOSE: APHIS IN PARTNERSHIP WITH THE CALIFORNIA DEPARTMENT OF FOOD AND AGRICULTURE (CDFA) AND COUNTY AGRICULTURE COMMISSIONERS (CAC) WORK TO MINIMIZE THE STATEWIDE IMPACT OF THE GLASSY-WINGED SHARPSHOOTER (GWSS) AND PIERCE’S DISEASE (PD). WITH GWSS ESTABLISHED IN SOME PARTS OF CALIFORNIA, THE CONTAINMENT, DETECTION, REGULATORY AND AREA-WIDE SUPPRESSION ACTIVITIES ARE FUNDED BY THIS AGREEMENT AND HELP DETECT NEW INFESTATIONS EARLY SO THEY CAN BE CONTROLLED THROUGH THE RAPID RESPONSE COMPONENT OF THE PROGRAM. 2.ACTIVITIES TO BE PERFORMED: A) CDFA STAFF WILL WORK WITH EACH CAC TO IMPLEMENT A UNIFORM AGREEMENT. THE WORK CONDUCTED UNDER THESE CAC AGREEMENTS WILL BE PERFORMED BY EXISTING PERMANENT OR SEASONAL EMPLOYEES. IN COUNTIES THAT DO NOT CONDUCT ANY STATEWIDE DETECTION PROGRAMS, CDFA STAFF WILL PERFORM THESE DUTIES ON BEHALF OF THE CAC AND PIERCE’S DISEASE CONTROL PROGRAM (PDCP). IN EITHER SCENARIO PERSONNEL WILL BE TRAINED ON PDCP PROTOCOLS AND AGREEMENTS. B) WITH AGREEMENTS IN EFFECT, EACH CAC, AS APPROPRIATE, WILL IMPLEMENT NURSERY AND BULK CITRUS COMPLIANCE AGREEMENTS AND PROTOCOLS. IN ADDITION, THEY WILL ALSO IMPLEMENT STATEWIDE DETECTION AND DELIMITATION PROTOCOLS. LASTLY, THEY WILL CONDUCT LOCAL OUTREACH TO REGULATED ENTITIES, STAKEHOLDERS, AND OTHER INTERESTED PARTIES. C) CDFA OR CAC WILL CONDUCT TRAPPING IN GWSS INFESTED AND ADJACENT AGRICULTURAL AREAS. IN ADDITION, CDFA WILL PROVIDE SUPPLIES, ASSIST THE CAC WHEN NEEDED, HELP TROUBLESHOOT CAC ISSUES, AND PREPARE REPORTS. D) BASED ON AGRICULTURAL AREA TRAPPING, CDFA WORKS WITH APHIS, TREATMENT COORDINATORS, AND CAC TO HELP IMPLEMENT AREA-WIDE TREATMENTS AND REIMBURSEMENTS IN AREAS WHERE GWSS HAS BEEN FOUND AND AT RISK OF PIERCE’S DISEASE. 3. DELIVERABLES AND EXPECTED OUTCOMES: CDFA WILL TRAIN CAC PERSONNEL. QUALITY CONTROL ASSESSMENTS OF THE CAC SURVEY PROGRAMS, AND OVERSIGHT OF THE ORIGIN CERTIFICATION PROGRAMS FOR NURSERY STOCK AND BULK CITRUS WILL TAKE PLACE. CAC LED DETECTION TRAPPING OF URBAN AND RESIDENTIAL AREAS, AS WELL AS HIGH RISK NURSERIES, WILL OCCUR. CAC WILL IMPLEMENT ORIGIN CERTIFICATION INSPECTIONS OR PERIODIC DESTINATION INSPECTIONS ON NURSERY STOCK AND BULK CITRUS SHIPMENTS. TRAPPING RECORDS, INSPECTIONS CONDUCTED, AND NURSERY/BULK CITRUS SHIPMENT CERTIFICATES ISSUED WILL BE REPORTED. DELIMITATION SURVEYS IN RESPONSE TO GWSS FINDS IN NEW COUNTIES WILL BE COMPLETED TO ENSURE GWSS DOESN’T BECOME ESTABLISHED IN NEW COUNTIES. 4. INTENDED BENEFICIARY(IES): GLASSY-WINGED SHARPSHOOTER, NOT NATIVE TO CALIFORNIA, THREATENS TO SPREAD THE DESTRUCTIVE PIERCE’S DISEASE BACTERIUM TO GRAPES AND OTHER IMPORTANT CROPS THROUGHOUT THE STATE. THE ESTABLISHMENT OF GWSS IN CALIFORNIA PUT ALL GRAPES AND OTHER SUSCEPTIBLE CROPS THROUGHOUT THE STATE AT RISK OF SUCCUMBING TO PIERCE’S DISEASE AND RELATED PLANT DISEASES. CALIFORNIA’S MORE THAN $4.9 BILLION A YEAR GRAPE INDUSTRY WOULD BENEFIT FROM THESE ACTIVITIES. 5. SUBRECIPIENT ACTIVITIES, IF KNOWN OR SPECIFIED AT THE TIME OF AWARD: 49 CAC AGREEMENTS, AREAWIDE PROGRAMS IN FRESNO, KERN, MADERA AND TULARE COUNTIES, TREATMENT COORDINATORS IN TULARE, KERN, AND FRESNO AND MADERA COUNTIES, AND UNIVERSITY OF CALIFORNIA AT RIVERSIDE ALL PARTICIPATE IN CARRYING OUT ACTIVITIES LISTED IN THE AGREEMENT.",
+    "total_obligation": 15574754,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-12-06",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 15574754,
+    "total_account_obligation": 15574754,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 15574754
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 15574754
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 176,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Animal and Plant Health Inspection Service",
+        "code": "12K3",
+        "abbreviation": "APHIS"
+      },
+      "office_agency_name": "PPQ-FO FT COLLINS CO"
+    },
+    "awarding_agency": {
+      "id": 176,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Animal and Plant Health Inspection Service",
+        "code": "12K3",
+        "abbreviation": "APHIS"
+      },
+      "office_agency_name": "PPQ-FO FT COLLINS CO"
+    },
+    "period_of_performance": {
+      "start_date": "2022-10-01",
+      "end_date": "2023-09-30",
+      "last_modified_date": "2024-11-19",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2673dc0c-eb29-402e-2f47-3115c28630f0-C",
+      "recipient_name": "FOOD \u0026 AGRICULTURE, CALIFORNIA DEPARTMENT OF",
+      "recipient_uei": "H8ANDD5WXME7",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "767ea773-fe28-1a94-a12e-aec774194af4-P",
+      "parent_recipient_name": "FOOD \u0026 AGRICULTURE  CALIFORNIA DEPARTMENT OF",
+      "parent_recipient_uei": "LNRMZMQC5DK3",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SACRAMENTO",
+        "county_code": "067",
+        "county_name": "SACRAMENTO",
+        "address_line1": "1220 N ST STE 400",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "07",
+        "zip4": "5603",
+        "zip5": "95814",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 15574754
+  }
+}

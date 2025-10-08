@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56337935,
+    "Award ID": "20236701739832",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 594000,
+    "Total Outlays": 102417.64,
+    "Description": "PLANT-BASED PROTEINS HAVE EMERGED AS A PROMISING AND SUSTAINABLE ALTERNATIVE SOURCE OF DIETARY PROTEIN FOR DIVERSE AND NOVEL FOOD PRODUCTS, AND ARE VIEWED FAVORABLY BY MANY CONSUMERS. HOWEVER, DESPITE SIGNIFICANT PROGRESS IN DEVELOPING LIQUID AND SEMI-SOLID FOODS WITH PLANT-PROTEINS (E.G. NUT MILK OR YOGURT ALTERNATIVE PRODUCTS), THESE FOODS SUFFER FROM LIMITED DISPERSIBILITY OF PROTEINS AFTER PASTEURIZATION, RESULTING IN SEDIMENTATION AND AN UNPLEASANT MOUTHFEEL WHEN CONSUMED (SUCH AS A GRITTY OR CHALKY TEXTURE). IN ADDITION, ALTHOUGH MANY CONSUMERS VIEW THESE PLANT-BASED MILK AND YOGURT ALTERNATIVES AS HEALTHIER, IT IS LIKELY THAT THEIR PROTEIN DIGESTIBILITY IS REDUCED, WHICH COULD INSTEAD NEGATIVELY IMPACT CONSUMER HEALTH. AS A RESULT OF THESE SERIOUS LIMITATIONS IN DEVELOPMENT OF DAIRY ALTERNATIVES WITH PLANT PROTEINS, THIS PROJECT AIMS TO CHARACTERIZE THE FUNCTIONALITY OF PLANT PROTEINS, AND TO DEVELOP NOVEL PROTEIN MICROSTRUCTURES THAT MAY HELP TO ULTIMATELY INCREASE PROTEIN FUNCTIONALITY. PROTEIN FUNCTIONALITY WILL BE ASSESSED IN MODEL LIQUID (A MILK ALTERNATIVE OR PROTEIN SHAKE) AND MODEL SEMI-SOLID (A YOGURT ALTERNATIVE OR DIP) FOODS. FUNCTIONALITY WILL BE CONSIDERED AS A COMBINATION OF STABILITY (HOW WELL THE PROTEINS REMAIN DISPERSED IN THE PRODUCT AFTER HEATING), TEXTURE (THE FLOW PROPERTIES AND MOUTHFEEL OF THE PRODUCT), AND DIGESTIBILITY (HOW MUCH OF THE PROTEIN MAY ULTIMATELY BE ABSORBED BY THE CONSUMER TO BENEFIT HEALTH). TO ALLOW FOR TRANSLATION OF THE DATA COLLECTED IN THIS PROJECT TO THE US FOOD MANUFACTURING INDUSTRY, A MACHINE LEARNING MODEL WILL BE DEVELOPED THAT WILL ALLOW FOR FOOD PRODUCERS TO INPUT THE PROTEIN CONCENTRATION AND PROPERTIES INTO THE MODEL AND IT WILL PREDICT THE LEVEL OF STABILITY, TEXTURE, OR DIGESTIBILITY FOR A GIVEN PROTEIN AND FOOD SYSTEM. THIS TOOL WILL STREAMLINE PRODUCT DEVELOPMENT OF NEW FOODS WITH PLANT PROTEINS AND ALLOW THE FOOD MANUFACTURING INDUSTRY TO DELIVER HIGHER-QUALITY PRODUCTS TO CONSUMERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2023-06-01",
+    "End Date": "2027-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20236701739832_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56337935,
+    "generated_unique_award_id": "ASST_NON_20236701739832_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PLANT-BASED PROTEINS HAVE EMERGED AS A PROMISING AND SUSTAINABLE ALTERNATIVE SOURCE OF DIETARY PROTEIN FOR DIVERSE AND NOVEL FOOD PRODUCTS, AND ARE VIEWED FAVORABLY BY MANY CONSUMERS. HOWEVER, DESPITE SIGNIFICANT PROGRESS IN DEVELOPING LIQUID AND SEMI-SOLID FOODS WITH PLANT-PROTEINS (E.G. NUT MILK OR YOGURT ALTERNATIVE PRODUCTS), THESE FOODS SUFFER FROM LIMITED DISPERSIBILITY OF PROTEINS AFTER PASTEURIZATION, RESULTING IN SEDIMENTATION AND AN UNPLEASANT MOUTHFEEL WHEN CONSUMED (SUCH AS A GRITTY OR CHALKY TEXTURE). IN ADDITION, ALTHOUGH MANY CONSUMERS VIEW THESE PLANT-BASED MILK AND YOGURT ALTERNATIVES AS HEALTHIER, IT IS LIKELY THAT THEIR PROTEIN DIGESTIBILITY IS REDUCED, WHICH COULD INSTEAD NEGATIVELY IMPACT CONSUMER HEALTH. AS A RESULT OF THESE SERIOUS LIMITATIONS IN DEVELOPMENT OF DAIRY ALTERNATIVES WITH PLANT PROTEINS, THIS PROJECT AIMS TO CHARACTERIZE THE FUNCTIONALITY OF PLANT PROTEINS, AND TO DEVELOP NOVEL PROTEIN MICROSTRUCTURES THAT MAY HELP TO ULTIMATELY INCREASE PROTEIN FUNCTIONALITY. PROTEIN FUNCTIONALITY WILL BE ASSESSED IN MODEL LIQUID (A MILK ALTERNATIVE OR PROTEIN SHAKE) AND MODEL SEMI-SOLID (A YOGURT ALTERNATIVE OR DIP) FOODS. FUNCTIONALITY WILL BE CONSIDERED AS A COMBINATION OF STABILITY (HOW WELL THE PROTEINS REMAIN DISPERSED IN THE PRODUCT AFTER HEATING), TEXTURE (THE FLOW PROPERTIES AND MOUTHFEEL OF THE PRODUCT), AND DIGESTIBILITY (HOW MUCH OF THE PROTEIN MAY ULTIMATELY BE ABSORBED BY THE CONSUMER TO BENEFIT HEALTH). TO ALLOW FOR TRANSLATION OF THE DATA COLLECTED IN THIS PROJECT TO THE US FOOD MANUFACTURING INDUSTRY, A MACHINE LEARNING MODEL WILL BE DEVELOPED THAT WILL ALLOW FOR FOOD PRODUCERS TO INPUT THE PROTEIN CONCENTRATION AND PROPERTIES INTO THE MODEL AND IT WILL PREDICT THE LEVEL OF STABILITY, TEXTURE, OR DIGESTIBILITY FOR A GIVEN PROTEIN AND FOOD SYSTEM. THIS TOOL WILL STREAMLINE PRODUCT DEVELOPMENT OF NEW FOODS WITH PLANT PROTEINS AND ALLOW THE FOOD MANUFACTURING INDUSTRY TO DELIVER HIGHER-QUALITY PRODUCTS TO CONSUMERS.",
+    "total_obligation": 594000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-04-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 109335.81,
+    "total_account_obligation": 594000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 109335.81
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 594000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2023-06-01",
+      "end_date": "2027-05-31",
+      "last_modified_date": "2023-04-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 109335.81
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 90941683,
+    "Award ID": "P30AG072972",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 15912823,
+    "Total Outlays": 12121837.67,
+    "Description": "UC DAVIS ALZHEIMER'S DISEASE RESEARCH CENTER - PROJECT SUMMARY/ABSTRACT - OVERALL THE MISSION OF THE UC DAVIS ALZHEIMER’S DISEASE RESEARCH CENTER (UCD ADRC) IS TO PROMOTE A HIGHLY INNOVATIVE AND ENRICHED RESEARCH ENVIRONMENT FOCUSED ON UNDERSTANDING THE HETEROGENEITY OF BRAIN AGING AMONG DIVERSE POPULATIONS THAT WILL ULTIMATELY LEAD TO EFFECTIVE THERAPIES TO PREVENT OR MITIGATE DEMENTIA. THIS APPROACH STEMS FROM THE PREMISE THAT EMPHASIZING DIVERSITY ENHANCES DISCOVERY AND CONTRIBUTES TO TRANSLATIONAL SCIENCE AS WELL AS REDUCING DISPARITIES IN BRAIN HEALTH AND CARE. TO ACCOMPLISH THIS MISSION, THE UCD ADRC HAS DEVELOPED INNOVATIVE METHODS AND A UNIQUE STUDY DESIGN TO RECRUIT AND RETAIN A HIGHLY DEMOGRAPHICALLY DIVERSE CLINICAL AND AUTOPSY COHORT. ALL UCD ADRC PARTICIPANTS ARE LONGITUDINALLY FOLLOWED AND DEEPLY PHENOTYPED WITH EXTENSIVE CLINICAL, BLOOD AND IMAGING BIOMARKER MEASURES AS WELL AS DEVELOPING STATE-OF-THE-ART QUANTITATIVE NEUROPATHOLOGY. THE UCD ADRC SUCCEEDS AT THESE EFFORTS THROUGH A ROBUST RESEARCH INFRASTRUCTURE, STATE-OF-THE-ART DATABASE MANAGEMENT AND A HIGHLY COLLABORATIVE ENVIRONMENT CONSISTING OF SEVEN WELL INTEGRATED RESOURCE CORES AND ONE RESEARCH EDUCATION COMPONENT (REC) DESIGNED TO FACILITATE NEW RESEARCH EFFORTS AND INTERVENTIONS, DISSEMINATION OF RESEARCH FINDINGS, EDUCATION AND TRAINING AS WELL AS ENCOURAGING RESEARCHER DEVELOPMENT. OUR APPROACH ADDRESSES SEVERAL MILESTONES SET BY THE NATIONAL ALZHEIMER’S PROJECT ACT TO EFFECTIVELY TREAT ALZHEIMER’S DISEASE AND ASSOCIATED DISORDERS (ADRD) BY 2025. THESE INCLUDE, BUT ARE NOT LIMITED TO: 1) M1.L., EVALUATING DISPARITIES AMONG ETHNIC AND RACIAL MINORITY POPULATIONS THAT ARE AT HIGHER RISK FOR AD TO MITIGATE RISK AND IMPROVE COGNITIVE OUTCOMES, 2) M2.H., FULLY CHARACTERIZING MIXED PATHOLOGIES AND IDENTIFYING UNIQUE RISK FACTORS,3) M5-7., ACCELERATING THE DEVELOPMENT OF TREATMENTS THAT WOULD PREVENT, HALT, OR REVERSE THE COURSE OF ALZHEIMER’S DISEASE (AD), 4) M9., IMPROVING EARLY DIAGNOSIS THROUGH DISCOVERY OF NOVEL IMAGING AND BLOOD BIOMARKERS, 5) M8., DEVELOPING NOVEL DEMENTIA PREVENTION STRATEGIES, AND 6) M13.E.,SUPPORTING CAREGIVING THROUGH FUNDED CAREGIVER RESEARCH. THE UCD ADRC ALSO DIRECTLY SUPPORTS MULTIPLE EPIDEMIOLOGICAL STUDIES OF DIVERSE COMMUNITIES THROUGH USE OF RESEARCH METHODS AND PERSONNEL TO GAIN FURTHER INSIGHTS INTO DEMENTIA RISK REDUCTION, EARLY DIAGNOSIS, AND THE IMPACT OF VARIOUS NEUROPATHOLOGIES ON AGING AND DEMENTIA. OUR EFFORTS REFLECT THE EVOLVING NEEDS OF AN INCREASINGLY OLDER AND MORE DIVERSE US POPULATION, WHICH IS EXPECTED TO RISE TO NEARLY 14 MILLION BY MIDCENTURY. MOREOVER, WHILE AD CONTINUES TO BE THE MAJOR PATHOLOGICAL CAUSE OF DEMENTIA, MORE RECENT STUDIES—INCLUDING ONE FROM THE UCD ADRC—FIND THAT DEMENTIA PATHOLOGY IS MULTIFACTORIAL AND HIGHLY HETEROGENEOUS, DUE IN PART TO THE CO-OCCURRENCE OF AD AND VASCULAR DISEASE, WHICH VARIES BY ETHNORACIAL CHARACTERISTICS, IS EMPHASIZED AS PART OF DEMENTIA PREDICTION AND WHICH CAN BE MODIFIED BY TREATMENT EVEN IN LATER LIFE. THE UCD ADRC IS UNIQUELY QUALIFIED TO SUPPORT THIS RESEARCH FOCUS WITH A CONSIDERABLE IMPACT ON FUTURE ADRD DIAGNOSIS AND TREATMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958167007",
+      "zip5": "95816"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-08-15",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_P30AG072972_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 90941683,
+    "generated_unique_award_id": "ASST_NON_P30AG072972_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "UC DAVIS ALZHEIMER'S DISEASE RESEARCH CENTER - PROJECT SUMMARY/ABSTRACT - OVERALL THE MISSION OF THE UC DAVIS ALZHEIMER’S DISEASE RESEARCH CENTER (UCD ADRC) IS TO PROMOTE A HIGHLY INNOVATIVE AND ENRICHED RESEARCH ENVIRONMENT FOCUSED ON UNDERSTANDING THE HETEROGENEITY OF BRAIN AGING AMONG DIVERSE POPULATIONS THAT WILL ULTIMATELY LEAD TO EFFECTIVE THERAPIES TO PREVENT OR MITIGATE DEMENTIA. THIS APPROACH STEMS FROM THE PREMISE THAT EMPHASIZING DIVERSITY ENHANCES DISCOVERY AND CONTRIBUTES TO TRANSLATIONAL SCIENCE AS WELL AS REDUCING DISPARITIES IN BRAIN HEALTH AND CARE. TO ACCOMPLISH THIS MISSION, THE UCD ADRC HAS DEVELOPED INNOVATIVE METHODS AND A UNIQUE STUDY DESIGN TO RECRUIT AND RETAIN A HIGHLY DEMOGRAPHICALLY DIVERSE CLINICAL AND AUTOPSY COHORT. ALL UCD ADRC PARTICIPANTS ARE LONGITUDINALLY FOLLOWED AND DEEPLY PHENOTYPED WITH EXTENSIVE CLINICAL, BLOOD AND IMAGING BIOMARKER MEASURES AS WELL AS DEVELOPING STATE-OF-THE-ART QUANTITATIVE NEUROPATHOLOGY. THE UCD ADRC SUCCEEDS AT THESE EFFORTS THROUGH A ROBUST RESEARCH INFRASTRUCTURE, STATE-OF-THE-ART DATABASE MANAGEMENT AND A HIGHLY COLLABORATIVE ENVIRONMENT CONSISTING OF SEVEN WELL INTEGRATED RESOURCE CORES AND ONE RESEARCH EDUCATION COMPONENT (REC) DESIGNED TO FACILITATE NEW RESEARCH EFFORTS AND INTERVENTIONS, DISSEMINATION OF RESEARCH FINDINGS, EDUCATION AND TRAINING AS WELL AS ENCOURAGING RESEARCHER DEVELOPMENT. OUR APPROACH ADDRESSES SEVERAL MILESTONES SET BY THE NATIONAL ALZHEIMER’S PROJECT ACT TO EFFECTIVELY TREAT ALZHEIMER’S DISEASE AND ASSOCIATED DISORDERS (ADRD) BY 2025. THESE INCLUDE, BUT ARE NOT LIMITED TO: 1) M1.L., EVALUATING DISPARITIES AMONG ETHNIC AND RACIAL MINORITY POPULATIONS THAT ARE AT HIGHER RISK FOR AD TO MITIGATE RISK AND IMPROVE COGNITIVE OUTCOMES, 2) M2.H., FULLY CHARACTERIZING MIXED PATHOLOGIES AND IDENTIFYING UNIQUE RISK FACTORS,3) M5-7., ACCELERATING THE DEVELOPMENT OF TREATMENTS THAT WOULD PREVENT, HALT, OR REVERSE THE COURSE OF ALZHEIMER’S DISEASE (AD), 4) M9., IMPROVING EARLY DIAGNOSIS THROUGH DISCOVERY OF NOVEL IMAGING AND BLOOD BIOMARKERS, 5) M8., DEVELOPING NOVEL DEMENTIA PREVENTION STRATEGIES, AND 6) M13.E.,SUPPORTING CAREGIVING THROUGH FUNDED CAREGIVER RESEARCH. THE UCD ADRC ALSO DIRECTLY SUPPORTS MULTIPLE EPIDEMIOLOGICAL STUDIES OF DIVERSE COMMUNITIES THROUGH USE OF RESEARCH METHODS AND PERSONNEL TO GAIN FURTHER INSIGHTS INTO DEMENTIA RISK REDUCTION, EARLY DIAGNOSIS, AND THE IMPACT OF VARIOUS NEUROPATHOLOGIES ON AGING AND DEMENTIA. OUR EFFORTS REFLECT THE EVOLVING NEEDS OF AN INCREASINGLY OLDER AND MORE DIVERSE US POPULATION, WHICH IS EXPECTED TO RISE TO NEARLY 14 MILLION BY MIDCENTURY. MOREOVER, WHILE AD CONTINUES TO BE THE MAJOR PATHOLOGICAL CAUSE OF DEMENTIA, MORE RECENT STUDIES—INCLUDING ONE FROM THE UCD ADRC—FIND THAT DEMENTIA PATHOLOGY IS MULTIFACTORIAL AND HIGHLY HETEROGENEOUS, DUE IN PART TO THE CO-OCCURRENCE OF AD AND VASCULAR DISEASE, WHICH VARIES BY ETHNORACIAL CHARACTERISTICS, IS EMPHASIZED AS PART OF DEMENTIA PREDICTION AND WHICH CAN BE MODIFIED BY TREATMENT EVEN IN LATER LIFE. THE UCD ADRC IS UNIQUELY QUALIFIED TO SUPPORT THIS RESEARCH FOCUS WITH A CONSIDERABLE IMPACT ON FUTURE ADRD DIAGNOSIS AND TREATMENT.",
+    "total_obligation": 15912823,
+    "subaward_count": 2,
+    "total_subaward_amount": 123799,
+    "date_signed": "2021-08-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 12121837.67,
+    "total_account_obligation": 15912823,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 12121837.67
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 15912823
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-08-15",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "7007",
+      "zip5": "95816",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 12121837.67
+  }
+}

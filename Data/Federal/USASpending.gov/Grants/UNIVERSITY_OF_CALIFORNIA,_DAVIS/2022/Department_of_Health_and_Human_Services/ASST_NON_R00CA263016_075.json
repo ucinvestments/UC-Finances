@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91114201,
+    "Award ID": "R00CA263016",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 746998.83,
+    "Total Outlays": 247335.17,
+    "Description": "NANOPARTICLE-AUGMENTED IMAGE-GUIDED CAR T THERAPY AND POST-TREATMENT ASSESSMENT - SUMMARY THIS PROPOSAL DESCRIBES A FIVE-YEAR CAREER DEVELOPMENT PROGRAM TO PREPARE THE CANDIDATE, DR. JINHWAN KIM, FOR  A CAREER AS AN INDEPENDENT INVESTIGATOR. THIS PROGRAM WILL BUILD ON DR. KIM’S BACKGROUND AS A MATERIAL SCIENTIST  AND NANOBIOMATERIAL ENGINEER BY PROVIDING ADDITIONAL EXPERTISE IN MEDICAL IMAGING, CELL ENGINEERING, AND  NANOMATERIALS. THE PRIMARY MENTOR, STANISLAV EMELIANOV, PH.D. (PROFESSOR OF BME AT GEORGIA TECH), HAS  EXPERTISE IN INSTRUMENTATION, IMAGING SYSTEMS AND ALGORITHMS, IMAGE-GUIDED THERAPY, AND IMAGING CONTRAST  AGENTS. CO-MENTORS ARE YOUNAN XIA, PH.D. (PROFESSOR OF BME AT GEORGIA TECH), WHO HAS EXPERTISE IN  NANOPARTICLES AND GABRIEL KWONG, PH.D. (ASSOCIATE PROFESSOR OF BME AT GEORGIA TECH), WHOSE EXPERTISE IN T  CELL ENGINEERING. DR. KIM WILL COLLABORATE WITH KEVIN KALINSKY, M.D. (ASSOCIATE PROFESSOR OF MEDICINE AT EMORY  UNIVERSITY) ON BREAST CANCER ONCOLOGY, HAYDN KISSICK, PH.D. (ASSISTANT PROFESSOR OF UROLOGY AT EMORY UNIVERSITY)  ON CANCER IMMUNOLOGY, AND KRISHNENDU ROY, PH.D. (PROFESSOR OF BME AT GEORGIA TECH) ON T CELL MANUFACTURING. IN THIS APPLICATION, DR. KIM WILL DEMONSTRATE THE USE OF PLASMONIC NANOPARTICLES WITH TUNABLE PEAK OPTICAL  ABSORPTION AS CONTRAST AGENTS FOR THE COMBINED ULTRASOUND AND PHOTOACOUSTIC (US/PA) IMAGING. THE DEVELOPED  IMAGING AGENTS AND US/PA SYSTEM WILL BE USED FOR IMAGE-GUIDED CHIMERIC ANTIGEN RECEPTOR (CAR) T CELL THERAPY  IN BREAST CANCER AND SENSING THE ACTIVITY OF DELIVERED CAR T CELLS IN THE TUMOR MICROENVIRONMENT (TME). CURRENT  APPROACHES IN CAR T CELL THERAPY LACK THE ABILITY TO MONITOR THE LOCATION AND ACTIVITY OF THE INFUSED CAR T CELLS  IN REAL-TIME, WHICH IS CRITICAL TO UNDERSTAND THE BIOLOGICAL EFFECT OF CAR T CELLS AND TO PREDICT THE TREATMENT  OUTCOME. BY LABELING CAR T CELLS WITH GOLD NANORODS (AUNRS) ABSORBING IN NEAR-INFRARED (NIR) SPECTRAL RANGE,  THIS PROJECT AIMS TO ENABLE TRACKING OF THE CAR T CELLS AFTER INFUSION FOR IMAGE-GUIDED THERAPY (AIM 1).  IMPLEMENTING THE US/PA IMAGING TECHNIQUE WILL ALLOW THE REAL-TIME, HIGH-RESOLUTION DETECTION OF THE CAR T CELLS  WITH GREAT ANATOMICAL INFORMATION IN RELIABLE IMAGING DEPTH (AIM 2). FURTHERMORE, THE DESIGN OF THE GOLD  NANOPARTICLE-BASED US/PA IMAGING SENSORS THAT SELECTIVELY AND SENSITIVELY DETECT CYTOKINES RELEASED FROM  INJECTED CAR T CELLS WILL ENABLE MONITORING CAR T CELL ACTIVITY, THEREBY ASSESSING AND CONTROLLING THE  MICROENVIRONMENT WITH ADDITIONAL EXTERNAL STIMULATION (AIM 3). AIMS 1 AND 2 (K99 PHASE) WILL BE GUIDED UNDER  THE STRONG MENTORSHIP FROM MENTOR/CO-MENTORS WITH EXTENSIVE TRAINING ON NANOTECHNOLOGY (YOUNAN XIA, PH.D.),  CAR T CELL ENGINEERING (GABRIEL KWONG, PH.D.), AND US/PA IMAGING (STANISLAV EMELIANOV, PH.D.). DR. KIM WILL  INDEPENDENTLY CONDUCT THE PROPOSED AIM 3 WITH THE EXTENDED EXPERTISE GATHERED DURING THE K99 PHASE. THE  MULTIDISCIPLINARY KNOWLEDGE GAINED DURING THE OVERALL RESEARCH AND CAREER TRAINING, THIS PROJECT WILL PROVIDE A  FOUNDATION FOR DR. KIM – AN INDEPENDENT INVESTIGATOR IN THE R00 PHASE, TO DEVELOP ADVANCED APPLICATIONS OF  NANOTECHNOLOGY IN INNOVATIVE THERAPEUTIC APPROACHES TO TREAT CANCER AND OTHER DISEASES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-07-01",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R00CA263016_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91114201,
+    "generated_unique_award_id": "ASST_NON_R00CA263016_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NANOPARTICLE-AUGMENTED IMAGE-GUIDED CAR T THERAPY AND POST-TREATMENT ASSESSMENT - SUMMARY THIS PROPOSAL DESCRIBES A FIVE-YEAR CAREER DEVELOPMENT PROGRAM TO PREPARE THE CANDIDATE, DR. JINHWAN KIM, FOR  A CAREER AS AN INDEPENDENT INVESTIGATOR. THIS PROGRAM WILL BUILD ON DR. KIM’S BACKGROUND AS A MATERIAL SCIENTIST  AND NANOBIOMATERIAL ENGINEER BY PROVIDING ADDITIONAL EXPERTISE IN MEDICAL IMAGING, CELL ENGINEERING, AND  NANOMATERIALS. THE PRIMARY MENTOR, STANISLAV EMELIANOV, PH.D. (PROFESSOR OF BME AT GEORGIA TECH), HAS  EXPERTISE IN INSTRUMENTATION, IMAGING SYSTEMS AND ALGORITHMS, IMAGE-GUIDED THERAPY, AND IMAGING CONTRAST  AGENTS. CO-MENTORS ARE YOUNAN XIA, PH.D. (PROFESSOR OF BME AT GEORGIA TECH), WHO HAS EXPERTISE IN  NANOPARTICLES AND GABRIEL KWONG, PH.D. (ASSOCIATE PROFESSOR OF BME AT GEORGIA TECH), WHOSE EXPERTISE IN T  CELL ENGINEERING. DR. KIM WILL COLLABORATE WITH KEVIN KALINSKY, M.D. (ASSOCIATE PROFESSOR OF MEDICINE AT EMORY  UNIVERSITY) ON BREAST CANCER ONCOLOGY, HAYDN KISSICK, PH.D. (ASSISTANT PROFESSOR OF UROLOGY AT EMORY UNIVERSITY)  ON CANCER IMMUNOLOGY, AND KRISHNENDU ROY, PH.D. (PROFESSOR OF BME AT GEORGIA TECH) ON T CELL MANUFACTURING. IN THIS APPLICATION, DR. KIM WILL DEMONSTRATE THE USE OF PLASMONIC NANOPARTICLES WITH TUNABLE PEAK OPTICAL  ABSORPTION AS CONTRAST AGENTS FOR THE COMBINED ULTRASOUND AND PHOTOACOUSTIC (US/PA) IMAGING. THE DEVELOPED  IMAGING AGENTS AND US/PA SYSTEM WILL BE USED FOR IMAGE-GUIDED CHIMERIC ANTIGEN RECEPTOR (CAR) T CELL THERAPY  IN BREAST CANCER AND SENSING THE ACTIVITY OF DELIVERED CAR T CELLS IN THE TUMOR MICROENVIRONMENT (TME). CURRENT  APPROACHES IN CAR T CELL THERAPY LACK THE ABILITY TO MONITOR THE LOCATION AND ACTIVITY OF THE INFUSED CAR T CELLS  IN REAL-TIME, WHICH IS CRITICAL TO UNDERSTAND THE BIOLOGICAL EFFECT OF CAR T CELLS AND TO PREDICT THE TREATMENT  OUTCOME. BY LABELING CAR T CELLS WITH GOLD NANORODS (AUNRS) ABSORBING IN NEAR-INFRARED (NIR) SPECTRAL RANGE,  THIS PROJECT AIMS TO ENABLE TRACKING OF THE CAR T CELLS AFTER INFUSION FOR IMAGE-GUIDED THERAPY (AIM 1).  IMPLEMENTING THE US/PA IMAGING TECHNIQUE WILL ALLOW THE REAL-TIME, HIGH-RESOLUTION DETECTION OF THE CAR T CELLS  WITH GREAT ANATOMICAL INFORMATION IN RELIABLE IMAGING DEPTH (AIM 2). FURTHERMORE, THE DESIGN OF THE GOLD  NANOPARTICLE-BASED US/PA IMAGING SENSORS THAT SELECTIVELY AND SENSITIVELY DETECT CYTOKINES RELEASED FROM  INJECTED CAR T CELLS WILL ENABLE MONITORING CAR T CELL ACTIVITY, THEREBY ASSESSING AND CONTROLLING THE  MICROENVIRONMENT WITH ADDITIONAL EXTERNAL STIMULATION (AIM 3). AIMS 1 AND 2 (K99 PHASE) WILL BE GUIDED UNDER  THE STRONG MENTORSHIP FROM MENTOR/CO-MENTORS WITH EXTENSIVE TRAINING ON NANOTECHNOLOGY (YOUNAN XIA, PH.D.),  CAR T CELL ENGINEERING (GABRIEL KWONG, PH.D.), AND US/PA IMAGING (STANISLAV EMELIANOV, PH.D.). DR. KIM WILL  INDEPENDENTLY CONDUCT THE PROPOSED AIM 3 WITH THE EXTENDED EXPERTISE GATHERED DURING THE K99 PHASE. THE  MULTIDISCIPLINARY KNOWLEDGE GAINED DURING THE OVERALL RESEARCH AND CAREER TRAINING, THIS PROJECT WILL PROVIDE A  FOUNDATION FOR DR. KIM – AN INDEPENDENT INVESTIGATOR IN THE R00 PHASE, TO DEVELOP ADVANCED APPLICATIONS OF  NANOTECHNOLOGY IN INNOVATIVE THERAPEUTIC APPROACHES TO TREAT CANCER AND OTHER DISEASES.",
+    "total_obligation": 746998.83,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-08-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 247335.17,
+    "total_account_obligation": 746998.83,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 247335.17
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 746998.83
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-07-01",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 247335.17
+  }
+}

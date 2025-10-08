@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 170337242,
+    "Award ID": "R01EY036811",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 624230,
+    "Total Outlays": 0,
+    "Description": "PHYSIOLOGY OF RETINAL DEGENERATION - PROJECT SUMMARY/ABSTRACT  MANY PATIENTS WITH RETINAL DEGENERATION LOSE VISION SLOWLY AND RETAIN SOME VISUAL PERCEPTION WELL INTO MIDDLE AGE. PHOTORECEPTORS IN DEGENERATING RETINA MUST THEREFORE BE ABLE TO CONTINUE TO FUNCTION FOR A PROLONGED PERIOD, AND THE REST OF THE RETINA MUST BE ABLE TO ADAPT TO THE LOSS OF SOME CELLS TO PRESERVE VISUAL PROCESSING. RECENT RESEARCH HAS SHOWN THAT CONES IN DEGENERATING RETINA EVEN WITHOUT OUTER SEGMENTS STILL RESPOND TO LIGHT AND FORM NEW SYNAPSES, SHOWING THAT DEGENERATING CONES CAN CONTINUE TO PRODUCE SIGNALS MUCH AS IN HEALTHY ANIMALS. FOR RODS, WE HAVE LITTLE INFORMATION ABOUT HOW PHYSIOLOGY AND CONNECTIVITY ARE ALTERED AS DEGENERATION PROCEEDS. THIS KNOWLEDGE IS CRUCIAL SINCE MOST FORMS OF GENETICALLY INHERITED DISEASE ARE CAUSED BY MUTATIONS IN ROD PROTEINS AND PROCEED FIRST WITH ROD DEGENERATION; AND SINCE SOME PROPOSED THERAPIES ENVISAGE INTRODUCTION OF NEW RODS INTO THE RETINA. WE PROPOSE TO ADDRESS THIS GAP IN OUR KNOWLEDGE BY USING SINGLE-CELL RECORDING FROM PHOTORECEPTORS AND BIPOLAR CELLS, FIRST TO DESCRIBE CHANGES IN ROD FUNCTION AS DISEASE PROGRESSES, AND THEN TO UNDERSTAND HOW THE RETINA MAINTAINS VISUAL PROCESSING DURING CELL LOSS. THE FIRST AIM OF OUR PROPOSAL IS TO DOCUMENT CHANGES IN ROD MEMBRANE POTENTIAL, INPUT RESISTANCE, VOLTAGE AND CURRENT LIGHT RESPONSES, AND AMPLITUDE AND VOLTAGE DEPENDENCE OF CA2+ CURRENTS IN MOUSE MODELS OF AUTOSOMAL DOMINANT RETINITIS PIGMENTOSA, WHERE ROD DEGENERATION OCCURS RAPIDLY OR SLOWLY OVER A PROLONGED PERIOD. WE PROPOSE ALSO TO MAKE CONTEMPORANEOUS RECORDINGS FROM ROD BIPOLAR CELLS TO MONITOR LIGHT SENSITIVITY, MAXIMUM RESPONSE AMPLITUDE, AND RESPONSE NONLINEARITY, WITH ELECTRODES FILLED WITH FLUORESCENT DYE TO DOCUMENT CELL MORPHOLOGY. WE HOPE TO DISCOVER WHETHER RODS CAN MAINTAIN RESPONSIVENESS AS CELLS ARE DYING, AND TO UNDERSTAND HOW ROD CONNECTIONS TO BIPOLAR CELLS ARE PRESERVED. THE SECOND AIM OF OUR PROPOSAL SEEKS TO INVESTIGATE PLASTICITY IN THE PROPAGATION OF PHOTORECEPTOR RESPONSES IN DEGENERATING RETINA AND TO ESTABLISH ITS MECHANISM. WE HAVE LONG KNOWN THAT SYNAPSES WITHIN THE RETINA CAN BREAK AND REFORM IN DEGENERATIVE DISEASE, BUT THIS REMODELING HAS BEEN THOUGHT TO BE DELETERIOUS AND TO LIMIT THE ABILITY OF DEGENERATING RETINA TO RESPOND TO PHOTORECEPTOR REPLACEMENT OR OTHER FORMS OF THERAPY. MORE RECENT EXPERIMENTS HAVE INDICATED THAT REMODELING CAN BE ADAPTIVE: NEW SYNAPSES FORMED DURING DEGENERATION CAN MEDIATE VISUAL DETECTION AND PRODUCE NEARLY NORMAL RETINAL OUTPUT PROVIDED DEGENERATION HAS NOT PROCEEDED TOO FAR. WE WILL USE PHYSIOLOGICAL RECORDINGS TO INVESTIGATE PREVIOUS ANATOMICAL EVIDENCE THAT ROD BIPOLAR CELLS CAN SYNAPSE WITH CONES AFTER RODS HAVE DEGENERATED, OR CONE BIPOLAR CELLS WITH RODS IN CONE DISEASE. WE WILL EXPLORE THE FUNCTION AND PHARMACOLOGY OF THESE CONNECTIONS AND INVESTIGATE THE INFLUENCE OF LIGHT RESPONSIVENESS, GLUTAMATE RELEASE, AND SYNAPTIC ADHESION PROTEINS ON SYNAPSE FORMATION. OUR AIM IS TO PROVIDE NEW INFORMATION ABOUT THE MECHANISMS THE DEGENERATING RETINA USES TO ACCOMMODATE PHOTORECEPTOR LOSS WITH THE ULTIMATE GOAL TO HELP DESIGN NEW THERAPIES FOR VISION RESTORATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4200",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-05-01",
+    "End Date": "2029-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01EY036811_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 170337242,
+    "generated_unique_award_id": "ASST_NON_R01EY036811_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PHYSIOLOGY OF RETINAL DEGENERATION - PROJECT SUMMARY/ABSTRACT  MANY PATIENTS WITH RETINAL DEGENERATION LOSE VISION SLOWLY AND RETAIN SOME VISUAL PERCEPTION WELL INTO MIDDLE AGE. PHOTORECEPTORS IN DEGENERATING RETINA MUST THEREFORE BE ABLE TO CONTINUE TO FUNCTION FOR A PROLONGED PERIOD, AND THE REST OF THE RETINA MUST BE ABLE TO ADAPT TO THE LOSS OF SOME CELLS TO PRESERVE VISUAL PROCESSING. RECENT RESEARCH HAS SHOWN THAT CONES IN DEGENERATING RETINA EVEN WITHOUT OUTER SEGMENTS STILL RESPOND TO LIGHT AND FORM NEW SYNAPSES, SHOWING THAT DEGENERATING CONES CAN CONTINUE TO PRODUCE SIGNALS MUCH AS IN HEALTHY ANIMALS. FOR RODS, WE HAVE LITTLE INFORMATION ABOUT HOW PHYSIOLOGY AND CONNECTIVITY ARE ALTERED AS DEGENERATION PROCEEDS. THIS KNOWLEDGE IS CRUCIAL SINCE MOST FORMS OF GENETICALLY INHERITED DISEASE ARE CAUSED BY MUTATIONS IN ROD PROTEINS AND PROCEED FIRST WITH ROD DEGENERATION; AND SINCE SOME PROPOSED THERAPIES ENVISAGE INTRODUCTION OF NEW RODS INTO THE RETINA. WE PROPOSE TO ADDRESS THIS GAP IN OUR KNOWLEDGE BY USING SINGLE-CELL RECORDING FROM PHOTORECEPTORS AND BIPOLAR CELLS, FIRST TO DESCRIBE CHANGES IN ROD FUNCTION AS DISEASE PROGRESSES, AND THEN TO UNDERSTAND HOW THE RETINA MAINTAINS VISUAL PROCESSING DURING CELL LOSS. THE FIRST AIM OF OUR PROPOSAL IS TO DOCUMENT CHANGES IN ROD MEMBRANE POTENTIAL, INPUT RESISTANCE, VOLTAGE AND CURRENT LIGHT RESPONSES, AND AMPLITUDE AND VOLTAGE DEPENDENCE OF CA2+ CURRENTS IN MOUSE MODELS OF AUTOSOMAL DOMINANT RETINITIS PIGMENTOSA, WHERE ROD DEGENERATION OCCURS RAPIDLY OR SLOWLY OVER A PROLONGED PERIOD. WE PROPOSE ALSO TO MAKE CONTEMPORANEOUS RECORDINGS FROM ROD BIPOLAR CELLS TO MONITOR LIGHT SENSITIVITY, MAXIMUM RESPONSE AMPLITUDE, AND RESPONSE NONLINEARITY, WITH ELECTRODES FILLED WITH FLUORESCENT DYE TO DOCUMENT CELL MORPHOLOGY. WE HOPE TO DISCOVER WHETHER RODS CAN MAINTAIN RESPONSIVENESS AS CELLS ARE DYING, AND TO UNDERSTAND HOW ROD CONNECTIONS TO BIPOLAR CELLS ARE PRESERVED. THE SECOND AIM OF OUR PROPOSAL SEEKS TO INVESTIGATE PLASTICITY IN THE PROPAGATION OF PHOTORECEPTOR RESPONSES IN DEGENERATING RETINA AND TO ESTABLISH ITS MECHANISM. WE HAVE LONG KNOWN THAT SYNAPSES WITHIN THE RETINA CAN BREAK AND REFORM IN DEGENERATIVE DISEASE, BUT THIS REMODELING HAS BEEN THOUGHT TO BE DELETERIOUS AND TO LIMIT THE ABILITY OF DEGENERATING RETINA TO RESPOND TO PHOTORECEPTOR REPLACEMENT OR OTHER FORMS OF THERAPY. MORE RECENT EXPERIMENTS HAVE INDICATED THAT REMODELING CAN BE ADAPTIVE: NEW SYNAPSES FORMED DURING DEGENERATION CAN MEDIATE VISUAL DETECTION AND PRODUCE NEARLY NORMAL RETINAL OUTPUT PROVIDED DEGENERATION HAS NOT PROCEEDED TOO FAR. WE WILL USE PHYSIOLOGICAL RECORDINGS TO INVESTIGATE PREVIOUS ANATOMICAL EVIDENCE THAT ROD BIPOLAR CELLS CAN SYNAPSE WITH CONES AFTER RODS HAVE DEGENERATED, OR CONE BIPOLAR CELLS WITH RODS IN CONE DISEASE. WE WILL EXPLORE THE FUNCTION AND PHARMACOLOGY OF THESE CONNECTIONS AND INVESTIGATE THE INFLUENCE OF LIGHT RESPONSIVENESS, GLUTAMATE RELEASE, AND SYNAPTIC ADHESION PROTEINS ON SYNAPSE FORMATION. OUR AIM IS TO PROVIDE NEW INFORMATION ABOUT THE MECHANISMS THE DEGENERATING RETINA USES TO ACCOMMODATE PHOTORECEPTOR LOSS WITH THE ULTIMATE GOAL TO HELP DESIGN NEW THERAPIES FOR VISION RESTORATION.",
+    "total_obligation": 624230,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-04-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 624230,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 624230
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2025-05-01",
+      "end_date": "2029-04-30",
+      "last_modified_date": "2025-05-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4200",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

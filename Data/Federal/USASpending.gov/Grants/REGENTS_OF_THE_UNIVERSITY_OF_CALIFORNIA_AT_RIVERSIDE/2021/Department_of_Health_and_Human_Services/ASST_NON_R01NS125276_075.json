@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91239575,
+    "Award ID": "R01NS125276",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 2162010,
+    "Total Outlays": 1622630.48,
+    "Description": "THE ROLE OF NMD IN CORTICAL NEURAL PROGENITOR CELLS - PROJECT SUMMARY MUTATIONS IN KEY FACTORS OF NONSENSE-MEDIATED MRNA DECAY (NMD), INCLUDING UPF2, UPF3A, UPF3B, AND SMG6, ARE ENRICHED IN VARIOUS NEURODEVELOPMENTAL DISEASES. IN ADDITIONAL TO ENSURING TRANSCRIPT QUALITY BY DEGRADING ABERRANT TRANSCRIPTS WITH A PREMATURE STOP CODON, NMD MODULATES STABILITY OF SELECTIVE MRNAS TO FINE-TUNE TRANSCRIPT ABUNDANCE. WHETHER AND HOW NMD INFLUENCES BRAIN DEVELOPMENT REMAINS ELUSIVE. OUR LONG-TERM OBJECTIVE IS TO UNDERSTAND THE FUNCTIONAL ROLE OF NMD REGULATION FOR THE COMPLICATED AND DYNAMIC PROCESS OF NEUROGENESIS AND HOW ITS MIS-REGULATION LEADS TO NEURODEVELOPMENTAL DISORDERS. WE DETERMINE THE REQUIREMENT OF NMD FOR NEURAL DEVELOPMENT THROUGH SELECTIVE GENETIC ABLATION OF UPF2 AND IN VIVO MANIPULATION OF OTHER NMD FACTORS. OUR PRELIMINARY DATA SHOW THAT DELETION OF UPF2 IN NEURAL STEM AND PROGENITORS RESULTS IN MICROCEPHALY. UPF2 LOSS SPECIFICALLY AFFECTS THE CELL CYCLE AND LINEAGE PROGRESSION OF RADIAL GLIA CELLS (RGCS), THE MAJOR NEURAL PROGENITOR CELLS IN THE DEVELOPING NEOCORTEX. WE WILL COMBINE CUTTING EDGE MOLECULAR CELLULAR RIBOGENOMICS APPROACHES, MOUSE GENETICS, AND DEVELOPMENTAL NEUROBIOLOGY TO DISSECT THE MECHANISMS OF NMD REGULATING NEUROGENESIS. WE PROPOSE THREE INDEPENDENT AND INTERRELATED AIMS TO INVESTIGATE POSSIBLE VARIABLES UNDERLYING THE MICROCEPHALY PHENOTYPE. IN AIM 1, WE WILL DETERMINE THE CELL CYCLE BEHAVIORS OF RGCS IN NMD KNOCKOUT MICE QUALITATIVELY AND QUANTITATIVELY AND UNVEIL THE UNDERLYING REGULATORY MECHANISMS. IN AIM 2, WE WILL DETERMINE THE LINEAGE PROGRESSION OF RGCS AND THE RESULTING NEURONAL OUTPUTS PER TIME UNIT IN NMD KNOCKOUT MICE. BY CHARACTERIZING THESE MOLECULAR CELLULAR DEFECTS, WE ALSO AIM TO PROVIDE MECHANISTIC INSIGHTS TO TRANSCRIPTOMIC REGULATION OF RGC’S LINEAGE TRANSITIONS. NMD MAY REGULATE CELL FATES EITHER INDEPENDENT OF CELL CYCLE CONTROLS OR AS THE CONSEQUENCE OF AFFECTING THE CELL CYCLE. IN AIM 3, WE WILL TEST THESE TWO HYPOTHESES AND LEVERAGE OUR RESULTS TO REEXAMINE THE RELATIONSHIP BETWEEN CELL CYCLE AND CELL FATE. SUCCESSFUL COMPLETION OF THESE STUDIES WILL PROVIDE FUNDAMENTAL INSIGHTS INTO HOW SELECTIVE MRNA STABILITY UNDERLIES THE HIGHLY REGULATED CORTICAL NEUROGENESIS PROCESS IN THE MAMMALIAN BRAIN. THE PROPOSED STUDIES WILL ALSO SHED LIGHT ON SOME FUNDAMENTAL QUESTIONS ABOUT THE CONTROL OF CELL CYCLE, CELL FATE, AND THEIR RELATIONSHIP DURING NEURAL DEVELOPMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925210001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-12-01",
+    "End Date": "2026-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS125276_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91239575,
+    "generated_unique_award_id": "ASST_NON_R01NS125276_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE ROLE OF NMD IN CORTICAL NEURAL PROGENITOR CELLS - PROJECT SUMMARY MUTATIONS IN KEY FACTORS OF NONSENSE-MEDIATED MRNA DECAY (NMD), INCLUDING UPF2, UPF3A, UPF3B, AND SMG6, ARE ENRICHED IN VARIOUS NEURODEVELOPMENTAL DISEASES. IN ADDITIONAL TO ENSURING TRANSCRIPT QUALITY BY DEGRADING ABERRANT TRANSCRIPTS WITH A PREMATURE STOP CODON, NMD MODULATES STABILITY OF SELECTIVE MRNAS TO FINE-TUNE TRANSCRIPT ABUNDANCE. WHETHER AND HOW NMD INFLUENCES BRAIN DEVELOPMENT REMAINS ELUSIVE. OUR LONG-TERM OBJECTIVE IS TO UNDERSTAND THE FUNCTIONAL ROLE OF NMD REGULATION FOR THE COMPLICATED AND DYNAMIC PROCESS OF NEUROGENESIS AND HOW ITS MIS-REGULATION LEADS TO NEURODEVELOPMENTAL DISORDERS. WE DETERMINE THE REQUIREMENT OF NMD FOR NEURAL DEVELOPMENT THROUGH SELECTIVE GENETIC ABLATION OF UPF2 AND IN VIVO MANIPULATION OF OTHER NMD FACTORS. OUR PRELIMINARY DATA SHOW THAT DELETION OF UPF2 IN NEURAL STEM AND PROGENITORS RESULTS IN MICROCEPHALY. UPF2 LOSS SPECIFICALLY AFFECTS THE CELL CYCLE AND LINEAGE PROGRESSION OF RADIAL GLIA CELLS (RGCS), THE MAJOR NEURAL PROGENITOR CELLS IN THE DEVELOPING NEOCORTEX. WE WILL COMBINE CUTTING EDGE MOLECULAR CELLULAR RIBOGENOMICS APPROACHES, MOUSE GENETICS, AND DEVELOPMENTAL NEUROBIOLOGY TO DISSECT THE MECHANISMS OF NMD REGULATING NEUROGENESIS. WE PROPOSE THREE INDEPENDENT AND INTERRELATED AIMS TO INVESTIGATE POSSIBLE VARIABLES UNDERLYING THE MICROCEPHALY PHENOTYPE. IN AIM 1, WE WILL DETERMINE THE CELL CYCLE BEHAVIORS OF RGCS IN NMD KNOCKOUT MICE QUALITATIVELY AND QUANTITATIVELY AND UNVEIL THE UNDERLYING REGULATORY MECHANISMS. IN AIM 2, WE WILL DETERMINE THE LINEAGE PROGRESSION OF RGCS AND THE RESULTING NEURONAL OUTPUTS PER TIME UNIT IN NMD KNOCKOUT MICE. BY CHARACTERIZING THESE MOLECULAR CELLULAR DEFECTS, WE ALSO AIM TO PROVIDE MECHANISTIC INSIGHTS TO TRANSCRIPTOMIC REGULATION OF RGC’S LINEAGE TRANSITIONS. NMD MAY REGULATE CELL FATES EITHER INDEPENDENT OF CELL CYCLE CONTROLS OR AS THE CONSEQUENCE OF AFFECTING THE CELL CYCLE. IN AIM 3, WE WILL TEST THESE TWO HYPOTHESES AND LEVERAGE OUR RESULTS TO REEXAMINE THE RELATIONSHIP BETWEEN CELL CYCLE AND CELL FATE. SUCCESSFUL COMPLETION OF THESE STUDIES WILL PROVIDE FUNDAMENTAL INSIGHTS INTO HOW SELECTIVE MRNA STABILITY UNDERLIES THE HIGHLY REGULATED CORTICAL NEUROGENESIS PROCESS IN THE MAMMALIAN BRAIN. THE PROPOSED STUDIES WILL ALSO SHED LIGHT ON SOME FUNDAMENTAL QUESTIONS ABOUT THE CONTROL OF CELL CYCLE, CELL FATE, AND THEIR RELATIONSHIP DURING NEURAL DEVELOPMENT.",
+    "total_obligation": 2162010,
+    "subaward_count": 3,
+    "total_subaward_amount": 480009,
+    "date_signed": "2021-11-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1622630.48,
+    "total_account_obligation": 2162010,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1622630.48
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2162010
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2021-12-01",
+      "end_date": "2026-11-30",
+      "last_modified_date": "2024-12-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1622630.48
+  }
+}

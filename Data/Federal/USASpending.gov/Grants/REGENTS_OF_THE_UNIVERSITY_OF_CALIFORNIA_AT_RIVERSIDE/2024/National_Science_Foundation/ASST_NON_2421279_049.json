@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57491165,
+    "Award ID": "2421279",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 767399,
+    "Total Outlays": 119839.47,
+    "Description": "COLLABORATIVE RESEARCH: HSI IMPLEMENTATION \u0026 EVALUATION PROJECT: STRUCTURALIZING A GROWTH MINDSET ASSESSMENT STRATEGY IN AN UNDERGRADUATE GENERAL CHEMISTRY CURRICULUM -WITH SUPPORT FROM THE IMPROVING UNDERGRADUATE STEM EDUCATION: HISPANIC-SERVING INSTITUTIONS (HSI PROGRAM), THIS TRACK 2 PROJECT LOOKS TO IMPACT STUDENT OUTCOMES IN GENERAL CHEMISTRY COURSES AT THE UNIVERSITY OF CALIFORNIA-RIVERSIDE (UCR), MOUNT SAN ANTONIO COLLEGE AND MOUNT SAN JACINTO COLLEGE. SIGNIFICANT EFFORT HAS BEEN MADE NATIONWIDE OVER THE PAST SEVERAL DECADES TO ADDRESS EQUITY GAPS IN HIGHER EDUCATION STEM OUTCOMES TO SUPPORT THE DEVELOPMENT OF SCIENTISTS FOR 21ST CENTURY STEM WORKFORCE. ONE REASON THAT THESE EQUITY GAPS HAVE PERSISTED HAS BEEN CO-CURRICULAR PROGRAMS THAT CONTINUE TO FUNNEL STUDENTS INTO INTRODUCTORY STEM COURSES DESIGNED TO FILTER OUT LESS PREPARED STUDENTS. THUS, THIS PROJECT WILL FOCUS ON DEVELOPING A MASTERY OUTCOMES ASSESSMENT STRATEGY IN THE YEAR-LONG GENERAL CHEMISTRY PROGRAM. THIS APPROACH WILL GIVE STUDENTS OPPORTUNITIES TO DEMONSTRATE GROWTH IN LEARNING RATHER THAN USING A SMALL NUMBER OF HIGH-STAKES EXAMS. MAJOR PROJECT COMPONENTS INCLUDE: 1) TRAINING WORKSHOPS FOR FACULTY INSTRUCTORS; 2) A PHASED IMPLEMENTATION OF A MASTERY OUTCOMES ASSESSMENT STRUCTURE IN THE UCR GENERAL CHEMISTRY PROGRAM AND AT TWO PARTNER COMMUNITY COLLEGES; 3) IMPLEMENTATION OF A PARALLEL METACOGNITIVE LEARNING INTERVENTION FOR STUDENTS; AND 4) ASSESSMENT OF THE MASTERY OUTCOMES FRAMEWORK AND SELF-REGULATED LEARNING STRATEGIES ON STUDENT OUTCOMES AND ATTITUDES. THIS PROJECT IS EXPECTED TO REDUCE EQUITY GAPS AND IMPROVE RETENTION OF HISTORICALLY UNDERSERVED STUDENTS IN THIS CRITICAL GATEWAY COURSE SEQUENCE, AND ULTIMATELY IT WILL ACT AS MODEL FOR IMPROVING STUDENT OUTCOMES IN OTHER INTRODUCTORY STEM GATEWAY COURSES. THE PRIMARY OBJECTIVE OF PROJECT RESEARCH AND EVALUATION EFFORTS IS TO MEASURE THE REDUCTION IN EQUITY GAPS AND RETENTION OF THE HISPANIC STUDENT POPULATIONS IN THE GENERAL CHEMISTRY SEQUENCE. THIS PROJECT WILL NOT ONLY IMPROVE THE SUCCESS AND RETENTION OF HISTORICALLY UNDERREPRESENTED STUDENTS AT THE COLLABORATING INSTITUTIONS, BUT WILL ALSO PROVIDE A TEMPLATE FOR IMPROVING THESE OUTCOMES IN OTHER HIGHER EDUCATION STEM GATEWAY COURSES AT INSTITUTIONS ACROSS THE NATION. THE FOLLOWING RESEARCH QUESTIONS WILL BE ADDRESSED: 1) HOW DOES A MASTERY OUTCOMES ASSESSMENT APPROACH IMPACT CHEMISTRY MINDSET FOR HISTORICALLY UNDERSERVED STUDENTS; AND 2) HOW DOES A MASTERY OUTCOMES ASSESSMENT APPROACH IMPACT FACULTY INSTRUCTORS' VIEW ON HOW INTRODUCTORY STEM COURSES SHOULD FOSTER A GROWTH MINDSET VS. A FIXED MINDSET? THIS PROJECT WILL EMPLOY A MIXED METHODS RESEARCH APPROACH TO EVALUATE THE EFFICACY OF THE MASTERY OUTCOMES ASSESSMENT STRUCTURE. PERFORMANCE EQUITY GAPS WILL BE MEASURED USING FINAL EXAM DATA AND FINAL COURSE GRADES, AND AFFECTIVE LEARNING OUTCOMES WILL BE ASSESSED USING SURVEYS AND INDIVIDUAL INTERVIEWS WITH SELECTED STUDENTS. ADDITIONALLY, THE IMPACT ON FACULTY INSTRUCTORS' APPROACH TO FOSTERING A GROWTH MINDSET AND PEDAGOGICAL CONTENT KNOWLEDGE WITH RESPECT TO ASSESSMENT WILL BE EVALUATED IN PRE/POST SURVEYS. BROADER DISSEMINATION OF THE PROJECT IMPLEMENTATION AND ASSOCIATED RESEARCH RESULTS WILL BE CARRIED OUT THROUGH UNIVERSITY PUBLIC RELATIONS ANNOUNCEMENTS, PRESENTATIONS AT NATIONAL STEM EDUCATION CONFERENCES, AND SCHOLARLY RESEARCH PUBLICATIONS. THIS PROJECT IS FUNDED BY THE HSI PROGRAM, WHICH AIMS TO ENHANCE UNDERGRADUATE STEM EDUCATION, BROADEN PARTICIPATION IN STEM, AND BUILD CAPACITY AT HSIS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-08-15",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2421279_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57491165,
+    "generated_unique_award_id": "ASST_NON_2421279_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "COLLABORATIVE RESEARCH: HSI IMPLEMENTATION \u0026 EVALUATION PROJECT: STRUCTURALIZING A GROWTH MINDSET ASSESSMENT STRATEGY IN AN UNDERGRADUATE GENERAL CHEMISTRY CURRICULUM -WITH SUPPORT FROM THE IMPROVING UNDERGRADUATE STEM EDUCATION: HISPANIC-SERVING INSTITUTIONS (HSI PROGRAM), THIS TRACK 2 PROJECT LOOKS TO IMPACT STUDENT OUTCOMES IN GENERAL CHEMISTRY COURSES AT THE UNIVERSITY OF CALIFORNIA-RIVERSIDE (UCR), MOUNT SAN ANTONIO COLLEGE AND MOUNT SAN JACINTO COLLEGE. SIGNIFICANT EFFORT HAS BEEN MADE NATIONWIDE OVER THE PAST SEVERAL DECADES TO ADDRESS EQUITY GAPS IN HIGHER EDUCATION STEM OUTCOMES TO SUPPORT THE DEVELOPMENT OF SCIENTISTS FOR 21ST CENTURY STEM WORKFORCE. ONE REASON THAT THESE EQUITY GAPS HAVE PERSISTED HAS BEEN CO-CURRICULAR PROGRAMS THAT CONTINUE TO FUNNEL STUDENTS INTO INTRODUCTORY STEM COURSES DESIGNED TO FILTER OUT LESS PREPARED STUDENTS. THUS, THIS PROJECT WILL FOCUS ON DEVELOPING A MASTERY OUTCOMES ASSESSMENT STRATEGY IN THE YEAR-LONG GENERAL CHEMISTRY PROGRAM. THIS APPROACH WILL GIVE STUDENTS OPPORTUNITIES TO DEMONSTRATE GROWTH IN LEARNING RATHER THAN USING A SMALL NUMBER OF HIGH-STAKES EXAMS. MAJOR PROJECT COMPONENTS INCLUDE: 1) TRAINING WORKSHOPS FOR FACULTY INSTRUCTORS; 2) A PHASED IMPLEMENTATION OF A MASTERY OUTCOMES ASSESSMENT STRUCTURE IN THE UCR GENERAL CHEMISTRY PROGRAM AND AT TWO PARTNER COMMUNITY COLLEGES; 3) IMPLEMENTATION OF A PARALLEL METACOGNITIVE LEARNING INTERVENTION FOR STUDENTS; AND 4) ASSESSMENT OF THE MASTERY OUTCOMES FRAMEWORK AND SELF-REGULATED LEARNING STRATEGIES ON STUDENT OUTCOMES AND ATTITUDES. THIS PROJECT IS EXPECTED TO REDUCE EQUITY GAPS AND IMPROVE RETENTION OF HISTORICALLY UNDERSERVED STUDENTS IN THIS CRITICAL GATEWAY COURSE SEQUENCE, AND ULTIMATELY IT WILL ACT AS MODEL FOR IMPROVING STUDENT OUTCOMES IN OTHER INTRODUCTORY STEM GATEWAY COURSES. THE PRIMARY OBJECTIVE OF PROJECT RESEARCH AND EVALUATION EFFORTS IS TO MEASURE THE REDUCTION IN EQUITY GAPS AND RETENTION OF THE HISPANIC STUDENT POPULATIONS IN THE GENERAL CHEMISTRY SEQUENCE. THIS PROJECT WILL NOT ONLY IMPROVE THE SUCCESS AND RETENTION OF HISTORICALLY UNDERREPRESENTED STUDENTS AT THE COLLABORATING INSTITUTIONS, BUT WILL ALSO PROVIDE A TEMPLATE FOR IMPROVING THESE OUTCOMES IN OTHER HIGHER EDUCATION STEM GATEWAY COURSES AT INSTITUTIONS ACROSS THE NATION. THE FOLLOWING RESEARCH QUESTIONS WILL BE ADDRESSED: 1) HOW DOES A MASTERY OUTCOMES ASSESSMENT APPROACH IMPACT CHEMISTRY MINDSET FOR HISTORICALLY UNDERSERVED STUDENTS; AND 2) HOW DOES A MASTERY OUTCOMES ASSESSMENT APPROACH IMPACT FACULTY INSTRUCTORS' VIEW ON HOW INTRODUCTORY STEM COURSES SHOULD FOSTER A GROWTH MINDSET VS. A FIXED MINDSET? THIS PROJECT WILL EMPLOY A MIXED METHODS RESEARCH APPROACH TO EVALUATE THE EFFICACY OF THE MASTERY OUTCOMES ASSESSMENT STRUCTURE. PERFORMANCE EQUITY GAPS WILL BE MEASURED USING FINAL EXAM DATA AND FINAL COURSE GRADES, AND AFFECTIVE LEARNING OUTCOMES WILL BE ASSESSED USING SURVEYS AND INDIVIDUAL INTERVIEWS WITH SELECTED STUDENTS. ADDITIONALLY, THE IMPACT ON FACULTY INSTRUCTORS' APPROACH TO FOSTERING A GROWTH MINDSET AND PEDAGOGICAL CONTENT KNOWLEDGE WITH RESPECT TO ASSESSMENT WILL BE EVALUATED IN PRE/POST SURVEYS. BROADER DISSEMINATION OF THE PROJECT IMPLEMENTATION AND ASSOCIATED RESEARCH RESULTS WILL BE CARRIED OUT THROUGH UNIVERSITY PUBLIC RELATIONS ANNOUNCEMENTS, PRESENTATIONS AT NATIONAL STEM EDUCATION CONFERENCES, AND SCHOLARLY RESEARCH PUBLICATIONS. THIS PROJECT IS FUNDED BY THE HSI PROGRAM, WHICH AIMS TO ENHANCE UNDERGRADUATE STEM EDUCATION, BROADEN PARTICIPATION IN STEM, AND BUILD CAPACITY AT HSIS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 767399,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-08-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 119839.47,
+    "total_account_obligation": 767399,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 119839.47
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 767399
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF UNDERGRADUATE EDUCATION"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF UNDERGRADUATE EDUCATION"
+    },
+    "period_of_performance": {
+      "start_date": "2024-08-15",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2024-08-27",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 119839.47
+  }
+}

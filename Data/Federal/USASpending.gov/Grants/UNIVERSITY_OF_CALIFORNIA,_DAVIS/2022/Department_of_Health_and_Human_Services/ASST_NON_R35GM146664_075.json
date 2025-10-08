@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91329785,
+    "Award ID": "R35GM146664",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1577420,
+    "Total Outlays": 1148452.67,
+    "Description": "STRUCTURAL AND FUNCTIONAL CHARACTERIZATION OF RHOGEF REGULATION USING NANODISCS TO ASSEMBLE MEMBRANE-ASSOCIATED SIGNALING SCAFFOLDS - PROJECT SUMMARY/ABSTRACT RHO FAMILY SMALL GTPASES ARE KEY REGULATORS OF ACTIVITIES SUCH AS CELL MIGRATION, GENE TRANSCRIPTION, GROWTH, AND SURVIVAL, PROCESSES INITIATED BY SIGNALING THROUGH DIVERSE SETS OF MOLECULES INCLUDING CYTOKINES, GROWTH FACTORS, AND GPCRS. DBL FAMILY RHO GUANINE-NUCLEOTIDE EXCHANGE FACTORS (RHOGEFS), INCLUDING AROUND 70 MEMBERS, ARE CRITICAL ACTIVATORS OF SIGNALING BY GTPASES SUCH AS RAC, CDC42, AND RHO. RHOGEFS ARE MULTI-DOMAIN PROTEINS THAT FREQUENTLY FUNCTION AS SIGNALING SCAFFOLDS AT CELL MEMBRANES AND PLAY ROLES IN REGULATING OTHER SIGNALING PATHWAYS, A FEATURE CONFERRED BY THEIR COMPLEX ARCHITECTURE AND THE FACT THAT EACH MEMBER HAS A UNIQUE DOMAIN COMPOSITION. AS MAJOR PLAYERS IN PROCESSES UNDERLYING CELL MIGRATION AND DIVISION, SEVERAL RHOGEFS ARE STRONGLY IMPLICATED IN CANCER. DESPITE THEIR CLINICAL IMPORTANCE, THESE PROTEINS ARE VASTLY UNDERSTUDIED AT THE MOLECULAR LEVEL FROM A WHOLE-MOLECULE, MECHANISTIC PERSPECTIVE, AND THERE ARE NO THERAPEUTIC INHIBITORS THAT TARGET THESE ENZYMES. OUR LABORATORY IS PIONEERING THE STUDY OF FULL-LENGTH RHOGEFS AND MECHANISMS IN THEIR REGULATION AT LIPID MEMBRANES, USING CRYO-EM AS A MAJOR APPROACH. OUR LONG-TERM GOAL IS TO UNDERSTAND THE COMPLEX, MULTI-COMPONENT MECHANISMS BEHIND DBL RHOGEF SIGNALING AND REGULATION. WITHIN THIS FAMILY, THE PHOSPHATIDYLINOSITOL 3,4,5-TRISPHOSPHATE (PIP3)-DEPENDENT RAC EXCHANGER (P-REX) SUBFAMILY, INCLUDING P-REX1 AND P-REX2, ACT AS IMPORTANT REGULATORS OF CELL MIGRATION. BOTH ISOFORMS HAVE BEEN ASSOCIATED WITH HUMAN CANCERS, WHEREIN THEY ACT AS PRO-METASTATIC FACTORS. P-REX2 IS COMMONLY MUTATED IN BREAST CANCER AND MELANOMA, WITH MUTATIONS DISTRIBUTED THROUGHOUT THE PROTEIN. ONE STUDY IDENTIFIED IT AS ONE OF THE MOST MUTATED GENES IN HUMAN METASTATIC MELANOMAS. ALTOGETHER, DATA SUPPORT THAT P-REX IS AN IMPORTANT SIGNALING MOLECULE IMPLICATED IN DISEASE AND A SUITABLE THERAPEUTIC TARGET. HOWEVER, EVEN THOUGH P-REX WAS DISCOVERED OVER 15 YEARS AGO, THE MOLECULAR DETAILS OF ITS REGULATORY MECHANISMS ARE STILL NOT FULLY UNDERSTOOD. P-REX PROTEINS ARE HYPOTHESIZED TO BE AUTOINHIBITED IN THEIR INACTIVE, NON-SIGNALING STATES AND ACTIVATED IN MULTI- STEP MECHANISMS. THEY ARE ACTIVATED BY BINDING MEMBRANE-TETHERED G PROTEIN B AND G SUBUNITS, DOWNSTREAM OF GPCR SIGNALING, AND BY BINDING CELL MEMBRANE LIPIDS, INCLUDING THE LIPID PIP3. ADDITIONALLY, P-REX ACTS AS A SIGNALING SCAFFOLD IN VARIOUS CELLULAR CONTEXTS BY BINDING TO SIGNALING PROTEINS LIKE PKA AND PTEN, RESULTING IN CHANGES IN ACTIVITIES OF P-REX AND THE BINDING PARTNER. OUR LONG-TERM GOAL IS TO UNDERSTAND HOW DIFFERENT RHOGEFS TRANSITION BETWEEN THE BASAL AND FULLY ACTIVE STATES AND HOW THIS TRANSITION IS REGULATED, STARTING WITH THE P-REX SUBFAMILY. FURTHERMORE, WE WILL DETERMINE HOW THESE PROTEINS ACT AS SIGNALING SCAFFOLDS AT THE CELL MEMBRANE. USING NANODISCS, WE WILL STUDY THE MULTI-VALENT INTERACTIONS OF RHOGEFS WITH LIPIDS AND REGULATORY MOLECULES, GIVING US UNPRECEDENTED INSIGHT INTO THESE SIGNALING COMPLEXES. MECHANISTIC HYPOTHESES WILL BE TESTED IN VITRO AND IN CANCER CELL LINES. ONCE IMPORTANT REGULATORY SURFACES ARE IDENTIFIED, WE WILL TARGET THESE VIA RATIONAL DESIGN OF THERAPEUTIC MOLECULES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-01",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM146664_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91329785,
+    "generated_unique_award_id": "ASST_NON_R35GM146664_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "STRUCTURAL AND FUNCTIONAL CHARACTERIZATION OF RHOGEF REGULATION USING NANODISCS TO ASSEMBLE MEMBRANE-ASSOCIATED SIGNALING SCAFFOLDS - PROJECT SUMMARY/ABSTRACT RHO FAMILY SMALL GTPASES ARE KEY REGULATORS OF ACTIVITIES SUCH AS CELL MIGRATION, GENE TRANSCRIPTION, GROWTH, AND SURVIVAL, PROCESSES INITIATED BY SIGNALING THROUGH DIVERSE SETS OF MOLECULES INCLUDING CYTOKINES, GROWTH FACTORS, AND GPCRS. DBL FAMILY RHO GUANINE-NUCLEOTIDE EXCHANGE FACTORS (RHOGEFS), INCLUDING AROUND 70 MEMBERS, ARE CRITICAL ACTIVATORS OF SIGNALING BY GTPASES SUCH AS RAC, CDC42, AND RHO. RHOGEFS ARE MULTI-DOMAIN PROTEINS THAT FREQUENTLY FUNCTION AS SIGNALING SCAFFOLDS AT CELL MEMBRANES AND PLAY ROLES IN REGULATING OTHER SIGNALING PATHWAYS, A FEATURE CONFERRED BY THEIR COMPLEX ARCHITECTURE AND THE FACT THAT EACH MEMBER HAS A UNIQUE DOMAIN COMPOSITION. AS MAJOR PLAYERS IN PROCESSES UNDERLYING CELL MIGRATION AND DIVISION, SEVERAL RHOGEFS ARE STRONGLY IMPLICATED IN CANCER. DESPITE THEIR CLINICAL IMPORTANCE, THESE PROTEINS ARE VASTLY UNDERSTUDIED AT THE MOLECULAR LEVEL FROM A WHOLE-MOLECULE, MECHANISTIC PERSPECTIVE, AND THERE ARE NO THERAPEUTIC INHIBITORS THAT TARGET THESE ENZYMES. OUR LABORATORY IS PIONEERING THE STUDY OF FULL-LENGTH RHOGEFS AND MECHANISMS IN THEIR REGULATION AT LIPID MEMBRANES, USING CRYO-EM AS A MAJOR APPROACH. OUR LONG-TERM GOAL IS TO UNDERSTAND THE COMPLEX, MULTI-COMPONENT MECHANISMS BEHIND DBL RHOGEF SIGNALING AND REGULATION. WITHIN THIS FAMILY, THE PHOSPHATIDYLINOSITOL 3,4,5-TRISPHOSPHATE (PIP3)-DEPENDENT RAC EXCHANGER (P-REX) SUBFAMILY, INCLUDING P-REX1 AND P-REX2, ACT AS IMPORTANT REGULATORS OF CELL MIGRATION. BOTH ISOFORMS HAVE BEEN ASSOCIATED WITH HUMAN CANCERS, WHEREIN THEY ACT AS PRO-METASTATIC FACTORS. P-REX2 IS COMMONLY MUTATED IN BREAST CANCER AND MELANOMA, WITH MUTATIONS DISTRIBUTED THROUGHOUT THE PROTEIN. ONE STUDY IDENTIFIED IT AS ONE OF THE MOST MUTATED GENES IN HUMAN METASTATIC MELANOMAS. ALTOGETHER, DATA SUPPORT THAT P-REX IS AN IMPORTANT SIGNALING MOLECULE IMPLICATED IN DISEASE AND A SUITABLE THERAPEUTIC TARGET. HOWEVER, EVEN THOUGH P-REX WAS DISCOVERED OVER 15 YEARS AGO, THE MOLECULAR DETAILS OF ITS REGULATORY MECHANISMS ARE STILL NOT FULLY UNDERSTOOD. P-REX PROTEINS ARE HYPOTHESIZED TO BE AUTOINHIBITED IN THEIR INACTIVE, NON-SIGNALING STATES AND ACTIVATED IN MULTI- STEP MECHANISMS. THEY ARE ACTIVATED BY BINDING MEMBRANE-TETHERED G PROTEIN B AND G SUBUNITS, DOWNSTREAM OF GPCR SIGNALING, AND BY BINDING CELL MEMBRANE LIPIDS, INCLUDING THE LIPID PIP3. ADDITIONALLY, P-REX ACTS AS A SIGNALING SCAFFOLD IN VARIOUS CELLULAR CONTEXTS BY BINDING TO SIGNALING PROTEINS LIKE PKA AND PTEN, RESULTING IN CHANGES IN ACTIVITIES OF P-REX AND THE BINDING PARTNER. OUR LONG-TERM GOAL IS TO UNDERSTAND HOW DIFFERENT RHOGEFS TRANSITION BETWEEN THE BASAL AND FULLY ACTIVE STATES AND HOW THIS TRANSITION IS REGULATED, STARTING WITH THE P-REX SUBFAMILY. FURTHERMORE, WE WILL DETERMINE HOW THESE PROTEINS ACT AS SIGNALING SCAFFOLDS AT THE CELL MEMBRANE. USING NANODISCS, WE WILL STUDY THE MULTI-VALENT INTERACTIONS OF RHOGEFS WITH LIPIDS AND REGULATORY MOLECULES, GIVING US UNPRECEDENTED INSIGHT INTO THESE SIGNALING COMPLEXES. MECHANISTIC HYPOTHESES WILL BE TESTED IN VITRO AND IN CANCER CELL LINES. ONCE IMPORTANT REGULATORY SURFACES ARE IDENTIFIED, WE WILL TARGET THESE VIA RATIONAL DESIGN OF THERAPEUTIC MOLECULES.",
+    "total_obligation": 1577420,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-07-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1148452.67,
+    "total_account_obligation": 1577420,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1148452.67
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1577420
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1148452.67
+  }
+}

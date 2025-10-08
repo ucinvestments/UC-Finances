@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91176408,
+    "Award ID": "R01DK136815",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2040036,
+    "Total Outlays": 1236267.12,
+    "Description": "MECHANISTIC AND THERAPEUTIC ROLE OF THE TLR4 SIGNALING PATHWAY IN TYPE 1 DIABETES - TYPE 1 DIABETES (T1D) IS CAUSED BY AUTOIMMUNE DESTRUCTION OF INSULIN-PRODUCING PANCREATIC BETA CELLS. T1D THERAPIES HAVE LARGELY FAILED IN HUMAN CLINICAL TRIALS AND THUS AN URGENT NEED EXISTS FOR TARGETING NOVEL IMMUNE PATHWAYS. WE HAVE EXCITING DATA SHOWING THAT A TLR4/MD2 AGONISTIC ANTIBODY (TLR4-AB) PERMANENTLY REVERSED T1D IN 71%, AND HAD A SIGNIFICANT CLINICAL EFFECT IN 90%, OF ACUTELY DIABETIC NON-OBESE DIABETIC (NOD) MICE. IN OUR RECENT DIABETES PAPER, WE SHOWED THAT TLR4-AB CAN MOBILIZE AND ACTIVATE MYELOID-DERIVED SUPPRESSOR CELLS (MDSC) IN VIVO, THAT SUPPRESS T CELLS AND AMELIORATE ACUTE T1D UPON ADOPTIVE TRANSFER. WE SHOWED THAT TLR4- AB INDUCES TLR4/MD-2 SEQUESTRATION IN ENDOSOMES, UNLIKE THE CANONICAL TLR4 AGONIST LPS (WHICH CANNOT REVERSE T1D); HOWEVER, THE MECHANISM BY WHICH TLR4-AB REVERSES T1D REMAINS UNCLEAR. WE HAVE NOW PRODUCED ANTI-HUMAN TLR4 ANTIBODIES, ALLOWING US TO APPLY THESE FINDINGS TO HUMAN T1D. OUR COMBINED EXPERTISE IN AUTOIMMUNITY/T1D (RIDGWAY), MOLECULAR BIOPHYSICS/IMMUNOLOGY (HERR) AND HUMAN T1D (DOLAN) IS WELL SUITED TO PERFORM THESE STUDIES. WE WILL PURSUE THREE AIMS: SPECIFIC AIM 1. MECHANISM OF REVERSAL OF T1D BY TLR4-AB-INDUCED MDSCS. TLR4-AB ENDOSOMAL SEQUESTRATION MAY INDUCE PROLONGED SIGNALING VIA THE TLR4-MEDIATED TRIF PATHWAY, WHICH PROTECTS FROM T1D (2015, CHERVONSKY ET AL.). WE SHOW THAT IMMOBILIZATION OF TLR4-AB ON A PLATE, WHICH PREVENTS ENDOSOMAL SEQUESTRATION, ELIMINATED TLR4 SIGNALING. THEREFORE, WE HYPOTHESIZE THAT TLR4-AB-INDUCED TLR4/MD2 ENDOSOMAL SEQUESTRATION CAUSES SUSTAINED TRIF ENDOSOMAL SIGNALING THAT INDUCES APCS TO UNDERGO MDSC MATURATION, INDUCING IMMUNE REGULATION AND REVERSING T1D. SPECIFIC AIM 2. MECHANISTIC ROLE OF FC STRUCTURE IN TLR4-AB REVERSAL OF T1D AND CELL SUPPRESSION. WHILE ANTIBODY F(AB) STRUCTURE DETERMINES SPECIFICITY, THE FC REGION CONTRIBUTES TO ANTIBODY FUNCTION THROUGH RECEPTOR BINDING AND GLYCOSYLATION. TLR4-AB IS AN IGG3 ISOTYPE, WHICH HAS THE LONGEST HINGE REGION AND INCREASED GLYCOSYLATION SITES. IGG3 ANTIBODIES ALSO FORM CRYOGLOBULINS, IMPACTING AVIDITY AND INTERNALIZATION. OUR PRELIMINARY DATA SHOW THAT TLR4-AB F(AB) AND F(AB’)2 FRAGMENTS ELICIT DECREASED NFB SIGNALING COMPARED TO FULL-LENGTH TLR4-AB. THIS SHOWS A CRITICAL ROLE FOR FC STRUCTURE IN TLR4-AB FUNCTION. THEREFORE, WE HYPOTHESIZE THAT THE IGG3 FC PORTION OF THE TLR4-AB IS CRITICAL TO ITS TOLERIZING FUNCTION AND WE WILL TEST THIS WITH IMMUNOLOGICAL AND MOLECULAR BIOPHYSICAL APPROACHES. SPECIFIC AIM 3. TESTING THERAPEUTIC EFFECTS OF A NOVEL PANEL OF HUMAN ANTI-TLR4 ANTIBODIES ON HUMAN T1D APCS SINCE THE TLR4/MD2 PATHWAY IS STRONGLY EVOLUTIONARILY CONSERVED, WE HAVE DEVELOPED AGONISTIC HUMAN RECOMBINANT TLR4-AB (HTLR4-AB). WE SHOW HERE THAT THESE HTLR4-ABS BIND TO, AND ACTIVATE TLR4/MD2. OUR HYPOTHESIS IS THAT HTLR4-AB TREATMENT WILL INDUCE MDSCS FROM MYELOID PRECURSORS AND THAT THESE HUMDSCS WILL SUPPRESS HUMAN T-CELL PROLIFERATION AND ACTIVATION. THESE STUDIES WILL CHARACTERIZE NOVEL INNATE IMMUNE MECHANISMS BY WHICH TLR4-AB TREATMENT CAN REVERSE ACUTE T1D, AND OUR STUDIES ON THE NOVEL HUMAN TLR4 ANTIBODIES ARE THE FIRST STEP IN TRANSLATION TO HUMAN T1D.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-01",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DK136815_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91176408,
+    "generated_unique_award_id": "ASST_NON_R01DK136815_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MECHANISTIC AND THERAPEUTIC ROLE OF THE TLR4 SIGNALING PATHWAY IN TYPE 1 DIABETES - TYPE 1 DIABETES (T1D) IS CAUSED BY AUTOIMMUNE DESTRUCTION OF INSULIN-PRODUCING PANCREATIC BETA CELLS. T1D THERAPIES HAVE LARGELY FAILED IN HUMAN CLINICAL TRIALS AND THUS AN URGENT NEED EXISTS FOR TARGETING NOVEL IMMUNE PATHWAYS. WE HAVE EXCITING DATA SHOWING THAT A TLR4/MD2 AGONISTIC ANTIBODY (TLR4-AB) PERMANENTLY REVERSED T1D IN 71%, AND HAD A SIGNIFICANT CLINICAL EFFECT IN 90%, OF ACUTELY DIABETIC NON-OBESE DIABETIC (NOD) MICE. IN OUR RECENT DIABETES PAPER, WE SHOWED THAT TLR4-AB CAN MOBILIZE AND ACTIVATE MYELOID-DERIVED SUPPRESSOR CELLS (MDSC) IN VIVO, THAT SUPPRESS T CELLS AND AMELIORATE ACUTE T1D UPON ADOPTIVE TRANSFER. WE SHOWED THAT TLR4- AB INDUCES TLR4/MD-2 SEQUESTRATION IN ENDOSOMES, UNLIKE THE CANONICAL TLR4 AGONIST LPS (WHICH CANNOT REVERSE T1D); HOWEVER, THE MECHANISM BY WHICH TLR4-AB REVERSES T1D REMAINS UNCLEAR. WE HAVE NOW PRODUCED ANTI-HUMAN TLR4 ANTIBODIES, ALLOWING US TO APPLY THESE FINDINGS TO HUMAN T1D. OUR COMBINED EXPERTISE IN AUTOIMMUNITY/T1D (RIDGWAY), MOLECULAR BIOPHYSICS/IMMUNOLOGY (HERR) AND HUMAN T1D (DOLAN) IS WELL SUITED TO PERFORM THESE STUDIES. WE WILL PURSUE THREE AIMS: SPECIFIC AIM 1. MECHANISM OF REVERSAL OF T1D BY TLR4-AB-INDUCED MDSCS. TLR4-AB ENDOSOMAL SEQUESTRATION MAY INDUCE PROLONGED SIGNALING VIA THE TLR4-MEDIATED TRIF PATHWAY, WHICH PROTECTS FROM T1D (2015, CHERVONSKY ET AL.). WE SHOW THAT IMMOBILIZATION OF TLR4-AB ON A PLATE, WHICH PREVENTS ENDOSOMAL SEQUESTRATION, ELIMINATED TLR4 SIGNALING. THEREFORE, WE HYPOTHESIZE THAT TLR4-AB-INDUCED TLR4/MD2 ENDOSOMAL SEQUESTRATION CAUSES SUSTAINED TRIF ENDOSOMAL SIGNALING THAT INDUCES APCS TO UNDERGO MDSC MATURATION, INDUCING IMMUNE REGULATION AND REVERSING T1D. SPECIFIC AIM 2. MECHANISTIC ROLE OF FC STRUCTURE IN TLR4-AB REVERSAL OF T1D AND CELL SUPPRESSION. WHILE ANTIBODY F(AB) STRUCTURE DETERMINES SPECIFICITY, THE FC REGION CONTRIBUTES TO ANTIBODY FUNCTION THROUGH RECEPTOR BINDING AND GLYCOSYLATION. TLR4-AB IS AN IGG3 ISOTYPE, WHICH HAS THE LONGEST HINGE REGION AND INCREASED GLYCOSYLATION SITES. IGG3 ANTIBODIES ALSO FORM CRYOGLOBULINS, IMPACTING AVIDITY AND INTERNALIZATION. OUR PRELIMINARY DATA SHOW THAT TLR4-AB F(AB) AND F(AB’)2 FRAGMENTS ELICIT DECREASED NFB SIGNALING COMPARED TO FULL-LENGTH TLR4-AB. THIS SHOWS A CRITICAL ROLE FOR FC STRUCTURE IN TLR4-AB FUNCTION. THEREFORE, WE HYPOTHESIZE THAT THE IGG3 FC PORTION OF THE TLR4-AB IS CRITICAL TO ITS TOLERIZING FUNCTION AND WE WILL TEST THIS WITH IMMUNOLOGICAL AND MOLECULAR BIOPHYSICAL APPROACHES. SPECIFIC AIM 3. TESTING THERAPEUTIC EFFECTS OF A NOVEL PANEL OF HUMAN ANTI-TLR4 ANTIBODIES ON HUMAN T1D APCS SINCE THE TLR4/MD2 PATHWAY IS STRONGLY EVOLUTIONARILY CONSERVED, WE HAVE DEVELOPED AGONISTIC HUMAN RECOMBINANT TLR4-AB (HTLR4-AB). WE SHOW HERE THAT THESE HTLR4-ABS BIND TO, AND ACTIVATE TLR4/MD2. OUR HYPOTHESIS IS THAT HTLR4-AB TREATMENT WILL INDUCE MDSCS FROM MYELOID PRECURSORS AND THAT THESE HUMDSCS WILL SUPPRESS HUMAN T-CELL PROLIFERATION AND ACTIVATION. THESE STUDIES WILL CHARACTERIZE NOVEL INNATE IMMUNE MECHANISMS BY WHICH TLR4-AB TREATMENT CAN REVERSE ACUTE T1D, AND OUR STUDIES ON THE NOVEL HUMAN TLR4 ANTIBODIES ARE THE FIRST STEP IN TRANSLATION TO HUMAN T1D.",
+    "total_obligation": 2040036,
+    "subaward_count": 2,
+    "total_subaward_amount": 606756,
+    "date_signed": "2023-08-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1236267.12,
+    "total_account_obligation": 2040036,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1236267.12
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2040036
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1236267.12
+  }
+}

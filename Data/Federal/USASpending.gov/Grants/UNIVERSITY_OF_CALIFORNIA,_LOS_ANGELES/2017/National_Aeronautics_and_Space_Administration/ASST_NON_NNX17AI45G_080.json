@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89967759,
+    "Award ID": "NNX17AI45G",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 730816.87,
+    "Total Outlays": 318630.27,
+    "Description": "SCIENCE GOALS AND OBJECTIVES MAGNETOSHEATH HIGH-SPEED JETS (HSJS) - DYNAMIC PRESSURE ENHANCEMENTS TYPICALLY OF ~1 EARTH RADIUS IN SIZE - ARE THE MOST COMMON DAYSIDE TRANSIENT. THEY IMPACT THE MAGNETOPAUSE MANY TIMES PER HOUR  ESPECIALLY DURING INTERVALS OF LOW INTERPLANETARY MAGNETIC FIELD CONE-ANGLE. EMERGING FROM KINETIC PROCESSES AT THE QUASI-PARALLEL BOW SHOCK  THE JETS ARE IMPORTANT MEDIATORS OF CROSS-SCALE COUPLING. UPON IMPACT THEY CAUSE MAGNETOPAUSE INDENTATIONS  AND CAN COUPLE TO GLOBAL DYNAMICS BY DRIVING MAGNETOSPHERIC WAVES AND BY AFFECTING SUBSOLAR MAGNETOPAUSE RECONNECTION. ADDITIONALLY  HSJS STIR MAGNETOSHEATH TURBULENCE. STRONG GRADIENTS AT JET BOUNDARIES RESULT IN SHOCK-LIKE STRUCTURES AND THIN CURRENT SHEETS CONDUCIVE OF RECONNECTION  MAKING THEM POSSIBLE SITES OF PARTICLE ACCELERATION. SUCH THERMALIZATION CAN PRECONDITION THE MAGNETOSHEATH BEFORE IT MEETS THE MAGNETOPAUSE. PREVIOUS OBSERVATIONS HAVE PROVIDED INSIGHT INTO THE HSJ PROPERTIES. TWO-DIMENSIONAL (2D) HYBRID SIMULATIONS HAVE DEMONSTRATED THE FORMATION OF JETS DOWNSTREAM OF THE QUASI-PARALLEL SHOCK USING STABLE SOLAR WIND INPUTS. HOWEVER  KEY AREAS REMAIN POORLY UNDERSTOOD. WE NEED TO KNOW THE 3D TOPOLOGY OF THE MAGNETIC FIELD  FLOWS  AND THE JETS THEMSELVES AS IT DETERMINES HOW THEY INTERACT WITH THE MAGNETOPAUSE. THE MICRO-INSTABILITIES AND PARTICLE DYNAMICS TAKING PLACE AT HSJ BOUNDARIES ARE LARGELY UNEXPLORED. IT IS ALSO UNCLEAR HOW SOLAR WIND TURBULENCE CHANGES THE HSJ OCCURRENCE AND PROPERTIES BY AFFECTING THE SURROUNDING MAGNETOSHEATH AND THE GENERATING PROCESSES AT THE BOW SHOCK. THESE QUESTIONS CAN ONLY BE ADDRESSED WITH A COMBINATION OF MULTI-POINT DATA ANALYSIS AND 3D KINETIC MODELING. DUE TO THE AVAILABILITY OF SUCH DATA FROM RECENT SPACECRAFT FLEETS AND THE COMING OF AGE OF 3D HYBRID AND KINETIC MODELS AND COMPUTATIONAL RESOURCES  FOR THE FIRST TIME WE CAN MAKE SIGNIFICANT STRIDES IN THIS AREA. OUR OBJECTIVE IS TO STUDY THE ROLE OF HSJS IN DAYSIDE DYNAMICS FROM MICROSCOPIC TO GLOBAL SCALES. WE PROPOSE TO ADDRESS THE FOLLOWING SCIENCE QUESTIONS: 1) WHAT IS THE 3D TOPOLOGY OF THE MAGNETIC FIELD AND FLOWS RELATED TO HSJS? HOW DOES THIS TOPOLOGY AFFECT THE JET EVOLUTION AND INTERACTION WITH THE MAGNETOPAUSE? 2) DO JETS DRIVE SIGNIFICANT TURBULENCE  RECONNECTION  AND PARTICLE ACCELERATION WITHIN THE MAGNETOSHEATH? WHAT IS THEIR CONTRIBUTION TO MAGNETOSHEATH HEATING? 3) HOW DOES INPUT SOLAR WIND TURBULENCE CHANGE HSJ OCCURRENCE AND PROPERTIES? WHAT ARE THE RELATIVE CONTRIBUTIONS OF THE TRANSMITTED TURBULENCE AND HSJ-DRIVEN TURBULENCE TO MAGNETOSHEATH PROPERTIES? METHODS WE WILL RUN GLOBAL HYBRID SIMULATIONS  AS WELL AS LOCAL HYBRID AND FULL PARTICLE-IN-CELL SIMULATIONS OF A SHOCK IN A BOX AND/OR JETS IMPOSED ON A BACKGROUND FLOW. WE WILL USE A THEMIS DATASET OF ~3000 HSJS (~660 SEEN SIMULTANEOUSLY BY AT LEAST TWO PROBES) AND THEIR OMNI SOLAR WIND CONDITIONS  AND MULTI-SPACECRAFT CASE EVENTS FROM DIFFERENT THEMIS CONFIGURATIONS AND MMS OBSERVATIONS. WE WILL 1) ANALYZE THE JET TOPOLOGY AND EVOLUTION IN SIMULATIONS  VARYING THE PLANETARY DIPOLE STRENGTH TO QUANTIFY THE EFFECTS OF SYSTEM SIZE. COMPARE WITH MULTI-POINT OBSERVATIONS. 2) ANALYZE JET BOUNDARY LAYERS IN SIMULATIONS. COMPARE WITH MMS CASE OBSERVATIONS AND ~400 SUPERMAGNETOSONIC THEMIS HSJS. 3) SIMULATE DIFFERENT LEVELS OF INPUT TURBULENCE. COMPARE WITH HSJ OBSERVATIONS DURING CORONAL MASS EJECTION SHEATH (HIGH LEVEL) AND EJECTA (LOW LEVEL) INTERVALS. RELEVANCE TO DECADAL SURVEY GOALS THE PROPOSED WORK IS RELEVANT TO ALL FOUR GOALS. THE FINDINGS WILL HELP PREDICT CHANGES IN THE SPACE ENVIRONMENT (GOAL 1)  BY INCREASED UNDERSTANDING OF THE ROLE OF DAYSIDE TRANSIENTS IN GLOBAL COUPLING (GOAL 2). SAME PROCESSES ARE EXPECTED AT OTHER SHOCKS IN THE HELIOSPHERE WHEN THE SUN INTERACTS WITH THE SOLAR SYSTEM (GOAL 3). THE INVESTIGATION CONNECTS SHOCKS  TURBULENCE  AND RECONNECTION - FUNDAMENTAL PROCESSES OCCURRING ACROSS THE UNIVERSE (GOAL 4).",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "33",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "90095"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "33",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "90095-1301",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2017-04-01",
+    "End Date": "2021-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_NNX17AI45G_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89967759,
+    "generated_unique_award_id": "ASST_NON_NNX17AI45G_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SCIENCE GOALS AND OBJECTIVES MAGNETOSHEATH HIGH-SPEED JETS (HSJS) - DYNAMIC PRESSURE ENHANCEMENTS TYPICALLY OF ~1 EARTH RADIUS IN SIZE - ARE THE MOST COMMON DAYSIDE TRANSIENT. THEY IMPACT THE MAGNETOPAUSE MANY TIMES PER HOUR  ESPECIALLY DURING INTERVALS OF LOW INTERPLANETARY MAGNETIC FIELD CONE-ANGLE. EMERGING FROM KINETIC PROCESSES AT THE QUASI-PARALLEL BOW SHOCK  THE JETS ARE IMPORTANT MEDIATORS OF CROSS-SCALE COUPLING. UPON IMPACT THEY CAUSE MAGNETOPAUSE INDENTATIONS  AND CAN COUPLE TO GLOBAL DYNAMICS BY DRIVING MAGNETOSPHERIC WAVES AND BY AFFECTING SUBSOLAR MAGNETOPAUSE RECONNECTION. ADDITIONALLY  HSJS STIR MAGNETOSHEATH TURBULENCE. STRONG GRADIENTS AT JET BOUNDARIES RESULT IN SHOCK-LIKE STRUCTURES AND THIN CURRENT SHEETS CONDUCIVE OF RECONNECTION  MAKING THEM POSSIBLE SITES OF PARTICLE ACCELERATION. SUCH THERMALIZATION CAN PRECONDITION THE MAGNETOSHEATH BEFORE IT MEETS THE MAGNETOPAUSE. PREVIOUS OBSERVATIONS HAVE PROVIDED INSIGHT INTO THE HSJ PROPERTIES. TWO-DIMENSIONAL (2D) HYBRID SIMULATIONS HAVE DEMONSTRATED THE FORMATION OF JETS DOWNSTREAM OF THE QUASI-PARALLEL SHOCK USING STABLE SOLAR WIND INPUTS. HOWEVER  KEY AREAS REMAIN POORLY UNDERSTOOD. WE NEED TO KNOW THE 3D TOPOLOGY OF THE MAGNETIC FIELD  FLOWS  AND THE JETS THEMSELVES AS IT DETERMINES HOW THEY INTERACT WITH THE MAGNETOPAUSE. THE MICRO-INSTABILITIES AND PARTICLE DYNAMICS TAKING PLACE AT HSJ BOUNDARIES ARE LARGELY UNEXPLORED. IT IS ALSO UNCLEAR HOW SOLAR WIND TURBULENCE CHANGES THE HSJ OCCURRENCE AND PROPERTIES BY AFFECTING THE SURROUNDING MAGNETOSHEATH AND THE GENERATING PROCESSES AT THE BOW SHOCK. THESE QUESTIONS CAN ONLY BE ADDRESSED WITH A COMBINATION OF MULTI-POINT DATA ANALYSIS AND 3D KINETIC MODELING. DUE TO THE AVAILABILITY OF SUCH DATA FROM RECENT SPACECRAFT FLEETS AND THE COMING OF AGE OF 3D HYBRID AND KINETIC MODELS AND COMPUTATIONAL RESOURCES  FOR THE FIRST TIME WE CAN MAKE SIGNIFICANT STRIDES IN THIS AREA. OUR OBJECTIVE IS TO STUDY THE ROLE OF HSJS IN DAYSIDE DYNAMICS FROM MICROSCOPIC TO GLOBAL SCALES. WE PROPOSE TO ADDRESS THE FOLLOWING SCIENCE QUESTIONS: 1) WHAT IS THE 3D TOPOLOGY OF THE MAGNETIC FIELD AND FLOWS RELATED TO HSJS? HOW DOES THIS TOPOLOGY AFFECT THE JET EVOLUTION AND INTERACTION WITH THE MAGNETOPAUSE? 2) DO JETS DRIVE SIGNIFICANT TURBULENCE  RECONNECTION  AND PARTICLE ACCELERATION WITHIN THE MAGNETOSHEATH? WHAT IS THEIR CONTRIBUTION TO MAGNETOSHEATH HEATING? 3) HOW DOES INPUT SOLAR WIND TURBULENCE CHANGE HSJ OCCURRENCE AND PROPERTIES? WHAT ARE THE RELATIVE CONTRIBUTIONS OF THE TRANSMITTED TURBULENCE AND HSJ-DRIVEN TURBULENCE TO MAGNETOSHEATH PROPERTIES? METHODS WE WILL RUN GLOBAL HYBRID SIMULATIONS  AS WELL AS LOCAL HYBRID AND FULL PARTICLE-IN-CELL SIMULATIONS OF A SHOCK IN A BOX AND/OR JETS IMPOSED ON A BACKGROUND FLOW. WE WILL USE A THEMIS DATASET OF ~3000 HSJS (~660 SEEN SIMULTANEOUSLY BY AT LEAST TWO PROBES) AND THEIR OMNI SOLAR WIND CONDITIONS  AND MULTI-SPACECRAFT CASE EVENTS FROM DIFFERENT THEMIS CONFIGURATIONS AND MMS OBSERVATIONS. WE WILL 1) ANALYZE THE JET TOPOLOGY AND EVOLUTION IN SIMULATIONS  VARYING THE PLANETARY DIPOLE STRENGTH TO QUANTIFY THE EFFECTS OF SYSTEM SIZE. COMPARE WITH MULTI-POINT OBSERVATIONS. 2) ANALYZE JET BOUNDARY LAYERS IN SIMULATIONS. COMPARE WITH MMS CASE OBSERVATIONS AND ~400 SUPERMAGNETOSONIC THEMIS HSJS. 3) SIMULATE DIFFERENT LEVELS OF INPUT TURBULENCE. COMPARE WITH HSJ OBSERVATIONS DURING CORONAL MASS EJECTION SHEATH (HIGH LEVEL) AND EJECTA (LOW LEVEL) INTERVALS. RELEVANCE TO DECADAL SURVEY GOALS THE PROPOSED WORK IS RELEVANT TO ALL FOUR GOALS. THE FINDINGS WILL HELP PREDICT CHANGES IN THE SPACE ENVIRONMENT (GOAL 1)  BY INCREASED UNDERSTANDING OF THE ROLE OF DAYSIDE TRANSIENTS IN GLOBAL COUPLING (GOAL 2). SAME PROCESSES ARE EXPECTED AT OTHER SHOCKS IN THE HELIOSPHERE WHEN THE SUN INTERACTS WITH THE SOLAR SYSTEM (GOAL 3). THE INVESTIGATION CONNECTS SHOCKS  TURBULENCE  AND RECONNECTION - FUNDAMENTAL PROCESSES OCCURRING ACROSS THE UNIVERSE (GOAL 4).",
+    "total_obligation": 730816.87,
+    "subaward_count": 4,
+    "total_subaward_amount": 410034,
+    "date_signed": "2017-05-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 318630.27,
+    "total_account_obligation": -2.22,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 318630.27
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -2.22
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2017-04-01",
+      "end_date": "2021-09-30",
+      "last_modified_date": "2022-03-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": "092530369",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "0001",
+        "zip5": "90095",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "1301",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 318630.27
+  }
+}

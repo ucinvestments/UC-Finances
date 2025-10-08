@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56320099,
+    "Award ID": "20207002933202",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 10000000,
+    "Total Outlays": 6728605.32,
+    "Description": "THE RESEARCH OBJECTIVE OF THIS PROPOSAL IS TO INVESTIGATE THE ROOT COLLAPSE ASSOCIATED WITH HUANGLONGBING (HLB)-IMPACTED TREES AND WAYS TO MITIGATE IT BY PROMOTING ROOT HEALTH. OUR PREVIOUS WORK DEMONSTRATES THAT AS HLB SEVERITY INCREASES, THE ROOT MICROBIOME BECOMES ENRICHED IN SOIL-BORNE PATHOGENS. WE WILL CONDUCT EXPERIMENTS TO EMPIRICALLY DETERMINE IF THESE PATHOGENS EXACERBATE THE HLB-ASSOCIATED ROOT AND CANOPY DECLINE. WE WILL INTEGRATE FIELD STUDIES THAT TEST HLB RESISTANT/TOLERANT ROOTSTOCKS AND USE OF SOIL AMENDMENTS THAT PROMOTE ROOT HEALTH TO DETERMINE IF THEY SUPPRESS PATHOGENS IN THE ROOTS AND PROLONG TREE LONGEVITY/PRODUCTIVITY UNDER HLB PRESSURE. THESE FIELD STUDIES WILL INCLUDE NEWLY ESTABLISHED GROVES AND MATURE GROVES. TO SUPPORT OUR FIELD TRIALS AND DECIPHER THE GENES/GENE PATHWAYS THAT DICTATE HOW PLANTS RESPOND TO HLB, WE WILL DETERMINE HOW ROOTSTOCKS AND SCIONS RESPOND TOCANDIDATUSLIBERIBACTER ASIATICUS USING CITRUS VARIETIES THAT ARE EITHER HIGHLY HLB-SUSCEPTIBLE OR HLB-RESISTANT USING A COMBINATION OF DISEASE PHENOTYPING AND GENE EXPRESSION ANALYSES. WE WILL INTEGRATE THIS RESEARCH WITH A ROBUST EXTENSION AND OUTREACH PROGRAM IN COMBINATION WITH AN ECONOMIC COST-BENEFIT ANALYSIS STRUCTURED AROUND ADOPTION OF TREATMENTS THAT ENHANCE ROOT HEALTH INTO COMMERCIAL CITRICULTURE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2020-09-01",
+    "End Date": "2026-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20207002933202_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56320099,
+    "generated_unique_award_id": "ASST_NON_20207002933202_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE RESEARCH OBJECTIVE OF THIS PROPOSAL IS TO INVESTIGATE THE ROOT COLLAPSE ASSOCIATED WITH HUANGLONGBING (HLB)-IMPACTED TREES AND WAYS TO MITIGATE IT BY PROMOTING ROOT HEALTH. OUR PREVIOUS WORK DEMONSTRATES THAT AS HLB SEVERITY INCREASES, THE ROOT MICROBIOME BECOMES ENRICHED IN SOIL-BORNE PATHOGENS. WE WILL CONDUCT EXPERIMENTS TO EMPIRICALLY DETERMINE IF THESE PATHOGENS EXACERBATE THE HLB-ASSOCIATED ROOT AND CANOPY DECLINE. WE WILL INTEGRATE FIELD STUDIES THAT TEST HLB RESISTANT/TOLERANT ROOTSTOCKS AND USE OF SOIL AMENDMENTS THAT PROMOTE ROOT HEALTH TO DETERMINE IF THEY SUPPRESS PATHOGENS IN THE ROOTS AND PROLONG TREE LONGEVITY/PRODUCTIVITY UNDER HLB PRESSURE. THESE FIELD STUDIES WILL INCLUDE NEWLY ESTABLISHED GROVES AND MATURE GROVES. TO SUPPORT OUR FIELD TRIALS AND DECIPHER THE GENES/GENE PATHWAYS THAT DICTATE HOW PLANTS RESPOND TO HLB, WE WILL DETERMINE HOW ROOTSTOCKS AND SCIONS RESPOND TOCANDIDATUSLIBERIBACTER ASIATICUS USING CITRUS VARIETIES THAT ARE EITHER HIGHLY HLB-SUSCEPTIBLE OR HLB-RESISTANT USING A COMBINATION OF DISEASE PHENOTYPING AND GENE EXPRESSION ANALYSES. WE WILL INTEGRATE THIS RESEARCH WITH A ROBUST EXTENSION AND OUTREACH PROGRAM IN COMBINATION WITH AN ECONOMIC COST-BENEFIT ANALYSIS STRUCTURED AROUND ADOPTION OF TREATMENTS THAT ENHANCE ROOT HEALTH INTO COMMERCIAL CITRICULTURE.",
+    "total_obligation": 10000000,
+    "subaward_count": 2,
+    "total_subaward_amount": 3036632,
+    "date_signed": "2020-09-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 7113016.65,
+    "total_account_obligation": 10000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 7113016.65
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 10000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2020-09-01",
+      "end_date": "2026-08-31",
+      "last_modified_date": "2025-04-07",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 7113016.65
+  }
+}

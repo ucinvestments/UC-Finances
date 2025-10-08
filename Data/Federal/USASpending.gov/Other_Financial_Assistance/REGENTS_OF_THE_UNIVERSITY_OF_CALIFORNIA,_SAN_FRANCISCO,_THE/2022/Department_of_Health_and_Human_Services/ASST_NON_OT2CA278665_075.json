@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 90267003,
+    "Award ID": "OT2CA278665",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+    "Award Amount": 6721823,
+    "Total Outlays": 3607518.66,
+    "Description": "PROMINENT - UCSF - THE CANCER RESEARCH COMMUNITY IS ON THE VERGE OF A MAJOR LEAP IN OUR UNDERSTANDING OF THE FACTORS THAT CONTRIBUTE TO HUMAN CANCER RISK. WHILE IT IS CLEAR THAT MUTATIONS IN DNA, EITHER SPONTANEOUS OR ENVIRONMENTALLY INDUCED, ARE ESSENTIAL FOR CANCER DEVELOPMENT, RECENT ADVANCES HAVE HIGHLIGHTED THE IMPORTANCE OF NON-MUTAGENIC FACTORS AS RATE-LIMITING DETERMINANTS OF CANCER RISK IN HUMAN POPULATIONS AND IN MOUSE CANCER MODELS.  THE ROOT CAUSES OF HUMAN CANCER HAVE BEEN WIDELY DEBATED, BUT MOST OF THE EMPHASIS HAS BEEN ON THE ORIGINS OF THE “DRIVER” MUTATIONS THAT ARE UBIQUITOUS IN HUMAN TUMOURS. ALTHOUGH EPIDEMIOLOGY STUDIES HAVE HIGHLIGHTED THE POSSIBLE ROLES OF LIFESTYLE FACTORS SUCH AS OBESITY, ALCOHOL CONSUMPTION, INFLAMMATION AND POOR DIET IN CANCER RISK, IT HAS GENERALLY BEEN ASSUMED THAT THESE FACTORS ACT DIRECTLY OR INDIRECTLY TO CAUSE MUTATIONS IN DNA, THUS CONTRIBUTING TO TUMOUR MUTATIONAL BURDEN AND RESULTING IN INCREASED CANCER RISK. IN CONTRAST, RECENT SEQUENCING STUDIES HAVE UNCOVERED ABUNDANT MUTATIONS IN NORMAL HUMAN TISSUES, SUGGESTING THAT EVEN STRONG CANCER DRIVER MUTATIONS ARE NOT SUFFICIENT FOR CANCER FORMATION. THESE RESULTS WERE PRESAGED BY STUDIES OF MOUSE TUMOUR MODELS, SOME CARRIED OUT MORE THAN 50 YEARS AGO, SHOWING THAT PROMOTION IS THE RATE-LIMITING STEP IN TUMOUR DEVELOPMENT. TO IDENTIFY THE MECHANISMS THAT CONTROL MUTATED NORMAL CELLS, AND TO ELUCIDATE THE PRECISE MECHANISMS BY WHICH PROMOTING FACTORS STIMULATE THE CONVERSION OF THESE CELLS TO NEOPLASTIC GROWTH, WE HAVE ASSEMBLED A MULTIDISCIPLINARY TEAM OF INVESTIGATORS WITH WIDE-RANGING EXPERIENCE IN EPIDEMIOLOGY, GENETICS, COMPUTATIONAL NETWORK ANALYSIS AND MACHINE LEARNING, TISSUE IMAGING OF GENE EXPRESSION, SINGLE CELL TRANSCRIPTOMICS, AND GENOME-WIDE CRISPR FUNCTIONAL SCREENS. WE WILL FOCUS HUMAN ANALYSIS ON A UNIQUE COLLECTION OF SEVERAL THOUSAND HUMAN NORMAL AND MATCHED TUMOUR SAMPLES FROM \u003e20 COUNTRIES, INCLUDING REGIONS OF BOTH HIGH AND LOW CANCER RISK. DETAILED RISK FACTOR INFORMATION AND WHOLE GENOME SEQUENCE DATA IS AVAILABLE FROM ALL THESE SAMPLES AS PART OF THE GRAND CHALLENGE MUTOGRAPHS STUDY. ANALYSIS OF THESE SAMPLES, TOGETHER WITH DETAILED INTERVENTION STUDIES IN HUMAN POPULATIONS, MOUSE MODELS AND HUMAN ORGANOIDS, WILL ALLOW US TO DEVELOP A ROADMAP OF TUMOUR PROMOTION FROM SINGLE NORMAL CELLS CARRYING DRIVER MUTATIONS, THROUGH TO MALIGNANT PROGRESSION. OUR FINDINGS WILL FACILITATE IDENTIFICATION OF THE CAUSATIVE ENVIRONMENTAL FACTORS THAT PROMOTE CANCER AND PROVIDE ROUTES TO NEW METHODS AND APPROACHES TO CANCER PREVENTION BASED ON A DEEPER UNDERSTANDING OF THE PROCESS OF INITIATED CELL SELECTION BY TUMOUR PROMOTING AGENTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "KMH5K9V7S518",
+    "Recipient Location": {
+      "address_line1": "1855 FOLSOM ST STE 425",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4249",
+      "zip5": "94103"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94118",
+      "zip5": "94118"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-06-22",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_OT2CA278665_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 90267003,
+    "generated_unique_award_id": "ASST_NON_OT2CA278665_075",
+    "piid": "",
+    "category": "direct payment",
+    "type": "06",
+    "type_description": "DIRECT PAYMENT FOR SPECIFIED USE, AS A SUBSIDY OR OTHER NON-REIMBURSABLE DIRECT FINANCIAL AID (C)",
+    "description": "PROMINENT - UCSF - THE CANCER RESEARCH COMMUNITY IS ON THE VERGE OF A MAJOR LEAP IN OUR UNDERSTANDING OF THE FACTORS THAT CONTRIBUTE TO HUMAN CANCER RISK. WHILE IT IS CLEAR THAT MUTATIONS IN DNA, EITHER SPONTANEOUS OR ENVIRONMENTALLY INDUCED, ARE ESSENTIAL FOR CANCER DEVELOPMENT, RECENT ADVANCES HAVE HIGHLIGHTED THE IMPORTANCE OF NON-MUTAGENIC FACTORS AS RATE-LIMITING DETERMINANTS OF CANCER RISK IN HUMAN POPULATIONS AND IN MOUSE CANCER MODELS.  THE ROOT CAUSES OF HUMAN CANCER HAVE BEEN WIDELY DEBATED, BUT MOST OF THE EMPHASIS HAS BEEN ON THE ORIGINS OF THE “DRIVER” MUTATIONS THAT ARE UBIQUITOUS IN HUMAN TUMOURS. ALTHOUGH EPIDEMIOLOGY STUDIES HAVE HIGHLIGHTED THE POSSIBLE ROLES OF LIFESTYLE FACTORS SUCH AS OBESITY, ALCOHOL CONSUMPTION, INFLAMMATION AND POOR DIET IN CANCER RISK, IT HAS GENERALLY BEEN ASSUMED THAT THESE FACTORS ACT DIRECTLY OR INDIRECTLY TO CAUSE MUTATIONS IN DNA, THUS CONTRIBUTING TO TUMOUR MUTATIONAL BURDEN AND RESULTING IN INCREASED CANCER RISK. IN CONTRAST, RECENT SEQUENCING STUDIES HAVE UNCOVERED ABUNDANT MUTATIONS IN NORMAL HUMAN TISSUES, SUGGESTING THAT EVEN STRONG CANCER DRIVER MUTATIONS ARE NOT SUFFICIENT FOR CANCER FORMATION. THESE RESULTS WERE PRESAGED BY STUDIES OF MOUSE TUMOUR MODELS, SOME CARRIED OUT MORE THAN 50 YEARS AGO, SHOWING THAT PROMOTION IS THE RATE-LIMITING STEP IN TUMOUR DEVELOPMENT. TO IDENTIFY THE MECHANISMS THAT CONTROL MUTATED NORMAL CELLS, AND TO ELUCIDATE THE PRECISE MECHANISMS BY WHICH PROMOTING FACTORS STIMULATE THE CONVERSION OF THESE CELLS TO NEOPLASTIC GROWTH, WE HAVE ASSEMBLED A MULTIDISCIPLINARY TEAM OF INVESTIGATORS WITH WIDE-RANGING EXPERIENCE IN EPIDEMIOLOGY, GENETICS, COMPUTATIONAL NETWORK ANALYSIS AND MACHINE LEARNING, TISSUE IMAGING OF GENE EXPRESSION, SINGLE CELL TRANSCRIPTOMICS, AND GENOME-WIDE CRISPR FUNCTIONAL SCREENS. WE WILL FOCUS HUMAN ANALYSIS ON A UNIQUE COLLECTION OF SEVERAL THOUSAND HUMAN NORMAL AND MATCHED TUMOUR SAMPLES FROM \u003e20 COUNTRIES, INCLUDING REGIONS OF BOTH HIGH AND LOW CANCER RISK. DETAILED RISK FACTOR INFORMATION AND WHOLE GENOME SEQUENCE DATA IS AVAILABLE FROM ALL THESE SAMPLES AS PART OF THE GRAND CHALLENGE MUTOGRAPHS STUDY. ANALYSIS OF THESE SAMPLES, TOGETHER WITH DETAILED INTERVENTION STUDIES IN HUMAN POPULATIONS, MOUSE MODELS AND HUMAN ORGANOIDS, WILL ALLOW US TO DEVELOP A ROADMAP OF TUMOUR PROMOTION FROM SINGLE NORMAL CELLS CARRYING DRIVER MUTATIONS, THROUGH TO MALIGNANT PROGRESSION. OUR FINDINGS WILL FACILITATE IDENTIFICATION OF THE CAUSATIVE ENVIRONMENTAL FACTORS THAT PROMOTE CANCER AND PROVIDE ROUTES TO NEW METHODS AND APPROACHES TO CANCER PREVENTION BASED ON A DEEPER UNDERSTANDING OF THE PROCESS OF INITIATED CELL SELECTION BY TUMOUR PROMOTING AGENTS.",
+    "total_obligation": 6721823,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-06-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 3607518.66,
+    "total_account_obligation": 4106156,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3607518.66
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 4106156
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-22",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "recipient_uei": "KMH5K9V7S518",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "parent_recipient_uei": "KMH5K9V7S518",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN FRANCISCO",
+        "county_code": "075",
+        "county_name": "SAN FRANCISCO",
+        "address_line1": "1855 FOLSOM ST STE 425",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "11",
+        "zip4": "4249",
+        "zip5": "94103",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN FRANCISCO",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "11",
+      "zip4": "",
+      "zip5": "94118",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 3607518.66
+  }
+}

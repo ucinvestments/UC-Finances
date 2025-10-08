@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89097271,
+    "Award ID": "K01TW012177",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 721008,
+    "Total Outlays": 515506.14,
+    "Description": "ESTIMATING THE SEROINCIDENCE OF MELIOIDOSIS, TYPHOID FEVER AND SCRUB TYPHUS FROM CROSS-SECTIONAL SEROSURVEYS - SUMMARY/ABSTRACT THIS MENTORED INTERNATIONAL RESEARCH SCIENTIST DEVELOPMENT AWARD (K01) FROM UC DAVIS AND MAHIDOL UNIVERSITY-THAILAND WILL SUPPORT DR. KRISTEN AIEMJOY, ASSISTANT PROFESSOR OF EPIDEMIOLOGY, TO ESTABLISH AN IMPACTFUL, INDEPENDENT GLOBAL HEALTH RESEARCH PROGRAM DEVELOPING SEROEPIDEMIOLOGIC TOOLS TO MEASURE AND REDUCE THE BURDEN ON INFECTIOUS DISEASES GLOBALLY. IN THAILAND, A PRIORITY RESEARCH NEED IS SCALABLE TOOLS TO UNDERSTAND THE POPULATION-LEVEL BURDEN FOR ETIOLOGIES OF ACUTE FEVER, WITH ACUTE UNDIFFERENTIATED FEVER BEING THE SECOND-LEADING CAUSE OF CARE-SEEKING NATIONWIDE. TO MEET THIS NEED, THE SCOPE OF THIS K01 IS TO EVALUATE INNOVATIVE AND PRAGMATIC SEROEPIDEMIOLOGIC TOOLS TO CHARACTERIZE THE POPULATION-LEVEL BURDEN OF THREE ETIOLOGIES OF ACUTE UNDIFFERENTIATED FEVER: SCRUB TYPHUS, MELIOIDOSIS, AND TYPHOID FEVER. THE SPECIFIC AIMS ARE AIM 1A) TO MODEL LONGITUDINAL ANTIBODY RESPONSES FOR SCRUB TYPHUS AND MELIOIDOSIS AND ESTIMATE PEAK ANTIBODY RESPONSE, DECAY RATE, AND DECAY SHAPE, AND AIM 1B) TO DETERMINE IF ANTIBODY RESPONSES VARY ACCORDING TO AGE; AIM 2) TO DEVELOP AN ANALYTIC APPROACH FOR ESTIMATING THE SEROINCIDENCE OF SCRUB TYPHUS, MELIOIDOSIS AND TYPHOID FEVER FROM CROSS-SECTIONAL SURVEY DATA; AND AIM 3) TO QUANTIFY THE MAGNITUDE OF SELECTION BIAS INDUCED BY A SCHOOL- BASED SAMPLE RELATIVE TO A RANDOM POPULATION-BASED SAMPLE WHEN ESTIMATING THE INCIDENCE OF SCRUB TYPHUS, MELIOIDOSIS, AND TYPHOID FEVER. DATA SOURCES FOR THE RESEARCH STRATEGY INCLUDE EXISTING LONGITUDINAL DATA FROM CONFIRMED MELIOIDOSIS, SCRUB TYPHUS, AND TYPHOID FEVER CASES; HIGH-DIMENSIONAL SIMULATED DATA; AND PROSPECTIVE POPULATION-LEVEL SEROSURVEYS IN NONG KHAI PROVINCE IN NORTHEAST THAILAND. THE RESEARCH AIMS ARE PAIRED WITH TRAINING GOALS DESIGNED TO PROVIDE DR. AIEMJOY WITH THE SKILLS AND EXPERIENCES NECESSARY TO BUILD AN INDEPENDENT GLOBAL HEALTH RESEARCH PROGRAM. THE SPECIFIC TRAINING GOALS ARE TO 1) ACQUIRE TECHNICAL PROFICIENCY IN THE FUNDAMENTAL IMMUNOLOGY OF SCRUB TYPHUS, ENTERIC FEVER, MELIOIDOSIS INFECTIONS RELEVANT FOR SEROEPIDEMIOLOGY; 2) ESTABLISH EXPERTISE IN INNOVATIVE ANALYTIC APPROACHES AND COMPUTATION TOOLS FOR SEROLOGIC DATA; AND 3) CULTIVATE THE LEADERSHIP, PROFESSIONAL SKILLS, AND RESEARCH PARTNERSHIPS NECESSARY TO BECOME AN INDEPENDENT GLOBAL HEALTH RESEARCH SCIENTIST. THE TRAINING PLAN WILL BE GUIDED BY A TEAM OF EXPERIENCED MENTORS LED BY DR. NARISARA CHANTRATITA (PRIMARY CO-MENTOR, MAHIDOL UNIVERSITY), A GLOBALLY RECOGNIZED LEADER IN MELIOIDOSIS IMMUNOLOGY WITH OVER 30 YEARS OF CLINICAL AND LABORATORY INFECTIOUS DISEASE RESEARCH IN THAILAND. DR. JASON ANDREWS (PRIMARY CO- MENTOR, STANFORD UNIVERSITY), A CLINICAL SCIENTIST WITH EXPERTISE IN STATISTICAL INFERENCE AND MATHEMATICAL MODELING, WILL PROVIDE MENTORSHIP TO EVALUATE DIAGNOSTICS AND INTERVENTIONS FOR TROPICAL INFECTIOUS DISEASES. THE PROLONGED FIELD EXPERIENCE AND COLLABORATIVE RESEARCH SUPPORTED BY THIS IRSDA-K01, COUPLED WITH STRONG INSTITUTIONAL SUPPORT FROM UC DAVIS (DR. POLLOCK, UCD CHAIR OF PUBLIC HEALTH SCIENCES AND PROFESSIONAL DEVELOPMENT MENTOR), WILL CULTIVATE A SUSTAINED INTERNATIONAL RESEARCH PARTNERSHIP WITH DR. AIEMJOY AND MAHIDOL UNIVERSITY AIMED AT REDUCING THE BURDEN OF INFECTIOUS DISEASE IN THAILAND AND GLOBALLY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-21",
+    "End Date": "2027-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K01TW012177_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89097271,
+    "generated_unique_award_id": "ASST_NON_K01TW012177_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ESTIMATING THE SEROINCIDENCE OF MELIOIDOSIS, TYPHOID FEVER AND SCRUB TYPHUS FROM CROSS-SECTIONAL SEROSURVEYS - SUMMARY/ABSTRACT THIS MENTORED INTERNATIONAL RESEARCH SCIENTIST DEVELOPMENT AWARD (K01) FROM UC DAVIS AND MAHIDOL UNIVERSITY-THAILAND WILL SUPPORT DR. KRISTEN AIEMJOY, ASSISTANT PROFESSOR OF EPIDEMIOLOGY, TO ESTABLISH AN IMPACTFUL, INDEPENDENT GLOBAL HEALTH RESEARCH PROGRAM DEVELOPING SEROEPIDEMIOLOGIC TOOLS TO MEASURE AND REDUCE THE BURDEN ON INFECTIOUS DISEASES GLOBALLY. IN THAILAND, A PRIORITY RESEARCH NEED IS SCALABLE TOOLS TO UNDERSTAND THE POPULATION-LEVEL BURDEN FOR ETIOLOGIES OF ACUTE FEVER, WITH ACUTE UNDIFFERENTIATED FEVER BEING THE SECOND-LEADING CAUSE OF CARE-SEEKING NATIONWIDE. TO MEET THIS NEED, THE SCOPE OF THIS K01 IS TO EVALUATE INNOVATIVE AND PRAGMATIC SEROEPIDEMIOLOGIC TOOLS TO CHARACTERIZE THE POPULATION-LEVEL BURDEN OF THREE ETIOLOGIES OF ACUTE UNDIFFERENTIATED FEVER: SCRUB TYPHUS, MELIOIDOSIS, AND TYPHOID FEVER. THE SPECIFIC AIMS ARE AIM 1A) TO MODEL LONGITUDINAL ANTIBODY RESPONSES FOR SCRUB TYPHUS AND MELIOIDOSIS AND ESTIMATE PEAK ANTIBODY RESPONSE, DECAY RATE, AND DECAY SHAPE, AND AIM 1B) TO DETERMINE IF ANTIBODY RESPONSES VARY ACCORDING TO AGE; AIM 2) TO DEVELOP AN ANALYTIC APPROACH FOR ESTIMATING THE SEROINCIDENCE OF SCRUB TYPHUS, MELIOIDOSIS AND TYPHOID FEVER FROM CROSS-SECTIONAL SURVEY DATA; AND AIM 3) TO QUANTIFY THE MAGNITUDE OF SELECTION BIAS INDUCED BY A SCHOOL- BASED SAMPLE RELATIVE TO A RANDOM POPULATION-BASED SAMPLE WHEN ESTIMATING THE INCIDENCE OF SCRUB TYPHUS, MELIOIDOSIS, AND TYPHOID FEVER. DATA SOURCES FOR THE RESEARCH STRATEGY INCLUDE EXISTING LONGITUDINAL DATA FROM CONFIRMED MELIOIDOSIS, SCRUB TYPHUS, AND TYPHOID FEVER CASES; HIGH-DIMENSIONAL SIMULATED DATA; AND PROSPECTIVE POPULATION-LEVEL SEROSURVEYS IN NONG KHAI PROVINCE IN NORTHEAST THAILAND. THE RESEARCH AIMS ARE PAIRED WITH TRAINING GOALS DESIGNED TO PROVIDE DR. AIEMJOY WITH THE SKILLS AND EXPERIENCES NECESSARY TO BUILD AN INDEPENDENT GLOBAL HEALTH RESEARCH PROGRAM. THE SPECIFIC TRAINING GOALS ARE TO 1) ACQUIRE TECHNICAL PROFICIENCY IN THE FUNDAMENTAL IMMUNOLOGY OF SCRUB TYPHUS, ENTERIC FEVER, MELIOIDOSIS INFECTIONS RELEVANT FOR SEROEPIDEMIOLOGY; 2) ESTABLISH EXPERTISE IN INNOVATIVE ANALYTIC APPROACHES AND COMPUTATION TOOLS FOR SEROLOGIC DATA; AND 3) CULTIVATE THE LEADERSHIP, PROFESSIONAL SKILLS, AND RESEARCH PARTNERSHIPS NECESSARY TO BECOME AN INDEPENDENT GLOBAL HEALTH RESEARCH SCIENTIST. THE TRAINING PLAN WILL BE GUIDED BY A TEAM OF EXPERIENCED MENTORS LED BY DR. NARISARA CHANTRATITA (PRIMARY CO-MENTOR, MAHIDOL UNIVERSITY), A GLOBALLY RECOGNIZED LEADER IN MELIOIDOSIS IMMUNOLOGY WITH OVER 30 YEARS OF CLINICAL AND LABORATORY INFECTIOUS DISEASE RESEARCH IN THAILAND. DR. JASON ANDREWS (PRIMARY CO- MENTOR, STANFORD UNIVERSITY), A CLINICAL SCIENTIST WITH EXPERTISE IN STATISTICAL INFERENCE AND MATHEMATICAL MODELING, WILL PROVIDE MENTORSHIP TO EVALUATE DIAGNOSTICS AND INTERVENTIONS FOR TROPICAL INFECTIOUS DISEASES. THE PROLONGED FIELD EXPERIENCE AND COLLABORATIVE RESEARCH SUPPORTED BY THIS IRSDA-K01, COUPLED WITH STRONG INSTITUTIONAL SUPPORT FROM UC DAVIS (DR. POLLOCK, UCD CHAIR OF PUBLIC HEALTH SCIENCES AND PROFESSIONAL DEVELOPMENT MENTOR), WILL CULTIVATE A SUSTAINED INTERNATIONAL RESEARCH PARTNERSHIP WITH DR. AIEMJOY AND MAHIDOL UNIVERSITY AIMED AT REDUCING THE BURDEN OF INFECTIOUS DISEASE IN THAILAND AND GLOBALLY.",
+    "total_obligation": 721008,
+    "subaward_count": 1,
+    "total_subaward_amount": 35000,
+    "date_signed": "2022-09-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 515506.14,
+    "total_account_obligation": 721008,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 515506.14
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 721008
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Fogarty International Center"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Fogarty International Center"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-21",
+      "end_date": "2027-04-30",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 515506.14
+  }
+}

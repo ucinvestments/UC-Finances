@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74729012,
+    "Award ID": "80NSSC20K0321",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1530000,
+    "Total Outlays": 1530000,
+    "Description": "WE PROPOSE TO DEMONSTRATE A NEW TELESCOPE CONCEPT THAT PROVIDES A LOW-MASS  LOW-VOLUME  INTEGRATED  AND HIGHLY MANUFACTURABLE ALTERNATIVE TO THE TRADITIONAL BULKY OPTICAL TELESCOPE. THE PROPOSED NEW INSTRUMENT CONSISTS OF MILLIONS OF OPTICAL INTERFEROMETERS DENSELY PACKED ONTO PHOTONIC INTEGRATED CIRCUITS (PICS) TO MEASURE THE AMPLITUDE AND PHASE OF THE VISIBILITY FUNCTION AT SPATIAL FREQUENCIES THAT SPAN THE FULL SYNTHETIC APERTURE. THIS SEGMENTED PLANAR IMAGING DETECTOR FOR ELECTRO-OPTICAL RECONNAISSANCE (SPIDER) UTILIZES MANY PHOTONIC INTERFEROMETRIC CIRCUITS EACH EMPLOYING SUB-MICRON SCALE OPTICAL WAVEGUIDES AND NANO-PHOTONIC STRUCTURES FABRICATED ON A SILICON PIC WITH MICRON SCALE PACKING DENSITY TO FORM THE NECESSARY INTERFEROMETERS. THE NEWLY PROPOSED METHOD UTILIZES STANDARD PROCESSES AT A SILICON PHOTONIC AND SILICON CMOS FOUNDRIES FOR WAFER-SCALE SPIDER PIC FABRICATION  CMOS READOUT CIRCUIT FABRICATION  AND ASSEMBLY INTO A FUNCTIONAL AND ROBUST INTEGRATED SPIDER. BENEFITS TO NASA MISSIONS ARE MULTI-FOLD: (A) REDUCTION OF WEIGHT BY ~100 X AND VOLUME BY ~1000X  (B) SIGNIFICANT SIMPLIFICATION OF ASSEMBLY AND INTEGRATION  (C) ORDER OF MAGNITUDE REDUCTION IN COST AND MANUFACTURING TIME UTILIZING COMMERCIAL SILICON PHOTONIC AND CMOS FOUNDRIES  (D) ROBUST OPERATION IN CHALLENGING ENVIRONMENTS WITH LARGE TEMPERATURE VARIATIONS  VIBRATIONS  AND SHOCKS  (E) MODULAR SCALABILITY TO LARGER APERTURES  AND (F) SIMULTANEOUSLY OFFERING HIGH-RESOLUTION AND LOW-RESOLUTION IMAGES FROM GROUPS OF LONG AND SHORT BASELINE INTERFEROGRAMS. NASA IIP PROVIDES A UNIQUE OPPORTUNITY TO ADD THE NEW INNOVATIONS TO FACILITATE COMMERCIAL TRANSITION OPPORTUNITIES WITH LOCKHEED MARTIN AND COMMERCIAL FOUNDRIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR  STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-5801",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2020-02-01",
+    "End Date": "2023-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC20K0321_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74729012,
+    "generated_unique_award_id": "ASST_NON_80NSSC20K0321_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "WE PROPOSE TO DEMONSTRATE A NEW TELESCOPE CONCEPT THAT PROVIDES A LOW-MASS  LOW-VOLUME  INTEGRATED  AND HIGHLY MANUFACTURABLE ALTERNATIVE TO THE TRADITIONAL BULKY OPTICAL TELESCOPE. THE PROPOSED NEW INSTRUMENT CONSISTS OF MILLIONS OF OPTICAL INTERFEROMETERS DENSELY PACKED ONTO PHOTONIC INTEGRATED CIRCUITS (PICS) TO MEASURE THE AMPLITUDE AND PHASE OF THE VISIBILITY FUNCTION AT SPATIAL FREQUENCIES THAT SPAN THE FULL SYNTHETIC APERTURE. THIS SEGMENTED PLANAR IMAGING DETECTOR FOR ELECTRO-OPTICAL RECONNAISSANCE (SPIDER) UTILIZES MANY PHOTONIC INTERFEROMETRIC CIRCUITS EACH EMPLOYING SUB-MICRON SCALE OPTICAL WAVEGUIDES AND NANO-PHOTONIC STRUCTURES FABRICATED ON A SILICON PIC WITH MICRON SCALE PACKING DENSITY TO FORM THE NECESSARY INTERFEROMETERS. THE NEWLY PROPOSED METHOD UTILIZES STANDARD PROCESSES AT A SILICON PHOTONIC AND SILICON CMOS FOUNDRIES FOR WAFER-SCALE SPIDER PIC FABRICATION  CMOS READOUT CIRCUIT FABRICATION  AND ASSEMBLY INTO A FUNCTIONAL AND ROBUST INTEGRATED SPIDER. BENEFITS TO NASA MISSIONS ARE MULTI-FOLD: (A) REDUCTION OF WEIGHT BY ~100 X AND VOLUME BY ~1000X  (B) SIGNIFICANT SIMPLIFICATION OF ASSEMBLY AND INTEGRATION  (C) ORDER OF MAGNITUDE REDUCTION IN COST AND MANUFACTURING TIME UTILIZING COMMERCIAL SILICON PHOTONIC AND CMOS FOUNDRIES  (D) ROBUST OPERATION IN CHALLENGING ENVIRONMENTS WITH LARGE TEMPERATURE VARIATIONS  VIBRATIONS  AND SHOCKS  (E) MODULAR SCALABILITY TO LARGER APERTURES  AND (F) SIMULTANEOUSLY OFFERING HIGH-RESOLUTION AND LOW-RESOLUTION IMAGES FROM GROUPS OF LONG AND SHORT BASELINE INTERFEROGRAMS. NASA IIP PROVIDES A UNIQUE OPPORTUNITY TO ADD THE NEW INNOVATIONS TO FACILITATE COMMERCIAL TRANSITION OPPORTUNITIES WITH LOCKHEED MARTIN AND COMMERCIAL FOUNDRIES.",
+    "total_obligation": 1530000,
+    "subaward_count": 2,
+    "total_subaward_amount": 217226,
+    "date_signed": "2020-02-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1530000,
+    "total_account_obligation": 946670,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1530000
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 946670
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2020-02-01",
+      "end_date": "2023-12-31",
+      "last_modified_date": "2025-01-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR  STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "5801",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1530000
+  }
+}

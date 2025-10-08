@@ -1,0 +1,250 @@
+{
+  "basic_data": {
+    "internal_id": 92621916,
+    "Award ID": "U18TR003795",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1873961,
+    "Total Outlays": 1726166.42,
+    "Description": "PORTABLE GC DETECTOR FOR BREATH-BASED COVID DIAGNOSTICS - PROJECT SUMMARY/ABSTRACT: THIS PROPOSAL HAS TWO MAJOR GOALS: 1) DEFINE SIGNATURE EXHALED BREATH VOLATILE ORGANIC COMPOUNDS (VOCS) TO DIAGNOSE SARS-COV-2 INFECTIONS, AND 2) DEVELOP A PORTABLE CHEMICAL SENSING DEVICE THAT CAN CAPTURE AND DETECT EXHALED VOCS AND INCLUDES MACHINE LEARNING ALGORITHMS FOR AUTOMATED DATA PROCESSING AND RESULTS INTERPRETATION. THIS PROJECT WILL BRING A PORTABLE SENSOR FORWARD INTO CLINICAL USE WITH THE AIM OF SUPPLEMENTING COVID-19 DIAGNOSTICS WITH A REAGENTLESS ALTERNATIVE. BREATH TESTING OF EXHALED VOC BIOMARKERS IS A RELATIVELY NEW CONCEPT THAT HAS THE POTENTIAL TO TRANSFORM HEALTHCARE IN THE US AND GLOBALLY. OUR OVERARCHING HYPOTHESIS IS THAT A MINIATURE BREATH ANALYSIS DEVICE CAN MEASURE SIGNATURES OF EXHALED BREATH VOCS IN REAL-TIME AND CORRELATE THEIR PROFILE TO VIRAL UPPER RESPIRATORY INFECTIONS SUCH AS SARS-COV-2, EVEN ASYMPTOMATICALLY. IN AIM #1, WE PROPOSE A PROSPECTIVE, OBSERVATIONAL STUDY TO ANALYZE BREATH SAMPLES FROM COVID-19 POSITIVE AND NEGATIVE SUBJECTS, SOLELY FOR THE PURPOSE OF ANALYSIS THROUGH GOLD STANDARD GC- MS TO DEFINE BREATH VOC BIOMARKERS OF INFECTION. WE WILL RECRUIT SUBJECTS AT TWO LOCAL SITES, THE UC DAVIS MEDICAL CENTER (SACRAMENTO, CA) AND VA NORTHERN CALIFORNIA HEALTH CARE SYSTEM (MATHER, CA), WHERE MPI DR. KENYON AND CO-IS DRS. HARPER AND SCHIVO HAVE JOINT CLINICAL APPOINTMENTS. OUR GROUP HAS A PROVEN TRACK RECORD TO CONDUCT THESE TYPES OF CLINICAL BREATH STUDIES. IN AIM #2, WE WILL DEVELOP A PORTABLE BREATH ANALYSIS DEVICE USING OUR NOVEL MINIATURE DIFFERENTIAL MOBILITY SPECTROMETRY (DMS) DETECTOR, COUPLED WITH CHIP-BASED GAS CHROMATOGRAPHY. DMS IS A SUBSET OF ION MOBILITY SPECTROMETRY AND DETECTS VOCS AT AMBIENT TEMPERATURES AND PRESSURES, MAKING IT HIGHLY APPROPRIATE FOR PORTABLE DEVICES. THIS DEVICE WOULD INCLUDE OUR CUSTOM CHIP- BASED PRECONCENTRATOR, WHICH IS PACKED WITH A CHEMICAL SORBENT FOR EXTRACTION OF VOCS FROM BREATH, AND WILL COMPARE FUNCTIONALITY OF A COMPACT COMMERCIALLY AVAILABLE GC COLUMN TO A MICRO-GC COLUMN CHIP FROM DEVIANT, A SUBCONTRACTOR IN THIS WORK. INDIVIDUAL COMPONENTS OF THIS DEVICE HAVE ALREADY BEEN DEVELOPED, AND UNDER DIRECTION OF MPI PROF. DAVIS, CHAIR OF MECHANICAL AND AEROSPACE ENGINEERING, A TEAM OF RESEARCH ENGINEERS WOULD INTEGRATE THESE PIECES TOGETHER INTO A SINGLE UNIT. COLLABORATOR PROF. CHUAH WOULD GUIDE DEVELOPMENT OF A CUSTOM SOFTWARE PACKAGE FOR THE DEVICE WITH MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE CAPABILITIES FOR AUTOMATED DATA PROCESSING AND INTERPRETATION. THE DEVICE WOULD BE PLACED IN THE HANDS OF CLINICIANS, WHO WOULD PROVIDE FEEDBACK THAT ENGINEERS WOULD IMMEDIATELY INCORPORATE INTO THE DEVICE AND RETURN TO THE CLINICIANS FOR MORE TESTING. UNDER AIM #3, OUR TEAM WOULD PROCESS THE GC-MS AND GC-DMS DATA GENERATED IN THIS WORK, IDENTIFYING A NOVEL VOC PROFILE FOR COVID-19 DIAGNOSTICS. AIM #4 WOULD INITIATE TOWARDS THE END OF THIS STUDY TO DEVELOP BOTH A REGULATORY PATHWAY \u0026 CONTRACT MANUFACTURING PLAN FOR LARGE SCALE PRODUCTION AND DEPLOYMENT OF THE DEVICE FOR CLINICAL APPROVAL. THESE EFFORTS ARE SUPPORTED BY COLLABORATOR DR. NAM TRAN, DIRECTOR OF CLINICAL PATHOLOGY \u0026 CLINICAL CHEMISTRY AT THE UC DAVIS MEDICAL CENTER.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "P",
+      "V"
+    ],
+    "COVID-19 Obligations": 1873961,
+    "COVID-19 Outlays": 1726166.42,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2020-12-21",
+    "End Date": "2024-02-29",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U18TR003795_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92621916,
+    "generated_unique_award_id": "ASST_NON_U18TR003795_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "PORTABLE GC DETECTOR FOR BREATH-BASED COVID DIAGNOSTICS - PROJECT SUMMARY/ABSTRACT: THIS PROPOSAL HAS TWO MAJOR GOALS: 1) DEFINE SIGNATURE EXHALED BREATH VOLATILE ORGANIC COMPOUNDS (VOCS) TO DIAGNOSE SARS-COV-2 INFECTIONS, AND 2) DEVELOP A PORTABLE CHEMICAL SENSING DEVICE THAT CAN CAPTURE AND DETECT EXHALED VOCS AND INCLUDES MACHINE LEARNING ALGORITHMS FOR AUTOMATED DATA PROCESSING AND RESULTS INTERPRETATION. THIS PROJECT WILL BRING A PORTABLE SENSOR FORWARD INTO CLINICAL USE WITH THE AIM OF SUPPLEMENTING COVID-19 DIAGNOSTICS WITH A REAGENTLESS ALTERNATIVE. BREATH TESTING OF EXHALED VOC BIOMARKERS IS A RELATIVELY NEW CONCEPT THAT HAS THE POTENTIAL TO TRANSFORM HEALTHCARE IN THE US AND GLOBALLY. OUR OVERARCHING HYPOTHESIS IS THAT A MINIATURE BREATH ANALYSIS DEVICE CAN MEASURE SIGNATURES OF EXHALED BREATH VOCS IN REAL-TIME AND CORRELATE THEIR PROFILE TO VIRAL UPPER RESPIRATORY INFECTIONS SUCH AS SARS-COV-2, EVEN ASYMPTOMATICALLY. IN AIM #1, WE PROPOSE A PROSPECTIVE, OBSERVATIONAL STUDY TO ANALYZE BREATH SAMPLES FROM COVID-19 POSITIVE AND NEGATIVE SUBJECTS, SOLELY FOR THE PURPOSE OF ANALYSIS THROUGH GOLD STANDARD GC- MS TO DEFINE BREATH VOC BIOMARKERS OF INFECTION. WE WILL RECRUIT SUBJECTS AT TWO LOCAL SITES, THE UC DAVIS MEDICAL CENTER (SACRAMENTO, CA) AND VA NORTHERN CALIFORNIA HEALTH CARE SYSTEM (MATHER, CA), WHERE MPI DR. KENYON AND CO-IS DRS. HARPER AND SCHIVO HAVE JOINT CLINICAL APPOINTMENTS. OUR GROUP HAS A PROVEN TRACK RECORD TO CONDUCT THESE TYPES OF CLINICAL BREATH STUDIES. IN AIM #2, WE WILL DEVELOP A PORTABLE BREATH ANALYSIS DEVICE USING OUR NOVEL MINIATURE DIFFERENTIAL MOBILITY SPECTROMETRY (DMS) DETECTOR, COUPLED WITH CHIP-BASED GAS CHROMATOGRAPHY. DMS IS A SUBSET OF ION MOBILITY SPECTROMETRY AND DETECTS VOCS AT AMBIENT TEMPERATURES AND PRESSURES, MAKING IT HIGHLY APPROPRIATE FOR PORTABLE DEVICES. THIS DEVICE WOULD INCLUDE OUR CUSTOM CHIP- BASED PRECONCENTRATOR, WHICH IS PACKED WITH A CHEMICAL SORBENT FOR EXTRACTION OF VOCS FROM BREATH, AND WILL COMPARE FUNCTIONALITY OF A COMPACT COMMERCIALLY AVAILABLE GC COLUMN TO A MICRO-GC COLUMN CHIP FROM DEVIANT, A SUBCONTRACTOR IN THIS WORK. INDIVIDUAL COMPONENTS OF THIS DEVICE HAVE ALREADY BEEN DEVELOPED, AND UNDER DIRECTION OF MPI PROF. DAVIS, CHAIR OF MECHANICAL AND AEROSPACE ENGINEERING, A TEAM OF RESEARCH ENGINEERS WOULD INTEGRATE THESE PIECES TOGETHER INTO A SINGLE UNIT. COLLABORATOR PROF. CHUAH WOULD GUIDE DEVELOPMENT OF A CUSTOM SOFTWARE PACKAGE FOR THE DEVICE WITH MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE CAPABILITIES FOR AUTOMATED DATA PROCESSING AND INTERPRETATION. THE DEVICE WOULD BE PLACED IN THE HANDS OF CLINICIANS, WHO WOULD PROVIDE FEEDBACK THAT ENGINEERS WOULD IMMEDIATELY INCORPORATE INTO THE DEVICE AND RETURN TO THE CLINICIANS FOR MORE TESTING. UNDER AIM #3, OUR TEAM WOULD PROCESS THE GC-MS AND GC-DMS DATA GENERATED IN THIS WORK, IDENTIFYING A NOVEL VOC PROFILE FOR COVID-19 DIAGNOSTICS. AIM #4 WOULD INITIATE TOWARDS THE END OF THIS STUDY TO DEVELOP BOTH A REGULATORY PATHWAY \u0026 CONTRACT MANUFACTURING PLAN FOR LARGE SCALE PRODUCTION AND DEPLOYMENT OF THE DEVICE FOR CLINICAL APPROVAL. THESE EFFORTS ARE SUPPORTED BY COLLABORATOR DR. NAM TRAN, DIRECTOR OF CLINICAL PATHOLOGY \u0026 CLINICAL CHEMISTRY AT THE UC DAVIS MEDICAL CENTER.",
+    "total_obligation": 1873961,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2020-12-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1726166.42,
+    "total_account_obligation": 1873961,
+    "account_outlays_by_defc": [
+      {
+        "code": "P",
+        "amount": 975463
+      },
+      {
+        "code": "V",
+        "amount": 750703.42
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "P",
+        "amount": 975463
+      },
+      {
+        "code": "V",
+        "amount": 898498
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Center for Advancing Translational Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2020-12-21",
+      "end_date": "2024-02-29",
+      "last_modified_date": "2024-07-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1726166.42
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91240511,
+    "Award ID": "R01NS137635",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1413918,
+    "Total Outlays": 579233.86,
+    "Description": "CELLULAR AND MOLECULAR MECHANISMS OF DENDRITIC SPINE GROWTH AND STABILIZATION IN HEALTH AND DISEASE - ABSTRACT ONE OF THE MOST REMARKABLE PROPERTIES OF THE BRAIN IS ITS ABILITY TO UNDERGO ADAPTIVE MODIFICATIONS IN RESPONSE TO CHANGING ENVIRONMENTS. THIS EXPERIENCE-DEPENDENT PLASTICITY IS ESSENTIAL NOT ONLY FOR THE FINE- TUNING OF DEVELOPING CIRCUITS, BUT ALSO FOR LEARNING IN ADULTS. ADVANCED FLUORESCENT LABELING AND IMAGING TECHNIQUES HAVE ENABLED DIRECT VISUALIZATION OF THE STRUCTURAL AND FUNCTIONAL REORGANIZATION OF NEURONAL CIRCUITS DURING LEARNING. DENDRITIC SPINES HAVE BEEN A MAJOR FOCUS OF THESE STUDIES; SPINE GAIN OR LOSS IS ASSOCIATED WITH FORMATION OR ELIMINATION OF NEURAL CIRCUIT CONNECTIONS, AND THE ENLARGEMENT OR SHRINKAGE OF SPINES ACCOMPANIES INCREASES OR DECREASES IN THE STRENGTH OF SYNAPTIC CONNECTIONS. NOTABLY, NEUROLOGICAL AND NEURODEGENERATIVE DISORDERS THAT RESULT IN COGNITIVE DYSFUNCTION AND DISRUPT LEARNING ARE USUALLY ASSOCIATED WITH CHANGES IN THE DENSITY OR MORPHOLOGY OF DENDRITIC SPINES. THE LONG-TERM GOAL OF THIS RESEARCH PROPOSAL IS TO ELUCIDATE THE MOLECULAR SIGNALING MECHANISMS THAT REGULATE THE GROWTH, STABILIZATION, AND FUNCTIONAL MATURATION OF DENDRITIC SPINES AND THEIR ASSOCIATED SYNAPSES DURING THE ACTIVITY-DEPENDENT SYNAPTIC PLASTICITY THAT IS ASSOCIATED WITH LEARNING. TO ACHIEVE THIS GOAL, WE WILL USE TWO-PHOTON IMAGING AND PHOTOSTIMULATION TECHNIQUES COMBINED WITH GENETICALLY-ENCODED BIOSENSORS AND FLUORESCENCE LIFETIME IMAGING TO MEASURE SPATIOTEMPORAL SIGNALING IN NEURONAL DENDRITES, AND MOLECULAR GENETIC, PHARMACOLOGICAL, BIOCHEMICAL AND PROTEOMIC TECHNIQUES TO IDENTIFY KEY SIGNALING PATHWAYS AND COMPLEXES THAT REGULATE EXCITATORY SYNAPSE PLASTICITY. IN AIM 1, WE WILL DELINEATE THE UNEXPECTED ROLE OF THE RHOGEF EPHEXIN5 AND ITS DOWNSTREAM SIGNALING PATHWAYS THE ACTIVITY-DEPENDENT SPINE GROWTH AND STABILIZATION THAT IS VITAL FOR LEARNING AND HOW THESE PATHWAYS ARE ALTERED IN CELLULAR MODELS FOR STUDYING ALZHEIMER’S DISEASE. IN AIM 2, WE WILL ELUCIDATE THE NOVEL NON-ENZYMATIC ROLES AND INTERACTIONS PARTNERS OF CAMKII IN NASCENT SPINE GROWTH AND STABILIZATION AS NEW CIRCUIT CONNECTIONS ARE ESTABLISHED AND WE WILL DEFINE HOW THESE SIGNALING PATHWAYS CONTRIBUTE TO SYNAPTIC DYSFUNCTION IN MODELS FOR STUDYING ALZHEIMER’S DISEASE. RESULTS FROM THESE EXPERIMENTS WILL RIGOROUSLY ADDRESS NOVEL AND UNEXPECTED MOLECULAR MECHANISMS OF EXCITATORY SYNAPSE GROWTH AND STABILIZATION, THEREBY FILLING GAPS IN OUR CURRENT UNDERSTANDING OF LEARNING-ASSOCIATED NEURAL CIRCUIT PLASTICITY, WITH THE ULTIMATE GOAL TO FACILITATE THE DEVELOPMENT OF THERAPEUTICS FOR HUMAN DISEASES ASSOCIATED WITH INTELLECTUAL DISABILITY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-18",
+    "End Date": "2029-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS137635_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91240511,
+    "generated_unique_award_id": "ASST_NON_R01NS137635_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CELLULAR AND MOLECULAR MECHANISMS OF DENDRITIC SPINE GROWTH AND STABILIZATION IN HEALTH AND DISEASE - ABSTRACT ONE OF THE MOST REMARKABLE PROPERTIES OF THE BRAIN IS ITS ABILITY TO UNDERGO ADAPTIVE MODIFICATIONS IN RESPONSE TO CHANGING ENVIRONMENTS. THIS EXPERIENCE-DEPENDENT PLASTICITY IS ESSENTIAL NOT ONLY FOR THE FINE- TUNING OF DEVELOPING CIRCUITS, BUT ALSO FOR LEARNING IN ADULTS. ADVANCED FLUORESCENT LABELING AND IMAGING TECHNIQUES HAVE ENABLED DIRECT VISUALIZATION OF THE STRUCTURAL AND FUNCTIONAL REORGANIZATION OF NEURONAL CIRCUITS DURING LEARNING. DENDRITIC SPINES HAVE BEEN A MAJOR FOCUS OF THESE STUDIES; SPINE GAIN OR LOSS IS ASSOCIATED WITH FORMATION OR ELIMINATION OF NEURAL CIRCUIT CONNECTIONS, AND THE ENLARGEMENT OR SHRINKAGE OF SPINES ACCOMPANIES INCREASES OR DECREASES IN THE STRENGTH OF SYNAPTIC CONNECTIONS. NOTABLY, NEUROLOGICAL AND NEURODEGENERATIVE DISORDERS THAT RESULT IN COGNITIVE DYSFUNCTION AND DISRUPT LEARNING ARE USUALLY ASSOCIATED WITH CHANGES IN THE DENSITY OR MORPHOLOGY OF DENDRITIC SPINES. THE LONG-TERM GOAL OF THIS RESEARCH PROPOSAL IS TO ELUCIDATE THE MOLECULAR SIGNALING MECHANISMS THAT REGULATE THE GROWTH, STABILIZATION, AND FUNCTIONAL MATURATION OF DENDRITIC SPINES AND THEIR ASSOCIATED SYNAPSES DURING THE ACTIVITY-DEPENDENT SYNAPTIC PLASTICITY THAT IS ASSOCIATED WITH LEARNING. TO ACHIEVE THIS GOAL, WE WILL USE TWO-PHOTON IMAGING AND PHOTOSTIMULATION TECHNIQUES COMBINED WITH GENETICALLY-ENCODED BIOSENSORS AND FLUORESCENCE LIFETIME IMAGING TO MEASURE SPATIOTEMPORAL SIGNALING IN NEURONAL DENDRITES, AND MOLECULAR GENETIC, PHARMACOLOGICAL, BIOCHEMICAL AND PROTEOMIC TECHNIQUES TO IDENTIFY KEY SIGNALING PATHWAYS AND COMPLEXES THAT REGULATE EXCITATORY SYNAPSE PLASTICITY. IN AIM 1, WE WILL DELINEATE THE UNEXPECTED ROLE OF THE RHOGEF EPHEXIN5 AND ITS DOWNSTREAM SIGNALING PATHWAYS THE ACTIVITY-DEPENDENT SPINE GROWTH AND STABILIZATION THAT IS VITAL FOR LEARNING AND HOW THESE PATHWAYS ARE ALTERED IN CELLULAR MODELS FOR STUDYING ALZHEIMER’S DISEASE. IN AIM 2, WE WILL ELUCIDATE THE NOVEL NON-ENZYMATIC ROLES AND INTERACTIONS PARTNERS OF CAMKII IN NASCENT SPINE GROWTH AND STABILIZATION AS NEW CIRCUIT CONNECTIONS ARE ESTABLISHED AND WE WILL DEFINE HOW THESE SIGNALING PATHWAYS CONTRIBUTE TO SYNAPTIC DYSFUNCTION IN MODELS FOR STUDYING ALZHEIMER’S DISEASE. RESULTS FROM THESE EXPERIMENTS WILL RIGOROUSLY ADDRESS NOVEL AND UNEXPECTED MOLECULAR MECHANISMS OF EXCITATORY SYNAPSE GROWTH AND STABILIZATION, THEREBY FILLING GAPS IN OUR CURRENT UNDERSTANDING OF LEARNING-ASSOCIATED NEURAL CIRCUIT PLASTICITY, WITH THE ULTIMATE GOAL TO FACILITATE THE DEVELOPMENT OF THERAPEUTICS FOR HUMAN DISEASES ASSOCIATED WITH INTELLECTUAL DISABILITY.",
+    "total_obligation": 1413918,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-09-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 579233.86,
+    "total_account_obligation": 1413918,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 579233.86
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1413918
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-18",
+      "end_date": "2029-08-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 579233.86
+  }
+}

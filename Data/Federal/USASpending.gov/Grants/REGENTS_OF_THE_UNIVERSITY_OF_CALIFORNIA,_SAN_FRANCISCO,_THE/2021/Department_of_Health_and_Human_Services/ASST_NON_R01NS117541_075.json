@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91238858,
+    "Award ID": "R01NS117541",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+    "Award Amount": 1103912,
+    "Total Outlays": 847401.01,
+    "Description": "METABOLIC CORRELATES OF DISEASE ACTIVITY AND DISABILITY PROGRESSION IN PEDIATRIC MS - PROJECT SUMMARY THE BIOLOGICAL PROCESSES CONTRIBUTING TO RELAPSES AND DISABILITY PROGRESSION IN MULTIPLE SCLEROSIS (MS) REMAIN LARGELY UNKNOWN. DURING THE PAST DECADE, OUR PEDIATRIC MS NETWORK HAS INVESTIGATED RISK FACTORS IN CHILDREN. WE HAVE DISCOVERED THAT HIGHER SATURATED FAT AND LOWER VEGETABLE DIETARY INTAKE MAY INDEPENDENTLY INCREASE THE RISK OF RELAPSE IN THOSE WITH THE DISEASE. OUR PRELIMINARY FINDINGS, CONSISTENT WITH THE ASSOCIATION OF HIGH FAT DIET WITH HIGHER RISK OF MS RELAPSE, SUGGEST THAT HIGHER PLASMA LEVELS OF THREE ACYL-ETHANOLAMIDES (ENDOCANNABINOIDS) AND DOCOSAHEXAENOIC ACID (DHA) MAY BE ASSOCIATED WITH HIGHER RELAPSE RISK IN CHILDREN. LIPIDS MEDIATORS SUCH AS OXYLIPINS AND ENDOCANNABINOIDS HAVE IMMUNOMODULATORY PROPERTIES AND SOME ARE NEUROPROTECTIVE. THEIR PLASMA LEVELS ARE INFLUENCED AMONG OTHERS BY DIETARY INTAKE, OBESITY STATUS AND GENETIC PROFILE. FURTHERMORE, OUR FINDINGS THAT THE TRYPTOPHAN PATHWAY IS ASSOCIATED WITH THE RISK OF RELAPSE AND DISEASE PROGRESSION LINKS PLAUSIBLY TO EXPECTED CHANGES IN SHORT CHAIN FATTY ACIDS THAT WE PLAN TO INVESTIGATE. ALTHOUGH MS IS LESS COMMON IN CHILDREN, STUDIES IN THIS AGE GROUP HAVE SEVERAL IMPORTANT ADVANTAGES INCLUDING LESS IRRELEVANT EXPOSURES AND COMORBIDITIES THAT RESULT FROM AGING. WITH PREVIOUS NIH AND NATIONAL MS SOCIETY SUPPORT, WE HAVE ESTABLISHED A HIGHLY COLLABORATIVE NATIONAL RESEARCH GROUP AND A UNIQUE RESOURCE THAT WILL BE LEVERAGED IN THIS PROPOSAL TO TEST NEW HYPOTHESES. WE PROPOSE STATE-OF-THE-ART UNTARGETED AND TARGETED METABOLOMICS AND LIPIDOMICS ANALYSES TO DETERMINE THE ASSOCIATION OF VARIOUS PLASMA AND STOOL LIPIDS AND THEIR MEDIATORS WITH THE RISK OF SUBSEQUENT RELAPSE, NEW MRI LESIONS, AND NEUROLOGIC AND COGNITIVE IMPAIRMENT. EACH INDIVIDUAL HAS EXTENSIVE DEMOGRAPHIC, CLINICAL, MRI, GENETIC, FOOD FREQUENCY AND ENVIRONMENTAL EXPOSURE DATA. ANALYSES WILL BE ADJUSTED FOR POSSIBLE CONFOUNDERS SUCH AS AGE, SEX, RACE, ETHNICITY, SOCIOECONOMIC PROFILE, USE OF DISEASE-MODIFYING THERAPY, BODY MASS INDEX AND SERUM 25(OH) VITAMIN D. WE WILL ALSO MODEL THE CONTRIBUTION OF VARIOUS METABOLITES IN THE CONTEXT OF ADIPOKINES, FOOD FREQUENCY, GUT MICROBIOME PROFILE AND GENETIC VARIANTS THAT MODULATE PLASMA LIPID AND MEDIATOR LEVELS. THIS SOPHISTICATED MODELLING INCLUDING PATHWAY ANALYSES WILL ESTABLISH WHICH OF THE VARIABLES ARE INDEPENDENT PREDICTORS. OUR GROUP OF COLLABORATORS WITH EXPERTISE IN METABOLOMICS, LIPIDOMICS, GENETICS, AND ENVIRONMENTAL RISK FACTORS IS IN A UNIQUE POSITION TO SIGNIFICANTLY ADVANCE THE UNDERSTANDING OF MS PATHOGENESIS. THE FINDINGS IN THE PROPOSED STUDY WILL UNRAVEL BIOLOGICAL LINKS BETWEEN DIET, GUT MICROBIOME, OBESITY AND MS COURSE. ALTHOUGH LONGITUDINAL ASSOCIATION STUDIES DO NOT CONFIRM CAUSALITY, THEY ARE CRITICAL TO IDENTIFY PUTATIVE BIOLOGICAL PATHWAYS THAT MAY CONTRIBUTE TO DISEASE ACTIVITY AND PROGRESSION. INTERVENTION STUDIES CANNOT BE DESIGNED IF ASSOCIATIONS ARE UNKNOWN. OUR PROPOSED INVESTIGATION HAS STRONG POTENTIAL FOR CLINICAL TRANSLATION AS WE WILL IDENTIFY BIOLOGICAL TARGETS THAT CAN THEN BE TESTED FOR CAUSALITY IN PROOF-OF-CONCEPT MS TRIALS WITH INTERVENTIONS SUCH AS SUPPLEMENTATION WITH LIVE BIOTHERAPEUTIC PRODUCTS INFLUENCING METABOLIC PATHWAYS OF INTEREST.",
+    "Contract Award Type": "",
+    "Recipient UEI": "KMH5K9V7S518",
+    "Recipient Location": {
+      "address_line1": "1855 FOLSOM ST STE 425",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4249",
+      "zip5": "94103"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94143",
+      "zip5": "94143"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-04-01",
+    "End Date": "2024-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS117541_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91238858,
+    "generated_unique_award_id": "ASST_NON_R01NS117541_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "METABOLIC CORRELATES OF DISEASE ACTIVITY AND DISABILITY PROGRESSION IN PEDIATRIC MS - PROJECT SUMMARY THE BIOLOGICAL PROCESSES CONTRIBUTING TO RELAPSES AND DISABILITY PROGRESSION IN MULTIPLE SCLEROSIS (MS) REMAIN LARGELY UNKNOWN. DURING THE PAST DECADE, OUR PEDIATRIC MS NETWORK HAS INVESTIGATED RISK FACTORS IN CHILDREN. WE HAVE DISCOVERED THAT HIGHER SATURATED FAT AND LOWER VEGETABLE DIETARY INTAKE MAY INDEPENDENTLY INCREASE THE RISK OF RELAPSE IN THOSE WITH THE DISEASE. OUR PRELIMINARY FINDINGS, CONSISTENT WITH THE ASSOCIATION OF HIGH FAT DIET WITH HIGHER RISK OF MS RELAPSE, SUGGEST THAT HIGHER PLASMA LEVELS OF THREE ACYL-ETHANOLAMIDES (ENDOCANNABINOIDS) AND DOCOSAHEXAENOIC ACID (DHA) MAY BE ASSOCIATED WITH HIGHER RELAPSE RISK IN CHILDREN. LIPIDS MEDIATORS SUCH AS OXYLIPINS AND ENDOCANNABINOIDS HAVE IMMUNOMODULATORY PROPERTIES AND SOME ARE NEUROPROTECTIVE. THEIR PLASMA LEVELS ARE INFLUENCED AMONG OTHERS BY DIETARY INTAKE, OBESITY STATUS AND GENETIC PROFILE. FURTHERMORE, OUR FINDINGS THAT THE TRYPTOPHAN PATHWAY IS ASSOCIATED WITH THE RISK OF RELAPSE AND DISEASE PROGRESSION LINKS PLAUSIBLY TO EXPECTED CHANGES IN SHORT CHAIN FATTY ACIDS THAT WE PLAN TO INVESTIGATE. ALTHOUGH MS IS LESS COMMON IN CHILDREN, STUDIES IN THIS AGE GROUP HAVE SEVERAL IMPORTANT ADVANTAGES INCLUDING LESS IRRELEVANT EXPOSURES AND COMORBIDITIES THAT RESULT FROM AGING. WITH PREVIOUS NIH AND NATIONAL MS SOCIETY SUPPORT, WE HAVE ESTABLISHED A HIGHLY COLLABORATIVE NATIONAL RESEARCH GROUP AND A UNIQUE RESOURCE THAT WILL BE LEVERAGED IN THIS PROPOSAL TO TEST NEW HYPOTHESES. WE PROPOSE STATE-OF-THE-ART UNTARGETED AND TARGETED METABOLOMICS AND LIPIDOMICS ANALYSES TO DETERMINE THE ASSOCIATION OF VARIOUS PLASMA AND STOOL LIPIDS AND THEIR MEDIATORS WITH THE RISK OF SUBSEQUENT RELAPSE, NEW MRI LESIONS, AND NEUROLOGIC AND COGNITIVE IMPAIRMENT. EACH INDIVIDUAL HAS EXTENSIVE DEMOGRAPHIC, CLINICAL, MRI, GENETIC, FOOD FREQUENCY AND ENVIRONMENTAL EXPOSURE DATA. ANALYSES WILL BE ADJUSTED FOR POSSIBLE CONFOUNDERS SUCH AS AGE, SEX, RACE, ETHNICITY, SOCIOECONOMIC PROFILE, USE OF DISEASE-MODIFYING THERAPY, BODY MASS INDEX AND SERUM 25(OH) VITAMIN D. WE WILL ALSO MODEL THE CONTRIBUTION OF VARIOUS METABOLITES IN THE CONTEXT OF ADIPOKINES, FOOD FREQUENCY, GUT MICROBIOME PROFILE AND GENETIC VARIANTS THAT MODULATE PLASMA LIPID AND MEDIATOR LEVELS. THIS SOPHISTICATED MODELLING INCLUDING PATHWAY ANALYSES WILL ESTABLISH WHICH OF THE VARIABLES ARE INDEPENDENT PREDICTORS. OUR GROUP OF COLLABORATORS WITH EXPERTISE IN METABOLOMICS, LIPIDOMICS, GENETICS, AND ENVIRONMENTAL RISK FACTORS IS IN A UNIQUE POSITION TO SIGNIFICANTLY ADVANCE THE UNDERSTANDING OF MS PATHOGENESIS. THE FINDINGS IN THE PROPOSED STUDY WILL UNRAVEL BIOLOGICAL LINKS BETWEEN DIET, GUT MICROBIOME, OBESITY AND MS COURSE. ALTHOUGH LONGITUDINAL ASSOCIATION STUDIES DO NOT CONFIRM CAUSALITY, THEY ARE CRITICAL TO IDENTIFY PUTATIVE BIOLOGICAL PATHWAYS THAT MAY CONTRIBUTE TO DISEASE ACTIVITY AND PROGRESSION. INTERVENTION STUDIES CANNOT BE DESIGNED IF ASSOCIATIONS ARE UNKNOWN. OUR PROPOSED INVESTIGATION HAS STRONG POTENTIAL FOR CLINICAL TRANSLATION AS WE WILL IDENTIFY BIOLOGICAL TARGETS THAT CAN THEN BE TESTED FOR CAUSALITY IN PROOF-OF-CONCEPT MS TRIALS WITH INTERVENTIONS SUCH AS SUPPLEMENTATION WITH LIVE BIOTHERAPEUTIC PRODUCTS INFLUENCING METABOLIC PATHWAYS OF INTEREST.",
+    "total_obligation": 1103912,
+    "subaward_count": 5,
+    "total_subaward_amount": 130407,
+    "date_signed": "2021-03-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 847401.01,
+    "total_account_obligation": 1103912,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 847401.01
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1103912
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2021-04-01",
+      "end_date": "2024-03-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "recipient_uei": "KMH5K9V7S518",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "parent_recipient_uei": "KMH5K9V7S518",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN FRANCISCO",
+        "county_code": "075",
+        "county_name": "SAN FRANCISCO",
+        "address_line1": "1855 FOLSOM ST STE 425",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "11",
+        "zip4": "4249",
+        "zip5": "94103",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN FRANCISCO",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "11",
+      "zip4": "",
+      "zip5": "94143",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 847401.01
+  }
+}

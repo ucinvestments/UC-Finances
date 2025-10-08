@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74725157,
+    "Award ID": "80NSSC18K0132",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 4852633.45,
+    "Total Outlays": 1511001.64,
+    "Description": "WE PROPOSE TO ADVANCE THE TRL OF FOCAL-PLANE SUPERCONDUCTING DETECTORS AND READOUT ELECTRONICS FOR THE JAXA LITEBIRD CMB MISSION AND OTHER NEXT GENERATION CMB SPACE MISSIONS. A FUTURE CMB SPACE MISSION WILL MAP POLARIZED FLUCTUATIONS IN THE COSMIC MICROWAVE BACKGROUND (CMB) TO SEARCH FOR THE SIGNATURE OF GRAVITATIONAL WAVES FROM INFLATION  POTENTIALLY OPENING A WINDOW ON THE UNIVERSE A FRACTION OF A SECOND AFTER THE BIG BANG. LITEBIRD IS TECHNICALLY REPRESENTATIVE OF FUTURE CMB POLARIZATION IMAGING MISSIONS. THE LITEBIRD DESIGN HAS TWO 5K-COOLED TELESCOPES  AND IT WILL MEASURE IN 15 FREQUENCY BANDS BETWEEN 40 AND 402 GHZ WITH 0.1 K BOLOMETERS  RESULTING IN A POWERFUL ABILITY TO SEPARATE GALACTIC FOREGROUND EMISSION FROM THE CMB. THE 40 CM LOW-FREQUENCY TELESCOPE AND THE 20 CM HIGH-FREQUENCY TELESCOPE GIVE 23 AND 20 ARCMINUTE RESOLUTION AT 140 AND 337 GHZ RESPECTIVELY. WE DRAW MATERIAL FROM THE  U.S PARTICIPATION IN THE LITEBIRD COSMIC MICROWAVE BACKGROUND POLARIZATION SURVEY  CONCEPT STUDY REPORT (CSR) TO DEVELOP THIS TECHNOLOGY PROPOSAL. OUR AREAS OF FOCUS ARE: DETECTOR ARRAYS: WE WILL DEVELOP TWO TYPES OF POLARIZATION-SENSITIVE DETECTORS ARRAYS  BASED ON TRANSITION-EDGE SENSOR (TES) BOLOMETERS  AND BRING THEIRTRLTO THE RANGE OF 5-6. THE FIRST TYPE IS THE BROADBAND SINUOUS ANTENNA-COUPLED ARRAY THAT MAKES USE OF CONTACTING LENSLETS TO INCREASE ANTENNA GAIN. THE SECOND TYPE IS WAVEGUIDE-PROBE-COUPLED  WHICH MAKES USE OF CORRUGATED FEEDHORNS. IN THE LITEBIRD BASELINE DESIGN  SINUOUS DETECTORS ARE IMPLEMENTED FROM 40-235 GHZ  AND WAVEGUIDE-PROBE-COUPLED DETECTORS ARE IMPLEMENTED FROM 280 TO 402 GHZ. FOR BOTH ARCHITECTURES  WE WILL IMPLEMENT TES BOLOMETERS SUITABLE FOR 100MK BASE TEMPERATURE OPERATION WITH SUITABLE OPERATIONAL PARAMETERS FOR READOUT USING A FREQUENCY-DOMAIN MULTIPLEXER (FDM)  AND WE WILL DEVELOP METHODS TOMITIGATE DETECTOR DEAD TIME DUE TO COSMIC RAY INTERACTIONS IN THE DETECTORS. BY DEMONSTRATION OF A 3-LAYER THERMAL SPRAY ANTIREFLECTION COATING TECHNIQUE FOR THE LENSLETS AND BY DEMONSTRATION OF SILICON PLATELET FEEDHORN ARRAYS AT 400 GHZ  WE WILL IN ADDITION ADVANCE OPTICAL COUPLING SCHEMES FOR CRYOGENICMM-WAVE DETECTOR ARRAYS. FOCAL PLANE MODULES: WE WILL DEVELOP FLIGHT-REPRESENTATIVE FOCAL PLANE MODULES THAT INCLUDE THE BOLOMETER ARRAY WAFERS  LENSLETS AND SUPPORT WAFER  A METAL FRAME  AND MOUNTING OF THE SUPERCONDUCTING FDMREADOUT COMPONENTS. THESE MODULES WILL BE DEVELOPED TO A TRL RANGE OF 5-6 INCLUDING A FULL LAUNCH VIBRATION VALIDATION. SYSTEM INTEGRATION: AN END-TO-END DETECTOR SYSTEM INTEGRATION TEST OF INDIVIDUAL FOCAL PLANE MODULES WILL BE DONE INCLUDING READOUT OF THE DETECTORS USING FLIGHT-REPRESENTATIVE WIRING HARNESSES. THE TESTS WILL INCLUDEMODULES OF ALL TYPES LOW FREQUENCY (LF) MEDIUMFREQUENCY (MF)  AND HIGH FREQUENCY (HF). MISSIONSIMULATIONS: SIMULATIONS OF THE MISSIONWILL BE GENERATED AND ANALYZED TO UNDERSTAND THE IMPACT OF THE DETECTOR DESIGN PARAMETERS ON SYSTEMATIC ERRORS  AND OF THE FOCAL PLANE LAYOUT  INCLUDING FREQUENCY BAND NUMBER AND POSITION  ON THE ABILITY TO REMOVE FOREGROUND CONTAMINATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "2150 SHATTUCK AVE RM 313",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5940",
+      "zip5": "94704"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94704-5940",
+      "zip5": "94704"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2017-12-08",
+    "End Date": "2021-10-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC18K0132_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74725157,
+    "generated_unique_award_id": "ASST_NON_80NSSC18K0132_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "WE PROPOSE TO ADVANCE THE TRL OF FOCAL-PLANE SUPERCONDUCTING DETECTORS AND READOUT ELECTRONICS FOR THE JAXA LITEBIRD CMB MISSION AND OTHER NEXT GENERATION CMB SPACE MISSIONS. A FUTURE CMB SPACE MISSION WILL MAP POLARIZED FLUCTUATIONS IN THE COSMIC MICROWAVE BACKGROUND (CMB) TO SEARCH FOR THE SIGNATURE OF GRAVITATIONAL WAVES FROM INFLATION  POTENTIALLY OPENING A WINDOW ON THE UNIVERSE A FRACTION OF A SECOND AFTER THE BIG BANG. LITEBIRD IS TECHNICALLY REPRESENTATIVE OF FUTURE CMB POLARIZATION IMAGING MISSIONS. THE LITEBIRD DESIGN HAS TWO 5K-COOLED TELESCOPES  AND IT WILL MEASURE IN 15 FREQUENCY BANDS BETWEEN 40 AND 402 GHZ WITH 0.1 K BOLOMETERS  RESULTING IN A POWERFUL ABILITY TO SEPARATE GALACTIC FOREGROUND EMISSION FROM THE CMB. THE 40 CM LOW-FREQUENCY TELESCOPE AND THE 20 CM HIGH-FREQUENCY TELESCOPE GIVE 23 AND 20 ARCMINUTE RESOLUTION AT 140 AND 337 GHZ RESPECTIVELY. WE DRAW MATERIAL FROM THE  U.S PARTICIPATION IN THE LITEBIRD COSMIC MICROWAVE BACKGROUND POLARIZATION SURVEY  CONCEPT STUDY REPORT (CSR) TO DEVELOP THIS TECHNOLOGY PROPOSAL. OUR AREAS OF FOCUS ARE: DETECTOR ARRAYS: WE WILL DEVELOP TWO TYPES OF POLARIZATION-SENSITIVE DETECTORS ARRAYS  BASED ON TRANSITION-EDGE SENSOR (TES) BOLOMETERS  AND BRING THEIRTRLTO THE RANGE OF 5-6. THE FIRST TYPE IS THE BROADBAND SINUOUS ANTENNA-COUPLED ARRAY THAT MAKES USE OF CONTACTING LENSLETS TO INCREASE ANTENNA GAIN. THE SECOND TYPE IS WAVEGUIDE-PROBE-COUPLED  WHICH MAKES USE OF CORRUGATED FEEDHORNS. IN THE LITEBIRD BASELINE DESIGN  SINUOUS DETECTORS ARE IMPLEMENTED FROM 40-235 GHZ  AND WAVEGUIDE-PROBE-COUPLED DETECTORS ARE IMPLEMENTED FROM 280 TO 402 GHZ. FOR BOTH ARCHITECTURES  WE WILL IMPLEMENT TES BOLOMETERS SUITABLE FOR 100MK BASE TEMPERATURE OPERATION WITH SUITABLE OPERATIONAL PARAMETERS FOR READOUT USING A FREQUENCY-DOMAIN MULTIPLEXER (FDM)  AND WE WILL DEVELOP METHODS TOMITIGATE DETECTOR DEAD TIME DUE TO COSMIC RAY INTERACTIONS IN THE DETECTORS. BY DEMONSTRATION OF A 3-LAYER THERMAL SPRAY ANTIREFLECTION COATING TECHNIQUE FOR THE LENSLETS AND BY DEMONSTRATION OF SILICON PLATELET FEEDHORN ARRAYS AT 400 GHZ  WE WILL IN ADDITION ADVANCE OPTICAL COUPLING SCHEMES FOR CRYOGENICMM-WAVE DETECTOR ARRAYS. FOCAL PLANE MODULES: WE WILL DEVELOP FLIGHT-REPRESENTATIVE FOCAL PLANE MODULES THAT INCLUDE THE BOLOMETER ARRAY WAFERS  LENSLETS AND SUPPORT WAFER  A METAL FRAME  AND MOUNTING OF THE SUPERCONDUCTING FDMREADOUT COMPONENTS. THESE MODULES WILL BE DEVELOPED TO A TRL RANGE OF 5-6 INCLUDING A FULL LAUNCH VIBRATION VALIDATION. SYSTEM INTEGRATION: AN END-TO-END DETECTOR SYSTEM INTEGRATION TEST OF INDIVIDUAL FOCAL PLANE MODULES WILL BE DONE INCLUDING READOUT OF THE DETECTORS USING FLIGHT-REPRESENTATIVE WIRING HARNESSES. THE TESTS WILL INCLUDEMODULES OF ALL TYPES LOW FREQUENCY (LF) MEDIUMFREQUENCY (MF)  AND HIGH FREQUENCY (HF). MISSIONSIMULATIONS: SIMULATIONS OF THE MISSIONWILL BE GENERATED AND ANALYZED TO UNDERSTAND THE IMPACT OF THE DETECTOR DESIGN PARAMETERS ON SYSTEMATIC ERRORS  AND OF THE FOCAL PLANE LAYOUT  INCLUDING FREQUENCY BAND NUMBER AND POSITION  ON THE ABILITY TO REMOVE FOREGROUND CONTAMINATION.",
+    "total_obligation": 4852633.45,
+    "subaward_count": 2,
+    "total_subaward_amount": 1679056.87,
+    "date_signed": "2017-12-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1511001.64,
+    "total_account_obligation": 1370057.45,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1511001.64
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1370057.45
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2017-12-08",
+      "end_date": "2021-10-31",
+      "last_modified_date": "2023-02-07",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "2150 SHATTUCK AVE RM 313",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5940",
+        "zip5": "94704",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "5940",
+      "zip5": "94704",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1511001.64
+  }
+}

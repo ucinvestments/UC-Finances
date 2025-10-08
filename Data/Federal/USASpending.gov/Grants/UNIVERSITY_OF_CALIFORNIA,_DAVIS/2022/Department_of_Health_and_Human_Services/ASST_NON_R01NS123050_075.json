@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91239368,
+    "Award ID": "R01NS123050",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1842662,
+    "Total Outlays": 1657279.68,
+    "Description": "POSTSYNAPTIC SIGNALING BY NOREPINEPHRINE AND CAMP - POSTSYNAPTIC SIGNALING BY NOREPINEPHRINE AND CAMP ABSTRACT NOREPINEPHRINE (NE) REGULATES ATTENTION AND ALERTNESS. THE SS2AR ADRENERGIC RECEPTOR (SS2AR) IS THE PREVALENT POSTSYNAPTIC NE EFFECTOR AT GLUTAMATERGIC SYNAPSES, WHERE IT INTERACTS WITH AMPARS AND THE POSTSYNAPTIC L- TYPE CA2+ CHANNEL (LTCC) CAV1.2. THESE COMPLEXES ALSO CONTAIN ALL DOWNSTREAM EFFECTORS OF SS2AR (GS, ADENYLYL CYCLASES (ACS) AND THE CAMP-DEPENDENT PROTEIN KINASE PKA) FOR HIGHLY LOCALIZED SIGNALING BY CAMP (SEE OUR PIONEERING WORK IN SCIENCE 293, 98; SCIENCE 293, 2205; EMBO J 29, 482; EMBO J 35, 1330; SCIENCE SIGNALING10, EAAF9659 AND EAAF9647). OUR EXCITING PRELIMINARY DATA INDICATE THAT 1) NE ENTERS NEURONS AND ENDOSOMES VIA THE NE TRANSPORTERS OCT3 AND PMAT TO STIMULATE INTRACELLULAR SS2AR SIGNALING AND DRIVE AMPARS TO THE CELL SURFACE; 2) THE CAMP DEGRADING PHOSPHODIESTERASE PDE4A5, WHICH IS INCREASED DURING SLEEP DEPRIVATION AND MEDIATES THE RESULTING MEMORY IMPAIRMENT, IS LINKED TO THE SS2AR - AMPAR COMPLEX VIA PSD- 95; 3) CAV1.2 FORMS A SUPERCOMPLEX WITH AMPARS, WHICH ALLOWS EFFICIENT ACTIVATION OF CAV1.2 DURING SYNAPTIC TRANSMISSION AT POSTSYNAPTIC SITES WITH NE PRESENT. AIM 1 IS TO TEST WHETHER ACTIVATION OF INTRACELLULAR SS2ARS UPON NE UPTAKE BY OCT3 \u0026 PMAT TRIGGERS AMPAR PHOSPHORYLATION AND SURFACE DELIVERY, THEREBY PROMOTING LTP AS PKA IS KNOWN TO STIMULATE AMPAR SURFACE INSERTION. WE WILL TEST WHETHER NE-INDUCED PHOSPHORYLATION (IMMUNOBLOTTING; IB) AND SURFACE INSERTION OF GLUA1 (IMMUNOFLUORESCENT MICROSCOPY; IF) AND NE-DEPENDENT LTP ARE ABROGATED BY INHIBITORS AND KO OF OCT3 \u0026PMAT. THIS WILL PROVIDE FOR THE FIRST TIME LACKING BUT IMPORTANT EVIDENCE FOR INTRACELLULAR SIGNALING BY NE IN NEURONS. AIM 2 IS TO TEST WHETHER THE CAMP-HYDROLYZING PDE4A5 CURBS UPREGULATION OF AMPARS BY SS2AR - CAMP - PKA SIGNALING. WE WILL TEST WHETHER DISPLACING PDE4A5 FROM GLUA1 WITH POLYPEPTIDES ELEVATES GLUA1 PHOSPHORYLATION BY PKA AND SURFACE EXPRESSION OF GLUA1 IN HCS (IF) AND POSTSYNAPTIC AMPARS RESPONSES (MEPSC, EPSC). AIM 3 IS TO DETERMINE THE AMPAR - CAV1.2 INTERACTION SITES AND TEST THE FUNCTIONAL RELEVANCE OF THE AMPAR - CAV1.2 SUPERCOMPLEX FORMATION. WE WILL DISRUPT THE INTERACTION BY MUTATIONS AND ACUTE PEPTIDE APPLICATION TO DETERMINE ITS ROLE IN CA2+ INFLUX INTO DENDRITIC SPINES AND GLUA1 SURFACE INSERTION BY LIVE IMAGING. THIS WORK WILL DEFINE UNEXPLORED FUNDAMENTAL MOLECULAR MECHANISMS OF HOW NE REGULATES POSTSYNAPTIC FUNCTIONS. IT WILL ELUCIDATE NEW MOLECULAR DETAILS THAT MIGHT BE AFFECTED IN NEUROLOGICAL DISEASES SUCH AS ALZHEIMER’S DISEASE, WHICH IS AT LEAST IN PART DUE TO DYSREGULATION OF CAV1.2 AND GLUTAMATE RECEPTORS BY SS2AR SIGNALING. NE SIGNALING IS ALSO RELEVANT FOR ADHD AND PTSD. THE POSTSYNAPTIC ASSEMBLY OF SPECIFIC SIGNALING COMPONENTS THAT CONTROL PKA-MEDIATED PHOSPHORYLATION OF AMPARS AND CAV1.2 AND THEIR FUNCTIONAL INTERACTIONS CONSTITUTE POTENTIALLY EFFECTIVE AND SPECIFIC TARGETS FOR DRUGS THAT DISRUPT SOME OF THESE INTERACTIONS WHILE NOT AFFECTING OTHERS (E.G., OUR PEPTIDES DSPL AND PEP2 THAT SPECIFICALLY DISPLACE THE SS2AR FROM AMPAR BUT NOT CAV1.2 AND VICE VERSA, RESPECTIVELY EMBO J 35,1330). PAGE 1",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-02-01",
+    "End Date": "2026-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS123050_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91239368,
+    "generated_unique_award_id": "ASST_NON_R01NS123050_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "POSTSYNAPTIC SIGNALING BY NOREPINEPHRINE AND CAMP - POSTSYNAPTIC SIGNALING BY NOREPINEPHRINE AND CAMP ABSTRACT NOREPINEPHRINE (NE) REGULATES ATTENTION AND ALERTNESS. THE SS2AR ADRENERGIC RECEPTOR (SS2AR) IS THE PREVALENT POSTSYNAPTIC NE EFFECTOR AT GLUTAMATERGIC SYNAPSES, WHERE IT INTERACTS WITH AMPARS AND THE POSTSYNAPTIC L- TYPE CA2+ CHANNEL (LTCC) CAV1.2. THESE COMPLEXES ALSO CONTAIN ALL DOWNSTREAM EFFECTORS OF SS2AR (GS, ADENYLYL CYCLASES (ACS) AND THE CAMP-DEPENDENT PROTEIN KINASE PKA) FOR HIGHLY LOCALIZED SIGNALING BY CAMP (SEE OUR PIONEERING WORK IN SCIENCE 293, 98; SCIENCE 293, 2205; EMBO J 29, 482; EMBO J 35, 1330; SCIENCE SIGNALING10, EAAF9659 AND EAAF9647). OUR EXCITING PRELIMINARY DATA INDICATE THAT 1) NE ENTERS NEURONS AND ENDOSOMES VIA THE NE TRANSPORTERS OCT3 AND PMAT TO STIMULATE INTRACELLULAR SS2AR SIGNALING AND DRIVE AMPARS TO THE CELL SURFACE; 2) THE CAMP DEGRADING PHOSPHODIESTERASE PDE4A5, WHICH IS INCREASED DURING SLEEP DEPRIVATION AND MEDIATES THE RESULTING MEMORY IMPAIRMENT, IS LINKED TO THE SS2AR - AMPAR COMPLEX VIA PSD- 95; 3) CAV1.2 FORMS A SUPERCOMPLEX WITH AMPARS, WHICH ALLOWS EFFICIENT ACTIVATION OF CAV1.2 DURING SYNAPTIC TRANSMISSION AT POSTSYNAPTIC SITES WITH NE PRESENT. AIM 1 IS TO TEST WHETHER ACTIVATION OF INTRACELLULAR SS2ARS UPON NE UPTAKE BY OCT3 \u0026 PMAT TRIGGERS AMPAR PHOSPHORYLATION AND SURFACE DELIVERY, THEREBY PROMOTING LTP AS PKA IS KNOWN TO STIMULATE AMPAR SURFACE INSERTION. WE WILL TEST WHETHER NE-INDUCED PHOSPHORYLATION (IMMUNOBLOTTING; IB) AND SURFACE INSERTION OF GLUA1 (IMMUNOFLUORESCENT MICROSCOPY; IF) AND NE-DEPENDENT LTP ARE ABROGATED BY INHIBITORS AND KO OF OCT3 \u0026PMAT. THIS WILL PROVIDE FOR THE FIRST TIME LACKING BUT IMPORTANT EVIDENCE FOR INTRACELLULAR SIGNALING BY NE IN NEURONS. AIM 2 IS TO TEST WHETHER THE CAMP-HYDROLYZING PDE4A5 CURBS UPREGULATION OF AMPARS BY SS2AR - CAMP - PKA SIGNALING. WE WILL TEST WHETHER DISPLACING PDE4A5 FROM GLUA1 WITH POLYPEPTIDES ELEVATES GLUA1 PHOSPHORYLATION BY PKA AND SURFACE EXPRESSION OF GLUA1 IN HCS (IF) AND POSTSYNAPTIC AMPARS RESPONSES (MEPSC, EPSC). AIM 3 IS TO DETERMINE THE AMPAR - CAV1.2 INTERACTION SITES AND TEST THE FUNCTIONAL RELEVANCE OF THE AMPAR - CAV1.2 SUPERCOMPLEX FORMATION. WE WILL DISRUPT THE INTERACTION BY MUTATIONS AND ACUTE PEPTIDE APPLICATION TO DETERMINE ITS ROLE IN CA2+ INFLUX INTO DENDRITIC SPINES AND GLUA1 SURFACE INSERTION BY LIVE IMAGING. THIS WORK WILL DEFINE UNEXPLORED FUNDAMENTAL MOLECULAR MECHANISMS OF HOW NE REGULATES POSTSYNAPTIC FUNCTIONS. IT WILL ELUCIDATE NEW MOLECULAR DETAILS THAT MIGHT BE AFFECTED IN NEUROLOGICAL DISEASES SUCH AS ALZHEIMER’S DISEASE, WHICH IS AT LEAST IN PART DUE TO DYSREGULATION OF CAV1.2 AND GLUTAMATE RECEPTORS BY SS2AR SIGNALING. NE SIGNALING IS ALSO RELEVANT FOR ADHD AND PTSD. THE POSTSYNAPTIC ASSEMBLY OF SPECIFIC SIGNALING COMPONENTS THAT CONTROL PKA-MEDIATED PHOSPHORYLATION OF AMPARS AND CAV1.2 AND THEIR FUNCTIONAL INTERACTIONS CONSTITUTE POTENTIALLY EFFECTIVE AND SPECIFIC TARGETS FOR DRUGS THAT DISRUPT SOME OF THESE INTERACTIONS WHILE NOT AFFECTING OTHERS (E.G., OUR PEPTIDES DSPL AND PEP2 THAT SPECIFICALLY DISPLACE THE SS2AR FROM AMPAR BUT NOT CAV1.2 AND VICE VERSA, RESPECTIVELY EMBO J 35,1330). PAGE 1",
+    "total_obligation": 1842662,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-01-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1657279.68,
+    "total_account_obligation": 1842662,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1657279.68
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1842662
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2022-02-01",
+      "end_date": "2026-12-31",
+      "last_modified_date": "2024-12-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1657279.68
+  }
+}

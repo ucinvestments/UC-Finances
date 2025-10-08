@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57286569,
+    "Award ID": "2342436",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 600000,
+    "Total Outlays": 314552.38,
+    "Description": "CROWDING AND CONFINEMENT: COUPLING OF BULK AND MEMBRANE PHASE SEPARATION IN GIANT VESICLES -NON-TECHNICAL SUMMARY THE INSIDE OF A LIVING CELL, A FEW BILLIONTHS OF A CUBIC CENTIMETER, IS TINY. IT IS ALSO EXTREMELY CROWDED. PACKING A STAGGERINGLY LARGE NUMBER OF DIFFERENT MOLECULES ? PROTEINS, SUGARS, AND NUCLEIC ACIDS ? THE CELLULAR INTERIOR IS A BUSY SPACE. MANY OF THE MOLECULAR ACTORS IN THIS SPACE ARE LARGE POLYMERS WITH SOME DISLIKING OTHERS, AND OTHERS PREFERRING SPECIFIC NEIGHBORS. AS A RESULT, THE CELLULAR SPACE IS NOT A FEATURELESS FLUID. INSTEAD, IT IS HIGHLY TEXTURED ? A DYNAMIC MOSAIC PATTERN OF CO-EXISTING LIQUIDS OF DIFFERENT COMPOSITIONS LIKE OIL IN LAVA LAMPS. COLLECTIVELY REFERRED TO AS LIQUID-LIQUID PHASE SEPARATION, THIS MOLECULAR BEHAVIOR PLAYS IMPORTANT ROLES IN HOW CELLULAR CONTENTS GET ORGANIZED AND CELLULAR DUTIES ACCOMPLISHED. USING SIMPLIFIED MODELS OF CELL, WHICH MINIMALLY MIMIC THE SIZE AND THE ENVIRONMENTS OF THE LIVING CELL, PRESENT RESEARCH WILL STUDY HOW THESE MOLECULAR DISTRIBUTIONS IN CELL-LIKE ENVIRONMENT GETS ORGANIZED AND HOW IT AFFECTS THE VERY BOUNDARY AND THE SHAPE OF THE MINIMAL CELL ITSELF. THE RESEARCH WILL BE CARRIED OUT BY GRADUATE STUDENTS AND UNDERGRADUATE RESEARCHERS IN A TIGHT RESEARCH PARTNERSHIP BETWEEN THE CALIFORNIA STATE UNIVERSITY, SACRAMENTO (CSUS, A PRIMARILY UNDERGRADUATE AND MINORITY-SERVING INSTITUTION) AND THE UNIVERSITY OF CALIFORNIA, DAVIS. TECHNICAL SUMMARY THIS PROPOSAL SEEKS TO DEVELOP EXPERIMENTAL MODELS OF MEMBRANE-BOUND COMPARTMENTS THAT RECAPITULATE LIQUID-LIQUID PHASE SEPARATION IN A MACROMOLECULARLY CROWDED ENVIRONMENT. IT STUDIES TWO MAJOR MECHANISMS: (1) SEGREGATIVE PHASE SEPARATION OF WATER-SOLUBLE POLYMERS PRODUCING AQUEOUS TWO-PHASE SYSTEMS AND (2) ASSOCIATIVE PHASE SEPARATION OF COACERVATING BIOPOLYMERS. BY OSMOTICALLY INDUCING LIQUID-LIQUID PHASE SEPARATION IN-SITU, THE EFFORT TESTS THE HYPOTHESIS THAT THE CHANGES IN THE INTRAVESICULAR MACROMOLECULAR CROWDING ARE TRANSDUCED INSIDE-OUT TO THE MEMBRANE BOUNDARY ACTIVATING THE MEMBRANE INTERFACE. THE ACTIVATION INVOLVES BOTH MOLECULAR (AND DOMAIN-LEVEL) REORGANIZATION AND MESOSCOPIC, GLOBAL SHAPE TRANSFORMATIONS. THE PLANNED ACTIVITIES INCLUDE THREE MAJOR SPECIFIC AIMS: (1) QUANTIFY THE DYNAMICS OF PHASE COARSENING DURING LIQUID-LIQUID PHASE SEPARATIONS IN VESICULAR CONFINEMENT; (2) MAP RELATIONS BETWEEN OSMOTICALLY-INDUCED INTRAVESICULAR MACROMOLECULAR CROWDING AND MEMBRANE REMODELING; AND (3) CHARACTERIZE THE COUPLING OF DYNAMICS OF LIQUID-LIQUID PHASE SEPARATION AND MEMBRANE BOUNDARY IN COMPLEX INTRAVESICULAR MEDIA INCLUDING RECONSTITUTED BIOPOLYMERS. EXPERIMENTAL APPROACHES COMBINE WET CHEMICAL AND BIOCHEMICAL METHODS WITH QUANTITATIVE APPLICATIONS OF FLUORESCENCE MICROSCOPY-BASED TECHNIQUES AND QUANTITATIVE IMAGE ANALYSES. THE RESEARCH REPRESENTS A TIGHT PARTNERSHIP BETWEEN GRADUATE STUDENTS AT UC DAVIS AND UNDERGRADUATE STUDENTS CALIFORNIA STATE UNIVERSITY, SACRAMENTO (CSUS, A PRIMARILY UNDERGRADUATE AND MINORITY-SERVING INSTITUTION). ADDITIONALLY, THE RESEARCH ACTIVITIES WILL BE LEVERAGED TO ENHANCE A MULTI-DEPARTMENT COURSE IN PHYSICAL BIOLOGY AT UC DAVIS, AND WILL BE INCORPORATED INTO A NEW BIOPHYSICS UNDERGRADUATE COURSE AT CSUS. THE PROPOSED ACTIVITIES WILL ALSO BE USED TO ENHANCE OUTREACH ACTIVITIES BY ENGAGING UNDERREPRESENTED UNDERGRADUATES IN STEM THROUGH THE VERTICALLY-INTEGRATED-PROGRAM, WHICH PROVIDES MULTI-YEAR IMMERSION IN TEAM-BASED RESEARCH DURING THEIR UNDERGRADUATE EDUCATION. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2342436_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57286569,
+    "generated_unique_award_id": "ASST_NON_2342436_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CROWDING AND CONFINEMENT: COUPLING OF BULK AND MEMBRANE PHASE SEPARATION IN GIANT VESICLES -NON-TECHNICAL SUMMARY THE INSIDE OF A LIVING CELL, A FEW BILLIONTHS OF A CUBIC CENTIMETER, IS TINY. IT IS ALSO EXTREMELY CROWDED. PACKING A STAGGERINGLY LARGE NUMBER OF DIFFERENT MOLECULES ? PROTEINS, SUGARS, AND NUCLEIC ACIDS ? THE CELLULAR INTERIOR IS A BUSY SPACE. MANY OF THE MOLECULAR ACTORS IN THIS SPACE ARE LARGE POLYMERS WITH SOME DISLIKING OTHERS, AND OTHERS PREFERRING SPECIFIC NEIGHBORS. AS A RESULT, THE CELLULAR SPACE IS NOT A FEATURELESS FLUID. INSTEAD, IT IS HIGHLY TEXTURED ? A DYNAMIC MOSAIC PATTERN OF CO-EXISTING LIQUIDS OF DIFFERENT COMPOSITIONS LIKE OIL IN LAVA LAMPS. COLLECTIVELY REFERRED TO AS LIQUID-LIQUID PHASE SEPARATION, THIS MOLECULAR BEHAVIOR PLAYS IMPORTANT ROLES IN HOW CELLULAR CONTENTS GET ORGANIZED AND CELLULAR DUTIES ACCOMPLISHED. USING SIMPLIFIED MODELS OF CELL, WHICH MINIMALLY MIMIC THE SIZE AND THE ENVIRONMENTS OF THE LIVING CELL, PRESENT RESEARCH WILL STUDY HOW THESE MOLECULAR DISTRIBUTIONS IN CELL-LIKE ENVIRONMENT GETS ORGANIZED AND HOW IT AFFECTS THE VERY BOUNDARY AND THE SHAPE OF THE MINIMAL CELL ITSELF. THE RESEARCH WILL BE CARRIED OUT BY GRADUATE STUDENTS AND UNDERGRADUATE RESEARCHERS IN A TIGHT RESEARCH PARTNERSHIP BETWEEN THE CALIFORNIA STATE UNIVERSITY, SACRAMENTO (CSUS, A PRIMARILY UNDERGRADUATE AND MINORITY-SERVING INSTITUTION) AND THE UNIVERSITY OF CALIFORNIA, DAVIS. TECHNICAL SUMMARY THIS PROPOSAL SEEKS TO DEVELOP EXPERIMENTAL MODELS OF MEMBRANE-BOUND COMPARTMENTS THAT RECAPITULATE LIQUID-LIQUID PHASE SEPARATION IN A MACROMOLECULARLY CROWDED ENVIRONMENT. IT STUDIES TWO MAJOR MECHANISMS: (1) SEGREGATIVE PHASE SEPARATION OF WATER-SOLUBLE POLYMERS PRODUCING AQUEOUS TWO-PHASE SYSTEMS AND (2) ASSOCIATIVE PHASE SEPARATION OF COACERVATING BIOPOLYMERS. BY OSMOTICALLY INDUCING LIQUID-LIQUID PHASE SEPARATION IN-SITU, THE EFFORT TESTS THE HYPOTHESIS THAT THE CHANGES IN THE INTRAVESICULAR MACROMOLECULAR CROWDING ARE TRANSDUCED INSIDE-OUT TO THE MEMBRANE BOUNDARY ACTIVATING THE MEMBRANE INTERFACE. THE ACTIVATION INVOLVES BOTH MOLECULAR (AND DOMAIN-LEVEL) REORGANIZATION AND MESOSCOPIC, GLOBAL SHAPE TRANSFORMATIONS. THE PLANNED ACTIVITIES INCLUDE THREE MAJOR SPECIFIC AIMS: (1) QUANTIFY THE DYNAMICS OF PHASE COARSENING DURING LIQUID-LIQUID PHASE SEPARATIONS IN VESICULAR CONFINEMENT; (2) MAP RELATIONS BETWEEN OSMOTICALLY-INDUCED INTRAVESICULAR MACROMOLECULAR CROWDING AND MEMBRANE REMODELING; AND (3) CHARACTERIZE THE COUPLING OF DYNAMICS OF LIQUID-LIQUID PHASE SEPARATION AND MEMBRANE BOUNDARY IN COMPLEX INTRAVESICULAR MEDIA INCLUDING RECONSTITUTED BIOPOLYMERS. EXPERIMENTAL APPROACHES COMBINE WET CHEMICAL AND BIOCHEMICAL METHODS WITH QUANTITATIVE APPLICATIONS OF FLUORESCENCE MICROSCOPY-BASED TECHNIQUES AND QUANTITATIVE IMAGE ANALYSES. THE RESEARCH REPRESENTS A TIGHT PARTNERSHIP BETWEEN GRADUATE STUDENTS AT UC DAVIS AND UNDERGRADUATE STUDENTS CALIFORNIA STATE UNIVERSITY, SACRAMENTO (CSUS, A PRIMARILY UNDERGRADUATE AND MINORITY-SERVING INSTITUTION). ADDITIONALLY, THE RESEARCH ACTIVITIES WILL BE LEVERAGED TO ENHANCE A MULTI-DEPARTMENT COURSE IN PHYSICAL BIOLOGY AT UC DAVIS, AND WILL BE INCORPORATED INTO A NEW BIOPHYSICS UNDERGRADUATE COURSE AT CSUS. THE PROPOSED ACTIVITIES WILL ALSO BE USED TO ENHANCE OUTREACH ACTIVITIES BY ENGAGING UNDERREPRESENTED UNDERGRADUATES IN STEM THROUGH THE VERTICALLY-INTEGRATED-PROGRAM, WHICH PROVIDES MULTI-YEAR IMMERSION IN TEAM-BASED RESEARCH DURING THEIR UNDERGRADUATE EDUCATION. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "total_obligation": 600000,
+    "subaward_count": 1,
+    "total_subaward_amount": 49209,
+    "date_signed": "2024-01-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 321532.42,
+    "total_account_obligation": 600000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 321532.42
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 600000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MATERIALS RESEARCH"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MATERIALS RESEARCH"
+    },
+    "period_of_performance": {
+      "start_date": "2024-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2024-02-07",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 321532.42
+  }
+}

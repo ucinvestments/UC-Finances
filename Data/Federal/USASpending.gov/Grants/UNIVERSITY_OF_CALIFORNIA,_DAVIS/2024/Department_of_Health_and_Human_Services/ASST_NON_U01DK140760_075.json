@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92614239,
+    "Award ID": "U01DK140760",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 840420,
+    "Total Outlays": 176430.84,
+    "Description": "RISK AND PROTECTIVE FACTORS FOR NEUROCOGNITIVE DEVELOPMENT IN TYPE 1 DIABETES - PROJECT SUMMARY/ABSTRACT TYPE 1 DIABETES (T1D) IN CHILDHOOD MAY CAUSE NEUROCOGNITIVE DEFICITS WHICH WORSEN OVER TIME. DECLINES IN COGNITIVE FUNCTION MAY LEAD TO SUBOPTIMAL T1D MANAGEMENT, RESULTING IN A VICIOUS CYCLE THAT INCREASES RISK FOR POOR GLYCEMIC CONTROL AND LIFE-THREATENING COMPLICATIONS. NEW DEVICES FOR T1D MANAGEMENT SUCH AS AUTOMATED INSULIN DELIVERY SYSTEMS REDUCE GLYCEMIC VARIABILITY, BUT OPTIMAL USE REQUIRES ADVANCED UNDERSTANDING AND COGNITIVE FUNCTIONING. THEREFORE, UNDERSTANDING HOW TO PREVENT NEUROCOGNITIVE DECLINE IS CRITICAL. DESPITE THE IMPORTANCE OF THIS ISSUE, THE MECHANISMS UNDERLYING NEURAL INJURY CAUSED BY T1D ARE NOT WELL UNDERSTOOD. EXPOSURE TO DIABETIC KETOACIDOSIS (DKA) AT T1D ONSET AND REPEATED DKA EPISODES, CHRONIC HYPERGLYCEMIA, AND SEVERE HYPOGLYCEMIA HAVE ALL BEEN HYPOTHESIZED TO PLAY A ROLE. IN THE PROPOSED MULTI- CENTER STUDY, WE WILL CONDUCT A LONGITUDINAL COHORT STUDY OF CHILDREN WITH T1D AND A COMPARISON GROUP OF CHILDREN WITHOUT DIABETES, BOTH FROM DIVERSE RACIAL, ETHNIC, AND INCOME BACKGROUNDS, TO CHARACTERIZE ASSOCIATIONS BETWEEN T1D-RELATED FACTORS AND NEUROCOGNITIVE OUTCOMES AND TO IDENTIFY MODIFIABLE MECHANISMS AND ACTIONABLE TARGETS FOR AMELIORATING COGNITIVE DECLINES. WE WILL ENROLL 800 CHILDREN 6 TO 11 YEARS-OLD WITH NEW ONSET OF T1D (HALF WITH AND HALF WITHOUT DKA AT ONSET) AND 200 CHILDREN WITHOUT T1D. THIS COHORT WILL BE COMPREHENSIVELY EVALUATED AT ENROLLMENT AND FOLLOWED FOR A MINIMUM OF 1.5 YEARS TO DETERMINE THE EXTENT TO WHICH DKA AT ONSET PREDICTS COGNITIVE DIFFERENCES OVER TIME (AIM 1), HOW GLYCEMIC VARIABLES (MEAN HBA1C, TIME IN RANGE, MEAN AMPLITUDE OF GLYCEMIC EXCURSIONS, FREQUENCY OF HYPOGLYCEMIA) PREDICT COGNITIVE DIFFERENCES OVER TIME (AIM 2), AND TO ASSESS INTERACTIVE EFFECTS OF DKA EXPOSURE AND GLYCEMIC VARIABLES. WE WILL ALSO INVESTIGATE WHETHER DKA AND HYPERGLYCEMIA ARE ASSOCIATED WITH CHANGES IN SERUM INFLAMMATORY / NEUROINFLAMMATORY MARKERS AND BRAIN STRUCTURE VIA MAGNETIC RESONANCE IMAGING (MRI, AIM 3). PARTICIPANTS WILL COMPLETE A DETAILED BASELINE ASSESSMENT (3-6 MONTHS AFTER T1D DIAGNOSIS) AND FOLLOW UP ASSESSMENTS (YEARLY AFTER THE BASELINE ASSESSMENT). COMPREHENSIVE PANELS OF INFLAMMATORY MARKERS AND MEASURES OF GENE EXPRESSION WILL BE USED TO CHARACTERIZE THE INFLAMMATORY/NEUROINFLAMMATORY STATE OVER TIME. MR DIFFUSION TENSOR IMAGING WILL BE USED TO ASSESS BRAIN MICROSTRUCTURE (FRACTIONAL ANISOTROPY) AND MR SPECTROSCOPY WILL EVALUATE BRAIN METABOLIC ALTERATIONS RELATED TO NEURONAL HEALTH AND DENSITY. TOGETHER, THESE RESULTS WILL PROVIDE INFORMATION TO DEVELOP A MECHANISTIC MODEL FOR T1D-ASSOCIATED BRAIN INJURY ON WHICH TO BASE FUTURE INTERVENTIONAL TRIALS. IN SUM, THIS PROJECT WILL CHARACTERIZE THE IMPACT OF DKA AND GLYCEMIC VARIABLES ON COGNITIVE FUNCTIONING IN CHILDREN WITH T1D AND WILL PROVIDE INSIGHTS INTO HOW THESE FACTORS MAY LEAD TO NEURAL INJURY AND COGNITIVE DECLINE. BY IDENTIFYING RISK FACTORS FOR COGNITIVE DEFICITS, DETERMINING OPTIMAL GLYCEMIC RANGES TO PREVENT DECLINES IN COGNITION, AND PINPOINTING AVENUES FOR PREVENTION AND INTERVENTION, WE WILL GAIN THE FOUNDATION NECESSARY TO CHANGE CLINICAL PRACTICE AND IMPROVE COGNITIVE FUNCTION IN PEOPLE WITH T1D.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "956187715",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-08-15",
+    "End Date": "2029-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U01DK140760_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92614239,
+    "generated_unique_award_id": "ASST_NON_U01DK140760_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "RISK AND PROTECTIVE FACTORS FOR NEUROCOGNITIVE DEVELOPMENT IN TYPE 1 DIABETES - PROJECT SUMMARY/ABSTRACT TYPE 1 DIABETES (T1D) IN CHILDHOOD MAY CAUSE NEUROCOGNITIVE DEFICITS WHICH WORSEN OVER TIME. DECLINES IN COGNITIVE FUNCTION MAY LEAD TO SUBOPTIMAL T1D MANAGEMENT, RESULTING IN A VICIOUS CYCLE THAT INCREASES RISK FOR POOR GLYCEMIC CONTROL AND LIFE-THREATENING COMPLICATIONS. NEW DEVICES FOR T1D MANAGEMENT SUCH AS AUTOMATED INSULIN DELIVERY SYSTEMS REDUCE GLYCEMIC VARIABILITY, BUT OPTIMAL USE REQUIRES ADVANCED UNDERSTANDING AND COGNITIVE FUNCTIONING. THEREFORE, UNDERSTANDING HOW TO PREVENT NEUROCOGNITIVE DECLINE IS CRITICAL. DESPITE THE IMPORTANCE OF THIS ISSUE, THE MECHANISMS UNDERLYING NEURAL INJURY CAUSED BY T1D ARE NOT WELL UNDERSTOOD. EXPOSURE TO DIABETIC KETOACIDOSIS (DKA) AT T1D ONSET AND REPEATED DKA EPISODES, CHRONIC HYPERGLYCEMIA, AND SEVERE HYPOGLYCEMIA HAVE ALL BEEN HYPOTHESIZED TO PLAY A ROLE. IN THE PROPOSED MULTI- CENTER STUDY, WE WILL CONDUCT A LONGITUDINAL COHORT STUDY OF CHILDREN WITH T1D AND A COMPARISON GROUP OF CHILDREN WITHOUT DIABETES, BOTH FROM DIVERSE RACIAL, ETHNIC, AND INCOME BACKGROUNDS, TO CHARACTERIZE ASSOCIATIONS BETWEEN T1D-RELATED FACTORS AND NEUROCOGNITIVE OUTCOMES AND TO IDENTIFY MODIFIABLE MECHANISMS AND ACTIONABLE TARGETS FOR AMELIORATING COGNITIVE DECLINES. WE WILL ENROLL 800 CHILDREN 6 TO 11 YEARS-OLD WITH NEW ONSET OF T1D (HALF WITH AND HALF WITHOUT DKA AT ONSET) AND 200 CHILDREN WITHOUT T1D. THIS COHORT WILL BE COMPREHENSIVELY EVALUATED AT ENROLLMENT AND FOLLOWED FOR A MINIMUM OF 1.5 YEARS TO DETERMINE THE EXTENT TO WHICH DKA AT ONSET PREDICTS COGNITIVE DIFFERENCES OVER TIME (AIM 1), HOW GLYCEMIC VARIABLES (MEAN HBA1C, TIME IN RANGE, MEAN AMPLITUDE OF GLYCEMIC EXCURSIONS, FREQUENCY OF HYPOGLYCEMIA) PREDICT COGNITIVE DIFFERENCES OVER TIME (AIM 2), AND TO ASSESS INTERACTIVE EFFECTS OF DKA EXPOSURE AND GLYCEMIC VARIABLES. WE WILL ALSO INVESTIGATE WHETHER DKA AND HYPERGLYCEMIA ARE ASSOCIATED WITH CHANGES IN SERUM INFLAMMATORY / NEUROINFLAMMATORY MARKERS AND BRAIN STRUCTURE VIA MAGNETIC RESONANCE IMAGING (MRI, AIM 3). PARTICIPANTS WILL COMPLETE A DETAILED BASELINE ASSESSMENT (3-6 MONTHS AFTER T1D DIAGNOSIS) AND FOLLOW UP ASSESSMENTS (YEARLY AFTER THE BASELINE ASSESSMENT). COMPREHENSIVE PANELS OF INFLAMMATORY MARKERS AND MEASURES OF GENE EXPRESSION WILL BE USED TO CHARACTERIZE THE INFLAMMATORY/NEUROINFLAMMATORY STATE OVER TIME. MR DIFFUSION TENSOR IMAGING WILL BE USED TO ASSESS BRAIN MICROSTRUCTURE (FRACTIONAL ANISOTROPY) AND MR SPECTROSCOPY WILL EVALUATE BRAIN METABOLIC ALTERATIONS RELATED TO NEURONAL HEALTH AND DENSITY. TOGETHER, THESE RESULTS WILL PROVIDE INFORMATION TO DEVELOP A MECHANISTIC MODEL FOR T1D-ASSOCIATED BRAIN INJURY ON WHICH TO BASE FUTURE INTERVENTIONAL TRIALS. IN SUM, THIS PROJECT WILL CHARACTERIZE THE IMPACT OF DKA AND GLYCEMIC VARIABLES ON COGNITIVE FUNCTIONING IN CHILDREN WITH T1D AND WILL PROVIDE INSIGHTS INTO HOW THESE FACTORS MAY LEAD TO NEURAL INJURY AND COGNITIVE DECLINE. BY IDENTIFYING RISK FACTORS FOR COGNITIVE DEFICITS, DETERMINING OPTIMAL GLYCEMIC RANGES TO PREVENT DECLINES IN COGNITION, AND PINPOINTING AVENUES FOR PREVENTION AND INTERVENTION, WE WILL GAIN THE FOUNDATION NECESSARY TO CHANGE CLINICAL PRACTICE AND IMPROVE COGNITIVE FUNCTION IN PEOPLE WITH T1D.",
+    "total_obligation": 840420,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-08-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 176430.84,
+    "total_account_obligation": 840420,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 176430.84
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 840420
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2024-08-15",
+      "end_date": "2029-06-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "7715",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 176430.84
+  }
+}

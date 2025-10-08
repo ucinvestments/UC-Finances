@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56329588,
+    "Award ID": "20216701334258",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 700000,
+    "Total Outlays": 624368.57,
+    "Description": "FUNGAL PATHOGENS CAUSE DEVASTATING DISEASE IN CROP PLANTS WORLDWIDE, THREATENING GLOBAL FOOD SECURITY. FUNGAL DISEASES CAN ALSO TARGET NATIVE PLANT AND ANIMAL SPECIES, LEADING TO IRREVERSIBLE ECOLOGICAL DAMAGE. IN HUMANS, FUNGAL DISEASES ARE OFTEN OVERLOOKED, BUT KILL 1.5 MILLION PEOPLE A YEAR. DESPITE THE DANGER FUNGAL PATHOGENS POSE, CURRENT FUNGAL DISEASE MANAGEMENT STRATEGIES ARE LIMITED TO MAINLY CHEMICAL CONTROL. FUNGICIDE APPLICATION OFTEN LEAVES HARMFUL RESIDUES IN THE ENVIRONMENT, AND RESISTANT FUNGI HAVE BEEN REPORTED FOR ALMOST ALL MAJOR CLASS OF FUNGICIDES AND ANTIFUNGAL DRUGS USED IN AGRICULTURAL AND CLINICAL SETTINGS. IN ORDER TO SAFEGUARD GLOBAL FOOD SECURITY, HUMAN HEALTH, AND ECOLOGICAL BIODIVERSITY, IT IS IMPERATIVE THAT NEW TECHNOLOGIES FOR COMBATTING FUNGAL DISEASE ARE DEVELOPED.  THE PI\u0026#39;S LAB DISCOVERED THAT SMALL RNAS (SRNAS) CAN BE TRANSPORTED BETWEEN PLANT HOSTS AND THEIR FUNGAL PATHOGENS AND INDUCE TARGET GENE SILENCING IN THE COUNTERPART THROUGH A PHENOMENON CALLED CROSS-KINGDOM RNA INTERFERENCE (RNAI). DURING THE LAST FUNDING PERIOD, THE PI\u0026#39;S LAB FURTHER DEMONSTRATED THAT PLANTS SEND SRNAS INTO FUNGAL CELLS USING EXTRACELLULAR VESICLES, SECRETED MEMBRANE ENCAPSULATED STRUCTURES THAT ARE IMPORTANT FOR INTERCELLULAR COMMUNICATION. FURTHERMORE, THE PI\u0026#39;S LAB DISCOVERED THAT FUNGAL CELLS CAN TAKE UP RNAS FROM THE ENVIRONMENT. THIS DISCOVERY HAS PROMPTED THE DEVELOPMENT OF A NEW FUNGAL DISEASE MANAGEMENT STRATEGY, SPRAY-INDUCED GENE SILENCING (SIGS), WHERE FUNGAL GENE-TARGETING RNAS ARE SPRAYED ONTO PLANTS AND TAKEN UP BY FUNGAL CELLS AND SILENCE FUNGAL VIRULENCE-RELATED GENES TO CONFER DISEASE PROTECTION. SIGS HAS BEEN SUCCESSFULLY UTILIZED TO INHIBIT MULTIPLE FUNGAL DISEASES ON BOTH PRE- AND POST-HARVESTING PLANTS. UNLIKE TRADITIONAL FUNGICIDES, RNAS ARE SAFE TO INGEST, AND DO NOT LEAVE TOXIC RESIDUES IN THE SOIL.  THIS PROJECT AIMS TO IDENTIFY KEY FUNGAL VIRULENCE-RELATED GENES AND DESIGN SPECIFIC AND SAFE SIGS RNAS TO EFFECTIVELY INHIBIT FUNGAL DISEASES ON PRE- AND POST-HARVESTING PLANTS. PLANT AGGRESSIVE FUNGAL PATHOGENS BOTRYTISSCLEROTINIA SCLEROTIORUM, ASPERGILLUS NIGER AND VERTICILLIUM DAHLIAE, THE ECONOMICALLY IMPORTANT PATHOGENS THAT HAVE BROAD PLANT HOST RANGE AND CAUSE SERIOUS CROP LOSSES WORLDWIDE, WERE CHOSEN FOR THIS STUDY. THIS PROJECT WILL ADDRESS THE MAJOR CHALLENGES OF SIGS APPROACHES TO ENHANCE THE SIGS RNA STABILITY AND FUNGAL UPTAKE EFFICIENCY BY DEVELOPING ORGANIC AND INORGANIC RNA DELIVERY VEHICLES, AND TO DEVELOP COST-EFFECTIVE METHODS FOR SIGS RNA PRODUCTION. ALTHOUGH OUR PRELIMINARY DATA SUGGEST THAT DOCKING SIGS RNAS TO ORGANIC OR INORGANIC CARRIER MOLECULES CAN GREATLY ENHANCE THE SPAN OF TIME THEY CONFER PROTECTION, BUT THEY ARE STILL UNSTABLE IN THE SOIL. TO DEVELOP EFFECTIVE SIGS TO CONTROL SOIL-BORNE FUNGAL PATHOGEN. WE PROPOSE TO DEPLOY BENEFICIAL BACTERIUM AND FUNGUS, B. SUBTILIS AND TRICHODERMA VIRENS, RESPECTIVELY, FOR CONTINUOUS PRODUCTION AND DELIVERY OF SIGS RNAS TO THE RHIZOSPHERE. FURTHERMORE, THIS APPROACH CAN POTENTIALLY BE ADAPTED TO MANIPULATE SOIL MICROBIOME COMPOSITION USING RNA-PRODUCING BENEFICIAL MICROBES TO PROMOTE CROP PRODUCTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFFICE BLDG",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2021-02-15",
+    "End Date": "2026-02-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20216701334258_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56329588,
+    "generated_unique_award_id": "ASST_NON_20216701334258_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FUNGAL PATHOGENS CAUSE DEVASTATING DISEASE IN CROP PLANTS WORLDWIDE, THREATENING GLOBAL FOOD SECURITY. FUNGAL DISEASES CAN ALSO TARGET NATIVE PLANT AND ANIMAL SPECIES, LEADING TO IRREVERSIBLE ECOLOGICAL DAMAGE. IN HUMANS, FUNGAL DISEASES ARE OFTEN OVERLOOKED, BUT KILL 1.5 MILLION PEOPLE A YEAR. DESPITE THE DANGER FUNGAL PATHOGENS POSE, CURRENT FUNGAL DISEASE MANAGEMENT STRATEGIES ARE LIMITED TO MAINLY CHEMICAL CONTROL. FUNGICIDE APPLICATION OFTEN LEAVES HARMFUL RESIDUES IN THE ENVIRONMENT, AND RESISTANT FUNGI HAVE BEEN REPORTED FOR ALMOST ALL MAJOR CLASS OF FUNGICIDES AND ANTIFUNGAL DRUGS USED IN AGRICULTURAL AND CLINICAL SETTINGS. IN ORDER TO SAFEGUARD GLOBAL FOOD SECURITY, HUMAN HEALTH, AND ECOLOGICAL BIODIVERSITY, IT IS IMPERATIVE THAT NEW TECHNOLOGIES FOR COMBATTING FUNGAL DISEASE ARE DEVELOPED.  THE PI\u0026#39;S LAB DISCOVERED THAT SMALL RNAS (SRNAS) CAN BE TRANSPORTED BETWEEN PLANT HOSTS AND THEIR FUNGAL PATHOGENS AND INDUCE TARGET GENE SILENCING IN THE COUNTERPART THROUGH A PHENOMENON CALLED CROSS-KINGDOM RNA INTERFERENCE (RNAI). DURING THE LAST FUNDING PERIOD, THE PI\u0026#39;S LAB FURTHER DEMONSTRATED THAT PLANTS SEND SRNAS INTO FUNGAL CELLS USING EXTRACELLULAR VESICLES, SECRETED MEMBRANE ENCAPSULATED STRUCTURES THAT ARE IMPORTANT FOR INTERCELLULAR COMMUNICATION. FURTHERMORE, THE PI\u0026#39;S LAB DISCOVERED THAT FUNGAL CELLS CAN TAKE UP RNAS FROM THE ENVIRONMENT. THIS DISCOVERY HAS PROMPTED THE DEVELOPMENT OF A NEW FUNGAL DISEASE MANAGEMENT STRATEGY, SPRAY-INDUCED GENE SILENCING (SIGS), WHERE FUNGAL GENE-TARGETING RNAS ARE SPRAYED ONTO PLANTS AND TAKEN UP BY FUNGAL CELLS AND SILENCE FUNGAL VIRULENCE-RELATED GENES TO CONFER DISEASE PROTECTION. SIGS HAS BEEN SUCCESSFULLY UTILIZED TO INHIBIT MULTIPLE FUNGAL DISEASES ON BOTH PRE- AND POST-HARVESTING PLANTS. UNLIKE TRADITIONAL FUNGICIDES, RNAS ARE SAFE TO INGEST, AND DO NOT LEAVE TOXIC RESIDUES IN THE SOIL.  THIS PROJECT AIMS TO IDENTIFY KEY FUNGAL VIRULENCE-RELATED GENES AND DESIGN SPECIFIC AND SAFE SIGS RNAS TO EFFECTIVELY INHIBIT FUNGAL DISEASES ON PRE- AND POST-HARVESTING PLANTS. PLANT AGGRESSIVE FUNGAL PATHOGENS BOTRYTISSCLEROTINIA SCLEROTIORUM, ASPERGILLUS NIGER AND VERTICILLIUM DAHLIAE, THE ECONOMICALLY IMPORTANT PATHOGENS THAT HAVE BROAD PLANT HOST RANGE AND CAUSE SERIOUS CROP LOSSES WORLDWIDE, WERE CHOSEN FOR THIS STUDY. THIS PROJECT WILL ADDRESS THE MAJOR CHALLENGES OF SIGS APPROACHES TO ENHANCE THE SIGS RNA STABILITY AND FUNGAL UPTAKE EFFICIENCY BY DEVELOPING ORGANIC AND INORGANIC RNA DELIVERY VEHICLES, AND TO DEVELOP COST-EFFECTIVE METHODS FOR SIGS RNA PRODUCTION. ALTHOUGH OUR PRELIMINARY DATA SUGGEST THAT DOCKING SIGS RNAS TO ORGANIC OR INORGANIC CARRIER MOLECULES CAN GREATLY ENHANCE THE SPAN OF TIME THEY CONFER PROTECTION, BUT THEY ARE STILL UNSTABLE IN THE SOIL. TO DEVELOP EFFECTIVE SIGS TO CONTROL SOIL-BORNE FUNGAL PATHOGEN. WE PROPOSE TO DEPLOY BENEFICIAL BACTERIUM AND FUNGUS, B. SUBTILIS AND TRICHODERMA VIRENS, RESPECTIVELY, FOR CONTINUOUS PRODUCTION AND DELIVERY OF SIGS RNAS TO THE RHIZOSPHERE. FURTHERMORE, THIS APPROACH CAN POTENTIALLY BE ADAPTED TO MANIPULATE SOIL MICROBIOME COMPOSITION USING RNA-PRODUCING BENEFICIAL MICROBES TO PROMOTE CROP PRODUCTION.",
+    "total_obligation": 700000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-01-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 661752.01,
+    "total_account_obligation": 700000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 661752.01
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 700000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2021-02-15",
+      "end_date": "2026-02-14",
+      "last_modified_date": "2025-06-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFFICE BLDG",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 661752.01
+  }
+}

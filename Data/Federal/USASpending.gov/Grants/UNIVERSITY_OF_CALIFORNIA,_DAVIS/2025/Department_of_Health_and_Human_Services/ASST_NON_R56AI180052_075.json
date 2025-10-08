@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91361574,
+    "Award ID": "R56AI180052",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 642775,
+    "Total Outlays": 288376.57,
+    "Description": "ACCELERATING THE DISCOVERY OF ANTIFUNGAL PEPTIDES WITH OBOC COMBINATORIAL  TECHNOLOGY. - PROJECT SUMMARY INVASIVE FUNGAL MYCOSES ARE A MAJOR THREAT TO GLOBAL HUMAN HEALTH. DESPITE THE MORBIDITY AND MORTALITY CAUSED BY FUNGAL INFECTIONS, AND THE LOOMING THREAT OF MULTI-RESISTANCE, THERE HAS BEEN NO SUBSTANTIAL ADVANCEMENT IN THE DEVELOPMENT OF ANTIFUNGAL AGENTS. ALTHOUGH ANTIFUNGAL PEPTIDES (AFPS) ARE GAINING POPULARITY AS POTENTIALLY NEW ANTIFUNGAL AGENTS, THE LACK OF INNOVATION IN THE AFP SPACE HAS STIFLED DEVELOPMENT. TO TACKLE THESE MAJOR CHALLENGES, WE CAPITALIZED ON THE ONE-BEAD ONE-COMPOUND (OBOC) COMBINATORIAL TECHNOLOGY AND DEVISED A HIGH-THROUGHPUT, MULTI-STEP, FLUORESCENCE-BASED PLATFORM FOR SCREENING CHEMICALLY SYNTHESIZED PEPTIDE LIBRARIES TO IDENTIFY MEMBRANE-ACTIVE ANTIFUNGAL PEPTIDES ON THE BASIS OF THEIR ABILITY TO DISCRIMINATE BETWEEN FUNGAL AND MAMMALIAN PLASMA MEMBRANE COMPOSITIONS OF GIANT UNILAMELLAR VESICLES (GUV). THE PROPOSED RESEARCH WILL TEST THE HYPOTHESIS THAT THE ENABLING OBOC TECHNOLOGY, IN COMBINATION WITH TWO POWERFUL SCREENING STRATEGIES (GUV BINDING ASSAY AND CELL-BASED ANTI-FUNGAL LAWN ASSAY), WILL ENABLE US TO RAPIDLY DEVELOP AND OPTIMIZE NOVEL ANTIFUNGAL AGENTS POSSESSING DEFINED PHYSIOCHEMICAL FEATURES REQUIRED FOR BROAD-SPECTRUM ANTIFUNGAL ACTIVITY, DIVERSE MECHANISMS OF ACTION AND A HIGH THERAPEUTIC INDEX. THE SCIENTIFIC PREMISE SUPPORTING THIS HYPOTHESIS INCLUDES OUR PUBLISHED DATA AND PRELIMINARY EVIDENCE DEMONSTRATING: (1) A NEW PEPTIDE K-OLBF127 THAT SHOWS HIGH SELECTIVITY AND POTENCY TOWARDS FUNGAL CELLS THUS VALIDATING OUR OBOC GUV BINDING ASSAY; (2) THE FEASIBILITY OF OUR HIGH-THROUGHPUT CELL-BASED ANTIFUNGAL LAWN ASSAY WITH OBOC CLEAVABLE PEPTIDES AND (3) THE PROMISING IN VIVO ANTIFUNGAL ACTIVITY OF OUR LEAD PEPTIDE, K-OLBF127. OUR GOALS ARE TO SCALE UP OUR OBOC GUV BINDING ASSAY AND EXPAND OUR SCREEN TO INCLUDE MORE COMPLEX PEPTIDE STRUCTURES, AND TO USE HOMOLOG OBOC RELEASABLE PEPTIDE LIBRARIES WITH A CELL-BASED ANTIFUNGAL LAWN ASSAY TO FURTHER OPTIMIZE THESE MEMBRANE ACTIVE AFPS. IN ADDITION, WE WILL USE THE ANTIFUNGAL LAWN ASSAY TO SCREEN OBOC LIBRARIES FOR NEW ANTIFUNGAL AGENTS. THE MOST PROMISING AFPS WILL BE FULLY CHARACTERIZED FOR THEIR EFFICACY, SAFETY AND ANTIFUNGAL ACTIVITY IN VITRO AS WELL AS IN MURINE MODELS. OUR STUDIES WILL FOCUS ON ASPERGILLUS FUMIGATUS, CANDIDA ALBICANS, CANDIDA AURIS AND CRYPTOCOCCUS NEOFORMANS – ALL DESIGNATED AS FUNGAL THREATS OF THE HIGHEST PRIORITY BY THE WORLD HEALTH ORGANIZATION. THE HIGHLY COMPLEMENTARY EXPERTISE OF THE PIS WILL GENERATE MEANINGFUL INTERACTIONS AND FOSTER DATA SHARING FOR GREATER IMPACT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-01-02",
+    "End Date": "2025-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R56AI180052_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91361574,
+    "generated_unique_award_id": "ASST_NON_R56AI180052_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ACCELERATING THE DISCOVERY OF ANTIFUNGAL PEPTIDES WITH OBOC COMBINATORIAL  TECHNOLOGY. - PROJECT SUMMARY INVASIVE FUNGAL MYCOSES ARE A MAJOR THREAT TO GLOBAL HUMAN HEALTH. DESPITE THE MORBIDITY AND MORTALITY CAUSED BY FUNGAL INFECTIONS, AND THE LOOMING THREAT OF MULTI-RESISTANCE, THERE HAS BEEN NO SUBSTANTIAL ADVANCEMENT IN THE DEVELOPMENT OF ANTIFUNGAL AGENTS. ALTHOUGH ANTIFUNGAL PEPTIDES (AFPS) ARE GAINING POPULARITY AS POTENTIALLY NEW ANTIFUNGAL AGENTS, THE LACK OF INNOVATION IN THE AFP SPACE HAS STIFLED DEVELOPMENT. TO TACKLE THESE MAJOR CHALLENGES, WE CAPITALIZED ON THE ONE-BEAD ONE-COMPOUND (OBOC) COMBINATORIAL TECHNOLOGY AND DEVISED A HIGH-THROUGHPUT, MULTI-STEP, FLUORESCENCE-BASED PLATFORM FOR SCREENING CHEMICALLY SYNTHESIZED PEPTIDE LIBRARIES TO IDENTIFY MEMBRANE-ACTIVE ANTIFUNGAL PEPTIDES ON THE BASIS OF THEIR ABILITY TO DISCRIMINATE BETWEEN FUNGAL AND MAMMALIAN PLASMA MEMBRANE COMPOSITIONS OF GIANT UNILAMELLAR VESICLES (GUV). THE PROPOSED RESEARCH WILL TEST THE HYPOTHESIS THAT THE ENABLING OBOC TECHNOLOGY, IN COMBINATION WITH TWO POWERFUL SCREENING STRATEGIES (GUV BINDING ASSAY AND CELL-BASED ANTI-FUNGAL LAWN ASSAY), WILL ENABLE US TO RAPIDLY DEVELOP AND OPTIMIZE NOVEL ANTIFUNGAL AGENTS POSSESSING DEFINED PHYSIOCHEMICAL FEATURES REQUIRED FOR BROAD-SPECTRUM ANTIFUNGAL ACTIVITY, DIVERSE MECHANISMS OF ACTION AND A HIGH THERAPEUTIC INDEX. THE SCIENTIFIC PREMISE SUPPORTING THIS HYPOTHESIS INCLUDES OUR PUBLISHED DATA AND PRELIMINARY EVIDENCE DEMONSTRATING: (1) A NEW PEPTIDE K-OLBF127 THAT SHOWS HIGH SELECTIVITY AND POTENCY TOWARDS FUNGAL CELLS THUS VALIDATING OUR OBOC GUV BINDING ASSAY; (2) THE FEASIBILITY OF OUR HIGH-THROUGHPUT CELL-BASED ANTIFUNGAL LAWN ASSAY WITH OBOC CLEAVABLE PEPTIDES AND (3) THE PROMISING IN VIVO ANTIFUNGAL ACTIVITY OF OUR LEAD PEPTIDE, K-OLBF127. OUR GOALS ARE TO SCALE UP OUR OBOC GUV BINDING ASSAY AND EXPAND OUR SCREEN TO INCLUDE MORE COMPLEX PEPTIDE STRUCTURES, AND TO USE HOMOLOG OBOC RELEASABLE PEPTIDE LIBRARIES WITH A CELL-BASED ANTIFUNGAL LAWN ASSAY TO FURTHER OPTIMIZE THESE MEMBRANE ACTIVE AFPS. IN ADDITION, WE WILL USE THE ANTIFUNGAL LAWN ASSAY TO SCREEN OBOC LIBRARIES FOR NEW ANTIFUNGAL AGENTS. THE MOST PROMISING AFPS WILL BE FULLY CHARACTERIZED FOR THEIR EFFICACY, SAFETY AND ANTIFUNGAL ACTIVITY IN VITRO AS WELL AS IN MURINE MODELS. OUR STUDIES WILL FOCUS ON ASPERGILLUS FUMIGATUS, CANDIDA ALBICANS, CANDIDA AURIS AND CRYPTOCOCCUS NEOFORMANS – ALL DESIGNATED AS FUNGAL THREATS OF THE HIGHEST PRIORITY BY THE WORLD HEALTH ORGANIZATION. THE HIGHLY COMPLEMENTARY EXPERTISE OF THE PIS WILL GENERATE MEANINGFUL INTERACTIONS AND FOSTER DATA SHARING FOR GREATER IMPACT.",
+    "total_obligation": 642775,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-01-02",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 288376.57,
+    "total_account_obligation": 642775,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 288376.57
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 642775
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-01-02",
+      "end_date": "2025-12-31",
+      "last_modified_date": "2025-01-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 288376.57
+  }
+}

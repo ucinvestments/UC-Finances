@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91371851,
+    "Award ID": "RF1AG072587",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 1178163.61,
+    "Total Outlays": 1012204.94,
+    "Description": "STRUCTURAL AND BIOLOGICAL CHARACTERIZATION OF DIVERSE OLIGOMERS DERIVED FROM ABETA - PROJECT SUMMARY/ABSTRACT: UNDERSTANDING THE AGGREGATION OF THE SS-AMYLOID PEPTIDE (ASS) TO FORM TOXIC OLIGOMERS IS FUNDAMENTAL TO UNDERSTANDING THE MOLECULAR BASIS OF ALZHEIMER’S DISEASE (AD). DESPITE DECADES OF RESEARCH, THE STRUCTURES OF ASS OLIGOMERS REMAIN A MYSTERY, CONSTITUTING A SIGNIFICANT GAP IN UNDERSTANDING AD. THIS PROPOSAL SEEKS TO ADDRESS THIS KNOWLEDGE GAP THROUGH THE STRUCTURAL, BIOPHYSICAL, AND BIOLOGICAL PROFILING OF A DIVERSE GROUP OF ASS OLIGOMER MODELS AND CORRELATION OF THESE MODELS WITH BIOGENIC ASS OLIGOMERS.  MY LABORATORY HAS DEVELOPED AN APPROACH FOR CREATE STRUCTURALLY DEFINED ASS OLIGOMER MODELS COMPOSED OF PEPTIDE FRAGMENTS FROM ASS CONSTRAINED INTO A SS-HAIRPIN. THE X-RAY CRYSTALLOGRAPHIC STRUCTURES OF THESE ASS SS- HAIRPIN PEPTIDES REVEAL THE STRUCTURES OF OLIGOMERS THAT THE PEPTIDES CAN FORM AND KEY INTERMOLECULAR CONTACTS THAT THE PEPTIDES MAKE IN THE OLIGOMERIC STATE. THESE CONTACTS REVEAL SITES THAT CAN BE CROSSLINKED TO CREATE COVALENTLY STABILIZED ASS OLIGOMER MODELS THAT MIMIC THE CRYSTALLOGRAPHIC OLIGOMERS. STUDYING THE CROSSLINKED OLIGOMERS THEN ALLOWS DETAILED CORRELATION BETWEEN OLIGOMER STRUCTURE AND BIOPHYSICAL AND BIOLOGICAL PROPERTIES.  WE WILL CHARACTERIZE HOW OUR ASS OLIGOMER MODELS INTERACT WITH AND AFFECT NEURONS, MICROGLIA, AND ASTROCYTES, TO PROVIDE DETAILED INSIGHTS INTO HOW OUR ASS OLIGOMER MODELS IMPACT DIFFERENT BRAIN CELL TYPES AND THUS HELP SHED LIGHT ON THE RELATIONSHIP BETWEEN ASS OLIGOMER STRUCTURE AND CELLULAR EVENTS THAT OCCUR IN AD. WE WILL USE FLUORESCENCE MICROSCOPY AND FLUORESCENCE-ASSISTED CELL SORTING (FACS) TO VISUALIZE AND QUANTIFY THE INTERACTIONS AND UPTAKE OF OUR ASS OLIGOMER MODELS WITH NEURONS, MICROGLIA, AND ASTROCYTES. WE WILL EVALUATE DOWNSTREAM BIOCHEMICAL AND CELLULAR EFFECTS ELICITED BY ASS OLIGOMER MODELS IN NEURONS, MICROGLIA, AND ASTROCYTES AND EVALUATE HOW TREATMENT AFFECTS APOPTOSIS, NECROSIS, CALCIUM HOMEOSTASIS, ENDOPLASMIC RETICULUM STRESS, OXIDATIVE STRESS, NEURITE LENGTH, TAU PHOSPHORYLATION AND AGGREGATION, AND PROINFLAMMATORY RESPONSES IN MICROGLIA AND ASTROCYTES. TO ELUCIDATE THE RELATIONSHIP BETWEEN THE STRUCTURES OF OUR ASS OLIGOMER MODELS AND BIOGENIC ASS OLIGOMERS, WE WILL GENERATE POLYCLONAL ANTIBODIES AGAINST EACH ASS OLIGOMER MODEL AND THEN EXAMINE THE IMMUNOREACTIVITY OF THESE ANTIBODIES WITH BRAIN PROTEIN EXTRACT AND BRAIN SLICES FROM 5XFAD MICE.  WE WILL DISCOVER NEW ASS OLIGOMER MODELS, BY CREATING NEW ASS SS-HAIRPIN PEPTIDES THAT CONTAIN MORE OF THE ASS PEPTIDE SEQUENCE AND ALTERNATE SS-STRAND ALIGNMENTS. WE WILL CREATE NEW CROSSLINKED ASS OLIGOMER MODELS BY IDENTIFYING KEY CONTACTS IN EXISTING AND NEWLY DISCOVERED ASS OLIGOMER MODELS AND THEN ENGINEERING IN DISULFIDE BONDS TO STABILIZE THE OLIGOMERS. TO CHARACTERIZE THE STRUCTURES AND OLIGOMERIZATION PROPERTIES OF THE NEW ASS OLIGOMER MODELS THAT WE GENERATE, WE WILL USE X-RAY CRYSTALLOGRAPHY AND A VARIETY OF OTHER BIOPHYSICAL EXPERIMENTS, INCLUDING CD SPECTROSCOPY, SDS-PAGE, SIZE EXCLUSION CHROMATOGRAPHY (SEC), ANALYTICAL ULTRACENTRIFUGATION (AUC), NMR SPECTROSCOPY, AND FÖRSTER RESONANCE ENERGY TRANSFER (FRET) STUDIES. THE BIOLOGICAL AND IMMUNOLOGICAL PROPERTIES OF THESE NEW ASS OLIGOMER MODELS WILL BE STUDIED AS DESCRIBED ABOVE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "926972025",
+      "zip5": "92697"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-05-01",
+    "End Date": "2024-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_RF1AG072587_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91371851,
+    "generated_unique_award_id": "ASST_NON_RF1AG072587_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "STRUCTURAL AND BIOLOGICAL CHARACTERIZATION OF DIVERSE OLIGOMERS DERIVED FROM ABETA - PROJECT SUMMARY/ABSTRACT: UNDERSTANDING THE AGGREGATION OF THE SS-AMYLOID PEPTIDE (ASS) TO FORM TOXIC OLIGOMERS IS FUNDAMENTAL TO UNDERSTANDING THE MOLECULAR BASIS OF ALZHEIMER’S DISEASE (AD). DESPITE DECADES OF RESEARCH, THE STRUCTURES OF ASS OLIGOMERS REMAIN A MYSTERY, CONSTITUTING A SIGNIFICANT GAP IN UNDERSTANDING AD. THIS PROPOSAL SEEKS TO ADDRESS THIS KNOWLEDGE GAP THROUGH THE STRUCTURAL, BIOPHYSICAL, AND BIOLOGICAL PROFILING OF A DIVERSE GROUP OF ASS OLIGOMER MODELS AND CORRELATION OF THESE MODELS WITH BIOGENIC ASS OLIGOMERS.  MY LABORATORY HAS DEVELOPED AN APPROACH FOR CREATE STRUCTURALLY DEFINED ASS OLIGOMER MODELS COMPOSED OF PEPTIDE FRAGMENTS FROM ASS CONSTRAINED INTO A SS-HAIRPIN. THE X-RAY CRYSTALLOGRAPHIC STRUCTURES OF THESE ASS SS- HAIRPIN PEPTIDES REVEAL THE STRUCTURES OF OLIGOMERS THAT THE PEPTIDES CAN FORM AND KEY INTERMOLECULAR CONTACTS THAT THE PEPTIDES MAKE IN THE OLIGOMERIC STATE. THESE CONTACTS REVEAL SITES THAT CAN BE CROSSLINKED TO CREATE COVALENTLY STABILIZED ASS OLIGOMER MODELS THAT MIMIC THE CRYSTALLOGRAPHIC OLIGOMERS. STUDYING THE CROSSLINKED OLIGOMERS THEN ALLOWS DETAILED CORRELATION BETWEEN OLIGOMER STRUCTURE AND BIOPHYSICAL AND BIOLOGICAL PROPERTIES.  WE WILL CHARACTERIZE HOW OUR ASS OLIGOMER MODELS INTERACT WITH AND AFFECT NEURONS, MICROGLIA, AND ASTROCYTES, TO PROVIDE DETAILED INSIGHTS INTO HOW OUR ASS OLIGOMER MODELS IMPACT DIFFERENT BRAIN CELL TYPES AND THUS HELP SHED LIGHT ON THE RELATIONSHIP BETWEEN ASS OLIGOMER STRUCTURE AND CELLULAR EVENTS THAT OCCUR IN AD. WE WILL USE FLUORESCENCE MICROSCOPY AND FLUORESCENCE-ASSISTED CELL SORTING (FACS) TO VISUALIZE AND QUANTIFY THE INTERACTIONS AND UPTAKE OF OUR ASS OLIGOMER MODELS WITH NEURONS, MICROGLIA, AND ASTROCYTES. WE WILL EVALUATE DOWNSTREAM BIOCHEMICAL AND CELLULAR EFFECTS ELICITED BY ASS OLIGOMER MODELS IN NEURONS, MICROGLIA, AND ASTROCYTES AND EVALUATE HOW TREATMENT AFFECTS APOPTOSIS, NECROSIS, CALCIUM HOMEOSTASIS, ENDOPLASMIC RETICULUM STRESS, OXIDATIVE STRESS, NEURITE LENGTH, TAU PHOSPHORYLATION AND AGGREGATION, AND PROINFLAMMATORY RESPONSES IN MICROGLIA AND ASTROCYTES. TO ELUCIDATE THE RELATIONSHIP BETWEEN THE STRUCTURES OF OUR ASS OLIGOMER MODELS AND BIOGENIC ASS OLIGOMERS, WE WILL GENERATE POLYCLONAL ANTIBODIES AGAINST EACH ASS OLIGOMER MODEL AND THEN EXAMINE THE IMMUNOREACTIVITY OF THESE ANTIBODIES WITH BRAIN PROTEIN EXTRACT AND BRAIN SLICES FROM 5XFAD MICE.  WE WILL DISCOVER NEW ASS OLIGOMER MODELS, BY CREATING NEW ASS SS-HAIRPIN PEPTIDES THAT CONTAIN MORE OF THE ASS PEPTIDE SEQUENCE AND ALTERNATE SS-STRAND ALIGNMENTS. WE WILL CREATE NEW CROSSLINKED ASS OLIGOMER MODELS BY IDENTIFYING KEY CONTACTS IN EXISTING AND NEWLY DISCOVERED ASS OLIGOMER MODELS AND THEN ENGINEERING IN DISULFIDE BONDS TO STABILIZE THE OLIGOMERS. TO CHARACTERIZE THE STRUCTURES AND OLIGOMERIZATION PROPERTIES OF THE NEW ASS OLIGOMER MODELS THAT WE GENERATE, WE WILL USE X-RAY CRYSTALLOGRAPHY AND A VARIETY OF OTHER BIOPHYSICAL EXPERIMENTS, INCLUDING CD SPECTROSCOPY, SDS-PAGE, SIZE EXCLUSION CHROMATOGRAPHY (SEC), ANALYTICAL ULTRACENTRIFUGATION (AUC), NMR SPECTROSCOPY, AND FÖRSTER RESONANCE ENERGY TRANSFER (FRET) STUDIES. THE BIOLOGICAL AND IMMUNOLOGICAL PROPERTIES OF THESE NEW ASS OLIGOMER MODELS WILL BE STUDIED AS DESCRIBED ABOVE.",
+    "total_obligation": 1178163.61,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-04-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1012204.94,
+    "total_account_obligation": 1178163.61,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1012204.94
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1178163.61
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-05-01",
+      "end_date": "2024-04-30",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "2025",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1012204.94
+  }
+}

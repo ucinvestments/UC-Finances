@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91181781,
+    "Award ID": "R01ES032668",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1448559,
+    "Total Outlays": 1124278.41,
+    "Description": "SYNERGISTIC MATERIAL-MICROBE INTERFACE TOWARDS FASTER, DEEPER, AND AIR-TOLERANT REDUCTIVE DEHALOGENATION - PROJECT SUMMARY/ABSTRACT CHALLENGES EXIST IN BIOREMEDIATION OF HALOGENATED CONTAMINANTS, INCLUDING LOW DONOR UTILIZATION EFFICIENCY AND SLOW DEHALOGENATION, LOW DEHALOGENATION ACTIVITY AND DEGREE FOR THE EMERGING PER- AND POLYFLUORINATED SUBSTANCES, AS WELL AS THE DIFFICULTY IN SIMULTANEOUSLY TREATING CO-CONTAMINANTS. TO ADDRESS THOSE CHALLENGES, THIS PROJECT INTEGRATES ADVANCES IN MATERIALS SCIENCES AND MICROBIAL REDUCTIVE DEHALOGENATION AND PROPOSES A SYNERGISTIC MATERIALS-MICROBE INTERFACE THAT CAN ACHIEVE FASTER, DEEPER, AND AIR-TOLERANT REDUCTIVE DEHALOGENATION. CHARGE TRANSFER MECHANISMS IN THE PROPOSED ELECTRICITY-DRIVEN MATERIALS-MICROBE HYBRID WILL BE INVESTIGATED, WHICH WILL GUIDE THE DESIGN AND OPTIMIZATION OF NOVEL NANO- AND MICRO-SCALE MATERIALS TO ENHANCE THE MASS-TRANSPORT EFFICIENCY AND ACCELERATE DEHALOGENATION. THE LOCAL ELECTRON DONOR LEVELS CAN BE STABLY MAINTAINED AT LOW LEVELS, FAVORING DEHALORESPIRING MICROORGANISMS OVER METHANOGENS AND HOMOACETOGENS, LEADING TO ENHANCED ELECTRON DONOR UTILIZATION. A SYSTEMS-LEVEL UNDERSTANDING OF MICROORGANISMS ENRICHED IN THE BIOELECTROCHEMICAL SYSTEM AND GENES/ENZYMES RESPONSIBLE FOR DEEPER DEFLUORINATION WILL BE OBTAINED WITH OMICS TECHNIQUES. NOVEL REDUCTIVE DEFLUORINATION PRODUCTS/PATHWAYS AND SYNERGISTIC INTERACTIONS BETWEEN MICROBIAL AND ELECTROCHEMICAL DEFLUORINATION WILL BE ELUCIDATED USING ADVANCED ANALYTICAL TOOLS SUCH AS HIGH-RESOLUTION MASS SPECTROMETRY. FURTHERMORE, AN AIR-TOLERANT MATERIALS-MICROBE FRAMEWORK FOR REDUCTIVE DEHALOGENATION WILL BE DEVELOPED USING A RECENTLY DESIGNED MICROWIRE ARRAY ELECTRODES AND IMPLEMENTED TO ACHIEVE CONCURRENT OXIDATION OF THE CO-CONTAMINANT 1,4-DIOXANE IN AN OPEN SYSTEM. THIS PROJECT WILL SIGNIFICANTLY ADVANCE THE MECHANISTIC UNDERSTANDING OF THE ACCELERATED AND DEEPER REDUCTIVE DEHALOGENATION AT THE SYNERGISTIC MATERIALS- MICROBE INTERFACE. THIS HYBRID FRAMEWORK IS POWERED BY ELECTRICITY THAT CAN BE GENERATED FROM SUSTAINABLE SOLAR ENERGY AND MAY LOWER THE COST BY REDUCING THE REQUIREMENT OF FERMENTABLE ORGANICS AND BY COMBINING THE ANAEROBIC AND AEROBIC REMEDIATION PROCESSES. THE SUCCESSFUL DEMONSTRATION OF THIS NEW PARADIGM OF BIOREMEDIATION WILL POTENTIALLY LEAD TO FUTURE APPLICATIONS FOR CLEANING UP THE HALOGENATED CONTAMINANTS AND CO- CONTAMINANTS IN SUBSURFACE ENVIRONMENTS. THE DEVELOPED MATERIALS-MICROBE FRAMEWORK IS ALSO HIGHLY TRANSFORMABLE TO THE BIOREMEDIATION PROCESSES OF OTHER ENVIRONMENTAL CONTAMINANTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-01-01",
+    "End Date": "2025-10-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01ES032668_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91181781,
+    "generated_unique_award_id": "ASST_NON_R01ES032668_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SYNERGISTIC MATERIAL-MICROBE INTERFACE TOWARDS FASTER, DEEPER, AND AIR-TOLERANT REDUCTIVE DEHALOGENATION - PROJECT SUMMARY/ABSTRACT CHALLENGES EXIST IN BIOREMEDIATION OF HALOGENATED CONTAMINANTS, INCLUDING LOW DONOR UTILIZATION EFFICIENCY AND SLOW DEHALOGENATION, LOW DEHALOGENATION ACTIVITY AND DEGREE FOR THE EMERGING PER- AND POLYFLUORINATED SUBSTANCES, AS WELL AS THE DIFFICULTY IN SIMULTANEOUSLY TREATING CO-CONTAMINANTS. TO ADDRESS THOSE CHALLENGES, THIS PROJECT INTEGRATES ADVANCES IN MATERIALS SCIENCES AND MICROBIAL REDUCTIVE DEHALOGENATION AND PROPOSES A SYNERGISTIC MATERIALS-MICROBE INTERFACE THAT CAN ACHIEVE FASTER, DEEPER, AND AIR-TOLERANT REDUCTIVE DEHALOGENATION. CHARGE TRANSFER MECHANISMS IN THE PROPOSED ELECTRICITY-DRIVEN MATERIALS-MICROBE HYBRID WILL BE INVESTIGATED, WHICH WILL GUIDE THE DESIGN AND OPTIMIZATION OF NOVEL NANO- AND MICRO-SCALE MATERIALS TO ENHANCE THE MASS-TRANSPORT EFFICIENCY AND ACCELERATE DEHALOGENATION. THE LOCAL ELECTRON DONOR LEVELS CAN BE STABLY MAINTAINED AT LOW LEVELS, FAVORING DEHALORESPIRING MICROORGANISMS OVER METHANOGENS AND HOMOACETOGENS, LEADING TO ENHANCED ELECTRON DONOR UTILIZATION. A SYSTEMS-LEVEL UNDERSTANDING OF MICROORGANISMS ENRICHED IN THE BIOELECTROCHEMICAL SYSTEM AND GENES/ENZYMES RESPONSIBLE FOR DEEPER DEFLUORINATION WILL BE OBTAINED WITH OMICS TECHNIQUES. NOVEL REDUCTIVE DEFLUORINATION PRODUCTS/PATHWAYS AND SYNERGISTIC INTERACTIONS BETWEEN MICROBIAL AND ELECTROCHEMICAL DEFLUORINATION WILL BE ELUCIDATED USING ADVANCED ANALYTICAL TOOLS SUCH AS HIGH-RESOLUTION MASS SPECTROMETRY. FURTHERMORE, AN AIR-TOLERANT MATERIALS-MICROBE FRAMEWORK FOR REDUCTIVE DEHALOGENATION WILL BE DEVELOPED USING A RECENTLY DESIGNED MICROWIRE ARRAY ELECTRODES AND IMPLEMENTED TO ACHIEVE CONCURRENT OXIDATION OF THE CO-CONTAMINANT 1,4-DIOXANE IN AN OPEN SYSTEM. THIS PROJECT WILL SIGNIFICANTLY ADVANCE THE MECHANISTIC UNDERSTANDING OF THE ACCELERATED AND DEEPER REDUCTIVE DEHALOGENATION AT THE SYNERGISTIC MATERIALS- MICROBE INTERFACE. THIS HYBRID FRAMEWORK IS POWERED BY ELECTRICITY THAT CAN BE GENERATED FROM SUSTAINABLE SOLAR ENERGY AND MAY LOWER THE COST BY REDUCING THE REQUIREMENT OF FERMENTABLE ORGANICS AND BY COMBINING THE ANAEROBIC AND AEROBIC REMEDIATION PROCESSES. THE SUCCESSFUL DEMONSTRATION OF THIS NEW PARADIGM OF BIOREMEDIATION WILL POTENTIALLY LEAD TO FUTURE APPLICATIONS FOR CLEANING UP THE HALOGENATED CONTAMINANTS AND CO- CONTAMINANTS IN SUBSURFACE ENVIRONMENTS. THE DEVELOPED MATERIALS-MICROBE FRAMEWORK IS ALSO HIGHLY TRANSFORMABLE TO THE BIOREMEDIATION PROCESSES OF OTHER ENVIRONMENTAL CONTAMINANTS.",
+    "total_obligation": 1448559,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2020-12-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1124278.41,
+    "total_account_obligation": 1448559,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1124278.41
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1448559
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Enviromental Health Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Enviromental Health Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2021-01-01",
+      "end_date": "2025-10-31",
+      "last_modified_date": "2024-12-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1124278.41
+  }
+}

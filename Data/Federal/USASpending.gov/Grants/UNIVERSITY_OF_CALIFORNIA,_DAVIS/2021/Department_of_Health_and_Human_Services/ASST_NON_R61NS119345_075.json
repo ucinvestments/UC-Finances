@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91365775,
+    "Award ID": "R61NS119345",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1952164,
+    "Total Outlays": 1592461.58,
+    "Description": "BIOMARKER SIGNATURES FOR DELAYED CEREBRAL ISCHEMIA AND OUTCOME FOLLOWING SUBARACHNOID HEMORRHAGE - ABSTRACT SUBARACHNOID HEMORRHAGE (SAH) ACCOUNTS FOR 5% OF ALL STROKES, HAS A HIGH MORTALITY AND THE COST TO SOCIETY IS SIMILAR TO ISCHEMIC STROKE SINCE SUBJECTS ARE MUCH YOUNGER. THOUGH SAH FATALITY HAS DECREASED ~50% IN THE LAST 25 YEARS DUE TO IMMEDIATE REPAIR OF ANEURYSMS, IMPROVED MEDICAL MANAGEMENT AND NIMODIPINE, NEARLY 1/3 OF SAH PATIENTS DEVELOP DELAYED CEREBRAL ISCHEMIA (DCI) OFTEN WITH CEREBRAL INFARCTION WHICH IS ASSOCIATED WITH POOR OUTCOMES. THOUGH THIS WAS THOUGHT TO BE DUE DELAYED CEREBRAL VASOSPASM, RECENT STUDIES HAVE SHOWN THAT DECREASING OR PREVENTING VASOSPASM DOES NOT IMPROVE OUTCOMES. THIS HAS LED TO ALTERNATIVE HYPOTHESES THAT COMBINED EFFECTS OF MICROVESSEL THROMBOSIS AND VASOSPASM COMBINED WITH CORTICAL SPREADING ISCHEMIA AND PERIPHERAL AND CENTRAL INFLAMMATION MAY CAUSE DCI. THUS, THERE IS A GREAT UNMET NEED TO ASSESS POTENTIAL TREATMENT TARGETS THAT CONTRIBUTE TO DCI FOLLOWING SAH IN HUMANS AND THAT COULD BE USED TO PREDICT DCI TO BEGIN EARLY TREATMENT AND TO PREDICT OUTCOME TO BETTER ALLOCATE RESOURCES. THE PREMISE OF THE PROPOSAL IS BASED UPON THE FINDINGS THAT WE HAVE SHOWN THAT GENE EXPRESSION IN BLOOD CAN PREDICT SAH PATIENTS WHO DEVELOP VASOSPASM. THIS LED US TO HYPOTHESIZE THAT CLOTTING AND INFLAMMATORY MOLECULES IN BLOOD INTERACT WITH THE BRAIN MICROVASCULATURE AND OTHER FACTORS TO CAUSE DELAYED CEREBRAL ISCHEMIA (DCI) AND DELAYED CEREBRAL INFARCTION FOLLOWING SAH WHICH LEAD TO POOR OUTCOMES. WE PROPOSE THAT GENE PROFILES IN BLOOD WILL PREDICT DCI AND PREDICT OUTCOMES USING THE MODIFIED RANKIN SCALE (MRS).  R61 PHASE. SPECIFIC AIM #1A: PERFORM RNA SEQUENCING (RNASEQ) ON WHOLE BLOOD OF A TRAINING COHORT OF PATIENTS 1, 2 AND 3 DAYS AFTER A SAH BUT PRIOR TO DCI COMPARED TO MATCHED VASCULAR RISK FACTOR CONTROLS. SPECIFIC AIM #1B. IDENTIFY THE MOST SIGNIFICANTLY REGULATED GENES AND PATHWAYS IN BLOOD AT 1, 2 OR 3D THAT DISTINGUISH SAH PATIENTS WHO DEVELOP DCI AT 4-14 DAYS FROM SAH PATIENTS WHO DO NOT DEVELOP DCI. SPECIFIC AIM #1C: USE WGCNA TO IDENTIFY KEY HUB GENES AND UPSTREAM GENES EXPRESSED AT 1, 2 OR 3D AFTER SAH AND WHICH ARE ASSOCIATED WITH DEVELOPING DCI AT 4-14D AND MIGHT BE CAUSATIVE. SPECIFIC AIM #1D. USE SUPPORT VECTOR MACHINE (SVM) LEARNING TO IDENTIFY THE LEAST NUMBER OF GENES AT 1, 2 OR 3D FROM AIM #1B THAT BEST PREDICT (1) SAH PATIENTS WHO DEVELOP DCI AT 4-14 DAYS (2) AND PREDICT MRS OF 0, 1-3, 4-5, AND 6 AT 3 MONTHS. SPECIFIC AIM #1E. CONFIRM RNASEQ WITH QRT-PCR AND ASSESS QRT-PCR ACCURACY AND PRECISION. R33 PHASE. SPECIFIC AIM #2. IN A SEPARATE VALIDATION COHORT OF SAH PATIENTS PERFORM QRT-PCR ON THEIR PERIPHERAL BLOOD TO MEASURE EXPRESSION OF GENES DERIVED IN AIM #1 TO PREDICT USING SUPPORT VECTOR MACHINE (SVM) ON DAY 1, 2 AND/OR DAY 3 WHICH PATIENTS WILL DEVELOP DCI AT 4-14 DAYS AND WHICH PATIENTS WILL HAVE MRS=0 (NO DEFICIT), 1-2, 3-5 AND MRS=6 (DEAD) AT 3 MONTHS.  CONTEXTS OF USE. THE MOLECULES/PATHWAYS THAT PREDICT DCI AND MRS COULD SERVE AS FUTURE TREATMENT OR PREVENTION TARGETS OF DCI. PREDICTING WHO WILL DEVELOP DCI WOULD MAKE IT POSSIBLE TO TREAT DCI EARLIER. IN ADDITION, FUTURE CLINICAL TRIALS TO PREVENT DCI FOLLOWING SAH WOULD ENROLL JUST THOSE PATIENTS PREDICTED TO DEVELOP DCI AFTER SAH. PREDICTING MRS OUTCOMES COULD BE USED TO STRATIFY PATIENTS IN FUTURE DCI TRIALS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-01-01",
+    "End Date": "2023-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R61NS119345_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91365775,
+    "generated_unique_award_id": "ASST_NON_R61NS119345_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "BIOMARKER SIGNATURES FOR DELAYED CEREBRAL ISCHEMIA AND OUTCOME FOLLOWING SUBARACHNOID HEMORRHAGE - ABSTRACT SUBARACHNOID HEMORRHAGE (SAH) ACCOUNTS FOR 5% OF ALL STROKES, HAS A HIGH MORTALITY AND THE COST TO SOCIETY IS SIMILAR TO ISCHEMIC STROKE SINCE SUBJECTS ARE MUCH YOUNGER. THOUGH SAH FATALITY HAS DECREASED ~50% IN THE LAST 25 YEARS DUE TO IMMEDIATE REPAIR OF ANEURYSMS, IMPROVED MEDICAL MANAGEMENT AND NIMODIPINE, NEARLY 1/3 OF SAH PATIENTS DEVELOP DELAYED CEREBRAL ISCHEMIA (DCI) OFTEN WITH CEREBRAL INFARCTION WHICH IS ASSOCIATED WITH POOR OUTCOMES. THOUGH THIS WAS THOUGHT TO BE DUE DELAYED CEREBRAL VASOSPASM, RECENT STUDIES HAVE SHOWN THAT DECREASING OR PREVENTING VASOSPASM DOES NOT IMPROVE OUTCOMES. THIS HAS LED TO ALTERNATIVE HYPOTHESES THAT COMBINED EFFECTS OF MICROVESSEL THROMBOSIS AND VASOSPASM COMBINED WITH CORTICAL SPREADING ISCHEMIA AND PERIPHERAL AND CENTRAL INFLAMMATION MAY CAUSE DCI. THUS, THERE IS A GREAT UNMET NEED TO ASSESS POTENTIAL TREATMENT TARGETS THAT CONTRIBUTE TO DCI FOLLOWING SAH IN HUMANS AND THAT COULD BE USED TO PREDICT DCI TO BEGIN EARLY TREATMENT AND TO PREDICT OUTCOME TO BETTER ALLOCATE RESOURCES. THE PREMISE OF THE PROPOSAL IS BASED UPON THE FINDINGS THAT WE HAVE SHOWN THAT GENE EXPRESSION IN BLOOD CAN PREDICT SAH PATIENTS WHO DEVELOP VASOSPASM. THIS LED US TO HYPOTHESIZE THAT CLOTTING AND INFLAMMATORY MOLECULES IN BLOOD INTERACT WITH THE BRAIN MICROVASCULATURE AND OTHER FACTORS TO CAUSE DELAYED CEREBRAL ISCHEMIA (DCI) AND DELAYED CEREBRAL INFARCTION FOLLOWING SAH WHICH LEAD TO POOR OUTCOMES. WE PROPOSE THAT GENE PROFILES IN BLOOD WILL PREDICT DCI AND PREDICT OUTCOMES USING THE MODIFIED RANKIN SCALE (MRS).  R61 PHASE. SPECIFIC AIM #1A: PERFORM RNA SEQUENCING (RNASEQ) ON WHOLE BLOOD OF A TRAINING COHORT OF PATIENTS 1, 2 AND 3 DAYS AFTER A SAH BUT PRIOR TO DCI COMPARED TO MATCHED VASCULAR RISK FACTOR CONTROLS. SPECIFIC AIM #1B. IDENTIFY THE MOST SIGNIFICANTLY REGULATED GENES AND PATHWAYS IN BLOOD AT 1, 2 OR 3D THAT DISTINGUISH SAH PATIENTS WHO DEVELOP DCI AT 4-14 DAYS FROM SAH PATIENTS WHO DO NOT DEVELOP DCI. SPECIFIC AIM #1C: USE WGCNA TO IDENTIFY KEY HUB GENES AND UPSTREAM GENES EXPRESSED AT 1, 2 OR 3D AFTER SAH AND WHICH ARE ASSOCIATED WITH DEVELOPING DCI AT 4-14D AND MIGHT BE CAUSATIVE. SPECIFIC AIM #1D. USE SUPPORT VECTOR MACHINE (SVM) LEARNING TO IDENTIFY THE LEAST NUMBER OF GENES AT 1, 2 OR 3D FROM AIM #1B THAT BEST PREDICT (1) SAH PATIENTS WHO DEVELOP DCI AT 4-14 DAYS (2) AND PREDICT MRS OF 0, 1-3, 4-5, AND 6 AT 3 MONTHS. SPECIFIC AIM #1E. CONFIRM RNASEQ WITH QRT-PCR AND ASSESS QRT-PCR ACCURACY AND PRECISION. R33 PHASE. SPECIFIC AIM #2. IN A SEPARATE VALIDATION COHORT OF SAH PATIENTS PERFORM QRT-PCR ON THEIR PERIPHERAL BLOOD TO MEASURE EXPRESSION OF GENES DERIVED IN AIM #1 TO PREDICT USING SUPPORT VECTOR MACHINE (SVM) ON DAY 1, 2 AND/OR DAY 3 WHICH PATIENTS WILL DEVELOP DCI AT 4-14 DAYS AND WHICH PATIENTS WILL HAVE MRS=0 (NO DEFICIT), 1-2, 3-5 AND MRS=6 (DEAD) AT 3 MONTHS.  CONTEXTS OF USE. THE MOLECULES/PATHWAYS THAT PREDICT DCI AND MRS COULD SERVE AS FUTURE TREATMENT OR PREVENTION TARGETS OF DCI. PREDICTING WHO WILL DEVELOP DCI WOULD MAKE IT POSSIBLE TO TREAT DCI EARLIER. IN ADDITION, FUTURE CLINICAL TRIALS TO PREVENT DCI FOLLOWING SAH WOULD ENROLL JUST THOSE PATIENTS PREDICTED TO DEVELOP DCI AFTER SAH. PREDICTING MRS OUTCOMES COULD BE USED TO STRATIFY PATIENTS IN FUTURE DCI TRIALS.",
+    "total_obligation": 1952164,
+    "subaward_count": 6,
+    "total_subaward_amount": 454528,
+    "date_signed": "2020-12-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1592461.58,
+    "total_account_obligation": 1952164,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1592461.58
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1952164
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2021-01-01",
+      "end_date": "2023-12-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1592461.58
+  }
+}

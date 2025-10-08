@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 69619244,
+    "Award ID": "5880448003",
+    "Recipient Name": "DOMINICAN UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 35724,
+    "Total Outlays": 26842.4,
+    "Description": "IMMUNOASSAY FOR PHYTOPHTHORA RAMORUM IN NURSERY WATER SAMPLES - THE SPECIFIC OBJECTIVES OF THIS RESEARCH ARE TO: 1. DEVELOP NEW OR REFINE CURRENT METHODS FOR FILTRATION AND CONCENTRATION OF P. RAMORUM PROPAGULES IN SPIKED NURSERY WATER SAMPLES. 2. TEST ANTIBODIES REACTIVE AGAINST P. RAMORUM WITH WATER SAMPLES CONTAINING INFECTIOUS PROPAGULES OF P. RAMORUM, FOCUSING ON DETECTION IN IRRIGATION AND SURFACE WATER SAMPLES FROM THE NATIONAL ORNAMENTAL RESEARCH SITE -DOMINICAN UNIVERSITY OF CALIFORNIA (NORS-DUC) MOCK NURSERY SITE. 3. REFINE IMMUNOASSAY DIAGNOSTIC PROTOCOLS FOR NURSERY WATER SAMPLES. THE PRIMARY GOAL OF THIS AGREEMENT IS TO DEVELOP IMPROVED DETECTION TECHNOLOGIES TARGETING P. RAMORUM IN NURSERY IRRIGATION WATER, REDUCING DETECTION TIME, COST AND EFFORT NEEDED TO DEMONSTRATE THAT NURSERIES WITHIN CA, OR AND WA QUARANTINE ZONES ARE FREE OF P. RAMORUM.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UK5GQC1GVNZ4",
+    "Recipient Location": {
+      "address_line1": "50 ACACIA AVE",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN RAFAEL",
+      "congressional_code": "02",
+      "country_name": "UNITED STATES",
+      "county_code": "041",
+      "county_name": "MARIN",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2230",
+      "zip5": "94901"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN RAFAEL",
+      "congressional_code": "02",
+      "country_name": "UNITED STATES",
+      "county_code": "041",
+      "county_name": "MARIN",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94901-2230",
+      "zip5": "94901"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Agricultural Research Service",
+    "Start Date": "2018-08-01",
+    "End Date": "2023-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "380b51ce-b1a2-bad0-3803-74645c80253f-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_5880448003_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 69619244,
+    "generated_unique_award_id": "ASST_NON_5880448003_012",
+    "piid": "",
+    "category": "other",
+    "type": "11",
+    "type_description": "OTHER REIMBURSABLE, CONTINGENT, INTANGIBLE, OR INDIRECT FINANCIAL ASSISTANCE",
+    "description": "IMMUNOASSAY FOR PHYTOPHTHORA RAMORUM IN NURSERY WATER SAMPLES - THE SPECIFIC OBJECTIVES OF THIS RESEARCH ARE TO: 1. DEVELOP NEW OR REFINE CURRENT METHODS FOR FILTRATION AND CONCENTRATION OF P. RAMORUM PROPAGULES IN SPIKED NURSERY WATER SAMPLES. 2. TEST ANTIBODIES REACTIVE AGAINST P. RAMORUM WITH WATER SAMPLES CONTAINING INFECTIOUS PROPAGULES OF P. RAMORUM, FOCUSING ON DETECTION IN IRRIGATION AND SURFACE WATER SAMPLES FROM THE NATIONAL ORNAMENTAL RESEARCH SITE -DOMINICAN UNIVERSITY OF CALIFORNIA (NORS-DUC) MOCK NURSERY SITE. 3. REFINE IMMUNOASSAY DIAGNOSTIC PROTOCOLS FOR NURSERY WATER SAMPLES. THE PRIMARY GOAL OF THIS AGREEMENT IS TO DEVELOP IMPROVED DETECTION TECHNOLOGIES TARGETING P. RAMORUM IN NURSERY IRRIGATION WATER, REDUCING DETECTION TIME, COST AND EFFORT NEEDED TO DEMONSTRATE THAT NURSERIES WITHIN CA, OR AND WA QUARANTINE ZONES ARE FREE OF P. RAMORUM.",
+    "total_obligation": 35724,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2018-09-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 26842.4,
+    "total_account_obligation": 12392,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 26842.4
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 12392
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "awarding_agency": {
+      "id": 168,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Agricultural Research Service",
+        "code": "12H2",
+        "abbreviation": "ARS"
+      },
+      "office_agency_name": "Agricultural Research Service"
+    },
+    "period_of_performance": {
+      "start_date": "2018-08-01",
+      "end_date": "2023-07-31",
+      "last_modified_date": "2025-09-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "380b51ce-b1a2-bad0-3803-74645c80253f-C",
+      "recipient_name": "DOMINICAN UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "UK5GQC1GVNZ4",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "380b51ce-b1a2-bad0-3803-74645c80253f-P",
+      "parent_recipient_name": "DOMINICAN UNIVERSITY OF CALIFORNIA",
+      "parent_recipient_uei": "UK5GQC1GVNZ4",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN RAFAEL",
+        "county_code": "041",
+        "county_name": "MARIN",
+        "address_line1": "50 ACACIA AVE",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "02",
+        "zip4": "2230",
+        "zip5": "94901",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN RAFAEL",
+      "county_code": "041",
+      "county_name": "MARIN",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "02",
+      "zip4": "2230",
+      "zip5": "94901",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 26842.4
+  }
+}

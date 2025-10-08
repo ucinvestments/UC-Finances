@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 89705250,
+    "Award ID": "NA24NMFX405C0009",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+    "Award Amount": 7476798,
+    "Total Outlays": null,
+    "Description": "PURPOSE:  THIS FUNDING PROVIDES CRITICAL SUPPORT FOR THE UNIVERSITY OF CALIFORNIA, SANTA CRUZ (UC SANTA CRUZ) - INSTITUTE OF MARINE SCIENCES (IMS) AND THE NATIONAL MARINE FISHERIES SERVICE - SOUTHWEST FISHERIES SCIENCE CENTER (SWFSC) COLLABORATIVE RESEARCH PROGRAM. FOR THIS REQUEST, UC SANTA CRUZ-IMS RESEARCHERS WILL WORK WITH SWFSC SCIENTISTS TO CONDUCT RESEARCH THAT WILL BROADEN THE SCIENTIFIC BASIS FOR SUPPORTING THE MANAGEMENT AND CONSERVATION OF LIVING MARINE RESOURCES. SPECIFICALLY, RESEARCHERS WILL FOCUS ON THE FOLLOWING TASKS: 1) ENVIRONMENTAL FLOWS FOR CENTRAL VALLEY SALMON AND STEELHEAD; 2) AN EVALUATION OF CURRENT REINTRODUCTION TECHNIQUES FOR SALMON IN CALIFORNIA; 3) INDIVIDUAL-BASED MODELING FOR CA SALMON EARLY MARINE GROWTH AND PREDATION MORTALITY; 4) FUTURE VIABILITY OF THE CALIFORNIA CURRENT FOR SALMON AND STEELHEAD; 5) IMPROVING CHINOOK SALMON MANAGEMENT BY QUANTIFYING DRIVERS OF SALMON DISTRIBUTION BASED ON ECOSYSTEM INFORMATION FROM OCEAN SURVEYS; 6) STEELHEAD AND CHINOOK FORAGING ECOLOGY, LINKS TO THIAMINE DEFICIENCY, AND ADAPTIVE CAPACITY; 7) AN EMPIRICAL ASSESSMENT OF SALMON DYNAMICS AND THEIR PREDICTABILITY; 8) INTEGRATED MODELING/RECOVERY STRATEGY EVALUATION; 9) PACIFIC SALMONID HABITAT RESILIENCE UNDER A CHANGING CLIMATE; 10) UNDERSTANDING ADAPTIVE CAPACITY OF CALIFORNIA SALMON TO CLIMATE-RELATED STRESSORS; AND 11) LANDSCAPE GENOMICS OF CALIFORNIA SALMON AND STEELHEAD. ACTIVITIES WILL INCLUDE BOTH FIELD AND LABORATORY EXPERIMENTS AND INVESTIGATIONS, MODELING AND COMPUTATIONAL STUDIES AND WILL INVOLVE BOTH MARINE AND FRESHWATER HABITATS AND SPECIES. WHILE MOST RESEARCH WILL BE BIOLOGICAL IN NATURE, THE SPECTRUM OF TOPICS WILL INCLUDE PHYSICAL, CHEMICAL, GEOLOGICAL, AND ECONOMIC ASPECTS OF MARINE AND FRESHWATER ENVIRONMENTS. RESEARCH IS OFTEN COORDINATED WITH OTHER AGENCIES AND RESEARCH INSTITUTIONS, SUCH AS THE U.S. FISH AND WILDLIFE SERVICE, U.S. GEOLOGICAL SURVEY, BUREAU OF RECLAMATION, ARMY CORPS OF ENGINEERS, MOSS LANDING MARINE LAB, OREGON STATE UNIVERSITY, OTHER UNIVERSITY OF CALIFORNIA CAMPUSES (E.G., SANTA BARBARA AND DAVIS), MONTEREY BAY AQUARIUM RESEARCH INSTITUTE, HOPKINS MARINE STATION, AND CALIFORNIA STATE UNIVERSITY CAMPUSES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "QJ8HMDK7MRM3",
+    "Recipient Location": {
+      "address_line1": "8622 DISCOVERY WAY # 116",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1500",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "920930001",
+      "zip5": "92093"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Commerce",
+    "Awarding Sub Agency": "National Oceanic and Atmospheric Administration",
+    "Start Date": "2024-10-01",
+    "End Date": "2028-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "756c0cfc-b329-c203-6131-b0b90d0b9f0d-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_NA24NMFX405C0009_013",
+    "awarding_agency_id": 183,
+    "agency_slug": "department-of-commerce",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89705250,
+    "generated_unique_award_id": "ASST_NON_NA24NMFX405C0009_013",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "PURPOSE:  THIS FUNDING PROVIDES CRITICAL SUPPORT FOR THE UNIVERSITY OF CALIFORNIA, SANTA CRUZ (UC SANTA CRUZ) - INSTITUTE OF MARINE SCIENCES (IMS) AND THE NATIONAL MARINE FISHERIES SERVICE - SOUTHWEST FISHERIES SCIENCE CENTER (SWFSC) COLLABORATIVE RESEARCH PROGRAM. FOR THIS REQUEST, UC SANTA CRUZ-IMS RESEARCHERS WILL WORK WITH SWFSC SCIENTISTS TO CONDUCT RESEARCH THAT WILL BROADEN THE SCIENTIFIC BASIS FOR SUPPORTING THE MANAGEMENT AND CONSERVATION OF LIVING MARINE RESOURCES. SPECIFICALLY, RESEARCHERS WILL FOCUS ON THE FOLLOWING TASKS: 1) ENVIRONMENTAL FLOWS FOR CENTRAL VALLEY SALMON AND STEELHEAD; 2) AN EVALUATION OF CURRENT REINTRODUCTION TECHNIQUES FOR SALMON IN CALIFORNIA; 3) INDIVIDUAL-BASED MODELING FOR CA SALMON EARLY MARINE GROWTH AND PREDATION MORTALITY; 4) FUTURE VIABILITY OF THE CALIFORNIA CURRENT FOR SALMON AND STEELHEAD; 5) IMPROVING CHINOOK SALMON MANAGEMENT BY QUANTIFYING DRIVERS OF SALMON DISTRIBUTION BASED ON ECOSYSTEM INFORMATION FROM OCEAN SURVEYS; 6) STEELHEAD AND CHINOOK FORAGING ECOLOGY, LINKS TO THIAMINE DEFICIENCY, AND ADAPTIVE CAPACITY; 7) AN EMPIRICAL ASSESSMENT OF SALMON DYNAMICS AND THEIR PREDICTABILITY; 8) INTEGRATED MODELING/RECOVERY STRATEGY EVALUATION; 9) PACIFIC SALMONID HABITAT RESILIENCE UNDER A CHANGING CLIMATE; 10) UNDERSTANDING ADAPTIVE CAPACITY OF CALIFORNIA SALMON TO CLIMATE-RELATED STRESSORS; AND 11) LANDSCAPE GENOMICS OF CALIFORNIA SALMON AND STEELHEAD. ACTIVITIES WILL INCLUDE BOTH FIELD AND LABORATORY EXPERIMENTS AND INVESTIGATIONS, MODELING AND COMPUTATIONAL STUDIES AND WILL INVOLVE BOTH MARINE AND FRESHWATER HABITATS AND SPECIES. WHILE MOST RESEARCH WILL BE BIOLOGICAL IN NATURE, THE SPECTRUM OF TOPICS WILL INCLUDE PHYSICAL, CHEMICAL, GEOLOGICAL, AND ECONOMIC ASPECTS OF MARINE AND FRESHWATER ENVIRONMENTS. RESEARCH IS OFTEN COORDINATED WITH OTHER AGENCIES AND RESEARCH INSTITUTIONS, SUCH AS THE U.S. FISH AND WILDLIFE SERVICE, U.S. GEOLOGICAL SURVEY, BUREAU OF RECLAMATION, ARMY CORPS OF ENGINEERS, MOSS LANDING MARINE LAB, OREGON STATE UNIVERSITY, OTHER UNIVERSITY OF CALIFORNIA CAMPUSES (E.G., SANTA BARBARA AND DAVIS), MONTEREY BAY AQUARIUM RESEARCH INSTITUTE, HOPKINS MARINE STATION, AND CALIFORNIA STATE UNIVERSITY CAMPUSES.",
+    "total_obligation": 7476798,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-09-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 195,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Commerce",
+        "code": "013",
+        "abbreviation": "DOC",
+        "slug": "department-of-commerce"
+      },
+      "subtier_agency": {
+        "name": "National Oceanic and Atmospheric Administration",
+        "code": "1330",
+        "abbreviation": "NOAA"
+      },
+      "office_agency_name": "OFFICE OF INTERNATIONAL AFFAIRS"
+    },
+    "awarding_agency": {
+      "id": 195,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Commerce",
+        "code": "013",
+        "abbreviation": "DOC",
+        "slug": "department-of-commerce"
+      },
+      "subtier_agency": {
+        "name": "National Oceanic and Atmospheric Administration",
+        "code": "1330",
+        "abbreviation": "NOAA"
+      },
+      "office_agency_name": "DEPT OF COMMERCE NOAA"
+    },
+    "period_of_performance": {
+      "start_date": "2024-10-01",
+      "end_date": "2028-09-30",
+      "last_modified_date": "2025-02-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "756c0cfc-b329-c203-6131-b0b90d0b9f0d-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+      "recipient_uei": "QJ8HMDK7MRM3",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "756c0cfc-b329-c203-6131-b0b90d0b9f0d-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+      "parent_recipient_uei": "QJ8HMDK7MRM3",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "8622 DISCOVERY WAY # 116",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "1500",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0001",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

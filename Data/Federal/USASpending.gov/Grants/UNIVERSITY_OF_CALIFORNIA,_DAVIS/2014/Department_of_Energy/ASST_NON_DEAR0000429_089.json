@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 81327307,
+    "Award ID": "DEAR0000429",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1497417.58,
+    "Total Outlays": 0,
+    "Description": "UNIV OF CA-DAVIS (0881-1514): CONVERSION OF METHANE TO LIQUID BIOFUELS SUCH AS N-BUTANOL.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DRIVE",
+      "address_line2": "SUITE 300",
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6134",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6134",
+      "zip5": "95618"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Energy",
+    "Awarding Sub Agency": "Department of Energy",
+    "Start Date": "2014-01-07",
+    "End Date": "2017-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_DEAR0000429_089",
+    "awarding_agency_id": 930,
+    "agency_slug": "department-of-energy",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 81327307,
+    "generated_unique_award_id": "ASST_NON_DEAR0000429_089",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "UNIV OF CA-DAVIS (0881-1514): CONVERSION OF METHANE TO LIQUID BIOFUELS SUCH AS N-BUTANOL.",
+    "total_obligation": 1497417.58,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2014-01-07",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 930,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Energy",
+        "code": "089",
+        "abbreviation": "DOE",
+        "slug": "department-of-energy"
+      },
+      "subtier_agency": {
+        "name": "Department of Energy",
+        "code": "8900",
+        "abbreviation": "DOE"
+      },
+      "office_agency_name": "ADVANCED RSRCH PROJ AGENCY ARPA-E"
+    },
+    "awarding_agency": {
+      "id": 930,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Energy",
+        "code": "089",
+        "abbreviation": "DOE",
+        "slug": "department-of-energy"
+      },
+      "subtier_agency": {
+        "name": "Department of Energy",
+        "code": "8900",
+        "abbreviation": "DOE"
+      },
+      "office_agency_name": "ADVANCED RSRCH PROJ AGENCY ARPA-E"
+    },
+    "period_of_performance": {
+      "start_date": "2014-01-07",
+      "end_date": "2017-09-30",
+      "last_modified_date": "2019-05-02",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": "047120084",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DRIVE",
+        "address_line2": "SUITE 300",
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6134",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6134",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

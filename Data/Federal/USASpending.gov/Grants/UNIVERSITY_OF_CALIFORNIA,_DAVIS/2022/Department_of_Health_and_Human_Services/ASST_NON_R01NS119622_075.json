@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91239067,
+    "Award ID": "R01NS119622",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1652433,
+    "Total Outlays": 1549186.64,
+    "Description": "THE RATIOS STUDY: RISK/BENEFIT ASSESSMENT BY IRB REVIEW OF PHASE ONE STUDIES - PROJECT SUMMARY/ABSTRACT THE ETHICAL CONDUCT OF PHASE 1 TRIALS IS CONDITIONED ON BOTH THERE BEING A REASONABLE RATIO BETWEEN POTENTIAL RISKS AND BENEFITS AND RESEARCH CANDIDATES BEING PROVIDED WITH KEY INFORMATION ABOUT THAT POTENTIAL DURING THE INFORMED CONSENT PROCESS. IRBS MUST CAREFULLY ASSESS THE SCIENTIFIC INFORMATION SUPPORTING THE ASSESSMENT OF POTENTIAL RISKS AND BENEFITS IN ORDER TO MEET THESE CONDITIONS. SEVERAL HURDLES HINDER SUCH ASSESSMENT. WHILE THE FDA CAREFULLY VETS PRECLINICAL SAFETY DATA THAT RELATE TO PHASE 1 TRIALS, THE SAME IS NOT TRUE FOR THE PRECLINICAL EFFICACY DATA NEEDED TO SUPPORT THE POTENTIAL FOR BENEFIT. FURTHER, IRBS RECEIVE NO SPECIFIC GUIDANCE REGARDING WHAT TO LOOK FOR IN PRECLINICAL EFFICACY DATA OR HOW THEY SHOULD VET SCIENTIFIC CLAIMS MADE ABOUT PHASE 1 MODALITIES. THIS LACK OF GUIDANCE IS DISCONCERTING GIVEN EXTENSIVE RESEARCH DOCUMENTING CHARACTERISTICS OF MANY PRECLINICAL EFFICACY STUDIES THAT MAKE IT DIFFICULT TO MAKE RELIABLE INFERENCES ABOUT WHETHER A NEW TREATMENT MODALITY MIGHT EVENTUALLY BE CAPABLE OF DEMONSTRATING CLINICAL EFFICACY. SUCH INFERENCES ARE ESPECIALLY CHALLENGING WHEN IT COMES TO PRECLINICAL EFFICACY STUDIES THAT EMPLOY NOVEL RESEARCH TECHNIQUES LIKE CRISPR-CAS9 AND BRAIN ORGANOIDS. KNOWING WHAT INFERENCES ABOUT POTENTIAL EFFICACY CAN RELIABLY BE MADE ABOUT NEW TREATMENT MODALITIES EMPLOYING NOVEL PRECLINICAL TOOLS WILL BE THE PRIMARY FOCUS OF OUR PROJECT. THESE ARE THE VERY INFERENCES THAT ARE REQUIRED IF IRBS ARE TO BE ABLE TO DETERMINE THAT THERE IS A REASONABLE RATIO BETWEEN BENEFITS AND RISKS IN PHASE 1 TRIALS EMPLOYING NEW PROMISSORY TECHNOLOGIES. IN THIS CHALLENGING SETTING, IRBS COULD BENEFIT FROM A STRUCTURED APPROACH TO RISK/BENEFIT ASSESSMENTS. THIS PROJECT IS DESIGNED TO DEVELOP AND PILOT SUCH AN APPROACH. TO DO THIS, WE WILL CONDUCT QUANTITATIVE AND QUALITATIVE RESEARCH TO LEARN ABOUT CURRENT STRENGTHS AND WEAKNESSES IN IRB REVIEW OF PHASE 1 STUDIES. WE WILL COMPLETE A NATIONAL SURVEY OF IRB CHAIRS. THEN WE WILL CONDUCT 3 SETS OF SEMI-STRUCTURED INTERVIEWS WITH: (A) PAST PHASE 1 TRIAL INVESTIGATORS, (B) IRB MEMBERS WHO REVIEW PHASE 1 TRIAL APPLICATIONS, AND (C) PAST PARTICIPANTS OR THEIR LEGAL REPRESENTATIVES OF PHASE 1 TRIALS. WE WILL USE THESE FINDINGS TO REFINE AN EXISTING CONCEPTUAL FRAMEWORK FOR ASSESSING THE QUALITY AND RELIABILITY OF EFFICACY DATA IN PRECLINICAL STUDIES. FROM THIS REFINED CONCEPTUAL FRAMEWORK, WE WILL DEVELOP IRB AND INVESTIGATOR CHECKLISTS DESIGNED TO (A) PROMOTE HIGHLY-STRUCTURED WEIGHING OF POTENTIAL BENEFITS AND RISKS BY IRBS IN PHASE 1 TRIALS AND (B) ASSIST PHASE 1 INVESTIGATORS TO SUBMIT MORE ETHICALLY ROBUST PHASE 1 TRIAL APPLICATIONS. WE WILL ALSO DEVELOP A NOVEL DATA ANALYTICS AND DECISION-SUPPORT INTERACTIVE SOFTWARE PLATFORM TO HELP PHASE 1 INVESTIGATORS AND IRB MEMBERS EVALUATE THE EVIDENTIARY CONTEXT SURROUNDING A GIVEN PHASE 1 TRIAL. THESE DECISION AIDS WILL ALSO BE USED TO IDENTIFY CRITICAL DISCLOSURES ABOUT POTENTIAL RISKS AND BENEFITS TO PHASE 1 TRIAL RESEARCH CANDIDATES. TO SEE IF OUR DECISION AIDS MIGHT PRODUCE THESE DESIRED BENEFITS, IN THE FINAL YEAR OF OUR PROJECT WE WILL PILOT THEM WITH PHASE 1 INVESTIGATORS AND IRB MEMBERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-01-01",
+    "End Date": "2025-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS119622_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91239067,
+    "generated_unique_award_id": "ASST_NON_R01NS119622_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE RATIOS STUDY: RISK/BENEFIT ASSESSMENT BY IRB REVIEW OF PHASE ONE STUDIES - PROJECT SUMMARY/ABSTRACT THE ETHICAL CONDUCT OF PHASE 1 TRIALS IS CONDITIONED ON BOTH THERE BEING A REASONABLE RATIO BETWEEN POTENTIAL RISKS AND BENEFITS AND RESEARCH CANDIDATES BEING PROVIDED WITH KEY INFORMATION ABOUT THAT POTENTIAL DURING THE INFORMED CONSENT PROCESS. IRBS MUST CAREFULLY ASSESS THE SCIENTIFIC INFORMATION SUPPORTING THE ASSESSMENT OF POTENTIAL RISKS AND BENEFITS IN ORDER TO MEET THESE CONDITIONS. SEVERAL HURDLES HINDER SUCH ASSESSMENT. WHILE THE FDA CAREFULLY VETS PRECLINICAL SAFETY DATA THAT RELATE TO PHASE 1 TRIALS, THE SAME IS NOT TRUE FOR THE PRECLINICAL EFFICACY DATA NEEDED TO SUPPORT THE POTENTIAL FOR BENEFIT. FURTHER, IRBS RECEIVE NO SPECIFIC GUIDANCE REGARDING WHAT TO LOOK FOR IN PRECLINICAL EFFICACY DATA OR HOW THEY SHOULD VET SCIENTIFIC CLAIMS MADE ABOUT PHASE 1 MODALITIES. THIS LACK OF GUIDANCE IS DISCONCERTING GIVEN EXTENSIVE RESEARCH DOCUMENTING CHARACTERISTICS OF MANY PRECLINICAL EFFICACY STUDIES THAT MAKE IT DIFFICULT TO MAKE RELIABLE INFERENCES ABOUT WHETHER A NEW TREATMENT MODALITY MIGHT EVENTUALLY BE CAPABLE OF DEMONSTRATING CLINICAL EFFICACY. SUCH INFERENCES ARE ESPECIALLY CHALLENGING WHEN IT COMES TO PRECLINICAL EFFICACY STUDIES THAT EMPLOY NOVEL RESEARCH TECHNIQUES LIKE CRISPR-CAS9 AND BRAIN ORGANOIDS. KNOWING WHAT INFERENCES ABOUT POTENTIAL EFFICACY CAN RELIABLY BE MADE ABOUT NEW TREATMENT MODALITIES EMPLOYING NOVEL PRECLINICAL TOOLS WILL BE THE PRIMARY FOCUS OF OUR PROJECT. THESE ARE THE VERY INFERENCES THAT ARE REQUIRED IF IRBS ARE TO BE ABLE TO DETERMINE THAT THERE IS A REASONABLE RATIO BETWEEN BENEFITS AND RISKS IN PHASE 1 TRIALS EMPLOYING NEW PROMISSORY TECHNOLOGIES. IN THIS CHALLENGING SETTING, IRBS COULD BENEFIT FROM A STRUCTURED APPROACH TO RISK/BENEFIT ASSESSMENTS. THIS PROJECT IS DESIGNED TO DEVELOP AND PILOT SUCH AN APPROACH. TO DO THIS, WE WILL CONDUCT QUANTITATIVE AND QUALITATIVE RESEARCH TO LEARN ABOUT CURRENT STRENGTHS AND WEAKNESSES IN IRB REVIEW OF PHASE 1 STUDIES. WE WILL COMPLETE A NATIONAL SURVEY OF IRB CHAIRS. THEN WE WILL CONDUCT 3 SETS OF SEMI-STRUCTURED INTERVIEWS WITH: (A) PAST PHASE 1 TRIAL INVESTIGATORS, (B) IRB MEMBERS WHO REVIEW PHASE 1 TRIAL APPLICATIONS, AND (C) PAST PARTICIPANTS OR THEIR LEGAL REPRESENTATIVES OF PHASE 1 TRIALS. WE WILL USE THESE FINDINGS TO REFINE AN EXISTING CONCEPTUAL FRAMEWORK FOR ASSESSING THE QUALITY AND RELIABILITY OF EFFICACY DATA IN PRECLINICAL STUDIES. FROM THIS REFINED CONCEPTUAL FRAMEWORK, WE WILL DEVELOP IRB AND INVESTIGATOR CHECKLISTS DESIGNED TO (A) PROMOTE HIGHLY-STRUCTURED WEIGHING OF POTENTIAL BENEFITS AND RISKS BY IRBS IN PHASE 1 TRIALS AND (B) ASSIST PHASE 1 INVESTIGATORS TO SUBMIT MORE ETHICALLY ROBUST PHASE 1 TRIAL APPLICATIONS. WE WILL ALSO DEVELOP A NOVEL DATA ANALYTICS AND DECISION-SUPPORT INTERACTIVE SOFTWARE PLATFORM TO HELP PHASE 1 INVESTIGATORS AND IRB MEMBERS EVALUATE THE EVIDENTIARY CONTEXT SURROUNDING A GIVEN PHASE 1 TRIAL. THESE DECISION AIDS WILL ALSO BE USED TO IDENTIFY CRITICAL DISCLOSURES ABOUT POTENTIAL RISKS AND BENEFITS TO PHASE 1 TRIAL RESEARCH CANDIDATES. TO SEE IF OUR DECISION AIDS MIGHT PRODUCE THESE DESIRED BENEFITS, IN THE FINAL YEAR OF OUR PROJECT WE WILL PILOT THEM WITH PHASE 1 INVESTIGATORS AND IRB MEMBERS.",
+    "total_obligation": 1652433,
+    "subaward_count": 9,
+    "total_subaward_amount": 1061234,
+    "date_signed": "2021-12-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1549186.64,
+    "total_account_obligation": 1652433,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1549186.64
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1652433
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2022-01-01",
+      "end_date": "2025-06-30",
+      "last_modified_date": "2025-04-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1549186.64
+  }
+}

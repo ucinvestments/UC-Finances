@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92612321,
+    "Award ID": "U01CA289068",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1074605,
+    "Total Outlays": 214446.9,
+    "Description": "A LIVER DIGITAL TWIN FOR PERSONALIZED CANCER THERAPY - PROJECT SUMMARY/ ABSTRACT OUR LONG-TERM OBJECTIVE IS TO IMPROVE THE EFFICACY AND SAFETY OF LIVER CANCER TRANSARTERIAL EMBOLIZATION THROUGH NEW COMPUTATIONAL TOOLS THAT ENABLE THE DEVELOPMENT OF NEW PERSONALIZED TREATMENT STRATEGIES. THE CONTINUED RISING MORTALITY AND INCIDENCE MAKE RESEARCH ON IMPROVING LIVER CANCER MANAGEMENT ESSENTIAL. TRANSARTERIAL EMBOLIZATION IS USED TO OBSTRUCT THE TUMOR BLOOD FLOW (TAE) AND DELIVER LOCALIZED RADIATION (YTTRIUM-90 RADIOEMBOLIZATION 90Y TARE) OR CHEMOTHERAPY (CHEMOEMBOLIZATION TACE). 90Y TARE COUNTED FOR MORE THAN 10,000 INTERVENTIONS IN THE US IN 2022. DEMONSTRATED BENEFITS FOR PATIENTS INCLUDE INCREASED TIME TO PROGRESSION BUT MODERATE IMPROVEMENT OF OVERALL SURVIVAL, IN PART BECAUSE IT IS ONLY USED AS SECOND OR THIRD LINE TREATMENT ON ADVANCED CANCERS. RECENT 90Y TARE CLINICAL TRIALS SHOWED A CORRELATION BETWEEN THE TUMOR DOSE AND PATIENT OUTCOME, INDICATING THAT ROBUST AND PRECISE TARGETING MUST BE PURSUED. TARGETING IS HOWEVER COMPLEX, HIGHLY PATIENT-DEPENDENT, AND DIFFICULT TO PLAN WITH CURRENT IMAGING TECHNIQUES. THIS LEADS PHYSICIANS TO UNDERDOSE 90Y TARE TO LIMIT LIVER TOXICITY, MISSING THE TUMORICIDAL DOSE OF ~50 IN 80% OF PATIENTS. TAE AND TACE ARE PERFORMED WITH A FIXED DOSAGE AND ALSO FREQUENTLY FAIL: POST TREATMENT IMAGING SHOWS RESIDUAL BLOOD FLOW IN ~70% OF TUMORS TREATED WITH TACE, INDICATIVE OF INCOMPLETE OCCLUSION OF THE TUMOR BLOOD SUPPLY. IF THE EFFICACY AND SAFETY PROFILE OF TAE WERE IMPROVED THROUGH BETTER PLANNING, IT COULD HAVE A MUCH HIGHER IMPACT ON PATIENT OUTCOME, HELPING PATIENTS AT EARLIER STAGES AND REDUCING MORTALITY. TOOLS TO DEVELOP SUCH TREATMENT PLANNING CURRENTLY LACK ROBUSTNESS AND ACCURACY. THIS U01 PROPOSAL FOLLOWS THE CONCEPT OF A LIVER DIGITAL TWIN TO DEVELOP AN IN SILICO PLATFORM TO OPTIMIZE LIVER TRANSARTERIAL EMBOLIZATION. TUMOR TARGETING IS ACHIEVED BY SELECTING THE INJECTION POINTS AND DOSAGE; IT REMAINS MOSTLY EMPIRICAL BASED ON PRETREATMENT VASCULAR IMAGING WITH LIMITED ROBUSTNESS. WE PROPOSE A NOVEL PERSONALIZED TREATMENT PLANNING USING A LIVER DIGITAL TWIN THAT BUILDS ON OUR PREVIOUS WORK DEVELOPING CFDOSE, A SIMULATION PIPELINE BASED ON COMPUTATIONAL FLUID DYNAMICS AND PHYSICS MODELING INFORMED WITH PATIENT CT IMAGES. CFDOSE PREDICTS THE LIVER DOSE THROUGH BLOOD FLOW SIMULATION USING STANDARD-OF-CARE IMAGING, REQUIRING NO CHANGES TO THE CLINICAL WORKFLOW. WE WILL USE IT AS A BUILDING BLOCK TO DEVELOP PATIENT-SPECIFIC IN SILICO OPTIMIZATION OF TAE, TARE, AND TACE. THE ALGORITHM WILL SAMPLE THE INJECTION POINT AND DOSAGE, SIMULATE THE DOSE OR DRUG CONCENTRATION DISTRIBUTION (ACTIVATING THE LIVER MODEL MULTIPLE TIMES), AND COMPARE IT WITH THE PHYSICIAN’S TARGET. THE PROJECT WILL DEVELOP THE PATIENT-SPECIFIC VIRTUAL LIVER MODEL TO SIMULATE THE DISTRIBUTION, WILL ACCELERATE THE SIMULATION WITH ARTIFICIAL INTELLIGENCE (GANS), AND WILL INTEGRATE THE LIVER MODEL INTO AN OPTIMIZATION ALGORITHM. THE VIRTUAL LIVER MODEL ACTS A DIGITAL TWIN OF THE PATIENT’S LIVER TO ASSIST TAE PLANNING. THERE IS A DIRE NEED FOR PREDICTIVE MULTIPHYSICS AND MULTISCALE LIVER MODELS THAT INCLUDE BLOOD FLOW, A MAJOR COMPONENT OF LIVER DISEASE. OUR DIGITAL TWIN LIVER CAN FILL THIS GAP FOR LIVER CANCER.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-17",
+    "End Date": "2027-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U01CA289068_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92612321,
+    "generated_unique_award_id": "ASST_NON_U01CA289068_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "A LIVER DIGITAL TWIN FOR PERSONALIZED CANCER THERAPY - PROJECT SUMMARY/ ABSTRACT OUR LONG-TERM OBJECTIVE IS TO IMPROVE THE EFFICACY AND SAFETY OF LIVER CANCER TRANSARTERIAL EMBOLIZATION THROUGH NEW COMPUTATIONAL TOOLS THAT ENABLE THE DEVELOPMENT OF NEW PERSONALIZED TREATMENT STRATEGIES. THE CONTINUED RISING MORTALITY AND INCIDENCE MAKE RESEARCH ON IMPROVING LIVER CANCER MANAGEMENT ESSENTIAL. TRANSARTERIAL EMBOLIZATION IS USED TO OBSTRUCT THE TUMOR BLOOD FLOW (TAE) AND DELIVER LOCALIZED RADIATION (YTTRIUM-90 RADIOEMBOLIZATION 90Y TARE) OR CHEMOTHERAPY (CHEMOEMBOLIZATION TACE). 90Y TARE COUNTED FOR MORE THAN 10,000 INTERVENTIONS IN THE US IN 2022. DEMONSTRATED BENEFITS FOR PATIENTS INCLUDE INCREASED TIME TO PROGRESSION BUT MODERATE IMPROVEMENT OF OVERALL SURVIVAL, IN PART BECAUSE IT IS ONLY USED AS SECOND OR THIRD LINE TREATMENT ON ADVANCED CANCERS. RECENT 90Y TARE CLINICAL TRIALS SHOWED A CORRELATION BETWEEN THE TUMOR DOSE AND PATIENT OUTCOME, INDICATING THAT ROBUST AND PRECISE TARGETING MUST BE PURSUED. TARGETING IS HOWEVER COMPLEX, HIGHLY PATIENT-DEPENDENT, AND DIFFICULT TO PLAN WITH CURRENT IMAGING TECHNIQUES. THIS LEADS PHYSICIANS TO UNDERDOSE 90Y TARE TO LIMIT LIVER TOXICITY, MISSING THE TUMORICIDAL DOSE OF ~50 IN 80% OF PATIENTS. TAE AND TACE ARE PERFORMED WITH A FIXED DOSAGE AND ALSO FREQUENTLY FAIL: POST TREATMENT IMAGING SHOWS RESIDUAL BLOOD FLOW IN ~70% OF TUMORS TREATED WITH TACE, INDICATIVE OF INCOMPLETE OCCLUSION OF THE TUMOR BLOOD SUPPLY. IF THE EFFICACY AND SAFETY PROFILE OF TAE WERE IMPROVED THROUGH BETTER PLANNING, IT COULD HAVE A MUCH HIGHER IMPACT ON PATIENT OUTCOME, HELPING PATIENTS AT EARLIER STAGES AND REDUCING MORTALITY. TOOLS TO DEVELOP SUCH TREATMENT PLANNING CURRENTLY LACK ROBUSTNESS AND ACCURACY. THIS U01 PROPOSAL FOLLOWS THE CONCEPT OF A LIVER DIGITAL TWIN TO DEVELOP AN IN SILICO PLATFORM TO OPTIMIZE LIVER TRANSARTERIAL EMBOLIZATION. TUMOR TARGETING IS ACHIEVED BY SELECTING THE INJECTION POINTS AND DOSAGE; IT REMAINS MOSTLY EMPIRICAL BASED ON PRETREATMENT VASCULAR IMAGING WITH LIMITED ROBUSTNESS. WE PROPOSE A NOVEL PERSONALIZED TREATMENT PLANNING USING A LIVER DIGITAL TWIN THAT BUILDS ON OUR PREVIOUS WORK DEVELOPING CFDOSE, A SIMULATION PIPELINE BASED ON COMPUTATIONAL FLUID DYNAMICS AND PHYSICS MODELING INFORMED WITH PATIENT CT IMAGES. CFDOSE PREDICTS THE LIVER DOSE THROUGH BLOOD FLOW SIMULATION USING STANDARD-OF-CARE IMAGING, REQUIRING NO CHANGES TO THE CLINICAL WORKFLOW. WE WILL USE IT AS A BUILDING BLOCK TO DEVELOP PATIENT-SPECIFIC IN SILICO OPTIMIZATION OF TAE, TARE, AND TACE. THE ALGORITHM WILL SAMPLE THE INJECTION POINT AND DOSAGE, SIMULATE THE DOSE OR DRUG CONCENTRATION DISTRIBUTION (ACTIVATING THE LIVER MODEL MULTIPLE TIMES), AND COMPARE IT WITH THE PHYSICIAN’S TARGET. THE PROJECT WILL DEVELOP THE PATIENT-SPECIFIC VIRTUAL LIVER MODEL TO SIMULATE THE DISTRIBUTION, WILL ACCELERATE THE SIMULATION WITH ARTIFICIAL INTELLIGENCE (GANS), AND WILL INTEGRATE THE LIVER MODEL INTO AN OPTIMIZATION ALGORITHM. THE VIRTUAL LIVER MODEL ACTS A DIGITAL TWIN OF THE PATIENT’S LIVER TO ASSIST TAE PLANNING. THERE IS A DIRE NEED FOR PREDICTIVE MULTIPHYSICS AND MULTISCALE LIVER MODELS THAT INCLUDE BLOOD FLOW, A MAJOR COMPONENT OF LIVER DISEASE. OUR DIGITAL TWIN LIVER CAN FILL THIS GAP FOR LIVER CANCER.",
+    "total_obligation": 1074605,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-09-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 214446.9,
+    "total_account_obligation": 357939,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 214446.9
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 357939
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-17",
+      "end_date": "2027-08-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 214446.9
+  }
+}

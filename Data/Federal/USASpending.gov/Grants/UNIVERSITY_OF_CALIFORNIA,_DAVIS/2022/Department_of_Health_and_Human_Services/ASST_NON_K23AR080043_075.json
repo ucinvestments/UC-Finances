@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89106982,
+    "Award ID": "K23AR080043",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 677429,
+    "Total Outlays": 483495.31,
+    "Description": "A CLINICAL TRIAL FOR PSORIASIS WITH NOVEL SINGLE-CELL GENOMIC TECHNIQUES TO UNDERSTAND REGULATORY IMMUNITY BEHIND LONG-TERM DISEASE REMISSION OFF DRUG INDUCED BY SHORT-TERM IL-23 INHIBITION - ALTHOUGH HIGHLY EFFECTIVE, BIOLOGICS TARGETING IL-23/TH17 AXIS SHOULD BE CONTINUOUSLY INJECTED TO SUPPRESS RECURRENCE OF PSORIASIS. MY LONG-TERM GOAL IS TO CURE PSORIASIS WITHOUT RECURRENCE GUIDED BY PERSONAL IMMUNE TOLERANCE. THE OVERALL OBJECTIVES IN THIS APPLICATION ARE TO (I) IDENTIFY REGULATORY IMMUNE CELL INTERACTIONS INDUCED BY ANTI-IL-23P19 ANTIBODY ADMINISTRATION IN THE SKIN OF PATIENTS WHOSE PSORIASIS IS CLEARED WITHOUT RECURRENCE AND (II) DEVELOP PRE-TREATMENT PREDICTIVE MODELS FOR PSORIASIS PATIENTS THAT ANTICIPATE DISEASE RECURRENCE AFTER SHORT-TERM ANTI-IL-23P19 ANTIBODY INJECTION. THE CENTRAL HYPOTHESIS IS THAT IL-23P19 INHIBITION PROMOTES REGULATORY IMMUNE CELLS IN PSORIASIS PATIENTS WHOSE DISEASE IS CLEARED WITHOUT RECURRENCE, AND THEIR PRE-TREATMENT SINGLE-CELL IMMUNE SIGNATURES ARE DIFFERENT FROM THOSE OF PATIENTS WHOSE DISEASE RECURS. THE RATIONALE FOR THIS PROJECT IS THAT MOLECULAR EVIDENCE OF IMMUNE TOLERANCE INDUCTION BY IL-23P19 INHIBITION IN HUMAN SKIN IS LIKELY TO OFFER A STRONG CLINICAL FRAMEWORK WHEREBY NEW STRATEGIES TO PREVENT RECURRENCE OF CHRONIC INFLAMMATORY DISEASES CAN BE DEVELOPED. THE CENTRAL HYPOTHESIS WILL BE TESTED BY PURSUING TWO SPECIFIC AIMS: 1) TESTING THE HYPOTHESIS THAT REGULATORY IMMUNE CELL INTERACTIONS ARE PROMOTED BY SHORT-TERM ANTI-IL-23P19 ANTIBODY ADMINISTRATION IN THE SKIN OF PSORIASIS PATIENTS WHOSE DISEASE BECOMES CLEAR WITHOUT RECURRENCE; AND 2) DEVELOPING PREDICTIVE MODELS WITH PRETREATMENT SKIN BIOPSY SINGLE-CELL GENOMIC DATA THAT ANTICIPATE LONG-TERM DISEASE CLEARANCE OFF DRUG AFTER SHORT-TERM ANTI-IL-23P19 ANTIBODY ADMINISTRATION. TO ACHIEVE THE SPECIFIC AIMS, WE HAVE RECENTLY DEVELOPED TWO INNOVATIVE COMPLEMENTARY SINGLE-CELL APPROACHES TO OBTAIN GENE EXPRESSION PROFILES OF HETEROGENEOUS IMMUNE CELLS FROM PSORIASIS AND CONTROL SKIN WITHOUT ENZYME DIGESTION. THE FIRST SINGLE-CELL EXPERIMENTAL APPROACH IS MICROFLUIDIC PARTITIONING OF EMIGRATING CELLS FROM HUMAN SKIN AFTER 48-HOUR INCUBATION IN CULTURE MEDIUM WITHOUT ENZYME DIGESTION, WHICH EMPOWERS SINGLE-CELL TRANSCRIPTOMIC PROFILING OF HETEROGENEOUS IMMUNE CELLS AND KERATINOCYTES IN DIFFERENT LAYERS OF EPIDERMIS UNDER EX VIVO CONDITION. THE SECOND SINGLE-CELL EXPERIMENTAL APPROACH IS COMBINATORIAL INDEXING RNA SEQUENCING, DEVELOPED BY THE CO-MENTOR OF THE PROPOSAL, WHICH ENABLES CO-PROFILING TRANSCRIPTOME AND SINGLE-CELL CHROMATIN ACCESSIBILITY. AT THE COMPLETION OF THE PROPOSED RESEARCH, OUR EXPECTED OUTCOMES ARE TO HAVE NOVEL SINGLE-CELL GENOMIC TECHNIQUES TO STUDY IMMUNE CELL INTERACTIONS IN HUMAN SKIN, DEFINED SINGLE-CELL GENE SIGNATURES OF REGULATORY IMMUNE CELLS THAT ARE PROMOTED BY ANTI-IL-23P19 ANTIBODY ADMINISTRATION IN PSORIASIS SKIN, AND THE ABILITY TO ELUCIDATE HOW PATHOLOGIC IMMUNITY IS SUPPRESSED AT THE SINGLE-CELL LEVEL BY HIGHLY EFFECTIVE BIOLOGICS. WE ALSO EXPECT TO HAVE PRE-TREATMENT BIOMARKERS THAT CAN PREDICT LONG-TERM DISEASE CLEARANCE OFF DRUGS AFTER SHORT-TERM ANTI-IL-23P19 ANTIBODY ADMINISTRATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-18",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K23AR080043_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89106982,
+    "generated_unique_award_id": "ASST_NON_K23AR080043_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A CLINICAL TRIAL FOR PSORIASIS WITH NOVEL SINGLE-CELL GENOMIC TECHNIQUES TO UNDERSTAND REGULATORY IMMUNITY BEHIND LONG-TERM DISEASE REMISSION OFF DRUG INDUCED BY SHORT-TERM IL-23 INHIBITION - ALTHOUGH HIGHLY EFFECTIVE, BIOLOGICS TARGETING IL-23/TH17 AXIS SHOULD BE CONTINUOUSLY INJECTED TO SUPPRESS RECURRENCE OF PSORIASIS. MY LONG-TERM GOAL IS TO CURE PSORIASIS WITHOUT RECURRENCE GUIDED BY PERSONAL IMMUNE TOLERANCE. THE OVERALL OBJECTIVES IN THIS APPLICATION ARE TO (I) IDENTIFY REGULATORY IMMUNE CELL INTERACTIONS INDUCED BY ANTI-IL-23P19 ANTIBODY ADMINISTRATION IN THE SKIN OF PATIENTS WHOSE PSORIASIS IS CLEARED WITHOUT RECURRENCE AND (II) DEVELOP PRE-TREATMENT PREDICTIVE MODELS FOR PSORIASIS PATIENTS THAT ANTICIPATE DISEASE RECURRENCE AFTER SHORT-TERM ANTI-IL-23P19 ANTIBODY INJECTION. THE CENTRAL HYPOTHESIS IS THAT IL-23P19 INHIBITION PROMOTES REGULATORY IMMUNE CELLS IN PSORIASIS PATIENTS WHOSE DISEASE IS CLEARED WITHOUT RECURRENCE, AND THEIR PRE-TREATMENT SINGLE-CELL IMMUNE SIGNATURES ARE DIFFERENT FROM THOSE OF PATIENTS WHOSE DISEASE RECURS. THE RATIONALE FOR THIS PROJECT IS THAT MOLECULAR EVIDENCE OF IMMUNE TOLERANCE INDUCTION BY IL-23P19 INHIBITION IN HUMAN SKIN IS LIKELY TO OFFER A STRONG CLINICAL FRAMEWORK WHEREBY NEW STRATEGIES TO PREVENT RECURRENCE OF CHRONIC INFLAMMATORY DISEASES CAN BE DEVELOPED. THE CENTRAL HYPOTHESIS WILL BE TESTED BY PURSUING TWO SPECIFIC AIMS: 1) TESTING THE HYPOTHESIS THAT REGULATORY IMMUNE CELL INTERACTIONS ARE PROMOTED BY SHORT-TERM ANTI-IL-23P19 ANTIBODY ADMINISTRATION IN THE SKIN OF PSORIASIS PATIENTS WHOSE DISEASE BECOMES CLEAR WITHOUT RECURRENCE; AND 2) DEVELOPING PREDICTIVE MODELS WITH PRETREATMENT SKIN BIOPSY SINGLE-CELL GENOMIC DATA THAT ANTICIPATE LONG-TERM DISEASE CLEARANCE OFF DRUG AFTER SHORT-TERM ANTI-IL-23P19 ANTIBODY ADMINISTRATION. TO ACHIEVE THE SPECIFIC AIMS, WE HAVE RECENTLY DEVELOPED TWO INNOVATIVE COMPLEMENTARY SINGLE-CELL APPROACHES TO OBTAIN GENE EXPRESSION PROFILES OF HETEROGENEOUS IMMUNE CELLS FROM PSORIASIS AND CONTROL SKIN WITHOUT ENZYME DIGESTION. THE FIRST SINGLE-CELL EXPERIMENTAL APPROACH IS MICROFLUIDIC PARTITIONING OF EMIGRATING CELLS FROM HUMAN SKIN AFTER 48-HOUR INCUBATION IN CULTURE MEDIUM WITHOUT ENZYME DIGESTION, WHICH EMPOWERS SINGLE-CELL TRANSCRIPTOMIC PROFILING OF HETEROGENEOUS IMMUNE CELLS AND KERATINOCYTES IN DIFFERENT LAYERS OF EPIDERMIS UNDER EX VIVO CONDITION. THE SECOND SINGLE-CELL EXPERIMENTAL APPROACH IS COMBINATORIAL INDEXING RNA SEQUENCING, DEVELOPED BY THE CO-MENTOR OF THE PROPOSAL, WHICH ENABLES CO-PROFILING TRANSCRIPTOME AND SINGLE-CELL CHROMATIN ACCESSIBILITY. AT THE COMPLETION OF THE PROPOSED RESEARCH, OUR EXPECTED OUTCOMES ARE TO HAVE NOVEL SINGLE-CELL GENOMIC TECHNIQUES TO STUDY IMMUNE CELL INTERACTIONS IN HUMAN SKIN, DEFINED SINGLE-CELL GENE SIGNATURES OF REGULATORY IMMUNE CELLS THAT ARE PROMOTED BY ANTI-IL-23P19 ANTIBODY ADMINISTRATION IN PSORIASIS SKIN, AND THE ABILITY TO ELUCIDATE HOW PATHOLOGIC IMMUNITY IS SUPPRESSED AT THE SINGLE-CELL LEVEL BY HIGHLY EFFECTIVE BIOLOGICS. WE ALSO EXPECT TO HAVE PRE-TREATMENT BIOMARKERS THAT CAN PREDICT LONG-TERM DISEASE CLEARANCE OFF DRUGS AFTER SHORT-TERM ANTI-IL-23P19 ANTIBODY ADMINISTRATION.",
+    "total_obligation": 677429,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-08-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 483495.31,
+    "total_account_obligation": 677429,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 483495.31
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 677429
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-18",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 483495.31
+  }
+}

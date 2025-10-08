@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91330444,
+    "Award ID": "R35GM151115",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1062184,
+    "Total Outlays": 670991.42,
+    "Description": "NANOSMS: SINGLE MOLECULE SECRETOME ANALYSIS FOR NON-DESTRUCTIVE CELLULAR FINGERPRINTING - PROJECT SUMMARY/ABSTRACT OVER THE NEXT 5 YEARS, NANOSMS WILL BE DEVELOPED INTO A TECHNOLOGY WHICH OFFERS THE FIRST LOOK INTO THE SINGLE CELL SECRETOME; WITH SINGLE MOLECULE SENSITIVITY. THE DEVELOPMENT OF THIS NEW TECHNOLOGY IS BASED ON THE INTEGRATION OF SINGLE CELL ENCAPSULATION TECHNOLOGIES WITH NANOPORE- BASED SINGLE MOLECULE SENSING. THE COLLECTION OF MOLECULES RELEASED INTO THE EXTRACELLULAR ENVIRONMENT BY SINGLE CELLS, TERMED THE SINGLE CELL SECRETOME, OFFERS A UNIQUE GLIMPSE INTO THE COMPLEXITIES OF CELLULAR LIFE AND CELL-TO-CELL COMMUNICATION. THE KEY FEATURES OF THE TECHNOLOGY WHICH WILL BE DEVELOPED AT THE END OF THE PROJECT PERIOD INCLUDE (1) A MASSIVELY PARALLEL WAY TO FORM DROPLETS ADHERED ONTO A GLASS SLIDE AND CONTAINING A SINGLE CELL, AND (2) A NANOPORE-BASED APPROACH FOR MEASURING SECRETED MOLECULE ORIGINATING FROM A SINGLE CELL. ONCE THE NANOPORES AND RELATED METHODOLOGIES ARE DEVELOPED, WE AIM TO ANSWER FOUR KEY QUESTIONS SURROUNDING IMPORTANT BIOMEDICAL ISSUES. FIRST, THE NANOPORE WILL QUANTIFY SINGLE CELL ANTIBODY PRODUCTION ORIGINATING FROM HUMAN PLASMA CELLS WHICH HAVE BEEN ISOLATED FROM PATIENTS IN VARIOUS DISEASE STATES INCLUDING AUTO-IMMUNE DISORDERS. SECOND, B CELLS AND T CELLS WILL BE CO-INCUBATED AND STIMULATED WITH A SINGLE ANTIGEN TO INDUCE AN IMMUNE RESPONSE. THE TIME LAG TO START GENERATING ANTIBODIES AS WELL AS THE FACTORS WHICH INFLUENCE THE TIMING OF THE IMMUNE RESPONSE WILL BE STUDIED. THIRD, EOSINOPHILS CO-INCUBATED WITH A SINGLE CANCER CELL (OR CANCER-DERIVED VESICLES) WILL BE INVESTIGATED TO PROVIDE INSIGHT INTO EARLY CANCER RECOGNITION MECHANISMS. LASTLY, SINGLE CELL SECRETOME FINGERPRINTING WILL BE USED TO ACCESS THE ABILITY TO DISCRIMINATE BETWEEN STEM CELL LINEAGES IN A NON-DESTRUCTIVE MANNER. STEM CELL CHARACTERIZATION IS IMPORTANT FOR CELL THERAPY (IN WHICH THE MECHANISM OF ACTION IS SECRETED MOLECULES) AS WELL AS ASSESSING CELL STATE FOR REGENERATIVE MEDICINE. NEEDLESS TO SAY, THE SECRETOME PLAYS A FUNCTIONAL AND YET OBSCURED ROLE IN BOTH NORMAL AND DISEASED CELLULAR STATES. THE APPLICATION OF NANOSMS (A NANOPORE-BASED APPROACH TOWARDS SECRETOME ANALYSIS) WILL PROVIDE A UNIQUE AND NEW TOOL FOR SINGLE CELL CHARACTERIZATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-01",
+    "End Date": "2028-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM151115_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91330444,
+    "generated_unique_award_id": "ASST_NON_R35GM151115_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NANOSMS: SINGLE MOLECULE SECRETOME ANALYSIS FOR NON-DESTRUCTIVE CELLULAR FINGERPRINTING - PROJECT SUMMARY/ABSTRACT OVER THE NEXT 5 YEARS, NANOSMS WILL BE DEVELOPED INTO A TECHNOLOGY WHICH OFFERS THE FIRST LOOK INTO THE SINGLE CELL SECRETOME; WITH SINGLE MOLECULE SENSITIVITY. THE DEVELOPMENT OF THIS NEW TECHNOLOGY IS BASED ON THE INTEGRATION OF SINGLE CELL ENCAPSULATION TECHNOLOGIES WITH NANOPORE- BASED SINGLE MOLECULE SENSING. THE COLLECTION OF MOLECULES RELEASED INTO THE EXTRACELLULAR ENVIRONMENT BY SINGLE CELLS, TERMED THE SINGLE CELL SECRETOME, OFFERS A UNIQUE GLIMPSE INTO THE COMPLEXITIES OF CELLULAR LIFE AND CELL-TO-CELL COMMUNICATION. THE KEY FEATURES OF THE TECHNOLOGY WHICH WILL BE DEVELOPED AT THE END OF THE PROJECT PERIOD INCLUDE (1) A MASSIVELY PARALLEL WAY TO FORM DROPLETS ADHERED ONTO A GLASS SLIDE AND CONTAINING A SINGLE CELL, AND (2) A NANOPORE-BASED APPROACH FOR MEASURING SECRETED MOLECULE ORIGINATING FROM A SINGLE CELL. ONCE THE NANOPORES AND RELATED METHODOLOGIES ARE DEVELOPED, WE AIM TO ANSWER FOUR KEY QUESTIONS SURROUNDING IMPORTANT BIOMEDICAL ISSUES. FIRST, THE NANOPORE WILL QUANTIFY SINGLE CELL ANTIBODY PRODUCTION ORIGINATING FROM HUMAN PLASMA CELLS WHICH HAVE BEEN ISOLATED FROM PATIENTS IN VARIOUS DISEASE STATES INCLUDING AUTO-IMMUNE DISORDERS. SECOND, B CELLS AND T CELLS WILL BE CO-INCUBATED AND STIMULATED WITH A SINGLE ANTIGEN TO INDUCE AN IMMUNE RESPONSE. THE TIME LAG TO START GENERATING ANTIBODIES AS WELL AS THE FACTORS WHICH INFLUENCE THE TIMING OF THE IMMUNE RESPONSE WILL BE STUDIED. THIRD, EOSINOPHILS CO-INCUBATED WITH A SINGLE CANCER CELL (OR CANCER-DERIVED VESICLES) WILL BE INVESTIGATED TO PROVIDE INSIGHT INTO EARLY CANCER RECOGNITION MECHANISMS. LASTLY, SINGLE CELL SECRETOME FINGERPRINTING WILL BE USED TO ACCESS THE ABILITY TO DISCRIMINATE BETWEEN STEM CELL LINEAGES IN A NON-DESTRUCTIVE MANNER. STEM CELL CHARACTERIZATION IS IMPORTANT FOR CELL THERAPY (IN WHICH THE MECHANISM OF ACTION IS SECRETED MOLECULES) AS WELL AS ASSESSING CELL STATE FOR REGENERATIVE MEDICINE. NEEDLESS TO SAY, THE SECRETOME PLAYS A FUNCTIONAL AND YET OBSCURED ROLE IN BOTH NORMAL AND DISEASED CELLULAR STATES. THE APPLICATION OF NANOSMS (A NANOPORE-BASED APPROACH TOWARDS SECRETOME ANALYSIS) WILL PROVIDE A UNIQUE AND NEW TOOL FOR SINGLE CELL CHARACTERIZATION.",
+    "total_obligation": 1062184,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-08-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 670991.42,
+    "total_account_obligation": 705161,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 670991.42
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 705161
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2028-08-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 670991.42
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91135794,
+    "Award ID": "R01AI179873",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 858639,
+    "Total Outlays": 547184.97,
+    "Description": "THE BASIS OF INFLUENZA A VIRUS STRAIN-DEPENDENT REASSORTMENT POTENTIAL - ABSTRACT DESCRIPTION: INFLUENZA VIRUSES CAN EXCHANGE GENOME SEGMENTS AND GENERATE NEW VIRUSES WHEN THEY INFECT THE SAME CELL, A PROCESS CALLED REASSORTMENT. THESE NEW VIRUSES CAN WORSEN SEASONAL FLU EPIDEMICS OR SPARK GLOBAL PANDEMICS. WE RECENTLY FOUND THAT PATTERNS OF REASSORTMENT SHOW STRONG STRAIN-DEPENDENCE, AND DO NOT NECESSARILY TRACK SIMILARITY BETWEEN COINFECTING STRAINS OR THEIR SUBTYPE (H1N1 OR H3N2). THE SPECIFIC FACTORS UNDERLYING THIS STRAIN DEPENDENCE REMAIN UNCLEAR. THE ROLE OF PROTEIN INCOMPATIBILITIES IN RESTRICTING SEGMENT EXCHANGE WAS THOUGHT TO BE ASSOCIATED WITH DIFFERENT SUBTYPES. HOWEVER, EXPERIMENTAL TESTS OF THE ROLE OF SUBTYPE IN PROMOTING OR RESTRICTING REASSORTMENT REMAIN VERY LIMITED, AND THE SPECIFIC PROTEIN INCOMPATIBILITIES (ANTIGENIC VERSUS POLYMERASE COMPLEX) THAT ARE MOST IMPORTANT IN SHAPING REASSORTMENT REMAIN UNKNOWN. USING OUR HIGH-THROUGHPUT TOOLS, WE PROPOSE TO UNCOVER THE BASIS OF STRAIN DEPENDENT REASSORTMENT POTENTIAL. FIRST, WE WILL QUANTIFY REASSORTMENT PATTERNS WITHIN AND BETWEEN CO-CIRCULATING HUMAN INFLUENZA STRAINS OF BOTH SUBTYPES AND MEASURE DIFFERENCES IN ENTRY AND COINFECTION. SECOND, WE WILL USE MUTANTS TO TEST THE EFFECT OF ANTIGENIC VERSUS POLYMERASE COMPLEX SEGMENTS IN DRIVING REASSORTMENT POTENTIAL. FINALLY, WE WILL EXAMINE WHETHER POST-REASSORTMENT MUTATIONS CAN COMPENSATE FITNESS IN STRAINS ARISING FROM BETWEEN-SUBTYPE REASSORTMENT AND THEIR FITNESS IN DIFFERENT HOST CELL TYPES. COLLECTIVELY THESE AIMS WILL PROVIDE BASIC INSIGHT INTO THE FACTORS AFFECTING STRAIN DEPENDENCE IN REASSORTMENT POTENTIAL AND PROVIDE ACTIONABLE DATA TO REFOCUS SURVEILLANCE AND PANDEMIC PREPAREDNESS EFFORTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-02-14",
+    "End Date": "2029-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI179873_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91135794,
+    "generated_unique_award_id": "ASST_NON_R01AI179873_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE BASIS OF INFLUENZA A VIRUS STRAIN-DEPENDENT REASSORTMENT POTENTIAL - ABSTRACT DESCRIPTION: INFLUENZA VIRUSES CAN EXCHANGE GENOME SEGMENTS AND GENERATE NEW VIRUSES WHEN THEY INFECT THE SAME CELL, A PROCESS CALLED REASSORTMENT. THESE NEW VIRUSES CAN WORSEN SEASONAL FLU EPIDEMICS OR SPARK GLOBAL PANDEMICS. WE RECENTLY FOUND THAT PATTERNS OF REASSORTMENT SHOW STRONG STRAIN-DEPENDENCE, AND DO NOT NECESSARILY TRACK SIMILARITY BETWEEN COINFECTING STRAINS OR THEIR SUBTYPE (H1N1 OR H3N2). THE SPECIFIC FACTORS UNDERLYING THIS STRAIN DEPENDENCE REMAIN UNCLEAR. THE ROLE OF PROTEIN INCOMPATIBILITIES IN RESTRICTING SEGMENT EXCHANGE WAS THOUGHT TO BE ASSOCIATED WITH DIFFERENT SUBTYPES. HOWEVER, EXPERIMENTAL TESTS OF THE ROLE OF SUBTYPE IN PROMOTING OR RESTRICTING REASSORTMENT REMAIN VERY LIMITED, AND THE SPECIFIC PROTEIN INCOMPATIBILITIES (ANTIGENIC VERSUS POLYMERASE COMPLEX) THAT ARE MOST IMPORTANT IN SHAPING REASSORTMENT REMAIN UNKNOWN. USING OUR HIGH-THROUGHPUT TOOLS, WE PROPOSE TO UNCOVER THE BASIS OF STRAIN DEPENDENT REASSORTMENT POTENTIAL. FIRST, WE WILL QUANTIFY REASSORTMENT PATTERNS WITHIN AND BETWEEN CO-CIRCULATING HUMAN INFLUENZA STRAINS OF BOTH SUBTYPES AND MEASURE DIFFERENCES IN ENTRY AND COINFECTION. SECOND, WE WILL USE MUTANTS TO TEST THE EFFECT OF ANTIGENIC VERSUS POLYMERASE COMPLEX SEGMENTS IN DRIVING REASSORTMENT POTENTIAL. FINALLY, WE WILL EXAMINE WHETHER POST-REASSORTMENT MUTATIONS CAN COMPENSATE FITNESS IN STRAINS ARISING FROM BETWEEN-SUBTYPE REASSORTMENT AND THEIR FITNESS IN DIFFERENT HOST CELL TYPES. COLLECTIVELY THESE AIMS WILL PROVIDE BASIC INSIGHT INTO THE FACTORS AFFECTING STRAIN DEPENDENCE IN REASSORTMENT POTENTIAL AND PROVIDE ACTIONABLE DATA TO REFOCUS SURVEILLANCE AND PANDEMIC PREPAREDNESS EFFORTS.",
+    "total_obligation": 858639,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-02-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 547184.97,
+    "total_account_obligation": 858639,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 547184.97
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 858639
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2024-02-14",
+      "end_date": "2029-01-31",
+      "last_modified_date": "2025-01-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 547184.97
+  }
+}

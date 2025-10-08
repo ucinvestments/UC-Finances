@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 171739170,
+    "Award ID": "R01DA063043",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 800617,
+    "Total Outlays": 0,
+    "Description": "NEUROMARKERS FOR CRAVING AND DRUG USE - PROJECT SUMMARY/ABSTRACT SUBSTANCE USE DISORDERS (SUDS) ARE THE MOST COMMON, COSTLY, AND DEADLY PSYCHIATRIC CONDITIONS1-3. OUR APPROACH CENTERS ON THE DEVELOPMENT AND VALIDATION OF NEUROMARKERS – MEASURABLE, BRAIN-BASED INDICATORS OF PATHOPHYSIOLOGY, RISK, AND RESILIENCE. IN R01DA043690, WE USED MACHINE LEARNING AND FMRI DATA TO CREATE A CROSS-VALIDATED NEUROMARKER FOR DRUG CRAVING, A CORE FEATURE AND DIAGNOSTIC CRITERION FOR SUDS IN DSM- 51-3 THAT PREDICTS DRUG USE AND RELAPSE4. THE RESULTING NEUROBIOLOGICAL CRAVING SIGNATURE (NCS)5 PREDICTS THE INTENSITY OF CUE-INDUCED DRUG AND FOOD CRAVING IN NEW INDIVIDUALS WITH COCAINE, ALCOHOL, AND TOBACCO USE DISORDERS (P\u003c0.0002, D=0.93), DISCRIMINATES BETWEEN INDIVIDUALS WITH VS. WITHOUT SUDS WITH 82% ACCURACY5, AND IS MODULATED BY A REGULATION STRATEGY DRAWN FROM COGNITIVE BEHAVIORAL TREATMENT (CBT)5. IN THIS PROPOSAL, WE VALIDATE THE NCS BASED ON FDA-NIH-DEFINED CRITERIA6 AND UNPACK ITS UNDERLYING NEUROBIOLOGICAL SYSTEMS. FOR THIS, WE HAVE CURATED A LARGE DATABASE INCLUDING 82 EXISTING CUE REACTIVITY FMRI STUDIES (TOTAL N=5,475) FROM OUR LAB, OTHER LABS, THE ENIGMA CONSORTIUM, AND NCANDA (FROM THE NIMH DATA ARCHIVE). IN AIM 1, WE PROPOSE TO VALIDATE THE NCS TOWARDS RESEARCH AND CLINICAL USES, FOLLOWING THE FDA-NIH BIOMARKER WORKING GROUP6 GUIDELINES. WE WILL ASSESS (1A) GENERALIZABILITY, BY TESTING WHETHER THE NCS PREDICTS CRAVING ACROSS DRUGS, STIMULUS TYPES, SEX/GENDER, AND RACIAL CATEGORIES (N=3,844); (1B) BIAS IN OVER/UNDERPREDICTING SELECTED GROUPS (SEX, RACE, DRUG TYPE, TREATMENT-SEEKING STATUS; N=3,844); (1C) DISCRIMINANT VALIDITY, BY COMPARING THE NCS WITH NEUROMARKERS FOR OTHER AFFECTIVE STATES (N=5,475)7-11; (1D) DIAGNOSTIC VALIDITY, BY TESTING NCS-BASED DISCRIMINATION OF DRUG USERS FROM NON-USERS (N=1,773); (1E) PREDICTIVE VALIDITY, BY TESTING IF THE NCS CAN PREDICT WHICH INDIVIDUALS WILL RESPOND TO PSYCHOLOGICAL (N=257) OR PHARMACOLOGICAL TREATMENTS (N=562) VS. CONTROL; AND (1F) PROGNOSTIC VALIDITY, BY TESTING IF THE NCS CAN PREDICT FUTURE DRUG USE OR RELAPSE AFTER TREATMENT (N=860). TO ADDRESS POTENTIAL LIMITATIONS ON GENERALIZABILITY AS WELL AS ANY DETECTED BIAS, WE INCLUDE PLANS TO FINE-TUNE MODELS FOR SUBGROUPS (E.G., SEX, RACE, DRUG TYPE) IF NEEDED. IN AIM 2, WE WILL CHARACTERIZE THE NEUROBIOLOGY OF THE NCS AND ITS COMPONENTS, USING AN INTERPRETABLE MACHINE LEARNING APPROACH12, 13. WE IDENTIFY KEY NODES CONTRIBUTING TO CRAVING PREDICTION AND DEPLOY A SERIES OF TECHNIQUES TO IDENTIFY CRAVING-RELATED BRAIN PATHWAYS. WE COMBINE MULTIVARIATE PATTERN-BASED PATHWAY IDENTIFICATION14 WITH DYNAMIC CONNECTIVITY TO ESTIMATE BOTH POPULATION-LEVEL AND INDIVIDUALIZED CONNECTOMES. WE WILL (2A) TEST THE PREDICTIVE POWER OF CONNECTOMES ABOVE AND BEYOND ACTIVITY PATTERNS; (2B) ASSESS INDIVIDUAL VARIABILITY IN PATHWAY STRENGTH; (2C) TEST WHETHER DRUG CUES ENHANCE AND INCREASE FUNCTIONAL INTEGRATION; AND (2D) IDENTIFY LATENT BRAIN STATES ASSOCIATED WITH CRAVING AND RELAPSE. DELIVERABLES INCLUDE A REFINED UNDERSTANDING OF CONNECTIVITY STATES LINKED TO CRAVING AND SUD RECOVERY VS. RELAPSE, AND CONNECTIVITY-BASED PREDICTIVE MODELS COMPOSED OF SPECIFIC NEURAL PATHWAYS THAT CAN BE VALIDATED ACROSS SPECIES AND METHODS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "1608 4TH ST STE 201",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1749",
+      "zip5": "94710"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-06-01",
+    "End Date": "2030-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DA063043_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 171739170,
+    "generated_unique_award_id": "ASST_NON_R01DA063043_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NEUROMARKERS FOR CRAVING AND DRUG USE - PROJECT SUMMARY/ABSTRACT SUBSTANCE USE DISORDERS (SUDS) ARE THE MOST COMMON, COSTLY, AND DEADLY PSYCHIATRIC CONDITIONS1-3. OUR APPROACH CENTERS ON THE DEVELOPMENT AND VALIDATION OF NEUROMARKERS – MEASURABLE, BRAIN-BASED INDICATORS OF PATHOPHYSIOLOGY, RISK, AND RESILIENCE. IN R01DA043690, WE USED MACHINE LEARNING AND FMRI DATA TO CREATE A CROSS-VALIDATED NEUROMARKER FOR DRUG CRAVING, A CORE FEATURE AND DIAGNOSTIC CRITERION FOR SUDS IN DSM- 51-3 THAT PREDICTS DRUG USE AND RELAPSE4. THE RESULTING NEUROBIOLOGICAL CRAVING SIGNATURE (NCS)5 PREDICTS THE INTENSITY OF CUE-INDUCED DRUG AND FOOD CRAVING IN NEW INDIVIDUALS WITH COCAINE, ALCOHOL, AND TOBACCO USE DISORDERS (P\u003c0.0002, D=0.93), DISCRIMINATES BETWEEN INDIVIDUALS WITH VS. WITHOUT SUDS WITH 82% ACCURACY5, AND IS MODULATED BY A REGULATION STRATEGY DRAWN FROM COGNITIVE BEHAVIORAL TREATMENT (CBT)5. IN THIS PROPOSAL, WE VALIDATE THE NCS BASED ON FDA-NIH-DEFINED CRITERIA6 AND UNPACK ITS UNDERLYING NEUROBIOLOGICAL SYSTEMS. FOR THIS, WE HAVE CURATED A LARGE DATABASE INCLUDING 82 EXISTING CUE REACTIVITY FMRI STUDIES (TOTAL N=5,475) FROM OUR LAB, OTHER LABS, THE ENIGMA CONSORTIUM, AND NCANDA (FROM THE NIMH DATA ARCHIVE). IN AIM 1, WE PROPOSE TO VALIDATE THE NCS TOWARDS RESEARCH AND CLINICAL USES, FOLLOWING THE FDA-NIH BIOMARKER WORKING GROUP6 GUIDELINES. WE WILL ASSESS (1A) GENERALIZABILITY, BY TESTING WHETHER THE NCS PREDICTS CRAVING ACROSS DRUGS, STIMULUS TYPES, SEX/GENDER, AND RACIAL CATEGORIES (N=3,844); (1B) BIAS IN OVER/UNDERPREDICTING SELECTED GROUPS (SEX, RACE, DRUG TYPE, TREATMENT-SEEKING STATUS; N=3,844); (1C) DISCRIMINANT VALIDITY, BY COMPARING THE NCS WITH NEUROMARKERS FOR OTHER AFFECTIVE STATES (N=5,475)7-11; (1D) DIAGNOSTIC VALIDITY, BY TESTING NCS-BASED DISCRIMINATION OF DRUG USERS FROM NON-USERS (N=1,773); (1E) PREDICTIVE VALIDITY, BY TESTING IF THE NCS CAN PREDICT WHICH INDIVIDUALS WILL RESPOND TO PSYCHOLOGICAL (N=257) OR PHARMACOLOGICAL TREATMENTS (N=562) VS. CONTROL; AND (1F) PROGNOSTIC VALIDITY, BY TESTING IF THE NCS CAN PREDICT FUTURE DRUG USE OR RELAPSE AFTER TREATMENT (N=860). TO ADDRESS POTENTIAL LIMITATIONS ON GENERALIZABILITY AS WELL AS ANY DETECTED BIAS, WE INCLUDE PLANS TO FINE-TUNE MODELS FOR SUBGROUPS (E.G., SEX, RACE, DRUG TYPE) IF NEEDED. IN AIM 2, WE WILL CHARACTERIZE THE NEUROBIOLOGY OF THE NCS AND ITS COMPONENTS, USING AN INTERPRETABLE MACHINE LEARNING APPROACH12, 13. WE IDENTIFY KEY NODES CONTRIBUTING TO CRAVING PREDICTION AND DEPLOY A SERIES OF TECHNIQUES TO IDENTIFY CRAVING-RELATED BRAIN PATHWAYS. WE COMBINE MULTIVARIATE PATTERN-BASED PATHWAY IDENTIFICATION14 WITH DYNAMIC CONNECTIVITY TO ESTIMATE BOTH POPULATION-LEVEL AND INDIVIDUALIZED CONNECTOMES. WE WILL (2A) TEST THE PREDICTIVE POWER OF CONNECTOMES ABOVE AND BEYOND ACTIVITY PATTERNS; (2B) ASSESS INDIVIDUAL VARIABILITY IN PATHWAY STRENGTH; (2C) TEST WHETHER DRUG CUES ENHANCE AND INCREASE FUNCTIONAL INTEGRATION; AND (2D) IDENTIFY LATENT BRAIN STATES ASSOCIATED WITH CRAVING AND RELAPSE. DELIVERABLES INCLUDE A REFINED UNDERSTANDING OF CONNECTIVITY STATES LINKED TO CRAVING AND SUD RECOVERY VS. RELAPSE, AND CONNECTIVITY-BASED PREDICTIVE MODELS COMPOSED OF SPECIFIC NEURAL PATHWAYS THAT CAN BE VALIDATED ACROSS SPECIES AND METHODS.",
+    "total_obligation": 800617,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-05-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 800617,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 800617
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "period_of_performance": {
+      "start_date": "2025-06-01",
+      "end_date": "2030-02-28",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1608 4TH ST STE 201",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "1749",
+        "zip5": "94710",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

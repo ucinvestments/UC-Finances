@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91299998,
+    "Award ID": "R21EY034806",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 633621,
+    "Total Outlays": 413824.99,
+    "Description": "MECHANOLUMINESCENT NANOMATERIALS FOR OPTOGENETIC NEUROMODULATION - THE EXPONENTIAL SURGE IN THE PREVALENCE OF NEUROLOGICAL DISEASES/DISORDERS, PARTLY DUE TO THE RAPID GROWTH IN THE AGED POPULATION, POSES A SIGNIFICANT CHALLENGE TO THE PREVENTION AND TREATMENT OF IMPAIRMENTS IN COGNITIVE, SENSORY, AND MOTOR FUNCTIONS. HOWEVER, OUR INSUFFICIENT UNDERSTANDING OF THE MECHANISMS UNDERLYING THE PATHOGENESIS OF MANY NEUROLOGICAL DISEASES DELAYS THE DEVELOPMENT OF EFFECTIVE TREATMENTS TO ADDRESS THIS CHALLENGE. RECENT ADVANCES IN OPTOGENETICS HAVE PROVIDED NOVEL TOOLS TO INVESTIGATE COMPLEX NEURAL CIRCUITS AND BRAIN FUNCTIONS. DUE TO A LIMITED PENETRATION DEPTH OF PHOTONS, HOWEVER, THE INVASIVENESS OF LIGHT SOURCES INTO THE BRAIN TISSUE OF LIVE ANIMALS TO CONTROL OPTO-SENSITIVE ION CHANNELS HAS BEEN ONE OF THE MAJOR CHALLENGES IN OPTOGENETICS. IN THIS REGARD, OUR GOAL IS TO DEVELOP A MODULAR MECHANOLUMINESCENT (ML) MATERIAL PLATFORM FOR THE NON-INVASIVE, ACOUSTIC ACTIVATION OF VARIOUS OPTOGENETIC CHANNELS FOR NEURAL MODULATION WITH A HIGH SPATIOTEMPORAL RESOLUTION. THIS PROJECT BUILDS UPON OUR RECENT TECHNOLOGICAL ACHIEVEMENTS, IN WHICH WE DEVELOPED VARIOUS SYNTHESIS METHODS TO PRODUCE NOVEL STRUCTURES OF INORGANIC NANOMATERIALS AND HIGH PIEZOELECTRIC ORGANIC NANOFIBER FRAGMENTS. BASED ON OUR PRELIMINARY COMPUTATIONAL MODELING, WE HYPOTHESIZE THAT SUCH STRUCTURES ENABLE GREATER EFFECTIVE STRAINS THAT MAXIMIZE THE ML PERFORMANCE OF THE INORGANIC-ORGANIC HYBRID NANOMATERIALS. THIS PROJECT AIMS TO DEVELOP TWO UNIQUE OPTOGENETIC MODULATION SYSTEMS BASED ON ML NANOMATERIALS. IN AIM 1, WE WILL SYNTHESIZE ZINC SULFIDE NANOPARTICLES DOPED WITH VARIOUS METAL IONS TO CONTROL EMISSION WAVELENGTHS AND INVESTIGATE THE EFFECT OF NANOPARTICLE MORPHOLOGY AND DIMENSION ON ML PERFORMANCE. FURTHERMORE, THE INTERACTION BETWEEN THOSE NANOPARTICLES AND ENCAPSULATING POLYMER WILL BE OPTIMIZED TO MAXIMIZE THE ML PERFORMANCE OF NANOCOMPOSITES. IN AIM 2, WE WILL CHARACTERIZE THE PIEZOELECTRIC PROPERTIES OF ELECTROSPUN FIBER-DERIVED NANOFRAGMENTS AND INVESTIGATE THE INCORPORATION OF ML NANOPARTICLES INTO THE PIEZOELECTRIC NANOFRAGMENTS TO BOOST ML PERFORMANCE. AN IN VITRO MODEL BASED ON A NEURAL STEM CELL LINE TRANSDUCED WITH CHANNELRHODOPSIN-2 WILL BE UTILIZED TO DETERMINE THE PERFORMANCE OF THESE ML NANOMATERIALS FOR NEUROMODULATION. OVERALL, WE ANTICIPATE THAT THESE STUDIES WILL PROVIDE MATERIAL BASES FOR ML NANOPARTICLES INJECTABLE INTO THE CIRCULATORY SYSTEM (AIM 1) AND FOR ML NANOFRAGMENTS INJECTABLE INTO A SITE OF INTEREST (AIM 2). THE RESULTS OF THIS EXPLORATORY PROJECT ARE EXPECTED TO IDENTIFY CANDIDATES FOR ML NANOMATERIAL PLATFORMS FOR FURTHER OPTIMIZATION AND ANIMAL TESTING IN SUBSEQUENT STUDIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925210001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-06-01",
+    "End Date": "2025-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R21EY034806_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91299998,
+    "generated_unique_award_id": "ASST_NON_R21EY034806_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MECHANOLUMINESCENT NANOMATERIALS FOR OPTOGENETIC NEUROMODULATION - THE EXPONENTIAL SURGE IN THE PREVALENCE OF NEUROLOGICAL DISEASES/DISORDERS, PARTLY DUE TO THE RAPID GROWTH IN THE AGED POPULATION, POSES A SIGNIFICANT CHALLENGE TO THE PREVENTION AND TREATMENT OF IMPAIRMENTS IN COGNITIVE, SENSORY, AND MOTOR FUNCTIONS. HOWEVER, OUR INSUFFICIENT UNDERSTANDING OF THE MECHANISMS UNDERLYING THE PATHOGENESIS OF MANY NEUROLOGICAL DISEASES DELAYS THE DEVELOPMENT OF EFFECTIVE TREATMENTS TO ADDRESS THIS CHALLENGE. RECENT ADVANCES IN OPTOGENETICS HAVE PROVIDED NOVEL TOOLS TO INVESTIGATE COMPLEX NEURAL CIRCUITS AND BRAIN FUNCTIONS. DUE TO A LIMITED PENETRATION DEPTH OF PHOTONS, HOWEVER, THE INVASIVENESS OF LIGHT SOURCES INTO THE BRAIN TISSUE OF LIVE ANIMALS TO CONTROL OPTO-SENSITIVE ION CHANNELS HAS BEEN ONE OF THE MAJOR CHALLENGES IN OPTOGENETICS. IN THIS REGARD, OUR GOAL IS TO DEVELOP A MODULAR MECHANOLUMINESCENT (ML) MATERIAL PLATFORM FOR THE NON-INVASIVE, ACOUSTIC ACTIVATION OF VARIOUS OPTOGENETIC CHANNELS FOR NEURAL MODULATION WITH A HIGH SPATIOTEMPORAL RESOLUTION. THIS PROJECT BUILDS UPON OUR RECENT TECHNOLOGICAL ACHIEVEMENTS, IN WHICH WE DEVELOPED VARIOUS SYNTHESIS METHODS TO PRODUCE NOVEL STRUCTURES OF INORGANIC NANOMATERIALS AND HIGH PIEZOELECTRIC ORGANIC NANOFIBER FRAGMENTS. BASED ON OUR PRELIMINARY COMPUTATIONAL MODELING, WE HYPOTHESIZE THAT SUCH STRUCTURES ENABLE GREATER EFFECTIVE STRAINS THAT MAXIMIZE THE ML PERFORMANCE OF THE INORGANIC-ORGANIC HYBRID NANOMATERIALS. THIS PROJECT AIMS TO DEVELOP TWO UNIQUE OPTOGENETIC MODULATION SYSTEMS BASED ON ML NANOMATERIALS. IN AIM 1, WE WILL SYNTHESIZE ZINC SULFIDE NANOPARTICLES DOPED WITH VARIOUS METAL IONS TO CONTROL EMISSION WAVELENGTHS AND INVESTIGATE THE EFFECT OF NANOPARTICLE MORPHOLOGY AND DIMENSION ON ML PERFORMANCE. FURTHERMORE, THE INTERACTION BETWEEN THOSE NANOPARTICLES AND ENCAPSULATING POLYMER WILL BE OPTIMIZED TO MAXIMIZE THE ML PERFORMANCE OF NANOCOMPOSITES. IN AIM 2, WE WILL CHARACTERIZE THE PIEZOELECTRIC PROPERTIES OF ELECTROSPUN FIBER-DERIVED NANOFRAGMENTS AND INVESTIGATE THE INCORPORATION OF ML NANOPARTICLES INTO THE PIEZOELECTRIC NANOFRAGMENTS TO BOOST ML PERFORMANCE. AN IN VITRO MODEL BASED ON A NEURAL STEM CELL LINE TRANSDUCED WITH CHANNELRHODOPSIN-2 WILL BE UTILIZED TO DETERMINE THE PERFORMANCE OF THESE ML NANOMATERIALS FOR NEUROMODULATION. OVERALL, WE ANTICIPATE THAT THESE STUDIES WILL PROVIDE MATERIAL BASES FOR ML NANOPARTICLES INJECTABLE INTO THE CIRCULATORY SYSTEM (AIM 1) AND FOR ML NANOFRAGMENTS INJECTABLE INTO A SITE OF INTEREST (AIM 2). THE RESULTS OF THIS EXPLORATORY PROJECT ARE EXPECTED TO IDENTIFY CANDIDATES FOR ML NANOMATERIAL PLATFORMS FOR FURTHER OPTIMIZATION AND ANIMAL TESTING IN SUBSEQUENT STUDIES.",
+    "total_obligation": 633621,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-05-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 413824.99,
+    "total_account_obligation": 633621,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 413824.99
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 633621
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-06-01",
+      "end_date": "2025-05-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 413824.99
+  }
+}

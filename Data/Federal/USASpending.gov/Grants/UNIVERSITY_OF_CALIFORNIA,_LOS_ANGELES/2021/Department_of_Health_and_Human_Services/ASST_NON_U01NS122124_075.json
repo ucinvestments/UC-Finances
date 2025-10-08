@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92618103,
+    "Award ID": "U01NS122124",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 4828129,
+    "Total Outlays": 2530446.39,
+    "Description": "HIPPOCAMPAL NEURAL DYNAMICS DRIVING AFFILIATION AND ATTACHMENT - ABSTRACT: ATTACHMENT POWERFULLY SHAPES OUR DEVELOPMENT AND REMAINS A PRIMARY DRIVER OF HEALTH AND WELL-BEING IN ADULTHOOD; DISRUPTION OF ATTACHMENTS IS HIGHLY TRAUMATIC. WHILE AFFILIATION, DEFINED AS GENERAL POSITIVE SOCIAL INTERACTIONS, IS SHARED WIDELY AMONG MAMMALS, ATTACHMENT, OR SELECTIVE AFFILIATION AS A RESULT OF A BOND, IS FAR RARER AND OF PRIMARY RELEVANCE TO HUMANS. WHILE AFFILIATION HAS BEEN STUDIED IN A NUMBER OF CONTEXTS, HOW THE NEURAL CIRCUITRY THAT UNDERLIES AFFILIATION ULTIMATELY CONTRIBUTES TO ADULT ATTACHMENT REMAINS LARGELY UNKNOWN. IN THIS PROPOSAL, WE WILL TAKE A COMPARATIVE FRAMEWORK TO UNDERSTAND HOW THE BASIC CIRCUITRY AND NEURONAL PATTERNS THAT UNDERLIE NON-SELECTIVE AFFILIATION ARE ULTIMATELY ENGAGED AND UNDERLIE SELECTIVE ATTACHMENT IN ADULTHOOD. SPECIFICALLY, WE WILL EXAMINE HOW THE NEUROBIOLOGY OF AFFILIATIVE BEHAVIOR IN MICE HAS BEEN ELABORATED TO SUPPORT THE MORE COMPLEX ATTACHMENTS FORMED BY MONOGAMOUS PRAIRIE VOLES AND GREGARIOUS FRUIT BATS, REPRESENTING A SPECTRUM OF SOCIAL RELATIONSHIPS. WE WILL FOCUS ON THE HIPPOCAMPAL CA2 REGION AS IT HAS BEEN SHOWN TO PLAY A SPECIALIZED ROLE IN SOCIAL BEHAVIOR AND RECEIVES DIRECT INPUTS FROM OXYTOCIN AND VASOPRESSIN PRODUCING CELLS IN THE PARAVENTRICULAR HYPOTHALAMUS. SPECIFICALLY, WE WILL TEST THE OVERARCHING HYPOTHESIS THAT CA2 POPULATION ACTIVITY PATTERNS FOLLOW SIMILAR TRAJECTORIES ACROSS SPECIES BEFORE AND DURING MATING, AND SUBSEQUENTLY DIVERGE TO CAUSALLY DRIVE AFFILIATIVE INVESTIGATION IN MICE (GOLSHANI/HONG) AND DIFFERENT FORMS OF ATTACHMENT IN PRAIRIE VOLES (DONALDSON) AND BATS (YARTSEV). TO TEST THIS HYPOTHESIS WE WILL REFINE AND USE NEW GENERATION OPEN-SOURCE WIRELESS MINIATURIZED MICROSCOPES (AHARONI) THAT WILL ALLOW PROLONGED RECORDINGS OF LARGE NEURONAL POPULATIONS IN FREELY BEHAVING ANIMALS. KENNEDY WILL BRING COMPUTATIONAL EXPERTISE AND ALLOW A UNIFIED DATA ANALYSIS FRAMEWORK CROSS SPECIES. IN AIM 1 WE WILL PERFORM IN-VIVO CALCIUM IMAGING IN MICE, PRAIRIE VOLES AND BATS TO TEST THE HYPOTHESIS THAT MATING EXPERIENCES MODULATE CA2 NEURAL DYNAMICS AND THAT CA2 ACTIVITY PATTERNS ENCODE SPATIAL AND IDENTITY INFORMATION. WE HYPOTHESIZE THAT SPECIES THAT FORM ATTACHMENTS TO MATING PARTNERS, ACTIVITY PATTERNS WILL DIFFERENTIATE PREFERRED VS. NON-PREFERRED PARTNERS. IN AIM 2 WE WILL USE CHEMOGENETIC INHIBITION OF CA2 IN ALL SPECIES TO DETERMINE WHETHER CA2 CAUSALLY DRIVES AFFILIATIVE AND ATTACHMENT BEHAVIORS. IN AIM 3 WE WILL TEST THE HYPOTHESIS THAT INHIBITION OF VASOPRESSIN INPUTS TO CA2 WILL REDUCE THE DIMENSIONALITY OF CA2 POPULATION ACTIVITY PATTERNS AFTER MATING, DIMINISH MEMORY OF THE MATE IN ALL SPECIES, AND IN VOLES AND BATS, REDUCE THE DECODABILITY OF THE IDENTITY OF THE PREVIOUS MATING PARTNER. IN A TECHNOLOGY DEVELOPMENT AIM, WE WILL DEVELOP AND TEST A “TRUE WIRELESS” DIGITAL DATA TRANSMITTING MICROSCOPE WITH POWER OVER DISTANCE CHARGING CAPABILITY THAT WILL ALLOW PROLONGED IMAGING OVER MANY HOURS WITHOUT HUMAN INTERVENTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "33",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1406",
+      "zip5": "90095"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "33",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "900951769",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-04-15",
+    "End Date": "2024-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U01NS122124_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92618103,
+    "generated_unique_award_id": "ASST_NON_U01NS122124_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "HIPPOCAMPAL NEURAL DYNAMICS DRIVING AFFILIATION AND ATTACHMENT - ABSTRACT: ATTACHMENT POWERFULLY SHAPES OUR DEVELOPMENT AND REMAINS A PRIMARY DRIVER OF HEALTH AND WELL-BEING IN ADULTHOOD; DISRUPTION OF ATTACHMENTS IS HIGHLY TRAUMATIC. WHILE AFFILIATION, DEFINED AS GENERAL POSITIVE SOCIAL INTERACTIONS, IS SHARED WIDELY AMONG MAMMALS, ATTACHMENT, OR SELECTIVE AFFILIATION AS A RESULT OF A BOND, IS FAR RARER AND OF PRIMARY RELEVANCE TO HUMANS. WHILE AFFILIATION HAS BEEN STUDIED IN A NUMBER OF CONTEXTS, HOW THE NEURAL CIRCUITRY THAT UNDERLIES AFFILIATION ULTIMATELY CONTRIBUTES TO ADULT ATTACHMENT REMAINS LARGELY UNKNOWN. IN THIS PROPOSAL, WE WILL TAKE A COMPARATIVE FRAMEWORK TO UNDERSTAND HOW THE BASIC CIRCUITRY AND NEURONAL PATTERNS THAT UNDERLIE NON-SELECTIVE AFFILIATION ARE ULTIMATELY ENGAGED AND UNDERLIE SELECTIVE ATTACHMENT IN ADULTHOOD. SPECIFICALLY, WE WILL EXAMINE HOW THE NEUROBIOLOGY OF AFFILIATIVE BEHAVIOR IN MICE HAS BEEN ELABORATED TO SUPPORT THE MORE COMPLEX ATTACHMENTS FORMED BY MONOGAMOUS PRAIRIE VOLES AND GREGARIOUS FRUIT BATS, REPRESENTING A SPECTRUM OF SOCIAL RELATIONSHIPS. WE WILL FOCUS ON THE HIPPOCAMPAL CA2 REGION AS IT HAS BEEN SHOWN TO PLAY A SPECIALIZED ROLE IN SOCIAL BEHAVIOR AND RECEIVES DIRECT INPUTS FROM OXYTOCIN AND VASOPRESSIN PRODUCING CELLS IN THE PARAVENTRICULAR HYPOTHALAMUS. SPECIFICALLY, WE WILL TEST THE OVERARCHING HYPOTHESIS THAT CA2 POPULATION ACTIVITY PATTERNS FOLLOW SIMILAR TRAJECTORIES ACROSS SPECIES BEFORE AND DURING MATING, AND SUBSEQUENTLY DIVERGE TO CAUSALLY DRIVE AFFILIATIVE INVESTIGATION IN MICE (GOLSHANI/HONG) AND DIFFERENT FORMS OF ATTACHMENT IN PRAIRIE VOLES (DONALDSON) AND BATS (YARTSEV). TO TEST THIS HYPOTHESIS WE WILL REFINE AND USE NEW GENERATION OPEN-SOURCE WIRELESS MINIATURIZED MICROSCOPES (AHARONI) THAT WILL ALLOW PROLONGED RECORDINGS OF LARGE NEURONAL POPULATIONS IN FREELY BEHAVING ANIMALS. KENNEDY WILL BRING COMPUTATIONAL EXPERTISE AND ALLOW A UNIFIED DATA ANALYSIS FRAMEWORK CROSS SPECIES. IN AIM 1 WE WILL PERFORM IN-VIVO CALCIUM IMAGING IN MICE, PRAIRIE VOLES AND BATS TO TEST THE HYPOTHESIS THAT MATING EXPERIENCES MODULATE CA2 NEURAL DYNAMICS AND THAT CA2 ACTIVITY PATTERNS ENCODE SPATIAL AND IDENTITY INFORMATION. WE HYPOTHESIZE THAT SPECIES THAT FORM ATTACHMENTS TO MATING PARTNERS, ACTIVITY PATTERNS WILL DIFFERENTIATE PREFERRED VS. NON-PREFERRED PARTNERS. IN AIM 2 WE WILL USE CHEMOGENETIC INHIBITION OF CA2 IN ALL SPECIES TO DETERMINE WHETHER CA2 CAUSALLY DRIVES AFFILIATIVE AND ATTACHMENT BEHAVIORS. IN AIM 3 WE WILL TEST THE HYPOTHESIS THAT INHIBITION OF VASOPRESSIN INPUTS TO CA2 WILL REDUCE THE DIMENSIONALITY OF CA2 POPULATION ACTIVITY PATTERNS AFTER MATING, DIMINISH MEMORY OF THE MATE IN ALL SPECIES, AND IN VOLES AND BATS, REDUCE THE DECODABILITY OF THE IDENTITY OF THE PREVIOUS MATING PARTNER. IN A TECHNOLOGY DEVELOPMENT AIM, WE WILL DEVELOP AND TEST A “TRUE WIRELESS” DIGITAL DATA TRANSMITTING MICROSCOPE WITH POWER OVER DISTANCE CHARGING CAPABILITY THAT WILL ALLOW PROLONGED IMAGING OVER MANY HOURS WITHOUT HUMAN INTERVENTION.",
+    "total_obligation": 4828129,
+    "subaward_count": 6,
+    "total_subaward_amount": 1365907,
+    "date_signed": "2021-04-09",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2530446.39,
+    "total_account_obligation": 4828129,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2530446.39
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 4828129
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2021-04-15",
+      "end_date": "2024-03-31",
+      "last_modified_date": "2022-06-14",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "1406",
+        "zip5": "90095",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "1769",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2530446.39
+  }
+}

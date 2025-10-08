@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 88845614,
+    "Award ID": "H79SM084904",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2000000,
+    "Total Outlays": 1545493.91,
+    "Description": "SUPPORTING STABLE REUNIFICATION FOR CHILDREN IN FOSTER CARE - ABSTRACT: THE PURPOSE OF THIS PROJECT IS TO PROVIDE SYSTEMATIC TRAUMA SCREENING AND AN ADAPTATION OF A 7-WEEK EVIDENCE-BASED PARENTING INTERVENTION TO BIOLOGICAL PARENTS AND THEIR YOUNG CHILDREN (AGED 1-10 YEARS) IN THE PROCESS OF REUNIFICATION AFTER AN OUT OF HOME PLACEMENT, HELPING PARENTS AND CHILDREN ADJUST TO THIS DISRUPTION, AND GIVING RESOURCE PARENTS TOOLS TO SUPPORT THIS PROCESS. POPULATION TO BE SERVED: YOUNG CHILDREN (1 – 10 YEARS OF AGE) IN FOSTER CARE ARE CONSIDERED AT RISK FOR ADVERSE OUTCOMES BECAUSE OF MALTREATMENT, PRENATAL EXPOSURE TO DRUGS AND ALCOHOL, AND POVERTY. THE EXPERIENCE OF MALTREATMENT IS WIDELY CONSIDERED TO PUT CHILDREN AT GREATER RISK FOR MALADAPTIVE SOCIAL, PSYCHOLOGICAL, AND PSYCHOBIOLOGICAL FUNCTIONING. RESEARCH HAS SHOWN THAT CHILDREN WITH EXTERNALIZING BEHAVIORS ARE SIGNIFICANTLY LESS LIKELY TO SUCCESSFULLY REUNIFY WITH THEIR PARENTS AND AT GREATER RISK FOR FUTURE PLACEMENT INSTABILITY AND PSYCHOPATHOLOGY. STRATEGIES: CHILDREN 1-10 YEARS OF AGE BEGINNING SUPERVISED VISITS WITH BIOLOGICAL PARENTS WILL BE INVITED TO PARTICIPATE IN PC-CARE, A BRIEF EVIDENCE-BASED PARENTING INTERVENTION THAT CAN BE DELIVERED IN A VISITATION CENTER IN 7 SESSIONS. IN ADDITION TO ADAPTATING PC-CARE FOR BIOLOGICAL PARENTS DURING SUPERVISED VISITS, WE WILL PROVIDE CONSULTATION TO RESOURCE PARENTS ON SUPPORTING THE CHILD AND FAMILY DURING THESE VISITS AND CREATE AN ONLINE PC-CARE RESOURCE TO PROMOTE CAREGIVERS’ LEARNING AND GENERALIZATION OF SKILLS. PROJECT GOALS: THE OVERALL GOALS OF THIS PROJECT WILL BE TO IMPROVE 1) PUBLIC AWARENESS OF ISSUES RELATED TO CHILD TRAUMA, 2) TRAUMA SCREENING FOR 1-10-YEAR-OLD CHILDREN IN SUPERVISED VISITS, 3) SUCCESSFUL REUNIFICATIONS; CHILDREN’S BEHAVIORS PROBLEMS BY IMPLEMENTING PC-CARE DURING SUPERVISED VISITS AND EVALUATING ITS EFFECTIVENESS, 4) CREATE AN ONLINE PC-CARE RESOURCE FOR CAREGIVERS AND THE CHILD-SERVING WORKFORCE. MEASURABLE OBJECTIVES: THE SPECIFIC OBJECTIVES OF THIS PROJECT BY OCTOBER 2026 INCLUDE: GOAL 1A) CONDUCT AT LEAST FOUR OUTREACH PRESENTATIONS PER YEAR; GOAL 2A) CONDUCT TRAUMA SCREENING OF 625 1-10-YEAR-OLD CHILDREN; GOAL 3A) PROVIDE PC-CARE TO 625 CHILDREN DURING SUPERVISED VISITS AND AS A RESULT OF PARTICIPATION IN PC-CARE: B) DECREASE THE LIKELIHOOD OF FOSTER CARE RE-ENTRY, C) IMPROVE BIOLOGICAL PARENTS’ PERCEPTIONS OF THE CHILDREN’S BEHAVIORAL STRENGTHS, D) REDUCE CHILDREN’S TRAUMA SYMPTOMS, E) DECREASE BIOLOGICAL PARENTS’ PARENTING STRESS, F) INCREASE BIOLOGICAL PARENTS USE OF PC-CARE SKILLS, G) INCREASE CAREGIVERS’ PERCEPTIONS OF CHILDREN’S BEHAVIORAL STRENGTHS; GOAL 4) A) LAUNCH AN ONLINE PC-CARE RESOURCE, PILOT TEST IT, AND B) INTEGRATE INTO TREATMENT PROCESS BY JANUARY 2023, C) PROVIDE SUPPORT TO 485 CAREGIVERS, WITH INCREASES IN USERS’ KNOWLEDGE AND SATISFACTION, D) 150 MEMBERS OF THE CHILD-SERVING WORKFORCE WILL USE THE ONLINE PC-CARE RESOURCE, DEMONSTRATING INCREASES IN KNOWLEDGE AND SATISFACTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958202165",
+      "zip5": "95820"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "Substance Abuse and Mental Health Services Administration",
+    "Start Date": "2021-09-30",
+    "End Date": "2026-09-29",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_H79SM084904_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 88845614,
+    "generated_unique_award_id": "ASST_NON_H79SM084904_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SUPPORTING STABLE REUNIFICATION FOR CHILDREN IN FOSTER CARE - ABSTRACT: THE PURPOSE OF THIS PROJECT IS TO PROVIDE SYSTEMATIC TRAUMA SCREENING AND AN ADAPTATION OF A 7-WEEK EVIDENCE-BASED PARENTING INTERVENTION TO BIOLOGICAL PARENTS AND THEIR YOUNG CHILDREN (AGED 1-10 YEARS) IN THE PROCESS OF REUNIFICATION AFTER AN OUT OF HOME PLACEMENT, HELPING PARENTS AND CHILDREN ADJUST TO THIS DISRUPTION, AND GIVING RESOURCE PARENTS TOOLS TO SUPPORT THIS PROCESS. POPULATION TO BE SERVED: YOUNG CHILDREN (1 – 10 YEARS OF AGE) IN FOSTER CARE ARE CONSIDERED AT RISK FOR ADVERSE OUTCOMES BECAUSE OF MALTREATMENT, PRENATAL EXPOSURE TO DRUGS AND ALCOHOL, AND POVERTY. THE EXPERIENCE OF MALTREATMENT IS WIDELY CONSIDERED TO PUT CHILDREN AT GREATER RISK FOR MALADAPTIVE SOCIAL, PSYCHOLOGICAL, AND PSYCHOBIOLOGICAL FUNCTIONING. RESEARCH HAS SHOWN THAT CHILDREN WITH EXTERNALIZING BEHAVIORS ARE SIGNIFICANTLY LESS LIKELY TO SUCCESSFULLY REUNIFY WITH THEIR PARENTS AND AT GREATER RISK FOR FUTURE PLACEMENT INSTABILITY AND PSYCHOPATHOLOGY. STRATEGIES: CHILDREN 1-10 YEARS OF AGE BEGINNING SUPERVISED VISITS WITH BIOLOGICAL PARENTS WILL BE INVITED TO PARTICIPATE IN PC-CARE, A BRIEF EVIDENCE-BASED PARENTING INTERVENTION THAT CAN BE DELIVERED IN A VISITATION CENTER IN 7 SESSIONS. IN ADDITION TO ADAPTATING PC-CARE FOR BIOLOGICAL PARENTS DURING SUPERVISED VISITS, WE WILL PROVIDE CONSULTATION TO RESOURCE PARENTS ON SUPPORTING THE CHILD AND FAMILY DURING THESE VISITS AND CREATE AN ONLINE PC-CARE RESOURCE TO PROMOTE CAREGIVERS’ LEARNING AND GENERALIZATION OF SKILLS. PROJECT GOALS: THE OVERALL GOALS OF THIS PROJECT WILL BE TO IMPROVE 1) PUBLIC AWARENESS OF ISSUES RELATED TO CHILD TRAUMA, 2) TRAUMA SCREENING FOR 1-10-YEAR-OLD CHILDREN IN SUPERVISED VISITS, 3) SUCCESSFUL REUNIFICATIONS; CHILDREN’S BEHAVIORS PROBLEMS BY IMPLEMENTING PC-CARE DURING SUPERVISED VISITS AND EVALUATING ITS EFFECTIVENESS, 4) CREATE AN ONLINE PC-CARE RESOURCE FOR CAREGIVERS AND THE CHILD-SERVING WORKFORCE. MEASURABLE OBJECTIVES: THE SPECIFIC OBJECTIVES OF THIS PROJECT BY OCTOBER 2026 INCLUDE: GOAL 1A) CONDUCT AT LEAST FOUR OUTREACH PRESENTATIONS PER YEAR; GOAL 2A) CONDUCT TRAUMA SCREENING OF 625 1-10-YEAR-OLD CHILDREN; GOAL 3A) PROVIDE PC-CARE TO 625 CHILDREN DURING SUPERVISED VISITS AND AS A RESULT OF PARTICIPATION IN PC-CARE: B) DECREASE THE LIKELIHOOD OF FOSTER CARE RE-ENTRY, C) IMPROVE BIOLOGICAL PARENTS’ PERCEPTIONS OF THE CHILDREN’S BEHAVIORAL STRENGTHS, D) REDUCE CHILDREN’S TRAUMA SYMPTOMS, E) DECREASE BIOLOGICAL PARENTS’ PARENTING STRESS, F) INCREASE BIOLOGICAL PARENTS USE OF PC-CARE SKILLS, G) INCREASE CAREGIVERS’ PERCEPTIONS OF CHILDREN’S BEHAVIORAL STRENGTHS; GOAL 4) A) LAUNCH AN ONLINE PC-CARE RESOURCE, PILOT TEST IT, AND B) INTEGRATE INTO TREATMENT PROCESS BY JANUARY 2023, C) PROVIDE SUPPORT TO 485 CAREGIVERS, WITH INCREASES IN USERS’ KNOWLEDGE AND SATISFACTION, D) 150 MEMBERS OF THE CHILD-SERVING WORKFORCE WILL USE THE ONLINE PC-CARE RESOURCE, DEMONSTRATING INCREASES IN KNOWLEDGE AND SATISFACTION.",
+    "total_obligation": 2000000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-07-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1545493.91,
+    "total_account_obligation": 1600000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1545493.91
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1600000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 823,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Substance Abuse and Mental Health Services Administration",
+        "code": "7522",
+        "abbreviation": "SAMHSA"
+      },
+      "office_agency_name": "SAMHSA CENTER FOR MENTAL HEALTH SERVICES"
+    },
+    "awarding_agency": {
+      "id": 823,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Substance Abuse and Mental Health Services Administration",
+        "code": "7522",
+        "abbreviation": "SAMHSA"
+      },
+      "office_agency_name": "SAMHSA Division of Grants Management"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-30",
+      "end_date": "2026-09-29",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2165",
+      "zip5": "95820",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1545493.91
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56337730,
+    "Award ID": "20236701340245",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 906707,
+    "Total Outlays": 614707.31,
+    "Description": "OVERVIEWTO SUCCESSFULLY INFECT PLANTS, SYMBIOTIC MICROBES MUST LOCATE, ENTER, AND MANIPULATE HOST PLANTS. THEREFORE, HOST RANGE OF FREE-LIVING, SYMBIOTIC MICROBES DEPENDS ON WHETHER THE MICROBES CAN LOCATE POTENTIAL PLANT HOSTS. THIS PROJECT WILL PROVIDE MECHANISTIC UNDERSTANDING OF HOW A GROUP OF SOIL-BORNE PATHOGENS LOCATES ROOTS OF PREFERRED HOST PLANTS. SOIL-BORNE, MOTILE SYMBIONTS LOCATE HOST ROOTS BY RECOGNIZING AND RESPONDING TO ROOT EXUDATES VIA CHEMOTAXIS. TO SENSE THE COMPLEX MILIEU OF ROOT EXUDATE CHEMICALS, ROOT-COLONIZING BACTERIA HAVE LARGE REPERTOIRES OF CHEMOSENSORS (CALLED METHYL-ACCEPTING CHEMOTAXIS PROTEINS, OR MCPS) THAT BIND CHEMICALS AND INITIATE AN INTRACELLULAR SIGNALING CASCADE THAT DRIVES BACTERIA TO SWIM UP GRADIENTS OF THE CHEMICAL ATTRACTANTS. WE HYPOTHESIZE THAT MCP REPERTOIRES (AND THE RESPECTIVE LIGAND PREFERENCES) CONTRIBUTE TO THE HOST RANGE OF BACTERIAL STRAINS BY ALLOWING THEM TO LOCATE ROOTS OF PREFERRED HOSTS. WE WILL TEST THIS HYPOTHESIS USING THE AGRICULTURALLY IMPORTANT PHYTOPATHOGENS IN THE RALSTONIA SOLANACEARUM SPECIES COMPLEX (RSSC). THE EXPERIMENTAL APPROACH LEVERAGES THE NATURAL GENETIC DIVERSITY OF THESE MODEL PATHOGENS TO UNDERSTAND HOW CHEMOTAXIS GENOTYPES INFLUENCE HOST RANGE PHENOTYPES. THE PROJECT WILL USE EMERGING TOOLS (HYCHEMOSENSORS, RANDOM BARCODED TRANSPOSON SITE SEQUENCING [RB-TNSEQ], AND ECOFABS) TO CONNECT THE MOLECULAR MECHANISMS TO MICROBIAL ECOSYSTEMS. THE PROJECT HAS TWO AIMS THAT WILL INDEPENDENTLY YIELD COMPLEMENTARY, MECHANISTIC INSIGHTS INTO THE CHEMICAL ECOLOGY OF BACTERIA-ROOT INTERACTIONS:AIM 1: DEFINE THE CHEMICAL SPECIFICITIES OF CORE AND ACCESSORY MCP CHEMORECEPTORS.AIM 2: INVESTIGATE THE ROLE OF CHEMOTACTIC SPECIFICITY IN DRIVING HOST PREFERENCEINTELLECTUAL MERITTHIS PROJECT WILL PROVIDE MECHANISTIC INSIGHT INTO THE CHEMICAL ECOLOGY OF THE RHIZOSPHERE. IT IS WELL-APPRECIATED THAT PATHOGEN HOST RANGE IS INFLUENCED BY REPERTOIRES OF EFFECTORS THAT PATHOGENS USE TO MANIPULATE HOST PHYSIOLOGY.IN CONTRAST, THERE IS LITTLE MECHANISTIC UNDERSTANDING OF HOW CHEMOSENSOR REPERTOIRES IMPACT HOST PREFERENCE, AND THEREFORE, HOST RANGE. ALTHOUGH CHEMOSENSORS CAN BE READILY IDENTIFIED IN SYMBIONT GENOMES, IT IS NOT YET POSSIBLE TO PREDICT WHICH PHYTOCHEMICALS ARE SENSED BY EACH CHEMOSENSOR BASED ON THEIR AMINO ACID SEQUENCE ALONE. THE MOLECULAR AND PHENOMIC DATA GENERATED IN THIS PROJECT WILL EMPOWER FUTURE COMPUTATIONAL BIOLOGY APPROACHES TO DECIPHER NEW LIGAND-BINDING MOTIFS. MOREOVER, UNDERSTANDING THE SPECIFICITY OF CHEMOSENSORS WILL ENABLE SCIENTISTS TO UNDERSTAND HOW HOST-PRODUCED CHEMICALS DRIVE THE ASSEMBLY OF MICROBIAL COMMUNITIES.BROADER IMPACTSTHE PROJECT WILL BUILD STEM TALENT BY BROADENING PARTICIPATION IN SCIENCE. UC DAVIS AND UNIVERSITY OF ARIZONE ARE AN EMERGING HISPANIC-SERVING INSTITUTION DUE TO INSTITUTIONAL INITIATIVES THAT BROADENACCESS TO STEM BACHELOR\u0026#39;S DEGREES FOR STUDENTS THAT START THEIR UNDERGRADUATE EDUCATION AT LOCAL COMMUNITY COLLEGES. IN THE CURE, CO,HORTS OF STUDENTS WILL BE IMMERSED IN SCIENTIFIC DISCOVERY BY DISSECTING THE SPECIFICITY OF CHEMORECEPTORS. SUCCESS OF THE BROADER IMPACTS WILL BE QUANTITATIVELY EVALUATED BY THE CONVERSATIONAL NETWORKING TOOL AND QUALITATIVELY EVALUATED BASED ON STUDENTS\u0026#39; CONTINUED ENGAGEMENT WITH RESEARCH THROUGH OPPORTUNITIES INCLUDING: PRESENTING THEIR RESULTS AT A CAMPUS RESEARCH CONFERENCE, ENROLLING AS LEARNING ASSISTANTS FOR THE CURE, APPLYING FOR RESEARCH FELLOWSHIPS, AND APPLYING FOR GRADUATE SCHOOL.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2023-05-15",
+    "End Date": "2026-05-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20236701340245_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56337730,
+    "generated_unique_award_id": "ASST_NON_20236701340245_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "OVERVIEWTO SUCCESSFULLY INFECT PLANTS, SYMBIOTIC MICROBES MUST LOCATE, ENTER, AND MANIPULATE HOST PLANTS. THEREFORE, HOST RANGE OF FREE-LIVING, SYMBIOTIC MICROBES DEPENDS ON WHETHER THE MICROBES CAN LOCATE POTENTIAL PLANT HOSTS. THIS PROJECT WILL PROVIDE MECHANISTIC UNDERSTANDING OF HOW A GROUP OF SOIL-BORNE PATHOGENS LOCATES ROOTS OF PREFERRED HOST PLANTS. SOIL-BORNE, MOTILE SYMBIONTS LOCATE HOST ROOTS BY RECOGNIZING AND RESPONDING TO ROOT EXUDATES VIA CHEMOTAXIS. TO SENSE THE COMPLEX MILIEU OF ROOT EXUDATE CHEMICALS, ROOT-COLONIZING BACTERIA HAVE LARGE REPERTOIRES OF CHEMOSENSORS (CALLED METHYL-ACCEPTING CHEMOTAXIS PROTEINS, OR MCPS) THAT BIND CHEMICALS AND INITIATE AN INTRACELLULAR SIGNALING CASCADE THAT DRIVES BACTERIA TO SWIM UP GRADIENTS OF THE CHEMICAL ATTRACTANTS. WE HYPOTHESIZE THAT MCP REPERTOIRES (AND THE RESPECTIVE LIGAND PREFERENCES) CONTRIBUTE TO THE HOST RANGE OF BACTERIAL STRAINS BY ALLOWING THEM TO LOCATE ROOTS OF PREFERRED HOSTS. WE WILL TEST THIS HYPOTHESIS USING THE AGRICULTURALLY IMPORTANT PHYTOPATHOGENS IN THE RALSTONIA SOLANACEARUM SPECIES COMPLEX (RSSC). THE EXPERIMENTAL APPROACH LEVERAGES THE NATURAL GENETIC DIVERSITY OF THESE MODEL PATHOGENS TO UNDERSTAND HOW CHEMOTAXIS GENOTYPES INFLUENCE HOST RANGE PHENOTYPES. THE PROJECT WILL USE EMERGING TOOLS (HYCHEMOSENSORS, RANDOM BARCODED TRANSPOSON SITE SEQUENCING [RB-TNSEQ], AND ECOFABS) TO CONNECT THE MOLECULAR MECHANISMS TO MICROBIAL ECOSYSTEMS. THE PROJECT HAS TWO AIMS THAT WILL INDEPENDENTLY YIELD COMPLEMENTARY, MECHANISTIC INSIGHTS INTO THE CHEMICAL ECOLOGY OF BACTERIA-ROOT INTERACTIONS:AIM 1: DEFINE THE CHEMICAL SPECIFICITIES OF CORE AND ACCESSORY MCP CHEMORECEPTORS.AIM 2: INVESTIGATE THE ROLE OF CHEMOTACTIC SPECIFICITY IN DRIVING HOST PREFERENCEINTELLECTUAL MERITTHIS PROJECT WILL PROVIDE MECHANISTIC INSIGHT INTO THE CHEMICAL ECOLOGY OF THE RHIZOSPHERE. IT IS WELL-APPRECIATED THAT PATHOGEN HOST RANGE IS INFLUENCED BY REPERTOIRES OF EFFECTORS THAT PATHOGENS USE TO MANIPULATE HOST PHYSIOLOGY.IN CONTRAST, THERE IS LITTLE MECHANISTIC UNDERSTANDING OF HOW CHEMOSENSOR REPERTOIRES IMPACT HOST PREFERENCE, AND THEREFORE, HOST RANGE. ALTHOUGH CHEMOSENSORS CAN BE READILY IDENTIFIED IN SYMBIONT GENOMES, IT IS NOT YET POSSIBLE TO PREDICT WHICH PHYTOCHEMICALS ARE SENSED BY EACH CHEMOSENSOR BASED ON THEIR AMINO ACID SEQUENCE ALONE. THE MOLECULAR AND PHENOMIC DATA GENERATED IN THIS PROJECT WILL EMPOWER FUTURE COMPUTATIONAL BIOLOGY APPROACHES TO DECIPHER NEW LIGAND-BINDING MOTIFS. MOREOVER, UNDERSTANDING THE SPECIFICITY OF CHEMOSENSORS WILL ENABLE SCIENTISTS TO UNDERSTAND HOW HOST-PRODUCED CHEMICALS DRIVE THE ASSEMBLY OF MICROBIAL COMMUNITIES.BROADER IMPACTSTHE PROJECT WILL BUILD STEM TALENT BY BROADENING PARTICIPATION IN SCIENCE. UC DAVIS AND UNIVERSITY OF ARIZONE ARE AN EMERGING HISPANIC-SERVING INSTITUTION DUE TO INSTITUTIONAL INITIATIVES THAT BROADENACCESS TO STEM BACHELOR\u0026#39;S DEGREES FOR STUDENTS THAT START THEIR UNDERGRADUATE EDUCATION AT LOCAL COMMUNITY COLLEGES. IN THE CURE, CO,HORTS OF STUDENTS WILL BE IMMERSED IN SCIENTIFIC DISCOVERY BY DISSECTING THE SPECIFICITY OF CHEMORECEPTORS. SUCCESS OF THE BROADER IMPACTS WILL BE QUANTITATIVELY EVALUATED BY THE CONVERSATIONAL NETWORKING TOOL AND QUALITATIVELY EVALUATED BASED ON STUDENTS\u0026#39; CONTINUED ENGAGEMENT WITH RESEARCH THROUGH OPPORTUNITIES INCLUDING: PRESENTING THEIR RESULTS AT A CAMPUS RESEARCH CONFERENCE, ENROLLING AS LEARNING ASSISTANTS FOR THE CURE, APPLYING FOR RESEARCH FELLOWSHIPS, AND APPLYING FOR GRADUATE SCHOOL.",
+    "total_obligation": 906707,
+    "subaward_count": 2,
+    "total_subaward_amount": 426016,
+    "date_signed": "2023-05-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 647946.06,
+    "total_account_obligation": 906707,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 647946.06
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 906707
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2023-05-15",
+      "end_date": "2026-05-14",
+      "last_modified_date": "2023-05-19",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 647946.06
+  }
+}

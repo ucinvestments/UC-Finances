@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91239834,
+    "Award ID": "R01NS128179",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1944714,
+    "Total Outlays": 1426382.77,
+    "Description": "IMAGING OF BRAIN OXYGEN EXTRACTION FRACTION IN VASCULAR CONTRIBUTIONS TO DEMENTIA - IMAGING OF BRAIN OXYGEN EXTRACTION FRACTION IN VASCULAR CONTRIBUTIONS TO DEMENTIA  VASCULAR PATHOLOGY IS INCREASINGLY RECOGNIZED AS A MAJOR CONTRIBUTOR TO COGNITIVE IMPAIRMENT AND DEMENTIA, AND ARISES FROM MANY PATHOPHYSIOLOGICAL MECHANISMS INCLUDING ENDOTHELIAL DAMAGE OF CEREBRAL VESSELS, HYPOXIA, AND BLOOD-BRAIN BARRIER BREAKDOWN. VASCULAR ABNORMALITIES HAVE BEEN IDENTIFIED AS WHITE MATTER HYPERINTENSITIES (WMHS) ON STRUCTURAL MAGNETIC RESONANCE IMAGING (MRI) SCANS, BUT THE HETEROGENEITY OF AND MECHANISMS UNDERLYING WMH EVOLUTION REMAIN UNCLEAR. THIS LACK OF FUNDAMENTAL UNDERSTANDING OF WMHS TO PREDICT COGNITIVE IMPACT IS IN LARGE PART DUE TO LIMITED IMAGING TECHNOLOGIES TO DIRECTLY ASSESS BRAIN PATHOPHYSIOLOGY IN CLINICAL SETTINGS.  IN THIS PROJECT, WE DEVELOP AND OPTIMIZE A NEW MRI TECHNIQUE TO ASSESS A CRITICAL PARAMETER OF BRAIN VASCULAR HEALTH, OXYGEN EXTRACTION FRACTION (OEF), IN ELDERLY PATIENTS WITH WMHS INDICATING THE PRESENCE OF CEREBROVASCULAR DISEASE. IN ISCHEMIC BRAIN DISORDERS, VULNERABLE TISSUE AROUND AN INFARCT COMPENSATES FOR REDUCED BLOOD FLOW BY INCREASING OEF, SUCH THAT PATHOLOGICALLY HIGH OEF IS AN IMPORTANT INDICATOR OF A “PENUMBRA” OF AT-RISK TISSUE. HOWEVER, MRI TOOLS TO MEASURE OEF ARE LIMITED BY LOW SIGNAL-TO-NOISE RATIO AND BIOLOGICAL CONFOUNDS ON THE MRI SIGNAL, AND HAVE NOT BEEN FULLY TESTED IN ELDERLY PATIENTS AT RISK OF COGNITIVE IMPAIRMENT.  WE AIM TO ADDRESS THESE LIMITATIONS BY USING A NOVEL, CLINICALLY FEASIBLE MRI METHOD TO MAP OEF IN BRAIN TISSUES. THIS QUANTITATIVE BOLD (BLOOD OXYGENATION LEVEL DEPENDENT) TECHNIQUE ADOPTS A UNIQUE MRI ACQUISITION IN SYNERGY WITH A BIOPHYSICAL MODEL OF MICROVESSELS IN EACH VOXEL TO QUANTIFY OEF. USING QUANTITATIVE BOLD MRI IN PATIENTS WITH VASCULAR CONTRIBUTIONS TO DEMENTIA (VCID), WE WILL 1) CHARACTERIZE OEF ABNORMALITIES IN WMHS AND SURROUNDING PENUMBRA FOR DIFFERENT BRAIN LOCATIONS AND THEIR RELATIONSHIP TO COGNITION; (2) ASSOCIATE LONGITUDINAL OEF CHANGES WITH MICROVASCULAR MRI MARKERS OF WHITE MATTER INJURY TO ESTABLISH AN ISCHEMIC PATHOPHYSIOLOGICAL MECHANISM OF WMH EVOLUTION; AND (3) TEST THE HYPOTHESIS THAT OEF CHANGES IN WHITE MATTER HAVE LONG-RANGE EFFECTS ON FUNCTIONAL CONNECTIVITY WITHIN BRAIN NETWORKS THAT SUPPORT EPISODIC MEMORY AND EXECUTIVE FUNCTION.  SUCCESSFUL COMPLETION OF THIS PROJECT WILL PROVIDE CRITICAL BIOLOGICAL KNOWLEDGE ABOUT OXYGENATION IN WMHS AND LINK MULTIPLE VASCULAR BIOMARKERS IN A MECHANISM FOR WMH PROGRESSION OVER TIME. THE NOVEL OEF MRI APPROACH ALSO SHIFTS THE PARADIGM IN IMAGING OF VCID TOWARD QUANTITATIVE, PHYSIOLOGICALLY- SPECIFIC MEASURES OF VASCULAR RISK. ULTIMATELY, NON-INVASIVE OEF IMAGING MAY DETECT EARLY MICROVASCULAR CHANGES THAT DRIVE NEURONAL INJURY IN COGNITIVE IMPAIRMENT AND DEMENTIA, AND SERVE FUTURE LONGITUDINAL STUDIES OF INTERVENTIONS TO PREVENT COGNITIVE DECLINE DUE TO VASCULAR DISEASE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-04-15",
+    "End Date": "2028-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS128179_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91239834,
+    "generated_unique_award_id": "ASST_NON_R01NS128179_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "IMAGING OF BRAIN OXYGEN EXTRACTION FRACTION IN VASCULAR CONTRIBUTIONS TO DEMENTIA - IMAGING OF BRAIN OXYGEN EXTRACTION FRACTION IN VASCULAR CONTRIBUTIONS TO DEMENTIA  VASCULAR PATHOLOGY IS INCREASINGLY RECOGNIZED AS A MAJOR CONTRIBUTOR TO COGNITIVE IMPAIRMENT AND DEMENTIA, AND ARISES FROM MANY PATHOPHYSIOLOGICAL MECHANISMS INCLUDING ENDOTHELIAL DAMAGE OF CEREBRAL VESSELS, HYPOXIA, AND BLOOD-BRAIN BARRIER BREAKDOWN. VASCULAR ABNORMALITIES HAVE BEEN IDENTIFIED AS WHITE MATTER HYPERINTENSITIES (WMHS) ON STRUCTURAL MAGNETIC RESONANCE IMAGING (MRI) SCANS, BUT THE HETEROGENEITY OF AND MECHANISMS UNDERLYING WMH EVOLUTION REMAIN UNCLEAR. THIS LACK OF FUNDAMENTAL UNDERSTANDING OF WMHS TO PREDICT COGNITIVE IMPACT IS IN LARGE PART DUE TO LIMITED IMAGING TECHNOLOGIES TO DIRECTLY ASSESS BRAIN PATHOPHYSIOLOGY IN CLINICAL SETTINGS.  IN THIS PROJECT, WE DEVELOP AND OPTIMIZE A NEW MRI TECHNIQUE TO ASSESS A CRITICAL PARAMETER OF BRAIN VASCULAR HEALTH, OXYGEN EXTRACTION FRACTION (OEF), IN ELDERLY PATIENTS WITH WMHS INDICATING THE PRESENCE OF CEREBROVASCULAR DISEASE. IN ISCHEMIC BRAIN DISORDERS, VULNERABLE TISSUE AROUND AN INFARCT COMPENSATES FOR REDUCED BLOOD FLOW BY INCREASING OEF, SUCH THAT PATHOLOGICALLY HIGH OEF IS AN IMPORTANT INDICATOR OF A “PENUMBRA” OF AT-RISK TISSUE. HOWEVER, MRI TOOLS TO MEASURE OEF ARE LIMITED BY LOW SIGNAL-TO-NOISE RATIO AND BIOLOGICAL CONFOUNDS ON THE MRI SIGNAL, AND HAVE NOT BEEN FULLY TESTED IN ELDERLY PATIENTS AT RISK OF COGNITIVE IMPAIRMENT.  WE AIM TO ADDRESS THESE LIMITATIONS BY USING A NOVEL, CLINICALLY FEASIBLE MRI METHOD TO MAP OEF IN BRAIN TISSUES. THIS QUANTITATIVE BOLD (BLOOD OXYGENATION LEVEL DEPENDENT) TECHNIQUE ADOPTS A UNIQUE MRI ACQUISITION IN SYNERGY WITH A BIOPHYSICAL MODEL OF MICROVESSELS IN EACH VOXEL TO QUANTIFY OEF. USING QUANTITATIVE BOLD MRI IN PATIENTS WITH VASCULAR CONTRIBUTIONS TO DEMENTIA (VCID), WE WILL 1) CHARACTERIZE OEF ABNORMALITIES IN WMHS AND SURROUNDING PENUMBRA FOR DIFFERENT BRAIN LOCATIONS AND THEIR RELATIONSHIP TO COGNITION; (2) ASSOCIATE LONGITUDINAL OEF CHANGES WITH MICROVASCULAR MRI MARKERS OF WHITE MATTER INJURY TO ESTABLISH AN ISCHEMIC PATHOPHYSIOLOGICAL MECHANISM OF WMH EVOLUTION; AND (3) TEST THE HYPOTHESIS THAT OEF CHANGES IN WHITE MATTER HAVE LONG-RANGE EFFECTS ON FUNCTIONAL CONNECTIVITY WITHIN BRAIN NETWORKS THAT SUPPORT EPISODIC MEMORY AND EXECUTIVE FUNCTION.  SUCCESSFUL COMPLETION OF THIS PROJECT WILL PROVIDE CRITICAL BIOLOGICAL KNOWLEDGE ABOUT OXYGENATION IN WMHS AND LINK MULTIPLE VASCULAR BIOMARKERS IN A MECHANISM FOR WMH PROGRESSION OVER TIME. THE NOVEL OEF MRI APPROACH ALSO SHIFTS THE PARADIGM IN IMAGING OF VCID TOWARD QUANTITATIVE, PHYSIOLOGICALLY- SPECIFIC MEASURES OF VASCULAR RISK. ULTIMATELY, NON-INVASIVE OEF IMAGING MAY DETECT EARLY MICROVASCULAR CHANGES THAT DRIVE NEURONAL INJURY IN COGNITIVE IMPAIRMENT AND DEMENTIA, AND SERVE FUTURE LONGITUDINAL STUDIES OF INTERVENTIONS TO PREVENT COGNITIVE DECLINE DUE TO VASCULAR DISEASE.",
+    "total_obligation": 1944714,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-04-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1426382.77,
+    "total_account_obligation": 1944714,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1426382.77
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1944714
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2023-04-15",
+      "end_date": "2028-03-31",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1426382.77
+  }
+}

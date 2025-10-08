@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173973897,
+    "Award ID": "R01NS144390",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 654339,
+    "Total Outlays": null,
+    "Description": "IN UTERO TREATMENT OF DUP15Q SYNDROME VIA LIPID NANOPARTICLE BASED GENE EDITING - ABSTRACT  DUP15Q SYNDROME IS A NEURODEVELOPMENTAL DISORDER MARKED BY SEVERE INTELLECTUAL DISABILITY, AUTISM SPECTRUM DISORDER (ASD), EPILEPSY, AND MOTOR DELAYS, RESULTING FROM DUPLICATIONS OF THE LONG ARM (Q) OF MATERNAL CHROMOSOME 15. IT AFFECTS APPROXIMATELY 1 IN 5,000 INDIVIDUALS AND IS 10 TIMES MORE COMMON IN PEOPLE WITH ASD OR INTELLECTUAL DISABILITY. MORE THAN HALF OF PATIENTS WITH DUP15Q EXPERIENCE EPILEPSY, WHICH INCREASES THE RISK OF SUDDEN UNEXPECTED DEATH IN EPILEPSY (SUDEP). THE PRIMARY GENETIC CAUSE IS MATERNAL DUPLICATIONS OR TRIPLICATIONS OF THE 15Q11.2-Q13 REGION, LEADING TO OVEREXPRESSION OF THE UBE3A GENE. THE HIGH MEDICAL COSTS ASSOCIATED WITH CARING FOR THESE CHRONICALLY ILL CHILDREN PLACE A SIGNIFICANT BURDEN ON FAMILIES, PARTICULARLY THOSE WITH LIMITED RESOURCES. CURRENTLY, NO CURATIVE TREATMENTS EXIST, MAKING THE DEVELOPMENT OF CAS9 MRNA THERAPY DELIVERED VIA LIPID NANOPARTICLES (LNPS) A PROMISING APPROACH. THIS PROJECT AIMS TO DEVELOP A NON-VIRAL GENE- EDITING THERAPY USING LNP/MRNA COMPLEXES TO CORRECT UBE3A OVEREXPRESSION IN NEURAL STEM PROGENITOR CELLS (NSPCS) DURING FETAL BRAIN DEVELOPMENT. BY INTERVENING EARLY, THIS THERAPY HAS THE POTENTIAL TO PREVENT OR ALLEVIATE NEURODEVELOPMENTAL DEFICITS, SEIZURES, AND COGNITIVE IMPAIRMENTS CHARACTERISTIC OF DUP15Q SYNDROME. DELIVERING CAS9 MRNA VIA LNPS OFFERS A LESS IMMUNOGENIC, NON-VIRAL ALTERNATIVE TO TRADITIONAL VIRAL-BASED GENE THERAPY APPROACHES. EARLY REMOVAL OF THE DUPLICATED 15Q REGION MAY PREVENT OR RESCUE DUP15Q PHENOTYPES. ADMINISTERING THIS THERAPY IN UTERO CREATES AN OPPORTUNITY TO CORRECT THE GENETIC DEFECT BEFORE SYMPTOM ONSET, POTENTIALLY PREVENTING NEURODEVELOPMENTAL DAMAGE. THIS APPROACH COULD REVOLUTIONIZE TREATMENT FOR GENETIC DISORDERS BY ADDRESSING THE ROOT CAUSE DURING CRITICAL PRENATAL DEVELOPMENT. IN UTERO GENE EDITING OFFERS UNIQUE ADVANTAGES: 1). STEM AND PROGENITOR CELLS IN THE FETAL BRAIN ARE ABUNDANT AND ACTIVELY PROLIFERATING, WHICH ENHANCES GENE-EDITING EFFICIENCY AND FUNCTIONAL OUTCOMES. 2). THE FETAL IMMUNE SYSTEM IS MORE TOLERANT, REDUCING THE RISK OF IMMUNE REJECTION OF FOREIGN GENE-EDITING ENZYMES. 3). THE SMALLER FETAL SIZE ALLOWS FOR OPTIMAL DOSING, IMPROVING COST EFFICIENCY, A CRITICAL FACTOR GIVEN THE FINANCIAL CONSTRAINTS OF GENE EDITING. 4). IN UTERO TREATMENT IS THE EARLIEST POSSIBLE INTERVENTION AND IS UNLIKELY TO CAUSE GERMLINE EDITING AFTER THE SEVENTH WEEK OF GESTATION. EARLY TREATMENT OF PRENATALLY DIAGNOSABLE CONDITIONS LIKE DUP15Q SYNDROME COULD SIGNIFICANTLY ALLEVIATE SYMPTOMS BEFORE DISEASE ONSET. ACHIEVING THE GOALS OF THIS PROJECT WILL ADVANCE THIS REGENERATIVE THERAPY TOWARD CLINICAL USE, PROVIDING BOTH HEALTHCARE AND FINANCIAL BENEFITS. THE DEVELOPMENT OF NON-VIRAL, IN UTERO GENE EDITING HAS THE POTENTIAL TO FUNCTIONALLY TREAT DUP15Q SYNDROME AND REDUCE THE NEED FOR INTENSIVE MEDICAL CARE. WHILE THIS PROJECT FOCUSES ON DUP15Q SYNDROME, THE PLATFORM TECHNOLOGY COULD BE APPLIED TO OTHER GENETIC DISORDERS, MAKING IT VALUABLE FOR ADDRESSING A RANGE OF CONDITIONS AFFECTING DIVERSE POPULATIONS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-09-01",
+    "End Date": "2030-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS144390_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173973897,
+    "generated_unique_award_id": "ASST_NON_R01NS144390_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "IN UTERO TREATMENT OF DUP15Q SYNDROME VIA LIPID NANOPARTICLE BASED GENE EDITING - ABSTRACT  DUP15Q SYNDROME IS A NEURODEVELOPMENTAL DISORDER MARKED BY SEVERE INTELLECTUAL DISABILITY, AUTISM SPECTRUM DISORDER (ASD), EPILEPSY, AND MOTOR DELAYS, RESULTING FROM DUPLICATIONS OF THE LONG ARM (Q) OF MATERNAL CHROMOSOME 15. IT AFFECTS APPROXIMATELY 1 IN 5,000 INDIVIDUALS AND IS 10 TIMES MORE COMMON IN PEOPLE WITH ASD OR INTELLECTUAL DISABILITY. MORE THAN HALF OF PATIENTS WITH DUP15Q EXPERIENCE EPILEPSY, WHICH INCREASES THE RISK OF SUDDEN UNEXPECTED DEATH IN EPILEPSY (SUDEP). THE PRIMARY GENETIC CAUSE IS MATERNAL DUPLICATIONS OR TRIPLICATIONS OF THE 15Q11.2-Q13 REGION, LEADING TO OVEREXPRESSION OF THE UBE3A GENE. THE HIGH MEDICAL COSTS ASSOCIATED WITH CARING FOR THESE CHRONICALLY ILL CHILDREN PLACE A SIGNIFICANT BURDEN ON FAMILIES, PARTICULARLY THOSE WITH LIMITED RESOURCES. CURRENTLY, NO CURATIVE TREATMENTS EXIST, MAKING THE DEVELOPMENT OF CAS9 MRNA THERAPY DELIVERED VIA LIPID NANOPARTICLES (LNPS) A PROMISING APPROACH. THIS PROJECT AIMS TO DEVELOP A NON-VIRAL GENE- EDITING THERAPY USING LNP/MRNA COMPLEXES TO CORRECT UBE3A OVEREXPRESSION IN NEURAL STEM PROGENITOR CELLS (NSPCS) DURING FETAL BRAIN DEVELOPMENT. BY INTERVENING EARLY, THIS THERAPY HAS THE POTENTIAL TO PREVENT OR ALLEVIATE NEURODEVELOPMENTAL DEFICITS, SEIZURES, AND COGNITIVE IMPAIRMENTS CHARACTERISTIC OF DUP15Q SYNDROME. DELIVERING CAS9 MRNA VIA LNPS OFFERS A LESS IMMUNOGENIC, NON-VIRAL ALTERNATIVE TO TRADITIONAL VIRAL-BASED GENE THERAPY APPROACHES. EARLY REMOVAL OF THE DUPLICATED 15Q REGION MAY PREVENT OR RESCUE DUP15Q PHENOTYPES. ADMINISTERING THIS THERAPY IN UTERO CREATES AN OPPORTUNITY TO CORRECT THE GENETIC DEFECT BEFORE SYMPTOM ONSET, POTENTIALLY PREVENTING NEURODEVELOPMENTAL DAMAGE. THIS APPROACH COULD REVOLUTIONIZE TREATMENT FOR GENETIC DISORDERS BY ADDRESSING THE ROOT CAUSE DURING CRITICAL PRENATAL DEVELOPMENT. IN UTERO GENE EDITING OFFERS UNIQUE ADVANTAGES: 1). STEM AND PROGENITOR CELLS IN THE FETAL BRAIN ARE ABUNDANT AND ACTIVELY PROLIFERATING, WHICH ENHANCES GENE-EDITING EFFICIENCY AND FUNCTIONAL OUTCOMES. 2). THE FETAL IMMUNE SYSTEM IS MORE TOLERANT, REDUCING THE RISK OF IMMUNE REJECTION OF FOREIGN GENE-EDITING ENZYMES. 3). THE SMALLER FETAL SIZE ALLOWS FOR OPTIMAL DOSING, IMPROVING COST EFFICIENCY, A CRITICAL FACTOR GIVEN THE FINANCIAL CONSTRAINTS OF GENE EDITING. 4). IN UTERO TREATMENT IS THE EARLIEST POSSIBLE INTERVENTION AND IS UNLIKELY TO CAUSE GERMLINE EDITING AFTER THE SEVENTH WEEK OF GESTATION. EARLY TREATMENT OF PRENATALLY DIAGNOSABLE CONDITIONS LIKE DUP15Q SYNDROME COULD SIGNIFICANTLY ALLEVIATE SYMPTOMS BEFORE DISEASE ONSET. ACHIEVING THE GOALS OF THIS PROJECT WILL ADVANCE THIS REGENERATIVE THERAPY TOWARD CLINICAL USE, PROVIDING BOTH HEALTHCARE AND FINANCIAL BENEFITS. THE DEVELOPMENT OF NON-VIRAL, IN UTERO GENE EDITING HAS THE POTENTIAL TO FUNCTIONALLY TREAT DUP15Q SYNDROME AND REDUCE THE NEED FOR INTENSIVE MEDICAL CARE. WHILE THIS PROJECT FOCUSES ON DUP15Q SYNDROME, THE PLATFORM TECHNOLOGY COULD BE APPLIED TO OTHER GENETIC DISORDERS, MAKING IT VALUABLE FOR ADDRESSING A RANGE OF CONDITIONS AFFECTING DIVERSE POPULATIONS.",
+    "total_obligation": 654339,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 654339,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 654339
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2025-09-01",
+      "end_date": "2030-08-31",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

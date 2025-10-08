@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91329483,
+    "Award ID": "R35GM142763",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 2047871,
+    "Total Outlays": 1257890.59,
+    "Description": "UNDERSTAND AND DETECT SEPSIS: PATHOGEN ISOLATION, BIOCHEMISTRY ASSAY, AND OPTOFLUIDIC SENSING - PROJECT SUMMARY BACKGROUND: SEPSIS IS A LIFE-THREATENING EMERGENCY, NORMALLY CAUSED BY THE BODY’S RESPONSE TO A BACTERIAL INFECTION. WITHOUT EARLY TREATMENT, SEPSIS CAN LEAD TO SEPTIC SHOCK WITH APPROXIMATELY 50% MORTALITY RATE. RAPID AND ACCURATE DIAGNOSIS OF SEPSIS IS THE KEY TO DECREASE THE MORTALITY RATE. HOWEVER, THERE IS NO GLOBAL STANDARD FOR SEPSIS TESTING DUE TO THE INADEQUATE SENSITIVITY AND SPECIFICITY OF THE CURRENT TECHNOLOGIES. THE PI HAS THE AMBITION TO ADDRESS THE CRITICAL AND FAR-REACHING BOTTLENECKS SPECIFICALLY OF CONCERN IN SEPSIS TESTING: 1) A RAPID AND SIMPLE METHOD TO ISOLATE AND CONCENTRATE BACTERIA FROM WHOLE BLOOD SAMPLE, 2) A SENSITIVE AND ONE-STEP CRISPR MICROFLUIDIC CHIP TO DETECT THE NUCLEIC ACID BIOMARKERS OF THE PATHOGENS, AND 3) A MULTIPLEXING AND MINIATURIZED OPTOFLUIDIC WAVEGUIDE PLATFORM TO ENHANCE THE FLUORESCENCE BASED DETECTION. OVERVIEW OF THE LABORATORY: THE PI ESTABLISHED HIS OWN LAB AT RIT IN 2018. WITH THE OVERWHELM START-UP SUPPORT BY THE HOME DEPARTMENT, THE PI IS LEADING AN ACTIVE AND INTERDISCIPLINARY RESEARCH GROUP WITH 1 POSTDOC RESEARCHER, 4 PH.D. STUDENTS, 2 MASTER STUDENTS, AND A COUPLE OF UNDERGRADUATE STUDENTS. WITHIN 2 YEARS, THE LAB HAS PUBLISHED ~10 JOURNAL ARTICLES IN THE FIELDS OF BACTERIA/VIRUS ISOLATION, CRISPR BIOCHEMISTRY ASSAY, AND OPTOFLUIDIC SENSING. EXPLOITING INTERDISCIPLINARY APPROACH, THE LAB IS WORKING ON TECHNOLOGIES TO QUICKLY IDENTIFY ANTIMICROBIAL RESISTANT BACTERIA IN WHOLE BLOOD SAMPLE. AS MORE STRAINS BECOME RESISTANT TO AVAILABLE THERAPIES, THE RISK FOR PEOPLE DEVELOPING LIFE-THREATENING SEPSIS IS INCREASING. THE RESEARCH TOPIC WE ARE WORKING ON WILL BE THE KEY FOR CLINICIANS TO PROVIDE QUICK CLINICAL DECISIONS AND INCREASE THE CHANCES OF SURVIVALS. IN ADDITION, THE TECHNOLOGIES DEVELOPED IN OUR LAB WILL ALSO LAY THE FOUNDATION FOR THE DIAGNOSIS AND TREATMENT OF MANY DIFFERENT KINDS OF DISEASES SUCH AS CANCER, VIRAL INFECTION, AND NEUROLOGICAL DISEASES. GOALS FOR THE NEXT 5 YEARS: OUR FIRST GOAL IS TO DEVELOP A FULLY AUTOMATED NANODEVICE THAT CAN COLLECT AND CONCENTRATE BACTERIA FROM WHOLE BLOOD WITH A RETRIEVAL EFFICIENCY OF 99% AND A CONCENTRATION FACTOR OF 10,000. WE WILL BEGIN WITH SPIKED SAMPLE AND THEN PROCEED TO CLINICAL SAMPLE. LEVERAGING THE UNIQUE PROPERTIES OF NANOMATERIALS AND NANOSTRUCTURES, THE SECOND GOAL IS TO DEVELOP A ONE-STEP AND ISOTHERMAL CRISPR CHIP FOR LOW CONCENTRATION (1 CFU/ML) BACTERIA DETECTION WITHOUT FRONT END TARGET AMPLIFICATION. TOWARDS THE END OF THE FIFTH YEAR, WE WILL INTEGRATE THE SAMPLE PREPARATION CHIP AND THE CRISPR DETECTION CHIP AS A SINGLE AND COMPACT UNIT FOR THE TESTING OF CLINICAL SAMPLES. THE THIRD GOAL IS TO DEVELOP A LIQUID-CORE, SUPERHYDROPHOBIC NANOSTRUCTURE CLADDING WAVEGUIDE PLATFORM FOR MULTIPLEXING BACTERIA DETECTION. THE HIGH FLUORESCENCE COLLECTION EFFICIENCY WILL ENABLE SENSITIVE SEPSIS DETECTION WITH MICROLITER LEVEL SAMPLE CONSUMPTION. OVERALL VISION OF THE RESEARCH PROGRAM: THE TECHNOLOGIES WE ARE DEVELOPING WILL HAVE A BROAD IMPACT TO THE BIOMEDICAL RESEARCH COMMUNITIES TO UNDERSTAND AND ENGINEERING SMALL MOLECULES, CELLS, AND TISSUES. THE PROPOSED WORK WILL ALSO ADVANCE DISEASE DIAGNOSIS, PREVENTION, AND TREATMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-08-01",
+    "End Date": "2026-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM142763_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91329483,
+    "generated_unique_award_id": "ASST_NON_R35GM142763_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "UNDERSTAND AND DETECT SEPSIS: PATHOGEN ISOLATION, BIOCHEMISTRY ASSAY, AND OPTOFLUIDIC SENSING - PROJECT SUMMARY BACKGROUND: SEPSIS IS A LIFE-THREATENING EMERGENCY, NORMALLY CAUSED BY THE BODY’S RESPONSE TO A BACTERIAL INFECTION. WITHOUT EARLY TREATMENT, SEPSIS CAN LEAD TO SEPTIC SHOCK WITH APPROXIMATELY 50% MORTALITY RATE. RAPID AND ACCURATE DIAGNOSIS OF SEPSIS IS THE KEY TO DECREASE THE MORTALITY RATE. HOWEVER, THERE IS NO GLOBAL STANDARD FOR SEPSIS TESTING DUE TO THE INADEQUATE SENSITIVITY AND SPECIFICITY OF THE CURRENT TECHNOLOGIES. THE PI HAS THE AMBITION TO ADDRESS THE CRITICAL AND FAR-REACHING BOTTLENECKS SPECIFICALLY OF CONCERN IN SEPSIS TESTING: 1) A RAPID AND SIMPLE METHOD TO ISOLATE AND CONCENTRATE BACTERIA FROM WHOLE BLOOD SAMPLE, 2) A SENSITIVE AND ONE-STEP CRISPR MICROFLUIDIC CHIP TO DETECT THE NUCLEIC ACID BIOMARKERS OF THE PATHOGENS, AND 3) A MULTIPLEXING AND MINIATURIZED OPTOFLUIDIC WAVEGUIDE PLATFORM TO ENHANCE THE FLUORESCENCE BASED DETECTION. OVERVIEW OF THE LABORATORY: THE PI ESTABLISHED HIS OWN LAB AT RIT IN 2018. WITH THE OVERWHELM START-UP SUPPORT BY THE HOME DEPARTMENT, THE PI IS LEADING AN ACTIVE AND INTERDISCIPLINARY RESEARCH GROUP WITH 1 POSTDOC RESEARCHER, 4 PH.D. STUDENTS, 2 MASTER STUDENTS, AND A COUPLE OF UNDERGRADUATE STUDENTS. WITHIN 2 YEARS, THE LAB HAS PUBLISHED ~10 JOURNAL ARTICLES IN THE FIELDS OF BACTERIA/VIRUS ISOLATION, CRISPR BIOCHEMISTRY ASSAY, AND OPTOFLUIDIC SENSING. EXPLOITING INTERDISCIPLINARY APPROACH, THE LAB IS WORKING ON TECHNOLOGIES TO QUICKLY IDENTIFY ANTIMICROBIAL RESISTANT BACTERIA IN WHOLE BLOOD SAMPLE. AS MORE STRAINS BECOME RESISTANT TO AVAILABLE THERAPIES, THE RISK FOR PEOPLE DEVELOPING LIFE-THREATENING SEPSIS IS INCREASING. THE RESEARCH TOPIC WE ARE WORKING ON WILL BE THE KEY FOR CLINICIANS TO PROVIDE QUICK CLINICAL DECISIONS AND INCREASE THE CHANCES OF SURVIVALS. IN ADDITION, THE TECHNOLOGIES DEVELOPED IN OUR LAB WILL ALSO LAY THE FOUNDATION FOR THE DIAGNOSIS AND TREATMENT OF MANY DIFFERENT KINDS OF DISEASES SUCH AS CANCER, VIRAL INFECTION, AND NEUROLOGICAL DISEASES. GOALS FOR THE NEXT 5 YEARS: OUR FIRST GOAL IS TO DEVELOP A FULLY AUTOMATED NANODEVICE THAT CAN COLLECT AND CONCENTRATE BACTERIA FROM WHOLE BLOOD WITH A RETRIEVAL EFFICIENCY OF 99% AND A CONCENTRATION FACTOR OF 10,000. WE WILL BEGIN WITH SPIKED SAMPLE AND THEN PROCEED TO CLINICAL SAMPLE. LEVERAGING THE UNIQUE PROPERTIES OF NANOMATERIALS AND NANOSTRUCTURES, THE SECOND GOAL IS TO DEVELOP A ONE-STEP AND ISOTHERMAL CRISPR CHIP FOR LOW CONCENTRATION (1 CFU/ML) BACTERIA DETECTION WITHOUT FRONT END TARGET AMPLIFICATION. TOWARDS THE END OF THE FIFTH YEAR, WE WILL INTEGRATE THE SAMPLE PREPARATION CHIP AND THE CRISPR DETECTION CHIP AS A SINGLE AND COMPACT UNIT FOR THE TESTING OF CLINICAL SAMPLES. THE THIRD GOAL IS TO DEVELOP A LIQUID-CORE, SUPERHYDROPHOBIC NANOSTRUCTURE CLADDING WAVEGUIDE PLATFORM FOR MULTIPLEXING BACTERIA DETECTION. THE HIGH FLUORESCENCE COLLECTION EFFICIENCY WILL ENABLE SENSITIVE SEPSIS DETECTION WITH MICROLITER LEVEL SAMPLE CONSUMPTION. OVERALL VISION OF THE RESEARCH PROGRAM: THE TECHNOLOGIES WE ARE DEVELOPING WILL HAVE A BROAD IMPACT TO THE BIOMEDICAL RESEARCH COMMUNITIES TO UNDERSTAND AND ENGINEERING SMALL MOLECULES, CELLS, AND TISSUES. THE PROPOSED WORK WILL ALSO ADVANCE DISEASE DIAGNOSIS, PREVENTION, AND TREATMENT.",
+    "total_obligation": 2047871,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-07-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1257890.59,
+    "total_account_obligation": 2047871,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1257890.59
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2047871
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2021-08-01",
+      "end_date": "2026-07-31",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1257890.59
+  }
+}

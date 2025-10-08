@@ -72,5 +72,266 @@
     "pop_city_name": "",
     "pop_state_code": "",
     "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 111953510,
+    "generated_unique_award_id": "CONT_AWD_80GSFC21F0150_8000_80GSFC19A0001_8000",
+    "piid": "80GSFC21F0150",
+    "category": "contract",
+    "type": "A",
+    "type_description": "BPA CALL",
+    "description": "THIS IS AN ADF TO ADD FUNDS TO EXISTING BPA 80GSFC19A0001BEAM TIME SCHEDULED @ FACILITY SEPTEMBER 27, 2021 BUT TEAM WILL ARRIVE10 DAYS EARLY FOR REQUIRED SET UP.112 HRS @ $889/HR = $99,568",
+    "total_obligation": 99568,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-09-15",
+    "base_exercised_options": 99568,
+    "base_and_all_options": 99568,
+    "total_account_outlay": 0,
+    "total_account_obligation": 99568,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 99568
+      }
+    ],
+    "parent_award": {
+      "agency_id": 862,
+      "agency_name": "National Aeronautics and Space Administration",
+      "agency_slug": "national-aeronautics-and-space-administration",
+      "award_id": 169041990,
+      "generated_unique_award_id": "CONT_IDV_80GSFC19A0001_8000",
+      "idv_type_description": "BPA",
+      "multiple_or_single_aw_desc": "MULTIPLE AWARD",
+      "piid": "80GSFC19A0001",
+      "sub_agency_id": "8000",
+      "sub_agency_name": "National Aeronautics and Space Administration",
+      "type_of_idc_description": null
+    },
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": "8000",
+      "referenced_idv_agency_desc": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "solicitation_identifier": null,
+      "solicitation_procedures": "SP1",
+      "number_of_offers_received": "1",
+      "extent_competed": "G",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "",
+      "fed_biz_opps_description": "",
+      "small_business_competitive": false,
+      "product_or_service_code": "X1JZ",
+      "naics": "541380",
+      "naics_description": "TESTING LABORATORIES",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "N",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "",
+      "consolidated_contract": "D",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "SIMPLIFIED ACQUISITION",
+      "extent_competed_description": "NOT COMPETED UNDER SAP",
+      "other_than_full_and_open": "SP2",
+      "other_than_full_and_open_description": "SAP NON-COMPETITION (FAR 13)",
+      "commercial_item_acquisition": "A",
+      "commercial_item_acquisition_description": "COMMERCIAL ITEM",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "LEASE/RENTAL OF MISCELLANEOUS BUILDINGS",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "NO",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NOT CONSOLIDATED",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA GODDARD SPACE FLIGHT CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA GODDARD SPACE FLIGHT CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-15",
+      "end_date": "2021-12-31",
+      "last_modified_date": "2021-09-27",
+      "potential_end_date": "2021-12-31 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": "047120084",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Corporate Entity Tax Exempt",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "Special Designations",
+        "U.S.-Owned Business",
+        "Veterinary College"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "X",
+        "description": "LEASE/RENT FACILITIES"
+      },
+      "midtier_code": {
+        "code": "X1",
+        "description": "LEASE/RENTAL OF BUILDINGS"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "X1JZ",
+        "description": "LEASE/RENTAL OF MISCELLANEOUS BUILDINGS"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5413",
+        "description": "Architectural, Engineering, and Related Services"
+      },
+      "base_code": {
+        "code": "541380",
+        "description": "Testing Laboratories"
+      }
+    },
+    "total_outlay": 0
   }
 }

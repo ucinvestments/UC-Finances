@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74725312,
+    "Award ID": "80NSSC18K0291",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 981760.19,
+    "Total Outlays": 470733.77,
+    "Description": "THE OBJECTIVE OF THIS PROGRAM IS TO EXPLOIT THE DEVELOPMENTS IN ATOMIC LAYER DEPOSITED (ALD) MICROCHANNEL PLATES (MCPS)  PHOTOCATHODES AND CROSS STRIP (XS) READOUT TECHNIQUES TO PROVIDE A NEW GENERATION OF ENHANCED PERFORMANCE SEALED TUBE PHOTON COUNTING SENSORS THAT SPAN THE 115NM TO 400NM REGIME. EFFORTS IN ALL THE SUBCOMPONENT AREAS HAVE ACHIEVED CONSIDERABLE TECHNICAL DEVELOPMENT AND HERITAGE  BUT PUTTING THEM INTO A ROBUST INTEGRATED PACKAGE WITH ADVANCED TRL FOR THE NEXT UV-VIS ASTROPHYSICS INSTRUMENTS HAS NOT BEEN DONE TO DATE. COMPONENT DEVELOPMENTS INCLUDE ALD MCP FORMATS UP TO 127 X 127 MM WITH 10  M PORES  BACKGROUND RATES OF ~0.05 EVENTS/CM2/SEC  AND EXTENDED LIFETIMES TO\u003e10 C/CM2. XS ANODES AND ELECTRONICS HAVE SHOWN SPATIAL RESOLUTIONS OF\u003c18 M FWHM OVER FORMATS OF 100 X 100MM AND EVENT HANDLING RATES OF 5 MHZ AT\u003c15% DEAD TIME. PHOTOCATHODES IN THE FUV CAN ACHIEVE 50% QUANTUM EFFICIENCY AT ~115NM AND 30% AT 200-300NM WITH CUTOFFS ABOVE 400NM. COMBINING THESE DEVELOPMENTS HAS A SIGNIFICANT IMPACT TO POTENTIAL FUTURE NASA SUB-ORBITAL AND SATELLITE INSTRUMENTS. THESE ADVANCEMENTS WILL ENABLE HIGH SPATIAL RESOLUTION IMPROVEMENTS TO MCP BASED SPACEFLIGHT DETECTORS FOR IMAGING AND SPECTROSCOPIC INSTRUMENTS FROM SMALL TO LARGE (\u003e10 CM) FORMATS IN THE UV TO VISIBLE REGIMES. THE SMALLER PORE SIZES (~10  M) AND HIGH RESOLUTION XS READOUTS WILL FACILITATE HIGHER SPATIAL RESOLUTIONS OVER THE LARGE FORMATS. AT THE SAME TIME THE REDUCED ( 3) DETECTION EFFICIENCY FOR HIGH-ENERGY BACKGROUND EVENTS DEMONSTRATED BY USE OF ALD MCPS WILL ALSO IMPROVE OBSERVATIONAL SENSITIVITIES. THE CHEMICAL COMPATIBILITY OF THE NEW MCP BOROSILICATE GLASS AND THE ALD MATERIALS HAS THE POTENTIAL TO PROVIDE FURTHER IMPROVEMENTS IN THE STABILITY AND LIFETIME OF THESE DETECTORS DUE TO THE RIGOROUS PRE-CONDITIONING STEPS FOR SEALED TUBES. IN ADDITION  IMPROVEMENTS IN FABRICATION PROCESSES PROVIDE THE OPPORTUNITY TO REDUCE THE IMAGING FIXED PATTERN MODULATION AND THERMAL RESISTANCE CHANGES. XS READOUTS INTEGRATED INTO SEALED TUBE PACKAGES CAN ALSO FULLY TAKE ADVANTAGE OF THE EFFORTS CURRENTLY TAKING PLACE TO ESTABLISH HIGH PERFORMANCE  SPACEFLIGHT COMPATIBLE  LOW POWER-MASS-VOLUME ASIC READOUT ELECTRONICS. THESE DEVELOPMENTS WILL TOGETHER PROVIDE A SIGNIFICANT STEP IN THE REALIZATION OF HIGH PERFORMANCE  ROBUST  MCP DETECTORS FOR THE NEXT GENERATIONS OF UV ASTROPHYSICS INSTRUMENTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "2150 SHATTUCK AVE RM 313",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5940",
+      "zip5": "94704"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94704-5940",
+      "zip5": "94704"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2018-01-03",
+    "End Date": "2023-02-23",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC18K0291_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74725312,
+    "generated_unique_award_id": "ASST_NON_80NSSC18K0291_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE OBJECTIVE OF THIS PROGRAM IS TO EXPLOIT THE DEVELOPMENTS IN ATOMIC LAYER DEPOSITED (ALD) MICROCHANNEL PLATES (MCPS)  PHOTOCATHODES AND CROSS STRIP (XS) READOUT TECHNIQUES TO PROVIDE A NEW GENERATION OF ENHANCED PERFORMANCE SEALED TUBE PHOTON COUNTING SENSORS THAT SPAN THE 115NM TO 400NM REGIME. EFFORTS IN ALL THE SUBCOMPONENT AREAS HAVE ACHIEVED CONSIDERABLE TECHNICAL DEVELOPMENT AND HERITAGE  BUT PUTTING THEM INTO A ROBUST INTEGRATED PACKAGE WITH ADVANCED TRL FOR THE NEXT UV-VIS ASTROPHYSICS INSTRUMENTS HAS NOT BEEN DONE TO DATE. COMPONENT DEVELOPMENTS INCLUDE ALD MCP FORMATS UP TO 127 X 127 MM WITH 10  M PORES  BACKGROUND RATES OF ~0.05 EVENTS/CM2/SEC  AND EXTENDED LIFETIMES TO\u003e10 C/CM2. XS ANODES AND ELECTRONICS HAVE SHOWN SPATIAL RESOLUTIONS OF\u003c18 M FWHM OVER FORMATS OF 100 X 100MM AND EVENT HANDLING RATES OF 5 MHZ AT\u003c15% DEAD TIME. PHOTOCATHODES IN THE FUV CAN ACHIEVE 50% QUANTUM EFFICIENCY AT ~115NM AND 30% AT 200-300NM WITH CUTOFFS ABOVE 400NM. COMBINING THESE DEVELOPMENTS HAS A SIGNIFICANT IMPACT TO POTENTIAL FUTURE NASA SUB-ORBITAL AND SATELLITE INSTRUMENTS. THESE ADVANCEMENTS WILL ENABLE HIGH SPATIAL RESOLUTION IMPROVEMENTS TO MCP BASED SPACEFLIGHT DETECTORS FOR IMAGING AND SPECTROSCOPIC INSTRUMENTS FROM SMALL TO LARGE (\u003e10 CM) FORMATS IN THE UV TO VISIBLE REGIMES. THE SMALLER PORE SIZES (~10  M) AND HIGH RESOLUTION XS READOUTS WILL FACILITATE HIGHER SPATIAL RESOLUTIONS OVER THE LARGE FORMATS. AT THE SAME TIME THE REDUCED ( 3) DETECTION EFFICIENCY FOR HIGH-ENERGY BACKGROUND EVENTS DEMONSTRATED BY USE OF ALD MCPS WILL ALSO IMPROVE OBSERVATIONAL SENSITIVITIES. THE CHEMICAL COMPATIBILITY OF THE NEW MCP BOROSILICATE GLASS AND THE ALD MATERIALS HAS THE POTENTIAL TO PROVIDE FURTHER IMPROVEMENTS IN THE STABILITY AND LIFETIME OF THESE DETECTORS DUE TO THE RIGOROUS PRE-CONDITIONING STEPS FOR SEALED TUBES. IN ADDITION  IMPROVEMENTS IN FABRICATION PROCESSES PROVIDE THE OPPORTUNITY TO REDUCE THE IMAGING FIXED PATTERN MODULATION AND THERMAL RESISTANCE CHANGES. XS READOUTS INTEGRATED INTO SEALED TUBE PACKAGES CAN ALSO FULLY TAKE ADVANTAGE OF THE EFFORTS CURRENTLY TAKING PLACE TO ESTABLISH HIGH PERFORMANCE  SPACEFLIGHT COMPATIBLE  LOW POWER-MASS-VOLUME ASIC READOUT ELECTRONICS. THESE DEVELOPMENTS WILL TOGETHER PROVIDE A SIGNIFICANT STEP IN THE REALIZATION OF HIGH PERFORMANCE  ROBUST  MCP DETECTORS FOR THE NEXT GENERATIONS OF UV ASTROPHYSICS INSTRUMENTS.",
+    "total_obligation": 981760.19,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2018-01-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 470733.77,
+    "total_account_obligation": -14041.81,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 470733.77
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -14041.81
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2018-01-03",
+      "end_date": "2023-02-23",
+      "last_modified_date": "2024-09-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "2150 SHATTUCK AVE RM 313",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5940",
+        "zip5": "94704",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "5940",
+      "zip5": "94704",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 470733.77
+  }
+}

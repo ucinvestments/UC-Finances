@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56655411,
+    "Award ID": "2148768",
+    "Recipient Name": "PHOENIX BIOINFORMATICS CORPORATION",
+    "Award Amount": 664768,
+    "Total Outlays": 529319.11,
+    "Description": "FACILITY: LEVERAGING FEEDBACK FROM THE MORPHOBANK COMMUNITY TO MODERNIZE ANALYSIS OF PALEONTOLOGICAL DATA FOR PHYLOGENETICS -MORPHOBANK (WWW.MORPHOBANK.ORG) IS A FREELY ACCESSIBLE ONLINE RESOURCE THAT SCIENTISTS ALL OVER THE WORLD USE TO COLLECT AND SHARE INFORMATION FOR RECONSTRUCTING THE EVOLUTION OF LIVING AND EXTINCT SPECIES. USERS OF MORPHOBANK CAN COLLABORATE IN REAL TIME TO DOCUMENT RELATIONSHIPS IN ANATOMICAL FEATURES AMONG LIVING AND FOSSIL SPECIES, WHICH FACILITATES RECONSTRUCTION OF EVOLUTIONARY TREES. THEY CAN ALSO ADD TEXT AND STANDARDIZED LABELS TO 2D AND 3D IMAGES, AND LINK THE ENTIRE DATA SET TO PEER-REVIEWED PUBLICATIONS, MAKING IT EASIER TO FIND, REPRODUCE, AND REUSE PAST WORK. MORPHOBANK FACILITATES OUR UNDERSTANDING OF HOW ALL ORGANISMS EVOLVED AND INFORMS OUR PREDICTIONS OF FUTURE EVOLUTION. IN ADDITION, MORPHOBANK SUPPORTS EDUCATION AND OUTREACH EFFORTS, INCLUDING THROUGH PARTNERSHIPS WITH SCHOOLS AND MUSEUMS THAT SEEK TO BROADEN PARTICIPATION IN SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS (STEM). MORPHOBANK IS A WIDELY-USED COMMUNITY TOOL THAT SUPPORTS REAL-TIME COLLABORATION FOR CREATING AND ANNOTATING PHYLOGENETIC MATRICES. THIS AWARD WILL SUPPORT SOFTWARE DEVELOPMENT IN THREE KEY AREAS TO ADVANCE THE MORPHOBANK CAPABILITIES IN RESPONSE TO FEEDBACK PROVIDED BY THE USER COMMUNITY. FIRST, THE PROJECT TEAM WILL CONNECT MORPHOBANK?S DATA MANAGEMENT TOOLS TO COMPUTATIONAL RESOURCES FOR BUILDING PHYLOGENETIC TREES USING PARSIMONY, MAXIMUM LIKELIHOOD AND BAYESIAN ANALYSIS ALGORITHMS. SECOND, THEY WILL IMPROVE THE EXISTING MORPHOBANK DATA ORGANIZATION TOOLS, SUCH AS THE MORPHOLOGICAL MATRIX EDITOR, THE PREMIUM AND MOST COMPLEX PART OF MORPHOBANK?S DATA MANAGEMENT TOOLS, TO SPEED WORKFLOWS AND PERMIT NEW RESEARCH ACTIVITIES NOT POSSIBLE IN ANY OTHER SOFTWARE PACKAGE. THIRD, THEY WILL EXPOSE PALEOBIOLOGICAL RESEARCH AT MORPHOBANK THROUGH DIRECT CONNECTIONS TO ORCID AND THE PALEOBIOLOGY DATABASE. THIS WORK WILL LEAD MORPHOBANK TO BECOME A SUSTAINABLE, SCALABLE, AND COST-EFFICIENT MODERN ONLINE RESOURCE FOR GEOINFORMATICS, PALEONTOLOGY, AND MORPHOLOGY. THESE EFFORTS WILL ENHANCE INFRASTRUCTURE THAT ACCELERATES RESEARCH WHILE ENABLING EDUCATION OF NEW SCIENTISTS. IN COLLABORATION WITH THE MUSEUM OF PALEONTOLOGY AT THE UNIVERSITY OF CALIFORNIA, BERKELEY, THIS PROJECT WILL INTRODUCE PALEOBIOLOGY UNDERGRADUATES TO SCIENTIFIC DATA ORGANIZATION. PAID INTERNS WILL BE TRAINED IN APPLYING THESE SKILLS TO THE DOMAIN OF GEOINFORMATICS. THE FUNDED TEAM WILL CONTINUE OUTREACH TO STUDENTS FROM EDUCATIONALLY DISADVANTAGED BACKGROUNDS IN THE MESA (MATHEMATICS, ENGINEERING, SCIENCE ACHIEVEMENT) PROGRAMS AT COMMUNITY COLLEGES IN THE SAN FRANCISCO BAY AREA BY PARTICIPATING IN THEIR STEM SPEAKER SERIES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "K3BFSRMN65N5",
+    "Recipient Location": {
+      "address_line1": "4540 MEYER PARK CIR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "FREMONT",
+      "congressional_code": "14",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6718",
+      "zip5": "94536"
+    },
+    "Primary Place of Performance": {
+      "city_name": "NEWARK",
+      "congressional_code": "17",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94560-5361",
+      "zip5": "94560"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-06-01",
+    "End Date": "2025-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "fbf885cc-712d-39d9-fa9f-e20bfb6784f0-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2148768_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56655411,
+    "generated_unique_award_id": "ASST_NON_2148768_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FACILITY: LEVERAGING FEEDBACK FROM THE MORPHOBANK COMMUNITY TO MODERNIZE ANALYSIS OF PALEONTOLOGICAL DATA FOR PHYLOGENETICS -MORPHOBANK (WWW.MORPHOBANK.ORG) IS A FREELY ACCESSIBLE ONLINE RESOURCE THAT SCIENTISTS ALL OVER THE WORLD USE TO COLLECT AND SHARE INFORMATION FOR RECONSTRUCTING THE EVOLUTION OF LIVING AND EXTINCT SPECIES. USERS OF MORPHOBANK CAN COLLABORATE IN REAL TIME TO DOCUMENT RELATIONSHIPS IN ANATOMICAL FEATURES AMONG LIVING AND FOSSIL SPECIES, WHICH FACILITATES RECONSTRUCTION OF EVOLUTIONARY TREES. THEY CAN ALSO ADD TEXT AND STANDARDIZED LABELS TO 2D AND 3D IMAGES, AND LINK THE ENTIRE DATA SET TO PEER-REVIEWED PUBLICATIONS, MAKING IT EASIER TO FIND, REPRODUCE, AND REUSE PAST WORK. MORPHOBANK FACILITATES OUR UNDERSTANDING OF HOW ALL ORGANISMS EVOLVED AND INFORMS OUR PREDICTIONS OF FUTURE EVOLUTION. IN ADDITION, MORPHOBANK SUPPORTS EDUCATION AND OUTREACH EFFORTS, INCLUDING THROUGH PARTNERSHIPS WITH SCHOOLS AND MUSEUMS THAT SEEK TO BROADEN PARTICIPATION IN SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS (STEM). MORPHOBANK IS A WIDELY-USED COMMUNITY TOOL THAT SUPPORTS REAL-TIME COLLABORATION FOR CREATING AND ANNOTATING PHYLOGENETIC MATRICES. THIS AWARD WILL SUPPORT SOFTWARE DEVELOPMENT IN THREE KEY AREAS TO ADVANCE THE MORPHOBANK CAPABILITIES IN RESPONSE TO FEEDBACK PROVIDED BY THE USER COMMUNITY. FIRST, THE PROJECT TEAM WILL CONNECT MORPHOBANK?S DATA MANAGEMENT TOOLS TO COMPUTATIONAL RESOURCES FOR BUILDING PHYLOGENETIC TREES USING PARSIMONY, MAXIMUM LIKELIHOOD AND BAYESIAN ANALYSIS ALGORITHMS. SECOND, THEY WILL IMPROVE THE EXISTING MORPHOBANK DATA ORGANIZATION TOOLS, SUCH AS THE MORPHOLOGICAL MATRIX EDITOR, THE PREMIUM AND MOST COMPLEX PART OF MORPHOBANK?S DATA MANAGEMENT TOOLS, TO SPEED WORKFLOWS AND PERMIT NEW RESEARCH ACTIVITIES NOT POSSIBLE IN ANY OTHER SOFTWARE PACKAGE. THIRD, THEY WILL EXPOSE PALEOBIOLOGICAL RESEARCH AT MORPHOBANK THROUGH DIRECT CONNECTIONS TO ORCID AND THE PALEOBIOLOGY DATABASE. THIS WORK WILL LEAD MORPHOBANK TO BECOME A SUSTAINABLE, SCALABLE, AND COST-EFFICIENT MODERN ONLINE RESOURCE FOR GEOINFORMATICS, PALEONTOLOGY, AND MORPHOLOGY. THESE EFFORTS WILL ENHANCE INFRASTRUCTURE THAT ACCELERATES RESEARCH WHILE ENABLING EDUCATION OF NEW SCIENTISTS. IN COLLABORATION WITH THE MUSEUM OF PALEONTOLOGY AT THE UNIVERSITY OF CALIFORNIA, BERKELEY, THIS PROJECT WILL INTRODUCE PALEOBIOLOGY UNDERGRADUATES TO SCIENTIFIC DATA ORGANIZATION. PAID INTERNS WILL BE TRAINED IN APPLYING THESE SKILLS TO THE DOMAIN OF GEOINFORMATICS. THE FUNDED TEAM WILL CONTINUE OUTREACH TO STUDENTS FROM EDUCATIONALLY DISADVANTAGED BACKGROUNDS IN THE MESA (MATHEMATICS, ENGINEERING, SCIENCE ACHIEVEMENT) PROGRAMS AT COMMUNITY COLLEGES IN THE SAN FRANCISCO BAY AREA BY PARTICIPATING IN THEIR STEM SPEAKER SERIES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 664768,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-02-09",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 545882.16,
+    "total_account_obligation": 664768,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 545882.16
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 664768
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF EARTH SCIENCES"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-01",
+      "end_date": "2025-05-31",
+      "last_modified_date": "2024-10-17",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "fbf885cc-712d-39d9-fa9f-e20bfb6784f0-R",
+      "recipient_name": "PHOENIX BIOINFORMATICS CORPORATION",
+      "recipient_uei": "K3BFSRMN65N5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "FREMONT",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "4540 MEYER PARK CIR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "14",
+        "zip4": "6718",
+        "zip5": "94536",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "NEWARK",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "17",
+      "zip4": "5361",
+      "zip5": "94560",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 545882.16
+  }
+}

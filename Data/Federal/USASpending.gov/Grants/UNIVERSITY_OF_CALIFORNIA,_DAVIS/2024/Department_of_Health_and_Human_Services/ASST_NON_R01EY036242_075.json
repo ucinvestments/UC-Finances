@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91185876,
+    "Award ID": "R01EY036242",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1466985,
+    "Total Outlays": 573204.32,
+    "Description": "STUDIES OF DIRECT AND TRANSTHALAMIC PATHWAYS IN VISUAL CORTEX - PROJECT SUMMARY FEW STRUCTURES IN THE BRAIN ARE AS PROMINENT, YET POORLY UNDERSTOOD, AS THE PULVINAR. THE PULVINAR IS BOTH LARGE AND COMPLEX, HAVING UNDERGONE MORE EXPANSION WITH PRIMATE EVOLUTION THAN ANY OTHER THALAMIC NUCLEUS. BASED ON ITS RECIPROCAL CONNECTIONS WITH THE FULL EXTENT OF THE VISUAL HIERARCHY, FROM PRIMARY VISUAL CORTEX THROUGH INFEROTEMPORAL CORTEX, THE PULVINAR IS STRATEGICALLY POSITIONED TO FACILITATE/MEDIATE THE COMMUNICATION OF VISUAL SIGNALS BETWEEN CORTICAL AREAS. THESE TRANSTHALAMIC PATHWAYS OPERATE IN PARALLEL TO THE DIRECT CORTICOCORTICAL PATHWAYS. THE MAIN GOAL OF THIS RESEARCH IS TO UNDERSTAND THE FUNCTIONAL ORGANIZATION OF THE SEPARATE DIRECT AND TRANSTHALAMIC PATHWAYS THAT CORTICAL AREAS USE TO COMMUNICATE WITH ONE ANOTHER. FOR THIS, WE USE THE MOUSE AND MONKEY VISUAL SYSTEMS AND STUDY THE CONNECTIONS BETWEEN THE PRIMARY AND SECONDARY VISUAL CORTICAL AREAS (V1 AND V2) IN EACH SPECIES. WE USE OPTOGENETIC TOOLS TO SELECTIVELY INHIBIT ONE OR THE OTHER PATHWAY FROM V1 TO V2. WE STUDY THE EFFECTS OF SUCH INHIBITION ON THE ANIMALS’ ABILITY TO PERFORM VARIOUS VISUAL TASKS AS WELL AS ON RESPONSES TO VISUAL STIMULATION AMONG V2 NEURONS. A MAJOR GOAL IS NOT ONLY TO IDENTIFY FUNCTIONS FOR THE DIRECT AND TRANSTHALAMIC PATHWAYS, BUT ALSO TO COMPARE THESE AMONG SUCH DISPARATE MAMMALIAN MODELS AS MICE AND MONKEYS WITH THE HOPE OF GENERATING INSIGHTS INTO THE FUNCTIONING OF THESE CORTICAL PROCESSES THAT ARE COMMON TO MAMMALS. GIVEN THE SEVERE FINANCIAL AND QUALITY-OF-LIFE CONSEQUENCES THAT FOLLOW FROM DISRUPTION IN THE ABILITY OF CORTICAL AREAS TO COMMUNICATE PROPERLY WITH EACH OTHER, SUCH AS OCCURS WITH MANY FORMS OF EPILEPSY, STROKE, AND ILLNESSES AFFECTING VISION AND THALAMOCORTICAL FUNCTION, IT IS IMPORTANT THAT WE UNDERSTAND HOW THE THALAMUS AND CORTEX INTERACT TO MEET THE PROCESSING NEEDS OF THE BRAIN. THE PROPOSED STUDY WILL HAVE A MAJOR IMPACT ON OUR UNDERSTANDING OF HIGHER ORDER THALAMUS, CORTICAL COMMUNICATION, AND SUBSTRATES FOR DISEASE AND DYSFUNCTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-07-01",
+    "End Date": "2028-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01EY036242_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91185876,
+    "generated_unique_award_id": "ASST_NON_R01EY036242_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "STUDIES OF DIRECT AND TRANSTHALAMIC PATHWAYS IN VISUAL CORTEX - PROJECT SUMMARY FEW STRUCTURES IN THE BRAIN ARE AS PROMINENT, YET POORLY UNDERSTOOD, AS THE PULVINAR. THE PULVINAR IS BOTH LARGE AND COMPLEX, HAVING UNDERGONE MORE EXPANSION WITH PRIMATE EVOLUTION THAN ANY OTHER THALAMIC NUCLEUS. BASED ON ITS RECIPROCAL CONNECTIONS WITH THE FULL EXTENT OF THE VISUAL HIERARCHY, FROM PRIMARY VISUAL CORTEX THROUGH INFEROTEMPORAL CORTEX, THE PULVINAR IS STRATEGICALLY POSITIONED TO FACILITATE/MEDIATE THE COMMUNICATION OF VISUAL SIGNALS BETWEEN CORTICAL AREAS. THESE TRANSTHALAMIC PATHWAYS OPERATE IN PARALLEL TO THE DIRECT CORTICOCORTICAL PATHWAYS. THE MAIN GOAL OF THIS RESEARCH IS TO UNDERSTAND THE FUNCTIONAL ORGANIZATION OF THE SEPARATE DIRECT AND TRANSTHALAMIC PATHWAYS THAT CORTICAL AREAS USE TO COMMUNICATE WITH ONE ANOTHER. FOR THIS, WE USE THE MOUSE AND MONKEY VISUAL SYSTEMS AND STUDY THE CONNECTIONS BETWEEN THE PRIMARY AND SECONDARY VISUAL CORTICAL AREAS (V1 AND V2) IN EACH SPECIES. WE USE OPTOGENETIC TOOLS TO SELECTIVELY INHIBIT ONE OR THE OTHER PATHWAY FROM V1 TO V2. WE STUDY THE EFFECTS OF SUCH INHIBITION ON THE ANIMALS’ ABILITY TO PERFORM VARIOUS VISUAL TASKS AS WELL AS ON RESPONSES TO VISUAL STIMULATION AMONG V2 NEURONS. A MAJOR GOAL IS NOT ONLY TO IDENTIFY FUNCTIONS FOR THE DIRECT AND TRANSTHALAMIC PATHWAYS, BUT ALSO TO COMPARE THESE AMONG SUCH DISPARATE MAMMALIAN MODELS AS MICE AND MONKEYS WITH THE HOPE OF GENERATING INSIGHTS INTO THE FUNCTIONING OF THESE CORTICAL PROCESSES THAT ARE COMMON TO MAMMALS. GIVEN THE SEVERE FINANCIAL AND QUALITY-OF-LIFE CONSEQUENCES THAT FOLLOW FROM DISRUPTION IN THE ABILITY OF CORTICAL AREAS TO COMMUNICATE PROPERLY WITH EACH OTHER, SUCH AS OCCURS WITH MANY FORMS OF EPILEPSY, STROKE, AND ILLNESSES AFFECTING VISION AND THALAMOCORTICAL FUNCTION, IT IS IMPORTANT THAT WE UNDERSTAND HOW THE THALAMUS AND CORTEX INTERACT TO MEET THE PROCESSING NEEDS OF THE BRAIN. THE PROPOSED STUDY WILL HAVE A MAJOR IMPACT ON OUR UNDERSTANDING OF HIGHER ORDER THALAMUS, CORTICAL COMMUNICATION, AND SUBSTRATES FOR DISEASE AND DYSFUNCTION.",
+    "total_obligation": 1466985,
+    "subaward_count": 1,
+    "total_subaward_amount": 365055,
+    "date_signed": "2024-06-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 573204.32,
+    "total_account_obligation": 1466985,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 573204.32
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1466985
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-01",
+      "end_date": "2028-06-30",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 573204.32
+  }
+}

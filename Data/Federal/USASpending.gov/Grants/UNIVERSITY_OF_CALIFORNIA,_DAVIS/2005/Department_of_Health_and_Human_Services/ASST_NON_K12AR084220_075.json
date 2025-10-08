@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89104328,
+    "Award ID": "K12AR084220",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1858572,
+    "Total Outlays": 860332.71,
+    "Description": "BUILDING INTERDISCIPLINARY RESEARCH CAREERS IN WOMEN'S HEALTH AT UC DAVIS - PROJECT SUMMARY IN THE PAST 14 YEARS, THE UC DAVIS BIRCWH PROGRAM HAS TRAINED A SIZEABLE, DIVERSE CADRE OF INTERDISCIPLINARY RESEARCHERS IN WOMEN'S HEALTH AND SEX DIFFERENCES AND HEIGHTENED THE VISIBILITY AND PROMINENCE OF THIS RESEARCH. WE WILL BUILD ON THIS STRONG FOUNDATION TO CREATE A NEXT-GENERATION BIRCWH PROGRAM, LED BY PI, DR. NANCY LANE, THAT INCREASES ITS INNOVATION AND IMPACT. WE AIM TO FOSTER AN ACADEMICALLY STIMULATING AND NURTURING ENVIRONMENT FOR RESEARCHERS IN WOMEN’S HEALTH AND SEX DIFFERENCES, TO FACILITATE THEIR CAREER DEVELOPMENT AND ENCOURAGE PARADIGM-SHIFTING, INTERDISCIPLINARY COLLABORATION, AND TEAM SCIENCE TO ADVANCE RESEARCH IN WOMEN’S HEALTH AND SEX DISPARITIES. OUR SHORT-TERM BIRCWH OBJECTIVES ARE TO: 1) PROVIDE IN-DEPTH, INDIVIDUALIZED TRAINING AND TEAM-BASED INTERDISCIPLINARY MENTORING TO SUPPORT THE INDEPENDENT CAREER DEVELOPMENT OF SCHOLARS IN INTERDISCIPLINARY WOMEN’S HEALTH AND SEX DIFFERENCES RESEARCH; AND 2) ADVANCE AND ACHIEVE HIGH-IMPACT WOMEN’S HEALTH AND SEX/GENDER DIFFERENCES RESEARCH BY ESTABLISHING CROSS- DISCIPLINARY COLLABORATIONS WITH UC DAVIS SCHOOLS THAT ADVANCE SCIENCE AND HEALTH. OUR LONG-TERM OBJECTIVES ARE TO: 1) IMPROVE WOMEN’S HEALTH BY ENHANCING UNDERSTANDING OF THE UNIQUE ASPECTS OF FEMALE SEX AND GENDER AND TRANSLATING THIS KNOWLEDGE TO CLINICAL PRACTICE; 2) DEVELOP TRANSFORMATIVE INTERDISCIPLINARY TEAM SCIENCE FOR WOMEN’S HEALTH AND SEX/ GENDER DISPARITIES RESEARCH; AND 3) TRAIN LEADERS IN INTERDISCIPLINARY WOMEN’S HEALTH AND SEX DIFFERENCES RESEARCH. TO ACCOMPLISH OUR OBJECTIVES, BIRCWH SCHOLARS WILL PARTICIPATE IN: 1) TEAM-BASED, INTERDISCIPLINARY MENTORED RESEARCH AND CAREER DEVELOPMENT ACTIVITIES; 2) CORE COURSES ON STUDY DESIGN, GRANT WRITING, BIOSTATISTICS, COMMUNICATION, TEAM SCIENCE AND RESPONSIBLE CONDUCT OF RESEARCH; 3) SUPPLEMENTAL COURSES TAILORED TO EACH SCHOLARS’ NEEDS AND INTERESTS; 4) TEAM-BASED INTERDISCIPLINARY RESEARCH; 5) INTEGRATED JOURNAL CLUBS; 6) MONTHLY BREAKFAST MEETINGS WITH THE PI AND RD TO DISCUSS RESEARCH AND CAREER PROGRESS; 7) A BIANNUAL SYMPOSIUM OF NORTHERN CALIFORNIA BIRCWH PROGRAMS; AND 8) THE SCHOOL OF MEDICINE (SOM) MENTORING ACADEMY, FOR MENTORS AND SCHOLARS TO BE TRAINED IN SKILLS TO OPTIMIZE MENTORING EXPERIENCES. OUR PROGRAM WILL LEVERAGE CAMPUS EXPERTISE IN FOUR RESEARCH AREAS: NEUROSCIENCE/PEDIATRIC NEURODEVELOPMENT/ BEHAVIOR; METABOLIC/INFLAMMATORY/NUTRITION-RELATED SYNDROMES; MUSCULOSKELETAL DISEASES AND AGING DISORDERS; AND CANCER/OPIOID ADDICTION. THESE AREAS WILL BE ADDRESSED THROUGH OUR BIRCWH CROSSCUTTING THEMES: 1) A LIFESPAN APPROACH TO UNDERSTANDING NORMAL DEVELOPMENT, ILLNESS/DISEASE, AND AGING; 2) SEX AND GENDER DETERMINANTS; 3) HEALTH DISPARITIES; AND 4) INTERDISCIPLINARY RESEARCH. THIS PROGRAM WILL FUND THREE SCHOLARS, EACH FOR A MINIMUM OF THREE YEARS, AND WE HAVE A FUNDING COMMITMENT FROM THE SOM TO SUPPORT AN ADDITIONAL SCHOLAR. ALL BIRCWH SCHOLARS MUST BE JUNIOR FACULTY WITHIN SIX YEARS OF THEIR TERMINAL DEGREE. ALL SELECTED SCHOLARS MUST ENGAGE IN INTERDISCIPLINARY WOMEN’S HEALTH AND/OR SEX/GENDER DISPARITIES, TEAM SCIENCE-BASED RESEARCH AND CREATE AN INDEPENDENT DEVELOPMENT PLAN FOR THEIR PATHWAY TO INDEPENDENCE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2005-09-01",
+    "End Date": "2030-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K12AR084220_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89104328,
+    "generated_unique_award_id": "ASST_NON_K12AR084220_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "BUILDING INTERDISCIPLINARY RESEARCH CAREERS IN WOMEN'S HEALTH AT UC DAVIS - PROJECT SUMMARY IN THE PAST 14 YEARS, THE UC DAVIS BIRCWH PROGRAM HAS TRAINED A SIZEABLE, DIVERSE CADRE OF INTERDISCIPLINARY RESEARCHERS IN WOMEN'S HEALTH AND SEX DIFFERENCES AND HEIGHTENED THE VISIBILITY AND PROMINENCE OF THIS RESEARCH. WE WILL BUILD ON THIS STRONG FOUNDATION TO CREATE A NEXT-GENERATION BIRCWH PROGRAM, LED BY PI, DR. NANCY LANE, THAT INCREASES ITS INNOVATION AND IMPACT. WE AIM TO FOSTER AN ACADEMICALLY STIMULATING AND NURTURING ENVIRONMENT FOR RESEARCHERS IN WOMEN’S HEALTH AND SEX DIFFERENCES, TO FACILITATE THEIR CAREER DEVELOPMENT AND ENCOURAGE PARADIGM-SHIFTING, INTERDISCIPLINARY COLLABORATION, AND TEAM SCIENCE TO ADVANCE RESEARCH IN WOMEN’S HEALTH AND SEX DISPARITIES. OUR SHORT-TERM BIRCWH OBJECTIVES ARE TO: 1) PROVIDE IN-DEPTH, INDIVIDUALIZED TRAINING AND TEAM-BASED INTERDISCIPLINARY MENTORING TO SUPPORT THE INDEPENDENT CAREER DEVELOPMENT OF SCHOLARS IN INTERDISCIPLINARY WOMEN’S HEALTH AND SEX DIFFERENCES RESEARCH; AND 2) ADVANCE AND ACHIEVE HIGH-IMPACT WOMEN’S HEALTH AND SEX/GENDER DIFFERENCES RESEARCH BY ESTABLISHING CROSS- DISCIPLINARY COLLABORATIONS WITH UC DAVIS SCHOOLS THAT ADVANCE SCIENCE AND HEALTH. OUR LONG-TERM OBJECTIVES ARE TO: 1) IMPROVE WOMEN’S HEALTH BY ENHANCING UNDERSTANDING OF THE UNIQUE ASPECTS OF FEMALE SEX AND GENDER AND TRANSLATING THIS KNOWLEDGE TO CLINICAL PRACTICE; 2) DEVELOP TRANSFORMATIVE INTERDISCIPLINARY TEAM SCIENCE FOR WOMEN’S HEALTH AND SEX/ GENDER DISPARITIES RESEARCH; AND 3) TRAIN LEADERS IN INTERDISCIPLINARY WOMEN’S HEALTH AND SEX DIFFERENCES RESEARCH. TO ACCOMPLISH OUR OBJECTIVES, BIRCWH SCHOLARS WILL PARTICIPATE IN: 1) TEAM-BASED, INTERDISCIPLINARY MENTORED RESEARCH AND CAREER DEVELOPMENT ACTIVITIES; 2) CORE COURSES ON STUDY DESIGN, GRANT WRITING, BIOSTATISTICS, COMMUNICATION, TEAM SCIENCE AND RESPONSIBLE CONDUCT OF RESEARCH; 3) SUPPLEMENTAL COURSES TAILORED TO EACH SCHOLARS’ NEEDS AND INTERESTS; 4) TEAM-BASED INTERDISCIPLINARY RESEARCH; 5) INTEGRATED JOURNAL CLUBS; 6) MONTHLY BREAKFAST MEETINGS WITH THE PI AND RD TO DISCUSS RESEARCH AND CAREER PROGRESS; 7) A BIANNUAL SYMPOSIUM OF NORTHERN CALIFORNIA BIRCWH PROGRAMS; AND 8) THE SCHOOL OF MEDICINE (SOM) MENTORING ACADEMY, FOR MENTORS AND SCHOLARS TO BE TRAINED IN SKILLS TO OPTIMIZE MENTORING EXPERIENCES. OUR PROGRAM WILL LEVERAGE CAMPUS EXPERTISE IN FOUR RESEARCH AREAS: NEUROSCIENCE/PEDIATRIC NEURODEVELOPMENT/ BEHAVIOR; METABOLIC/INFLAMMATORY/NUTRITION-RELATED SYNDROMES; MUSCULOSKELETAL DISEASES AND AGING DISORDERS; AND CANCER/OPIOID ADDICTION. THESE AREAS WILL BE ADDRESSED THROUGH OUR BIRCWH CROSSCUTTING THEMES: 1) A LIFESPAN APPROACH TO UNDERSTANDING NORMAL DEVELOPMENT, ILLNESS/DISEASE, AND AGING; 2) SEX AND GENDER DETERMINANTS; 3) HEALTH DISPARITIES; AND 4) INTERDISCIPLINARY RESEARCH. THIS PROGRAM WILL FUND THREE SCHOLARS, EACH FOR A MINIMUM OF THREE YEARS, AND WE HAVE A FUNDING COMMITMENT FROM THE SOM TO SUPPORT AN ADDITIONAL SCHOLAR. ALL BIRCWH SCHOLARS MUST BE JUNIOR FACULTY WITHIN SIX YEARS OF THEIR TERMINAL DEGREE. ALL SELECTED SCHOLARS MUST ENGAGE IN INTERDISCIPLINARY WOMEN’S HEALTH AND/OR SEX/GENDER DISPARITIES, TEAM SCIENCE-BASED RESEARCH AND CREATE AN INDEPENDENT DEVELOPMENT PLAN FOR THEIR PATHWAY TO INDEPENDENCE.",
+    "total_obligation": 1858572,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-07-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 860332.71,
+    "total_account_obligation": 1858572,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 860332.71
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1858572
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2005-09-01",
+      "end_date": "2030-08-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 860332.71
+  }
+}

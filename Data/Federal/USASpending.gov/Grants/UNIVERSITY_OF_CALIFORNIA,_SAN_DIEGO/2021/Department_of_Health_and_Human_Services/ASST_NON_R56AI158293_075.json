@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91361436,
+    "Award ID": "R56AI158293",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 756993,
+    "Total Outlays": 719641.97,
+    "Description": "IMPACT OF REPRODUCTIVE AGING ON HIV PERSISTENCE AND INFLAMMATION - ABSTRACT BACKGROUND. SEX-BASED DIFFERENCES, LARGELY CONTROLLED BY SEX HORMONES, AFFECT THE NATURAL AND TREATED HISTORY OF HIV INFECTION AND HIV-SPECIFIC IMMUNE RESPONSES. OUR PREVIOUS WORK HAS SHOWN THAT ESTROGEN POTENTLY REPRESSES HIV TRANSCRIPTION, THUS DECREASING CELLULAR HIV RNA IN WOMEN COMPARED TO MEN. WOMEN ALSO HAVE MORE ROBUST HIV-SPECIFIC IMMUNE RESPONSES THAN MEN, BUT MEN SHOW MORE PERIPHERAL T-CELL ACTIVATION AND PROLIFERATION. UNEXPECTEDLY, OUR PRELIMINARY DATA HAS SHOWN THAT WOMEN UNDERGOING REPRODUCTIVE AGING HAVE A PROGRESSIVE INCREASE IN LEVELS OF INDUCIBLE CELLULAR HIV RNA TRANSCRIPTION, WHEREAS MEN SHOW A PROGRESSIVE DECLINE IN THE HIV RESERVOIR AS THEY AGE. HOWEVER, OUR PRELIMINARY DATA LACK THE POWER TO DIRECTLY CORRELATE EXPANSION OF THE RESERVOIR WITH ESTROGEN LEVELS AND WE HAVE NOT IDENTIFIED THE UNDERLYING MECHANISMS LINKING ESTROGEN TO HIV PERSISTENCE. GIVEN THE INCREASING NUMBER OF WOMEN AGING WITH HIV, IT IS CRITICAL TO MORE PRECISELY DETERMINE THE INTERPLAY OF HIV PERSISTENCE AND DECLINING SEX HORMONES TO DESIGN EFFECTIVE HIV CURE STRATEGIES. OUR GOAL. FOR AIMS 1, WE WILL CHARACTERIZE EXTENSIVELY THE HIV RESERVOIR AND GENERATE IMMUNOLOGICAL DATA AT EACH TIME-POINT FOR 50 MIDLIFE WOMEN WITH HIV (NONE TAKING HORMONE THERAPY) ON ANTIRETROVIRAL THERAPY (ART) WITH SUPPRESSED HIV RNA AND ALREADY IDENTIFIED AS PART OF WOMEN'S INTERAGENCY HIV STUDY (WIHS) AND MACS/WIHS COMBINED COHORT STUDY (MWCCS). WE WILL USE THESE DATA TO DETERMINE THE EFFECT OF SEX HORMONES ON THE HIV RESERVOIR SIZE, TRANSCRIPTIONAL ACTIVITY AND INFLAMMATION OVER 10 YEARS OF FOLLOW-UP WHILE ON ART. FOR AIM 2 AND 3, WE WILL USE PROSPECTIVELY COLLECTED CELLS FROM PRE- AND POST-MENOPAUSAL WOMEN TO PERFORM DETAILED MECHANISTIC STUDIES AND TO EVALUATE WHETHER THE OBSERVED INCREASE IN THE INDUCIBLE HIV RESERVOIRS IS DUE TO CHANGES IN TRANSCRIPTIONAL ACTIVATION PROFILES OR HIV RESERVOIR DYNAMICS (IL-7 DRIVEN HOMEOSTATIC PROLIFERATION AND ANTIGEN MEDIATED PROLIFERATION) DURING REPRODUCTIVE AGING. HOW WILL WE ADVANCE THE FIELD? TO DATE, THE MAJORITY OF HIV CURE RESEARCH HAS USED MALE PARTICIPANTS AND THEREFORE A SIGNIFICANT KNOWLEDGE GAP EXISTS BETWEEN MEN AND WOMEN. WE DO NOT KNOW IF THE SAME IMMUNE- MODULATORY INTERVENTIONS WILL BE EFFECTIVE IN PROMOTING HIV RNA TRANSCRIPTION IN MEN AND WOMEN AND HOW DECLINING SEX HORMONES WILL IMPACT THEIR EFFICACY. IN PARTICULAR, AGENTS THAT ARE DESIGNED FOR “KICK AND KILL” STRATEGIES MAY BE ESPECIALLY IMPACTED BY ESTRADIOL-MEDIATED MECHANISMS. A BETTER UNDERSTANDING OF THESE DIFFERENCES WILL ASSIST IN THE DESIGN OF FUTURE CURE APPROACHES THAT CAN BE APPLIED ACROSS SEXES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "920930679",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-07-12",
+    "End Date": "2023-09-21",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R56AI158293_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91361436,
+    "generated_unique_award_id": "ASST_NON_R56AI158293_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "IMPACT OF REPRODUCTIVE AGING ON HIV PERSISTENCE AND INFLAMMATION - ABSTRACT BACKGROUND. SEX-BASED DIFFERENCES, LARGELY CONTROLLED BY SEX HORMONES, AFFECT THE NATURAL AND TREATED HISTORY OF HIV INFECTION AND HIV-SPECIFIC IMMUNE RESPONSES. OUR PREVIOUS WORK HAS SHOWN THAT ESTROGEN POTENTLY REPRESSES HIV TRANSCRIPTION, THUS DECREASING CELLULAR HIV RNA IN WOMEN COMPARED TO MEN. WOMEN ALSO HAVE MORE ROBUST HIV-SPECIFIC IMMUNE RESPONSES THAN MEN, BUT MEN SHOW MORE PERIPHERAL T-CELL ACTIVATION AND PROLIFERATION. UNEXPECTEDLY, OUR PRELIMINARY DATA HAS SHOWN THAT WOMEN UNDERGOING REPRODUCTIVE AGING HAVE A PROGRESSIVE INCREASE IN LEVELS OF INDUCIBLE CELLULAR HIV RNA TRANSCRIPTION, WHEREAS MEN SHOW A PROGRESSIVE DECLINE IN THE HIV RESERVOIR AS THEY AGE. HOWEVER, OUR PRELIMINARY DATA LACK THE POWER TO DIRECTLY CORRELATE EXPANSION OF THE RESERVOIR WITH ESTROGEN LEVELS AND WE HAVE NOT IDENTIFIED THE UNDERLYING MECHANISMS LINKING ESTROGEN TO HIV PERSISTENCE. GIVEN THE INCREASING NUMBER OF WOMEN AGING WITH HIV, IT IS CRITICAL TO MORE PRECISELY DETERMINE THE INTERPLAY OF HIV PERSISTENCE AND DECLINING SEX HORMONES TO DESIGN EFFECTIVE HIV CURE STRATEGIES. OUR GOAL. FOR AIMS 1, WE WILL CHARACTERIZE EXTENSIVELY THE HIV RESERVOIR AND GENERATE IMMUNOLOGICAL DATA AT EACH TIME-POINT FOR 50 MIDLIFE WOMEN WITH HIV (NONE TAKING HORMONE THERAPY) ON ANTIRETROVIRAL THERAPY (ART) WITH SUPPRESSED HIV RNA AND ALREADY IDENTIFIED AS PART OF WOMEN'S INTERAGENCY HIV STUDY (WIHS) AND MACS/WIHS COMBINED COHORT STUDY (MWCCS). WE WILL USE THESE DATA TO DETERMINE THE EFFECT OF SEX HORMONES ON THE HIV RESERVOIR SIZE, TRANSCRIPTIONAL ACTIVITY AND INFLAMMATION OVER 10 YEARS OF FOLLOW-UP WHILE ON ART. FOR AIM 2 AND 3, WE WILL USE PROSPECTIVELY COLLECTED CELLS FROM PRE- AND POST-MENOPAUSAL WOMEN TO PERFORM DETAILED MECHANISTIC STUDIES AND TO EVALUATE WHETHER THE OBSERVED INCREASE IN THE INDUCIBLE HIV RESERVOIRS IS DUE TO CHANGES IN TRANSCRIPTIONAL ACTIVATION PROFILES OR HIV RESERVOIR DYNAMICS (IL-7 DRIVEN HOMEOSTATIC PROLIFERATION AND ANTIGEN MEDIATED PROLIFERATION) DURING REPRODUCTIVE AGING. HOW WILL WE ADVANCE THE FIELD? TO DATE, THE MAJORITY OF HIV CURE RESEARCH HAS USED MALE PARTICIPANTS AND THEREFORE A SIGNIFICANT KNOWLEDGE GAP EXISTS BETWEEN MEN AND WOMEN. WE DO NOT KNOW IF THE SAME IMMUNE- MODULATORY INTERVENTIONS WILL BE EFFECTIVE IN PROMOTING HIV RNA TRANSCRIPTION IN MEN AND WOMEN AND HOW DECLINING SEX HORMONES WILL IMPACT THEIR EFFICACY. IN PARTICULAR, AGENTS THAT ARE DESIGNED FOR “KICK AND KILL” STRATEGIES MAY BE ESPECIALLY IMPACTED BY ESTRADIOL-MEDIATED MECHANISMS. A BETTER UNDERSTANDING OF THESE DIFFERENCES WILL ASSIST IN THE DESIGN OF FUTURE CURE APPROACHES THAT CAN BE APPLIED ACROSS SEXES.",
+    "total_obligation": 756993,
+    "subaward_count": 2,
+    "total_subaward_amount": 330284,
+    "date_signed": "2021-07-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 719641.97,
+    "total_account_obligation": 756993,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 719641.97
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 756993
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2021-07-12",
+      "end_date": "2023-09-21",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0679",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 719641.97
+  }
+}

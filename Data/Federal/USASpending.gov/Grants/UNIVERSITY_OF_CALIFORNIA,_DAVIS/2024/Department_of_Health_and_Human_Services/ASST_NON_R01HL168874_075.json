@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91218863,
+    "Award ID": "R01HL168874",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1270448,
+    "Total Outlays": 587868.09,
+    "Description": "METABOLIC CONTROL OF CARDIAC PACEMAKING - PROJECT SUMMARY THE CARDIAC CYCLE STARTS WITH THE PRODUCTION OF AN ACTION POTENTIAL (AP) BY PACEMAKING CELLS IN THE SINO-ATRIAL NODE (SAN), INITIATING THE PROPAGATION OF ELECTRICAL SIGNALS THAT TRIGGER ATRIAL AND VENTRICULAR CONTRACTION. WE HAVE DISCOVERED THAT THE ORGANIZATION OF THE SAN MICROVASCULATURE VARIES REGIONALLY, A VARIABILITY THAT SERVES TO MATCH BLOOD SUPPLY TO LOCAL MYOCYTE EXCITABILITY. THESE OBSERVATIONS HAVE LED US TO PROPOSE A NEW MODEL FOR THE METABOLIC CONTROL OF EXCITABILITY AND CARDIAC PACEMAKING ACTIVITY. IN OUR MODEL, THE HIGHLY VASCULARIZED SUPERIOR SAN IS POPULATED BY MYOCYTES CAPABLE OF UNDERGOING PERIODIC VOLTAGE OSCILLATIONS, SOME OF WHICH DO NOT REACH AP THRESHOLD. DESPITE THESE FAILURES, THE MANY OSCILLATIONS THAT DO REACH THRESHOLD CAN STILL ENABLE SUPERIOR SAN MYOCYTES TO EXHIBIT A HIGH INTRINSIC AP FIRING RATE, EVEN IF THEIR PERIODICITY IS NOT OPTIMAL. BY CONTRAST, INFERIOR SAN MYOCYTES ARE SPARSELY VASCULARIZED AND HAVE A LOW AP FIRING RATE. IMPORTANTLY, INFERIOR SAN CELLS PRODUCE STOCHASTIC SUBTHRESHOLD ELECTRICAL SIGNALS. WE PROPOSE THAT, WHEN THESE SUBTHRESHOLD EVENTS COINCIDE WITH AN ELECTRICAL SIGNAL FROM THE MORE PERIODIC VOLTAGE OSCILLATOR IN THE SUPERIOR SAN, THE SUBTHRESHOLD SIGNAL EVENTS INTEGRATE AND, AT THEIR PEAKS, INCREASE THE PROBABILITY OF THE SUPERIOR SAN CROSSING THE THRESHOLD AND GENERATING AN AP. ACCORDINGLY, INFERIOR SAN CELLS THAT PRODUCE THESE RANDOM ELECTRICAL SIGNALS ACT THROUGH A STOCHASTIC RESONANCE MECHANISM TO INCREASE THE STRENGTH AND PERIODICITY OF SUPERIOR SAN ACTIVATION. A KEY FEATURE OF OUR PROPOSED CONCEPTUAL MODEL IS THAT INFERIOR SAN MYOCYTES DO NOT FIRE APS AT HIGH FREQUENCIES FOR PROLONGED PERIODS OF TIME BECAUSE THEY DO NOT GENERATE ATP AT THE RATE NECESSARY TO SUSTAIN A HIGH LEVEL OF ELECTRICAL ACTIVITY. CONSISTENT WITH THIS, WE DISCOVERED THAT, CONTRARY TO THE PREVAILING VIEW, APS INDUCE RAPID FLUCTUATIONS IN ATP LEVELS IN SAN MYOCYTES, INDICATING THAT ELECTRICAL ACTIVITY HAS AN IMPACT ON THE ENERGETIC RESERVE OF MYOCYTES. THUS, A COMBINATION OF REGIONAL VARIATIONS IN VASCULAR SUPPLY AND ATP DYNAMICS HELP DETERIMINE SUPERIOR AND INFERIOR SAN EXCITABILITY. WE WILL TEST THE HYPOTHESIS THAT CHANGES IN VASCULAR SUPPLY TO THE NODE IMPACT MYOCYTE ATP DYNAMICS, EXCITABILITY AND, HENCE, PACEMAKING ACTIVITY DURING THE DEVELOPMENT OF HEART FAILURE. A CENTRAL PREMISE OF THIS PROJECT IS THAT VASCULAR SUPPLY, PACEMAKING ACTIVITY, AND ATP DYNAMICS IN SAN MYOCYTES ARE INEXTRICABLY INTERTWINED. THE PROJECT WILL TEST THE PHYSIOLOGICAL AND PATHOLOGICAL IMPLICATIONS OF OUR CONCEPTUAL MODEL WITH THREE SPECIFIC AIMS. SPECIFIC AIM 1 TESTS THE HYPOTHESIS THAT STOCHASTIC RESONANCE INCREASES THE PERIODICITY OF SAN MYOCYTES. SPECIFIC AIM 2 TESTS THE HYPOTHESIS THAT ATP CONSUMPTION FLUCTUATES IN SAN MYOCYTES IN A BEAT-TO-BEAT FASHION AND VARIES REGIONALLY. SPECIFIC AIM 3 TESTS THE HYPOTHESIS THAT CHANGES IN VASCULAR SUPPLY TO THE SAN, AS WELL AS MYOCYTE ATP DYNAMICS AND STOCHASTIC RESONANCE, CONTRIBUTE TO ALTERATIONS IN PACEMAKING ACTIVITY DURING THE DEVELOPMENT OF HEART FAILURE. THE PROPOSED STUDIES OFFER AN ALTERNATIVE TO THE PREDOMINANT ENTRAINMENT PACEMAKING PARADIGM AND HAVE THE POTENTIAL TO RADICALLY TRANSFORM OUR UNDERSTANDING OF HOW THE EXCITABILITY OF SAN MYOCYTES IS REGULATED IN HEALTH AND DISEASE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-07-01",
+    "End Date": "2028-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL168874_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91218863,
+    "generated_unique_award_id": "ASST_NON_R01HL168874_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "METABOLIC CONTROL OF CARDIAC PACEMAKING - PROJECT SUMMARY THE CARDIAC CYCLE STARTS WITH THE PRODUCTION OF AN ACTION POTENTIAL (AP) BY PACEMAKING CELLS IN THE SINO-ATRIAL NODE (SAN), INITIATING THE PROPAGATION OF ELECTRICAL SIGNALS THAT TRIGGER ATRIAL AND VENTRICULAR CONTRACTION. WE HAVE DISCOVERED THAT THE ORGANIZATION OF THE SAN MICROVASCULATURE VARIES REGIONALLY, A VARIABILITY THAT SERVES TO MATCH BLOOD SUPPLY TO LOCAL MYOCYTE EXCITABILITY. THESE OBSERVATIONS HAVE LED US TO PROPOSE A NEW MODEL FOR THE METABOLIC CONTROL OF EXCITABILITY AND CARDIAC PACEMAKING ACTIVITY. IN OUR MODEL, THE HIGHLY VASCULARIZED SUPERIOR SAN IS POPULATED BY MYOCYTES CAPABLE OF UNDERGOING PERIODIC VOLTAGE OSCILLATIONS, SOME OF WHICH DO NOT REACH AP THRESHOLD. DESPITE THESE FAILURES, THE MANY OSCILLATIONS THAT DO REACH THRESHOLD CAN STILL ENABLE SUPERIOR SAN MYOCYTES TO EXHIBIT A HIGH INTRINSIC AP FIRING RATE, EVEN IF THEIR PERIODICITY IS NOT OPTIMAL. BY CONTRAST, INFERIOR SAN MYOCYTES ARE SPARSELY VASCULARIZED AND HAVE A LOW AP FIRING RATE. IMPORTANTLY, INFERIOR SAN CELLS PRODUCE STOCHASTIC SUBTHRESHOLD ELECTRICAL SIGNALS. WE PROPOSE THAT, WHEN THESE SUBTHRESHOLD EVENTS COINCIDE WITH AN ELECTRICAL SIGNAL FROM THE MORE PERIODIC VOLTAGE OSCILLATOR IN THE SUPERIOR SAN, THE SUBTHRESHOLD SIGNAL EVENTS INTEGRATE AND, AT THEIR PEAKS, INCREASE THE PROBABILITY OF THE SUPERIOR SAN CROSSING THE THRESHOLD AND GENERATING AN AP. ACCORDINGLY, INFERIOR SAN CELLS THAT PRODUCE THESE RANDOM ELECTRICAL SIGNALS ACT THROUGH A STOCHASTIC RESONANCE MECHANISM TO INCREASE THE STRENGTH AND PERIODICITY OF SUPERIOR SAN ACTIVATION. A KEY FEATURE OF OUR PROPOSED CONCEPTUAL MODEL IS THAT INFERIOR SAN MYOCYTES DO NOT FIRE APS AT HIGH FREQUENCIES FOR PROLONGED PERIODS OF TIME BECAUSE THEY DO NOT GENERATE ATP AT THE RATE NECESSARY TO SUSTAIN A HIGH LEVEL OF ELECTRICAL ACTIVITY. CONSISTENT WITH THIS, WE DISCOVERED THAT, CONTRARY TO THE PREVAILING VIEW, APS INDUCE RAPID FLUCTUATIONS IN ATP LEVELS IN SAN MYOCYTES, INDICATING THAT ELECTRICAL ACTIVITY HAS AN IMPACT ON THE ENERGETIC RESERVE OF MYOCYTES. THUS, A COMBINATION OF REGIONAL VARIATIONS IN VASCULAR SUPPLY AND ATP DYNAMICS HELP DETERIMINE SUPERIOR AND INFERIOR SAN EXCITABILITY. WE WILL TEST THE HYPOTHESIS THAT CHANGES IN VASCULAR SUPPLY TO THE NODE IMPACT MYOCYTE ATP DYNAMICS, EXCITABILITY AND, HENCE, PACEMAKING ACTIVITY DURING THE DEVELOPMENT OF HEART FAILURE. A CENTRAL PREMISE OF THIS PROJECT IS THAT VASCULAR SUPPLY, PACEMAKING ACTIVITY, AND ATP DYNAMICS IN SAN MYOCYTES ARE INEXTRICABLY INTERTWINED. THE PROJECT WILL TEST THE PHYSIOLOGICAL AND PATHOLOGICAL IMPLICATIONS OF OUR CONCEPTUAL MODEL WITH THREE SPECIFIC AIMS. SPECIFIC AIM 1 TESTS THE HYPOTHESIS THAT STOCHASTIC RESONANCE INCREASES THE PERIODICITY OF SAN MYOCYTES. SPECIFIC AIM 2 TESTS THE HYPOTHESIS THAT ATP CONSUMPTION FLUCTUATES IN SAN MYOCYTES IN A BEAT-TO-BEAT FASHION AND VARIES REGIONALLY. SPECIFIC AIM 3 TESTS THE HYPOTHESIS THAT CHANGES IN VASCULAR SUPPLY TO THE SAN, AS WELL AS MYOCYTE ATP DYNAMICS AND STOCHASTIC RESONANCE, CONTRIBUTE TO ALTERATIONS IN PACEMAKING ACTIVITY DURING THE DEVELOPMENT OF HEART FAILURE. THE PROPOSED STUDIES OFFER AN ALTERNATIVE TO THE PREDOMINANT ENTRAINMENT PACEMAKING PARADIGM AND HAVE THE POTENTIAL TO RADICALLY TRANSFORM OUR UNDERSTANDING OF HOW THE EXCITABILITY OF SAN MYOCYTES IS REGULATED IN HEALTH AND DISEASE.",
+    "total_obligation": 1270448,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-06-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 587868.09,
+    "total_account_obligation": 1270448,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 587868.09
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1270448
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-01",
+      "end_date": "2028-05-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 587868.09
+  }
+}

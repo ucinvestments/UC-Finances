@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56659260,
+    "Award ID": "2150298",
+    "Recipient Name": "RIO HONDO COMMUNITY COLLEGE DISTRICT",
+    "Award Amount": 999504,
+    "Total Outlays": 275179,
+    "Description": "TRANSITIONS AND RESEARCH ACROSS INTERFACES (TRAINS) -WITH SUPPORT FROM THE IMPROVING UNDERGRADUATE STEM EDUCATION: HISPANIC-SERVING INSTITUTIONS (HSI PROGRAM), THIS TRACK 2: IEP AIMS TO TRANSITION STUDENTS AT HSI COMMUNITY COLLEGES TO BACCALAUREATE-GRANTING INSTITUTIONS WITH A DECLARED MAJOR IN A SCIENCE, TECHNOLOGY, ENGINEERING, OR MATHEMATICS (STEM) DISCIPLINE. DESPITE THE SOCIAL, ECONOMIC, AND INNOVATION BENEFITS OF A DIVERSE WORKFORCE IN STEM FIELDS, GRADUATES IN THESE FIELDS DO NOT REFLECT THE INCLUSIVE COMMUNITY NECESSARY FOR AMERICA TO COMPETE GLOBALLY. ALTHOUGH 18% OF THE AMERICAN POPULATION IDENTIFIES AS BEING NON-WHITE HISPANIC, BACHELOR?S DEGREES IN STEM FIELDS AT BACCALAUREATE-GRANTING INSTITUTIONS ARE AWARDED AT A DRAMATICALLY LOWER RATE TO HISPANIC STUDENTS. COMMUNITY COLLEGES ARE IN A POSITION TO ADDRESS THIS DISPARITY WITH 27% OF ALL COMMUNITY COLLEGE STUDENTS IDENTIFYING AS HISPANIC AND OVER 200 COMMUNITY COLLEGES THAT HAVE BEEN FEDERALLY RECOGNIZED AS HSIS. THIS PROJECT, TRANSITIONS AND RESEARCH ACROSS INTERFACES (TRAINS), WILL FACILITATE THE TRANSITION OF STUDENTS AT RIO HONDO COLLEGE, AN HSI COMMUNITY COLLEGE, INTO FUTURE LEADERS IN STEM FIELDS THROUGH AN INTENSIVE, 15-MONTH CLASSROOM/RESEARCH LABORATORY EXPERIENCE AT RIO HONDO COLLEGE AND THE UNIVERSITY OF SOUTHERN CALIFORNIA. BY PROVIDING CAREER COUNSELING, LABORATORY TRAINING, AND DIRECT MENTORING, TRAINS WILL SEEK TO REVERSE THE LOSS OF INTEREST IN STEM FIELDS AMONGST COMMUNITY COLLEGE STUDENTS AND PROVIDE THE OPPORTUNITY FOR STUDENTS TO TRANSFER TO BACCALAUREATE-GRANTING INSTITUTIONS WHERE THEY MAY GRADUATE AND PURSUE A CAREER IN A STEM FIELD. THROUGH DATA ACQUIRED THROUGH THIS PROGRAM, TRAINS WILL EVENTUALLY PRESENT A MODULAR STRATEGY THAT CAN BE REPLICATED AT OTHER POPULATION CENTERS (THAT CONTAIN COMMUNITY COLLEGES AND RESEARCH UNIVERSITIES) AND FUNDAMENTALLY REDEFINE THE ROLE OF COMMUNITY COLLEGES AS A STRATEGIC RESOURCE FOR AMERICA?S SCIENTIFIC AND ENGINEERING WORKFORCE. BEYOND THE PRIMARY AIM OF SUCCESSFULLY INCREASING THE RATE AT WHICH RIO HONDO STUDENTS TRANSFER TO BACCALAUREATE-GRANTING INSTITUTION AND EVENTUALLY PURSUE A CAREER IN A STEM FIELD, TRAINS WILL ALSO DEVELOP A COHORT OF GRADUATE STUDENTS/POSTDOCTORAL FELLOWS THAT CAN MENTOR NON-TRADITIONAL STUDENTS AND ADVANCE KNOWLEDGE ON SUPPORTING STUDENTS TO OVERCOMING CULTURAL BARRIERS THAT LEAD TO ATTRITION IN INTEREST IN STEM FIELDS. THESE AIMS WILL BE FACILITATED BY PROGRAM EVALUATION SPECIALISTS AT THE CENTER FOR SCIENCE AND ENGINEERING PARTNERSHIPS (CSEP) AT THE UNIVERSITY OF CALIFORNIA, SANTA BARBARA AND EDUCATION RESEARCH TEAM AT HIGH POINT UNIVERSITY. CSEP WILL ENSURE PROGRESS TOWARDS PROGRAM OBJECTIVES THROUGH TIMELY FEEDBACK VIA FOCUS GROUPS AND TRACKING SURVEYS. THE EDUCATION RESEARCH TEAM WILL FOCUS ON TESTING NOVEL STRATEGIES AND REFINING BEST PRACTICES TO INCREASE THE PERSISTENCE FOR NON-TRADITIONAL STUDENTS TO MAINTAIN THEIR INTEREST IN STEM FIELDS. THE RESULTS OF THIS PROGRAM WILL BE DISSEMINATED THROUGH EDUCATION RESEARCH JOURNALS AND PROMOTION AT REGIONAL/NATIONAL CONFERENCES. FURTHERMORE, WITH OVER 200,000 STUDENTS THAT ATTEND HSI COMMUNITY COLLEGES WITHIN 15 MILES OF THE UNIVERSITY PARK CAMPUS AT THE UNIVERSITY OF SOUTHERN CALIFORNIA, THIS PROGRAM CONTAINS OPPORTUNITIES FOR EXPANSION AND CAN SERVE AS A MODEL BY WHICH OTHER REGIONS INTEGRATE COMMUNITY COLLEGE STUDENTS INTO RESEARCH ENRICHED PROGRAMS. THE HSI PROGRAM AIMS TO ENHANCE UNDERGRADUATE STEM EDUCATION AND BUILD CAPACITY AT HSIS. PROJECTS SUPPORTED BY THE HSI PROGRAM WILL ALSO GENERATE NEW KNOWLEDGE ON HOW TO ACHIEVE THESE AIMS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "JQP9BUWF5DN9",
+    "Recipient Location": {
+      "address_line1": "3600 WORKMAN MILL RD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "WHITTIER",
+      "congressional_code": "31",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1616",
+      "zip5": "90601"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "37",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "90089-0484",
+      "zip5": "90089"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-03-01",
+    "End Date": "2025-05-02",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9cd0f0f6-3f15-a689-7f5e-60ac8961c6fc-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2150298_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56659260,
+    "generated_unique_award_id": "ASST_NON_2150298_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TRANSITIONS AND RESEARCH ACROSS INTERFACES (TRAINS) -WITH SUPPORT FROM THE IMPROVING UNDERGRADUATE STEM EDUCATION: HISPANIC-SERVING INSTITUTIONS (HSI PROGRAM), THIS TRACK 2: IEP AIMS TO TRANSITION STUDENTS AT HSI COMMUNITY COLLEGES TO BACCALAUREATE-GRANTING INSTITUTIONS WITH A DECLARED MAJOR IN A SCIENCE, TECHNOLOGY, ENGINEERING, OR MATHEMATICS (STEM) DISCIPLINE. DESPITE THE SOCIAL, ECONOMIC, AND INNOVATION BENEFITS OF A DIVERSE WORKFORCE IN STEM FIELDS, GRADUATES IN THESE FIELDS DO NOT REFLECT THE INCLUSIVE COMMUNITY NECESSARY FOR AMERICA TO COMPETE GLOBALLY. ALTHOUGH 18% OF THE AMERICAN POPULATION IDENTIFIES AS BEING NON-WHITE HISPANIC, BACHELOR?S DEGREES IN STEM FIELDS AT BACCALAUREATE-GRANTING INSTITUTIONS ARE AWARDED AT A DRAMATICALLY LOWER RATE TO HISPANIC STUDENTS. COMMUNITY COLLEGES ARE IN A POSITION TO ADDRESS THIS DISPARITY WITH 27% OF ALL COMMUNITY COLLEGE STUDENTS IDENTIFYING AS HISPANIC AND OVER 200 COMMUNITY COLLEGES THAT HAVE BEEN FEDERALLY RECOGNIZED AS HSIS. THIS PROJECT, TRANSITIONS AND RESEARCH ACROSS INTERFACES (TRAINS), WILL FACILITATE THE TRANSITION OF STUDENTS AT RIO HONDO COLLEGE, AN HSI COMMUNITY COLLEGE, INTO FUTURE LEADERS IN STEM FIELDS THROUGH AN INTENSIVE, 15-MONTH CLASSROOM/RESEARCH LABORATORY EXPERIENCE AT RIO HONDO COLLEGE AND THE UNIVERSITY OF SOUTHERN CALIFORNIA. BY PROVIDING CAREER COUNSELING, LABORATORY TRAINING, AND DIRECT MENTORING, TRAINS WILL SEEK TO REVERSE THE LOSS OF INTEREST IN STEM FIELDS AMONGST COMMUNITY COLLEGE STUDENTS AND PROVIDE THE OPPORTUNITY FOR STUDENTS TO TRANSFER TO BACCALAUREATE-GRANTING INSTITUTIONS WHERE THEY MAY GRADUATE AND PURSUE A CAREER IN A STEM FIELD. THROUGH DATA ACQUIRED THROUGH THIS PROGRAM, TRAINS WILL EVENTUALLY PRESENT A MODULAR STRATEGY THAT CAN BE REPLICATED AT OTHER POPULATION CENTERS (THAT CONTAIN COMMUNITY COLLEGES AND RESEARCH UNIVERSITIES) AND FUNDAMENTALLY REDEFINE THE ROLE OF COMMUNITY COLLEGES AS A STRATEGIC RESOURCE FOR AMERICA?S SCIENTIFIC AND ENGINEERING WORKFORCE. BEYOND THE PRIMARY AIM OF SUCCESSFULLY INCREASING THE RATE AT WHICH RIO HONDO STUDENTS TRANSFER TO BACCALAUREATE-GRANTING INSTITUTION AND EVENTUALLY PURSUE A CAREER IN A STEM FIELD, TRAINS WILL ALSO DEVELOP A COHORT OF GRADUATE STUDENTS/POSTDOCTORAL FELLOWS THAT CAN MENTOR NON-TRADITIONAL STUDENTS AND ADVANCE KNOWLEDGE ON SUPPORTING STUDENTS TO OVERCOMING CULTURAL BARRIERS THAT LEAD TO ATTRITION IN INTEREST IN STEM FIELDS. THESE AIMS WILL BE FACILITATED BY PROGRAM EVALUATION SPECIALISTS AT THE CENTER FOR SCIENCE AND ENGINEERING PARTNERSHIPS (CSEP) AT THE UNIVERSITY OF CALIFORNIA, SANTA BARBARA AND EDUCATION RESEARCH TEAM AT HIGH POINT UNIVERSITY. CSEP WILL ENSURE PROGRESS TOWARDS PROGRAM OBJECTIVES THROUGH TIMELY FEEDBACK VIA FOCUS GROUPS AND TRACKING SURVEYS. THE EDUCATION RESEARCH TEAM WILL FOCUS ON TESTING NOVEL STRATEGIES AND REFINING BEST PRACTICES TO INCREASE THE PERSISTENCE FOR NON-TRADITIONAL STUDENTS TO MAINTAIN THEIR INTEREST IN STEM FIELDS. THE RESULTS OF THIS PROGRAM WILL BE DISSEMINATED THROUGH EDUCATION RESEARCH JOURNALS AND PROMOTION AT REGIONAL/NATIONAL CONFERENCES. FURTHERMORE, WITH OVER 200,000 STUDENTS THAT ATTEND HSI COMMUNITY COLLEGES WITHIN 15 MILES OF THE UNIVERSITY PARK CAMPUS AT THE UNIVERSITY OF SOUTHERN CALIFORNIA, THIS PROGRAM CONTAINS OPPORTUNITIES FOR EXPANSION AND CAN SERVE AS A MODEL BY WHICH OTHER REGIONS INTEGRATE COMMUNITY COLLEGE STUDENTS INTO RESEARCH ENRICHED PROGRAMS. THE HSI PROGRAM AIMS TO ENHANCE UNDERGRADUATE STEM EDUCATION AND BUILD CAPACITY AT HSIS. PROJECTS SUPPORTED BY THE HSI PROGRAM WILL ALSO GENERATE NEW KNOWLEDGE ON HOW TO ACHIEVE THESE AIMS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 999504,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-02-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 513375,
+    "total_account_obligation": 513375,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 513375
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 513375
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF EQUITY FOR EXCELLENCE IN STEM"
+    },
+    "period_of_performance": {
+      "start_date": "2022-03-01",
+      "end_date": "2025-05-02",
+      "last_modified_date": "2025-06-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9cd0f0f6-3f15-a689-7f5e-60ac8961c6fc-C",
+      "recipient_name": "RIO HONDO COMMUNITY COLLEGE DISTRICT",
+      "recipient_uei": "JQP9BUWF5DN9",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "9cd0f0f6-3f15-a689-7f5e-60ac8961c6fc-P",
+      "parent_recipient_name": "RIO HONDO COMMUNITY COLLEGE DISTRICT",
+      "parent_recipient_uei": "JQP9BUWF5DN9",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "WHITTIER",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "3600 WORKMAN MILL RD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "31",
+        "zip4": "1616",
+        "zip5": "90601",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "37",
+      "zip4": "0484",
+      "zip5": "90089",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 513375
+  }
+}

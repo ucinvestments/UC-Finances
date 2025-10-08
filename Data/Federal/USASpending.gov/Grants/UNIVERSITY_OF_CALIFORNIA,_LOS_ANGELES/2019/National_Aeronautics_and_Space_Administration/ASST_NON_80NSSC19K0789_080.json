@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74727581,
+    "Award ID": "80NSSC19K0789",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 594486,
+    "Total Outlays": 520191.52,
+    "Description": "MERCURY  THE CLOSEST PLANET TO THE SUN  HAS THE WEAKEST ATMOSPHERE AND IONOSPHERE AMONG THE TERRESTRIAL PLANETS AND HENCE CHARGED PARTICLES (IONS AND ELECTRONS) FROM SPACE CAN DIRECTLY PRECIPITATE AND IMPACT THE REGOLITH AND ANY SURFACE MATERIALS SUCH AS VOLATILES. FURTHERMORE MERCURY HAS A SIGNIFICANT INTERNAL DIPOLE MAGNETIC FIELD  AND ITS MAGNETOSPHERE ENVELOPS THE PLANET  WHICH INFLUENCES THE MOTION AND ENERGIZATION OF CHARGED PARTICLES  AND ALSO DETERMINES THE LOCATION OF WHERE CHARGED PARTICLES PRECIPITATE ONTO MERCURY'S SURFACE. IN GENERAL  PRECIPITATING PARTICLES ARE FOCUSED TOWARDS HIGH NORTHERN AND SOUTHERN LATITUDES IN REGIONS SUCH AS THE CUSP ON THE DAYSIDE AND IN AURORAL-OVAL TYPE LOCATIONS ON THE NIGHTSIDE WHERE THE CONVERGING DIPOLE MAGNETIC FIELD FUNNELS PARTICLES TO THE SURFACE. THE ENERGY OF THE PRECIPITATING PARTICLES AND THE LATITUDINAL LOCATIONS OF THESE NORTHERN AND SOUTHERN PRECIPITATION REGIONS CAN VARY GREATLY DUE TO EVER-CHANGING SOLAR WIND DYNAMIC PRESSURE AND FIELD POLARITY. THE CHARGED PARTICLE PRECIPITATION CAN HAVE A NUMBER OF CONSEQUENCES FOR THE PLANET'S SURFACE INCLUDING SPUTTERING OF SURFACE PARTICLES IN BOTH NEUTRAL AND IONIZED FORM  AND SPACE WEATHERING IN TERMS OF DARKENING AND ALTERING THE SURFACE REGOLITH. IN THIS PROJECT WE WILL EXAMINE HERE THE CONSEQUENCES OF CHARGED PARTICLE PRECIPITATION ONTO VERY HIGH LATITUDE NORTHERN POLAR REGIONS WHERE FROZEN WATER ICE DEPOSITS HAVE BEEN OBSERVED IN PERMANENTLY SHADOWED CRATERS. IT HAS BEEN SHOWN THAT CHARGED PARTICLES PRECIPITATING IN THESE REGIONS MAY CAUSE THE BUILDUP OF A LAYER OF DARKENED MATERIAL OBSERVED TO COVER PORTIONS OF THE WATER ICE. THE RESEARCH APPROACH WILL BE TO USE A STATE-OF-ART THREEDIMENSIONAL GLOBAL KINETIC MODEL OF ION AND ELECTRON PARTICLE MOTION IN MERCURY'S MAGNETOSPHERE AND EXAMINE THE PRECIPITATING FLUX DISTRIBUTION INTO THE PERMANENTLY SHADOWED REGIONS (PSR) AS A FUNCTION OF SOLAR WIND CONDITIONS. THE PRECIPITATING FLUX WILL BE QUANTIFIED IN DETAIL OVER A WIDE ENERGY RANGE (EV-MEV) AND TIME-AVERAGED OVER LONG PERIODS. USING THESE RESULTS THE GEOCHEMICAL REACTIONS THAT CAN OCCUR BETWEEN THE PRECIPITATING PARTICLES AND THE SURFACE MATERIAL IN THE PSRS  WHICH CAN INCLUDE CARBON-BASED ORGANICS  WILL BE CALCULATED AND SPECIFIED. MESSENGER SPACECRAFT DATA WILL BE USED TO GUIDE AND CONSTRAIN THE MODELING STUDY AND TO COMPARE WITH THE RESULTS. THE MULTI-DISCIPLINARY SCIENTIFIC RESEARCH PROGRAM PROPOSED HERE IS HIGHLY RELEVANT TO THE GOALS OF THE SOLAR SYSTEM WORKINGS INITIATIVE  IN PARTICULAR  CHARACTERIZING MAGNETOSPHERIC PROCESSES AND DYNAMICS  AND DETERMINING PLASMA INTERACTIONS WITH STRUCTURES AND BODIES. THIS RESEARCH PROJECT ALSO ADDRESSES THE NASA HIGH LEVEL SCIENCE GOALS OF DETERMINING THE INTERACTION OF THE SUN WITH THE SOLAR SYSTEM AND CHARACTERIZING FUNDAMENTAL PROCESSES THAT OCCUR BOTH WITHIN THE HELIOSPHERE AND THROUGHOUT THE UNIVERSE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "90095"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "90095-1302",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2019-04-08",
+    "End Date": "2024-04-07",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC19K0789_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74727581,
+    "generated_unique_award_id": "ASST_NON_80NSSC19K0789_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MERCURY  THE CLOSEST PLANET TO THE SUN  HAS THE WEAKEST ATMOSPHERE AND IONOSPHERE AMONG THE TERRESTRIAL PLANETS AND HENCE CHARGED PARTICLES (IONS AND ELECTRONS) FROM SPACE CAN DIRECTLY PRECIPITATE AND IMPACT THE REGOLITH AND ANY SURFACE MATERIALS SUCH AS VOLATILES. FURTHERMORE MERCURY HAS A SIGNIFICANT INTERNAL DIPOLE MAGNETIC FIELD  AND ITS MAGNETOSPHERE ENVELOPS THE PLANET  WHICH INFLUENCES THE MOTION AND ENERGIZATION OF CHARGED PARTICLES  AND ALSO DETERMINES THE LOCATION OF WHERE CHARGED PARTICLES PRECIPITATE ONTO MERCURY'S SURFACE. IN GENERAL  PRECIPITATING PARTICLES ARE FOCUSED TOWARDS HIGH NORTHERN AND SOUTHERN LATITUDES IN REGIONS SUCH AS THE CUSP ON THE DAYSIDE AND IN AURORAL-OVAL TYPE LOCATIONS ON THE NIGHTSIDE WHERE THE CONVERGING DIPOLE MAGNETIC FIELD FUNNELS PARTICLES TO THE SURFACE. THE ENERGY OF THE PRECIPITATING PARTICLES AND THE LATITUDINAL LOCATIONS OF THESE NORTHERN AND SOUTHERN PRECIPITATION REGIONS CAN VARY GREATLY DUE TO EVER-CHANGING SOLAR WIND DYNAMIC PRESSURE AND FIELD POLARITY. THE CHARGED PARTICLE PRECIPITATION CAN HAVE A NUMBER OF CONSEQUENCES FOR THE PLANET'S SURFACE INCLUDING SPUTTERING OF SURFACE PARTICLES IN BOTH NEUTRAL AND IONIZED FORM  AND SPACE WEATHERING IN TERMS OF DARKENING AND ALTERING THE SURFACE REGOLITH. IN THIS PROJECT WE WILL EXAMINE HERE THE CONSEQUENCES OF CHARGED PARTICLE PRECIPITATION ONTO VERY HIGH LATITUDE NORTHERN POLAR REGIONS WHERE FROZEN WATER ICE DEPOSITS HAVE BEEN OBSERVED IN PERMANENTLY SHADOWED CRATERS. IT HAS BEEN SHOWN THAT CHARGED PARTICLES PRECIPITATING IN THESE REGIONS MAY CAUSE THE BUILDUP OF A LAYER OF DARKENED MATERIAL OBSERVED TO COVER PORTIONS OF THE WATER ICE. THE RESEARCH APPROACH WILL BE TO USE A STATE-OF-ART THREEDIMENSIONAL GLOBAL KINETIC MODEL OF ION AND ELECTRON PARTICLE MOTION IN MERCURY'S MAGNETOSPHERE AND EXAMINE THE PRECIPITATING FLUX DISTRIBUTION INTO THE PERMANENTLY SHADOWED REGIONS (PSR) AS A FUNCTION OF SOLAR WIND CONDITIONS. THE PRECIPITATING FLUX WILL BE QUANTIFIED IN DETAIL OVER A WIDE ENERGY RANGE (EV-MEV) AND TIME-AVERAGED OVER LONG PERIODS. USING THESE RESULTS THE GEOCHEMICAL REACTIONS THAT CAN OCCUR BETWEEN THE PRECIPITATING PARTICLES AND THE SURFACE MATERIAL IN THE PSRS  WHICH CAN INCLUDE CARBON-BASED ORGANICS  WILL BE CALCULATED AND SPECIFIED. MESSENGER SPACECRAFT DATA WILL BE USED TO GUIDE AND CONSTRAIN THE MODELING STUDY AND TO COMPARE WITH THE RESULTS. THE MULTI-DISCIPLINARY SCIENTIFIC RESEARCH PROGRAM PROPOSED HERE IS HIGHLY RELEVANT TO THE GOALS OF THE SOLAR SYSTEM WORKINGS INITIATIVE  IN PARTICULAR  CHARACTERIZING MAGNETOSPHERIC PROCESSES AND DYNAMICS  AND DETERMINING PLASMA INTERACTIONS WITH STRUCTURES AND BODIES. THIS RESEARCH PROJECT ALSO ADDRESSES THE NASA HIGH LEVEL SCIENCE GOALS OF DETERMINING THE INTERACTION OF THE SUN WITH THE SOLAR SYSTEM AND CHARACTERIZING FUNDAMENTAL PROCESSES THAT OCCUR BOTH WITHIN THE HELIOSPHERE AND THROUGHOUT THE UNIVERSE.",
+    "total_obligation": 594486,
+    "subaward_count": 3,
+    "total_subaward_amount": 85599,
+    "date_signed": "2019-05-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 520191.52,
+    "total_account_obligation": 199125,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 520191.52
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 199125
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2019-04-08",
+      "end_date": "2024-04-07",
+      "last_modified_date": "2024-11-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "0001",
+        "zip5": "90095",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "1302",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 520191.52
+  }
+}

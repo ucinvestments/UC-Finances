@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 175213060,
+    "Award ID": "2439800",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1650000,
+    "Total Outlays": null,
+    "Description": "COLLABORATIVE RESEARCH: TRANSFORMING STEM EDUCATION NATIONWIDE THROUGH SCALABLE OPEN EDUCATIONAL INFRASTRUCTURE, SOCIAL ANNOTATION, AND COLLABORATIVE CONTENT IMPROVEMENT -THIS PROJECT AIMS TO SERVE THE NATIONAL INTEREST BY EXPANDING ACCESS TO HIGH-QUALITY, ADAPTABLE STEM LEARNING MATERIALS THROUGH THE DEVELOPMENT AND LARGE-SCALE DEPLOYMENT OF OPEN EDUCATIONAL RESOURCES (OER) AND INTEGRATED SOCIAL ANNOTATION TECHNOLOGIES. THIS LEVEL 2 INSTITUTIONAL AND COMMUNITY TRANSFORMATION PROJECT ADDRESSES THE ONGOING CHALLENGE OF LIMITED ACCESS TO AFFORDABLE AND PEDAGOGICALLY EFFECTIVE INSTRUCTIONAL MATERIALS, PARTICULARLY IN LARGE EDUCATIONAL SYSTEMS. AT THE CORE OF THE PROJECT IS THE ENHANCEMENT AND DEPLOYMENT OF NOTA BENE (NB), A WEB-BASED ANNOTATION PLATFORM THAT ENABLES STUDENTS AND INSTRUCTORS TO ENGAGE IN CONTEXTUAL CONVERSATIONS DIRECTLY ALONGSIDE THE TEXTBOOK CONTENT - THE DIGITAL VERSION OF MARKING UP PHYSICAL TEXTBOOKS. BY ANALYZING THESE IN-LINE COMMENTS, INSTRUCTORS CAN IDENTIFY CONFUSING, OUTDATED, OR INCOMPLETE MATERIAL, AND STUDENTS CAN CONTRIBUTE INSIGHTS OR SUGGEST IMPROVEMENTS THAT REFLECT THEIR LEARNING NEEDS. THIS PROJECT WILL INTEGRATE NOTA BENE INTO THE LIBRETEXTS PLATFORM, ONE OF THE MOST WIDELY USED OER REPOSITORIES, WITH THE AIM OF TRANSFORMING PASSIVE READING INTO AN INTERACTIVE AND COLLABORATIVE STEM LEARNING EXPERIENCE. THE PROJECT'S GOALS ARE TO ESTABLISH SOCIAL ANNOTATION AS A CORE PRACTICE IN STEM EDUCATION, TO CREATE A SCALABLE INFRASTRUCTURE FOR COLLABORATIVE OER DEVELOPMENT, AND TO GENERATE ACTIONABLE KNOWLEDGE ON HOW LEARNER-INSTRUCTOR INTERACTIONS THROUGH ANNOTATION DRIVE CONTENT IMPROVEMENT AND LEARNING OUTCOMES. SPECIFICALLY, THE PROJECT WILL (1) REDESIGN AND EXPAND THE NB PLATFORM TO ENHANCE USABILITY FOR DIFFERENT TYPES OF STEM COURSES AND INSTITUTIONS NATIONWIDE, (2) DEVELOP AND IMPLEMENT WORKFLOWS FOR PEER REVIEW AND OPEN PEDAGOGY THAT EMBED CONTINUOUS FEEDBACK LOOPS INTO OER LIFECYCLE MANAGEMENT, AND (3) BUILD AND OPERATIONALIZE CALOPEN, A STATEWIDE HUB SUPPORTING OER CREATION, ADOPTION, AND INNOVATION WITHIN CALIFORNIA'S HIGHER EDUCATION SYSTEMS, SERVING AS A REPLICABLE NATIONAL MODEL. THE PROJECT EMPLOYS DESIGN-BASED RESEARCH TO ITERATIVELY IMPROVE THE NOTA BENE PLATFORM AND ITS PEDAGOGICAL INTEGRATION, COUPLED WITH LARGE-SCALE LEARNING ANALYTICS TO EXAMINE PATTERNS IN ANNOTATION USE, FEEDBACK QUALITY, AND THEIR CORRELATION WITH STUDENT LEARNING GAINS. ASSESSMENT AND EVALUATION WILL BE MULTI-FACETED, INVOLVING EXTERNAL EVALUATORS WHO WILL CONDUCT SURVEYS, INTERVIEWS, SYSTEM USAGE ANALYSIS, AND PERFORMANCE ASSESSMENTS TO MEASURE IMPACT ON STUDENT ENGAGEMENT, INSTRUCTOR PRACTICES, AND CONTENT QUALITY. THE NSF IUSE: EDU PROGRAM SUPPORTS RESEARCH AND DEVELOPMENT PROJECTS TO IMPROVE THE EFFECTIVENESS OF STEM EDUCATION FOR ALL STUDENTS. THROUGH THE INSTITUTIONAL AND COMMUNITY TRANSFORMATION TRACK, THE PROGRAM SUPPORTS EFFORTS TO TRANSFORM AND IMPROVE STEM EDUCATION ACROSS INSTITUTIONS OF HIGHER EDUCATION AND DISCIPLINARY COMMUNITIES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-10-15",
+    "End Date": "2030-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2439800_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 175213060,
+    "generated_unique_award_id": "ASST_NON_2439800_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "COLLABORATIVE RESEARCH: TRANSFORMING STEM EDUCATION NATIONWIDE THROUGH SCALABLE OPEN EDUCATIONAL INFRASTRUCTURE, SOCIAL ANNOTATION, AND COLLABORATIVE CONTENT IMPROVEMENT -THIS PROJECT AIMS TO SERVE THE NATIONAL INTEREST BY EXPANDING ACCESS TO HIGH-QUALITY, ADAPTABLE STEM LEARNING MATERIALS THROUGH THE DEVELOPMENT AND LARGE-SCALE DEPLOYMENT OF OPEN EDUCATIONAL RESOURCES (OER) AND INTEGRATED SOCIAL ANNOTATION TECHNOLOGIES. THIS LEVEL 2 INSTITUTIONAL AND COMMUNITY TRANSFORMATION PROJECT ADDRESSES THE ONGOING CHALLENGE OF LIMITED ACCESS TO AFFORDABLE AND PEDAGOGICALLY EFFECTIVE INSTRUCTIONAL MATERIALS, PARTICULARLY IN LARGE EDUCATIONAL SYSTEMS. AT THE CORE OF THE PROJECT IS THE ENHANCEMENT AND DEPLOYMENT OF NOTA BENE (NB), A WEB-BASED ANNOTATION PLATFORM THAT ENABLES STUDENTS AND INSTRUCTORS TO ENGAGE IN CONTEXTUAL CONVERSATIONS DIRECTLY ALONGSIDE THE TEXTBOOK CONTENT - THE DIGITAL VERSION OF MARKING UP PHYSICAL TEXTBOOKS. BY ANALYZING THESE IN-LINE COMMENTS, INSTRUCTORS CAN IDENTIFY CONFUSING, OUTDATED, OR INCOMPLETE MATERIAL, AND STUDENTS CAN CONTRIBUTE INSIGHTS OR SUGGEST IMPROVEMENTS THAT REFLECT THEIR LEARNING NEEDS. THIS PROJECT WILL INTEGRATE NOTA BENE INTO THE LIBRETEXTS PLATFORM, ONE OF THE MOST WIDELY USED OER REPOSITORIES, WITH THE AIM OF TRANSFORMING PASSIVE READING INTO AN INTERACTIVE AND COLLABORATIVE STEM LEARNING EXPERIENCE. THE PROJECT'S GOALS ARE TO ESTABLISH SOCIAL ANNOTATION AS A CORE PRACTICE IN STEM EDUCATION, TO CREATE A SCALABLE INFRASTRUCTURE FOR COLLABORATIVE OER DEVELOPMENT, AND TO GENERATE ACTIONABLE KNOWLEDGE ON HOW LEARNER-INSTRUCTOR INTERACTIONS THROUGH ANNOTATION DRIVE CONTENT IMPROVEMENT AND LEARNING OUTCOMES. SPECIFICALLY, THE PROJECT WILL (1) REDESIGN AND EXPAND THE NB PLATFORM TO ENHANCE USABILITY FOR DIFFERENT TYPES OF STEM COURSES AND INSTITUTIONS NATIONWIDE, (2) DEVELOP AND IMPLEMENT WORKFLOWS FOR PEER REVIEW AND OPEN PEDAGOGY THAT EMBED CONTINUOUS FEEDBACK LOOPS INTO OER LIFECYCLE MANAGEMENT, AND (3) BUILD AND OPERATIONALIZE CALOPEN, A STATEWIDE HUB SUPPORTING OER CREATION, ADOPTION, AND INNOVATION WITHIN CALIFORNIA'S HIGHER EDUCATION SYSTEMS, SERVING AS A REPLICABLE NATIONAL MODEL. THE PROJECT EMPLOYS DESIGN-BASED RESEARCH TO ITERATIVELY IMPROVE THE NOTA BENE PLATFORM AND ITS PEDAGOGICAL INTEGRATION, COUPLED WITH LARGE-SCALE LEARNING ANALYTICS TO EXAMINE PATTERNS IN ANNOTATION USE, FEEDBACK QUALITY, AND THEIR CORRELATION WITH STUDENT LEARNING GAINS. ASSESSMENT AND EVALUATION WILL BE MULTI-FACETED, INVOLVING EXTERNAL EVALUATORS WHO WILL CONDUCT SURVEYS, INTERVIEWS, SYSTEM USAGE ANALYSIS, AND PERFORMANCE ASSESSMENTS TO MEASURE IMPACT ON STUDENT ENGAGEMENT, INSTRUCTOR PRACTICES, AND CONTENT QUALITY. THE NSF IUSE: EDU PROGRAM SUPPORTS RESEARCH AND DEVELOPMENT PROJECTS TO IMPROVE THE EFFECTIVENESS OF STEM EDUCATION FOR ALL STUDENTS. THROUGH THE INSTITUTIONAL AND COMMUNITY TRANSFORMATION TRACK, THE PROGRAM SUPPORTS EFFORTS TO TRANSFORM AND IMPROVE STEM EDUCATION ACROSS INSTITUTIONS OF HIGHER EDUCATION AND DISCIPLINARY COMMUNITIES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE PLANNED FOR THIS AWARD.",
+    "total_obligation": 1650000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-08-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 1650000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1650000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF UNDERGRADUATE EDUCATION"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF UNDERGRADUATE EDUCATION"
+    },
+    "period_of_performance": {
+      "start_date": "2025-10-15",
+      "end_date": "2030-09-30",
+      "last_modified_date": "2025-09-10",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56320037,
+    "Award ID": "20207002032263",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 596229,
+    "Total Outlays": 520713.04,
+    "Description": "DEVELOPING AND IMPLEMENTING REQUIRED FOOD SAFETY PLANS CAN BE VERY CHALLENGING, ESPECIALLY FOR SMALL AND VERY SMALL PROCESSORS AND FOR PROCESSORS THAT HISTORICALLY HAVE BEEN SUBJECT TO LIMITED OVERSIGHT, SUCH AS RAW FRUIT AND VEGETABLE PROCESSERS AND SMALL-SCALE DISTRIBUTORS (I.E. FOOD HUBS). MANY OF THESE PROCESSORS HAVE LIMITED RESOURCES, AND THEIR KNOWLEDGE ABOUT FOOD QUALITY AND SAFETY SYSTEMS MAY BE INADEQUATE TO IMPLEMENT A ROBUST FOOD SAFETY SYSTEM. THE LACK OF KNOWLEDGE ABOUT THE OVERALL FOOD QUALITY ASSURANCE SYSTEM MAY HAMPER THE DEVELOPMENT AND IMPLEMENTATION OF THE REQUIRED FOOD SAFETY PLANS. THE GOAL OF THIS PROPOSAL IS TO BRIDGE THE KNOWLEDGE GAPS IN FOOD QUALITY ASSURANCE AND ITS CONNECTION TO FOOD SAFETY THAT MAY HINDER SMALL AND VERY SMALL PROCESSORS FROM SUCCESSFUL DEVELOPMENT AND IMPLEMENTATION OF ROBUST FOOD SAFETY PLANS. THIS WILL BE ACCOMPLISHED THROUGH THE DEVELOPMENT OF ONLINE COURSE MATERIAL ON KEY CONCEPTS IN FOOD QUALITY ASSURANCE AND FOOD SAFETY. THE ONLINE COURSE MATERIAL WILL BE SUPPLEMENTED WITH IN PERSON HANDS-ON WORKSHOPS TO DEMONSTRATE KEY CONCEPTS SUCH AS SANITATION AND ENVIRONMENTAL MONITORING. ADDITIONALLY, AN ONLINE \"INTERACTIVE\" MODULE WILL BE DEVELOPED BASED ON THE IN PERSON HANDS-ON WORKSHOP. A DIRECT COMPARISON OF LEARNING BETWEEN THE IN-PERSON AND ONLINE INTERACTIVE MODULE WILL BE CONDUCTED TO EVALUATE THE UTILITY OF SUCH TOOLS IN TRAINING PROGRAMS FOR SMALL-SCALE FOOD PROCESSORS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2020-09-01",
+    "End Date": "2025-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20207002032263_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56320037,
+    "generated_unique_award_id": "ASST_NON_20207002032263_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DEVELOPING AND IMPLEMENTING REQUIRED FOOD SAFETY PLANS CAN BE VERY CHALLENGING, ESPECIALLY FOR SMALL AND VERY SMALL PROCESSORS AND FOR PROCESSORS THAT HISTORICALLY HAVE BEEN SUBJECT TO LIMITED OVERSIGHT, SUCH AS RAW FRUIT AND VEGETABLE PROCESSERS AND SMALL-SCALE DISTRIBUTORS (I.E. FOOD HUBS). MANY OF THESE PROCESSORS HAVE LIMITED RESOURCES, AND THEIR KNOWLEDGE ABOUT FOOD QUALITY AND SAFETY SYSTEMS MAY BE INADEQUATE TO IMPLEMENT A ROBUST FOOD SAFETY SYSTEM. THE LACK OF KNOWLEDGE ABOUT THE OVERALL FOOD QUALITY ASSURANCE SYSTEM MAY HAMPER THE DEVELOPMENT AND IMPLEMENTATION OF THE REQUIRED FOOD SAFETY PLANS. THE GOAL OF THIS PROPOSAL IS TO BRIDGE THE KNOWLEDGE GAPS IN FOOD QUALITY ASSURANCE AND ITS CONNECTION TO FOOD SAFETY THAT MAY HINDER SMALL AND VERY SMALL PROCESSORS FROM SUCCESSFUL DEVELOPMENT AND IMPLEMENTATION OF ROBUST FOOD SAFETY PLANS. THIS WILL BE ACCOMPLISHED THROUGH THE DEVELOPMENT OF ONLINE COURSE MATERIAL ON KEY CONCEPTS IN FOOD QUALITY ASSURANCE AND FOOD SAFETY. THE ONLINE COURSE MATERIAL WILL BE SUPPLEMENTED WITH IN PERSON HANDS-ON WORKSHOPS TO DEMONSTRATE KEY CONCEPTS SUCH AS SANITATION AND ENVIRONMENTAL MONITORING. ADDITIONALLY, AN ONLINE \"INTERACTIVE\" MODULE WILL BE DEVELOPED BASED ON THE IN PERSON HANDS-ON WORKSHOP. A DIRECT COMPARISON OF LEARNING BETWEEN THE IN-PERSON AND ONLINE INTERACTIVE MODULE WILL BE CONDUCTED TO EVALUATE THE UTILITY OF SUCH TOOLS IN TRAINING PROGRAMS FOR SMALL-SCALE FOOD PROCESSORS.",
+    "total_obligation": 596229,
+    "subaward_count": 8,
+    "total_subaward_amount": 349838,
+    "date_signed": "2020-08-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 528554,
+    "total_account_obligation": 596229,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 528554
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 596229
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2020-09-01",
+      "end_date": "2025-08-31",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 528554
+  }
+}

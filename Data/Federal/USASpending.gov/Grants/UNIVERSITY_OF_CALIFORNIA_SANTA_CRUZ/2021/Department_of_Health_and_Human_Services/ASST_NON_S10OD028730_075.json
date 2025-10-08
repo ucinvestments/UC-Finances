@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717468,
+    "Award ID": "S10OD028730",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+    "Award Amount": 1920310.93,
+    "Total Outlays": 1912838.93,
+    "Description": "UPGRADE OF CORE IMAGING INSTRUMENTATION AND ROBOTICS FOR THE UCSC CHEMICAL SCREENING CENTER - WE REQUEST AN INTEGRATED PLATFORM OF ROBOTICS AND INSTRUMENTATION TO UPDATE THE UC SANTA CRUZ CHEMICAL SCREENING CENTER (CSC), A SHARED RESEARCH FACILITY THAT HAS SUPPORTED NIH-FUNDED BIOMEDICAL RESEARCH AT UC SANTA CRUZ SINCE ITS INCEPTION IN 2007. RESEARCH CONDUCTED AT THE CSC ADDRESSES A RANGE OF BIOMEDICAL QUESTIONS, INCLUDING INVESTIGATIONS OF THE CIRCADIAN CLOCK, HOST-PATHOGEN INTERACTIONS, THE CELL CYCLE, RNA SPLICING, TROPICAL DISEASES SUCH AS AFRICAN RIVER BLINDNESS, AND DEVELOPMENT OF METHODOLOGIES FOR NATURAL PRODUCTS DISCOVERY. ACTIVITY IN THE CSC HAS RESULTED IN WELL OVER 50 PEER-REVIEWED PUBLICATIONS, MOST OF WHICH WERE JOINTLY AUTHORED BY FACULTY FROM DIFFERENT DEPARTMENTS AND SPECIALTIES, AND MANY GRANTS HAVE BEEN FUNDED BASED ON PRELIMINARY DATA ACQUIRED AT THE CSC. HTS IS CENTRAL TO THE DISCOVERY OF BIOACTIVE SMALL MOLECULES, EITHER AS DRUG LEADS OR BIOLOGICAL TOOL COMPOUNDS. AS THE COST OF LIQUID HANDLING ROBOTICS AND CHEMICAL LIBRARIES HAS DECLINED DURING THE PAST DECADE, HTS HAS BECOME A POWERFUL DISCOVERY TOOL FOR THE ACADEMIC RESEARCH LABORATORY. WHILE THE CSC IS AN IMPORTANT SHARED RESEARCH FACILITY AT UCSC WITH STRONG ADMINISTRATIVE SUPPORT, BOTTLENECKS EXIST IN ITS CURRENT CONFIGURATION THAT LIMIT ITS POTENTIAL IMPACT ON KEY NIH-FUNDED PROJECTS. AFTER 13 YEARS OF CONSTANT OPERATION, THE CORE LIQUID HANDLING INSTRUMENTS IN THE CSC ARE BECOMING UNRELIABLE AND ARE IN NEED OF REPLACEMENT. THE PROPOSED MICROSCOPE PROVIDES MUCH BETTER IMAGE QUALITY, FASTER ACQUISITION TIMES, AND MORE EFFICIENT IMAGE ANALYSIS SOFTWARE TO THE GROWING USER BASE AT UCSC WHO DEPEND ON IMAGE-BASED SCREENING FOR THEIR RESEARCH. AS INTEREST IN SMALL MOLECULE APPROACHES HAS GROWN AMONG THE NIH-FUNDED BIOMEDICAL COMMUNITY AT UCSC, WE MUST IMPROVE THE EFFICIENCY, AND ACCURACY OF OUR SCREENING INSTRUMENTATION. MODERNIZING OUR AUTOMATED LIQUID HANDLING SYSTEM WILL NOT ONLY ALLOW THE CSC TO CONTINUE OPERATIONS AT THE CURRENT THROUGHPUT, BUT WILL TRANSFORM THE FACILITY BY ENABLING SCREENING IN 1536-WELL PLATES, THEREBY ENABLING THE SCREENING OF A LARGER REPLACEMENT LIBRARY OF 100,000 SMALL MOLECULES, WHICH UCSC HAS OFFERED TO PURCHASE AS PART OF THE INSTITUTIONAL COMMITMENT TO THIS PROPOSAL. INDEED, THE INSTITUTIONAL COMMITMENT IS VERY STRONG, SUPPORTING TWO FULL-TIME EMPLOYEES FOR AT LEAST 5 YEARS FOLLOWING INSTALLATION, PLUS A CONTINGENCY PLAN TO ENSURE UNINTERRUPTED OPERATION OF THE FACILITY IN THE UNLIKELY EVENT OF A BUDGETARY SHORTFALL. IN SHORT, THE UCSC-CSC HAS FACILITATED EXCITING DISCOVERIES IN A WIDE ARRAY OF BIOLOGICAL SYSTEMS, MANY WITH DIRECT THERAPEUTIC APPLICATIONS, AND THE PROPOSED UPGRADE WILL ALLOW THIS IMPORTANT FACILITY TO CONTINUE CATALYZING NIH-FUNDED SCIENTIFIC ADVANCES FOR YEARS TO COME.",
+    "Contract Award Type": "",
+    "Recipient UEI": "VXUFPE4MCZH5",
+    "Recipient Location": {
+      "address_line1": "1156 HIGH ST",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SANTA CRUZ",
+      "congressional_code": "19",
+      "country_name": "UNITED STATES",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1077",
+      "zip5": "95064"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SANTA CRUZ",
+      "congressional_code": "19",
+      "country_name": "UNITED STATES",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "950641077",
+      "zip5": "95064"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-06-15",
+    "End Date": "2022-06-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "427ea0fd-a29e-756b-4973-911cb119bc8d-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD028730_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717468,
+    "generated_unique_award_id": "ASST_NON_S10OD028730_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "UPGRADE OF CORE IMAGING INSTRUMENTATION AND ROBOTICS FOR THE UCSC CHEMICAL SCREENING CENTER - WE REQUEST AN INTEGRATED PLATFORM OF ROBOTICS AND INSTRUMENTATION TO UPDATE THE UC SANTA CRUZ CHEMICAL SCREENING CENTER (CSC), A SHARED RESEARCH FACILITY THAT HAS SUPPORTED NIH-FUNDED BIOMEDICAL RESEARCH AT UC SANTA CRUZ SINCE ITS INCEPTION IN 2007. RESEARCH CONDUCTED AT THE CSC ADDRESSES A RANGE OF BIOMEDICAL QUESTIONS, INCLUDING INVESTIGATIONS OF THE CIRCADIAN CLOCK, HOST-PATHOGEN INTERACTIONS, THE CELL CYCLE, RNA SPLICING, TROPICAL DISEASES SUCH AS AFRICAN RIVER BLINDNESS, AND DEVELOPMENT OF METHODOLOGIES FOR NATURAL PRODUCTS DISCOVERY. ACTIVITY IN THE CSC HAS RESULTED IN WELL OVER 50 PEER-REVIEWED PUBLICATIONS, MOST OF WHICH WERE JOINTLY AUTHORED BY FACULTY FROM DIFFERENT DEPARTMENTS AND SPECIALTIES, AND MANY GRANTS HAVE BEEN FUNDED BASED ON PRELIMINARY DATA ACQUIRED AT THE CSC. HTS IS CENTRAL TO THE DISCOVERY OF BIOACTIVE SMALL MOLECULES, EITHER AS DRUG LEADS OR BIOLOGICAL TOOL COMPOUNDS. AS THE COST OF LIQUID HANDLING ROBOTICS AND CHEMICAL LIBRARIES HAS DECLINED DURING THE PAST DECADE, HTS HAS BECOME A POWERFUL DISCOVERY TOOL FOR THE ACADEMIC RESEARCH LABORATORY. WHILE THE CSC IS AN IMPORTANT SHARED RESEARCH FACILITY AT UCSC WITH STRONG ADMINISTRATIVE SUPPORT, BOTTLENECKS EXIST IN ITS CURRENT CONFIGURATION THAT LIMIT ITS POTENTIAL IMPACT ON KEY NIH-FUNDED PROJECTS. AFTER 13 YEARS OF CONSTANT OPERATION, THE CORE LIQUID HANDLING INSTRUMENTS IN THE CSC ARE BECOMING UNRELIABLE AND ARE IN NEED OF REPLACEMENT. THE PROPOSED MICROSCOPE PROVIDES MUCH BETTER IMAGE QUALITY, FASTER ACQUISITION TIMES, AND MORE EFFICIENT IMAGE ANALYSIS SOFTWARE TO THE GROWING USER BASE AT UCSC WHO DEPEND ON IMAGE-BASED SCREENING FOR THEIR RESEARCH. AS INTEREST IN SMALL MOLECULE APPROACHES HAS GROWN AMONG THE NIH-FUNDED BIOMEDICAL COMMUNITY AT UCSC, WE MUST IMPROVE THE EFFICIENCY, AND ACCURACY OF OUR SCREENING INSTRUMENTATION. MODERNIZING OUR AUTOMATED LIQUID HANDLING SYSTEM WILL NOT ONLY ALLOW THE CSC TO CONTINUE OPERATIONS AT THE CURRENT THROUGHPUT, BUT WILL TRANSFORM THE FACILITY BY ENABLING SCREENING IN 1536-WELL PLATES, THEREBY ENABLING THE SCREENING OF A LARGER REPLACEMENT LIBRARY OF 100,000 SMALL MOLECULES, WHICH UCSC HAS OFFERED TO PURCHASE AS PART OF THE INSTITUTIONAL COMMITMENT TO THIS PROPOSAL. INDEED, THE INSTITUTIONAL COMMITMENT IS VERY STRONG, SUPPORTING TWO FULL-TIME EMPLOYEES FOR AT LEAST 5 YEARS FOLLOWING INSTALLATION, PLUS A CONTINGENCY PLAN TO ENSURE UNINTERRUPTED OPERATION OF THE FACILITY IN THE UNLIKELY EVENT OF A BUDGETARY SHORTFALL. IN SHORT, THE UCSC-CSC HAS FACILITATED EXCITING DISCOVERIES IN A WIDE ARRAY OF BIOLOGICAL SYSTEMS, MANY WITH DIRECT THERAPEUTIC APPLICATIONS, AND THE PROPOSED UPGRADE WILL ALLOW THIS IMPORTANT FACILITY TO CONTINUE CATALYZING NIH-FUNDED SCIENTIFIC ADVANCES FOR YEARS TO COME.",
+    "total_obligation": 1920310.93,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-06-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1912838.93,
+    "total_account_obligation": 1920310.93,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1912838.93
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1920310.93
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2021-06-15",
+      "end_date": "2022-06-14",
+      "last_modified_date": "2023-12-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "427ea0fd-a29e-756b-4973-911cb119bc8d-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA SANTA CRUZ",
+      "recipient_uei": "VXUFPE4MCZH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SANTA CRUZ",
+        "county_code": "087",
+        "county_name": "SANTA CRUZ",
+        "address_line1": "1156 HIGH ST",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "19",
+        "zip4": "1077",
+        "zip5": "95064",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SANTA CRUZ",
+      "county_code": "087",
+      "county_name": "SANTA CRUZ",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "19",
+      "zip4": "1077",
+      "zip5": "95064",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1912838.93
+  }
+}

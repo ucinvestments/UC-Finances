@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717794,
+    "Award ID": "S10OD034287",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 1291573,
+    "Total Outlays": 1235811.53,
+    "Description": "HIGH-THROUGHPUT SYNTHESIS EQUIPMENT - PROJECT SUMMARY A GROUP OF NIH SUPPORTED INVESTIGATORS REQUESTS FUNDS TO PURCHASE A HIGH THROUGHPUT EXPERIMENTATION EQUIPMENT. THIS EQUIPMENT WILL SIGNIFICANTLY INCREASE THE NUMBER OF NEW BIOMEDICAL-RELATED COMPOUNDS SYNTHESIZED AND CHARACTERIZED AT UCLA. THE EQUIPMENT WILL ALSO FACILITATE THE DEVELOPMENT OF NEW AND IMPROVED SYNTHETIC TOOLS THAT CAN ACCESS COMPLEX, BIOACTIVE CHEMICAL STRUCTURES IN A SELECTIVE AND SUSTAINABLE MANNER. IMPROVED ACCESS TO HIGHER QUALITY AND QUANTITY DATA WITH THIS EQUIPMENT WILL FACILITATE EFFORTS TO BUILD DATA-DRIVEN, MACHINE LEARNING TOOLS FOR CHEMICAL SYNTHESIS. SPECIFICALLY, WE REQUEST FUNDS TO PURCHASE A JUNIOR SYSTEM FROM UNCHAINED LABS TO AUTOMATE THE SAMPLE PREPARATION, REACTION EXECUTION AND PRODUCT PROCESSING FOR ANALYTICAL ANALYSIS. REACTION SCREENING WILL BE POSSIBLE WITH THIS SYSTEM BY PROBING FROM 25+ DIFFERENT SOLID REACTANTS, PREPARED AT A WIDE RANGE OF CONCENTRATIONS. THE ENTIRE ROBOTIC SYSTEM WILL BE PLACED IN A NITROGEN-FILLED GLOVE BOX, AND SPECIALIZED GAS PHASE REACTANTS WILL BE USED THIS WAY. REACTIONS WILL BE CARRIED OUT AT DIFFERENT POSSIBLE TEMPERATURES, FROM -20 TO 180 C, AND A PRESSURE RANGE OF UP TO 200 PSI. SPECIAL REACTORS WILL BE INCLUDED TO ALLOW FOR ELECTROCHEMICAL AND PHOTOCHEMICAL REACTIONS TO BE CARRIED OUT. THE PROPOSED EQUIPMENT WILL BE SUPPORTED AND ADMINISTERED BY THE UCLA MOLECULAR INSTRUMENTATION CENTER (MIC), A CAMPUS-WIDE, INTEGRATED FACILITY FORMED TO ENHANCE THE ACCESSIBILITY OF EXISTING SHARED, SOPHISTICATED INSTRUMENTATION FACILITIES TO THE BROADER RESEARCH COMMUNITY AT THE INSTITUTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4200",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-05-15",
+    "End Date": "2025-05-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD034287_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717794,
+    "generated_unique_award_id": "ASST_NON_S10OD034287_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "HIGH-THROUGHPUT SYNTHESIS EQUIPMENT - PROJECT SUMMARY A GROUP OF NIH SUPPORTED INVESTIGATORS REQUESTS FUNDS TO PURCHASE A HIGH THROUGHPUT EXPERIMENTATION EQUIPMENT. THIS EQUIPMENT WILL SIGNIFICANTLY INCREASE THE NUMBER OF NEW BIOMEDICAL-RELATED COMPOUNDS SYNTHESIZED AND CHARACTERIZED AT UCLA. THE EQUIPMENT WILL ALSO FACILITATE THE DEVELOPMENT OF NEW AND IMPROVED SYNTHETIC TOOLS THAT CAN ACCESS COMPLEX, BIOACTIVE CHEMICAL STRUCTURES IN A SELECTIVE AND SUSTAINABLE MANNER. IMPROVED ACCESS TO HIGHER QUALITY AND QUANTITY DATA WITH THIS EQUIPMENT WILL FACILITATE EFFORTS TO BUILD DATA-DRIVEN, MACHINE LEARNING TOOLS FOR CHEMICAL SYNTHESIS. SPECIFICALLY, WE REQUEST FUNDS TO PURCHASE A JUNIOR SYSTEM FROM UNCHAINED LABS TO AUTOMATE THE SAMPLE PREPARATION, REACTION EXECUTION AND PRODUCT PROCESSING FOR ANALYTICAL ANALYSIS. REACTION SCREENING WILL BE POSSIBLE WITH THIS SYSTEM BY PROBING FROM 25+ DIFFERENT SOLID REACTANTS, PREPARED AT A WIDE RANGE OF CONCENTRATIONS. THE ENTIRE ROBOTIC SYSTEM WILL BE PLACED IN A NITROGEN-FILLED GLOVE BOX, AND SPECIALIZED GAS PHASE REACTANTS WILL BE USED THIS WAY. REACTIONS WILL BE CARRIED OUT AT DIFFERENT POSSIBLE TEMPERATURES, FROM -20 TO 180 C, AND A PRESSURE RANGE OF UP TO 200 PSI. SPECIAL REACTORS WILL BE INCLUDED TO ALLOW FOR ELECTROCHEMICAL AND PHOTOCHEMICAL REACTIONS TO BE CARRIED OUT. THE PROPOSED EQUIPMENT WILL BE SUPPORTED AND ADMINISTERED BY THE UCLA MOLECULAR INSTRUMENTATION CENTER (MIC), A CAMPUS-WIDE, INTEGRATED FACILITY FORMED TO ENHANCE THE ACCESSIBILITY OF EXISTING SHARED, SOPHISTICATED INSTRUMENTATION FACILITIES TO THE BROADER RESEARCH COMMUNITY AT THE INSTITUTION.",
+    "total_obligation": 1291573,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-05-09",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1235811.53,
+    "total_account_obligation": 1291573,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1235811.53
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1291573
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2023-05-15",
+      "end_date": "2025-05-14",
+      "last_modified_date": "2025-04-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4200",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1235811.53
+  }
+}

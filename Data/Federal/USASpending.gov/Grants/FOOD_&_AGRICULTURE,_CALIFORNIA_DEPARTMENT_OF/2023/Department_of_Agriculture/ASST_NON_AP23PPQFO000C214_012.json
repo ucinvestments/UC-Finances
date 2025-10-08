@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 80570137,
+    "Award ID": "AP23PPQFO000C214",
+    "Recipient Name": "FOOD \u0026 AGRICULTURE, CALIFORNIA DEPARTMENT OF",
+    "Award Amount": 2000000,
+    "Total Outlays": 2000000,
+    "Description": "1. AWARD PURPOSE: THE PEST DETECTION/EMERGENCY PROJECTS (PD/EP) BRANCH IS RESPONSIBLE FOR THE EARLY DETECTION AND PROMPT ERADICATION OF INJURIOUS AGRICULTURAL PESTS BY CONDUCTING A STATEWIDE TRAPPING PROGRAM FOR EXOTIC INSECT PESTS. THE PROGRAM WILL IMPLEMENT SPECIAL SURVEYS FOR NEWLY EMERGING, SIGNIFICANT AGRICULTURAL PESTS AND PLANT DISEASES FOR WHICH TRAPS ARE NOT AVAILABLE AND PROVIDE EMERGENCY ERADICATION SERVICES USING THE BEST AVAILABLE SCIENCE AND TECHNOLOGY. THIS WORK PLAN ENSURES THE DEVELOPMENT, RAPID RESPONSE, AND MAINTENANCE OF THE EMERGENCY PLANT HEALTH RESPONSE TEAMS (EPHRT) THROUGHOUT THE STATE THAT SERVE AS THE FIRST RESPONDERS TO PLANT PEST EMERGENCY ERADICATION PROJECTS. COMPONENTS INCLUDE CREATING NEW PEST RESPONSE GUIDELINES, TRAINING, INITIAL RESPONSE SURVEY, TREATMENT, IF NEEDED, AND POTENTIALLY THE ENFORCEMENT OF QUARANTINE REGULATIONS AND IDENTIFICATION OF EXOTIC PESTS IN CALIFORNIA IN COOPERATION WITH USDA-APHIS. 2. ACTIVITIES TO BE PERFORMED: DEVELOP, PROMOTE, AND IMPLEMENT NEW CONTROL TECHNOLOGIES, AND TOOLS AND TREATMENTS FOR USE IN PLANT HEALTH EMERGENCIES AND/OR ESTABLISHED PEST PROGRAMS. ENHANCE PREPARATION FOR PLANT PEST EMERGENCIES BY IMPROVING THE KNOWLEDGE BASE, RESPONSE OPTIONS AND CAPABILITIES PRIOR TO THE ONSET OF A PLANT HEALTH EMERGENCY. PROVIDE INITIAL AND SHORT-TERM FUNDING TO QUICKLY IMPLEMENT PROGRAMS THROUGHOUT THE STATE THAT EMPLOY EXISTING AND INITIAL RESPONSE PROTOCOLS FOR THE OVERARCHING GOALS OF CONTAINMENT, CONTROL, OR ERADICATION IMMEDIATELY FOLLOWING THE DEVELOPMENT OF A PLANT HEALTH EMERGENCY. PROVIDE TECHNICAL ASSISTANCE PRIOR TO, DURING, AND IMMEDIATELY FOLLOWING THE DEVELOPMENT OF A PLANT HEALTH EMERGENCY THROUGH THE DEVELOPMENT OF NEW PEST RESPONSE GUIDELINES (NRPG) FOR THE POTENTIAL INTRODUCTION OF EXOTIC PLANT PESTS. 3. DELIVERABLES AND EXPECTED OUTCOMES: EVALUATION OF THE THOROUGHNESS OF EPHRT CAN BE QUANTIFIED BY THE NUMBER OF EMERGENCY RESPONSES AND THE NUMBER OF PROJECTS WHERE THE PEST IS DECLARED ERADICATED. A TABULATION OF THE NUMBER OF DELIMITATION SURVEYS AND THE SIZE OF THE RESULTANT ERADICATION PROJECT CAN ALSO BE USED TO DETERMINE IF THE EPHRT EFFORTS WERE SUFFICIENT. THE SUCCESS OF THE ERADICATION PROGRAM IS MONITORED BY INTENSIVE SURVEY LEVELS FOR A SPECIFIED TIME PERIOD AFTER THE LAST PEST HAS BEEN DETECTED. TYPICALLY, THIS TIME PERIOD IS DETERMINED BY A TEMPERATURE-DEPENDENT DEVELOPMENTAL MODEL DRIVE BY DAY DEGREES. NEGATIVE SURVEY RESULTS WOULD INDICATE THAT THE PREVIOUS ERADICATIVE ACTIONS HAVE BEN AND CONTINUE TO BE EFFECTIVE. 4. INTENDED BENEFICIARY(IES): RAPID RESPONSE IS CRITICAL TO PROVIDE FOR AND HELP DEVELOP SMALL, QUICK, AND EFFECTIVE MITIGATION OPTIONS THAT WILL REDUCE DISPROPORTIONAL IMPACTS TO SMALL GROWERS, RELEASING THEM FROM NEW PEST QUARANTINES QUICKER AND ALLOWING THEM TO GET BACK INTO PRODUCTION. THIS APPROACH ALSO MINIMIZES THE IMPACT ON THE PUBLIC AND THE ENVIRONMENT BY AVOIDING LARGE-SCALE TREATMENT PROGRAMS INVOLVING THE APPLICATION OF PESTICIDES.WITHOUT A RAPID RESPONSE, THE NEW PESTS COULD CAUSE DEVASTATING LOSSES TO THE AGRICULTURAL INDUSTRY IF THEY WERE TO BECOME ESTABLISHED IN CALIFORNIA, AND SEVERELY IMPACT EXPORT AND TRADE. 5. SUBRECIPIENT ACTIVITIES, IF KNOWN OR SPECIFIED AT THE TIME OF AWARD: CONTRACTS WITH COUNTY AGRICULTURAL COMMISSIONERS (CAC), CALIFORNIA OFFICE OF ENVIRONMENTAL HEALTH HAZARD ASSESSMENT (OEHHA), CALIFORNIA DEPARTMENT OF PESTICIDE REGULATION (DPR), UNIVERSITY OF CALIFORNIA DAVIS (UCD), AND CALIFORNIA CONSERVATION CORPS (CCC) WILL BE USED TO CARRY OUT SURVEY TASKS, EVALUATION, AND OTHER SUPPORT SERVICES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "H8ANDD5WXME7",
+    "Recipient Location": {
+      "address_line1": "1220 N ST STE 400",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5603",
+      "zip5": "95814"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Animal and Plant Health Inspection Service",
+    "Start Date": "2023-05-01",
+    "End Date": "2024-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2673dc0c-eb29-402e-2f47-3115c28630f0-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_AP23PPQFO000C214_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 80570137,
+    "generated_unique_award_id": "ASST_NON_AP23PPQFO000C214_012",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "1. AWARD PURPOSE: THE PEST DETECTION/EMERGENCY PROJECTS (PD/EP) BRANCH IS RESPONSIBLE FOR THE EARLY DETECTION AND PROMPT ERADICATION OF INJURIOUS AGRICULTURAL PESTS BY CONDUCTING A STATEWIDE TRAPPING PROGRAM FOR EXOTIC INSECT PESTS. THE PROGRAM WILL IMPLEMENT SPECIAL SURVEYS FOR NEWLY EMERGING, SIGNIFICANT AGRICULTURAL PESTS AND PLANT DISEASES FOR WHICH TRAPS ARE NOT AVAILABLE AND PROVIDE EMERGENCY ERADICATION SERVICES USING THE BEST AVAILABLE SCIENCE AND TECHNOLOGY. THIS WORK PLAN ENSURES THE DEVELOPMENT, RAPID RESPONSE, AND MAINTENANCE OF THE EMERGENCY PLANT HEALTH RESPONSE TEAMS (EPHRT) THROUGHOUT THE STATE THAT SERVE AS THE FIRST RESPONDERS TO PLANT PEST EMERGENCY ERADICATION PROJECTS. COMPONENTS INCLUDE CREATING NEW PEST RESPONSE GUIDELINES, TRAINING, INITIAL RESPONSE SURVEY, TREATMENT, IF NEEDED, AND POTENTIALLY THE ENFORCEMENT OF QUARANTINE REGULATIONS AND IDENTIFICATION OF EXOTIC PESTS IN CALIFORNIA IN COOPERATION WITH USDA-APHIS. 2. ACTIVITIES TO BE PERFORMED: DEVELOP, PROMOTE, AND IMPLEMENT NEW CONTROL TECHNOLOGIES, AND TOOLS AND TREATMENTS FOR USE IN PLANT HEALTH EMERGENCIES AND/OR ESTABLISHED PEST PROGRAMS. ENHANCE PREPARATION FOR PLANT PEST EMERGENCIES BY IMPROVING THE KNOWLEDGE BASE, RESPONSE OPTIONS AND CAPABILITIES PRIOR TO THE ONSET OF A PLANT HEALTH EMERGENCY. PROVIDE INITIAL AND SHORT-TERM FUNDING TO QUICKLY IMPLEMENT PROGRAMS THROUGHOUT THE STATE THAT EMPLOY EXISTING AND INITIAL RESPONSE PROTOCOLS FOR THE OVERARCHING GOALS OF CONTAINMENT, CONTROL, OR ERADICATION IMMEDIATELY FOLLOWING THE DEVELOPMENT OF A PLANT HEALTH EMERGENCY. PROVIDE TECHNICAL ASSISTANCE PRIOR TO, DURING, AND IMMEDIATELY FOLLOWING THE DEVELOPMENT OF A PLANT HEALTH EMERGENCY THROUGH THE DEVELOPMENT OF NEW PEST RESPONSE GUIDELINES (NRPG) FOR THE POTENTIAL INTRODUCTION OF EXOTIC PLANT PESTS. 3. DELIVERABLES AND EXPECTED OUTCOMES: EVALUATION OF THE THOROUGHNESS OF EPHRT CAN BE QUANTIFIED BY THE NUMBER OF EMERGENCY RESPONSES AND THE NUMBER OF PROJECTS WHERE THE PEST IS DECLARED ERADICATED. A TABULATION OF THE NUMBER OF DELIMITATION SURVEYS AND THE SIZE OF THE RESULTANT ERADICATION PROJECT CAN ALSO BE USED TO DETERMINE IF THE EPHRT EFFORTS WERE SUFFICIENT. THE SUCCESS OF THE ERADICATION PROGRAM IS MONITORED BY INTENSIVE SURVEY LEVELS FOR A SPECIFIED TIME PERIOD AFTER THE LAST PEST HAS BEEN DETECTED. TYPICALLY, THIS TIME PERIOD IS DETERMINED BY A TEMPERATURE-DEPENDENT DEVELOPMENTAL MODEL DRIVE BY DAY DEGREES. NEGATIVE SURVEY RESULTS WOULD INDICATE THAT THE PREVIOUS ERADICATIVE ACTIONS HAVE BEN AND CONTINUE TO BE EFFECTIVE. 4. INTENDED BENEFICIARY(IES): RAPID RESPONSE IS CRITICAL TO PROVIDE FOR AND HELP DEVELOP SMALL, QUICK, AND EFFECTIVE MITIGATION OPTIONS THAT WILL REDUCE DISPROPORTIONAL IMPACTS TO SMALL GROWERS, RELEASING THEM FROM NEW PEST QUARANTINES QUICKER AND ALLOWING THEM TO GET BACK INTO PRODUCTION. THIS APPROACH ALSO MINIMIZES THE IMPACT ON THE PUBLIC AND THE ENVIRONMENT BY AVOIDING LARGE-SCALE TREATMENT PROGRAMS INVOLVING THE APPLICATION OF PESTICIDES.WITHOUT A RAPID RESPONSE, THE NEW PESTS COULD CAUSE DEVASTATING LOSSES TO THE AGRICULTURAL INDUSTRY IF THEY WERE TO BECOME ESTABLISHED IN CALIFORNIA, AND SEVERELY IMPACT EXPORT AND TRADE. 5. SUBRECIPIENT ACTIVITIES, IF KNOWN OR SPECIFIED AT THE TIME OF AWARD: CONTRACTS WITH COUNTY AGRICULTURAL COMMISSIONERS (CAC), CALIFORNIA OFFICE OF ENVIRONMENTAL HEALTH HAZARD ASSESSMENT (OEHHA), CALIFORNIA DEPARTMENT OF PESTICIDE REGULATION (DPR), UNIVERSITY OF CALIFORNIA DAVIS (UCD), AND CALIFORNIA CONSERVATION CORPS (CCC) WILL BE USED TO CARRY OUT SURVEY TASKS, EVALUATION, AND OTHER SUPPORT SERVICES.",
+    "total_obligation": 2000000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-05-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2000000,
+    "total_account_obligation": 2000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2000000
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 176,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Animal and Plant Health Inspection Service",
+        "code": "12K3",
+        "abbreviation": "APHIS"
+      },
+      "office_agency_name": "PPQ-FO FT COLLINS CO"
+    },
+    "awarding_agency": {
+      "id": 176,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Animal and Plant Health Inspection Service",
+        "code": "12K3",
+        "abbreviation": "APHIS"
+      },
+      "office_agency_name": "PPQ-FO FT COLLINS CO"
+    },
+    "period_of_performance": {
+      "start_date": "2023-05-01",
+      "end_date": "2024-04-30",
+      "last_modified_date": "2025-02-13",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2673dc0c-eb29-402e-2f47-3115c28630f0-C",
+      "recipient_name": "FOOD \u0026 AGRICULTURE, CALIFORNIA DEPARTMENT OF",
+      "recipient_uei": "H8ANDD5WXME7",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "767ea773-fe28-1a94-a12e-aec774194af4-P",
+      "parent_recipient_name": "FOOD \u0026 AGRICULTURE  CALIFORNIA DEPARTMENT OF",
+      "parent_recipient_uei": "LNRMZMQC5DK3",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SACRAMENTO",
+        "county_code": "067",
+        "county_name": "SACRAMENTO",
+        "address_line1": "1220 N ST STE 400",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "07",
+        "zip4": "5603",
+        "zip5": "95814",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2000000
+  }
+}

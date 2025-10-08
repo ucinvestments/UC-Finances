@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173972829,
+    "Award ID": "R01AR085008",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 675131,
+    "Total Outlays": null,
+    "Description": "ULTRASHORT ECHO TIME MAGNETIC RESONANCE IMAGING OF THE KNEE JOINT - 7. ABSTRACT KNEE OSTEOARTHRITIS (OA) AFFECTS \u003e14 MILLION AMERICANS. IT IS IMPORTANT TO DEVELOP TECHNIQUES TO ASSESS EARLY OA FOR TIMELY INTERVENTION. MRI PROVIDES EXCELLENT SOFT TISSUE CONTRAST, BUT CLINICAL MRI IS INSENSITIVE TO EARLY OA. THERE ARE FOUR MAJOR BARRIERS: FIRST, OA IS A  WHOLE ORGAN DISEASE  THAT INVOLVES ALL MAJOR JOINT TISSUES, BUT MANY JOINT TISSUES (E.G., THE DEEP CARTILAGE, MENISCI, LIGAMENTS, TENDONS, AND BONE) HAVE SHORT T2S AND SHOW LITTLE OR NO SIGNAL WITH CLINICAL MRI. SECOND, EARLY OA IS ASSOCIATED WITH PROTEOGLYCAN (PG) LOSS AND COLLAGEN DISRUPTION, WHICH ARE DIFFICULT TO EVALUATE ESPECIALLY FOR SHORT-T2 TISSUES. THIRD, MOST RESEARCH HAS FOCUSED ON T2 (BIOMARKER OF COLLAGEN DISRUPTION) AND CONTINUOUS WAVE T1 (CW-T1) (BIOMARKER OF PG DEPLETION). HOWEVER, T2 AND CW-T1 ARE SENSITIVE TO THE MAGIC ANGLE EFFECT WITH \u003e100% INCREASE WHEN TISSUE FIBERS ARE REORIENTED FROM 0 TO ~54 TO B0 (EXCEEDING THE 10-30% CHANGE PRODUCED BY OA). FOURTH, MRI IS SLOW AND EXPENSIVE, REQUIRING FAST IMAGING TO REDUCE COST AND AUTOMATED PROCESSING TO FACILITATE CLINICAL APPLICATIONS. THERE IS AN URGENT NEED FOR FAST AUTOMATED ANGULAR-INDEPENDENT BIOMARKERS TO MAP PG AND COLLAGEN IN BOTH SHORT- AND LONG-T2 TISSUES IN THE KNEE JOINT TO DIAGNOSE EARLY OA ACCURATELY.  ULTRASHORT ECHO TIME (UTE) SEQUENCES CAN IMAGE  MR INVISIBLE  TISSUES. UTE ADIABATIC T1 (UTE- ADIABATIC-T1) AND MAGNETIZATION TRANSFER MODELING OF MACROMOLECULAR FRACTION (UTE-MT-MMF) ALLOW MAGIC ANGLE INSENSITIVE MAPPING OF PG AND COLLAGEN IN ALL MAJOR KNEE JOINT TISSUES. FAT IS A MAJOR CONFOUNDING FACTOR. IT HAS SIGNIFICANTLY SHORTER T1 AND HIGHER PROTON DENSITY THAN MOST SHORT-T2 TISSUES, LEADING TO HIGH FAT SIGNAL AND LOW SHORT-T2 CONTRAST IN UTE IMAGING. FAT ALSO PRODUCES STRONG CHEMICAL SHIFT ARTIFACTS MANIFEST AS SPATIAL BLURRING AND RINGING ARTIFACTS IN NON-CARTESIAN UTE IMAGING, LEADING TO INACCURATE QUANTITATION. FAT SATURATION (FATSAT) CAN REDUCE FAT SIGNAL AND CHEMICAL SHIFT ARTIFACTS. HOWEVER, FATSAT PULSES MAY SIGNIFICANTLY SUPPRESS SHORT-T2 SIGNALS DIRECTLY DUE TO THEIR BROAD SPECTRA OR INDIRECTLY DUE TO THE MT EFFECT. UTE WITH A SOFT-HARD COMPOSITE PULSE ALLOWS WATER EXCITATION WITH LITTLE CHEMICAL SHIFT ARTIFACT. SINGLE POINT DIXON TECHNIQUE ALLOWS ROBUST FAT WATER SEPARATION WITHOUT SHORT-T2 SIGNAL ATTENUATION. THESE TECHNIQUES CAN BE COMBINED WITH UTE- ADIABATIC-T1 AND UTE-MT-MMF TO IMPROVE PG AND COLLAGEN MAPPING. FURTHERMORE, QUANTITATIVE UTE IMAGING IS TIME-CONSUMING AND INVOLVES COMPLICATED DATA PROCESSING AND SIGNAL MODELING. DEEP LEARNING (DL) ALLOWS AUTOMATIC SEGMENTATION AND ACCELERATED QUANTITATIVE MAPPING. THIS PROPOSAL AIMS TO OPTIMIZE AND VALIDATE UTE-ADIABATIC-T1 AND UTE-MT-MMF TECHNIQUES ON KNEE SPECIMENS FOR EARLY OA (AIM 1), DEVELOP A MULTI- TISSUE SEGMENTATION WITH MULTI-PARAMETER QUANTIFICATION NET (MSMQ-NET) FOR SIMULTANEOUS SEGMENTATION AND MULTI-PARAMETER MAPPING (AIM 2), AND EVALUATE KNEE CHANGES BEFORE AND POST (6, 12, AND 24 MONTHS) MENISCECTOMY FOR PROOF OF PRINCIPLE (AIM 3). THE GOAL IS TO DELIVER A VALIDATED POSTPROCESSING PIPELINE FROM IMAGE ACQUISITION TO AUTOMATED SEGMENTATION AND UTE MAPPING OF ALL MAJOR KNEE TISSUES FOR EARLY OA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92093",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-08-01",
+    "End Date": "2030-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AR085008_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173972829,
+    "generated_unique_award_id": "ASST_NON_R01AR085008_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ULTRASHORT ECHO TIME MAGNETIC RESONANCE IMAGING OF THE KNEE JOINT - 7. ABSTRACT KNEE OSTEOARTHRITIS (OA) AFFECTS \u003e14 MILLION AMERICANS. IT IS IMPORTANT TO DEVELOP TECHNIQUES TO ASSESS EARLY OA FOR TIMELY INTERVENTION. MRI PROVIDES EXCELLENT SOFT TISSUE CONTRAST, BUT CLINICAL MRI IS INSENSITIVE TO EARLY OA. THERE ARE FOUR MAJOR BARRIERS: FIRST, OA IS A  WHOLE ORGAN DISEASE  THAT INVOLVES ALL MAJOR JOINT TISSUES, BUT MANY JOINT TISSUES (E.G., THE DEEP CARTILAGE, MENISCI, LIGAMENTS, TENDONS, AND BONE) HAVE SHORT T2S AND SHOW LITTLE OR NO SIGNAL WITH CLINICAL MRI. SECOND, EARLY OA IS ASSOCIATED WITH PROTEOGLYCAN (PG) LOSS AND COLLAGEN DISRUPTION, WHICH ARE DIFFICULT TO EVALUATE ESPECIALLY FOR SHORT-T2 TISSUES. THIRD, MOST RESEARCH HAS FOCUSED ON T2 (BIOMARKER OF COLLAGEN DISRUPTION) AND CONTINUOUS WAVE T1 (CW-T1) (BIOMARKER OF PG DEPLETION). HOWEVER, T2 AND CW-T1 ARE SENSITIVE TO THE MAGIC ANGLE EFFECT WITH \u003e100% INCREASE WHEN TISSUE FIBERS ARE REORIENTED FROM 0 TO ~54 TO B0 (EXCEEDING THE 10-30% CHANGE PRODUCED BY OA). FOURTH, MRI IS SLOW AND EXPENSIVE, REQUIRING FAST IMAGING TO REDUCE COST AND AUTOMATED PROCESSING TO FACILITATE CLINICAL APPLICATIONS. THERE IS AN URGENT NEED FOR FAST AUTOMATED ANGULAR-INDEPENDENT BIOMARKERS TO MAP PG AND COLLAGEN IN BOTH SHORT- AND LONG-T2 TISSUES IN THE KNEE JOINT TO DIAGNOSE EARLY OA ACCURATELY.  ULTRASHORT ECHO TIME (UTE) SEQUENCES CAN IMAGE  MR INVISIBLE  TISSUES. UTE ADIABATIC T1 (UTE- ADIABATIC-T1) AND MAGNETIZATION TRANSFER MODELING OF MACROMOLECULAR FRACTION (UTE-MT-MMF) ALLOW MAGIC ANGLE INSENSITIVE MAPPING OF PG AND COLLAGEN IN ALL MAJOR KNEE JOINT TISSUES. FAT IS A MAJOR CONFOUNDING FACTOR. IT HAS SIGNIFICANTLY SHORTER T1 AND HIGHER PROTON DENSITY THAN MOST SHORT-T2 TISSUES, LEADING TO HIGH FAT SIGNAL AND LOW SHORT-T2 CONTRAST IN UTE IMAGING. FAT ALSO PRODUCES STRONG CHEMICAL SHIFT ARTIFACTS MANIFEST AS SPATIAL BLURRING AND RINGING ARTIFACTS IN NON-CARTESIAN UTE IMAGING, LEADING TO INACCURATE QUANTITATION. FAT SATURATION (FATSAT) CAN REDUCE FAT SIGNAL AND CHEMICAL SHIFT ARTIFACTS. HOWEVER, FATSAT PULSES MAY SIGNIFICANTLY SUPPRESS SHORT-T2 SIGNALS DIRECTLY DUE TO THEIR BROAD SPECTRA OR INDIRECTLY DUE TO THE MT EFFECT. UTE WITH A SOFT-HARD COMPOSITE PULSE ALLOWS WATER EXCITATION WITH LITTLE CHEMICAL SHIFT ARTIFACT. SINGLE POINT DIXON TECHNIQUE ALLOWS ROBUST FAT WATER SEPARATION WITHOUT SHORT-T2 SIGNAL ATTENUATION. THESE TECHNIQUES CAN BE COMBINED WITH UTE- ADIABATIC-T1 AND UTE-MT-MMF TO IMPROVE PG AND COLLAGEN MAPPING. FURTHERMORE, QUANTITATIVE UTE IMAGING IS TIME-CONSUMING AND INVOLVES COMPLICATED DATA PROCESSING AND SIGNAL MODELING. DEEP LEARNING (DL) ALLOWS AUTOMATIC SEGMENTATION AND ACCELERATED QUANTITATIVE MAPPING. THIS PROPOSAL AIMS TO OPTIMIZE AND VALIDATE UTE-ADIABATIC-T1 AND UTE-MT-MMF TECHNIQUES ON KNEE SPECIMENS FOR EARLY OA (AIM 1), DEVELOP A MULTI- TISSUE SEGMENTATION WITH MULTI-PARAMETER QUANTIFICATION NET (MSMQ-NET) FOR SIMULTANEOUS SEGMENTATION AND MULTI-PARAMETER MAPPING (AIM 2), AND EVALUATE KNEE CHANGES BEFORE AND POST (6, 12, AND 24 MONTHS) MENISCECTOMY FOR PROOF OF PRINCIPLE (AIM 3). THE GOAL IS TO DELIVER A VALIDATED POSTPROCESSING PIPELINE FROM IMAGE ACQUISITION TO AUTOMATED SEGMENTATION AND UTE MAPPING OF ALL MAJOR KNEE TISSUES FOR EARLY OA.",
+    "total_obligation": 675131,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-25",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 675131,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 675131
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2030-06-30",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

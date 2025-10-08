@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173194814,
+    "Award ID": "R01EY036504",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 719012,
+    "Total Outlays": null,
+    "Description": "OPTIMIZING SUPRACHOROIDAL AAV DELIVERY IN NONHUMAN PRIMATES FOR RETINAL GENE THERAPIES - PROJECT SUMMARY ADENO-ASSOCIATED VIRUSES (AAVS) ARE WIDELY EMPLOYED FOR RETINAL GENE THERAPIES, BUT CONVENTIONAL ROUTES OF ADMINISTRATION HAVE SEVERAL CHALLENGES. SUBRETINAL AAV DELIVERY ENABLES ONLY FOCAL TRANSDUCTION AND RISKS SURGICAL COMPLICATIONS FROM VITRECTOMY. INTRAVITREAL AAV INJECTIONS ARE EASIER TO PERFORM IN THE OFFICE, BUT DO NOT EFFICIENTLY TRANSDUCE PHOTORECEPTORS AND INDUCE GREATER INTRAOCULAR INFLAMMATION. WE RECENTLY DEMONSTRATED THE SUCCESSFUL USE OF TRANSSCLERAL MICRONEEDLES TO DELIVER AAV8 VECTORS INTO THE SUPRACHROIDAL SPACE OF NONHUMAN PRIMATES (NHPS). SUPRACHOROIDAL AAV INJECTIONS ARE MORE EASILY PERFORMED IN THE OFFICE AND LESS INVASIVE THAN SUBRETINAL INJECTIONS, AND ENABLE BROAD RETINAL TRANSDUCTION THAT CANNOT BE ACHIEVED WITH INTRAVITREAL DELIVERY. ALTHOUGH SUPRACHOROIDAL GENE THERAPY HAS BEGUN ENTERING HUMAN CLINICAL TRIALS, OUR RECENT STUDIES SHOWED THAT SUPRACHOROIDAL AAV8 DELIVERY HAS (1) RESTRICTED BIODISTRIBUTION TO THE PERIPHERAL RETINA, (2) LIMITED CELLULAR TROPISM FOR MOSTLY RETINAL PIGMENT EPITHELIUM (RPE), AND (3) SHORT DURABILITY OF TRANSGENE EXPRESSION THAT MAY BE ATTRIBUTED TO HOST IMMUNITY TO VIRAL TRANSDUCTION OUTSIDE THE BLOOD-RETINAL BARRIER. WE HYPOTHESIZE THAT SUPRACHOROIDAL AAV DELIVERY CAN OVERCOME THE LIMITATIONS OF CONVENTIONAL SUBRETINAL OR INTRAVITREAL AAV ADMINISTRATION, IF BIODISTRIBUTION, CELLULAR TROPISM, DURABILITY, AND SAFETY CAN BE PROPERLY OPTIMIZED. IN THIS STUDY, WE WILL EVALUATE THE USE OF MICROCATHETERIZATION, AS WELL AS THE IMPACT OF INCREASING INJECTION VOLUME OR VISCOSITY, TO ENHANCE POSTERIOR BIODISTRIBUTION OF SUPRACHOROIDAL AAV DELIVERY TO THE MACULA. NEXT, WE WILL SCREEN A BARCODED LIBRARY OF NATURALLY-OCCURRING AND ENGINEERED AAV CAPSIDS DESIGNED TO PENETRATE THE BLOOD-BRAIN BARRIER IN NHPS, WITH THE GOAL OF IDENTIFYING AND VALIDATING AAVS THAT CAN CROSS THE BLOOD-RETINAL BARRIER FROM THE SUPRACHOROIDAL SPACE TO TRANSDUCE PHOTORECEPTORS. FINALLY, WE WILL CHARACTERIZE HOST LOCAL AND SYSTEMIC IMMUNE RESPONSES TO CAPSIDS AND TRANSGENES AFTER SUPRACHOROIDAL AAV DELIVERY BY MEASURING AQUEOUS AND PLASMA CYTOKINES, NEUTRALIZING ANTIBODIES (NABS), LEUKOCYTE RESPONSES, AND CELLULAR-LEVEL TRANSCRIPTIONAL PROFILING, WITH AND WITHOUT SYSTEMIC PROPHYLAXIS WITH CORTICOSTEROIDS OR THE SPHINGOSINE 1-PHOSPHATE RECEPTOR MODULATOR FINGOLIMOD. TOGETHER, OUR STUDIES WILL ADDRESS CRITICAL BARRIERS TO OPTIMIZING SUPRACHOROIDAL INJECTIONS AS A NOVEL ROUTE OF AAV ADMINISTRATION FOR EFFECTIVE, SAFE, AND DURABLE GENE THERAPY STRATEGIES TO TREAT PATIENTS WITH RETINAL DISEASES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-08-01",
+    "End Date": "2030-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01EY036504_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173194814,
+    "generated_unique_award_id": "ASST_NON_R01EY036504_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "OPTIMIZING SUPRACHOROIDAL AAV DELIVERY IN NONHUMAN PRIMATES FOR RETINAL GENE THERAPIES - PROJECT SUMMARY ADENO-ASSOCIATED VIRUSES (AAVS) ARE WIDELY EMPLOYED FOR RETINAL GENE THERAPIES, BUT CONVENTIONAL ROUTES OF ADMINISTRATION HAVE SEVERAL CHALLENGES. SUBRETINAL AAV DELIVERY ENABLES ONLY FOCAL TRANSDUCTION AND RISKS SURGICAL COMPLICATIONS FROM VITRECTOMY. INTRAVITREAL AAV INJECTIONS ARE EASIER TO PERFORM IN THE OFFICE, BUT DO NOT EFFICIENTLY TRANSDUCE PHOTORECEPTORS AND INDUCE GREATER INTRAOCULAR INFLAMMATION. WE RECENTLY DEMONSTRATED THE SUCCESSFUL USE OF TRANSSCLERAL MICRONEEDLES TO DELIVER AAV8 VECTORS INTO THE SUPRACHROIDAL SPACE OF NONHUMAN PRIMATES (NHPS). SUPRACHOROIDAL AAV INJECTIONS ARE MORE EASILY PERFORMED IN THE OFFICE AND LESS INVASIVE THAN SUBRETINAL INJECTIONS, AND ENABLE BROAD RETINAL TRANSDUCTION THAT CANNOT BE ACHIEVED WITH INTRAVITREAL DELIVERY. ALTHOUGH SUPRACHOROIDAL GENE THERAPY HAS BEGUN ENTERING HUMAN CLINICAL TRIALS, OUR RECENT STUDIES SHOWED THAT SUPRACHOROIDAL AAV8 DELIVERY HAS (1) RESTRICTED BIODISTRIBUTION TO THE PERIPHERAL RETINA, (2) LIMITED CELLULAR TROPISM FOR MOSTLY RETINAL PIGMENT EPITHELIUM (RPE), AND (3) SHORT DURABILITY OF TRANSGENE EXPRESSION THAT MAY BE ATTRIBUTED TO HOST IMMUNITY TO VIRAL TRANSDUCTION OUTSIDE THE BLOOD-RETINAL BARRIER. WE HYPOTHESIZE THAT SUPRACHOROIDAL AAV DELIVERY CAN OVERCOME THE LIMITATIONS OF CONVENTIONAL SUBRETINAL OR INTRAVITREAL AAV ADMINISTRATION, IF BIODISTRIBUTION, CELLULAR TROPISM, DURABILITY, AND SAFETY CAN BE PROPERLY OPTIMIZED. IN THIS STUDY, WE WILL EVALUATE THE USE OF MICROCATHETERIZATION, AS WELL AS THE IMPACT OF INCREASING INJECTION VOLUME OR VISCOSITY, TO ENHANCE POSTERIOR BIODISTRIBUTION OF SUPRACHOROIDAL AAV DELIVERY TO THE MACULA. NEXT, WE WILL SCREEN A BARCODED LIBRARY OF NATURALLY-OCCURRING AND ENGINEERED AAV CAPSIDS DESIGNED TO PENETRATE THE BLOOD-BRAIN BARRIER IN NHPS, WITH THE GOAL OF IDENTIFYING AND VALIDATING AAVS THAT CAN CROSS THE BLOOD-RETINAL BARRIER FROM THE SUPRACHOROIDAL SPACE TO TRANSDUCE PHOTORECEPTORS. FINALLY, WE WILL CHARACTERIZE HOST LOCAL AND SYSTEMIC IMMUNE RESPONSES TO CAPSIDS AND TRANSGENES AFTER SUPRACHOROIDAL AAV DELIVERY BY MEASURING AQUEOUS AND PLASMA CYTOKINES, NEUTRALIZING ANTIBODIES (NABS), LEUKOCYTE RESPONSES, AND CELLULAR-LEVEL TRANSCRIPTIONAL PROFILING, WITH AND WITHOUT SYSTEMIC PROPHYLAXIS WITH CORTICOSTEROIDS OR THE SPHINGOSINE 1-PHOSPHATE RECEPTOR MODULATOR FINGOLIMOD. TOGETHER, OUR STUDIES WILL ADDRESS CRITICAL BARRIERS TO OPTIMIZING SUPRACHOROIDAL INJECTIONS AS A NOVEL ROUTE OF AAV ADMINISTRATION FOR EFFECTIVE, SAFE, AND DURABLE GENE THERAPY STRATEGIES TO TREAT PATIENTS WITH RETINAL DISEASES.",
+    "total_obligation": 719012,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 719012,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 719012
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Eye Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2030-07-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

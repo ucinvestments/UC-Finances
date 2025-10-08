@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91175834,
+    "Award ID": "R01DK132597",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1936088,
+    "Total Outlays": 1496079.63,
+    "Description": "FFA4 REGULATION OF PANCREATIC ISLET FUNCTION - HALF OF US ADULTS HAVE DIABETES OR PRE-DIABETES, ILLUSTRATING A CRITICAL NEED FOR NOVEL DIABETES TREATMENTS. THERE IS A FUNDAMENTAL GAP IN THE UNDERSTANDING OF THE PARACRINE FEEDBACK IN CONTROL OF INSULIN AND GLUCAGON SECRETION. THE LONG-TERM GOAL OF THE RESEARCH PROGRAM IS TO ELUCIDATE THE KEY PLAYERS IN (PATHO)PHYSIOLOGICAL CROSSTALK WITHIN PANCREATIC ISLETS IN ORDER TO IDENTIFY NOVEL THERAPEUTIC TARGETS. THE OVERALL OBJECTIVE IN THIS APPLICATION IS TO UNDERSTAND THE MECHANISMS OF ACTION FOR THE LONG CHAIN FATTY ACID RECEPTOR 4 (FFA4). THIS G PROTEIN-COUPLED RECEPTOR IS A PROMISING T2D DRUG TARGET THAT INCREASES INSULIN SECRETION. HOWEVER, THERE IS CONFLICTING INFORMATION WITH REGARDS TO THE ISLET CELL TYPE(S) INVOLVED IN THE SALUTARY ACTIONS OF FFA4. THE CENTRAL HYPOTHESIS IS THAT WITHIN PANCREATIC ISLETS FFA4 IS PREDOMINANTLY EXPRESSED IN D CELLS WHERE ITS ACTIVATION INHIBITS SOMATOSTATIN (SST) RELEASE AND ALLEVIATES TONIC INHIBITION OF INSULIN AND GLUCAGON SECRETION. THIS HYPOTHESIS WAS FORMULATED ON THE BASIS OF PRELIMINARY AND RECENTLY PUBLISHED DATA PRODUCED COLLABORATIVELY IN THE LABORATORIES OF BOTH PIS THAT PLACE FFA4 EXPRESSION PREDOMINANTLY ON D CELLS. FURTHERMORE, FFA4 STIMULATION INHIBITS D CELLS AND STIMULATES CAMP, CA2+ AND HORMONE SECRETION IN B AND A CELLS - EFFECTS THAT DEPEND ON D CELL EXPRESSION OF FFA4. NEVERTHELESS, FFA4 AGONISTS STIMULATE B CELL PROLIFERATION INDEPENDENTLY OF D CELLS AND OTHERS CLAIM DIRECT FFA4 STIMULATION OF B CELLS. THE RATIONALE FOR THE PROPOSED RESEARCH IS TO DEFINITIVELY RESOLVE THE MECHANISM(S) BY WHICH FFA4 AGONISTS PROMOTE INSULIN AND GLUCAGON SECRETION AND BETA CELL PROLIFERATION. THIS HYPOTHESIS WILL BE TESTED IN 3 SPECIFIC AIMS. AIM 1 TESTS THE HYPOTHESIS THAT FFA4 ACTIVATION IN D CELLS LOWERS CAMP GENERATION AND INHIBITS SST SECRETION, WHICH INDIRECTLY ENHANCES CAMP GENERATION IN B AND A CELLS TO STIMULATE INSULIN AND GLUCAGON SECRETION, RESPECTIVELY. SST WILL BE DELETED GENETICALLY, OR D CELLS WILL BE ABLATED BY DIPHTERIA TOXIN, TO DETERMINE IF STIMULATION OF FFA4 STIMULATES B AND A CELLS IF 1) SST IS DELETED, 2) D CELLS ARE ABLATED. AIM 2 TEST THE HYPOTHESIS THAT DIRECT FFA4 ACTIVATION OF A OR B CELLS HAS MINIMAL IMPACT ON HORMONE SECRETION, BUT PROMOTES B-CELL PROLIFERATION. FFA4 WILL BE SELECTIVELY DELETED IN A OR B CELLS TO DETERMINE WHETHER FFA4-INDUCED HORMONE RELEASE, CAMP GENERATION, OR PROLIFERATION IS A OR B CELL-AUTONOMOUS. AIM 3 TESTS THE HYPOTHESIS THAT FFA4 COUPLES TO GAZ IN D CELLS TO INHIBIT SST SECRETION AND TO GAS IN A AND/OR B CELLS TO STIMULATE B-CELL PROLIFERATION. THE G PROTEINS INVOLVED IN FFA4-MEDIATED ISLET RESPONSES WILL BE IDENTIFIED BY GENETIC DELETION OF GAZ IN SPECIFIC ISLET CELLS COMBINED WITH PHARMACOLOGICAL INHIBITION AND SIRNA-MEDIATED SILENCING OF SELECT G-PROTEIN ISOFORMS. THE RESEARCH IS CONCEPTUALLY AND TECHNICALLY INNOVATIVE AS IT EVALUATES THE IMPORTANT PHYSIOLOGICAL ROLE OF D CELLS WITHIN INTACT ISLETS IN ATTENUATING A- AND B-CELL ACTIVITY AND APPLIES SOPHISTICATED FUNCTIONAL IMAGING TO QUANTIFY THE KINETICS OF CAMP AND CA2+ IN A, B, AND D CELLS AT SINGLE CELL RESOLUTION WITHIN INTACT ISLETS. THESE EXPERIMENTS PROVIDE PREVIOUSLY UNATTAINABLE SINGLE-CELL RESOLUTION COMBINED WITH APPROACHES TO EXPERIMENTALLY INTERRUPT SST-MEDIATED INTRA-ISLET FEEDBACK TO ELUCIDATE THE MECHANISMS THAT UNDERLIE THE BENEFICIAL EFFECTS OF FFA4 STIMULATION ON INSULIN SECRETION AND B-CELL PROLIFERATION. THIS IS SIGNIFICANT BECAUSE A FULL MECHANISTIC UNDERSTANDING OF THE PATHWAYS THAT MEDIATE THE SALUTARY ACTIONS OF FFA4 WILL INFORM NEW THERAPIES TO IMPROVE AND PRESERVE FUNCTIONAL B-CELL MASS AND INSULIN SECRETORY CAPACITY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-04-01",
+    "End Date": "2026-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DK132597_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91175834,
+    "generated_unique_award_id": "ASST_NON_R01DK132597_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "FFA4 REGULATION OF PANCREATIC ISLET FUNCTION - HALF OF US ADULTS HAVE DIABETES OR PRE-DIABETES, ILLUSTRATING A CRITICAL NEED FOR NOVEL DIABETES TREATMENTS. THERE IS A FUNDAMENTAL GAP IN THE UNDERSTANDING OF THE PARACRINE FEEDBACK IN CONTROL OF INSULIN AND GLUCAGON SECRETION. THE LONG-TERM GOAL OF THE RESEARCH PROGRAM IS TO ELUCIDATE THE KEY PLAYERS IN (PATHO)PHYSIOLOGICAL CROSSTALK WITHIN PANCREATIC ISLETS IN ORDER TO IDENTIFY NOVEL THERAPEUTIC TARGETS. THE OVERALL OBJECTIVE IN THIS APPLICATION IS TO UNDERSTAND THE MECHANISMS OF ACTION FOR THE LONG CHAIN FATTY ACID RECEPTOR 4 (FFA4). THIS G PROTEIN-COUPLED RECEPTOR IS A PROMISING T2D DRUG TARGET THAT INCREASES INSULIN SECRETION. HOWEVER, THERE IS CONFLICTING INFORMATION WITH REGARDS TO THE ISLET CELL TYPE(S) INVOLVED IN THE SALUTARY ACTIONS OF FFA4. THE CENTRAL HYPOTHESIS IS THAT WITHIN PANCREATIC ISLETS FFA4 IS PREDOMINANTLY EXPRESSED IN D CELLS WHERE ITS ACTIVATION INHIBITS SOMATOSTATIN (SST) RELEASE AND ALLEVIATES TONIC INHIBITION OF INSULIN AND GLUCAGON SECRETION. THIS HYPOTHESIS WAS FORMULATED ON THE BASIS OF PRELIMINARY AND RECENTLY PUBLISHED DATA PRODUCED COLLABORATIVELY IN THE LABORATORIES OF BOTH PIS THAT PLACE FFA4 EXPRESSION PREDOMINANTLY ON D CELLS. FURTHERMORE, FFA4 STIMULATION INHIBITS D CELLS AND STIMULATES CAMP, CA2+ AND HORMONE SECRETION IN B AND A CELLS - EFFECTS THAT DEPEND ON D CELL EXPRESSION OF FFA4. NEVERTHELESS, FFA4 AGONISTS STIMULATE B CELL PROLIFERATION INDEPENDENTLY OF D CELLS AND OTHERS CLAIM DIRECT FFA4 STIMULATION OF B CELLS. THE RATIONALE FOR THE PROPOSED RESEARCH IS TO DEFINITIVELY RESOLVE THE MECHANISM(S) BY WHICH FFA4 AGONISTS PROMOTE INSULIN AND GLUCAGON SECRETION AND BETA CELL PROLIFERATION. THIS HYPOTHESIS WILL BE TESTED IN 3 SPECIFIC AIMS. AIM 1 TESTS THE HYPOTHESIS THAT FFA4 ACTIVATION IN D CELLS LOWERS CAMP GENERATION AND INHIBITS SST SECRETION, WHICH INDIRECTLY ENHANCES CAMP GENERATION IN B AND A CELLS TO STIMULATE INSULIN AND GLUCAGON SECRETION, RESPECTIVELY. SST WILL BE DELETED GENETICALLY, OR D CELLS WILL BE ABLATED BY DIPHTERIA TOXIN, TO DETERMINE IF STIMULATION OF FFA4 STIMULATES B AND A CELLS IF 1) SST IS DELETED, 2) D CELLS ARE ABLATED. AIM 2 TEST THE HYPOTHESIS THAT DIRECT FFA4 ACTIVATION OF A OR B CELLS HAS MINIMAL IMPACT ON HORMONE SECRETION, BUT PROMOTES B-CELL PROLIFERATION. FFA4 WILL BE SELECTIVELY DELETED IN A OR B CELLS TO DETERMINE WHETHER FFA4-INDUCED HORMONE RELEASE, CAMP GENERATION, OR PROLIFERATION IS A OR B CELL-AUTONOMOUS. AIM 3 TESTS THE HYPOTHESIS THAT FFA4 COUPLES TO GAZ IN D CELLS TO INHIBIT SST SECRETION AND TO GAS IN A AND/OR B CELLS TO STIMULATE B-CELL PROLIFERATION. THE G PROTEINS INVOLVED IN FFA4-MEDIATED ISLET RESPONSES WILL BE IDENTIFIED BY GENETIC DELETION OF GAZ IN SPECIFIC ISLET CELLS COMBINED WITH PHARMACOLOGICAL INHIBITION AND SIRNA-MEDIATED SILENCING OF SELECT G-PROTEIN ISOFORMS. THE RESEARCH IS CONCEPTUALLY AND TECHNICALLY INNOVATIVE AS IT EVALUATES THE IMPORTANT PHYSIOLOGICAL ROLE OF D CELLS WITHIN INTACT ISLETS IN ATTENUATING A- AND B-CELL ACTIVITY AND APPLIES SOPHISTICATED FUNCTIONAL IMAGING TO QUANTIFY THE KINETICS OF CAMP AND CA2+ IN A, B, AND D CELLS AT SINGLE CELL RESOLUTION WITHIN INTACT ISLETS. THESE EXPERIMENTS PROVIDE PREVIOUSLY UNATTAINABLE SINGLE-CELL RESOLUTION COMBINED WITH APPROACHES TO EXPERIMENTALLY INTERRUPT SST-MEDIATED INTRA-ISLET FEEDBACK TO ELUCIDATE THE MECHANISMS THAT UNDERLIE THE BENEFICIAL EFFECTS OF FFA4 STIMULATION ON INSULIN SECRETION AND B-CELL PROLIFERATION. THIS IS SIGNIFICANT BECAUSE A FULL MECHANISTIC UNDERSTANDING OF THE PATHWAYS THAT MEDIATE THE SALUTARY ACTIONS OF FFA4 WILL INFORM NEW THERAPIES TO IMPROVE AND PRESERVE FUNCTIONAL B-CELL MASS AND INSULIN SECRETORY CAPACITY.",
+    "total_obligation": 1936088,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-03-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1496079.63,
+    "total_account_obligation": 1936088,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1496079.63
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1936088
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2022-04-01",
+      "end_date": "2026-03-31",
+      "last_modified_date": "2025-04-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1496079.63
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56319845,
+    "Award ID": "20206801330977",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1000000,
+    "Total Outlays": 916931.79,
+    "Description": "TOMATOES ARE THE SECOND MOST CONSUMED VEGETABLE IN THE U.S., REPRESENTING A $2.7 BIL INDUSTRY. THIS INDUSTRY IS UNDER ATTACK BY FUNGAL PATHOGENS THAT LIVE IN THE SOIL. THESE PATHOGENS CAN BE CONTROLLED BUT THIS REQUIRES THAT FARMERS UNDERSTAND WHICH PATHOGEN OR PATHOGENS ARE PRESENT ON THEIR FARM, THEY NEED TO KNOW IF THE PATHOGENS ARE IN THEIR SOIL, SEEDS OR WATER, AND THEY NEED TO GET THIS INFORMATION IN TIME. UNFORTUNATELY, MANY OF THESE PATHOGENS CANNOT CURRENTLY BE DISTINGUISHED WITH EXISTING IDENTIFICATION METHODS AND NONE OF THEM CAN BE IDENTIFIED IN THE TIME GROWERS NEED TO ORDER SEEDS, PREPARE CROP ROTATION PLANS, OR DEVELOP OTHER MANAGEMENT METHODS FOR THE NEXT SEASON. ONE PARTICULARLY PROBLEMATIC GROUP ARE FUNGI IN THE GENUS FUSARIUM. THERE ARE AT LEAST FOUR PATHOGENS IN THIS GROUP, INCLUDING FUSARIUM WILT, FUSARIUM CROWN AND ROOT ROT, A NEW FUSARIUM EARLY VINE DECLINE DISEASE (F. FALCIFORME), AND FUSARIUM STEM ROT. THESE ARE ALL KILLERS; SOME ARE CAPABLE OF DESTROYING THOUSANDS OF ACRES OF TOMATOES IN A MATTER OF TWO TO THREE YEARS.ENHANCED CAPACITIES FOR ACCURATE, TIMELY AND COST-EFFECTIVE DIAGNOSTICS AND DETECTION SUPPORT ARE URGENTLY NEEDED TO ENABLE EFFECTIVE MANAGEMENT. TO THIS END WE ARE CONDUCTING A FOUR-YEAR PROJECT TO ADDRESS NATIONAL NEEDS FOR DIAGNOSIS, DETECTION AND MANAGEMENT OF FUSARIUM DISEASES IN PROCESSING, FIELD FRESH AND GREENHOUSE PRODUCERS BY: (1) UTILIZING NOVEL GENOME-BASED APPROACHES TO IDENTIFY UNIQUE DIAGNOSTIC REGIONS FOR FUSARIUM PATHOGENS; (2) DEVELOPING DETECTION TOOLS FOR SEED, SOIL AND WATER; (3) DEVELOPING A NOVEL MULTI-PATHOGEN IN-PLANTA RPA DIAGNOSTICS ASSAY THAT CAN BE USED TO SIMULTANEOUSLY IDENTIFY ALL PATHOGENS ARE ONE TIME; (4) FACILITATING USE OF TOOLS BY DIAGNOSTICIANS THROUGH TRAINING EFFORTS, (5) ENABLING GROWER ADOPTION THROUGH OUTREACH EFFORTS AND DIAGNOSTIC SERVICES, AND (6) OFFERING EXPERIENTIAL DIAGNOSTICS TRAINING TO STUDENTS, TO ENRICH THE DIAGNOSTICS WORKFORCE.THROUGH THESE COMBINED EFFORTS, GROWERS WILL BE PROVIDED WITH RAPID, MEANINGFUL DIAGNOSES, SO THEY CAN MANAGE THESE DISEASES. SOURCES OF PATHOGEN MOVEMENT, INCLUDING IN SEED, SOIL AND WATER CAN BE IDENTIFIED AND MANAGED. THROUGH NATIONAL-LEVEL SURVEYS AND ACCURATE IDENTIFICATION CAPACITIES, NEW PATHOGENS MAY ALSO BE DISCOVERED. SOME OF THESE FUNGI, INCLUDING FUSARIUM FALCIFORME, ARE TRANSKINGDOM PATHOGENS; THESE NEW TOOLS CAN THEREFOR ALSO BE USED TO MANAGE THE DISEASES THEY CAUSE IN ANIMALS (EG. TURTLE EGG MORTALITY) AND HUMANS (EG. SKIN DISORDERS).",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2020-05-01",
+    "End Date": "2025-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20206801330977_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56319845,
+    "generated_unique_award_id": "ASST_NON_20206801330977_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TOMATOES ARE THE SECOND MOST CONSUMED VEGETABLE IN THE U.S., REPRESENTING A $2.7 BIL INDUSTRY. THIS INDUSTRY IS UNDER ATTACK BY FUNGAL PATHOGENS THAT LIVE IN THE SOIL. THESE PATHOGENS CAN BE CONTROLLED BUT THIS REQUIRES THAT FARMERS UNDERSTAND WHICH PATHOGEN OR PATHOGENS ARE PRESENT ON THEIR FARM, THEY NEED TO KNOW IF THE PATHOGENS ARE IN THEIR SOIL, SEEDS OR WATER, AND THEY NEED TO GET THIS INFORMATION IN TIME. UNFORTUNATELY, MANY OF THESE PATHOGENS CANNOT CURRENTLY BE DISTINGUISHED WITH EXISTING IDENTIFICATION METHODS AND NONE OF THEM CAN BE IDENTIFIED IN THE TIME GROWERS NEED TO ORDER SEEDS, PREPARE CROP ROTATION PLANS, OR DEVELOP OTHER MANAGEMENT METHODS FOR THE NEXT SEASON. ONE PARTICULARLY PROBLEMATIC GROUP ARE FUNGI IN THE GENUS FUSARIUM. THERE ARE AT LEAST FOUR PATHOGENS IN THIS GROUP, INCLUDING FUSARIUM WILT, FUSARIUM CROWN AND ROOT ROT, A NEW FUSARIUM EARLY VINE DECLINE DISEASE (F. FALCIFORME), AND FUSARIUM STEM ROT. THESE ARE ALL KILLERS; SOME ARE CAPABLE OF DESTROYING THOUSANDS OF ACRES OF TOMATOES IN A MATTER OF TWO TO THREE YEARS.ENHANCED CAPACITIES FOR ACCURATE, TIMELY AND COST-EFFECTIVE DIAGNOSTICS AND DETECTION SUPPORT ARE URGENTLY NEEDED TO ENABLE EFFECTIVE MANAGEMENT. TO THIS END WE ARE CONDUCTING A FOUR-YEAR PROJECT TO ADDRESS NATIONAL NEEDS FOR DIAGNOSIS, DETECTION AND MANAGEMENT OF FUSARIUM DISEASES IN PROCESSING, FIELD FRESH AND GREENHOUSE PRODUCERS BY: (1) UTILIZING NOVEL GENOME-BASED APPROACHES TO IDENTIFY UNIQUE DIAGNOSTIC REGIONS FOR FUSARIUM PATHOGENS; (2) DEVELOPING DETECTION TOOLS FOR SEED, SOIL AND WATER; (3) DEVELOPING A NOVEL MULTI-PATHOGEN IN-PLANTA RPA DIAGNOSTICS ASSAY THAT CAN BE USED TO SIMULTANEOUSLY IDENTIFY ALL PATHOGENS ARE ONE TIME; (4) FACILITATING USE OF TOOLS BY DIAGNOSTICIANS THROUGH TRAINING EFFORTS, (5) ENABLING GROWER ADOPTION THROUGH OUTREACH EFFORTS AND DIAGNOSTIC SERVICES, AND (6) OFFERING EXPERIENTIAL DIAGNOSTICS TRAINING TO STUDENTS, TO ENRICH THE DIAGNOSTICS WORKFORCE.THROUGH THESE COMBINED EFFORTS, GROWERS WILL BE PROVIDED WITH RAPID, MEANINGFUL DIAGNOSES, SO THEY CAN MANAGE THESE DISEASES. SOURCES OF PATHOGEN MOVEMENT, INCLUDING IN SEED, SOIL AND WATER CAN BE IDENTIFIED AND MANAGED. THROUGH NATIONAL-LEVEL SURVEYS AND ACCURATE IDENTIFICATION CAPACITIES, NEW PATHOGENS MAY ALSO BE DISCOVERED. SOME OF THESE FUNGI, INCLUDING FUSARIUM FALCIFORME, ARE TRANSKINGDOM PATHOGENS; THESE NEW TOOLS CAN THEREFOR ALSO BE USED TO MANAGE THE DISEASES THEY CAUSE IN ANIMALS (EG. TURTLE EGG MORTALITY) AND HUMANS (EG. SKIN DISORDERS).",
+    "total_obligation": 1000000,
+    "subaward_count": 12,
+    "total_subaward_amount": 408381,
+    "date_signed": "2020-03-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 916931.79,
+    "total_account_obligation": 1000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 916931.79
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2020-05-01",
+      "end_date": "2025-04-30",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 916931.79
+  }
+}

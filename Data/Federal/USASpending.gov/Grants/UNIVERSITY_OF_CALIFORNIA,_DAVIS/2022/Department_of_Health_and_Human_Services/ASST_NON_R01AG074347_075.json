@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91123612,
+    "Award ID": "R01AG074347",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3051946,
+    "Total Outlays": 1387256.29,
+    "Description": "EXTREME WEATHER-RELATED EVENTS AND ENVIRONMENTAL EXPOSURES IN THE RISK FOR ALZHEIMER'S DISEASE AND RELATED DEMENTIAS - PROJECT SUMMARY THE 2018 NATIONAL INSTITUTE ON AGING AD RESEARCH SUMMIT RECOMMENDATION OF “UNDERSTANDING THE IMPACT OF THE ENVIRONMENT TO ADVANCE DISEASE PREVENTION” AS A KEY STRATEGIC PLAN TO TREAT AND PREVENT ALZHEIMER'S DISEASE AND RELATED DEMENTIAS (ADRD) BY 2025. EXPOSURE TO EXTREME WEATHER-RELATED EVENTS, AIR POLLUTION, AND ENVIRONMENTAL CONTAMINANTS ARE PERVASIVE, YET LITTLE IS KNOWN ABOUT THEIR RELATIONSHIPS WITH ADRD, ESPECIALLY AMONG A DIVERSE OLDER POPULATION. THE PROPOSED STUDY ADDRESSES CRITICAL GAPS IN THE LITERATURE BY LINKING RESIDENTIAL HISTORY ON A DIVERSE SAMPLE OF OVER 3,379 INDIVIDUALS FROM 3 ONGOING NIH-FUNDED COHORT STUDIES (KAISER HEALTHY AGING AND DIVERSE LIFE EXPERIENCES (KHANDLE, N=1712, MEAN AGE 76.2, 71% NON- WHITE), THE STUDY OF HEALTHY AGING IN AFRICAN-AMERICANS (STAR, N=764, MEAN AGE 68.4, 100% NON-WHITE) ANDLIFE AFTER 90 (LA 90, N=903, MEAN AGE 92.7, 72% NON-WHITE)) TO NEWLY COLLECTED DATA ON ENVIRONMENTAL EXPOSURES AND WILL GENERATE NEW GRANULAR, COMPREHENSIVE, LIFECOURSE MEASURES OF ENVIRONMENTAL EXPOSURES THAT WILL BE USED TO EXAMINE THEIR ASSOCIATION WITH ADRD. ALL STUDIES CONDUCT HARMONIZED NEUROCOGNITIVE ASSESSMENTS, CLINICAL EXAMS AND NEUROIMAGING, COLLECT INFORMATION ON LIFECOURSE RISK FACTORS, AND ARE LINKED TO HEALTH DATA (1960S-1990S) AND ELECTRONIC MEDICAL RECORDS (1996-PRESENT). RESIDENTIAL HISTORY AT SEVEN TIME POINTS IS COLLECTED (BIRTH-CURRENT), AND WILL BE GEOCODED AND LINKED TO HISTORIC EXPOSURE DATA. THE OVERALL OBJECTIVE OF THIS STUDYIS TO INVESTIGATE EXPOSURE TO EXTREME WEATHER-RELATED EVENTS, AIR POLLUTION, AND TOXIC ENVIRONMENTAL CONTAMINANTS ON COGNITIVE FUNCTION, ADRD, AND NEUROIMAGING BIOMARKER IN DIVERSE AGING POPULATIONS. IN A UNIQUE AND UNPRECEDENTED OPPORTUNITY TO COMPREHENSIVELY EVALUATE ENVIRONMENTAL EXPOSURES ON LATE-LIFE BRAINOUTCOMES, THIS STUDY WILL ADDRESS THE FOLLOWING AMONG 3,379 DIVERSE NORTHERN CALIFORNIA RESIDENTS: (1) TEST THE ASSOCIATIONS BETWEEN EXPOSURE TO EXTREME WEATHER-RELATED EVENTS (EXTREME HEAT, DROUGHT, WILDFIRE) ON NEUROIMAGING MARKERS, COGNITIVE DECLINE, AND ADRD; (2) DETERMINE THE ASSOCIATIONS BETWEEN EXPOSURE TO AMBIENT PARTICULATE AIR POLLUTION (FINE AND ULTRAFINE PARTICULATE MATTER (PM2.5, PM0.1)) ON NEUROIMAGING MARKERS, COGNITIVE DECLINE, AND ADRD; AND (3) ASSESS THE RELATIONSHIPS BETWEEN EXPOSURE TO TOXIC ENVIRONMENTAL CONTAMINANTS (LEAD, MERCURY) ON NEUROIMAGING MARKERS, COGNITIVE DECLINE, AND ADRD. LEVERAGING CUMULATIVE AND TIME-DEPENDENT EXPOSURE TO THESE ENVIRONMENTAL FACTORS WILL ILLUMINATE LIFECOURSE PERIOD IN WHICH EXPOSURETO THESE ENVIRONMENTAL FACTORS IS ESPECIALLY SALIENT TO HEALTHY BRAIN AGING. FINDINGS FROM THIS STUDY HAVE THE POTENTIAL TO UNCOVER NEW RISK FACTORS FOR ADRD AND COGNITIVE DECLINE, AND PROVIDE TARGETS OF ADRD INTERVENTIONTHAT WOULD IMPROVE HEALTHY BRAIN AGING FOR PEOPLE OF ALL RACIAL/ETHNIC GROUPS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-06-15",
+    "End Date": "2027-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG074347_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91123612,
+    "generated_unique_award_id": "ASST_NON_R01AG074347_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EXTREME WEATHER-RELATED EVENTS AND ENVIRONMENTAL EXPOSURES IN THE RISK FOR ALZHEIMER'S DISEASE AND RELATED DEMENTIAS - PROJECT SUMMARY THE 2018 NATIONAL INSTITUTE ON AGING AD RESEARCH SUMMIT RECOMMENDATION OF “UNDERSTANDING THE IMPACT OF THE ENVIRONMENT TO ADVANCE DISEASE PREVENTION” AS A KEY STRATEGIC PLAN TO TREAT AND PREVENT ALZHEIMER'S DISEASE AND RELATED DEMENTIAS (ADRD) BY 2025. EXPOSURE TO EXTREME WEATHER-RELATED EVENTS, AIR POLLUTION, AND ENVIRONMENTAL CONTAMINANTS ARE PERVASIVE, YET LITTLE IS KNOWN ABOUT THEIR RELATIONSHIPS WITH ADRD, ESPECIALLY AMONG A DIVERSE OLDER POPULATION. THE PROPOSED STUDY ADDRESSES CRITICAL GAPS IN THE LITERATURE BY LINKING RESIDENTIAL HISTORY ON A DIVERSE SAMPLE OF OVER 3,379 INDIVIDUALS FROM 3 ONGOING NIH-FUNDED COHORT STUDIES (KAISER HEALTHY AGING AND DIVERSE LIFE EXPERIENCES (KHANDLE, N=1712, MEAN AGE 76.2, 71% NON- WHITE), THE STUDY OF HEALTHY AGING IN AFRICAN-AMERICANS (STAR, N=764, MEAN AGE 68.4, 100% NON-WHITE) ANDLIFE AFTER 90 (LA 90, N=903, MEAN AGE 92.7, 72% NON-WHITE)) TO NEWLY COLLECTED DATA ON ENVIRONMENTAL EXPOSURES AND WILL GENERATE NEW GRANULAR, COMPREHENSIVE, LIFECOURSE MEASURES OF ENVIRONMENTAL EXPOSURES THAT WILL BE USED TO EXAMINE THEIR ASSOCIATION WITH ADRD. ALL STUDIES CONDUCT HARMONIZED NEUROCOGNITIVE ASSESSMENTS, CLINICAL EXAMS AND NEUROIMAGING, COLLECT INFORMATION ON LIFECOURSE RISK FACTORS, AND ARE LINKED TO HEALTH DATA (1960S-1990S) AND ELECTRONIC MEDICAL RECORDS (1996-PRESENT). RESIDENTIAL HISTORY AT SEVEN TIME POINTS IS COLLECTED (BIRTH-CURRENT), AND WILL BE GEOCODED AND LINKED TO HISTORIC EXPOSURE DATA. THE OVERALL OBJECTIVE OF THIS STUDYIS TO INVESTIGATE EXPOSURE TO EXTREME WEATHER-RELATED EVENTS, AIR POLLUTION, AND TOXIC ENVIRONMENTAL CONTAMINANTS ON COGNITIVE FUNCTION, ADRD, AND NEUROIMAGING BIOMARKER IN DIVERSE AGING POPULATIONS. IN A UNIQUE AND UNPRECEDENTED OPPORTUNITY TO COMPREHENSIVELY EVALUATE ENVIRONMENTAL EXPOSURES ON LATE-LIFE BRAINOUTCOMES, THIS STUDY WILL ADDRESS THE FOLLOWING AMONG 3,379 DIVERSE NORTHERN CALIFORNIA RESIDENTS: (1) TEST THE ASSOCIATIONS BETWEEN EXPOSURE TO EXTREME WEATHER-RELATED EVENTS (EXTREME HEAT, DROUGHT, WILDFIRE) ON NEUROIMAGING MARKERS, COGNITIVE DECLINE, AND ADRD; (2) DETERMINE THE ASSOCIATIONS BETWEEN EXPOSURE TO AMBIENT PARTICULATE AIR POLLUTION (FINE AND ULTRAFINE PARTICULATE MATTER (PM2.5, PM0.1)) ON NEUROIMAGING MARKERS, COGNITIVE DECLINE, AND ADRD; AND (3) ASSESS THE RELATIONSHIPS BETWEEN EXPOSURE TO TOXIC ENVIRONMENTAL CONTAMINANTS (LEAD, MERCURY) ON NEUROIMAGING MARKERS, COGNITIVE DECLINE, AND ADRD. LEVERAGING CUMULATIVE AND TIME-DEPENDENT EXPOSURE TO THESE ENVIRONMENTAL FACTORS WILL ILLUMINATE LIFECOURSE PERIOD IN WHICH EXPOSURETO THESE ENVIRONMENTAL FACTORS IS ESPECIALLY SALIENT TO HEALTHY BRAIN AGING. FINDINGS FROM THIS STUDY HAVE THE POTENTIAL TO UNCOVER NEW RISK FACTORS FOR ADRD AND COGNITIVE DECLINE, AND PROVIDE TARGETS OF ADRD INTERVENTIONTHAT WOULD IMPROVE HEALTHY BRAIN AGING FOR PEOPLE OF ALL RACIAL/ETHNIC GROUPS.",
+    "total_obligation": 3051946,
+    "subaward_count": 8,
+    "total_subaward_amount": 1118598,
+    "date_signed": "2022-06-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1387256.29,
+    "total_account_obligation": 3051946,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1387256.29
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3051946
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-15",
+      "end_date": "2027-05-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1387256.29
+  }
+}

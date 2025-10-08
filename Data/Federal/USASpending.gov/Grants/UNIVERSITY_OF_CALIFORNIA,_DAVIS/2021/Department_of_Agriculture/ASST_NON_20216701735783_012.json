@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56329772,
+    "Award ID": "20216701735783",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 4100000,
+    "Total Outlays": 3105990.11,
+    "Description": "MEMORY-BASED DIETARY ASSESSMENT METHODS ARE QUALITATIVE MEASURES OF DIET THAT PROVIDE A SUBJECTIVE MEASUREMENT THAT LIMITS THE ABILITY TO CONFIDENTLY LINK NUTRITION TO HEALTH AND DISEASE RISK IN THE GREATER POPULATION. NEW BLOOD OR URINE MARKERS OF SPECIFIC FOODS WOULD BE OF TREMENDOUS HELP TO ASSESS DIET PATTERNS WITH GREATER PRECISION. IN THIS PROPOSAL, USING STATE-OF-THE-ART ANALYTICAL AND STATISTICAL TOOLS, WE PROPOSE TO FIND BIOMARKERS OF DIETARY INTAKE OF VARIOUS FRUITS AND VEGETABLES AND VALIDATE THESE MARKERS IN CONTROLLED CLINICAL STUDIES. THE LONG-TERM OBJECTIVE OF THIS PROJECT AND THE UC DAVIS DIETARY BIOMARKERS DEVELOPMENT CENTER (UCD-DBDC) IS TO DETERMINE A SET OF BLOOD PLASMA AND URINE BIOMARKERS OF FOOD INTAKE (BFI) FOR THE FRUITS AND VEGETABLES FOOD GROUPS, THAT IS APPLICABLE TO THE GENERAL POPULATION. TO ACCOMPLISH THIS OBJECTIVE, WE WILL UNDERTAKE 3 SPECIFIC AIMS IN THE BIOMARKER PROJECT, SUPPORTED BY 4 CORES (ADMINISTRATIVE, INTERVENTION, METABOLOMICS, AND DATA ANALYSIS CORES). FIRST, USING METABOLOMICS METHODS, THE RESEARCH TEAM WILL DETERMINE THE DOSE AND TIME RESPONSES OF METABOLITES IN PLASMA AND URINE THAT ARE ASSOCIATED WITH ACUTE EXPOSURE TO INCREASING AMOUNTS OF REPRESENTATIVE FRUITS OR VEGETABLES, EITHER AS A SINGLE FOOD GROUP (ONLY FRUIT, OR ONLY VEGETABLE) OR AS A COMBINATION OF BOTH FOOD GROUPS. WE WILL EMPLOY A RANDOMIZED CONTROLLED DIETARY INTERVENTION ON CLINICALLY HEALTHY INDIVIDUALS AND COLLECT AND ANALYZE FASTING AND POSTPRANDIAL BLOOD AND URINE OVER THE PERIOD OF 24 H. SECOND, THE RESEARCH TEAM WILL DETERMINE WHETHER THE BFIS IDENTIFIED IN AIM 1 ARE PREDICTIVE OF ACUTE AND HABITUAL CONSUMPTION OF MYPLATE FOODS AND FOOD GROUPS, AND WILL ALSO SEEK NEW BFIS REFLECTIVE OF A DIET PATTERN RICH IN FRUITS AND VEGETABLES. WE WILL RECRUIT 40 VOLUNTEERS AND RANDOMIZE THEM INTO ONE OF TWO DIETS (EITHER A TYPICAL AMERICAN DIET OR A HIGH-QUALITY DIETARY GUIDELINES FOR AMERICANS DIET) IN A PARALLEL DESIGN, AND COLLECT AND ANALYZE A SERIES OF SERUM AND URINE SAMPLES IN THE FASTED STATE AND AFTER PROVISION OF THE SAME TEST MEAL AS IN AIM 1. FINALLY, THE RESEARCH TEAM WILL EVALUATE THE RELIABILITY OF THE BFI IN A CROSS-SECTIONAL STUDY IN A DIVERSE COHORT, COMPARING BFIS TO TRADITIONAL DIET RECALL ASSESSMENT TOOLS. BY ACCOMPLISHING THESE AIMS THE RESEARCH TEAM WILL DISCOVER AND VALIDATE BFIS FOR FRUITS AND VEGETABLES IN PLASMA AND URINE THROUGH THE USE OF CONTROLLED DIETARY INTERVENTIONS AND IN THE PRESENCE OF VARIABLE BACKGROUND DIETS, AND EVALUATE THEIR UTILITY TO ASSESS DIETARY INTAKE RELATIVE TO MORE TRADITIONAL QUESTIONNAIRE-BASED MODALITIES. THE PROJECT WILL ALSO ESTABLISH NOVEL STRATEGIES FOR THE SEMI-QUANTITATIVE DETERMINATION OF FOOD-ASSOCIATED COMPOUNDS FOR WHICH COMMERCIALLY AVAILABLE STANDARDS ARE NOT AVAILABLE, A CRITICAL KNOWLEDGE GAP IN THE FIELD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2021-08-15",
+    "End Date": "2025-08-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20216701735783_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56329772,
+    "generated_unique_award_id": "ASST_NON_20216701735783_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MEMORY-BASED DIETARY ASSESSMENT METHODS ARE QUALITATIVE MEASURES OF DIET THAT PROVIDE A SUBJECTIVE MEASUREMENT THAT LIMITS THE ABILITY TO CONFIDENTLY LINK NUTRITION TO HEALTH AND DISEASE RISK IN THE GREATER POPULATION. NEW BLOOD OR URINE MARKERS OF SPECIFIC FOODS WOULD BE OF TREMENDOUS HELP TO ASSESS DIET PATTERNS WITH GREATER PRECISION. IN THIS PROPOSAL, USING STATE-OF-THE-ART ANALYTICAL AND STATISTICAL TOOLS, WE PROPOSE TO FIND BIOMARKERS OF DIETARY INTAKE OF VARIOUS FRUITS AND VEGETABLES AND VALIDATE THESE MARKERS IN CONTROLLED CLINICAL STUDIES. THE LONG-TERM OBJECTIVE OF THIS PROJECT AND THE UC DAVIS DIETARY BIOMARKERS DEVELOPMENT CENTER (UCD-DBDC) IS TO DETERMINE A SET OF BLOOD PLASMA AND URINE BIOMARKERS OF FOOD INTAKE (BFI) FOR THE FRUITS AND VEGETABLES FOOD GROUPS, THAT IS APPLICABLE TO THE GENERAL POPULATION. TO ACCOMPLISH THIS OBJECTIVE, WE WILL UNDERTAKE 3 SPECIFIC AIMS IN THE BIOMARKER PROJECT, SUPPORTED BY 4 CORES (ADMINISTRATIVE, INTERVENTION, METABOLOMICS, AND DATA ANALYSIS CORES). FIRST, USING METABOLOMICS METHODS, THE RESEARCH TEAM WILL DETERMINE THE DOSE AND TIME RESPONSES OF METABOLITES IN PLASMA AND URINE THAT ARE ASSOCIATED WITH ACUTE EXPOSURE TO INCREASING AMOUNTS OF REPRESENTATIVE FRUITS OR VEGETABLES, EITHER AS A SINGLE FOOD GROUP (ONLY FRUIT, OR ONLY VEGETABLE) OR AS A COMBINATION OF BOTH FOOD GROUPS. WE WILL EMPLOY A RANDOMIZED CONTROLLED DIETARY INTERVENTION ON CLINICALLY HEALTHY INDIVIDUALS AND COLLECT AND ANALYZE FASTING AND POSTPRANDIAL BLOOD AND URINE OVER THE PERIOD OF 24 H. SECOND, THE RESEARCH TEAM WILL DETERMINE WHETHER THE BFIS IDENTIFIED IN AIM 1 ARE PREDICTIVE OF ACUTE AND HABITUAL CONSUMPTION OF MYPLATE FOODS AND FOOD GROUPS, AND WILL ALSO SEEK NEW BFIS REFLECTIVE OF A DIET PATTERN RICH IN FRUITS AND VEGETABLES. WE WILL RECRUIT 40 VOLUNTEERS AND RANDOMIZE THEM INTO ONE OF TWO DIETS (EITHER A TYPICAL AMERICAN DIET OR A HIGH-QUALITY DIETARY GUIDELINES FOR AMERICANS DIET) IN A PARALLEL DESIGN, AND COLLECT AND ANALYZE A SERIES OF SERUM AND URINE SAMPLES IN THE FASTED STATE AND AFTER PROVISION OF THE SAME TEST MEAL AS IN AIM 1. FINALLY, THE RESEARCH TEAM WILL EVALUATE THE RELIABILITY OF THE BFI IN A CROSS-SECTIONAL STUDY IN A DIVERSE COHORT, COMPARING BFIS TO TRADITIONAL DIET RECALL ASSESSMENT TOOLS. BY ACCOMPLISHING THESE AIMS THE RESEARCH TEAM WILL DISCOVER AND VALIDATE BFIS FOR FRUITS AND VEGETABLES IN PLASMA AND URINE THROUGH THE USE OF CONTROLLED DIETARY INTERVENTIONS AND IN THE PRESENCE OF VARIABLE BACKGROUND DIETS, AND EVALUATE THEIR UTILITY TO ASSESS DIETARY INTAKE RELATIVE TO MORE TRADITIONAL QUESTIONNAIRE-BASED MODALITIES. THE PROJECT WILL ALSO ESTABLISH NOVEL STRATEGIES FOR THE SEMI-QUANTITATIVE DETERMINATION OF FOOD-ASSOCIATED COMPOUNDS FOR WHICH COMMERCIALLY AVAILABLE STANDARDS ARE NOT AVAILABLE, A CRITICAL KNOWLEDGE GAP IN THE FIELD.",
+    "total_obligation": 4100000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-08-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 3415812.9,
+    "total_account_obligation": 4100000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3415812.9
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 4100000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2021-08-15",
+      "end_date": "2025-08-14",
+      "last_modified_date": "2024-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 3415812.9
+  }
+}

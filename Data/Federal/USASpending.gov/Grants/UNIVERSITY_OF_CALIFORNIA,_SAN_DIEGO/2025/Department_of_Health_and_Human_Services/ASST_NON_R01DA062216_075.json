@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173194186,
+    "Award ID": "R01DA062216",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 811679,
+    "Total Outlays": null,
+    "Description": "STRENGTHENING TEXT-BASED WARNING LABELS ON CANNABIS EDIBLE PACKAGES - ABSTRACT FOLLOWING THE COMMERCIALIZATION OF RECREATIONAL CANNABIS IN OVER 20 STATES, THE PREVALENCE OF USE OF NON- COMBUSTIBLE CANNABIS PRODUCTS, SUCH AS CANNABIS-INFUSED EDIBLES, HAS RAPIDLY INCREASED WITH UNIQUE HEALTH RISKS AND POLICY CHALLENGES. TOBACCO AND FOOD LITERATURE CONSISTENTLY SUGGESTS THAT STRENGTHENING WARNING LABELS IS AN EFFECTIVE WAY TO COMMUNICATE HEALTH RISKS AND MODIFY PERCEPTIONS AND BEHAVIORS. ALTHOUGH ALL RECREATIONAL CANNABIS LEGALIZED STATES REQUIRE WARNING LABELS, MOST OPT FOR TEXT-ONLY, LENGTHY, COMPOSITE MESSAGES PLACED IN SMALL LABELS ON THE BACK OF THE PACKAGE. TOBACCO LITERATURE HAS DEMONSTRATED THAT SUCH INCONSPICUOUS MESSAGING HAS LITTLE EFFECT. THE IMPACT OF WARNING LABELS IS FURTHER COMPLICATED BY PACKAGE STYLES, WITH YOUTH-APPEALING PACKAGING COMMONLY OBSERVED IN THE U.S. AND PLAIN PACKAGING REQUIRED IN CANADA. EMPIRICAL RESEARCH ON THE EFFECTIVE DESIGN OF TEXT-BASED WARNING LABELS AND THEIR INTERACTIONS WITH PACKAGE STYLES IS LACKING IN CANNABIS RESEARCH. THE OVERARCHING GOAL OF THIS PROJECT IS TO INVESTIGATE THE EFFECT OF STRENGTHENED TEXT-BASED WARNING LABELS ON CANNABIS EDIBLE PACKAGING WITH DIVERSE STYLES. WE WILL ASSESS A RANGE OF FRONT-OF-PACKAGE WARNING LABEL FEATURES PROPOSED TO REINFORCE THE EFFECTIVENESS OF EXISTING TEXT-BASED WARNINGS. THESE FEATURES INCLUDE PRESENTATION CHARACTERISTICS SUCH AS ENLARGED SIZE, CONTRASTING COLORS, PROMINENT POSITIONING, AN ADDED WARNING SYMBOL, AND MESSAGE FORMATS, SUCH AS ROTATING MULTIPLE SHORT WARNING MESSAGES. WE WILL EXAMINE THE EFFECT OF THESE STRENGTHENED WARNING LABEL FEATURES COMPARED TO CURRENT MANDATES AND HOW THE EFFECT IS MODIFIED BY DIFFERENT PACKAGE STYLES, INCLUDING BRANDED, YOUTH- APPEALING, AND PLAIN PACKAGING. AS OBSERVATIONAL DATA ARE NOT AVAILABLE, WE WILL ADOPT INNOVATIVE EXPERIMENTAL APPROACHES WITH DISTINCT YET COMPLEMENTARY STRENGTHS, INCLUDING EYE-TRACKING EXPERIMENT, DISCRETE CHOICE EXPERIMENT, AND FULL FACTORIAL RANDOMIZED EXPERIMENT. THE PROJECT WILL BE CARRIED OUT IN 3 PHASES. AIM 1 WILL CONDUCT AN EYE-TRACKING EXPERIMENT TO IDENTIFY WARNING LABEL PRESENTATION CHARACTERISTICS AND ASSOCIATED LEVELS THAT INCREASE VISUAL ATTENTION, AND EXAMINE THEIR INTERACTIONS WITH DIFFERENT PACKAGE STYLES. AIM 2 WILL CONDUCT A DISCRETE CHOICE EXPERIMENT TO QUANTIFY THE EFFECT OF ATTENTION-GRABBING WARNING LABEL PRESENTATION CHARACTERISTICS IDENTIFIED IN AIM 1 ON USE INTENTIONS AND WILLINGNESS-TO-PAY, AND EXAMINE HOW PACKAGE STYLE MODIFIES THE EFFECT. AIM 3 WILL CONDUCT A LONGITUDINAL, FULL FACTORIAL RANDOMIZED EXPERIMENT TO QUANTIFY THE LONGITUDINAL EFFECT OF SHORT MESSAGE ROTATION AND OPTIMAL WARNING PRESENTATIONS IDENTIFIED IN AIM 2 ON PRODUCT APPEAL, KNOWLEDGE, HARM PERCEPTIONS, AND USE INTENTIONS, AND EXAMINE HOW PACKAGE STYLE MODIFIES THE EFFECT. THE FINDINGS OF THIS PROJECT ARE EXPECTED TO GUIDE POLICYMAKERS IN IMPLEMENTING EFFECTIVE TEXT-BASED CANNABIS WARNING LABELS AND QUANTIFY THEIR POTENTIAL PUBLIC HEALTH IMPACTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-07-15",
+    "End Date": "2030-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DA062216_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173194186,
+    "generated_unique_award_id": "ASST_NON_R01DA062216_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "STRENGTHENING TEXT-BASED WARNING LABELS ON CANNABIS EDIBLE PACKAGES - ABSTRACT FOLLOWING THE COMMERCIALIZATION OF RECREATIONAL CANNABIS IN OVER 20 STATES, THE PREVALENCE OF USE OF NON- COMBUSTIBLE CANNABIS PRODUCTS, SUCH AS CANNABIS-INFUSED EDIBLES, HAS RAPIDLY INCREASED WITH UNIQUE HEALTH RISKS AND POLICY CHALLENGES. TOBACCO AND FOOD LITERATURE CONSISTENTLY SUGGESTS THAT STRENGTHENING WARNING LABELS IS AN EFFECTIVE WAY TO COMMUNICATE HEALTH RISKS AND MODIFY PERCEPTIONS AND BEHAVIORS. ALTHOUGH ALL RECREATIONAL CANNABIS LEGALIZED STATES REQUIRE WARNING LABELS, MOST OPT FOR TEXT-ONLY, LENGTHY, COMPOSITE MESSAGES PLACED IN SMALL LABELS ON THE BACK OF THE PACKAGE. TOBACCO LITERATURE HAS DEMONSTRATED THAT SUCH INCONSPICUOUS MESSAGING HAS LITTLE EFFECT. THE IMPACT OF WARNING LABELS IS FURTHER COMPLICATED BY PACKAGE STYLES, WITH YOUTH-APPEALING PACKAGING COMMONLY OBSERVED IN THE U.S. AND PLAIN PACKAGING REQUIRED IN CANADA. EMPIRICAL RESEARCH ON THE EFFECTIVE DESIGN OF TEXT-BASED WARNING LABELS AND THEIR INTERACTIONS WITH PACKAGE STYLES IS LACKING IN CANNABIS RESEARCH. THE OVERARCHING GOAL OF THIS PROJECT IS TO INVESTIGATE THE EFFECT OF STRENGTHENED TEXT-BASED WARNING LABELS ON CANNABIS EDIBLE PACKAGING WITH DIVERSE STYLES. WE WILL ASSESS A RANGE OF FRONT-OF-PACKAGE WARNING LABEL FEATURES PROPOSED TO REINFORCE THE EFFECTIVENESS OF EXISTING TEXT-BASED WARNINGS. THESE FEATURES INCLUDE PRESENTATION CHARACTERISTICS SUCH AS ENLARGED SIZE, CONTRASTING COLORS, PROMINENT POSITIONING, AN ADDED WARNING SYMBOL, AND MESSAGE FORMATS, SUCH AS ROTATING MULTIPLE SHORT WARNING MESSAGES. WE WILL EXAMINE THE EFFECT OF THESE STRENGTHENED WARNING LABEL FEATURES COMPARED TO CURRENT MANDATES AND HOW THE EFFECT IS MODIFIED BY DIFFERENT PACKAGE STYLES, INCLUDING BRANDED, YOUTH- APPEALING, AND PLAIN PACKAGING. AS OBSERVATIONAL DATA ARE NOT AVAILABLE, WE WILL ADOPT INNOVATIVE EXPERIMENTAL APPROACHES WITH DISTINCT YET COMPLEMENTARY STRENGTHS, INCLUDING EYE-TRACKING EXPERIMENT, DISCRETE CHOICE EXPERIMENT, AND FULL FACTORIAL RANDOMIZED EXPERIMENT. THE PROJECT WILL BE CARRIED OUT IN 3 PHASES. AIM 1 WILL CONDUCT AN EYE-TRACKING EXPERIMENT TO IDENTIFY WARNING LABEL PRESENTATION CHARACTERISTICS AND ASSOCIATED LEVELS THAT INCREASE VISUAL ATTENTION, AND EXAMINE THEIR INTERACTIONS WITH DIFFERENT PACKAGE STYLES. AIM 2 WILL CONDUCT A DISCRETE CHOICE EXPERIMENT TO QUANTIFY THE EFFECT OF ATTENTION-GRABBING WARNING LABEL PRESENTATION CHARACTERISTICS IDENTIFIED IN AIM 1 ON USE INTENTIONS AND WILLINGNESS-TO-PAY, AND EXAMINE HOW PACKAGE STYLE MODIFIES THE EFFECT. AIM 3 WILL CONDUCT A LONGITUDINAL, FULL FACTORIAL RANDOMIZED EXPERIMENT TO QUANTIFY THE LONGITUDINAL EFFECT OF SHORT MESSAGE ROTATION AND OPTIMAL WARNING PRESENTATIONS IDENTIFIED IN AIM 2 ON PRODUCT APPEAL, KNOWLEDGE, HARM PERCEPTIONS, AND USE INTENTIONS, AND EXAMINE HOW PACKAGE STYLE MODIFIES THE EFFECT. THE FINDINGS OF THIS PROJECT ARE EXPECTED TO GUIDE POLICYMAKERS IN IMPLEMENTING EFFECTIVE TEXT-BASED CANNABIS WARNING LABELS AND QUANTIFY THEIR POTENTIAL PUBLIC HEALTH IMPACTS.",
+    "total_obligation": 811679,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 811679,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 811679
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "period_of_performance": {
+      "start_date": "2025-07-15",
+      "end_date": "2030-04-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

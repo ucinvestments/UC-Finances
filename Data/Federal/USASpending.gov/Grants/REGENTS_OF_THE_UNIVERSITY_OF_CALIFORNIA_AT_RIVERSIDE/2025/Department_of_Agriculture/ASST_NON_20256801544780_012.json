@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 174005837,
+    "Award ID": "20256801544780",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 999984,
+    "Total Outlays": null,
+    "Description": "AQUAPONIC SYSTEMS ENABLE SIMULTANEOUS CULTURE OF LARGE QUANTITIES OF FISH AND PLANTS WITH LIMITED WATER AND NUTRIENT RESOURCES. THUS, THE AQUAPONIC SYSTEMS HIGHLIGHT THE PROMISE OF SUSTAINABLE AGRICULTURE FOR BOTH PLANT AND SEAFOOD PRODUCTION. HOWEVER, THERE ARE POTENTIAL RISKS. THESE RISKS ARE ASSOCIATED WITH THE TRANSFER OF PATHOGENS FROM THE FISH TO THE PLANT AND THE ANTIMICROBIAL RESIDUES USED TO TREAT FISH PATHOGENS. THE ANTIMICROBIAL RESIDUES IN AQUAPONIC RECIRCULATING WATER POSE MULTIPLE RISKS AS THESE RESIDUES COULD PROMOTE THE DEVELOPMENT OF ANTIMICROBIAL RESISTANCE (AMR) IN MICROBES ASSOCIATED WITH FISH AND THE ENVIRONMENT IN THE FISH TANK, MICROBES IN THE BIOFILTER USED FOR THE REMOVAL OF AMMONIA AND NITRATE FROM RECIRCULATING WATER, AND THE MICROBES ASSOCIATED WITH THE PLANTS. IN ADDITION, THE ANTIMICROBIAL RESIDUES MAY ACCUMULATE IN THE PLANTS, POSING FURTHER RISKS OF AMR IN THE DOWNSTREAM FOOD SUPPLY CHAIN, INCLUDING RISKS OF EXPOSURE OF THESE CONTAMINANTS TO HUMANS. ANTIBIOTIC RESIDUES IN PLANTS RAISE CONCERNS ABOUT POTENTIAL ADVERSE HEALTH EFFECTS ON HUMANS, SUCH AS FOODBORNE ILLNESSES, ALLERGIC REACTIONS, CHRONIC TOXIC EFFECTS, AND EVEN THE DISRUPTION OF DIGESTIVE SYSTEM FUNCTIONS DUE TO PROLONGED EXPOSURE TO LOW LEVELS OF ANTIBIOTIC RESIDUES. ENVIRONMENTAL MONITORING REPORTS, INCLUDING THE REPORTS FROM THE CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC), HIGHLIGHT THE PRESENCE OF TRACES OF ANTIBIOTICS, MICROBES, AND GENES THAT CAUSE RESISTANCE TRAITS IN WATERWAYS AND THEIR POTENTIAL RISK OF TRANSFER TO PLANTS. TO ADDRESS THESE CHALLENGES,OUR OVERALL GOAL IS TO DEVELOP INNOVATIVE AND COST-EFFECTIVE RECIRCULATING WATER TREATMENT METHODS TO CAPTURE AND DEGRADE ANTIBIOTIC RESIDUES TO INNOCUOUS COMPOUNDS IN RECIRCULATING AQUAPONIC SYSTEMS AND EVALUATE THEIR IMPACT ON REDUCING THE INCIDENCE OF AMR IN THE AQUAPONIC SYSTEMS.THE SPECIFIC OBJECTIVES ARE TO (A) DEVELOP A NOVEL APPROACH USING A MACROPOROUS FUNCTIONALIZED MATRIX TO CAPTURE OXYTETRACYCLINE RESIDUES FROM RECIRCULATION WATER IN A SETTLING TANK AND EVALUATE THE EFFICIENCY OF THE APPROACH IN A LAB-SCALE SYSTEM; (B) ENGINEER AN E-FENTON APPROACH USING THE FUNCTIONALIZED MATRIX FROM AIM 1 TO DEGRADE THE CAPTURED OXYTETRACYCLINE RESIDUES IN AQUAPONIC SYSTEMS AND VALIDATE THE EFFECTIVENESS IN A PILOT SCALE UNIT; (C) EVALUATE THE REDUCTION IN AMR INCIDENCE USING THE PROPOSED WATER TREATMENT SYSTEMS FOR AQUAPONIC SYSTEMS AND (D) DEVELOP EDUCATIONAL AND OUTREACH PROGRAMS TO ENGAGE STAKEHOLDERS TO ENHANCE THE OVERALL UNDERSTANDING OF AMR RISKS AND ANTIBIOTIC RESIDUES, PROMOTE STEWARDSHIP OF ANTIBIOTIC USE, AND PROVIDE HANDS-ON LEARNING FOR VARIOUS APPROACHES TO REMOVING ANTIBIOTIC RESIDUES.THE SUCCESS OF THIS PROJECT WILL DEVELOP NEW KNOWLEDGE AND SOLUTIONS TO ADDRESS CHALLENGES OF ANTIBIOTIC RESIDUES AND ASSOCIATED RISK OF AMR IN AQUAPONICS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2025-08-01",
+    "End Date": "2028-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20256801544780_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 174005837,
+    "generated_unique_award_id": "ASST_NON_20256801544780_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AQUAPONIC SYSTEMS ENABLE SIMULTANEOUS CULTURE OF LARGE QUANTITIES OF FISH AND PLANTS WITH LIMITED WATER AND NUTRIENT RESOURCES. THUS, THE AQUAPONIC SYSTEMS HIGHLIGHT THE PROMISE OF SUSTAINABLE AGRICULTURE FOR BOTH PLANT AND SEAFOOD PRODUCTION. HOWEVER, THERE ARE POTENTIAL RISKS. THESE RISKS ARE ASSOCIATED WITH THE TRANSFER OF PATHOGENS FROM THE FISH TO THE PLANT AND THE ANTIMICROBIAL RESIDUES USED TO TREAT FISH PATHOGENS. THE ANTIMICROBIAL RESIDUES IN AQUAPONIC RECIRCULATING WATER POSE MULTIPLE RISKS AS THESE RESIDUES COULD PROMOTE THE DEVELOPMENT OF ANTIMICROBIAL RESISTANCE (AMR) IN MICROBES ASSOCIATED WITH FISH AND THE ENVIRONMENT IN THE FISH TANK, MICROBES IN THE BIOFILTER USED FOR THE REMOVAL OF AMMONIA AND NITRATE FROM RECIRCULATING WATER, AND THE MICROBES ASSOCIATED WITH THE PLANTS. IN ADDITION, THE ANTIMICROBIAL RESIDUES MAY ACCUMULATE IN THE PLANTS, POSING FURTHER RISKS OF AMR IN THE DOWNSTREAM FOOD SUPPLY CHAIN, INCLUDING RISKS OF EXPOSURE OF THESE CONTAMINANTS TO HUMANS. ANTIBIOTIC RESIDUES IN PLANTS RAISE CONCERNS ABOUT POTENTIAL ADVERSE HEALTH EFFECTS ON HUMANS, SUCH AS FOODBORNE ILLNESSES, ALLERGIC REACTIONS, CHRONIC TOXIC EFFECTS, AND EVEN THE DISRUPTION OF DIGESTIVE SYSTEM FUNCTIONS DUE TO PROLONGED EXPOSURE TO LOW LEVELS OF ANTIBIOTIC RESIDUES. ENVIRONMENTAL MONITORING REPORTS, INCLUDING THE REPORTS FROM THE CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC), HIGHLIGHT THE PRESENCE OF TRACES OF ANTIBIOTICS, MICROBES, AND GENES THAT CAUSE RESISTANCE TRAITS IN WATERWAYS AND THEIR POTENTIAL RISK OF TRANSFER TO PLANTS. TO ADDRESS THESE CHALLENGES,OUR OVERALL GOAL IS TO DEVELOP INNOVATIVE AND COST-EFFECTIVE RECIRCULATING WATER TREATMENT METHODS TO CAPTURE AND DEGRADE ANTIBIOTIC RESIDUES TO INNOCUOUS COMPOUNDS IN RECIRCULATING AQUAPONIC SYSTEMS AND EVALUATE THEIR IMPACT ON REDUCING THE INCIDENCE OF AMR IN THE AQUAPONIC SYSTEMS.THE SPECIFIC OBJECTIVES ARE TO (A) DEVELOP A NOVEL APPROACH USING A MACROPOROUS FUNCTIONALIZED MATRIX TO CAPTURE OXYTETRACYCLINE RESIDUES FROM RECIRCULATION WATER IN A SETTLING TANK AND EVALUATE THE EFFICIENCY OF THE APPROACH IN A LAB-SCALE SYSTEM; (B) ENGINEER AN E-FENTON APPROACH USING THE FUNCTIONALIZED MATRIX FROM AIM 1 TO DEGRADE THE CAPTURED OXYTETRACYCLINE RESIDUES IN AQUAPONIC SYSTEMS AND VALIDATE THE EFFECTIVENESS IN A PILOT SCALE UNIT; (C) EVALUATE THE REDUCTION IN AMR INCIDENCE USING THE PROPOSED WATER TREATMENT SYSTEMS FOR AQUAPONIC SYSTEMS AND (D) DEVELOP EDUCATIONAL AND OUTREACH PROGRAMS TO ENGAGE STAKEHOLDERS TO ENHANCE THE OVERALL UNDERSTANDING OF AMR RISKS AND ANTIBIOTIC RESIDUES, PROMOTE STEWARDSHIP OF ANTIBIOTIC USE, AND PROVIDE HANDS-ON LEARNING FOR VARIOUS APPROACHES TO REMOVING ANTIBIOTIC RESIDUES.THE SUCCESS OF THIS PROJECT WILL DEVELOP NEW KNOWLEDGE AND SOLUTIONS TO ADDRESS CHALLENGES OF ANTIBIOTIC RESIDUES AND ASSOCIATED RISK OF AMR IN AQUAPONICS.",
+    "total_obligation": 999984,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 999984,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 999984
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2028-07-31",
+      "last_modified_date": "2025-08-07",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

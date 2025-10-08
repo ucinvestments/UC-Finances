@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 90266994,
+    "Award ID": "OT2CA278635",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 1125797,
+    "Total Outlays": 735964.07,
+    "Description": "EDYNAMIC - UCSD - EDYNAMIC (EXTRACHROMOSOMAL DNA IN CANCER) HUMAN GENES ARE ARRANGED ON 23 PAIRS OF CHROMOSOMES, BUT IN CANCER, TUMOUR-PROMOTING GENES CAN FREE THEMSELVES FROM CHROMOSOMES AND RELOCATE TO CIRCULAR, EXTRACHROMOSOMAL PIECES OF DNA (ECDNA). THESE ECDNA DO NOT FOLLOW THE NORMAL “RULES” OF CHROMOSOMAL INHERITANCE, ENABLING TUMOURS TO ACHIEVE FAR HIGHER LEVELS OF CANCER-CAUSING ONCOGENES THAN WOULD OTHERWISE BE POSSIBLE, AND LICENSING CANCERS WITH A WAY TO EVOLVE AND CHANGE THEIR GENOMES TO EVADE TREATMENTS AT RATES THAT WOULD BE UNTHINKABLE FOR HUMAN CELLS. THE ALTERED CIRCULAR ARCHITECTURE OF ECDNAS ALSO CHANGES THE WAY THAT THE CANCER-CAUSING GENES ARE REGULATED AND EXPRESSED, FURTHER CONTRIBUTING TO AGGRESSIVE TUMOUR GROWTH. THESE UNIQUE FEATURES MAKE ECDNA-CONTAINING CANCERS ESPECIALLY AGGRESSIVE AND DIFFICULT TO TREAT. CANCER PATIENTS WHOSE TUMOURS HARBOUR ECDNA HAVE MARKEDLY SHORTER SURVIVAL. DESPITE BEING FIRST SEEN OVER FIFTY YEARS AGO, THE CRITICAL IMPORTANCE OF ECDNA HAS ONLY RECENTLY COME TO LIGHT, AND THE SCALE OF THE PROBLEM IS SUBSTANTIAL. ECDNAS ARE PRESENT IN NEARLY HALF OF ALL HUMAN CANCER TYPES AND POTENTIALLY UP-TO A THIRD OF ALL CANCER PATIENTS. THE COLLECTIVE CURRENT UNDERSTANDING OF HOW ECDNA FORM, HOW THEY FUNCTION, HOW THEY MOVE AROUND THE CELL, HOW THEY EVOLVE TO RESIST TREATMENT, HOW THEY IMPACT THE IMMUNE SYSTEM, AND HOW THEY CAN BE EFFECTIVELY TARGETED ARE LACKING. WE BRING TOGETHER AN INTERNATIONALLY RECOGNIZED, PIONEERING INTERDISCIPLINARY TEAM OF CANCER BIOLOGISTS, GENETICISTS, COMPUTER SCIENTISTS, EVOLUTIONARY BIOLOGISTS, MATHEMATICIANS, CLINICIANS, AND PATIENT ADVOCATES TO BOLDLY CREATE NOVEL INSIGHTS AND RESOURCES AND TO PROVIDE TRANSFORMATIVE SOLUTIONS TO ONE OF CANCER’S GRAND CHALLENGES. A CORE TEAM OF EXPERIENCED AND PRODUCTIVE ECDNA INVESTIGATORS WILL WORK WITH NEW INVESTIGATORS IN THE ECDNA AND CANCER FIELDS TO BRING COMPLETELY NEW PERSPECTIVES AND APPROACHES TO THIS DAUNTING CHALLENGE. BY BRIDGING CUTTING-EDGE AND DIVERSE APPROACHES AND INSIGHTS FROM CANCER GENOMICS, YEAST GENETICS, EPIGENOMICS, ARTIFICIAL GENOME SYNTHESIS, LONGITUDINAL PATIENT TRACKING, COMBINATORIAL AND MACHINE LEARNING ALGORITHMS, MATHEMATICAL MODELLING, IMMUNOBIOLOGY, AND INNOVATIVE CHEMISTRY WE WILL DEVELOP A NEW UNDERSTANDING OF THE ROLE OF ECDNA IN CANCER, AND WE WILL FIND NEW WAYS TO DRUG THE UNDRUGGABLE. THIS BOLD PROGRAMME, WHICH CONSISTS OF 7 WORK PACKAGES AND A COMMITTED INTERNATIONAL INFRASTRUCTURE, GENERATES NEW AND UNUSUAL COLLABORATIONS THAT WOULD SIMPLY BE IMPOSSIBLE UNDER ANY OTHER TYPE OF FUNDING MECHANISM. OUR PROGRAMME ENDEAVOURS TO FOSTER BOLD INNOVATIVE SOLUTIONS TO ONE OF THE HARDEST PROBLEMS IN CANCER AND TO ONE OF THE GREATEST CHALLENGES FACING CANCER PATIENTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-06-22",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_OT2CA278635_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 90266994,
+    "generated_unique_award_id": "ASST_NON_OT2CA278635_075",
+    "piid": "",
+    "category": "direct payment",
+    "type": "06",
+    "type_description": "DIRECT PAYMENT FOR SPECIFIED USE, AS A SUBSIDY OR OTHER NON-REIMBURSABLE DIRECT FINANCIAL AID (C)",
+    "description": "EDYNAMIC - UCSD - EDYNAMIC (EXTRACHROMOSOMAL DNA IN CANCER) HUMAN GENES ARE ARRANGED ON 23 PAIRS OF CHROMOSOMES, BUT IN CANCER, TUMOUR-PROMOTING GENES CAN FREE THEMSELVES FROM CHROMOSOMES AND RELOCATE TO CIRCULAR, EXTRACHROMOSOMAL PIECES OF DNA (ECDNA). THESE ECDNA DO NOT FOLLOW THE NORMAL “RULES” OF CHROMOSOMAL INHERITANCE, ENABLING TUMOURS TO ACHIEVE FAR HIGHER LEVELS OF CANCER-CAUSING ONCOGENES THAN WOULD OTHERWISE BE POSSIBLE, AND LICENSING CANCERS WITH A WAY TO EVOLVE AND CHANGE THEIR GENOMES TO EVADE TREATMENTS AT RATES THAT WOULD BE UNTHINKABLE FOR HUMAN CELLS. THE ALTERED CIRCULAR ARCHITECTURE OF ECDNAS ALSO CHANGES THE WAY THAT THE CANCER-CAUSING GENES ARE REGULATED AND EXPRESSED, FURTHER CONTRIBUTING TO AGGRESSIVE TUMOUR GROWTH. THESE UNIQUE FEATURES MAKE ECDNA-CONTAINING CANCERS ESPECIALLY AGGRESSIVE AND DIFFICULT TO TREAT. CANCER PATIENTS WHOSE TUMOURS HARBOUR ECDNA HAVE MARKEDLY SHORTER SURVIVAL. DESPITE BEING FIRST SEEN OVER FIFTY YEARS AGO, THE CRITICAL IMPORTANCE OF ECDNA HAS ONLY RECENTLY COME TO LIGHT, AND THE SCALE OF THE PROBLEM IS SUBSTANTIAL. ECDNAS ARE PRESENT IN NEARLY HALF OF ALL HUMAN CANCER TYPES AND POTENTIALLY UP-TO A THIRD OF ALL CANCER PATIENTS. THE COLLECTIVE CURRENT UNDERSTANDING OF HOW ECDNA FORM, HOW THEY FUNCTION, HOW THEY MOVE AROUND THE CELL, HOW THEY EVOLVE TO RESIST TREATMENT, HOW THEY IMPACT THE IMMUNE SYSTEM, AND HOW THEY CAN BE EFFECTIVELY TARGETED ARE LACKING. WE BRING TOGETHER AN INTERNATIONALLY RECOGNIZED, PIONEERING INTERDISCIPLINARY TEAM OF CANCER BIOLOGISTS, GENETICISTS, COMPUTER SCIENTISTS, EVOLUTIONARY BIOLOGISTS, MATHEMATICIANS, CLINICIANS, AND PATIENT ADVOCATES TO BOLDLY CREATE NOVEL INSIGHTS AND RESOURCES AND TO PROVIDE TRANSFORMATIVE SOLUTIONS TO ONE OF CANCER’S GRAND CHALLENGES. A CORE TEAM OF EXPERIENCED AND PRODUCTIVE ECDNA INVESTIGATORS WILL WORK WITH NEW INVESTIGATORS IN THE ECDNA AND CANCER FIELDS TO BRING COMPLETELY NEW PERSPECTIVES AND APPROACHES TO THIS DAUNTING CHALLENGE. BY BRIDGING CUTTING-EDGE AND DIVERSE APPROACHES AND INSIGHTS FROM CANCER GENOMICS, YEAST GENETICS, EPIGENOMICS, ARTIFICIAL GENOME SYNTHESIS, LONGITUDINAL PATIENT TRACKING, COMBINATORIAL AND MACHINE LEARNING ALGORITHMS, MATHEMATICAL MODELLING, IMMUNOBIOLOGY, AND INNOVATIVE CHEMISTRY WE WILL DEVELOP A NEW UNDERSTANDING OF THE ROLE OF ECDNA IN CANCER, AND WE WILL FIND NEW WAYS TO DRUG THE UNDRUGGABLE. THIS BOLD PROGRAMME, WHICH CONSISTS OF 7 WORK PACKAGES AND A COMMITTED INTERNATIONAL INFRASTRUCTURE, GENERATES NEW AND UNUSUAL COLLABORATIONS THAT WOULD SIMPLY BE IMPOSSIBLE UNDER ANY OTHER TYPE OF FUNDING MECHANISM. OUR PROGRAMME ENDEAVOURS TO FOSTER BOLD INNOVATIVE SOLUTIONS TO ONE OF THE HARDEST PROBLEMS IN CANCER AND TO ONE OF THE GREATEST CHALLENGES FACING CANCER PATIENTS.",
+    "total_obligation": 1125797,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-06-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 735964.07,
+    "total_account_obligation": 739276,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 735964.07
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 739276
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-22",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 735964.07
+  }
+}

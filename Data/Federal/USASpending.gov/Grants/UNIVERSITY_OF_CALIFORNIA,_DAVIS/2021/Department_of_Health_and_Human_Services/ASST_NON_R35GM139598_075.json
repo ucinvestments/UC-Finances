@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91329220,
+    "Award ID": "R35GM139598",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1982550,
+    "Total Outlays": 1312449.58,
+    "Description": "UNDERSTANDING AND LEVERAGING MOLECULAR DIVERSITY WITHIN THE PHYTOCHROME SUPERFAMILY - UNDERSTANDING AND LEVERAGING MOLECULAR DIVERSITY WITHIN THE PHYTOCHROME SUPERFAMILY. OUR PROPOSAL FOCUSES ON THE PHYTOCHROME SUPERFAMILY OF PHOTORECEPTORS. WE HAVE A LONGSTANDING INTEREST IN THESE PROTEINS AND IN THE LINEAR TETRAPYRROLE (BILIN) CHROMOPHORES THEY USE TO DETECT LIGHT. MEMBERS OF THIS SUPERFAMILY CONTROL GROWTH AND DEVELOPMENT OF PLANTS (SEED GERMINATION, PHOTOMORPHOGENESIS, SHADE AVOIDANCE, AND FLOWERING, AMONG OTHER PROCESSES), MAKING PHYTOCHROMES IMPORTANT RESEARCH TARGETS FOR ENHANCING AGRICULTURAL EFFICIENCY TO MEET THE DEMAND FOR FOOD IN THE FACE OF INCREASING HUMAN POPULATION. OTHER MEMBERS OF THIS FAMILY ALLOW BACTERIA TO MOVE, FORM BIOFILMS, OR ADJUST THEIR METABOLISM IN RESPONSE TO THE LIGHT ENVIRONMENT. PHYTOCHROMES AND CYANOBACTERIOCHROMES (CBCRS), THE TWO FAMILIES OF PROTEINS IN THE PHYTOCHROME SUPERFAMILY, ARE ABLE TO DETECT EVERY COLOR OF LIGHT BETWEEN THE NEAR-ULTRAVIOLET AND THE NEAR-INFRARED, INCLUDING RED AND FAR-RED WAVELENGTHS THAT ARE OPTIMAL FOR IMAGING IN MAMMALIAN TISSUE. THUS, BASIC RESEARCH TO UNDERSTAND PHYTOCHROME DIVERSITY, THE MECHANISMS UNDERLYING ITS FUNCTION IN PLANTS, ALGAE, AND BACTERIA, AND DEVELOPMENT OF NEW IMAGING TOOLS WELL FITS THE MISSION OF NIGMS.  RESEARCH IN THE LAGARIAS LAB LEVERAGES THE NATURAL DIVERSITY THAT HAS ARISEN IN THIS SUPERFAMILY DURING EVOLUTION. WE SEEK TO UNDERSTAND THE MECHANISMS THAT ALLOW THESE PROTEINS TO SENSE DIFFERENT COLORS OF LIGHT, TO EITHER EXHIBIT BRIGHT FLUORESCENCE OR SWITCH BETWEEN PHOTOSTATES, TO INTEGRATE SIGNALS SUCH AS TEMPERATURE OR PH WITH LIGHT, AND TO REPORT THIS INFORMATION TO THE CELL. IN THE COURSE OF THIS RESEARCH, WE HAVE ALSO DEVELOPED USEFUL REAGENTS INCLUDING FLUORESCENT PHYTOCHROMES, CONSTITUTIVELY ACTIVE PLANT PHYTOCHROMES, AND PHYTOCHROME- NULL PLANTS. IN THE NEXT FIVE YEARS, WE ENVISION MAKING FURTHER PROGRESS IN UNDERSTANDING DETECTION OF FAR-RED AND NEAR-INFRARED LIGHT BY THESE PROTEINS. WE EXPECT TO LEARN HOW TO “RE-TUNE” THE COLOR- SENSING MECHANISMS OF A RANGE OF PHYTOCHROMES AND CBCRS, AN INSIGHT WHICH BE APPLIED TO EXISTING REAGENTS AND SYSTEMS TO ALLOW NEW IMAGING APPLICATIONS, MULTIPLEXING OF SYNTHETIC BIOLOGY SYSTEMS TO RESPOND TO DIFFERENT COLORS, OR TISSUE-SPECIFIC APPLICATIONS IN WHICH SPECIFIC TARGETS ARE ACTIVATED WITH LIGHT RATHER THAN WITH GENE PROMOTERS. THESE GOALS FIT WELL WITH OUR OVERALL GOALS OF UNDERSTANDING OF THE PHOTOCHEMICAL, BIOPHYSICAL, AND BIOLOGICAL PROCESSES OF THIS FAMILY AND POTENTIALLY YIELD ADVANCES IN BIOMEDICAL IMAGING AND SYNTHETIC BIOLOGY VIA DEVELOPMENT OF A KNOWLEDGE BASE, IMPROVING FUNDAMENTAL METHODS WITH NEW REAGENTS, AND LEVERAGING NEW TECHNOLOGIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-01-01",
+    "End Date": "2025-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM139598_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91329220,
+    "generated_unique_award_id": "ASST_NON_R35GM139598_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "UNDERSTANDING AND LEVERAGING MOLECULAR DIVERSITY WITHIN THE PHYTOCHROME SUPERFAMILY - UNDERSTANDING AND LEVERAGING MOLECULAR DIVERSITY WITHIN THE PHYTOCHROME SUPERFAMILY. OUR PROPOSAL FOCUSES ON THE PHYTOCHROME SUPERFAMILY OF PHOTORECEPTORS. WE HAVE A LONGSTANDING INTEREST IN THESE PROTEINS AND IN THE LINEAR TETRAPYRROLE (BILIN) CHROMOPHORES THEY USE TO DETECT LIGHT. MEMBERS OF THIS SUPERFAMILY CONTROL GROWTH AND DEVELOPMENT OF PLANTS (SEED GERMINATION, PHOTOMORPHOGENESIS, SHADE AVOIDANCE, AND FLOWERING, AMONG OTHER PROCESSES), MAKING PHYTOCHROMES IMPORTANT RESEARCH TARGETS FOR ENHANCING AGRICULTURAL EFFICIENCY TO MEET THE DEMAND FOR FOOD IN THE FACE OF INCREASING HUMAN POPULATION. OTHER MEMBERS OF THIS FAMILY ALLOW BACTERIA TO MOVE, FORM BIOFILMS, OR ADJUST THEIR METABOLISM IN RESPONSE TO THE LIGHT ENVIRONMENT. PHYTOCHROMES AND CYANOBACTERIOCHROMES (CBCRS), THE TWO FAMILIES OF PROTEINS IN THE PHYTOCHROME SUPERFAMILY, ARE ABLE TO DETECT EVERY COLOR OF LIGHT BETWEEN THE NEAR-ULTRAVIOLET AND THE NEAR-INFRARED, INCLUDING RED AND FAR-RED WAVELENGTHS THAT ARE OPTIMAL FOR IMAGING IN MAMMALIAN TISSUE. THUS, BASIC RESEARCH TO UNDERSTAND PHYTOCHROME DIVERSITY, THE MECHANISMS UNDERLYING ITS FUNCTION IN PLANTS, ALGAE, AND BACTERIA, AND DEVELOPMENT OF NEW IMAGING TOOLS WELL FITS THE MISSION OF NIGMS.  RESEARCH IN THE LAGARIAS LAB LEVERAGES THE NATURAL DIVERSITY THAT HAS ARISEN IN THIS SUPERFAMILY DURING EVOLUTION. WE SEEK TO UNDERSTAND THE MECHANISMS THAT ALLOW THESE PROTEINS TO SENSE DIFFERENT COLORS OF LIGHT, TO EITHER EXHIBIT BRIGHT FLUORESCENCE OR SWITCH BETWEEN PHOTOSTATES, TO INTEGRATE SIGNALS SUCH AS TEMPERATURE OR PH WITH LIGHT, AND TO REPORT THIS INFORMATION TO THE CELL. IN THE COURSE OF THIS RESEARCH, WE HAVE ALSO DEVELOPED USEFUL REAGENTS INCLUDING FLUORESCENT PHYTOCHROMES, CONSTITUTIVELY ACTIVE PLANT PHYTOCHROMES, AND PHYTOCHROME- NULL PLANTS. IN THE NEXT FIVE YEARS, WE ENVISION MAKING FURTHER PROGRESS IN UNDERSTANDING DETECTION OF FAR-RED AND NEAR-INFRARED LIGHT BY THESE PROTEINS. WE EXPECT TO LEARN HOW TO “RE-TUNE” THE COLOR- SENSING MECHANISMS OF A RANGE OF PHYTOCHROMES AND CBCRS, AN INSIGHT WHICH BE APPLIED TO EXISTING REAGENTS AND SYSTEMS TO ALLOW NEW IMAGING APPLICATIONS, MULTIPLEXING OF SYNTHETIC BIOLOGY SYSTEMS TO RESPOND TO DIFFERENT COLORS, OR TISSUE-SPECIFIC APPLICATIONS IN WHICH SPECIFIC TARGETS ARE ACTIVATED WITH LIGHT RATHER THAN WITH GENE PROMOTERS. THESE GOALS FIT WELL WITH OUR OVERALL GOALS OF UNDERSTANDING OF THE PHOTOCHEMICAL, BIOPHYSICAL, AND BIOLOGICAL PROCESSES OF THIS FAMILY AND POTENTIALLY YIELD ADVANCES IN BIOMEDICAL IMAGING AND SYNTHETIC BIOLOGY VIA DEVELOPMENT OF A KNOWLEDGE BASE, IMPROVING FUNDAMENTAL METHODS WITH NEW REAGENTS, AND LEVERAGING NEW TECHNOLOGIES.",
+    "total_obligation": 1982550,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2020-12-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1312449.58,
+    "total_account_obligation": 1982550,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1312449.58
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1982550
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2021-01-01",
+      "end_date": "2025-11-30",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1312449.58
+  }
+}

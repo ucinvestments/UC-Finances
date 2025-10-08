@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173193590,
+    "Award ID": "R01AI187989",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 3106301,
+    "Total Outlays": null,
+    "Description": "EVALUATION OF THE MECHANISMS UNDERLYING INDUCTION AND MAINTENANCE IMMUNOSUPPRESSION IMPACT ON T CELL FUNCTION AFTER KIDNEY TRANSPLANTATION - ABSTRACT ANTITHYMOCYTE GLOBULIN (ATG) IS A LYMPHODEPLETING INDUCTION IMMUNOSUPPRESSION USED IN APPROXIMATELY 30% OF ALL KIDNEY TRANSPLANTS, ASSOCIATED WITH DECREASED RATES OF REJECTION BUT INCREASED RATES OF INFECTION AFTER KIDNEY TRANSPLANTATION (KTX). DESPITE MANY YEARS OF USE, THE MECHANISM OF ACTION BEHIND THE OBSERVATION REMAINS UNKNOWN. A CURRENT UNMET NEED IN THE FIELD OF TRANSPLANTATION, THEREFORE, IS UNDERSTANDING THE IMPACT OF ATG INDUCTION AND THE CONCOMITANT MAINTENANCE IMMUNOSUPPRESSION MEDICATIONS TO GUIDE CANDIDATE SELECTION AND POST-TRANSPLANT MANAGEMENT OF IMMUNOSUPPRESSION. OUR R21-DERIVED DATA DEMONSTRATED AN ASSOCIATION BETWEEN EPIGENETIC CHANGES IN PBMC AND INCIDENCE OF INFECTION AFTER KIDNEY TRANSPLANTATION. WE HAVE ADDITIONALLY OBSERVED THAT ATG CAUSES A DISTINCT IMPACT ON DIFFERENTIAL METHYLATION AT REGIONS RELATED TO T CELL DIFFERENTIATION AND ACTIVATION USING BULK DNA METHYLATION APPROACHES, AND THAT ATG AND DIFFERENTIALLY IMPACTS CD4 MEMORY T CELLS, CD8 TERMINALLY DIFFERENTIATED T CELLS, AND SENESCENT T CELLS COMPARED WITH NON- ATG INDUCTION. HOWEVER, WE LACK INFORMATION AT THE SINGLE CELL LEVEL RELATING TO EPIGENETIC, TRANSCRIPTIONAL, AND IMMUNE PHENOTYPE CHANGES. WE ALSO LACK INFORMATION REGARDING THE LONGITUDINAL RELATIONSHIP OF EPIGENETIC AND TRANSCRIPTIONAL CHANGES AND THE IMPACT OF ATG ON T CELL FUNCTION AND T CELL RECEPTOR (TCR) REPERTOIRE. WE HYPOTHESIZE THAT ATG, COMPARED WITH NON-ATG INDUCTION, WILL ALTER THE EPIGENETIC AND TRANSCRIPTIONAL LANDSCAPE AFTER KTX, AND THAT THESE CHANGES WILL BE ASSOCIATED WITH SIGNIFICANT DIFFERENCES IN IMMUNE PHENOTYPE, WITH EXPANSION OF MEMORY CD4 AND SENESCENT CD8 T CELLS. USING A SINGLE CELL ANALYSIS APPROACH, WE WILL ANALYZE REGIONS OF DIFFERENTIAL CHROMATIN ACCESSIBILITY AND GENE EXPRESSION AS WELL AS CELL SURFACE PROTEINS TO DETERMINE THE MECHANISM IMPACT OF ATG AND MAINTENANCE IMMUNOSUPPRESSION. WE HYPOTHESIZE THAT ATG WILL CHANGE T CELL PHENOTYPE AND FUNCTION MEASURED BY CYTOKINE SECRETION IN RESPONSE TO CLINICALLY RELEVANT INFECTIOUS ANTIGENS AND DECREASE TCR REPERTOIRE POST-KTX, COMPARED WITH PATIENTS RECEIVING NON-ATG INDUCTION. WE WILL TEST THIS HYPOTHESIS USING ANTIGEN STIMULATION AND MEASURE CYTOKINE RELEASE AND TCR REPERTOIRE IN THE ATG VERSUS NON-ATG GROUP. OUR OVERARCHING GOAL IS TO UNDERSTAND THE MECHANISM BEHIND ATG-DRIVEN EPIGENETIC CHANGES ON T CELLS BY QUANTIFYING ALTERATIONS TO THE EPIGENOME AND TRANSCRIPTOME IN PARALLEL WITH EVALUATING MEASURES OF T CELL FUNCTION. DEFINING MECHANISMS AT A MOLECULAR LEVEL WILL PROVIDE INSIGHT FOR DEVELOPMENT OF TOOLS FOR CANDIDATE SELECTION AND PATIENT RISK STRATIFICATION. WE WILL TAKE ADVANTAGE OF BIOBANKED SPECIMENS OF PRE- AND POST- KTX PATIENTS IN A COHORT WITH PREVIOUSLY COLLECTED OUTCOME DATA AT A GRANULAR LEVEL, INCLUDING DEMOGRAPHIC AND CLINICAL DETAILS. WE WILL DEVELOP A COMPREHENSIVE UNDERSTANDING OF HOW IMMUNOSUPPRESION IMPACTS EPIGENETIC AND TRANSCRIPTIONAL REGULATION OF T CELL FUNCTION, A CRUCIAL COMPONENT OF THE IMMUNE SYSTEM CONTROLLING DEVELOPMENT OF INFECTION. ULTIMATELY, THIS INFORMATION CAN BE APPLIED TO GUIDE IMMUNOSUPPRESSION AND IMPROVE PATIENT OUTCOMES AFTER KTX.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4200",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "90095",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-07-16",
+    "End Date": "2029-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI187989_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173193590,
+    "generated_unique_award_id": "ASST_NON_R01AI187989_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EVALUATION OF THE MECHANISMS UNDERLYING INDUCTION AND MAINTENANCE IMMUNOSUPPRESSION IMPACT ON T CELL FUNCTION AFTER KIDNEY TRANSPLANTATION - ABSTRACT ANTITHYMOCYTE GLOBULIN (ATG) IS A LYMPHODEPLETING INDUCTION IMMUNOSUPPRESSION USED IN APPROXIMATELY 30% OF ALL KIDNEY TRANSPLANTS, ASSOCIATED WITH DECREASED RATES OF REJECTION BUT INCREASED RATES OF INFECTION AFTER KIDNEY TRANSPLANTATION (KTX). DESPITE MANY YEARS OF USE, THE MECHANISM OF ACTION BEHIND THE OBSERVATION REMAINS UNKNOWN. A CURRENT UNMET NEED IN THE FIELD OF TRANSPLANTATION, THEREFORE, IS UNDERSTANDING THE IMPACT OF ATG INDUCTION AND THE CONCOMITANT MAINTENANCE IMMUNOSUPPRESSION MEDICATIONS TO GUIDE CANDIDATE SELECTION AND POST-TRANSPLANT MANAGEMENT OF IMMUNOSUPPRESSION. OUR R21-DERIVED DATA DEMONSTRATED AN ASSOCIATION BETWEEN EPIGENETIC CHANGES IN PBMC AND INCIDENCE OF INFECTION AFTER KIDNEY TRANSPLANTATION. WE HAVE ADDITIONALLY OBSERVED THAT ATG CAUSES A DISTINCT IMPACT ON DIFFERENTIAL METHYLATION AT REGIONS RELATED TO T CELL DIFFERENTIATION AND ACTIVATION USING BULK DNA METHYLATION APPROACHES, AND THAT ATG AND DIFFERENTIALLY IMPACTS CD4 MEMORY T CELLS, CD8 TERMINALLY DIFFERENTIATED T CELLS, AND SENESCENT T CELLS COMPARED WITH NON- ATG INDUCTION. HOWEVER, WE LACK INFORMATION AT THE SINGLE CELL LEVEL RELATING TO EPIGENETIC, TRANSCRIPTIONAL, AND IMMUNE PHENOTYPE CHANGES. WE ALSO LACK INFORMATION REGARDING THE LONGITUDINAL RELATIONSHIP OF EPIGENETIC AND TRANSCRIPTIONAL CHANGES AND THE IMPACT OF ATG ON T CELL FUNCTION AND T CELL RECEPTOR (TCR) REPERTOIRE. WE HYPOTHESIZE THAT ATG, COMPARED WITH NON-ATG INDUCTION, WILL ALTER THE EPIGENETIC AND TRANSCRIPTIONAL LANDSCAPE AFTER KTX, AND THAT THESE CHANGES WILL BE ASSOCIATED WITH SIGNIFICANT DIFFERENCES IN IMMUNE PHENOTYPE, WITH EXPANSION OF MEMORY CD4 AND SENESCENT CD8 T CELLS. USING A SINGLE CELL ANALYSIS APPROACH, WE WILL ANALYZE REGIONS OF DIFFERENTIAL CHROMATIN ACCESSIBILITY AND GENE EXPRESSION AS WELL AS CELL SURFACE PROTEINS TO DETERMINE THE MECHANISM IMPACT OF ATG AND MAINTENANCE IMMUNOSUPPRESSION. WE HYPOTHESIZE THAT ATG WILL CHANGE T CELL PHENOTYPE AND FUNCTION MEASURED BY CYTOKINE SECRETION IN RESPONSE TO CLINICALLY RELEVANT INFECTIOUS ANTIGENS AND DECREASE TCR REPERTOIRE POST-KTX, COMPARED WITH PATIENTS RECEIVING NON-ATG INDUCTION. WE WILL TEST THIS HYPOTHESIS USING ANTIGEN STIMULATION AND MEASURE CYTOKINE RELEASE AND TCR REPERTOIRE IN THE ATG VERSUS NON-ATG GROUP. OUR OVERARCHING GOAL IS TO UNDERSTAND THE MECHANISM BEHIND ATG-DRIVEN EPIGENETIC CHANGES ON T CELLS BY QUANTIFYING ALTERATIONS TO THE EPIGENOME AND TRANSCRIPTOME IN PARALLEL WITH EVALUATING MEASURES OF T CELL FUNCTION. DEFINING MECHANISMS AT A MOLECULAR LEVEL WILL PROVIDE INSIGHT FOR DEVELOPMENT OF TOOLS FOR CANDIDATE SELECTION AND PATIENT RISK STRATIFICATION. WE WILL TAKE ADVANTAGE OF BIOBANKED SPECIMENS OF PRE- AND POST- KTX PATIENTS IN A COHORT WITH PREVIOUSLY COLLECTED OUTCOME DATA AT A GRANULAR LEVEL, INCLUDING DEMOGRAPHIC AND CLINICAL DETAILS. WE WILL DEVELOP A COMPREHENSIVE UNDERSTANDING OF HOW IMMUNOSUPPRESION IMPACTS EPIGENETIC AND TRANSCRIPTIONAL REGULATION OF T CELL FUNCTION, A CRUCIAL COMPONENT OF THE IMMUNE SYSTEM CONTROLLING DEVELOPMENT OF INFECTION. ULTIMATELY, THIS INFORMATION CAN BE APPLIED TO GUIDE IMMUNOSUPPRESSION AND IMPROVE PATIENT OUTCOMES AFTER KTX.",
+    "total_obligation": 3106301,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 3106301,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3106301
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-07-16",
+      "end_date": "2029-06-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4200",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

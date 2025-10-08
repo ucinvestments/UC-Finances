@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89967195,
+    "Award ID": "NNX17AC60A",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 613341,
+    "Total Outlays": 26996.62,
+    "Description": "NEARLY 50% OF CANADA AND 80% OF ALASKA ARE UNDERLAIN BY PERMAFROST (PERENNIALLY FROZEN GROUND)  BUT ARE PRECLUDED FROM FIELD STUDY OWING TO LOGISTICAL DIFFICULTY  SHORT FIELD SEASONS  AND HIGH COST. THE PRESENCE OF THIS PERMAFROST EXERTS FEEDBACKS ON SURFACE WATER ECOSYSTEMS AND THE ARCTIC BOREAL LANDSCAPE  MOST OBSERVABLY IN THE FORM OF MILLIONS OF LAKES  PONDS  WETLANDS  AND SATURATED SOILS  WITH ASSOCIATED IMPACTS ON VEGETATION COVER  GREENHOUSE GAS EMISSIONS  SOIL CARBON SEQUESTRATION  LANDSCAPE DISTURBANCE  WILDLIFE HABITAT AND TRADITIONAL SUBSISTENCE ECONOMIES. THE PROPOSED PROJECT WILL STUDY THE RESILIENCE OF THESE SURFACE WATER FEATURES IN RESPONSE TO THAWING PERMAFROST  CAPITALIZING ON THE LONG FLIGHT LINES OF THE NASA ARCTIC BOREAL VULNERABILITY EXPERIMENT (ABOVE) WHICH WILL SPAN A FULL SPECTRUM OF PERMAFROST CONDITIONS (PERMAFROST FREE TO CONTINUOUS PERMAFROST  LOW TO HIGH GROUND ICE CONTENT)  ECOSYSTEMS  CLIMATIC REGIONS  TOPOGRAPHIC RELIEF  AND GEOLOGICAL SUBSTRATES. AT THE HEART OF THE PROPOSAL IS ACQUISITION AND STUDY OF NEW AIRBORNE DATA FROM AIRSWOT  AN EXPERIMENTAL RADAR INTERFEROMETER SPECIFICALLY DESIGNED FOR SURFACE WATER STUDIES INCLUDING PRECISE DETERMINATION OF WATER SURFACE ELEVATIONS (WSES) FOR THOUSANDS OF LAKES  PONDS  RIVERS AND WETLANDS OCCURRING ALONG PLANNED ABOVE FLIGHT LINES. THE OVERARCHING SCIENCE QUESTION TO BE ANSWERED IS  CAN PERMAFROST PRESENCE AND OR DISTURBANCE BE IDENTIFIED FROM REMOTE SENSING OF SURFACE WATER LAKE AND WETLAND ECOSYSTEMS. TWO SCIENTIFIC HYPOTHESES RELATING WATER SURFACE ELEVATIONS AND EXTENTS TO PERMAFROST AND ASSOCIATED LANDSCAPE DISTURBANCE WILL BE TESTED. TO ISOLATE THE INFLUENCE OF PERMAFROST FROM REGIONAL WATER BALANCE VARIATIONS  THE VARIABLE INFILTRATION CAPACITY (VIC) WATER BALANCE MODEL WILL BE CALIBRATED ALONG THE ABOVE FLIGHT PATHS FOR USE BY THIS AND OTHER ABOVE PROJECTS. REMOTELY SENSED SURFACE WATER ELEVATIONS AND AREAL EXTENTS  AND MAPPING OF VISIBLE MANIFESTATIONS OF PERMAFROST (E.G. THERMOKARST) ARE KEY TARGETS OF STUDY AND WILL BE OBTAINED USING THE AIRSWOT KA BAND INTERFEROMETRIC RADAR AND DIGITAL CIRRUS CAMERA (DCC) OPTICAL CAMERA IMAGERY  AS WELL AS PLANNED ABOVE UAVSAR  AIRMOSS AND LVIS AIRBORNE ACQUISITIONS AND ANCILLARY DATA PRODUCTS (PERMAFROST MAPS  ARCTICDEM HIGH RESOLUTION DIGITAL ELEVATION MODEL). ANTICIPATED OUTCOMES OF THE PROJECT INCLUDE 1) FUNDAMENTALLY NEW SCIENTIFIC UNDERSTANDING OF THE INTERACTION BETWEEN PERMAFROST AND LAKE WETLAND WATER SURFACE ELEVATIONS IN THE ARCTIC BOREAL ZONE (ABZ); 2) IDENTIFICATION OF FOREST ECOSYSTEM DISTURBANCE LOCATIONS ATTRIBUTED TO PERMAFROST THAW ALONG ABOVE FLIGHT LINES; 3) ASSESSMENT OF THE POTENTIAL FOR USING REMOTELY SENSED WSE AND OR WSE CHANGES TO INFER THE PRESENCE ABSENCE OF SUBSURFACE PERMAFROST AND OR ATTRIBUTING ECOSYSTEM DISTURBANCE TO PERMAFROST THAW 4) NEW SYNERGIES BETWEEN ABOVE AND AIRSWOT SWOT DATASETS; AND 5) NEW SCIENCE AND DATA-SHARING COLLABORATIONS AMONG THE ABOVE SCIENCE TEAM. PI XXX AND COI XXX HAVE CAREER LONG EXPERTISE IN REMOTE SENSING AND FIELD STUDIES OF ARCTIC BOREAL HYDROLOGY AND CARBON CYCLES AND IN PLANNING AIRBORNE CAMPAIGNS IN REMOTE NORTHERN ENVIRONMENTS  INCLUDING EXTENSIVE FIELD EXPERIENCE INSIDE THE ABOVE STUDY DOMAIN. COINVESTIGATOR XXX DEVELOPED THE VIC WATER BALANCE MODEL AND BRINGS DECADES OF NASA SCIENCE TEAM EXPERIENCE TO ABOVE. THE PROPOSAL IS HIGHLY RESPONSIVE TO SPECIFIC PRIORITIES OF ABOVE  NASA AND NUMEROUS FEDERAL ENTITIES  AND OFFERS MENTORSHIP OF GRADUATE AND UNDERGRADUATE STUDENTS  AND COMMUNITY OUTREACH THROUGH SCIENTIFIC ENGAGEMENT WITH ELEMENTARY AND SECONDARY SCHOOLS IN ALASKA AND NORTHERN CANADA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "11000 KINROSS AVE STE 102",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "33",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2000",
+      "zip5": "90095"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "33",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "90095-2000",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2017-01-01",
+    "End Date": "2020-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_NNX17AC60A_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89967195,
+    "generated_unique_award_id": "ASST_NON_NNX17AC60A_080",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "NEARLY 50% OF CANADA AND 80% OF ALASKA ARE UNDERLAIN BY PERMAFROST (PERENNIALLY FROZEN GROUND)  BUT ARE PRECLUDED FROM FIELD STUDY OWING TO LOGISTICAL DIFFICULTY  SHORT FIELD SEASONS  AND HIGH COST. THE PRESENCE OF THIS PERMAFROST EXERTS FEEDBACKS ON SURFACE WATER ECOSYSTEMS AND THE ARCTIC BOREAL LANDSCAPE  MOST OBSERVABLY IN THE FORM OF MILLIONS OF LAKES  PONDS  WETLANDS  AND SATURATED SOILS  WITH ASSOCIATED IMPACTS ON VEGETATION COVER  GREENHOUSE GAS EMISSIONS  SOIL CARBON SEQUESTRATION  LANDSCAPE DISTURBANCE  WILDLIFE HABITAT AND TRADITIONAL SUBSISTENCE ECONOMIES. THE PROPOSED PROJECT WILL STUDY THE RESILIENCE OF THESE SURFACE WATER FEATURES IN RESPONSE TO THAWING PERMAFROST  CAPITALIZING ON THE LONG FLIGHT LINES OF THE NASA ARCTIC BOREAL VULNERABILITY EXPERIMENT (ABOVE) WHICH WILL SPAN A FULL SPECTRUM OF PERMAFROST CONDITIONS (PERMAFROST FREE TO CONTINUOUS PERMAFROST  LOW TO HIGH GROUND ICE CONTENT)  ECOSYSTEMS  CLIMATIC REGIONS  TOPOGRAPHIC RELIEF  AND GEOLOGICAL SUBSTRATES. AT THE HEART OF THE PROPOSAL IS ACQUISITION AND STUDY OF NEW AIRBORNE DATA FROM AIRSWOT  AN EXPERIMENTAL RADAR INTERFEROMETER SPECIFICALLY DESIGNED FOR SURFACE WATER STUDIES INCLUDING PRECISE DETERMINATION OF WATER SURFACE ELEVATIONS (WSES) FOR THOUSANDS OF LAKES  PONDS  RIVERS AND WETLANDS OCCURRING ALONG PLANNED ABOVE FLIGHT LINES. THE OVERARCHING SCIENCE QUESTION TO BE ANSWERED IS  CAN PERMAFROST PRESENCE AND OR DISTURBANCE BE IDENTIFIED FROM REMOTE SENSING OF SURFACE WATER LAKE AND WETLAND ECOSYSTEMS. TWO SCIENTIFIC HYPOTHESES RELATING WATER SURFACE ELEVATIONS AND EXTENTS TO PERMAFROST AND ASSOCIATED LANDSCAPE DISTURBANCE WILL BE TESTED. TO ISOLATE THE INFLUENCE OF PERMAFROST FROM REGIONAL WATER BALANCE VARIATIONS  THE VARIABLE INFILTRATION CAPACITY (VIC) WATER BALANCE MODEL WILL BE CALIBRATED ALONG THE ABOVE FLIGHT PATHS FOR USE BY THIS AND OTHER ABOVE PROJECTS. REMOTELY SENSED SURFACE WATER ELEVATIONS AND AREAL EXTENTS  AND MAPPING OF VISIBLE MANIFESTATIONS OF PERMAFROST (E.G. THERMOKARST) ARE KEY TARGETS OF STUDY AND WILL BE OBTAINED USING THE AIRSWOT KA BAND INTERFEROMETRIC RADAR AND DIGITAL CIRRUS CAMERA (DCC) OPTICAL CAMERA IMAGERY  AS WELL AS PLANNED ABOVE UAVSAR  AIRMOSS AND LVIS AIRBORNE ACQUISITIONS AND ANCILLARY DATA PRODUCTS (PERMAFROST MAPS  ARCTICDEM HIGH RESOLUTION DIGITAL ELEVATION MODEL). ANTICIPATED OUTCOMES OF THE PROJECT INCLUDE 1) FUNDAMENTALLY NEW SCIENTIFIC UNDERSTANDING OF THE INTERACTION BETWEEN PERMAFROST AND LAKE WETLAND WATER SURFACE ELEVATIONS IN THE ARCTIC BOREAL ZONE (ABZ); 2) IDENTIFICATION OF FOREST ECOSYSTEM DISTURBANCE LOCATIONS ATTRIBUTED TO PERMAFROST THAW ALONG ABOVE FLIGHT LINES; 3) ASSESSMENT OF THE POTENTIAL FOR USING REMOTELY SENSED WSE AND OR WSE CHANGES TO INFER THE PRESENCE ABSENCE OF SUBSURFACE PERMAFROST AND OR ATTRIBUTING ECOSYSTEM DISTURBANCE TO PERMAFROST THAW 4) NEW SYNERGIES BETWEEN ABOVE AND AIRSWOT SWOT DATASETS; AND 5) NEW SCIENCE AND DATA-SHARING COLLABORATIONS AMONG THE ABOVE SCIENCE TEAM. PI XXX AND COI XXX HAVE CAREER LONG EXPERTISE IN REMOTE SENSING AND FIELD STUDIES OF ARCTIC BOREAL HYDROLOGY AND CARBON CYCLES AND IN PLANNING AIRBORNE CAMPAIGNS IN REMOTE NORTHERN ENVIRONMENTS  INCLUDING EXTENSIVE FIELD EXPERIENCE INSIDE THE ABOVE STUDY DOMAIN. COINVESTIGATOR XXX DEVELOPED THE VIC WATER BALANCE MODEL AND BRINGS DECADES OF NASA SCIENCE TEAM EXPERIENCE TO ABOVE. THE PROPOSAL IS HIGHLY RESPONSIVE TO SPECIFIC PRIORITIES OF ABOVE  NASA AND NUMEROUS FEDERAL ENTITIES  AND OFFERS MENTORSHIP OF GRADUATE AND UNDERGRADUATE STUDENTS  AND COMMUNITY OUTREACH THROUGH SCIENTIFIC ENGAGEMENT WITH ELEMENTARY AND SECONDARY SCHOOLS IN ALASKA AND NORTHERN CANADA.",
+    "total_obligation": 613341,
+    "subaward_count": 3,
+    "total_subaward_amount": 156617,
+    "date_signed": "2017-01-10",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 26996.62,
+    "total_account_obligation": -1,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 26996.62
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -1
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2017-01-01",
+      "end_date": "2020-12-31",
+      "last_modified_date": "2021-06-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": "092530369",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "11000 KINROSS AVE STE 102",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "2000",
+        "zip5": "90095",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "2000",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 26996.62
+  }
+}

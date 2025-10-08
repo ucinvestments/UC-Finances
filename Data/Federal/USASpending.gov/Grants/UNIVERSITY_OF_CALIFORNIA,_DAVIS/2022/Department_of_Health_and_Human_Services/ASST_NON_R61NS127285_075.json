@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91365820,
+    "Award ID": "R61NS127285",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1610258,
+    "Total Outlays": 1550910.38,
+    "Description": "INVESTIGATING THE CONTRIBUTIONS OF VOLTAGE GATED SODIUM CHANNELS TO OXALIPLATIN INDUCED NEUROPATHY - PROJECT SUMMARY THE GOAL OF THIS PROJECT IS TO DEVELOP CONFORMATIONALLY-SPECIFIC NOVEL BIOLOGICALS TO TARGET AND FUNCTIONALLY MODULATE VOLTAGE-GATED SODIUM (NAV) CHANNELS INVOLVED IN PAIN SIGNALING. AIM 1 WILL USE IN SILICO STRUCTURAL MODELING TO DESIGN STABLE EPITOPE MIMETICS FOR THE VOLTAGE-SENSING DOMAIN IV OF HUMAN NAV1.7, NAV1.8, AND NAV1.9. IN AIM 2, THESE PURIFIED PROTEIN FRAGMENTS WILL BE EXPRESSED IN E. COLI, PURIFIED, AND USED TO IMMUNIZE LLAMAS AND MICE FOR NANOBODY (NAB), MONOCLONAL ANTIBODIES (MABS), RABBIT-MABS (R-MABS), AND SINGLE-CHAIN VARIABLE FRAGMENTS (SCFVS) PRODUCTION. EXPERIMENTS IN AIM 3 WILL ANALYZE THE PHARMACOLOGICAL ACTIVITY OF MABS AGAINST HUMAN NAV CHANNELS IN HETEROLOGOUS SYSTEMS AND PILOT IN VIVO EFFICACY WILL BE DETERMINED IN RATS TREATED WITH THE CHEMOTHERAPEUTIC AGENT, OXALIPLATIN. MR. JOSE MARQUEZ’S WORK WILL EXPAND UPON THE EFFORTS OUTLINED IN AIM 3 TO INVESTIGATE HOW NAV EXPRESSION AND FUNCTION IS MODIFIED IN GENETICALLY IDENTIFIED NOCICEPTORS FOLLOWING ACUTE AND CHRONIC OXALIPLATIN TREATMENT, AS WELL AS AN EXPANDED THERMOSENSORY BEHAVIORAL ANALYSIS OF ABS PRECLINICAL EFFICACY IN MICE. SINCE JOINING DR. THEANNE GRIFFITH’S LABORATORY AS A GRADUATE STUDENT IN SEPTEMBER OF 2021, MR. MARQUEZ HAS GAINED EXPERIENCE WITH SEVERAL OF THE TECHNIQUES OUTLINED IN AIM 3 OF THE PARENT GRANT AND WILL BUILD UPON THIS FOUNDATION BY WILL ADDRESSING TWO BASIC QUESTIONS REGARDING MECHANISMS OF SODIUM CHANNEL DYSFUNCTION DURING PAIN: 1) HOW DOES OXALIPLATIN TREATMENT ALTER SODIUM CHANNEL EXPRESSION AND FUNCTION IN GENETICALLY IDENTIFIABLE NOCICEPTORS, AND 2) HOW DOES INHIBITING SODIUM CHANNEL FUNCTION WITH BIOLOGICS, SUCH AS ABS AND NABS, ALTER OXALIPLATIN INDUCED THERMAL PAIN BEHAVIORS? HIS RESEARCH PLAN IN COMBINATION WITH A CAREFULLY CRAFTED CAREER DEVELOPMENT PLAN WILL POSITION MR. MARQUEZ TO BE A COMPETITIVE POSTDOCTORAL CANDIDATE IN THE PAIN FIELD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-21",
+    "End Date": "2025-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R61NS127285_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91365820,
+    "generated_unique_award_id": "ASST_NON_R61NS127285_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INVESTIGATING THE CONTRIBUTIONS OF VOLTAGE GATED SODIUM CHANNELS TO OXALIPLATIN INDUCED NEUROPATHY - PROJECT SUMMARY THE GOAL OF THIS PROJECT IS TO DEVELOP CONFORMATIONALLY-SPECIFIC NOVEL BIOLOGICALS TO TARGET AND FUNCTIONALLY MODULATE VOLTAGE-GATED SODIUM (NAV) CHANNELS INVOLVED IN PAIN SIGNALING. AIM 1 WILL USE IN SILICO STRUCTURAL MODELING TO DESIGN STABLE EPITOPE MIMETICS FOR THE VOLTAGE-SENSING DOMAIN IV OF HUMAN NAV1.7, NAV1.8, AND NAV1.9. IN AIM 2, THESE PURIFIED PROTEIN FRAGMENTS WILL BE EXPRESSED IN E. COLI, PURIFIED, AND USED TO IMMUNIZE LLAMAS AND MICE FOR NANOBODY (NAB), MONOCLONAL ANTIBODIES (MABS), RABBIT-MABS (R-MABS), AND SINGLE-CHAIN VARIABLE FRAGMENTS (SCFVS) PRODUCTION. EXPERIMENTS IN AIM 3 WILL ANALYZE THE PHARMACOLOGICAL ACTIVITY OF MABS AGAINST HUMAN NAV CHANNELS IN HETEROLOGOUS SYSTEMS AND PILOT IN VIVO EFFICACY WILL BE DETERMINED IN RATS TREATED WITH THE CHEMOTHERAPEUTIC AGENT, OXALIPLATIN. MR. JOSE MARQUEZ’S WORK WILL EXPAND UPON THE EFFORTS OUTLINED IN AIM 3 TO INVESTIGATE HOW NAV EXPRESSION AND FUNCTION IS MODIFIED IN GENETICALLY IDENTIFIED NOCICEPTORS FOLLOWING ACUTE AND CHRONIC OXALIPLATIN TREATMENT, AS WELL AS AN EXPANDED THERMOSENSORY BEHAVIORAL ANALYSIS OF ABS PRECLINICAL EFFICACY IN MICE. SINCE JOINING DR. THEANNE GRIFFITH’S LABORATORY AS A GRADUATE STUDENT IN SEPTEMBER OF 2021, MR. MARQUEZ HAS GAINED EXPERIENCE WITH SEVERAL OF THE TECHNIQUES OUTLINED IN AIM 3 OF THE PARENT GRANT AND WILL BUILD UPON THIS FOUNDATION BY WILL ADDRESSING TWO BASIC QUESTIONS REGARDING MECHANISMS OF SODIUM CHANNEL DYSFUNCTION DURING PAIN: 1) HOW DOES OXALIPLATIN TREATMENT ALTER SODIUM CHANNEL EXPRESSION AND FUNCTION IN GENETICALLY IDENTIFIABLE NOCICEPTORS, AND 2) HOW DOES INHIBITING SODIUM CHANNEL FUNCTION WITH BIOLOGICS, SUCH AS ABS AND NABS, ALTER OXALIPLATIN INDUCED THERMAL PAIN BEHAVIORS? HIS RESEARCH PLAN IN COMBINATION WITH A CAREFULLY CRAFTED CAREER DEVELOPMENT PLAN WILL POSITION MR. MARQUEZ TO BE A COMPETITIVE POSTDOCTORAL CANDIDATE IN THE PAIN FIELD.",
+    "total_obligation": 1610258,
+    "subaward_count": 2,
+    "total_subaward_amount": 77968,
+    "date_signed": "2022-04-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1550910.38,
+    "total_account_obligation": 1610258,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1550910.38
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1610258
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-21",
+      "end_date": "2025-03-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1550910.38
+  }
+}

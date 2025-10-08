@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91363111,
+    "Award ID": "R56DK140492",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 594547,
+    "Total Outlays": 380061.94,
+    "Description": "A NOVEL NANODRUG FOR METABOLIC DISEASE TREATMENT - NOTE: YOU MUST SUBMIT IN WORD FORMAT, NOT PDF, FOR ERA TO UPDATE ALL THE SYSTEMS. METABOLIC HEALTH ISSUES SUCH AS METABOLIC DYSFUNCTION-ASSOCIATED STEATOHEPATITIS (MASH) AND TYPE 2 DIABETES MELILOTUS (T2DM) ARE RISKS FOR HEPATOCELLULAR CARCINOMA (HCC) AND COLORECTAL CANCER (CRC). EMERGING EVIDENCE HAS REVEALED THAT DIET-INDUCED GUT DYSBIOSIS CONTRIBUTES TO METABOLIC DISEASE DEVELOPMENT, INCLUDING CANCER. THUS, GUT DYSBIOSIS-TARGETED DRUG DISCOVERY SHOULD BE EXPLORED, WHICH IS ANTICIPATED TO ADVANCE THE FIELD OF METABOLIC DISEASE PREVENTION AND TREATMENT. THIS PROJECT AIMS TO DEVELOP AND CHARACTERIZE AN ORALLY DELIVERED NANODRUG DESIGNED AND SYNTHESIZED TO COMPENSATE FOR THE SHORTAGE OF SPECIFIC MICROBIAL METABOLITE-REGULATED SIGNALING IN LIVER AND COLON CANCER PATIENTS. THE METABOLIC BENEFITS OF THIS NOVEL DRUG HAVE BEEN UNCOVERED IN DIET-INDUCED OBESE (DIO) MOUSE MODELS.  OUR DATA SHOWS THAT HUMAN CRC AND HCC SPECIMENS HAVE ELEVATED PROTEIN DEACETYLASES AND REDUCED SIGNALING FOR SHORT-CHAIN FATTY ACIDS (SCFA), HARBORING HISTONE DEACETYLASE (HDAC) INHIBITORY PROPERTIES. THROUGH EPIGENETIC MECHANISMS, HDAC INHIBITORS ENHANCE INTESTINAL RETINOIC ACID (RA) SIGNALING, WHICH IS CONSISTENTLY REDUCED IN HUMAN HCC AND CRC. WE HAVE VALIDATED THE INTERACTIVE AND COMBINED BENEFITS OF HDAC INHIBITORS AND RA IN CANCER CELLS AND ANIMAL MODELS. WE, THEREFORE, HAVE SYNTHESIZED NANO- “RA-BASED HDAC INHIBITORS” USING POLYMERS. ONE OF THE SYNTHESIZED DRUGS, PRORA, WAS PRODUCED BY COVALENTLY LINKING PROPIONIC ACID (PRO), AN HDAC INHIBITOR, AND ALL-TRANS RA (RA) TO POLYVINYL ALCOHOL (PVA), ASSEMBLED INTO NANO-MICELLES. THIS NANO-FORMULATION ALLOWS THE CO-DELIVERY OF BOTH CHEMICALS SIMULTANEOUSLY. PRORA CAN BE ABSORBED BY THE INTESTINAL EPITHELIAL CELLS. IN DIO MICE, ORAL THERAPY WITH PRORA REVERSES DIET-INDUCED FATTY LIVER, SPLENOMEGALY, AND INSULIN RESISTANCE WITHOUT NOTICEABLE TOXICITY. BASED ON THIS EXCITING SUCCESS, WE PROPOSE TO UNCOVER THE MECHANISMS OF ACTION. OUR DATA REVEALED THAT PRORA ACTIVATED HEPATIC AND INTESTINAL FXR, A BILE ACID (BA) RECEPTOR, WHICH ALSO HAS REDUCED EXPRESSION IN HUMAN HCC AND CRC. WE PROPOSE ANALYZING THE EFFECTS OF PRORA IN FXR-DEPENDENT OR -INDEPENDENT MANNERS USING DIO WILD-TYPE MICE AND FXR KO MICE, FOLLOWED BY TRANSCRIPTOMIC PROFILING USING COLON AND LIVER RNA. PRORA-INFLUENCED GENES AND PATHWAYS WILL BE UNCOVERED IN THE GUT-LIVER AXIS. IN ADDITION, BECAUSE FXR KO MICE ARE PRONE TO DEVELOPING MASH AND PROGRESSING INTO LIVER CANCER, THE PROPOSED APPROACHES ALLOW US TO DETERMINE WHETHER PRORA HAS LIVER CANCER-PREVENTIVE EFFECTS. THE DATA GENERATED IMPACT ON HAVING A SAFE ORALLY DELIVERED DRUG TO TREAT OR PREVENT MASH AND T2DM.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-09-02",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R56DK140492_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91363111,
+    "generated_unique_award_id": "ASST_NON_R56DK140492_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A NOVEL NANODRUG FOR METABOLIC DISEASE TREATMENT - NOTE: YOU MUST SUBMIT IN WORD FORMAT, NOT PDF, FOR ERA TO UPDATE ALL THE SYSTEMS. METABOLIC HEALTH ISSUES SUCH AS METABOLIC DYSFUNCTION-ASSOCIATED STEATOHEPATITIS (MASH) AND TYPE 2 DIABETES MELILOTUS (T2DM) ARE RISKS FOR HEPATOCELLULAR CARCINOMA (HCC) AND COLORECTAL CANCER (CRC). EMERGING EVIDENCE HAS REVEALED THAT DIET-INDUCED GUT DYSBIOSIS CONTRIBUTES TO METABOLIC DISEASE DEVELOPMENT, INCLUDING CANCER. THUS, GUT DYSBIOSIS-TARGETED DRUG DISCOVERY SHOULD BE EXPLORED, WHICH IS ANTICIPATED TO ADVANCE THE FIELD OF METABOLIC DISEASE PREVENTION AND TREATMENT. THIS PROJECT AIMS TO DEVELOP AND CHARACTERIZE AN ORALLY DELIVERED NANODRUG DESIGNED AND SYNTHESIZED TO COMPENSATE FOR THE SHORTAGE OF SPECIFIC MICROBIAL METABOLITE-REGULATED SIGNALING IN LIVER AND COLON CANCER PATIENTS. THE METABOLIC BENEFITS OF THIS NOVEL DRUG HAVE BEEN UNCOVERED IN DIET-INDUCED OBESE (DIO) MOUSE MODELS.  OUR DATA SHOWS THAT HUMAN CRC AND HCC SPECIMENS HAVE ELEVATED PROTEIN DEACETYLASES AND REDUCED SIGNALING FOR SHORT-CHAIN FATTY ACIDS (SCFA), HARBORING HISTONE DEACETYLASE (HDAC) INHIBITORY PROPERTIES. THROUGH EPIGENETIC MECHANISMS, HDAC INHIBITORS ENHANCE INTESTINAL RETINOIC ACID (RA) SIGNALING, WHICH IS CONSISTENTLY REDUCED IN HUMAN HCC AND CRC. WE HAVE VALIDATED THE INTERACTIVE AND COMBINED BENEFITS OF HDAC INHIBITORS AND RA IN CANCER CELLS AND ANIMAL MODELS. WE, THEREFORE, HAVE SYNTHESIZED NANO- “RA-BASED HDAC INHIBITORS” USING POLYMERS. ONE OF THE SYNTHESIZED DRUGS, PRORA, WAS PRODUCED BY COVALENTLY LINKING PROPIONIC ACID (PRO), AN HDAC INHIBITOR, AND ALL-TRANS RA (RA) TO POLYVINYL ALCOHOL (PVA), ASSEMBLED INTO NANO-MICELLES. THIS NANO-FORMULATION ALLOWS THE CO-DELIVERY OF BOTH CHEMICALS SIMULTANEOUSLY. PRORA CAN BE ABSORBED BY THE INTESTINAL EPITHELIAL CELLS. IN DIO MICE, ORAL THERAPY WITH PRORA REVERSES DIET-INDUCED FATTY LIVER, SPLENOMEGALY, AND INSULIN RESISTANCE WITHOUT NOTICEABLE TOXICITY. BASED ON THIS EXCITING SUCCESS, WE PROPOSE TO UNCOVER THE MECHANISMS OF ACTION. OUR DATA REVEALED THAT PRORA ACTIVATED HEPATIC AND INTESTINAL FXR, A BILE ACID (BA) RECEPTOR, WHICH ALSO HAS REDUCED EXPRESSION IN HUMAN HCC AND CRC. WE PROPOSE ANALYZING THE EFFECTS OF PRORA IN FXR-DEPENDENT OR -INDEPENDENT MANNERS USING DIO WILD-TYPE MICE AND FXR KO MICE, FOLLOWED BY TRANSCRIPTOMIC PROFILING USING COLON AND LIVER RNA. PRORA-INFLUENCED GENES AND PATHWAYS WILL BE UNCOVERED IN THE GUT-LIVER AXIS. IN ADDITION, BECAUSE FXR KO MICE ARE PRONE TO DEVELOPING MASH AND PROGRESSING INTO LIVER CANCER, THE PROPOSED APPROACHES ALLOW US TO DETERMINE WHETHER PRORA HAS LIVER CANCER-PREVENTIVE EFFECTS. THE DATA GENERATED IMPACT ON HAVING A SAFE ORALLY DELIVERED DRUG TO TREAT OR PREVENT MASH AND T2DM.",
+    "total_obligation": 594547,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-09-02",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 380061.94,
+    "total_account_obligation": 594547,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 380061.94
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 594547
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-02",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 380061.94
+  }
+}

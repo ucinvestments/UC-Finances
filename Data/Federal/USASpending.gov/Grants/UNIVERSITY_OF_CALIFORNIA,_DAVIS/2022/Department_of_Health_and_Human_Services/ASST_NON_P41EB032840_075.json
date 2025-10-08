@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 90983335,
+    "Award ID": "P41EB032840",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 5213247,
+    "Total Outlays": 3689060.99,
+    "Description": "THE NATIONAL CENTER FOR INTERVENTIONAL BIOPHOTONIC TECHNOLOGIES (NCIBT) - PROJECT SUMMARY – OVERALL THE LONG-TERM GOAL OF THE NATIONAL CENTER FOR INTERVENTIONAL BIOPHOTONIC TECHNOLOGIES (NCIBT) IS TO PROMOTE PUBLIC HEALTH BY ADVANCING A NEW PARADIGM FOR INTRAPROCEDURAL, IMAGE-GUIDED DECISION MAKING. THE CENTER'S STRATEGY IS TO ADVANCE OPTICAL SPECTROSCOPY AND IMAGING TECHNOLOGIES, TO DEVELOP MEANS OF PROVIDING IMAGING RESULTS TO MEDICAL PRACTITIONERS AT THE TIME, IN THE FORM, AND WITHIN THE CONTEXT THEY WILL BE MOST USEFUL IN GUIDING DECISIONS, AND TO MAXIMIZE THE IMPACT OF THIS WORK BY INVOLVING AS MANY SCIENTISTS AND PHYSICIANS AS POSSIBLE IN DEVELOPING AND USING THESE TECHNOLOGIES. INITIALLY, THE CENTER WILL PROMOTE TECHNOLOGICAL ADVANCEMENTS OF INTERVENTIONAL FLUORESCENCE LIFETIME IMAGING (IFLIM) AND INTERFEROMETRIC DIFFUSE OPTICAL SPECTROSCOPY (IDOS) AND THEIR TRANSLATION INTO CLINICAL USE. AN OPEN-ENDED INTRAPROCEDURAL PLATFORM WILL INCORPORATE THEM AND, EVENTUALLY, COMPLEMENTARY OPTICAL IMAGING TECHNOLOGIES. SPECIFICALLY, NCIBT WILL (1) ADVANCE SCALABLE OPTICAL IMAGING TECHNOLOGY, BUILT FROM THE PERSPECTIVE OF INTELLIGENT OPTICAL SYSTEM DESIGN, TO CHARACTERIZE TISSUE PROPERTIES IN THE MOST EFFECTIVE MANNER; (2) DEVELOP AN INTRAPROCEDURAL PLATFORM THAT PHYSICALLY INCORPORATES THESE TECHNOLOGIES AND INTEGRATES THE RESULTING IMAGING DATA, DETAILS OF THE PROCEDURE, AND PATIENT-SPECIFIC INFORMATION WITHIN AI- BASED DECISION ALGORITHMS THAT GUIDE, IN REAL-TIME, THERAPEUTIC DECISIONS, AND (3) DISSEMINATE THESE TECHNOLOGICAL ADVANCEMENTS TO RESEARCH INSTITUTIONS AND MEDICAL CENTERS. THE SIGNIFICANCE OF THIS PROJECT DERIVES FROM ITS POTENTIAL FOR RAPID ADVANCEMENT, CATALYZED BY AN AI-DIRECTED HOLISTIC APPROACH TO INSTRUMENT DESIGN, OF ITS OPTICAL IMAGING TECHNOLOGIES AND PLATFORM AND THEIR RELEVANCE TO MANAGING HUMANITY'S MOST COMMON AFFLICTIONS - CANCER, STROKE, HEART DISEASE, TRAUMA, INFECTION, AND DEGENERATIVE DISEASES. NCIBT WILL ENSURE THE NATIONAL IMPACT OF THESE TECHNOLOGICAL ADVANCEMENTS BY CREATING AND EXPANDING A NETWORK OF COLLABORATIVE RESEARCH AND SERVICE PROJECTS BROADLY DISTRIBUTED NATIONWIDE AND IMPLEMENTING A COMPREHENSIVE TRAINING AND DISSEMINATION PROGRAM. ANNUAL WORKSHOPS, HAND-ON TRAINING SESSIONS AT NATIONAL MEETINGS, IN SPECIAL COURSES AND AT UC DAVIS, PRESENTATIONS AND PUBLICATIONS WILL EDUCATE, TRAIN, EQUIP AND DIVERSIFY POTENTIAL USERS OF NCIBT TECHNOLOGY. BRIDGING GAPS BETWEEN ENGINEERING AND MEDICINE AND BETWEEN TECHNOLOGY DEVELOPMENT AND CLINICAL APPLICATION WILL ENSURE THAT THE NEEDED TECHNOLOGIES ARE DEVELOPED AND APPLIED CLINICALLY TO IMPROVE THE NATION'S HEALTH.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-06-20",
+    "End Date": "2027-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_P41EB032840_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 90983335,
+    "generated_unique_award_id": "ASST_NON_P41EB032840_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE NATIONAL CENTER FOR INTERVENTIONAL BIOPHOTONIC TECHNOLOGIES (NCIBT) - PROJECT SUMMARY – OVERALL THE LONG-TERM GOAL OF THE NATIONAL CENTER FOR INTERVENTIONAL BIOPHOTONIC TECHNOLOGIES (NCIBT) IS TO PROMOTE PUBLIC HEALTH BY ADVANCING A NEW PARADIGM FOR INTRAPROCEDURAL, IMAGE-GUIDED DECISION MAKING. THE CENTER'S STRATEGY IS TO ADVANCE OPTICAL SPECTROSCOPY AND IMAGING TECHNOLOGIES, TO DEVELOP MEANS OF PROVIDING IMAGING RESULTS TO MEDICAL PRACTITIONERS AT THE TIME, IN THE FORM, AND WITHIN THE CONTEXT THEY WILL BE MOST USEFUL IN GUIDING DECISIONS, AND TO MAXIMIZE THE IMPACT OF THIS WORK BY INVOLVING AS MANY SCIENTISTS AND PHYSICIANS AS POSSIBLE IN DEVELOPING AND USING THESE TECHNOLOGIES. INITIALLY, THE CENTER WILL PROMOTE TECHNOLOGICAL ADVANCEMENTS OF INTERVENTIONAL FLUORESCENCE LIFETIME IMAGING (IFLIM) AND INTERFEROMETRIC DIFFUSE OPTICAL SPECTROSCOPY (IDOS) AND THEIR TRANSLATION INTO CLINICAL USE. AN OPEN-ENDED INTRAPROCEDURAL PLATFORM WILL INCORPORATE THEM AND, EVENTUALLY, COMPLEMENTARY OPTICAL IMAGING TECHNOLOGIES. SPECIFICALLY, NCIBT WILL (1) ADVANCE SCALABLE OPTICAL IMAGING TECHNOLOGY, BUILT FROM THE PERSPECTIVE OF INTELLIGENT OPTICAL SYSTEM DESIGN, TO CHARACTERIZE TISSUE PROPERTIES IN THE MOST EFFECTIVE MANNER; (2) DEVELOP AN INTRAPROCEDURAL PLATFORM THAT PHYSICALLY INCORPORATES THESE TECHNOLOGIES AND INTEGRATES THE RESULTING IMAGING DATA, DETAILS OF THE PROCEDURE, AND PATIENT-SPECIFIC INFORMATION WITHIN AI- BASED DECISION ALGORITHMS THAT GUIDE, IN REAL-TIME, THERAPEUTIC DECISIONS, AND (3) DISSEMINATE THESE TECHNOLOGICAL ADVANCEMENTS TO RESEARCH INSTITUTIONS AND MEDICAL CENTERS. THE SIGNIFICANCE OF THIS PROJECT DERIVES FROM ITS POTENTIAL FOR RAPID ADVANCEMENT, CATALYZED BY AN AI-DIRECTED HOLISTIC APPROACH TO INSTRUMENT DESIGN, OF ITS OPTICAL IMAGING TECHNOLOGIES AND PLATFORM AND THEIR RELEVANCE TO MANAGING HUMANITY'S MOST COMMON AFFLICTIONS - CANCER, STROKE, HEART DISEASE, TRAUMA, INFECTION, AND DEGENERATIVE DISEASES. NCIBT WILL ENSURE THE NATIONAL IMPACT OF THESE TECHNOLOGICAL ADVANCEMENTS BY CREATING AND EXPANDING A NETWORK OF COLLABORATIVE RESEARCH AND SERVICE PROJECTS BROADLY DISTRIBUTED NATIONWIDE AND IMPLEMENTING A COMPREHENSIVE TRAINING AND DISSEMINATION PROGRAM. ANNUAL WORKSHOPS, HAND-ON TRAINING SESSIONS AT NATIONAL MEETINGS, IN SPECIAL COURSES AND AT UC DAVIS, PRESENTATIONS AND PUBLICATIONS WILL EDUCATE, TRAIN, EQUIP AND DIVERSIFY POTENTIAL USERS OF NCIBT TECHNOLOGY. BRIDGING GAPS BETWEEN ENGINEERING AND MEDICINE AND BETWEEN TECHNOLOGY DEVELOPMENT AND CLINICAL APPLICATION WILL ENSURE THAT THE NEEDED TECHNOLOGIES ARE DEVELOPED AND APPLIED CLINICALLY TO IMPROVE THE NATION'S HEALTH.",
+    "total_obligation": 5213247,
+    "subaward_count": 2,
+    "total_subaward_amount": 70833.05,
+    "date_signed": "2022-06-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 3689060.99,
+    "total_account_obligation": 5213247,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3689060.99
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 5213247
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-20",
+      "end_date": "2027-03-31",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 3689060.99
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57268885,
+    "Award ID": "2334731",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 797203,
+    "Total Outlays": 0,
+    "Description": "EFFECT OF CONDENSED-PHASE PHOTOCHEMISTRY ON ABSORPTION COEFFICIENTS AND PHASE STATE OF ATMOSPHERIC ORGANIC AEROSOL PARTICLES -THE GOAL OF THIS PROJECT IS TO BETTER UNDERSTAND HOW PHOTOCHEMICAL REACTIONS IN THE SOLID OR LIQUID PHASE OF ORGANIC COMPOUNDS AFFECT THE KEY PROPERTIES OF ORGANIC AEROSOL IN THE ATMOSPHERE. THE FOCUS OF THIS PROJECT IS ON SECONDARY ORGANIC AEROSOL AND/OR BIOMASS BURNING ORGANIC AEROSOL. THIS RESEARCH IS IMPORTANT TO IMPROVE THE MODELING OF PHOTOCHEMICAL REACTIONS THAT OCCUR INSIDE ATMOSPHERIC ORGANIC PARTICLES AND CLOUD DROPLETS CONTAINING DISSOLVED ORGANICS. THE RESULTS OF THIS PROJECT WILL IMPROVE THE UNDERSTANDING OF HOW ORGANIC PARTICLES CONTRIBUTE TO RADIATIVE FORCING ON CLIMATE BOTH DIRECTLY AND INDIRECTLY AND PROVIDE VALUABLE INFORMATION RELEVANT TO PREDICTING THE HEALTH EFFECTS OF AGED ORGANIC PARTICULATE MATTER IN THE URBAN ENVIRONMENT. THE MAIN OBJECTIVES OF THIS PROPOSAL ARE TO: (1) COMPARE MECHANISMS OF PHOTOCHEMICAL PROCESSES FOR SECONDARY ORGANIC AEROSOL (SOA) AND BIOMASS BURNING ORGANIC AEROSOL (BBOA) COMPOUNDS IN DIFFERENT MATRICES REPRESENTATIVE OF THE DILUTE AQUEOUS ENVIRONMENT FOUND IN CLOUD DROPLETS, THE CONCENTRATED AQUEOUS ENVIRONMENT IN AEROSOL LIQUID WATER, AND THE ORGANIC PHASE OF PARTICLES; (2) ASSESS THE RELATIVE IMPORTANCE OF DIRECT AND INDIRECT PHOTOCHEMICAL PROCESSES IN IRRADIATED SOA AND BBOA; AND (3) EXAMINE THE EFFECT OF CONDENSED-PHASE PHOTOCHEMICAL PROCESSES ON ABSORPTION COEFFICIENTS, VISCOSITY AND THE PHASE BEHAVIOR OF SOA AND BBOA MATERIALS. THE PROJECT WILL BE CONDUCTED THROUGH EXPERIMENTS CARRIED OUT IN A SMOG CHAMBER OR AN OXIDATION FLOW REACTOR. THIS EFFORT WILL DIRECTLY SUPPORT THE TRAINING OF AT LEAST TWO GRADUATE STUDENTS AND SIX UNDERGRADUATE STUDENTS. THE RESULTS OF THIS PROJECT WILL BE DISSEMINATED THROUGH RESEARCH MEETINGS, PEER-REVIEWED PUBLICATIONS, THE INTERNET, AND PUBLIC MEDIA SOURCES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92697-2025",
+      "zip5": "92697"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-02-15",
+    "End Date": "2027-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2334731_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57268885,
+    "generated_unique_award_id": "ASST_NON_2334731_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EFFECT OF CONDENSED-PHASE PHOTOCHEMISTRY ON ABSORPTION COEFFICIENTS AND PHASE STATE OF ATMOSPHERIC ORGANIC AEROSOL PARTICLES -THE GOAL OF THIS PROJECT IS TO BETTER UNDERSTAND HOW PHOTOCHEMICAL REACTIONS IN THE SOLID OR LIQUID PHASE OF ORGANIC COMPOUNDS AFFECT THE KEY PROPERTIES OF ORGANIC AEROSOL IN THE ATMOSPHERE. THE FOCUS OF THIS PROJECT IS ON SECONDARY ORGANIC AEROSOL AND/OR BIOMASS BURNING ORGANIC AEROSOL. THIS RESEARCH IS IMPORTANT TO IMPROVE THE MODELING OF PHOTOCHEMICAL REACTIONS THAT OCCUR INSIDE ATMOSPHERIC ORGANIC PARTICLES AND CLOUD DROPLETS CONTAINING DISSOLVED ORGANICS. THE RESULTS OF THIS PROJECT WILL IMPROVE THE UNDERSTANDING OF HOW ORGANIC PARTICLES CONTRIBUTE TO RADIATIVE FORCING ON CLIMATE BOTH DIRECTLY AND INDIRECTLY AND PROVIDE VALUABLE INFORMATION RELEVANT TO PREDICTING THE HEALTH EFFECTS OF AGED ORGANIC PARTICULATE MATTER IN THE URBAN ENVIRONMENT. THE MAIN OBJECTIVES OF THIS PROPOSAL ARE TO: (1) COMPARE MECHANISMS OF PHOTOCHEMICAL PROCESSES FOR SECONDARY ORGANIC AEROSOL (SOA) AND BIOMASS BURNING ORGANIC AEROSOL (BBOA) COMPOUNDS IN DIFFERENT MATRICES REPRESENTATIVE OF THE DILUTE AQUEOUS ENVIRONMENT FOUND IN CLOUD DROPLETS, THE CONCENTRATED AQUEOUS ENVIRONMENT IN AEROSOL LIQUID WATER, AND THE ORGANIC PHASE OF PARTICLES; (2) ASSESS THE RELATIVE IMPORTANCE OF DIRECT AND INDIRECT PHOTOCHEMICAL PROCESSES IN IRRADIATED SOA AND BBOA; AND (3) EXAMINE THE EFFECT OF CONDENSED-PHASE PHOTOCHEMICAL PROCESSES ON ABSORPTION COEFFICIENTS, VISCOSITY AND THE PHASE BEHAVIOR OF SOA AND BBOA MATERIALS. THE PROJECT WILL BE CONDUCTED THROUGH EXPERIMENTS CARRIED OUT IN A SMOG CHAMBER OR AN OXIDATION FLOW REACTOR. THIS EFFORT WILL DIRECTLY SUPPORT THE TRAINING OF AT LEAST TWO GRADUATE STUDENTS AND SIX UNDERGRADUATE STUDENTS. THE RESULTS OF THIS PROJECT WILL BE DISSEMINATED THROUGH RESEARCH MEETINGS, PEER-REVIEWED PUBLICATIONS, THE INTERNET, AND PUBLIC MEDIA SOURCES. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 797203,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-01-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 797203,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 797203
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ATMOSPHERIC AND"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ATMOSPHERIC AND"
+    },
+    "period_of_performance": {
+      "start_date": "2024-02-15",
+      "end_date": "2027-01-31",
+      "last_modified_date": "2024-02-07",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "2025",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

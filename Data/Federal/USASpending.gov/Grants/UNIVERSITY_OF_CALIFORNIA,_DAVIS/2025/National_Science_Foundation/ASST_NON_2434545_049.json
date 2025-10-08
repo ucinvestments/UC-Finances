@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57524237,
+    "Award ID": "2434545",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1100000,
+    "Total Outlays": 13309.45,
+    "Description": "RESEARCH-PGR: EVOLUTION IN SPECIALIZED METABOLITE NOVELTY ACROSS A MODEL PLANT ORDER -PLANTS SYNTHESIZE A DIVERSITY OF UNIQUE CHEMICAL COMPOUNDS CALLED SPECIALIZED METABOLITES. THESE COMPOUNDS CONTRIBUTE TO FLAVORS, AROMAS, AND MEDICINAL AND NUTRITIONAL PROPERTIES, FOUND IN PLANTS AND PLANT PRODUCTS. IN ADDITION TO THE BENEFITS TO OUR SOCIETY, THESE COMPOUNDS ALSO HELP THE PLANT DETER DISEASES, PESTS, AND HERBIVORES OR BUILD RESILIENCE TO ABIOTIC STRESS CHALLENGES IN THEIR GROWTH ENVIRONMENT. THOUGH WE KNOW ABOUT THE PRESENCE OF SUCH COMPOUNDS, WE LACK INFORMATION AND RESEARCH TO DETERMINE THE ROLE OF GENETIC DIVERSITY AND BIOLOGICAL PROCESSES THAT HELP VARIOUS PLANT SPECIES SYNTHESIZE THESE DIVERSE SETS OF COMPOUNDS. THIS PROPOSAL WILL STUDY THE GENETICS AND CHEMISTRY OF ONE SUCH FAMILY OF COMPOUNDS CALLED GLUCOSINOLATES THAT CONTRIBUTE TO FLAVOR AND HEALTH BENEFITS FOR PLANTS LIKE BROCCOLI, CAPERS, AND WASABI. THE PROJECT WILL ATTEMPT TO FIND ONE OR MORE GENES, THEIR FUNCTION, AND HOW THEY DIFFER IN THESE PLANT SPECIES TO CREATE CHEMICAL DIVERSITY. THE PROJECT WILL ENGAGE UNDERGRADUATE STUDENTS IN RESEARCH AND TRAINING. PLANTS SYNTHESIZE A DIVERSE SET OF SPECIALIZED SECONDARY METABOLIC COMPOUNDS CHARACTERIZED BY A COMMON CORE FOLLOWED BY ENSUING CHEMICAL MODIFICATIONS AND EXTENSIONS. PLANTS USE THESE MODIFICATIONS TO CONTRIBUTE TO DIFFERENT CHEMICAL AND BIOLOGICAL PROPERTIES TO ENSURE THEIR FITNESS IN A COMPLEX BIOTIC ENVIRONMENT, INCLUDING DETERRING PESTS AND PATHOGENIC STRESSORS AND FACILITATING COMMENSAL OR OTHER BENEFICIAL INTERACTIONS. THIS PROJECT WILL STUDY HOW BIOSYNTHETIC GENES AND CHEMICAL MODIFICATIONS CREATE CHEMICAL DIVERSITY WITHIN THE GLUCOSINOLATE METABOLITES ACROSS THE BRASSICALES GENERA. NOT MUCH IS KNOWN ABOUT THE GENETIC PROCESSES THAT FACILITATE GLUCOSINOLATE-DERIVED CHEMICAL DIVERSITY. USING THE SEQUENCED AND ANNOTATED GENOMES FROM MEMBERS OF THIS TAXONOMIC FAMILY, THE KEY CORE STRUCTURE ENZYME CODING GENES WILL BE PHYLOGENETICALLY MAPPED ACROSS THE ENTIRE FAMILY, AND THE NODES REPRESENTING GENES WITH NEW ACTIVITIES WILL BE EMPIRICALLY TESTED TO ASSESS THEIR ROLE IN CHEMICAL AND FUNCTIONAL DIVERSITY. BROADER IMPACTS INCLUDE THE DEVELOPMENT OF MODELS THAT PREDICT THE ROLE OF GENETICS AND GENE FUNCTION IN CREATING CHEMICAL DIVERSITY AND FUTURE APPLICATIONS ON ENGINEERING PLANTS FOR SYNTHESIZING NOVEL CHEMICALS THAT BENEFIT SOCIETY AND CONTRIBUTE TO THE BIOECONOMY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-02-01",
+    "End Date": "2030-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2434545_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57524237,
+    "generated_unique_award_id": "ASST_NON_2434545_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "RESEARCH-PGR: EVOLUTION IN SPECIALIZED METABOLITE NOVELTY ACROSS A MODEL PLANT ORDER -PLANTS SYNTHESIZE A DIVERSITY OF UNIQUE CHEMICAL COMPOUNDS CALLED SPECIALIZED METABOLITES. THESE COMPOUNDS CONTRIBUTE TO FLAVORS, AROMAS, AND MEDICINAL AND NUTRITIONAL PROPERTIES, FOUND IN PLANTS AND PLANT PRODUCTS. IN ADDITION TO THE BENEFITS TO OUR SOCIETY, THESE COMPOUNDS ALSO HELP THE PLANT DETER DISEASES, PESTS, AND HERBIVORES OR BUILD RESILIENCE TO ABIOTIC STRESS CHALLENGES IN THEIR GROWTH ENVIRONMENT. THOUGH WE KNOW ABOUT THE PRESENCE OF SUCH COMPOUNDS, WE LACK INFORMATION AND RESEARCH TO DETERMINE THE ROLE OF GENETIC DIVERSITY AND BIOLOGICAL PROCESSES THAT HELP VARIOUS PLANT SPECIES SYNTHESIZE THESE DIVERSE SETS OF COMPOUNDS. THIS PROPOSAL WILL STUDY THE GENETICS AND CHEMISTRY OF ONE SUCH FAMILY OF COMPOUNDS CALLED GLUCOSINOLATES THAT CONTRIBUTE TO FLAVOR AND HEALTH BENEFITS FOR PLANTS LIKE BROCCOLI, CAPERS, AND WASABI. THE PROJECT WILL ATTEMPT TO FIND ONE OR MORE GENES, THEIR FUNCTION, AND HOW THEY DIFFER IN THESE PLANT SPECIES TO CREATE CHEMICAL DIVERSITY. THE PROJECT WILL ENGAGE UNDERGRADUATE STUDENTS IN RESEARCH AND TRAINING. PLANTS SYNTHESIZE A DIVERSE SET OF SPECIALIZED SECONDARY METABOLIC COMPOUNDS CHARACTERIZED BY A COMMON CORE FOLLOWED BY ENSUING CHEMICAL MODIFICATIONS AND EXTENSIONS. PLANTS USE THESE MODIFICATIONS TO CONTRIBUTE TO DIFFERENT CHEMICAL AND BIOLOGICAL PROPERTIES TO ENSURE THEIR FITNESS IN A COMPLEX BIOTIC ENVIRONMENT, INCLUDING DETERRING PESTS AND PATHOGENIC STRESSORS AND FACILITATING COMMENSAL OR OTHER BENEFICIAL INTERACTIONS. THIS PROJECT WILL STUDY HOW BIOSYNTHETIC GENES AND CHEMICAL MODIFICATIONS CREATE CHEMICAL DIVERSITY WITHIN THE GLUCOSINOLATE METABOLITES ACROSS THE BRASSICALES GENERA. NOT MUCH IS KNOWN ABOUT THE GENETIC PROCESSES THAT FACILITATE GLUCOSINOLATE-DERIVED CHEMICAL DIVERSITY. USING THE SEQUENCED AND ANNOTATED GENOMES FROM MEMBERS OF THIS TAXONOMIC FAMILY, THE KEY CORE STRUCTURE ENZYME CODING GENES WILL BE PHYLOGENETICALLY MAPPED ACROSS THE ENTIRE FAMILY, AND THE NODES REPRESENTING GENES WITH NEW ACTIVITIES WILL BE EMPIRICALLY TESTED TO ASSESS THEIR ROLE IN CHEMICAL AND FUNCTIONAL DIVERSITY. BROADER IMPACTS INCLUDE THE DEVELOPMENT OF MODELS THAT PREDICT THE ROLE OF GENETICS AND GENE FUNCTION IN CREATING CHEMICAL DIVERSITY AND FUTURE APPLICATIONS ON ENGINEERING PLANTS FOR SYNTHESIZING NOVEL CHEMICALS THAT BENEFIT SOCIETY AND CONTRIBUTE TO THE BIOECONOMY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 1100000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-12-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 36476.25,
+    "total_account_obligation": 1100000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 36476.25
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1100000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "period_of_performance": {
+      "start_date": "2025-02-01",
+      "end_date": "2030-01-31",
+      "last_modified_date": "2024-12-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 36476.25
+  }
+}

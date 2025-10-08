@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91239802,
+    "Award ID": "R01NS127976",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1895194,
+    "Total Outlays": 1253094,
+    "Description": "WHOLE TRANSCRIPTOME STUDIES OF BLOOD TO PREDICT STROKE OUTCOME - ABSTRACT  SEVERAL CLINICAL VARIABLES ARE ASSOCIATED WITH OUTCOMES FOLLOWING ISCHEMIC STROKE (IS). HOWEVER, CLINICAL AND DEMOGRAPHIC PARAMETERS ACCOUNT ONLY FOR A PORTION OF THE OUTCOME VARIANCE, THUS IT IS DIFFICULT FOR CLINICIANS TO RELIABLY PREDICT LONG-TERM IS OUTCOME. HENCE, NEW BIOMARKERS ARE NEEDED. MOLECULES IN BLOOD ARE ALSO ASSOCIATED WITH IS OUTCOME INCLUDING PRO-INFLAMMATORY CYTOKINES, ANTI-INFLAMMATORY CYTOKINES AND OTHERS. GENETIC RISK FACTORS HAVE ALSO BEEN ASSOCIATED WITH IS OUTCOME. UNFORTUNATELY, COMBINED BLOOD AND GENETIC BIOMARKERS HAVE NOT IMPROVED IS OUTCOME PREDICTIONS COMPARED TO CLINICAL PARAMETERS SINCE AGE, SEX AND INITIAL NIHSS IS SAID TO PREDICT OUTCOME WITH A MODEST C-STATISTIC APPROACHING 0.7. OUR PRELIMINARY DATA SHOW GENE EXPRESSION IN BLOOD AFTER IS CAN PREDICT 90-DAY OUTCOME BETTER THAN AGE, SEX AND NIHSS. WE HYPOTHESIZE THAT A WHOLE-GENOME APPROACH OF MEASURING RNA, WHICH REFLECTS THE GENOME × ENVIRONMENT × LIFESTYLE INTERACTION, TO ASSESS INFLAMMATORY, TROPHIC AND CLOTTING GENES WILL IMPROVE IS OUTCOME PREDICTION COMPARED TO CLINICAL FEATURES ALONE. THUS, WE PROPOSE THE FOLLOWING AIMS: AIM #1A. PERFORM WHOLE-GENOME RNA SEQUENCING (RNASEQ) OF BLOOD ON A DERIVATION COHORT OF IS PATIENTS AT 1 DAY AND 3 DAYS AFTER IS COMPARED TO MATCHED VASCULAR RISK FACTOR CONTROLS (VRFC). AIM #1B. IDENTIFY THE MOST SIGNIFICANTLY REGULATED GENES AND PATHWAYS IN BLOOD AT 1D/3D AFTER IS THAT CORRELATE WITH OUTCOME, AS MEASURED BY THREE OUTCOME SCALES – MRS (MODIFIED RANKIN SCALE), NIHSS (NIH STROKE SCALE) AND BARTHEL INDEX AT 90 DAYS AFTER IS. AIM #1C. USE NETWORK ANALYSIS TO IDENTIFY KEY HUB GENES AFTER IS ASSOCIATED WITH OUTCOME THAT MIGHT BE CAUSATIVE. AIM #1D. USE FEATURE ENGINEERING AND LOGISTIC REGRESSION AND/OR OTHER MACHINE LEARNING APPROACHES, SUCH AS SUPPORT VECTOR MACHINES (SVM) AND SVM REGRESSION, TO IDENTIFY THE LEAST NUMBER OF GENES AT 1 AND/OR 3 DAYS THAT PREDICT THE THREE STROKE 90-DAY OUTCOME MEASURES. AIM #1E. IN A SEPARATE VALIDATION COHORT OF IS PATIENTS PERFORM RNASEQ TO OBTAIN THE EXPRESSION OF THE BIOMARKER GENES FROM AIM #1D. INPUT THESE INTO MACHINE LEARNING ALGORITHMS TO PREDICT PATIENT 90-DAY OUTCOMES (MRS, NIHSS, BARTHEL INDEX). AIM #2A. DEMONSTRATE THAT GENE EXPRESSION IS A BETTER 90-DAY OUTCOME PREDICTOR COMPARED TO EACH OR A COMBINATION OF CLINICAL VARIABLES, SUCH AS STROKE VOLUME, INITIAL NIHSS, LOCATION, ETIOLOGY, AGE, SEX, GLUCOSE LEVELS, BLOOD PRESSURE, ATRIAL FIBRILLATION, AND NEUTROPHIL, MONOCYTE, LYMPHOCYTE, AND PLATELET COUNTS. AIM #2B. DELINEATE THE UNDERLYING BIOLOGY OF THESE CLINICAL OUTCOME CONTRIBUTORS BY IDENTIFYING GENES AND NETWORKS THAT CORRELATE WITH THEM AND PINPOINT WHICH OF THE GENES/NETWORKS ALSO CORRELATE WITH EACH OF THE THREE OUTCOMES. SIGNIFICANCE: THE FINDINGS OF THIS STUDY WILL DEVELOP BIOMARKERS OF ISCHEMIC STROKE OUTCOME TO HELP CLINICIANS PREDICT IS OUTCOME AND AID FUTURE CLINICAL TRIALS IN STRATIFYING IS PATIENTS, THUS SIGNIFICANTLY INCREASING CHANCES FOR TRIAL SUCCESS. EQUALLY IMPORTANT, THE FINDINGS WILL PROVIDE MUCH NEEDED POTENTIAL NEW TREATMENT TARGETS AND UNPRECEDENTED KNOWLEDGE OF HOW THE PERIPHERAL BLOOD TRANSCRIPTOME CONTRIBUTES TO OUTCOME AND IMPROVE OUR UNDERSTANDING OF THE BIOLOGY OF REPAIR AND RECOVERY AFTER IS IN HUMANS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172201",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-04-15",
+    "End Date": "2028-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS127976_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91239802,
+    "generated_unique_award_id": "ASST_NON_R01NS127976_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "WHOLE TRANSCRIPTOME STUDIES OF BLOOD TO PREDICT STROKE OUTCOME - ABSTRACT  SEVERAL CLINICAL VARIABLES ARE ASSOCIATED WITH OUTCOMES FOLLOWING ISCHEMIC STROKE (IS). HOWEVER, CLINICAL AND DEMOGRAPHIC PARAMETERS ACCOUNT ONLY FOR A PORTION OF THE OUTCOME VARIANCE, THUS IT IS DIFFICULT FOR CLINICIANS TO RELIABLY PREDICT LONG-TERM IS OUTCOME. HENCE, NEW BIOMARKERS ARE NEEDED. MOLECULES IN BLOOD ARE ALSO ASSOCIATED WITH IS OUTCOME INCLUDING PRO-INFLAMMATORY CYTOKINES, ANTI-INFLAMMATORY CYTOKINES AND OTHERS. GENETIC RISK FACTORS HAVE ALSO BEEN ASSOCIATED WITH IS OUTCOME. UNFORTUNATELY, COMBINED BLOOD AND GENETIC BIOMARKERS HAVE NOT IMPROVED IS OUTCOME PREDICTIONS COMPARED TO CLINICAL PARAMETERS SINCE AGE, SEX AND INITIAL NIHSS IS SAID TO PREDICT OUTCOME WITH A MODEST C-STATISTIC APPROACHING 0.7. OUR PRELIMINARY DATA SHOW GENE EXPRESSION IN BLOOD AFTER IS CAN PREDICT 90-DAY OUTCOME BETTER THAN AGE, SEX AND NIHSS. WE HYPOTHESIZE THAT A WHOLE-GENOME APPROACH OF MEASURING RNA, WHICH REFLECTS THE GENOME × ENVIRONMENT × LIFESTYLE INTERACTION, TO ASSESS INFLAMMATORY, TROPHIC AND CLOTTING GENES WILL IMPROVE IS OUTCOME PREDICTION COMPARED TO CLINICAL FEATURES ALONE. THUS, WE PROPOSE THE FOLLOWING AIMS: AIM #1A. PERFORM WHOLE-GENOME RNA SEQUENCING (RNASEQ) OF BLOOD ON A DERIVATION COHORT OF IS PATIENTS AT 1 DAY AND 3 DAYS AFTER IS COMPARED TO MATCHED VASCULAR RISK FACTOR CONTROLS (VRFC). AIM #1B. IDENTIFY THE MOST SIGNIFICANTLY REGULATED GENES AND PATHWAYS IN BLOOD AT 1D/3D AFTER IS THAT CORRELATE WITH OUTCOME, AS MEASURED BY THREE OUTCOME SCALES – MRS (MODIFIED RANKIN SCALE), NIHSS (NIH STROKE SCALE) AND BARTHEL INDEX AT 90 DAYS AFTER IS. AIM #1C. USE NETWORK ANALYSIS TO IDENTIFY KEY HUB GENES AFTER IS ASSOCIATED WITH OUTCOME THAT MIGHT BE CAUSATIVE. AIM #1D. USE FEATURE ENGINEERING AND LOGISTIC REGRESSION AND/OR OTHER MACHINE LEARNING APPROACHES, SUCH AS SUPPORT VECTOR MACHINES (SVM) AND SVM REGRESSION, TO IDENTIFY THE LEAST NUMBER OF GENES AT 1 AND/OR 3 DAYS THAT PREDICT THE THREE STROKE 90-DAY OUTCOME MEASURES. AIM #1E. IN A SEPARATE VALIDATION COHORT OF IS PATIENTS PERFORM RNASEQ TO OBTAIN THE EXPRESSION OF THE BIOMARKER GENES FROM AIM #1D. INPUT THESE INTO MACHINE LEARNING ALGORITHMS TO PREDICT PATIENT 90-DAY OUTCOMES (MRS, NIHSS, BARTHEL INDEX). AIM #2A. DEMONSTRATE THAT GENE EXPRESSION IS A BETTER 90-DAY OUTCOME PREDICTOR COMPARED TO EACH OR A COMBINATION OF CLINICAL VARIABLES, SUCH AS STROKE VOLUME, INITIAL NIHSS, LOCATION, ETIOLOGY, AGE, SEX, GLUCOSE LEVELS, BLOOD PRESSURE, ATRIAL FIBRILLATION, AND NEUTROPHIL, MONOCYTE, LYMPHOCYTE, AND PLATELET COUNTS. AIM #2B. DELINEATE THE UNDERLYING BIOLOGY OF THESE CLINICAL OUTCOME CONTRIBUTORS BY IDENTIFYING GENES AND NETWORKS THAT CORRELATE WITH THEM AND PINPOINT WHICH OF THE GENES/NETWORKS ALSO CORRELATE WITH EACH OF THE THREE OUTCOMES. SIGNIFICANCE: THE FINDINGS OF THIS STUDY WILL DEVELOP BIOMARKERS OF ISCHEMIC STROKE OUTCOME TO HELP CLINICIANS PREDICT IS OUTCOME AND AID FUTURE CLINICAL TRIALS IN STRATIFYING IS PATIENTS, THUS SIGNIFICANTLY INCREASING CHANCES FOR TRIAL SUCCESS. EQUALLY IMPORTANT, THE FINDINGS WILL PROVIDE MUCH NEEDED POTENTIAL NEW TREATMENT TARGETS AND UNPRECEDENTED KNOWLEDGE OF HOW THE PERIPHERAL BLOOD TRANSCRIPTOME CONTRIBUTES TO OUTCOME AND IMPROVE OUR UNDERSTANDING OF THE BIOLOGY OF REPAIR AND RECOVERY AFTER IS IN HUMANS.",
+    "total_obligation": 1895194,
+    "subaward_count": 1,
+    "total_subaward_amount": 52339,
+    "date_signed": "2023-04-07",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1253094,
+    "total_account_obligation": 1253094,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1253094
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1253094
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2023-04-15",
+      "end_date": "2028-03-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2201",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1253094
+  }
+}

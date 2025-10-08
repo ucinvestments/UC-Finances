@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173199112,
+    "Award ID": "U01NS143225",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1169064,
+    "Total Outlays": null,
+    "Description": "CLINICAL OUTCOME ASSESSMENT AND TREATMENT MONITORING MARKERS FOR CLINICAL TRIAL READINESS IN FXTAS - FRAGILE X-ASSOCIATED TREMOR/ATAXIA SYNDROME (FXTAS) IS A RARE, INHERITED, X-LINKED, LATE-ONSET, PROGRESSIVE NEURODEGENERATIVE DISEASE CHARACTERIZED BY INTENTION TREMOR, CEREBELLAR GAIT ATAXIA, PARKINSONISM, AND COGNITIVE DECLINE. PATHOLOGICALLY, IT FEATURES BRAIN WHITE MATTER DEGRADATION, UBIQUITIN-POSITIVE INTRANUCLEAR INCLUSIONS, WIDESPREAD ASTROGLIOSIS, AND GENERAL ATROPHY. FXTAS IS CAUSED BY A TRINUCLEOTIDE (CYTOSINE- GUANINE-GUANINE OR CGG) EXPANSION BETWEEN 55 AND 200 REPETITIONS WITHIN THE FRAGILE X MESSENGER RIBONUCLEOPROTEIN 1 (FMR1) GENE. ALTHOUGH THERE ARE NO PROVEN TREATMENTS FOR FXTAS, ONGOING STUDIES DEMONSTRATE THAT THERAPEUTIC STRATEGIES WILL BE AVAILABLE SOON IN THE FORM OF ANTISENSE OLIGONUCLEOTIDES (ASOS) THAT TARGET THE REPEAT-CONTAINING MRNA, AGENTS THAT SUPPRESS CELLULAR STRESS CASCADES, AND MOLECULES THAT LOWER NEUROINFLAMMATION AND REDUCE REPEAT ASSOCIATED NON-AUG (RAN) TRANSLATION. HOWEVER, WITHOUT FULLY VALIDATED FIT-FOR-PURPOSE CLINICAL OUTCOME ASSESSMENTS (COAS) AND SENSITIVE MARKERS OF TREATMENT RESPONSE, THESE FUTURE PIVOTAL TRIALS MAY NOT COME TO FRUITION AND FAIL TO PROVIDE CONCLUSIVE, CLINICALLY MEANINGFUL, AND IMPACTFUL RESULTS FOR THIS DEVASTATING AND RARE DISORDER. IN RESPONSE TO PAR-22-184, “CLINICAL TRIAL READINESS FOR RARE NEUROLOGICAL AND NEUROMUSCULAR DISEASES,” THE OVERALL PURPOSE OF THIS RESEARCH COOPERATIVE AGREEMENT (U01) APPLICATION, “CLINICAL OUTCOME ASSESSMENT AND TREATMENT MONITORING MARKERS FOR CLINICAL TRIAL READINESS IN FXTAS” IS TO FINALIZE REFINEMENT AND VALIDATION OF OUR PRIMARY COA – THE FXTAS RATING SCALE (FXTAS-RS) AND A DISCRETE SET OF NEUROCOGNITIVE, MOTOR AND NEURORADIOLOGICAL OUTCOME MEASURES SUITABLE FOR DETECTION OF TREATMENT RESPONSE. THIS WILL BE ACCOMPLISHED BY THE STUDY OF 100 MEN AND WOMEN WITH FXTAS WHO WILL BE ASSESSED AT MULTIPLE TIME POINTS OVER ONE-YEAR, MIMICKING PROCEDURES THAT WILL BE USED IN FUTURE CLINICAL TRIALS, INCLUDING ASSESSMENTS OF MOTOR FUNCTION, COGNITION, BRAIN STRUCTURAL CHANGES USING MRI, AND PATIENT REPORTED OUTCOME MEASURES (PROMS). WE WILL DOCUMENT CRITICAL PROPERTIES OF THE MEASURES SUCH AS RELIABILITY, VALIDITY, SENSITIVITY TO CHANGE AND CLINICAL MEANINGFULNESS, AND AN ADVISORY COMMITTEE INCLUDING PATIENT SELF-ADVOCATES, CLINICIANS, RESEARCHERS AND DRUG INDUSTRY REPRESENTATIVES WILL GUIDE THE WORK. WE WILL DEVELOP A TRAINING PROGRAM FOR CLINICAL TRIAL SITE TEAMS TO USE THE FXTAS-RS AND HARMONIZATION OF OTHER MEASURES WILL OCCUR ACROSS THE SITES. BY THE END OF THIS 5-YEAR PROJECT, WE WILL HAVE 1) A VALIDATED FIT-FOR- PURPOSE PRIMARY COA AND A DISCRETE SET OF KEY COGNITIVE AND MOTOR SECONDARY ENDPOINTS FOR FXTAS CLINICAL TRIALS; 2) NEURORADIOLOGICAL MARKERS THAT ARE SENSITIVE TO FXTAS DISEASE STATE AND PROGRESSION; AND 3) A RIGOROUS MULTI-CENTER HARMONIZED PROTOCOL AND INFRASTRUCTURE THAT IS READY TO CONDUCT PHASE 2/3 TRIALS FOR FXTAS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-07-15",
+    "End Date": "2030-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U01NS143225_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173199112,
+    "generated_unique_award_id": "ASST_NON_U01NS143225_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "CLINICAL OUTCOME ASSESSMENT AND TREATMENT MONITORING MARKERS FOR CLINICAL TRIAL READINESS IN FXTAS - FRAGILE X-ASSOCIATED TREMOR/ATAXIA SYNDROME (FXTAS) IS A RARE, INHERITED, X-LINKED, LATE-ONSET, PROGRESSIVE NEURODEGENERATIVE DISEASE CHARACTERIZED BY INTENTION TREMOR, CEREBELLAR GAIT ATAXIA, PARKINSONISM, AND COGNITIVE DECLINE. PATHOLOGICALLY, IT FEATURES BRAIN WHITE MATTER DEGRADATION, UBIQUITIN-POSITIVE INTRANUCLEAR INCLUSIONS, WIDESPREAD ASTROGLIOSIS, AND GENERAL ATROPHY. FXTAS IS CAUSED BY A TRINUCLEOTIDE (CYTOSINE- GUANINE-GUANINE OR CGG) EXPANSION BETWEEN 55 AND 200 REPETITIONS WITHIN THE FRAGILE X MESSENGER RIBONUCLEOPROTEIN 1 (FMR1) GENE. ALTHOUGH THERE ARE NO PROVEN TREATMENTS FOR FXTAS, ONGOING STUDIES DEMONSTRATE THAT THERAPEUTIC STRATEGIES WILL BE AVAILABLE SOON IN THE FORM OF ANTISENSE OLIGONUCLEOTIDES (ASOS) THAT TARGET THE REPEAT-CONTAINING MRNA, AGENTS THAT SUPPRESS CELLULAR STRESS CASCADES, AND MOLECULES THAT LOWER NEUROINFLAMMATION AND REDUCE REPEAT ASSOCIATED NON-AUG (RAN) TRANSLATION. HOWEVER, WITHOUT FULLY VALIDATED FIT-FOR-PURPOSE CLINICAL OUTCOME ASSESSMENTS (COAS) AND SENSITIVE MARKERS OF TREATMENT RESPONSE, THESE FUTURE PIVOTAL TRIALS MAY NOT COME TO FRUITION AND FAIL TO PROVIDE CONCLUSIVE, CLINICALLY MEANINGFUL, AND IMPACTFUL RESULTS FOR THIS DEVASTATING AND RARE DISORDER. IN RESPONSE TO PAR-22-184, “CLINICAL TRIAL READINESS FOR RARE NEUROLOGICAL AND NEUROMUSCULAR DISEASES,” THE OVERALL PURPOSE OF THIS RESEARCH COOPERATIVE AGREEMENT (U01) APPLICATION, “CLINICAL OUTCOME ASSESSMENT AND TREATMENT MONITORING MARKERS FOR CLINICAL TRIAL READINESS IN FXTAS” IS TO FINALIZE REFINEMENT AND VALIDATION OF OUR PRIMARY COA – THE FXTAS RATING SCALE (FXTAS-RS) AND A DISCRETE SET OF NEUROCOGNITIVE, MOTOR AND NEURORADIOLOGICAL OUTCOME MEASURES SUITABLE FOR DETECTION OF TREATMENT RESPONSE. THIS WILL BE ACCOMPLISHED BY THE STUDY OF 100 MEN AND WOMEN WITH FXTAS WHO WILL BE ASSESSED AT MULTIPLE TIME POINTS OVER ONE-YEAR, MIMICKING PROCEDURES THAT WILL BE USED IN FUTURE CLINICAL TRIALS, INCLUDING ASSESSMENTS OF MOTOR FUNCTION, COGNITION, BRAIN STRUCTURAL CHANGES USING MRI, AND PATIENT REPORTED OUTCOME MEASURES (PROMS). WE WILL DOCUMENT CRITICAL PROPERTIES OF THE MEASURES SUCH AS RELIABILITY, VALIDITY, SENSITIVITY TO CHANGE AND CLINICAL MEANINGFULNESS, AND AN ADVISORY COMMITTEE INCLUDING PATIENT SELF-ADVOCATES, CLINICIANS, RESEARCHERS AND DRUG INDUSTRY REPRESENTATIVES WILL GUIDE THE WORK. WE WILL DEVELOP A TRAINING PROGRAM FOR CLINICAL TRIAL SITE TEAMS TO USE THE FXTAS-RS AND HARMONIZATION OF OTHER MEASURES WILL OCCUR ACROSS THE SITES. BY THE END OF THIS 5-YEAR PROJECT, WE WILL HAVE 1) A VALIDATED FIT-FOR- PURPOSE PRIMARY COA AND A DISCRETE SET OF KEY COGNITIVE AND MOTOR SECONDARY ENDPOINTS FOR FXTAS CLINICAL TRIALS; 2) NEURORADIOLOGICAL MARKERS THAT ARE SENSITIVE TO FXTAS DISEASE STATE AND PROGRESSION; AND 3) A RIGOROUS MULTI-CENTER HARMONIZED PROTOCOL AND INFRASTRUCTURE THAT IS READY TO CONDUCT PHASE 2/3 TRIALS FOR FXTAS.",
+    "total_obligation": 1169064,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 1169064,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1169064
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2025-07-15",
+      "end_date": "2030-06-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

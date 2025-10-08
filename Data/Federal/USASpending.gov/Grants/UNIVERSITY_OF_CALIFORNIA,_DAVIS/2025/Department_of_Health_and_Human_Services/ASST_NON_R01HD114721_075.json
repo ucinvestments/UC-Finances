@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173973413,
+    "Award ID": "R01HD114721",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1192567,
+    "Total Outlays": null,
+    "Description": "TRANSITIONS IN THE ACQUISITION OF LANGUAGE IN KIDS WITH DOWN SYNDROME - ABSTRACT WITH A PREVALENCE OF 1 IN 691 LIVE BIRTHS, DOWN SYNDROME (DS) IS THE LEADING GENETIC CAUSE OF INTELLECTUAL DISABILITY. NONETHELESS, OUR UNDERSTANDING OF THE NATURE AND DEVELOPMENT OF THE DS PHENOTYPE, INCLUDING IN THE AREA OF EXPRESSIVE COMMUNICATION (EC), HAS LAGGED RELATIVE TO OTHER NEURODEVELOPMENTAL DISABILITIES. DESPITE THE UBIQUITOUS NATURE OF EC DELAYS IN DS, SIGNIFICANT VARIABILITY IS OBSERVED ACROSS CHILDREN IN THE NATURE OF THESE DELAYS. MOST EC RESEARCH APPROACHES IN DS HAVE FOCUSED ON GROUP-LEVEL PERFORMANCE, INVOLVED SMALL SAMPLE SIZES, AND USED EITHER CROSS-SECTIONAL DESIGNS OR SPARSE LONGITUDINAL SAMPLING (E.G., 1-YEAR OR MORE OBSERVATION INTERVALS) TO CHARACTERIZE DEVELOPMENT. THESE APPROACHES MASK WITHIN-GROUP VARIABILITY AND CANNOT IDENTIFY SUBTYPES BASED ON THEIR DEVELOPMENTAL TRAJECTORIES, HAMPERING THE IMPLEMENTATION OF INDIVIDUALIZED TREATMENT OPTIONS. RESEARCH THAT TRANSLATES DEEP-PHENOTYPING METHODS INTO CLINICALLY MEANINGFUL ASSESSMENTS IS CRUCIAL FOR ELUCIDATING THE VARIABILITY OBSERVED AMONG CHILDREN, IDENTIFYING THE FACTORS PRODUCING THIS VARIABILITY, AND IMPROVING OUR ABILITY TO ANTICIPATE DEVELOPMENTAL PATTERNS. IN TURN, SUCH DATA WILL SUPPORT THE DEVELOPMENT OF HIGH-IMPACT CLINICAL PRACTICES BETTER MATCHED TO INDIVIDUAL CHILDREN’S NEEDS. IN THIS PROJECT, WE PROPOSE A 3-YEAR LONGITUDINAL INVESTIGATION OF EC DEVELOPMENT IN 180 CHILDREN WITH DS FROM 18 TO 54 MONTHS OF AGE THAT USES DEEP-PHENOTYPING AND DENSE-SAMPLING METHODS COLLECTED IN-PERSON AND VIA TELEHEALTH MONITORING THAT ENHANCES UNDERSTANDING OF THE VARIABILITY, NATURE, AND TIMING OF CLINICALLY MEANINGFUL EC INDICATORS. UTILIZING THESE PROCEDURES, WE WILL BE ABLE TO (1) CHARACTERIZE INDIVIDUAL DIFFERENCES AT STUDY ENTRY, (2) USE DEEP-PHENOTYPING AND DENSE LONGITUDINAL SAMPLING TO CHARACTERIZE HETEROGENEITY AND DEVELOPMENTAL CHANGES IN EC SKILLS, AND (3) CHARACTERIZE HETEROGENEITY AND DEVELOPMENT ACROSS CLINICALLY MEANINGFUL INDICATORS OF MAJOR EC CHANGES. THIS MULTI-METHOD, DENSE SAMPLING APPROACH WILL ALLOW US TO SIGNIFICANTLY IMPROVE OUR ABILITY TO MONITOR EC PROGRESS OVER TIME IN CHILDREN WITH DS AND IMPROVE OUR PREDICTION OF DEVELOPMENTAL PATTERNS, THEREBY ENABLING THE FUTURE CREATION OF PERSONALIZED PATHWAYS FOR EARLY ASSESSMENT AND INTERVENTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-08-01",
+    "End Date": "2030-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HD114721_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173973413,
+    "generated_unique_award_id": "ASST_NON_R01HD114721_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TRANSITIONS IN THE ACQUISITION OF LANGUAGE IN KIDS WITH DOWN SYNDROME - ABSTRACT WITH A PREVALENCE OF 1 IN 691 LIVE BIRTHS, DOWN SYNDROME (DS) IS THE LEADING GENETIC CAUSE OF INTELLECTUAL DISABILITY. NONETHELESS, OUR UNDERSTANDING OF THE NATURE AND DEVELOPMENT OF THE DS PHENOTYPE, INCLUDING IN THE AREA OF EXPRESSIVE COMMUNICATION (EC), HAS LAGGED RELATIVE TO OTHER NEURODEVELOPMENTAL DISABILITIES. DESPITE THE UBIQUITOUS NATURE OF EC DELAYS IN DS, SIGNIFICANT VARIABILITY IS OBSERVED ACROSS CHILDREN IN THE NATURE OF THESE DELAYS. MOST EC RESEARCH APPROACHES IN DS HAVE FOCUSED ON GROUP-LEVEL PERFORMANCE, INVOLVED SMALL SAMPLE SIZES, AND USED EITHER CROSS-SECTIONAL DESIGNS OR SPARSE LONGITUDINAL SAMPLING (E.G., 1-YEAR OR MORE OBSERVATION INTERVALS) TO CHARACTERIZE DEVELOPMENT. THESE APPROACHES MASK WITHIN-GROUP VARIABILITY AND CANNOT IDENTIFY SUBTYPES BASED ON THEIR DEVELOPMENTAL TRAJECTORIES, HAMPERING THE IMPLEMENTATION OF INDIVIDUALIZED TREATMENT OPTIONS. RESEARCH THAT TRANSLATES DEEP-PHENOTYPING METHODS INTO CLINICALLY MEANINGFUL ASSESSMENTS IS CRUCIAL FOR ELUCIDATING THE VARIABILITY OBSERVED AMONG CHILDREN, IDENTIFYING THE FACTORS PRODUCING THIS VARIABILITY, AND IMPROVING OUR ABILITY TO ANTICIPATE DEVELOPMENTAL PATTERNS. IN TURN, SUCH DATA WILL SUPPORT THE DEVELOPMENT OF HIGH-IMPACT CLINICAL PRACTICES BETTER MATCHED TO INDIVIDUAL CHILDREN’S NEEDS. IN THIS PROJECT, WE PROPOSE A 3-YEAR LONGITUDINAL INVESTIGATION OF EC DEVELOPMENT IN 180 CHILDREN WITH DS FROM 18 TO 54 MONTHS OF AGE THAT USES DEEP-PHENOTYPING AND DENSE-SAMPLING METHODS COLLECTED IN-PERSON AND VIA TELEHEALTH MONITORING THAT ENHANCES UNDERSTANDING OF THE VARIABILITY, NATURE, AND TIMING OF CLINICALLY MEANINGFUL EC INDICATORS. UTILIZING THESE PROCEDURES, WE WILL BE ABLE TO (1) CHARACTERIZE INDIVIDUAL DIFFERENCES AT STUDY ENTRY, (2) USE DEEP-PHENOTYPING AND DENSE LONGITUDINAL SAMPLING TO CHARACTERIZE HETEROGENEITY AND DEVELOPMENTAL CHANGES IN EC SKILLS, AND (3) CHARACTERIZE HETEROGENEITY AND DEVELOPMENT ACROSS CLINICALLY MEANINGFUL INDICATORS OF MAJOR EC CHANGES. THIS MULTI-METHOD, DENSE SAMPLING APPROACH WILL ALLOW US TO SIGNIFICANTLY IMPROVE OUR ABILITY TO MONITOR EC PROGRESS OVER TIME IN CHILDREN WITH DS AND IMPROVE OUR PREDICTION OF DEVELOPMENTAL PATTERNS, THEREBY ENABLING THE FUTURE CREATION OF PERSONALIZED PATHWAYS FOR EARLY ASSESSMENT AND INTERVENTION.",
+    "total_obligation": 1192567,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 1192567,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1192567
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2030-05-31",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

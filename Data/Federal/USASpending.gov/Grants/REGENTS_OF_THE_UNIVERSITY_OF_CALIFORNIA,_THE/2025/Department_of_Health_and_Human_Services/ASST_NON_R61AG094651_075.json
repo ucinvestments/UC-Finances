@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173974745,
+    "Award ID": "R61AG094651",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 2316710,
+    "Total Outlays": null,
+    "Description": "MAGNETOGENETIC CONTROL OF VULNERABLE BRAIN CELL TYPES IN ALZHEIMER'S DISEASE - ABSTRACT ALZHEIMER’S DISEASE (AD) IS A PROGRESSIVE DISEASE AND IS THE MOST PREVALENT NEURODEGENERATIVE DISEASE UNDERLYING DEMENTIA IN THE ELDERLY. AD IS KNOWN TO PROGRESS FOLLOWING A TEMPORAL AND SPATIAL PATTERN WHERE SPECIFIC BRAIN REGIONS ARE AFFECTED AT DIFFERENT STAGES OF THE DISEASE. WHILE BOTH Β-AMYLOID PLAQUES AND TAU NEUROFIBRIL TANGLES ARE HALLMARKS OF AD, TAU PATHOLOGY SHOWS A STRONGER CORRELATION WITH COGNITIVE DECLINE. TAU IS PREDOMINANTLY PRODUCED BY NEURONS, YET DIFFERENT BRAIN REGIONS AND NEURON TYPES EXHIBIT VARYING VULNERABILITY TO TAU PATHOLOGY. AD-VULNERABLE NEURONS EXHIBIT HYPEREXCITABILITY LINKED TO TAU ACCUMULATION AND SECRETION, OBSERVABLE EVEN BEFORE AD ONSET. SECRETED TAU SPREADS BETWEEN NEURONS AND ASTROCYTES, PROMOTING TAU PATHOLOGY. EARLY AD ASTROCYTES SHOW ABNORMAL CALCIUM SIGNALING, POTENTIALLY IMPAIRING TAU CLEARANCE. THEREFORE, TO BETTER UNDERSTAND THE MOLECULAR MECHANISMS AND EXPLORE NEW AD THERAPEUTICS, IT IS ESSENTIAL TO REGULATE THE ACTIVITY OF SPECIFIC AD-VULNERABLE NEURONS AND THEIR ASSOCIATED ASTROCYTES. WE PROPOSE TO DEVELOP MAGNETOGENETIC TECHNIQUES WITH BETTER EFFICIENCY AND CELL SPECIFICITY ENABLED BY ENHANCER AAV TO MANIPULATE SUBTYPES OF BRAIN CELLS IMPLICATED IN AD ONSET. USING THESE TOOLS, WE WILL TEST CELL-TYPE SPECIFIC HYPOTHESES UNDERLYING THE ACCUMULATION, SPREAD, AND CLEARANCE OF TAU PROTEINS ACROSS SPECIES. TO CONTROL THE ACTIVITY OF THESE CELLS, WE WILL EMPLOY FERIC (FERRITIN IRON REDISTRIBUTION TO ION CHANNELS), A MAGNETOGENETIC TOOL THAT WE HAVE PIONEERED. FERIC CAN WIRELESSLY AND NON-INVASIVELY MODULATE CELL ACTIVITY AND ACHIEVE CELL-TYPE SPECIFICITY AND DEEP BRAIN ACCESS. ENHANCER AAV VECTORS WILL BE DEVELOPED TO DRIVE CELL TYPE SPECIFIC EXPRESSION OF FERIC. BY COMBINING BRAIN CELL TYPE-SPECIFIC ENHANCER AAV VECTORS AND FERIC, WE WILL DEVELOP CELL-TYPE SPECIFIC NON- INVASIVE TECHNIQUES TO MANIPULATE AD-VULNERABLE NEURONS AND ASTROCYTES AND TEST THEIR ROLES IN AD ONSET AND PROPAGATION WITH CELLULAR, CIRCUIT, AND TEMPORAL PRECISION, IN RODENT MODELS BOTH IN VITRO AND IN VIVO, AND EXPLORATORILY IN EX VIVO HUMAN AND NON-HUMAN PRIMATE BRAIN TISSUES. A SUCCESSFUL OUTCOME WILL ELUCIDATE THE MECHANISTIC ACTIONS OF TAU PATHOLOGY IN EARLY AD ONSET THROUGH NON-INVASIVE, CELL-TYPE-SPECIFIC MANIPULATION OF AD-VULNERABLE NEURONS AND ASTROCYTES, POTENTIALLY REVERSING THE DISEASE'S PROGRESSION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "1608 4TH ST STE 201",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1749",
+      "zip5": "94710"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R61AG094651_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173974745,
+    "generated_unique_award_id": "ASST_NON_R61AG094651_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MAGNETOGENETIC CONTROL OF VULNERABLE BRAIN CELL TYPES IN ALZHEIMER'S DISEASE - ABSTRACT ALZHEIMER’S DISEASE (AD) IS A PROGRESSIVE DISEASE AND IS THE MOST PREVALENT NEURODEGENERATIVE DISEASE UNDERLYING DEMENTIA IN THE ELDERLY. AD IS KNOWN TO PROGRESS FOLLOWING A TEMPORAL AND SPATIAL PATTERN WHERE SPECIFIC BRAIN REGIONS ARE AFFECTED AT DIFFERENT STAGES OF THE DISEASE. WHILE BOTH Β-AMYLOID PLAQUES AND TAU NEUROFIBRIL TANGLES ARE HALLMARKS OF AD, TAU PATHOLOGY SHOWS A STRONGER CORRELATION WITH COGNITIVE DECLINE. TAU IS PREDOMINANTLY PRODUCED BY NEURONS, YET DIFFERENT BRAIN REGIONS AND NEURON TYPES EXHIBIT VARYING VULNERABILITY TO TAU PATHOLOGY. AD-VULNERABLE NEURONS EXHIBIT HYPEREXCITABILITY LINKED TO TAU ACCUMULATION AND SECRETION, OBSERVABLE EVEN BEFORE AD ONSET. SECRETED TAU SPREADS BETWEEN NEURONS AND ASTROCYTES, PROMOTING TAU PATHOLOGY. EARLY AD ASTROCYTES SHOW ABNORMAL CALCIUM SIGNALING, POTENTIALLY IMPAIRING TAU CLEARANCE. THEREFORE, TO BETTER UNDERSTAND THE MOLECULAR MECHANISMS AND EXPLORE NEW AD THERAPEUTICS, IT IS ESSENTIAL TO REGULATE THE ACTIVITY OF SPECIFIC AD-VULNERABLE NEURONS AND THEIR ASSOCIATED ASTROCYTES. WE PROPOSE TO DEVELOP MAGNETOGENETIC TECHNIQUES WITH BETTER EFFICIENCY AND CELL SPECIFICITY ENABLED BY ENHANCER AAV TO MANIPULATE SUBTYPES OF BRAIN CELLS IMPLICATED IN AD ONSET. USING THESE TOOLS, WE WILL TEST CELL-TYPE SPECIFIC HYPOTHESES UNDERLYING THE ACCUMULATION, SPREAD, AND CLEARANCE OF TAU PROTEINS ACROSS SPECIES. TO CONTROL THE ACTIVITY OF THESE CELLS, WE WILL EMPLOY FERIC (FERRITIN IRON REDISTRIBUTION TO ION CHANNELS), A MAGNETOGENETIC TOOL THAT WE HAVE PIONEERED. FERIC CAN WIRELESSLY AND NON-INVASIVELY MODULATE CELL ACTIVITY AND ACHIEVE CELL-TYPE SPECIFICITY AND DEEP BRAIN ACCESS. ENHANCER AAV VECTORS WILL BE DEVELOPED TO DRIVE CELL TYPE SPECIFIC EXPRESSION OF FERIC. BY COMBINING BRAIN CELL TYPE-SPECIFIC ENHANCER AAV VECTORS AND FERIC, WE WILL DEVELOP CELL-TYPE SPECIFIC NON- INVASIVE TECHNIQUES TO MANIPULATE AD-VULNERABLE NEURONS AND ASTROCYTES AND TEST THEIR ROLES IN AD ONSET AND PROPAGATION WITH CELLULAR, CIRCUIT, AND TEMPORAL PRECISION, IN RODENT MODELS BOTH IN VITRO AND IN VIVO, AND EXPLORATORILY IN EX VIVO HUMAN AND NON-HUMAN PRIMATE BRAIN TISSUES. A SUCCESSFUL OUTCOME WILL ELUCIDATE THE MECHANISTIC ACTIONS OF TAU PATHOLOGY IN EARLY AD ONSET THROUGH NON-INVASIVE, CELL-TYPE-SPECIFIC MANIPULATION OF AD-VULNERABLE NEURONS AND ASTROCYTES, POTENTIALLY REVERSING THE DISEASE'S PROGRESSION.",
+    "total_obligation": 2316710,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 2316710,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2316710
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1608 4TH ST STE 201",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "1749",
+        "zip5": "94710",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

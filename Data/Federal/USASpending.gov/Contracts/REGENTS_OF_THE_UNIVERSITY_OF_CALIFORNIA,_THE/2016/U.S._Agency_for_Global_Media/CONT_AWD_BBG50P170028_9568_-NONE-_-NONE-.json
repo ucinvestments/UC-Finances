@@ -1,0 +1,311 @@
+{
+  "basic_data": {
+    "internal_id": 113936726,
+    "Award ID": "BBG50P170028",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 525,
+    "Total Outlays": 0,
+    "Description": "VENDOR TO PROVIDE SATELLITE TRANSMISSION SERVICES FROM BERKELEY CA TO VOA/TV IN WASHINGTON DC  FOR PNN'S PROGRAM   HORIZON   ON NOVEMBER 1, 2016 TIME: 11:45PM - 1330 EST PO# 942107 IGF::OT::IGF",
+    "Contract Award Type": "PURCHASE ORDER",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "2150 SHATTUCK AVE RM 313",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5940",
+      "zip5": "94704"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "947040003",
+      "zip5": "94704"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "U.S. Agency for Global Media",
+    "Awarding Sub Agency": "U.S. Agency for Global Media",
+    "Start Date": "2016-11-01",
+    "End Date": "2017-06-16",
+    "NAICS": {
+      "code": "517410",
+      "description": "SATELLITE TELECOMMUNICATIONS"
+    },
+    "PSC": {
+      "code": "D399",
+      "description": "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+    },
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_BBG50P170028_9568_-NONE-_-NONE-",
+    "awarding_agency_id": 1163,
+    "agency_slug": "us-agency-for-global-media",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 113936726,
+    "generated_unique_award_id": "CONT_AWD_BBG50P170028_9568_-NONE-_-NONE-",
+    "piid": "BBG50P170028",
+    "category": "contract",
+    "type": "B",
+    "type_description": "PURCHASE ORDER",
+    "description": "VENDOR TO PROVIDE SATELLITE TRANSMISSION SERVICES FROM BERKELEY CA TO VOA/TV IN WASHINGTON DC  FOR PNN'S PROGRAM   HORIZON   ON NOVEMBER 1, 2016 TIME: 11:45PM - 1330 EST PO# 942107 IGF::OT::IGF",
+    "total_obligation": 525,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2016-10-25",
+    "base_exercised_options": 525,
+    "base_and_all_options": 525,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": null,
+      "referenced_idv_agency_desc": null,
+      "solicitation_identifier": null,
+      "solicitation_procedures": "SP1",
+      "number_of_offers_received": "1",
+      "extent_competed": "G",
+      "type_set_aside": "NONE",
+      "type_set_aside_description": "NO SET ASIDE USED.",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "X",
+      "fed_biz_opps_description": "NOT APPLICABLE",
+      "small_business_competitive": false,
+      "product_or_service_code": "D399",
+      "naics": "517410",
+      "naics_description": "SATELLITE TELECOMMUNICATIONS",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "",
+      "domestic_or_foreign_entity": "A",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "B",
+      "multi_year_contract": "",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "M",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "SIMPLIFIED ACQUISITION",
+      "extent_competed_description": "NOT COMPETED UNDER SAP",
+      "other_than_full_and_open": "MPT",
+      "other_than_full_and_open_description": "LESS THAN OR EQUAL TO THE MICRO-PURCHASE THRESHOLD",
+      "commercial_item_acquisition": "A",
+      "commercial_item_acquisition_description": "COMMERCIAL ITEM",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "",
+      "domestic_or_foreign_entity_description": "U.S. OWNED BUSINESS",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "PLAN NOT REQUIRED",
+      "multi_year_contract_description": "",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "FIXED PRICE AWARD FEE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 1163,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "U.S. Agency for Global Media",
+        "code": "514",
+        "abbreviation": "USAGM",
+        "slug": "us-agency-for-global-media"
+      },
+      "subtier_agency": {
+        "name": "U.S. Agency for Global Media",
+        "code": "9568",
+        "abbreviation": "USAGM"
+      },
+      "office_agency_name": "VOA PERSIAN DIVISION"
+    },
+    "awarding_agency": {
+      "id": 1163,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "U.S. Agency for Global Media",
+        "code": "514",
+        "abbreviation": "USAGM",
+        "slug": "us-agency-for-global-media"
+      },
+      "subtier_agency": {
+        "name": "U.S. Agency for Global Media",
+        "code": "9568",
+        "abbreviation": "USAGM"
+      },
+      "office_agency_name": "OFFICE OF CONTRACTS"
+    },
+    "period_of_performance": {
+      "start_date": "2016-11-01",
+      "end_date": "2017-06-16",
+      "last_modified_date": "2018-12-29",
+      "potential_end_date": "2017-06-16 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": "124726725",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "Special Designations",
+        "U.S.-Owned Business"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "2150 SHATTUCK AVE RM 313",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5940",
+        "zip5": "94704",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "0003",
+      "zip5": "94704",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "D",
+        "description": "IT AND TELECOM - INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS"
+      },
+      "midtier_code": {
+        "code": "D3",
+        "description": "ADP AND TELECOMMUNICATIONS"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "D399",
+        "description": "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "51",
+        "description": "Information"
+      },
+      "midtier_code": {
+        "code": "5174",
+        "description": "Satellite Telecommunications"
+      },
+      "base_code": {
+        "code": "517410",
+        "description": "Satellite Telecommunications"
+      }
+    },
+    "total_outlay": 0
+  }
+}

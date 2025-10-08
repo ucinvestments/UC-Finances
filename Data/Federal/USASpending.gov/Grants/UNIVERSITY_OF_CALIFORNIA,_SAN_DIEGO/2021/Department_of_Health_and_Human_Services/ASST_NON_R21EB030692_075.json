@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91297763,
+    "Award ID": "R21EB030692",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 616837,
+    "Total Outlays": 489345.99,
+    "Description": "ROBOTICALLY CONTROLLED INTRALUMENAL INSTRUMENTS FOR FLEXIBLE ENDOSCOPIC INTERVENTION - PROJECT SUMMARY / ABSTRACT RECENT IMPROVEMENTS IN FLEXIBLE ENDOSCOPES HAVE RESULTED IN AN EXPLOSION OF THEIR USE FOR MINIMALLY INVASIVE DIAGNOSIS AND INTERVENTION. INTERVENTIONAL PULMONOLOGY HAS SEEN A SIGNIFICANT EXPANSION OF PROCEDURES ALONG WITH THESE ADVANCES, AS THE LARGE, MEDIUM, AND EVEN DISTAL AIRWAYS NOW CAN BE ACCESSED VIA BRONCHOSCOPIC TECHNIQUE. WITH PRIMARY LUNG CANCER ACCOUNTING FOR APPROXIMATELY 25% OF ALL CANCER DEATHS IN THE US, SCREENING EXPEDIENTLY, EFFECTIVELY, AND COMPLETELY HAS BECOME OF SIGNIFICANT IMPORTANCE. ONE OF THE SIGNIFICANT TECHNICAL CHALLENGES WITH FLEXIBLE ENDOSCOPIC INTERVENTIONS IS THE LIMITATION IN FREEDOM OF MOVEMENT THAT EXISTS BETWEEN THE ENDOSCOPE AND THE INSTRUMENTS THAT ARE PASSED THROUGH THE WORKING PORT. INSTRUMENTS TYPICALLY HAVE A FIXED ORIENTATION TO THE DISTAL SCOPE TIP AND, IN MOST CASES, ONLY CAN BE ADVANCED ALONG THE AXIS OF SCOPE TIP. ADDITIONALLY, SCOPE FLEXIBILITY AND MANEUVERABILITY REDUCES WITH AN INSTRUMENT PRESENT, FURTHER LIMITING DEXTERITY. WORKING WITHIN THE NARROW CONFINES OF A BRONCHUS OR TRACHEA LIMITS THE ABILITY TO ACCURATELY AND EXPEDITIOUSLY DIRECT INSTRUMENTS TO LESIONS OR BIOPSY TARGETS. AS A RESULT, PROCEDURE TIMES MAY BE EXTENDED, DYSPLASTIC OR MALIGNANT LESIONS CAN BE INCOMPLETELY TREATED, OR SURROUNDING TISSUES BE UNNECESSARILY TRAUMATIZED SECONDARY TO CHALLENGES WITH SCOPE POSITIONING. TO ADDRESS THIS ONGOING CHALLENGE WITH FLEXIBLE ENDOSCOPY, WE HAVE DEVELOPED A HANDHELD ROBOTIC CATHETER THAT CAN BE PASSED THROUGH THE INSTRUMENT CHANNEL OF A FLEXIBLE BRONCHOSCOPE. THE CATHETER ACCOMMODATES AN ASSORTMENT OF INSTRUMENTATION TO ALLOW FOR ROBOTICALLY ENHANCED ARTICULATION OF TOOLS, IN ESSENCE, LIBERATING THE RIGID RESTRICTIONS OF MOVEMENT THAT CURRENTLY EXISTS BETWEEN SCOPE AND INSTRUMENT, AND EXPANDING ITS REACH AND ALLOWING FOR MORE DISTAL PATHOLOGY TO BE ACCESSED AND TREATED. IMPORTANTLY, THE ROBOTIC CATHETER CAN BE HELD AND OPERATED BY ONE HAND, MAKING ITS USE DIRECTLY COMPATIBLE WITH EXISTING HANDHELD FLEXIBLE ENDOSCOPES, AND ALLOWING A SINGLE PRACTITIONER TO OPERATE BOTH IMAGER AND INSTRUMENTATION WITHOUT ADDITIONAL HELP. OVERALL, THE PROJECT AIMS ARE TO (1) DEVELOP AND VALIDATE THE ROBOTIC INSTRUMENT AND (2) PERFORM A USER STUDY OF THE DEVICE TO EVALUATE ITS EFFICACY AND EFFICIENCY OF CENTRAL AND PERIPHERAL LUNG ACCESS FOR ADDRESSING SUSPECT PATHOLOGIES. AT THE END OF THIS PROJECT, WE AIM TO HAVE A VALIDATED ROBOTIC INSTRUMENT FOR CLINICAL TRIALS. WE HYPOTHESIZE TECHNOLOGY WILL INHERIT THE OBSERVED BENEFITS WITH PRIOR SURGICAL ROBOTIC SYSTEMS, I.E., REDUCED PROCEDURE TIMES, LESS ADJACENT TISSUE TRAUMA FROM SCOPE NAVIGATION, MORE ACCURATE INSTRUMENT PLACEMENT, AND ENHANCED PROVIDER PROCEDURAL EXPERIENCE. ROBOTIZING THE INSTRUMENTATION WITHOUT CHANGING THE ENDOSCOPE WOULD RESULT IN A LOW-COST SOLUTION THAT REMOVES THE BURDEN OF SPECIALTY EQUIPMENT, STAFF, AND FACILITIES, ALLOWING NOT ONLY HOSPITALS BUT ALSO OUTPATIENT CLINICS TO AFFORD AND OFFER ROBOTIC PROCEDURES. THIS HAS A SIGNIFICANT POTENTIAL TO EXPAND THE ACCESSIBILITY OF ROBOTICALLY ENHANCED DIAGNOSTICS AND INTERVENTION TO ECONOMICALLY DIVERSE AND GEOGRAPHICALLY CHALLENGED POPULATIONS ACROSS THE COUNTRY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "920930407",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-04-01",
+    "End Date": "2023-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R21EB030692_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91297763,
+    "generated_unique_award_id": "ASST_NON_R21EB030692_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ROBOTICALLY CONTROLLED INTRALUMENAL INSTRUMENTS FOR FLEXIBLE ENDOSCOPIC INTERVENTION - PROJECT SUMMARY / ABSTRACT RECENT IMPROVEMENTS IN FLEXIBLE ENDOSCOPES HAVE RESULTED IN AN EXPLOSION OF THEIR USE FOR MINIMALLY INVASIVE DIAGNOSIS AND INTERVENTION. INTERVENTIONAL PULMONOLOGY HAS SEEN A SIGNIFICANT EXPANSION OF PROCEDURES ALONG WITH THESE ADVANCES, AS THE LARGE, MEDIUM, AND EVEN DISTAL AIRWAYS NOW CAN BE ACCESSED VIA BRONCHOSCOPIC TECHNIQUE. WITH PRIMARY LUNG CANCER ACCOUNTING FOR APPROXIMATELY 25% OF ALL CANCER DEATHS IN THE US, SCREENING EXPEDIENTLY, EFFECTIVELY, AND COMPLETELY HAS BECOME OF SIGNIFICANT IMPORTANCE. ONE OF THE SIGNIFICANT TECHNICAL CHALLENGES WITH FLEXIBLE ENDOSCOPIC INTERVENTIONS IS THE LIMITATION IN FREEDOM OF MOVEMENT THAT EXISTS BETWEEN THE ENDOSCOPE AND THE INSTRUMENTS THAT ARE PASSED THROUGH THE WORKING PORT. INSTRUMENTS TYPICALLY HAVE A FIXED ORIENTATION TO THE DISTAL SCOPE TIP AND, IN MOST CASES, ONLY CAN BE ADVANCED ALONG THE AXIS OF SCOPE TIP. ADDITIONALLY, SCOPE FLEXIBILITY AND MANEUVERABILITY REDUCES WITH AN INSTRUMENT PRESENT, FURTHER LIMITING DEXTERITY. WORKING WITHIN THE NARROW CONFINES OF A BRONCHUS OR TRACHEA LIMITS THE ABILITY TO ACCURATELY AND EXPEDITIOUSLY DIRECT INSTRUMENTS TO LESIONS OR BIOPSY TARGETS. AS A RESULT, PROCEDURE TIMES MAY BE EXTENDED, DYSPLASTIC OR MALIGNANT LESIONS CAN BE INCOMPLETELY TREATED, OR SURROUNDING TISSUES BE UNNECESSARILY TRAUMATIZED SECONDARY TO CHALLENGES WITH SCOPE POSITIONING. TO ADDRESS THIS ONGOING CHALLENGE WITH FLEXIBLE ENDOSCOPY, WE HAVE DEVELOPED A HANDHELD ROBOTIC CATHETER THAT CAN BE PASSED THROUGH THE INSTRUMENT CHANNEL OF A FLEXIBLE BRONCHOSCOPE. THE CATHETER ACCOMMODATES AN ASSORTMENT OF INSTRUMENTATION TO ALLOW FOR ROBOTICALLY ENHANCED ARTICULATION OF TOOLS, IN ESSENCE, LIBERATING THE RIGID RESTRICTIONS OF MOVEMENT THAT CURRENTLY EXISTS BETWEEN SCOPE AND INSTRUMENT, AND EXPANDING ITS REACH AND ALLOWING FOR MORE DISTAL PATHOLOGY TO BE ACCESSED AND TREATED. IMPORTANTLY, THE ROBOTIC CATHETER CAN BE HELD AND OPERATED BY ONE HAND, MAKING ITS USE DIRECTLY COMPATIBLE WITH EXISTING HANDHELD FLEXIBLE ENDOSCOPES, AND ALLOWING A SINGLE PRACTITIONER TO OPERATE BOTH IMAGER AND INSTRUMENTATION WITHOUT ADDITIONAL HELP. OVERALL, THE PROJECT AIMS ARE TO (1) DEVELOP AND VALIDATE THE ROBOTIC INSTRUMENT AND (2) PERFORM A USER STUDY OF THE DEVICE TO EVALUATE ITS EFFICACY AND EFFICIENCY OF CENTRAL AND PERIPHERAL LUNG ACCESS FOR ADDRESSING SUSPECT PATHOLOGIES. AT THE END OF THIS PROJECT, WE AIM TO HAVE A VALIDATED ROBOTIC INSTRUMENT FOR CLINICAL TRIALS. WE HYPOTHESIZE TECHNOLOGY WILL INHERIT THE OBSERVED BENEFITS WITH PRIOR SURGICAL ROBOTIC SYSTEMS, I.E., REDUCED PROCEDURE TIMES, LESS ADJACENT TISSUE TRAUMA FROM SCOPE NAVIGATION, MORE ACCURATE INSTRUMENT PLACEMENT, AND ENHANCED PROVIDER PROCEDURAL EXPERIENCE. ROBOTIZING THE INSTRUMENTATION WITHOUT CHANGING THE ENDOSCOPE WOULD RESULT IN A LOW-COST SOLUTION THAT REMOVES THE BURDEN OF SPECIALTY EQUIPMENT, STAFF, AND FACILITIES, ALLOWING NOT ONLY HOSPITALS BUT ALSO OUTPATIENT CLINICS TO AFFORD AND OFFER ROBOTIC PROCEDURES. THIS HAS A SIGNIFICANT POTENTIAL TO EXPAND THE ACCESSIBILITY OF ROBOTICALLY ENHANCED DIAGNOSTICS AND INTERVENTION TO ECONOMICALLY DIVERSE AND GEOGRAPHICALLY CHALLENGED POPULATIONS ACROSS THE COUNTRY.",
+    "total_obligation": 616837,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-03-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 489345.99,
+    "total_account_obligation": 616837,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 489345.99
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 616837
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "period_of_performance": {
+      "start_date": "2021-04-01",
+      "end_date": "2023-01-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0407",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 489345.99
+  }
+}

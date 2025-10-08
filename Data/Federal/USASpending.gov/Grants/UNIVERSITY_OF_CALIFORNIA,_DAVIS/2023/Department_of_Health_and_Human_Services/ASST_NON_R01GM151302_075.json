@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91197674,
+    "Award ID": "R01GM151302",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2600943,
+    "Total Outlays": 740282.35,
+    "Description": "THE BIOGENESIS AND FUNCTIONS OF PRE-MEIOTIC SMALL RNAS IN MALE REPRODUCTIVE DEVELOPMENT IN MAIZE - PROJECT SUMMARY IN NUMEROUS FLOWERING PLANT SPECIES, THE MALE REPRODUCTIVE ORGANS (ANTHERS), WHICH NURTURE POLLEN GRAINS (CONTAINING THE SPERM, THE MALE GERMLINE OF PLANTS) AND THEIR PROGENITOR CELLS, ACCUMULATE TWO CLASSES OF SMALL RNAS, I.E., THE PRE-MEIOTIC (21-NT) AND MEIOTIC (24-NT) PHASED, SMALL INTERFERING RNAS (PHASIRNAS). PERTURBATION OF THE PHASIRNA BIOGENESIS PATHWAYS IN RICE OR MAIZE CAUSES ENVIRONMENTALLY-SENSITIVE MALE STERILITY. THERE ARE MANY INTERESTING PARALLELS BETWEEN THESE PLANT PHASIRNAS AND ANIMAL PIWI-INTERACTING RNAS (PIRNAS), WHICH HAVE ALSO BEEN SHOWN ESSENTIAL FOR MALE FERTILITY. HOWEVER, THERE IS A MAJOR GAP IN OUR UNDERSTANDING OF HOW THE PLANT REPRODUCTIVE PHASIRNAS FUNCTION TO REGULATE DEVELOPMENTAL PROCESSES IMPORTANT FOR REPRODUCTION. OUR LONG-TERM GOAL IS TO UNDERSTAND MECHANISTIC AND FUNCTIONAL BASIS FOR THE DEPENDENCE ON THESE SMALL RNAS IN PLANT MALE REPRODUCTIVE DEVELOPMENT.  WE AND COLLABORATORS HAVE DESCRIBED THE REPRODUCTIVE PHASIRNA PATHWAYS IN MANY PLANT SPECIES. WE HAVE SHOWN THAT BIOGENESIS OF THE 21-NT, PRE-MEIOTIC PHASIRNAS IS INITIATED IN THE ANTHER EPIDERMIS, BUT THEY ACCUMULATE IN THE TAPETUM, THREE LAYERS OF CELLS DISTAL, INDICATING MOVEMENT ACROSS CELL LAYERS. YET, IT IS LARGELY UNKNOWN WHERE THE 21-NT PHASIRNAS AND THEIR BIOGENESIS COMPONENTS LOCALIZE THROUGHOUT ANTHER DEVELOPMENT, AS WELL AS WHAT ARE THE TARGETS AND THUS PRECISE FUNCTIONS OF THE 21-NT PHASIRNAS. OUR STRONG PRELIMINARY DATA HAS LED TO OUR FOCUS ON THREE SPECIFIC AIMS TO CHARACTERIZE 21-NT, PRE-MEIOTIC REPRODUCTIVE PHASIRNAS IN MAIZE, A MODEL FOR PLANT REPRODUCTIVE BIOLOGY, GENOMICS, AND GENETICS. THE AIMS ARE: (1) CHARACTERIZE THE SPATIOTEMPORAL LOCALIZATION OF KEY PLAYERS IN PRE-MEIOTIC PHASIRNA BIOGENESIS, USING ADVANCED IMAGING AND SINGLE-CELL RNA-SEQ TECHNIQUES; THIS AIM WILL GENERATE A SPATIOTEMPORAL MAP OF 21-NT PHASIRNAS, THEIR PRECURSORS, MICRORNA TRIGGER, AND BIOGENESIS PROTEINS, IN DEVELOPING MAIZE ANTHERS. (2) DECIPHER THE BIOGENESIS OF PRE-MEIOTIC PHASIRNAS AND THEIR DEVELOPMENTAL ROLES, VIA THE IDENTIFICATION OF NOVEL BIOGENESIS FACTORS USING BIOCHEMICAL APPROACHES, USING PUBLICLY AVAILABLE MUTANTS PLUS CRISPR-CAS9- GENERATED MUTANTS TO UNDERSTAND WHETHER THE PRE-MEIOTIC PHASIRNAS ARE NECESSARY FOR MALE REPRODUCTIVE DEVELOPMENT, AND THEN ASSIGN FUNCTIONS TO NOVEL COMPONENTS OF THE PATHWAY. AND (3) ELUCIDATE THE REGULATORY MECHANISMS MEDIATED BY PRE-MEIOTIC PHASIRNAS, USING ESTABLISHED AND NEW MOLECULAR APPROACHES TO IDENTIFY THE ENDOGENOUS TARGETS OF 21-NT PHASIRNAS AND EXAMINE HOW THEY ARE REGULATED BY THE PHASIRNAS.  THE PROPOSED RESEARCH WILL HAVE A BROAD IMPACT ON SMALL RNA BIOLOGY BY CHARACTERIZING THE BIOGENESIS AND FUNCTIONS OF PRE-MEIOTIC PLANT SMALL RNAS IN MAIZE ANTHER DEVELOPMENT. THE EXPERIMENTS WILL PROVIDE KEY INSIGHTS INTO WHERE AND HOW THEY ARE PRODUCED, AND WHAT THEIR ROLES ARE IN ANTHER CELL DIFFERENTIATION AND MALE FERTILITY. COMPARISON OF THE RESULTS OF THIS WORK WITH ONGOING STUDIES INTO MAMMALIAN PIRNAS MAY SHED LIGHT ON THE COMMONALITIES IN THE UTILIZATION OF SMALL RNA PATHWAYS IN REPRODUCTION AND GONAD DEVELOPMENT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-15",
+    "End Date": "2027-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01GM151302_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91197674,
+    "generated_unique_award_id": "ASST_NON_R01GM151302_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE BIOGENESIS AND FUNCTIONS OF PRE-MEIOTIC SMALL RNAS IN MALE REPRODUCTIVE DEVELOPMENT IN MAIZE - PROJECT SUMMARY IN NUMEROUS FLOWERING PLANT SPECIES, THE MALE REPRODUCTIVE ORGANS (ANTHERS), WHICH NURTURE POLLEN GRAINS (CONTAINING THE SPERM, THE MALE GERMLINE OF PLANTS) AND THEIR PROGENITOR CELLS, ACCUMULATE TWO CLASSES OF SMALL RNAS, I.E., THE PRE-MEIOTIC (21-NT) AND MEIOTIC (24-NT) PHASED, SMALL INTERFERING RNAS (PHASIRNAS). PERTURBATION OF THE PHASIRNA BIOGENESIS PATHWAYS IN RICE OR MAIZE CAUSES ENVIRONMENTALLY-SENSITIVE MALE STERILITY. THERE ARE MANY INTERESTING PARALLELS BETWEEN THESE PLANT PHASIRNAS AND ANIMAL PIWI-INTERACTING RNAS (PIRNAS), WHICH HAVE ALSO BEEN SHOWN ESSENTIAL FOR MALE FERTILITY. HOWEVER, THERE IS A MAJOR GAP IN OUR UNDERSTANDING OF HOW THE PLANT REPRODUCTIVE PHASIRNAS FUNCTION TO REGULATE DEVELOPMENTAL PROCESSES IMPORTANT FOR REPRODUCTION. OUR LONG-TERM GOAL IS TO UNDERSTAND MECHANISTIC AND FUNCTIONAL BASIS FOR THE DEPENDENCE ON THESE SMALL RNAS IN PLANT MALE REPRODUCTIVE DEVELOPMENT.  WE AND COLLABORATORS HAVE DESCRIBED THE REPRODUCTIVE PHASIRNA PATHWAYS IN MANY PLANT SPECIES. WE HAVE SHOWN THAT BIOGENESIS OF THE 21-NT, PRE-MEIOTIC PHASIRNAS IS INITIATED IN THE ANTHER EPIDERMIS, BUT THEY ACCUMULATE IN THE TAPETUM, THREE LAYERS OF CELLS DISTAL, INDICATING MOVEMENT ACROSS CELL LAYERS. YET, IT IS LARGELY UNKNOWN WHERE THE 21-NT PHASIRNAS AND THEIR BIOGENESIS COMPONENTS LOCALIZE THROUGHOUT ANTHER DEVELOPMENT, AS WELL AS WHAT ARE THE TARGETS AND THUS PRECISE FUNCTIONS OF THE 21-NT PHASIRNAS. OUR STRONG PRELIMINARY DATA HAS LED TO OUR FOCUS ON THREE SPECIFIC AIMS TO CHARACTERIZE 21-NT, PRE-MEIOTIC REPRODUCTIVE PHASIRNAS IN MAIZE, A MODEL FOR PLANT REPRODUCTIVE BIOLOGY, GENOMICS, AND GENETICS. THE AIMS ARE: (1) CHARACTERIZE THE SPATIOTEMPORAL LOCALIZATION OF KEY PLAYERS IN PRE-MEIOTIC PHASIRNA BIOGENESIS, USING ADVANCED IMAGING AND SINGLE-CELL RNA-SEQ TECHNIQUES; THIS AIM WILL GENERATE A SPATIOTEMPORAL MAP OF 21-NT PHASIRNAS, THEIR PRECURSORS, MICRORNA TRIGGER, AND BIOGENESIS PROTEINS, IN DEVELOPING MAIZE ANTHERS. (2) DECIPHER THE BIOGENESIS OF PRE-MEIOTIC PHASIRNAS AND THEIR DEVELOPMENTAL ROLES, VIA THE IDENTIFICATION OF NOVEL BIOGENESIS FACTORS USING BIOCHEMICAL APPROACHES, USING PUBLICLY AVAILABLE MUTANTS PLUS CRISPR-CAS9- GENERATED MUTANTS TO UNDERSTAND WHETHER THE PRE-MEIOTIC PHASIRNAS ARE NECESSARY FOR MALE REPRODUCTIVE DEVELOPMENT, AND THEN ASSIGN FUNCTIONS TO NOVEL COMPONENTS OF THE PATHWAY. AND (3) ELUCIDATE THE REGULATORY MECHANISMS MEDIATED BY PRE-MEIOTIC PHASIRNAS, USING ESTABLISHED AND NEW MOLECULAR APPROACHES TO IDENTIFY THE ENDOGENOUS TARGETS OF 21-NT PHASIRNAS AND EXAMINE HOW THEY ARE REGULATED BY THE PHASIRNAS.  THE PROPOSED RESEARCH WILL HAVE A BROAD IMPACT ON SMALL RNA BIOLOGY BY CHARACTERIZING THE BIOGENESIS AND FUNCTIONS OF PRE-MEIOTIC PLANT SMALL RNAS IN MAIZE ANTHER DEVELOPMENT. THE EXPERIMENTS WILL PROVIDE KEY INSIGHTS INTO WHERE AND HOW THEY ARE PRODUCED, AND WHAT THEIR ROLES ARE IN ANTHER CELL DIFFERENTIATION AND MALE FERTILITY. COMPARISON OF THE RESULTS OF THIS WORK WITH ONGOING STUDIES INTO MAMMALIAN PIRNAS MAY SHED LIGHT ON THE COMMONALITIES IN THE UTILIZATION OF SMALL RNA PATHWAYS IN REPRODUCTION AND GONAD DEVELOPMENT.",
+    "total_obligation": 2600943,
+    "subaward_count": 2,
+    "total_subaward_amount": 494438,
+    "date_signed": "2023-09-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 740282.35,
+    "total_account_obligation": 1902087,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 740282.35
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1902087
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-15",
+      "end_date": "2027-08-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 740282.35
+  }
+}

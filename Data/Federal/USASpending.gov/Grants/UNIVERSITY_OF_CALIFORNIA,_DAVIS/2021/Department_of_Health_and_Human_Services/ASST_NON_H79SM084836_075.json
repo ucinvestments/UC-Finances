@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 88845571,
+    "Award ID": "H79SM084836",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1997775,
+    "Total Outlays": 1428814.09,
+    "Description": "TRAUMA AND ADOLESCENT MENTAL ILLNESS (TAMI) SERVICES PROJECT: INCREASING ACCESS TO TRAUMA-INFORMED EVIDENCE-BASED CARE FOR SYSTEM-INVOLVED YOUTH WITH COMORBID TRAUMA AND PSYCHOSIS - COMORBID TRAUMA AND PSYCHOSIS ARE COMMON YET UNDER-RECOGNIZED IN JUVENILE JUSTICE (JJ), CHILD WELFARE (CW), AND COMMUNITY MENTAL HEALTH (CMH) SETTINGS; AND RECOGNIZED YOUTH DO NOT RECEIVE APPROPRIATE SERVICES. THE TRAUMA AND ADOLESCENT MENTAL ILLNESS (TAMI) SERVICES PROJECT TRIPLES THE CAPACITY OF SERVICE PROVIDERS IN SACRAMENTO COUNTY, CA, TO PROVIDE EVIDENCE-BASED SERVICES FOR YOUTH (AGE 12-22) WITH COMORBID TRAUMA AND PSYCHOSIS IN JJ, CW, AND CMH SETTINGS. PROJECT GOALS ARE: 1) INCREASE CAPACITY OF CHILD-SERVING SYSTEMS TO IDENTIFY AND APPROPRIATELY LINK YOUTH EXPERIENCING TRAUMA AND PSYCHOSIS SYMPTOMS BY IMPLEMENTING A UNIVERSAL SCREENING AND REFERRAL PROTOCOL IN SAC COUNTY JJ AND CW SETTINGS; 2) INCREASE THE CAPACITY OF SAC COUNTY CMH SERVICES TO PROVIDE EVIDENCE-BASED TRAUMA-FOCUSED CARE FOR YOUTH WITH COMORBID TRAUMA AND PSYCHOSIS BY IMPLEMENTING A CURRICULUM THAT ADDRESSES THE TRAINING NEEDS OF CMH PROVIDERS. KEY MEASURABLE OBJECTIVES INCLUDE: IMPLEMENT UNIVERSAL SCREENING FOR TRAUMA AND PSYCHOSIS IN JJ (YR 1+) AND CW (YR 3+); IMPLEMENT COMPREHENSIVE ASSESSMENT AND LINKAGE TO APPROPRIATE SERVICES FOR YOUTH WHO SCREEN POSITIVE FOR TRAUMA AND/OR PSYCHOSIS (YR 2+); TRAIN CMH PARTNERS IN EVIDENCE BASED PRACTICES (EBPS) FOR COMORBID TRAUMA AND PSYCHOSIS (YR 1-2); SUPPORT ONGOING TRAINING NEEDS VIA BI-MONTHLY CONSULTATION CALLS (YR 2+) AND BIANNUAL TRAININGS (YR 3+). TAMI SERVICES COMPRISE TRAUMA-INFORMED COGNITIVE BEHAVIORAL THERAPY FOR PSYCHOSIS (TI-CBTP; FOLK ET AL., 2019), DEVELOPED IN COLLABORATION BY THE UC DAVIS (UCD) SACEDAPT CLINIC AND UCD CAARE CENTER. WE IMPLEMENTED TAMI SERVICES IN THE SACEDAPT CLINIC IN 2014, HAVE PROVIDED CARE TO OVER 65 YOUTH, AND BUILT CAPACITY FOR 25 CASES PER YEAR. UNFORTUNATELY, AN ESTIMATED 100 SYSTEM-INVOLVED YOUTH NEED TAMI SERVICES ANNUALLY IN SAC COUNTY, AND SACEDAPT IS THE ONLY SAC COUNTY PROVIDER OF TAMI SERVICES. THIS PROJECT WILL INCREASE TAMI SERVICE CAPACITY IN SAC COUNTY BY EXPANDING TO 6 ADDITIONAL CMH SITES. OUR TEAM IS UNIQUELY POSITIONED CARRY OUT THIS WORK: THE SACEDAPT CLINIC AND CAARE CENTER HAVE AN ESTABLISHED PARTNERSHIP AND ARE NATIONALLY RECOGNIZED LEADERS IN THE DEVELOPMENT AND IMPLEMENTATION OF EBPS FOR YOUTH WITH TRAUMA AND PSYCHOSIS IN DIVERSE SETTINGS. OVER THE 5-YEAR PROJECT WE ANTICIPATE SCREENING A TOTAL OF 1,365 INDIVIDUALS ACROSS JJ AND CW SETTINGS; WE ESTIMATE CONDUCTING 369 COMPREHENSIVE ASSESSMENTS WITH YOUTH WHO SCREEN POSITIVE FOR PSYCHOSIS OR TRAUMA; AND WE ESTIMATE 185 YOUTH WILL RECEIVE TAMI SERVICES OVER THE COURSE OF THE PROJECT. BY THE END OF THE PROJECT, WE WILL HAVE INCREASED TAMI SERVICE CAPACITY FROM 25 TO 80 INDIVIDUALS ANNUALLY, TRIPLING SAC COUNTY CAPACITY TO PROVIDE EVIDENCE-BASED TRAUMA-FOCUSED CARE TO SYSTEM-INVOLVED YOUTH WITH COMORBID TRAUMA AND PSYCHOSIS. THIS PROJECT WILL ALSO BUILD THE NECESSARY SCREENING, ASSESSMENT, AND TRAINING INFRASTRUCTURE TO SUPPORT ONGOING EXPANSION OF TAMI SERVICES IN SAC COUNTY AND BEYOND.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172219",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "Substance Abuse and Mental Health Services Administration",
+    "Start Date": "2021-09-30",
+    "End Date": "2026-09-29",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_H79SM084836_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 88845571,
+    "generated_unique_award_id": "ASST_NON_H79SM084836_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TRAUMA AND ADOLESCENT MENTAL ILLNESS (TAMI) SERVICES PROJECT: INCREASING ACCESS TO TRAUMA-INFORMED EVIDENCE-BASED CARE FOR SYSTEM-INVOLVED YOUTH WITH COMORBID TRAUMA AND PSYCHOSIS - COMORBID TRAUMA AND PSYCHOSIS ARE COMMON YET UNDER-RECOGNIZED IN JUVENILE JUSTICE (JJ), CHILD WELFARE (CW), AND COMMUNITY MENTAL HEALTH (CMH) SETTINGS; AND RECOGNIZED YOUTH DO NOT RECEIVE APPROPRIATE SERVICES. THE TRAUMA AND ADOLESCENT MENTAL ILLNESS (TAMI) SERVICES PROJECT TRIPLES THE CAPACITY OF SERVICE PROVIDERS IN SACRAMENTO COUNTY, CA, TO PROVIDE EVIDENCE-BASED SERVICES FOR YOUTH (AGE 12-22) WITH COMORBID TRAUMA AND PSYCHOSIS IN JJ, CW, AND CMH SETTINGS. PROJECT GOALS ARE: 1) INCREASE CAPACITY OF CHILD-SERVING SYSTEMS TO IDENTIFY AND APPROPRIATELY LINK YOUTH EXPERIENCING TRAUMA AND PSYCHOSIS SYMPTOMS BY IMPLEMENTING A UNIVERSAL SCREENING AND REFERRAL PROTOCOL IN SAC COUNTY JJ AND CW SETTINGS; 2) INCREASE THE CAPACITY OF SAC COUNTY CMH SERVICES TO PROVIDE EVIDENCE-BASED TRAUMA-FOCUSED CARE FOR YOUTH WITH COMORBID TRAUMA AND PSYCHOSIS BY IMPLEMENTING A CURRICULUM THAT ADDRESSES THE TRAINING NEEDS OF CMH PROVIDERS. KEY MEASURABLE OBJECTIVES INCLUDE: IMPLEMENT UNIVERSAL SCREENING FOR TRAUMA AND PSYCHOSIS IN JJ (YR 1+) AND CW (YR 3+); IMPLEMENT COMPREHENSIVE ASSESSMENT AND LINKAGE TO APPROPRIATE SERVICES FOR YOUTH WHO SCREEN POSITIVE FOR TRAUMA AND/OR PSYCHOSIS (YR 2+); TRAIN CMH PARTNERS IN EVIDENCE BASED PRACTICES (EBPS) FOR COMORBID TRAUMA AND PSYCHOSIS (YR 1-2); SUPPORT ONGOING TRAINING NEEDS VIA BI-MONTHLY CONSULTATION CALLS (YR 2+) AND BIANNUAL TRAININGS (YR 3+). TAMI SERVICES COMPRISE TRAUMA-INFORMED COGNITIVE BEHAVIORAL THERAPY FOR PSYCHOSIS (TI-CBTP; FOLK ET AL., 2019), DEVELOPED IN COLLABORATION BY THE UC DAVIS (UCD) SACEDAPT CLINIC AND UCD CAARE CENTER. WE IMPLEMENTED TAMI SERVICES IN THE SACEDAPT CLINIC IN 2014, HAVE PROVIDED CARE TO OVER 65 YOUTH, AND BUILT CAPACITY FOR 25 CASES PER YEAR. UNFORTUNATELY, AN ESTIMATED 100 SYSTEM-INVOLVED YOUTH NEED TAMI SERVICES ANNUALLY IN SAC COUNTY, AND SACEDAPT IS THE ONLY SAC COUNTY PROVIDER OF TAMI SERVICES. THIS PROJECT WILL INCREASE TAMI SERVICE CAPACITY IN SAC COUNTY BY EXPANDING TO 6 ADDITIONAL CMH SITES. OUR TEAM IS UNIQUELY POSITIONED CARRY OUT THIS WORK: THE SACEDAPT CLINIC AND CAARE CENTER HAVE AN ESTABLISHED PARTNERSHIP AND ARE NATIONALLY RECOGNIZED LEADERS IN THE DEVELOPMENT AND IMPLEMENTATION OF EBPS FOR YOUTH WITH TRAUMA AND PSYCHOSIS IN DIVERSE SETTINGS. OVER THE 5-YEAR PROJECT WE ANTICIPATE SCREENING A TOTAL OF 1,365 INDIVIDUALS ACROSS JJ AND CW SETTINGS; WE ESTIMATE CONDUCTING 369 COMPREHENSIVE ASSESSMENTS WITH YOUTH WHO SCREEN POSITIVE FOR PSYCHOSIS OR TRAUMA; AND WE ESTIMATE 185 YOUTH WILL RECEIVE TAMI SERVICES OVER THE COURSE OF THE PROJECT. BY THE END OF THE PROJECT, WE WILL HAVE INCREASED TAMI SERVICE CAPACITY FROM 25 TO 80 INDIVIDUALS ANNUALLY, TRIPLING SAC COUNTY CAPACITY TO PROVIDE EVIDENCE-BASED TRAUMA-FOCUSED CARE TO SYSTEM-INVOLVED YOUTH WITH COMORBID TRAUMA AND PSYCHOSIS. THIS PROJECT WILL ALSO BUILD THE NECESSARY SCREENING, ASSESSMENT, AND TRAINING INFRASTRUCTURE TO SUPPORT ONGOING EXPANSION OF TAMI SERVICES IN SAC COUNTY AND BEYOND.",
+    "total_obligation": 1997775,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-07-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1428814.09,
+    "total_account_obligation": 1597789,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1428814.09
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1597789
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 823,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Substance Abuse and Mental Health Services Administration",
+        "code": "7522",
+        "abbreviation": "SAMHSA"
+      },
+      "office_agency_name": "SAMHSA CENTER FOR MENTAL HEALTH SERVICES"
+    },
+    "awarding_agency": {
+      "id": 823,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Substance Abuse and Mental Health Services Administration",
+        "code": "7522",
+        "abbreviation": "SAMHSA"
+      },
+      "office_agency_name": "SAMHSA Division of Grants Management"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-30",
+      "end_date": "2026-09-29",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2219",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1428814.09
+  }
+}

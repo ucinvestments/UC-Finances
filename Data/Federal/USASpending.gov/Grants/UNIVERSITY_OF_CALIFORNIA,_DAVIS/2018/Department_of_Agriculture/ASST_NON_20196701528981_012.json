@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56310964,
+    "Award ID": "20196701528981",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2500000,
+    "Total Outlays": 2500000,
+    "Description": "THE EMERGENCE OF AFRICAN SWINE FEVER (ASF) IN AFRICA, CAUCASUS REGION AND EASTERN EUROPE IN THE LAST DECADE HAS INCREASE THE CONCERNS ABOUT THE GLOBAL SPREAD AND POTENTIAL IMPACT IN THE SWINE INDUSTRY, PARTICULARLY IF CENTRAL EU-COUNTRIES, USA OR CHINA BECOME INFECTED. THE PROPOSED INTERDISCIPLINARY, MULTI-INSTITUTION, RESEARCH PROJECT AIMS TO UNDERSTAND THE EVOLUTION OF ASF AT THE VERY SOURCE OF THE PROBLEM TO BETTER PREVENT ITS GLOBAL SPREAD. THE SOUTHERN AFRICAN DEVELOPMENT COMMUNITY IS THE UNIQUE AREA IN THE WORLD WHERE I) ASFV IS BELIEVED TO HAVE ORIGINATED/EMERGED AND CONTINUES BEING AN ACTIVE SOURCE OF LONG-DISTANCE ASFV SPREAD (E.G., TO EUROPE IN 2007), II) 23 OUT OF THE 24 ASFV GENOTYPES ARE PRESENT, III) BOTH THE DOMESTIC AND SYLVATIC TRANSMISSION CYCLES (INVOLVING DOMESTIC PIGS, WILD PIGS AND TICKS) COEXIST.OUR AIMS ARE TO 1) ASSESS THE PIG CONTACT NETWORKS, PIG MANAGEMENT AND SOCIO-ECONOMIC FACTORS, TICK INVOLVEMENT IN ASFV TRANSMISSION AND VIRAL DIVERSITY IN THE SYLVATICAND DOMESTIC CYCLES, 2) MODEL ASFV TRANSMISSION DYNAMICS, ECONOMIC IMPACT AND RISK OF INTRODUCTION/SPREAD INTO FREE AREAS IN DIFFERENT ECO-EPIDEMIOLOGICAL SETTINGS USING MULTI-SCALE SIMULATION MODELS, 3) INTEGRATE GENOMIC-TO POPULATION LEVEL DATA AND MODELING METHODS INTO A COMPREHENSIVE, OPEN-ACCESS, USER-FRIENDLY, LONG-TERM, ANALYTICAL PLATFORM REFERRED TO AS ASF-BIOPORTAL AND DEVELOP INTERACTIVE EDUCATIONAL AND TRAINING MATERIALS. ALL THESE WILL CONTRIBUTE TO THE VERTICAL ADVANCEMENT IN ASF RESEARCH AND WILL PROVIDE A MODELING FRAMEWORK AND GENERALIZABLE PRINCIPLES USEFUL FOR THE STUDY OF THE EMERGENCE, PREVENTION AND CONTROL OF MANY OTHER TRANSBOUNDARY DISEASES AT A LOCAL, CONTINENTAL AND GLOBAL SCALE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2018-12-01",
+    "End Date": "2024-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20196701528981_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56310964,
+    "generated_unique_award_id": "ASST_NON_20196701528981_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE EMERGENCE OF AFRICAN SWINE FEVER (ASF) IN AFRICA, CAUCASUS REGION AND EASTERN EUROPE IN THE LAST DECADE HAS INCREASE THE CONCERNS ABOUT THE GLOBAL SPREAD AND POTENTIAL IMPACT IN THE SWINE INDUSTRY, PARTICULARLY IF CENTRAL EU-COUNTRIES, USA OR CHINA BECOME INFECTED. THE PROPOSED INTERDISCIPLINARY, MULTI-INSTITUTION, RESEARCH PROJECT AIMS TO UNDERSTAND THE EVOLUTION OF ASF AT THE VERY SOURCE OF THE PROBLEM TO BETTER PREVENT ITS GLOBAL SPREAD. THE SOUTHERN AFRICAN DEVELOPMENT COMMUNITY IS THE UNIQUE AREA IN THE WORLD WHERE I) ASFV IS BELIEVED TO HAVE ORIGINATED/EMERGED AND CONTINUES BEING AN ACTIVE SOURCE OF LONG-DISTANCE ASFV SPREAD (E.G., TO EUROPE IN 2007), II) 23 OUT OF THE 24 ASFV GENOTYPES ARE PRESENT, III) BOTH THE DOMESTIC AND SYLVATIC TRANSMISSION CYCLES (INVOLVING DOMESTIC PIGS, WILD PIGS AND TICKS) COEXIST.OUR AIMS ARE TO 1) ASSESS THE PIG CONTACT NETWORKS, PIG MANAGEMENT AND SOCIO-ECONOMIC FACTORS, TICK INVOLVEMENT IN ASFV TRANSMISSION AND VIRAL DIVERSITY IN THE SYLVATICAND DOMESTIC CYCLES, 2) MODEL ASFV TRANSMISSION DYNAMICS, ECONOMIC IMPACT AND RISK OF INTRODUCTION/SPREAD INTO FREE AREAS IN DIFFERENT ECO-EPIDEMIOLOGICAL SETTINGS USING MULTI-SCALE SIMULATION MODELS, 3) INTEGRATE GENOMIC-TO POPULATION LEVEL DATA AND MODELING METHODS INTO A COMPREHENSIVE, OPEN-ACCESS, USER-FRIENDLY, LONG-TERM, ANALYTICAL PLATFORM REFERRED TO AS ASF-BIOPORTAL AND DEVELOP INTERACTIVE EDUCATIONAL AND TRAINING MATERIALS. ALL THESE WILL CONTRIBUTE TO THE VERTICAL ADVANCEMENT IN ASF RESEARCH AND WILL PROVIDE A MODELING FRAMEWORK AND GENERALIZABLE PRINCIPLES USEFUL FOR THE STUDY OF THE EMERGENCE, PREVENTION AND CONTROL OF MANY OTHER TRANSBOUNDARY DISEASES AT A LOCAL, CONTINENTAL AND GLOBAL SCALE.",
+    "total_obligation": 2500000,
+    "subaward_count": 19,
+    "total_subaward_amount": 1344476.26,
+    "date_signed": "2018-12-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2500000,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2500000
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2018-12-01",
+      "end_date": "2024-11-30",
+      "last_modified_date": "2023-10-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2500000
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89258671,
+    "Award ID": "LG-246349-OLS-20",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 980784.17,
+    "Total Outlays": 980784.17,
+    "Description": "THE CALIFORNIA DIGITAL LIBRARY?IN COLLABORATION WITH OCLC AND THE UNIVERSITY OF VIRGINIA LIBRARY, AND IN CLOSE PARTNERSHIP WITH LYRASIS AND STATE/REGIONAL AGGREGATORS?WILL CONDUCT A RESEARCH AND DEMONSTRATION PROJECT TO BUILD THE FOUNDATION FOR A NATIONAL ARCHIVAL FINDING AID NETWORK. BUILDING ON A 2018?2019 PLANNING INITIATIVE, THIS PROJECT WILL LEVERAGE COMMUNITY ENGAGEMENT TO MOVE TOWARD A UNIFIED, INCLUSIVE, COMPREHENSIVE, AND STABLE NATIONAL FINDING AID NETWORK. WORK WILL TAKE PLACE IN PARALLEL ACROSS MULTIPLE FOCUS AREAS, INCLUDING: RESEARCH INVESTIGATING END-USER AND CONTRIBUTOR NEEDS IN RELATION TO FINDING AID AGGREGATIONS AND EVALUATING THE QUALITY OF EXISTING FINDING AID DATA; TECHNICAL ASSESSMENTS OF POTENTIAL SYSTEMS TO SUPPORT NETWORK FUNCTIONS AND FORMULATING SYSTEM REQUIREMENTS FOR A MINIMUM VIABLE PRODUCT INSTANTIATION OF THE NETWORK; AND COMMUNITY BUILDING, SUSTAINABILITY PLANNING, AND GOVERNANCE MODELING TO SUPPORT SUBSEQUENT PHASES MOVING FROM A PROJECT TO A PROGRAM FOR SUSTAINABILITY BEYOND THIS AWARD?S PERIOD OF PERFORMANCE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "PKK5TD16N4H1",
+    "Recipient Location": {
+      "address_line1": "1111 FRANKLIN ST 11TH FL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "OAKLAND",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5201",
+      "zip5": "94607"
+    },
+    "Primary Place of Performance": {
+      "city_name": "OAKLAND",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94607-5201",
+      "zip5": "94607"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Institute of Museum and Library Services",
+    "Awarding Sub Agency": "Institute of Museum and Library Services",
+    "Start Date": "2020-09-01",
+    "End Date": "2023-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9df6f273-648d-cf72-c4ef-346f414c585c-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_LG-246349-OLS-20_474",
+    "awarding_agency_id": 1474,
+    "agency_slug": "institute-of-museum-and-library-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89258671,
+    "generated_unique_award_id": "ASST_NON_LG-246349-OLS-20_474",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE CALIFORNIA DIGITAL LIBRARY?IN COLLABORATION WITH OCLC AND THE UNIVERSITY OF VIRGINIA LIBRARY, AND IN CLOSE PARTNERSHIP WITH LYRASIS AND STATE/REGIONAL AGGREGATORS?WILL CONDUCT A RESEARCH AND DEMONSTRATION PROJECT TO BUILD THE FOUNDATION FOR A NATIONAL ARCHIVAL FINDING AID NETWORK. BUILDING ON A 2018?2019 PLANNING INITIATIVE, THIS PROJECT WILL LEVERAGE COMMUNITY ENGAGEMENT TO MOVE TOWARD A UNIFIED, INCLUSIVE, COMPREHENSIVE, AND STABLE NATIONAL FINDING AID NETWORK. WORK WILL TAKE PLACE IN PARALLEL ACROSS MULTIPLE FOCUS AREAS, INCLUDING: RESEARCH INVESTIGATING END-USER AND CONTRIBUTOR NEEDS IN RELATION TO FINDING AID AGGREGATIONS AND EVALUATING THE QUALITY OF EXISTING FINDING AID DATA; TECHNICAL ASSESSMENTS OF POTENTIAL SYSTEMS TO SUPPORT NETWORK FUNCTIONS AND FORMULATING SYSTEM REQUIREMENTS FOR A MINIMUM VIABLE PRODUCT INSTANTIATION OF THE NETWORK; AND COMMUNITY BUILDING, SUSTAINABILITY PLANNING, AND GOVERNANCE MODELING TO SUPPORT SUBSEQUENT PHASES MOVING FROM A PROJECT TO A PROGRAM FOR SUSTAINABILITY BEYOND THIS AWARD?S PERIOD OF PERFORMANCE.",
+    "total_obligation": 980784.17,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2020-07-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 980784.17,
+    "total_account_obligation": 980784.17,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 980784.17
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 980784.17
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 1474,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Institute of Museum and Library Services",
+        "code": "474",
+        "abbreviation": "IMLS",
+        "slug": "institute-of-museum-and-library-services"
+      },
+      "subtier_agency": {
+        "name": "Institute of Museum and Library Services",
+        "code": "5300",
+        "abbreviation": "IMLS"
+      },
+      "office_agency_name": "INSTITUTE OF MUSEUM  LIBRARY SVCS"
+    },
+    "awarding_agency": {
+      "id": 1423,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Institute of Museum and Library Services",
+        "code": "474",
+        "abbreviation": "IMLS",
+        "slug": "institute-of-museum-and-library-services"
+      },
+      "subtier_agency": {
+        "name": "Institute of Museum and Library Services",
+        "code": "5950",
+        "abbreviation": "IMLS"
+      },
+      "office_agency_name": "INSTITUTE OF MUSEUM  LIBRARY SVCS"
+    },
+    "period_of_performance": {
+      "start_date": "2020-09-01",
+      "end_date": "2023-08-31",
+      "last_modified_date": "2024-08-09",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9df6f273-648d-cf72-c4ef-346f414c585c-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "PKK5TD16N4H1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "OAKLAND",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1111 FRANKLIN ST 11TH FL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "5201",
+        "zip5": "94607",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "OAKLAND",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "5201",
+      "zip5": "94607",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 980784.17
+  }
+}

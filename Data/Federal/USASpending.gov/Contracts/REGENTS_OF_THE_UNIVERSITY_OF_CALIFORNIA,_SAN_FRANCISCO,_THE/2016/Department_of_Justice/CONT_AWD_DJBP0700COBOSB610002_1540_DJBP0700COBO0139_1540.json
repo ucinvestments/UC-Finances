@@ -1,0 +1,323 @@
+{
+  "basic_data": {
+    "internal_id": 116297606,
+    "Award ID": "DJBP0700COBOSB610002",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+    "Award Amount": 18700,
+    "Total Outlays": 0,
+    "Description": "IGF::OT::IGF PROVIDE HIV/AIDS CLINICAL CONSULTATION SERVICES",
+    "Contract Award Type": "DELIVERY ORDER",
+    "Recipient UEI": "KMH5K9V7S518",
+    "Recipient Location": {
+      "address_line1": "1855 FOLSOM ST STE 425",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4249",
+      "zip5": "94103"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "941034249",
+      "zip5": "94103"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Justice",
+    "Awarding Sub Agency": "Federal Prison System / Bureau of Prisons",
+    "Start Date": "2016-10-19",
+    "End Date": "2018-06-08",
+    "NAICS": {
+      "code": "611310",
+      "description": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS"
+    },
+    "PSC": {
+      "code": "R499",
+      "description": "SUPPORT- PROFESSIONAL: OTHER"
+    },
+    "recipient_id": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_DJBP0700COBOSB610002_1540_DJBP0700COBO0139_1540",
+    "awarding_agency_id": 252,
+    "agency_slug": "department-of-justice",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 116297606,
+    "generated_unique_award_id": "CONT_AWD_DJBP0700COBOSB610002_1540_DJBP0700COBO0139_1540",
+    "piid": "DJBP0700COBOSB610002",
+    "category": "contract",
+    "type": "C",
+    "type_description": "DELIVERY ORDER",
+    "description": "IGF::OT::IGF PROVIDE HIV/AIDS CLINICAL CONSULTATION SERVICES",
+    "total_obligation": 18700,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2016-10-19",
+    "base_exercised_options": 18700,
+    "base_and_all_options": 18700,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": {
+      "agency_id": 252,
+      "agency_name": "Department of Justice",
+      "agency_slug": "department-of-justice",
+      "award_id": 169134440,
+      "generated_unique_award_id": "CONT_IDV_DJBP0700COBO0139_1540",
+      "idv_type_description": "IDC",
+      "multiple_or_single_aw_desc": "SINGLE AWARD",
+      "piid": "DJBP0700COBO0139",
+      "sub_agency_id": "1540",
+      "sub_agency_name": "Federal Prison System / Bureau of Prisons",
+      "type_of_idc_description": "INDEFINITE DELIVERY / DEFINITE QUANTITY"
+    },
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": "1540",
+      "referenced_idv_agency_desc": "FEDERAL PRISON SYSTEM / BUREAU OF PRISONS",
+      "solicitation_identifier": null,
+      "solicitation_procedures": "SP1",
+      "number_of_offers_received": "",
+      "extent_competed": "G",
+      "type_set_aside": "",
+      "type_set_aside_description": "",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "N",
+      "fed_biz_opps_description": "NO",
+      "small_business_competitive": false,
+      "product_or_service_code": "R499",
+      "naics": "611310",
+      "naics_description": "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "Y",
+      "cost_or_pricing_data": "W",
+      "domestic_or_foreign_entity": "B",
+      "foreign_funding": "X",
+      "major_program": null,
+      "program_acronym": null,
+      "subcontracting_plan": "",
+      "multi_year_contract": "N",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "SIMPLIFIED ACQUISITION",
+      "extent_competed_description": "NOT COMPETED UNDER SAP",
+      "other_than_full_and_open": "OTH",
+      "other_than_full_and_open_description": "AUTHORIZED BY STATUTE",
+      "commercial_item_acquisition": "A",
+      "commercial_item_acquisition_description": "COMMERCIAL ITEM",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "SUPPORT- PROFESSIONAL: OTHER",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "YES",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "NOT OBTAINED - WAIVED",
+      "domestic_or_foreign_entity_description": "OTHER U.S. ENTITY (E.G. GOVERNMENT)",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "",
+      "multi_year_contract_description": "NO",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 259,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Justice",
+        "code": "015",
+        "abbreviation": "DOJ",
+        "slug": "department-of-justice"
+      },
+      "subtier_agency": {
+        "name": "Federal Prison System / Bureau of Prisons",
+        "code": "1540",
+        "abbreviation": ""
+      },
+      "office_agency_name": "CENTRAL OFFICE"
+    },
+    "awarding_agency": {
+      "id": 259,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Justice",
+        "code": "015",
+        "abbreviation": "DOJ",
+        "slug": "department-of-justice"
+      },
+      "subtier_agency": {
+        "name": "Federal Prison System / Bureau of Prisons",
+        "code": "1540",
+        "abbreviation": ""
+      },
+      "office_agency_name": "CENTRAL OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2016-10-19",
+      "end_date": "2018-06-08",
+      "last_modified_date": "2018-06-08",
+      "potential_end_date": "2018-06-08 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "recipient_uei": "KMH5K9V7S518",
+      "recipient_unique_id": "094878337",
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": "071549000",
+      "business_categories": [
+        "Category Business",
+        "Educational Institution",
+        "Government",
+        "Higher Education",
+        "U.S. National Government",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN FRANCISCO",
+        "county_code": "",
+        "county_name": "",
+        "address_line1": "1855 FOLSOM ST STE 425",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "11",
+        "zip4": "4249",
+        "zip5": "94103",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN FRANCISCO",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "11",
+      "zip4": "4249",
+      "zip5": "94103",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "R",
+        "description": "SUPPORT SVCS (PROF, ADMIN, MGMT)"
+      },
+      "midtier_code": {
+        "code": "R4",
+        "description": "PROFESSIONAL SERVICES"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "R499",
+        "description": "SUPPORT- PROFESSIONAL: OTHER"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "61",
+        "description": "Educational Services"
+      },
+      "midtier_code": {
+        "code": "6113",
+        "description": "Colleges, Universities, and Professional Schools"
+      },
+      "base_code": {
+        "code": "611310",
+        "description": "Colleges, Universities, and Professional Schools"
+      }
+    },
+    "total_outlay": 0
+  }
+}

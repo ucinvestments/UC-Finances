@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 53040693,
+    "Award ID": "15PNIJ24GG02984CVIP",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1642305,
+    "Total Outlays": 100690.78,
+    "Description": "COMMUNITY VIOLENCE IMPACTS MILLIONS OF PEOPLE EVERY YEAR. WHILE ALL COMMUNITIES ARE AFFECTED, THE BURDEN IS GROSSLY UNEVEN, WITH BLACK AND LATINE COMMUNITIES SHOULDERING THE GREATEST TOLL OF DEATH, INJURY, AND COLLATERAL TRAUMA. THIS UNJUST BURDEN IS THE RESULT OF HISTORICAL AND PRESENT-DAY SYSTEMS OF RACIALIZED OPPRESSION THAT CREATE AND CONCENTRATE COMMUNITY CONDITIONS THAT CONTRIBUTE TO VIOLENCE. COMMUNITY-BASED VIOLENCE INTERVENTION (CVI) IS RESPONSIVE TO THIS LARGER CONTEXT AND HAS BECOME AN INCREASINGLY POPULAR STRATEGY TO VIOLENCE REDUCTION BECAUSE OF ITS CENTRAL FOCUS ON COMMUNITY PRESERVATION AND INTENSIVE RELATIONSHIP-BASED APPROACH TO ENGAGEMENT AND CARE. CVI MODELS VARY, BUT EACH LOOKS TO PROFESSIONALS WITH UNWAVERING COMMITMENT TO THEIR COMMUNITIES TO TAKE THE LEAD IN LIFE-SUSTAINING EFFORTS TO INTERVENE, PREVENT VIOLENCE, AND PROMOTE HEALING. THE EFFECTIVENESS OF CVI APPROACHES HAS A GROWING BUT COMPLICATED BASIS IN EVIDENCE. MOST CVI EVALUATION STUDIES HAVE NOT ADEQUATELY FOCUSED ON HOW THESE PROGRAMS FUNCTION IN REAL-WORLD COMMUNITY SETTINGS AND TOO OFTEN DOWNPLAY OR EXCLUDE THE INSIGHTS, PRIORITIES, AND PERSPECTIVES OF THE INDIVIDUALS AND COMMUNITIES WITH THE MOST TO GAIN FROM PEACEBUILDING. THIS HAS LEFT SIGNIFICANT GAPS IN OUR UNDERSTANDING OF WHY AND FOR WHOM THESE PROGRAMS WORK AND HOW TO EXPAND AND SUSTAIN THEM. THE PURPOSE OF THIS PROJECT IS TO FILL THESE MYRIAD PRACTICE-TO-RESEARCH GAPS BY USING RIGOROUS IMPLEMENTATION SCIENCE AND PARTICIPATORY RESEARCH PRINCIPLES TO COLLABORATIVELY DEVELOP AN ECOLOGICALLY INFORMED CVI-SPECIFIC EVALUATION FRAMEWORKONE THAT OPERATIONALIZES AND EVALUATES HOW DYNAMICS WITHIN CVI PROGRAMS, AS WELL AS SYSTEM-LEVEL INTERRELATIONSHIPS AMONG THE CONTEXTS BOTH INTERNAL AND EXTERNAL TO THESE PROGRAMS, INFLUENCE PROGRAMMATIC UPTAKE, REACH, EQUITABLE IMPLEMENTATION, EFFECTIVENESS, AND SUSTAINED USE. SPECIFICALLY, THIS PROJECT WILL: (1) ADAPT THE INTEGRATED PRISM/RE-AIM FRAMEWORK FOR CVI PRACTITIONERS, EMPHASIZING DIRECT ENGAGEMENT OF COMMUNITY CAREHOLDER PRIORITIES AND PERSPECTIVES; (2) APPLY THIS ADAPTED CVI-SPECIFIC EVALUATION FRAMEWORK TO CONDUCT A MULTI-SITE PROCESS AND PRAGMATIC EVALUATION OF THREE OFFICE OF JUSTICE PROGRAMS COMMUNITY-BASED VIOLENCE INTERVENTION AND PREVENTION INITIATIVE PROGRAMS; AND (3) ADVANCE A HOLISTIC UNDERSTANDING OF THE IMPACTS OF CVI, AND THE FACTORS THAT DRIVE OR HINDER SUCCESS, THROUGH ITERATIVE PRACTITIONER-RESEARCHER REFINEMENT AND PUBLIC DISSEMINATION OF THE ADAPTED CVI-SPECIFIC EVALUATION FRAMEWORK. FINDINGS CAN BE APPLIED BROADLY TO FUTURE COMMUNITY-RESEARCH PARTNERSHIPS DESIGNED TO EMPOWER COMMUNITY CAREHOLDERS AND RESIDENTS TO EQUITABLY PARTICIPATE AND CO-PRODUCE EVIDENCE OF THE IMPLEMENTATION AND EFFECTIVENESS OF COMMUNITY-CENTERED STRATEGIES DESIGNED TO REDUCE VIOLENCE AND BUILD COMMUNITY HEALTH AND SAFETY.CA/NCF",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "SPONSORED PROGRAMS",
+      "address_line2": "1 SHIELDS AVENUE, MRAK HALL 4TH FLOOR",
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": "95616"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Justice",
+    "Awarding Sub Agency": "Office of Justice Programs",
+    "Start Date": "2025-01-01",
+    "End Date": "2028-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_15PNIJ24GG02984CVIP_015",
+    "awarding_agency_id": 252,
+    "agency_slug": "department-of-justice",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 53040693,
+    "generated_unique_award_id": "ASST_NON_15PNIJ24GG02984CVIP_015",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "COMMUNITY VIOLENCE IMPACTS MILLIONS OF PEOPLE EVERY YEAR. WHILE ALL COMMUNITIES ARE AFFECTED, THE BURDEN IS GROSSLY UNEVEN, WITH BLACK AND LATINE COMMUNITIES SHOULDERING THE GREATEST TOLL OF DEATH, INJURY, AND COLLATERAL TRAUMA. THIS UNJUST BURDEN IS THE RESULT OF HISTORICAL AND PRESENT-DAY SYSTEMS OF RACIALIZED OPPRESSION THAT CREATE AND CONCENTRATE COMMUNITY CONDITIONS THAT CONTRIBUTE TO VIOLENCE. COMMUNITY-BASED VIOLENCE INTERVENTION (CVI) IS RESPONSIVE TO THIS LARGER CONTEXT AND HAS BECOME AN INCREASINGLY POPULAR STRATEGY TO VIOLENCE REDUCTION BECAUSE OF ITS CENTRAL FOCUS ON COMMUNITY PRESERVATION AND INTENSIVE RELATIONSHIP-BASED APPROACH TO ENGAGEMENT AND CARE. CVI MODELS VARY, BUT EACH LOOKS TO PROFESSIONALS WITH UNWAVERING COMMITMENT TO THEIR COMMUNITIES TO TAKE THE LEAD IN LIFE-SUSTAINING EFFORTS TO INTERVENE, PREVENT VIOLENCE, AND PROMOTE HEALING. THE EFFECTIVENESS OF CVI APPROACHES HAS A GROWING BUT COMPLICATED BASIS IN EVIDENCE. MOST CVI EVALUATION STUDIES HAVE NOT ADEQUATELY FOCUSED ON HOW THESE PROGRAMS FUNCTION IN REAL-WORLD COMMUNITY SETTINGS AND TOO OFTEN DOWNPLAY OR EXCLUDE THE INSIGHTS, PRIORITIES, AND PERSPECTIVES OF THE INDIVIDUALS AND COMMUNITIES WITH THE MOST TO GAIN FROM PEACEBUILDING. THIS HAS LEFT SIGNIFICANT GAPS IN OUR UNDERSTANDING OF WHY AND FOR WHOM THESE PROGRAMS WORK AND HOW TO EXPAND AND SUSTAIN THEM. THE PURPOSE OF THIS PROJECT IS TO FILL THESE MYRIAD PRACTICE-TO-RESEARCH GAPS BY USING RIGOROUS IMPLEMENTATION SCIENCE AND PARTICIPATORY RESEARCH PRINCIPLES TO COLLABORATIVELY DEVELOP AN ECOLOGICALLY INFORMED CVI-SPECIFIC EVALUATION FRAMEWORKONE THAT OPERATIONALIZES AND EVALUATES HOW DYNAMICS WITHIN CVI PROGRAMS, AS WELL AS SYSTEM-LEVEL INTERRELATIONSHIPS AMONG THE CONTEXTS BOTH INTERNAL AND EXTERNAL TO THESE PROGRAMS, INFLUENCE PROGRAMMATIC UPTAKE, REACH, EQUITABLE IMPLEMENTATION, EFFECTIVENESS, AND SUSTAINED USE. SPECIFICALLY, THIS PROJECT WILL: (1) ADAPT THE INTEGRATED PRISM/RE-AIM FRAMEWORK FOR CVI PRACTITIONERS, EMPHASIZING DIRECT ENGAGEMENT OF COMMUNITY CAREHOLDER PRIORITIES AND PERSPECTIVES; (2) APPLY THIS ADAPTED CVI-SPECIFIC EVALUATION FRAMEWORK TO CONDUCT A MULTI-SITE PROCESS AND PRAGMATIC EVALUATION OF THREE OFFICE OF JUSTICE PROGRAMS COMMUNITY-BASED VIOLENCE INTERVENTION AND PREVENTION INITIATIVE PROGRAMS; AND (3) ADVANCE A HOLISTIC UNDERSTANDING OF THE IMPACTS OF CVI, AND THE FACTORS THAT DRIVE OR HINDER SUCCESS, THROUGH ITERATIVE PRACTITIONER-RESEARCHER REFINEMENT AND PUBLIC DISSEMINATION OF THE ADAPTED CVI-SPECIFIC EVALUATION FRAMEWORK. FINDINGS CAN BE APPLIED BROADLY TO FUTURE COMMUNITY-RESEARCH PARTNERSHIPS DESIGNED TO EMPOWER COMMUNITY CAREHOLDERS AND RESIDENTS TO EQUITABLY PARTICIPATE AND CO-PRODUCE EVIDENCE OF THE IMPLEMENTATION AND EFFECTIVENESS OF COMMUNITY-CENTERED STRATEGIES DESIGNED TO REDUCE VIOLENCE AND BUILD COMMUNITY HEALTH AND SAFETY.CA/NCF",
+    "total_obligation": 1642305,
+    "subaward_count": 1,
+    "total_subaward_amount": 92262,
+    "date_signed": "2024-09-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 100690.78,
+    "total_account_obligation": 1642305,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 100690.78
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1642305
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 263,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Justice",
+        "code": "015",
+        "abbreviation": "DOJ",
+        "slug": "department-of-justice"
+      },
+      "subtier_agency": {
+        "name": "Office of Justice Programs",
+        "code": "1550",
+        "abbreviation": "OJP"
+      },
+      "office_agency_name": "OJP NATIONAL INSTITUTE JUSTICE"
+    },
+    "awarding_agency": {
+      "id": 263,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Justice",
+        "code": "015",
+        "abbreviation": "DOJ",
+        "slug": "department-of-justice"
+      },
+      "subtier_agency": {
+        "name": "Office of Justice Programs",
+        "code": "1550",
+        "abbreviation": "OJP"
+      },
+      "office_agency_name": "OJP NATIONAL INSTITUTE JUSTICE"
+    },
+    "period_of_performance": {
+      "start_date": "2025-01-01",
+      "end_date": "2028-12-31",
+      "last_modified_date": "2024-11-07",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "095",
+        "county_name": "SOLANO",
+        "address_line1": "SPONSORED PROGRAMS",
+        "address_line2": "1 SHIELDS AVENUE, MRAK HALL 4TH FLOOR",
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "",
+        "zip5": "95616",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 100690.78
+  }
+}

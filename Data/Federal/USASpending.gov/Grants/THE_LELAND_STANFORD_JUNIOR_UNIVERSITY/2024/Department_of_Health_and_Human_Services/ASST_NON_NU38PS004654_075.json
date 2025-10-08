@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89979297,
+    "Award ID": "NU38PS004654",
+    "Recipient Name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+    "Award Amount": 1830400,
+    "Total Outlays": 479946.75,
+    "Description": "PREVENTION POLICY MODELING LAB - TO CONTINUE TO SERVE AS A KEY PARTNER TO THE NATIONAL CENTER FOR HIV/AIDS, VIRAL HEPATITIS, STD, AND TB PREVENTION (NCHHSTP), WE PROPOSE TO EXTEND THE WORK OF THE PREVENTION POLICY MODELING LAB, LED BY STANFORD UNIVERSITY IN ALLIANCE WITH BOSTON MEDICAL CENTER, BOSTON UNIVERSITY, BROWN UNIVERSITY, HARVARD UNIVERSITY, UNIVERSITY OF MICHIGAN, YALE UNIVERSITY, UNIVERSITY OF CALIFORNIA SAN DIEGO, UNIVERSITY OF CALIFORNIA SAN FRANCISCO, MASSACHUSETTS DEPARTMENT OF PUBLIC HEALTH, AND SANTA CLARA COUNTY PUBLIC HEALTH DEPARTMENT.  THE PREVENTION MODELING POLICY LAB ASSEMBLES A HIGHLY ACCOMPLISHED, MULTI-DISCIPLINARY TEAM WITH CLINICAL, EPIDEMIOLOGIC, MODELING, ECONOMIC, AND STATISTICAL EXPERTISE SPANNING THE FOUR NCHHSTP PRIORITY AREAS OF HIV, VIRAL HEPATITIS, STD, AND TB, AS WELL AS THE ADDITIONAL FOCAL AREA OF SYNDEMICS. THE MISSION OF THE PREVENTION POLICY MODELING LAB IS TO SUPPORT CDC EFFORTS TO IMPROVE PUBLIC HEALTH EFFECTIVENESS AT NATIONAL, STATE, AND LOCAL LEVELS, BY CONDUCTING COLLABORATIVE MODELING AND ANALYTICS THAT ARE HIGHLY SALIENT, FLEXIBLE, SWIFT, AND SCIENTIFICALLY RIGOROUS. THIS APPLICATION BUILDS ON OUR RECORD OF COLLABORATION AND ACCOMPLISHMENT IN THE PRIOR TWO NEEMA BYCLES, TO CONTINUE TO DEVELOP DISEASE MODELS AND ADVANCED DATA ANALYTICS THAT ENHANCE THE EVIDENCE BASE FOR PUBLIC HEALTH INTERVENTIONS AND PROGRAMS.  THE OUTCOMES OF THIS EFFORT WILL INCLUDE MATHEMATICAL MODELING AND ADVANCED DATA ANALYTICS TAILORED TO ADDRESS HIGH-PRIORITY PUBLIC HEALTH PROBLEMS; NEW TOOLS AND RESOURCES TO ENABLE TRANSLATION OF FINDINGS INTO PUBLIC HEALTH PRACTICE; AND A SERIES OF PEER-REVIEWED JOURNAL ARTICLES, REPORTS AND BRIEFS PRESENTING MODELS AND FINDINGS IN EACH PROGRAM AREA. OVER THE LONGER TERM WE EXPECT THAT THIS PROGRAM WILL CONTRIBUTE TO ENHANCING THE EVIDENCE BASE FOR FORMULATION OF PUBLIC HEALTH PRIORITIES AND POLICIES AT NATIONAL, STATE AND LOCAL LEVELS; AND INCREASING PROGRAM EFFECTIVENESS AND ALLOCATIVE EFFICIENCY, LEADING ULTIMATELY TO IMPROVED POPULATION HEALTH OUTCOMES AND REDUCED HEALTH DISPARITIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "HJD6G4D6TJY5",
+    "Recipient Location": {
+      "address_line1": "450 JANE STANFORD WAY",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "STANFORD",
+      "congressional_code": "16",
+      "country_name": "UNITED STATES",
+      "county_code": "085",
+      "county_name": "SANTA CLARA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2004",
+      "zip5": "94305"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "Centers for Disease Control and Prevention",
+    "Start Date": "2024-09-30",
+    "End Date": "2029-09-29",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0c13d643-4334-38ed-1952-0db7e2ac5e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_NU38PS004654_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89979297,
+    "generated_unique_award_id": "ASST_NON_NU38PS004654_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "PREVENTION POLICY MODELING LAB - TO CONTINUE TO SERVE AS A KEY PARTNER TO THE NATIONAL CENTER FOR HIV/AIDS, VIRAL HEPATITIS, STD, AND TB PREVENTION (NCHHSTP), WE PROPOSE TO EXTEND THE WORK OF THE PREVENTION POLICY MODELING LAB, LED BY STANFORD UNIVERSITY IN ALLIANCE WITH BOSTON MEDICAL CENTER, BOSTON UNIVERSITY, BROWN UNIVERSITY, HARVARD UNIVERSITY, UNIVERSITY OF MICHIGAN, YALE UNIVERSITY, UNIVERSITY OF CALIFORNIA SAN DIEGO, UNIVERSITY OF CALIFORNIA SAN FRANCISCO, MASSACHUSETTS DEPARTMENT OF PUBLIC HEALTH, AND SANTA CLARA COUNTY PUBLIC HEALTH DEPARTMENT.  THE PREVENTION MODELING POLICY LAB ASSEMBLES A HIGHLY ACCOMPLISHED, MULTI-DISCIPLINARY TEAM WITH CLINICAL, EPIDEMIOLOGIC, MODELING, ECONOMIC, AND STATISTICAL EXPERTISE SPANNING THE FOUR NCHHSTP PRIORITY AREAS OF HIV, VIRAL HEPATITIS, STD, AND TB, AS WELL AS THE ADDITIONAL FOCAL AREA OF SYNDEMICS. THE MISSION OF THE PREVENTION POLICY MODELING LAB IS TO SUPPORT CDC EFFORTS TO IMPROVE PUBLIC HEALTH EFFECTIVENESS AT NATIONAL, STATE, AND LOCAL LEVELS, BY CONDUCTING COLLABORATIVE MODELING AND ANALYTICS THAT ARE HIGHLY SALIENT, FLEXIBLE, SWIFT, AND SCIENTIFICALLY RIGOROUS. THIS APPLICATION BUILDS ON OUR RECORD OF COLLABORATION AND ACCOMPLISHMENT IN THE PRIOR TWO NEEMA BYCLES, TO CONTINUE TO DEVELOP DISEASE MODELS AND ADVANCED DATA ANALYTICS THAT ENHANCE THE EVIDENCE BASE FOR PUBLIC HEALTH INTERVENTIONS AND PROGRAMS.  THE OUTCOMES OF THIS EFFORT WILL INCLUDE MATHEMATICAL MODELING AND ADVANCED DATA ANALYTICS TAILORED TO ADDRESS HIGH-PRIORITY PUBLIC HEALTH PROBLEMS; NEW TOOLS AND RESOURCES TO ENABLE TRANSLATION OF FINDINGS INTO PUBLIC HEALTH PRACTICE; AND A SERIES OF PEER-REVIEWED JOURNAL ARTICLES, REPORTS AND BRIEFS PRESENTING MODELS AND FINDINGS IN EACH PROGRAM AREA. OVER THE LONGER TERM WE EXPECT THAT THIS PROGRAM WILL CONTRIBUTE TO ENHANCING THE EVIDENCE BASE FOR FORMULATION OF PUBLIC HEALTH PRIORITIES AND POLICIES AT NATIONAL, STATE AND LOCAL LEVELS; AND INCREASING PROGRAM EFFECTIVENESS AND ALLOCATIVE EFFICIENCY, LEADING ULTIMATELY TO IMPROVED POPULATION HEALTH OUTCOMES AND REDUCED HEALTH DISPARITIES.",
+    "total_obligation": 1830400,
+    "subaward_count": 3,
+    "total_subaward_amount": 222533,
+    "date_signed": "2024-08-02",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 479946.75,
+    "total_account_obligation": 915200,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 479946.75
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 915200
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 824,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Centers for Disease Control and Prevention",
+        "code": "7523",
+        "abbreviation": "CDC"
+      },
+      "office_agency_name": "CDC NATIONAL CENTER FOR HIV/AIDS, VIRAL HEPATITIS, STD, AND TUBERCULOSIS PREVENTION"
+    },
+    "awarding_agency": {
+      "id": 824,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Centers for Disease Control and Prevention",
+        "code": "7523",
+        "abbreviation": "CDC"
+      },
+      "office_agency_name": "CDC Office of Financial Resources"
+    },
+    "period_of_performance": {
+      "start_date": "2024-09-30",
+      "end_date": "2029-09-29",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0c13d643-4334-38ed-1952-0db7e2ac5e56-R",
+      "recipient_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+      "recipient_uei": "HJD6G4D6TJY5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "LELAND STANFORD JUNIOR UNIVERSITY",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "STANFORD",
+        "county_code": "085",
+        "county_name": "SANTA CLARA",
+        "address_line1": "450 JANE STANFORD WAY",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "16",
+        "zip4": "2004",
+        "zip5": "94305",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 479946.75
+  }
+}

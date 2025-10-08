@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91240385,
+    "Award ID": "R01NS135556",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 2446395,
+    "Total Outlays": 460147.49,
+    "Description": "MOLECULAR MARKERS OF CEREBROVASCULAR PATHOLOGIES IN ALZHEIMER'S DISEASE AND RELATED DEMENTIAS - SUMMARY PROJECT CLINICAL AND PRECLINICAL STUDIES HAVE DEMONSTRATED PERTURBATIONS TO THE CEREBROVASCULAR NETWORK IN ALZHEIMER’S DISEASE (AD) IN SEX-SPECIFIC MANNER. ALTERED BLOOD FLOW, CEREBROVASCULAR REACTIVITY, AND VESSEL TOPOLOGIES ARE ALL HALLMARKS OF PROGRESSING AD IN ANIMAL MODELS AND IN HUMAN SUBJECTS. BLOOD-BORNE PROTEIN BIOMARKERS HAVE REPORTED ALTERED PROFILES IN HUMANS AND MOUSE MODELS OF AD. AD RESEARCH HAS PREDOMINATELY FOCUSED ON NEURONAL, INFLAMMATORY AND GLIAL MARKERS OF DISEASE PROGRESSION. AT THE PRESENT TIME THERE ARE NO STUDIES THAT DIRECTLY RELATE AD-INDUCED CHANGES IN ANGIOARCHITECTURE TO BLOOD-BORNE PROTEIN BIOMARKERS OF ENDOTHELIAL STRESS AND VASCULAR DYSFUNCTION. SIMILARLY, THERE ARE NO STUDIES LINKING BLOOD BORNE PROTEIN BIOMARKERS TO VESSEL GENOMICS, SPECIFICALLY TARGETING ENDOTHELIAL CELL GENES. THIS IS A CRITICAL GAP WITH SIGNIFICANT CLINICAL VALUE BECAUSE SEVERAL STUDIES SUGGEST THAT VASCULAR ABNORMALITIES PRECEDE AD ONSET. THEREFORE, BLOOD-BORNE PROTEIN BIOMARKERS COULD BE USED TO PREDICT LIKELIHOOD OF VULNERABILITY TO AD, DISEASE ONSET AND PROGRESSION. THIS GAP IN KNOWLEDGE WILL BE ADDRESSED BY THIS PROPOSAL, WITH THE GOAL OF DESCRIBING THE TEMPORAL EVOLUTION AND RELATIONSHIPS BETWEEN DAMAGED VASCULAR NETWORKS AND BLOOD-BASED PROTEIN BIOMARKERS AND VASCULAR GENES. WE HAVE PREVIOUSLY REPORTED IN AD MOUSE MODELS THERE IS AN ALTERED VASCULAR DENSITY AND COMPLEXITY WITH INCREASING AGE. SEX DIFFERENCES HAVE ALSO BEEN POORLY STUDIED WITHIN THE CONTEXT OF VASCULAR BIOMARKERS, A GAP WE WILL ALSO DIRECTLY ADDRESS IN THIS PROPOSAL. FOUR INTERRELATED BUT NOT INTERDEPENDENT AIMS WILL ELUCIDATE THE RELATIONSHIP BETWEEN VESSEL GENOMICS, CEREBROVASCULAR STRUCTURE AND FUNCTION MODIFICATIONS AND BLOOD-BORNE PROTEIN BIOMARKERS OF ENDOTHELIAL AND VASCULAR FUNCTIONS. AIM 1 WILL EXAMINE IN FINE DETAIL THE TIMELINE OF VASCULAR FUNCTION STRUCTURAL CHANGES OVER THE LIFETIME (4, 12, \u003e18MO) IN 5XFAD MICE OF BOTH SEXES. KNOWN RISK VARIANTS WILL BE ADDED TO CLARIFY THE EFFECTS OF AMYLOID SS SEEDING. THE BLOOD-BASED BIOMARKERS WILL FOCUS ON PROTEINS OF ENDOTHELIAL STRESS, VASCULAR DAMAGE AND RECOVERY (VEGF, VWF, CLAUDIN-5, ETC), GLIAL (GFAP), INFLAMMATION (IL-1B, TNFA, HMGB1, IL6, MMP9) AND NEURONAL DAMAGE AND NEURODEGENERATION (NF-L, TAU AND ITS VARIOUS PHOSPHORYLATED FORMS AND ABETA40 AND 42). WE BELIEVE THAT A PANEL OF BLOOD-BORNE BIOMARKERS WILL ACCURATELY REFLECT THE UNDERLYING CEREBROVASCULAR ABNORMALITIES WITH INCREASING AGE. AIM 2 WILL UTILIZE THE 3XTG AD MOUSE THAT HAS EARLY AMYLOID SS FOLLOWED BY TAU DEPOSITION AND 3XTG MICE WITH THE ADDITION OF RISK VARIANTS. AIMS 1-3 WILL UTILIZE THE IDENTICAL METHODS BIOMARKERS, GENOMES AND STRUCTURE/FUNCTION ASSESSMENTS. AIM 4 WILL MODEL ALL THE FINDINGS TO IDENTIFY A UNIQUE BIOMARKER SET THAT HAS PREDICTIVE CAPABILITIES FOR AD ONSET. THE PROPOSED PROJECT WILL PROVIDE TECHNICAL AND CONCEPTUAL INNOVATIONS THROUGH USING A UNIQUE COMBINATORY APPROACH TO ESTABLISH DIRECT RELATIONSHIPS BETWEEN BLOOD-BORNE BIOMARKERS AND VASCULAR FUNCTION AND TOPOLOGY, AS WELL AS GENOMIC MARKERS FROM THE SAME ANIMALS OF BOTH SEXES USING PWI MRI, 2-PHOTON MICROSCOPY, VESSEL PAINTING, STATE-OF-THE-ART SPATIAL TRANSCRIPTOMICS AND SINGLE-NUCLEUS RNA-SEQ AND BLOOD-BORNE PROTEIN BIOMARKERS. SUCH INNOVATIVE BIOMARKERS WOULD ENABLE EARLY IDENTIFICATION OF PATIENTS WITH ELEVATED RISK FOR AD, PREDICTION OF AD ONSET AND SEVERITY, AND OBJECTIVE MONITORING TREATMENT EFFICACY, OUR LONG-TERM RESEARCH OBJECTIVES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-25",
+    "End Date": "2028-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS135556_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91240385,
+    "generated_unique_award_id": "ASST_NON_R01NS135556_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MOLECULAR MARKERS OF CEREBROVASCULAR PATHOLOGIES IN ALZHEIMER'S DISEASE AND RELATED DEMENTIAS - SUMMARY PROJECT CLINICAL AND PRECLINICAL STUDIES HAVE DEMONSTRATED PERTURBATIONS TO THE CEREBROVASCULAR NETWORK IN ALZHEIMER’S DISEASE (AD) IN SEX-SPECIFIC MANNER. ALTERED BLOOD FLOW, CEREBROVASCULAR REACTIVITY, AND VESSEL TOPOLOGIES ARE ALL HALLMARKS OF PROGRESSING AD IN ANIMAL MODELS AND IN HUMAN SUBJECTS. BLOOD-BORNE PROTEIN BIOMARKERS HAVE REPORTED ALTERED PROFILES IN HUMANS AND MOUSE MODELS OF AD. AD RESEARCH HAS PREDOMINATELY FOCUSED ON NEURONAL, INFLAMMATORY AND GLIAL MARKERS OF DISEASE PROGRESSION. AT THE PRESENT TIME THERE ARE NO STUDIES THAT DIRECTLY RELATE AD-INDUCED CHANGES IN ANGIOARCHITECTURE TO BLOOD-BORNE PROTEIN BIOMARKERS OF ENDOTHELIAL STRESS AND VASCULAR DYSFUNCTION. SIMILARLY, THERE ARE NO STUDIES LINKING BLOOD BORNE PROTEIN BIOMARKERS TO VESSEL GENOMICS, SPECIFICALLY TARGETING ENDOTHELIAL CELL GENES. THIS IS A CRITICAL GAP WITH SIGNIFICANT CLINICAL VALUE BECAUSE SEVERAL STUDIES SUGGEST THAT VASCULAR ABNORMALITIES PRECEDE AD ONSET. THEREFORE, BLOOD-BORNE PROTEIN BIOMARKERS COULD BE USED TO PREDICT LIKELIHOOD OF VULNERABILITY TO AD, DISEASE ONSET AND PROGRESSION. THIS GAP IN KNOWLEDGE WILL BE ADDRESSED BY THIS PROPOSAL, WITH THE GOAL OF DESCRIBING THE TEMPORAL EVOLUTION AND RELATIONSHIPS BETWEEN DAMAGED VASCULAR NETWORKS AND BLOOD-BASED PROTEIN BIOMARKERS AND VASCULAR GENES. WE HAVE PREVIOUSLY REPORTED IN AD MOUSE MODELS THERE IS AN ALTERED VASCULAR DENSITY AND COMPLEXITY WITH INCREASING AGE. SEX DIFFERENCES HAVE ALSO BEEN POORLY STUDIED WITHIN THE CONTEXT OF VASCULAR BIOMARKERS, A GAP WE WILL ALSO DIRECTLY ADDRESS IN THIS PROPOSAL. FOUR INTERRELATED BUT NOT INTERDEPENDENT AIMS WILL ELUCIDATE THE RELATIONSHIP BETWEEN VESSEL GENOMICS, CEREBROVASCULAR STRUCTURE AND FUNCTION MODIFICATIONS AND BLOOD-BORNE PROTEIN BIOMARKERS OF ENDOTHELIAL AND VASCULAR FUNCTIONS. AIM 1 WILL EXAMINE IN FINE DETAIL THE TIMELINE OF VASCULAR FUNCTION STRUCTURAL CHANGES OVER THE LIFETIME (4, 12, \u003e18MO) IN 5XFAD MICE OF BOTH SEXES. KNOWN RISK VARIANTS WILL BE ADDED TO CLARIFY THE EFFECTS OF AMYLOID SS SEEDING. THE BLOOD-BASED BIOMARKERS WILL FOCUS ON PROTEINS OF ENDOTHELIAL STRESS, VASCULAR DAMAGE AND RECOVERY (VEGF, VWF, CLAUDIN-5, ETC), GLIAL (GFAP), INFLAMMATION (IL-1B, TNFA, HMGB1, IL6, MMP9) AND NEURONAL DAMAGE AND NEURODEGENERATION (NF-L, TAU AND ITS VARIOUS PHOSPHORYLATED FORMS AND ABETA40 AND 42). WE BELIEVE THAT A PANEL OF BLOOD-BORNE BIOMARKERS WILL ACCURATELY REFLECT THE UNDERLYING CEREBROVASCULAR ABNORMALITIES WITH INCREASING AGE. AIM 2 WILL UTILIZE THE 3XTG AD MOUSE THAT HAS EARLY AMYLOID SS FOLLOWED BY TAU DEPOSITION AND 3XTG MICE WITH THE ADDITION OF RISK VARIANTS. AIMS 1-3 WILL UTILIZE THE IDENTICAL METHODS BIOMARKERS, GENOMES AND STRUCTURE/FUNCTION ASSESSMENTS. AIM 4 WILL MODEL ALL THE FINDINGS TO IDENTIFY A UNIQUE BIOMARKER SET THAT HAS PREDICTIVE CAPABILITIES FOR AD ONSET. THE PROPOSED PROJECT WILL PROVIDE TECHNICAL AND CONCEPTUAL INNOVATIONS THROUGH USING A UNIQUE COMBINATORY APPROACH TO ESTABLISH DIRECT RELATIONSHIPS BETWEEN BLOOD-BORNE BIOMARKERS AND VASCULAR FUNCTION AND TOPOLOGY, AS WELL AS GENOMIC MARKERS FROM THE SAME ANIMALS OF BOTH SEXES USING PWI MRI, 2-PHOTON MICROSCOPY, VESSEL PAINTING, STATE-OF-THE-ART SPATIAL TRANSCRIPTOMICS AND SINGLE-NUCLEUS RNA-SEQ AND BLOOD-BORNE PROTEIN BIOMARKERS. SUCH INNOVATIVE BIOMARKERS WOULD ENABLE EARLY IDENTIFICATION OF PATIENTS WITH ELEVATED RISK FOR AD, PREDICTION OF AD ONSET AND SEVERITY, AND OBJECTIVE MONITORING TREATMENT EFFICACY, OUR LONG-TERM RESEARCH OBJECTIVES.",
+    "total_obligation": 2446395,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-09-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 460147.49,
+    "total_account_obligation": 1872862,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 460147.49
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1872862
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-25",
+      "end_date": "2028-08-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 460147.49
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717494,
+    "Award ID": "S10OD030256",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+    "Award Amount": 2000000,
+    "Total Outlays": 2000000,
+    "Description": "HIGH FIELD MRI FOR OPTIMIZED TRANSLATIONAL 1H MULTIPARAMETRIC AND MULTINUCLEAR IMAGING RESEARCH - PROJECT SUMMARY/ABSTRACT THE PROPOSED REPLACEMENT OF A UNIQUE BUT AGING, COMMERCIALLY UNSUPPORTED, MOUSE ONLY VERTICAL BORE VARIAN 14T PRE-CLINICAL MRI TO A STATE-OF-THE-ART BRUKER 9.4T HORIZONTAL BORE MRI SCANNER LARGE ENOUGH FOR MICE AND RATS IS JUSTIFIED BY THE RESEARCH NEEDS OF 23 CURRENTLY FUNDED PROJECTS (21 NIH GRANTS) IN TRANSLATIONAL AND CLINICAL BIOMEDICAL RESEARCH AT UCSF AND INTERNATIONALLY THROUGH THE NIH P41 SUPPORTED HYPERPOLARIZED MRI TECHNOLOGY RESOURCE CENTER. THIS S10 HEI AWARD IS CRITICAL TO ENABLE THE REPLACEMENT OF AGING PRE-CLINCIAL MRI TO STATE-OF-THE-ART, BY ADDRESSING CURRENT LIMITATIONS FACING FUNDED AND NEW RESEARCH PROJECTS. THIS APPLICATION IS SUPPORTED BY STRONG INSTITUTIONAL SUPPORT COVERING ˜ 1/3 OF THE COST AND SITING OF THE 9.4T MRI SCANNER, AND A JUSTIFICATION OF NEED WHICH NOT ONLY INCLUDES STRONG RESEARCH SUPPORT BUT ALSO SUBSTANTIAL TRAINING, A WELL- ESTABLISHED ADMINISTRATIVE INFRASTRUCTURE THROUGH THE UCSF RESEARCH RESOURCE PROGRAM’S (RRP) PRE-CLINICAL IMAGING CORE, AND THE UCSF HYPERPOLARIZED MRI TECHNOLOGY RESOURCE CENTER (HMTRC). THE RRP CORE AND HMTRC PROVIDE THE HIGHLY EXPERIENCED TECHNICAL SUPPORT, TRAINING, EXPERT PERSONNEL, ANCILLARY EQUIPMENT AND INFRASTRUCTURE FOR DISSEMINATION OF RESULTS/TECHNIQUES TO MAKE THIS MAJOR HIGH-END INSTRUMENTATION PROJECT OPTIMALLY SUCCESSFUL IN ITS GOAL TO PROVIDE STATE-OF-THE-ART INSTRUMENTATION TO BOTH INTRA- AND EXTRAMURAL USERS. THE UCSF RRP PRE-CLINICAL IMAGING CORE, WHERE THE 9.4T MRI WILL BE SITED, PROVIDES ADVANCED PRE-CLINICAL IMAGING INSTRUMENTATION CONSISTING OF 4 SCANNERS, 2 DNP POLARIZERS, OTHER SUPPORTING SMALL EQUIPMENT, WET LAB FACILITIES, AS WELL AS EXPERT PERSONNEL FOR TRANSLATIONAL PRE-CLINICAL IMAGING RESEARCH FOR THE ENTIRE UCSF CAMPUS. SPECIFICALLY, THE PRE-CLINICAL IMAGING CORE SERVES A BROAD RESEARCH AND CLINICAL COMMUNITY (50+ PRINCIPAL INVESTIGATORS IN THE SCHOOLS OF MEDICINE AND PHARMACY) AND SUPPORTS A BROAD SPECTRUM OF BASIC AND CLINICAL RESEARCH (ONCOLOGY, DIABETES, CARDIAC DISEASE, BRAIN DISORDERS, LIVER DISEASE, INFECTIOUS DISEASES AND DRUG DISCOVERY). THE EQUIPMENT WILL BE USED FOR TRAINING A LARGE NUMBER OF STUDENTS AT UCSF EITHER AS PART OF FORMAL GRADUATE COURSES OR RESEARCH PROJECTS. FURTHERMORE, THIS INSTRUMENT WILL ALSO BE USED TO TRAIN INVESTIGATORS FROM AROUND THE WORLD THROUGH THE UCSF HYPERPOLARIZED MRI TECHNOLOGY RESOURCE CENTER AS WELL AS JUNIOR FACULTY SUPPORTED BY THE DEPARTMENT OF RADIOLOGY AND BIOMEDICAL IMAGING. THE NEW PRE-CLINICAL MRI WILL PROVIDE CRITICALLY-NEEDED, EXPANDED PRE-CLINICAL MR IMAGING CAPABILITIES BY PROVIDING THE ABILITY TO DO LARGER RODENT STUDIES, AND BY USING HARDWARE ENHANCEMENTS TO GO IN EXCITING NEW DIRECTIONS SUCH AS DEUTERIUM AND PHOSPHORUS SPECTROSCOPIC IMAGING STUDIES. IN SUMMARY, THIS EQUIPMENT REPLACEMENT S10 PROPOSAL IS CRITICAL TO REMOVE A MAJOR BOTTLENECK LIMITING PRE-CLINICAL MRI RESEARCH AND WILL ALSO BENEFIT THE TRAINING OF STUDENTS AT UCSF AND EXTERNAL INVESTIGATORS NATIONALLY AND INTERNATIONALLY THROUGH HANDS-ON WORKSHOPS, INDIVIDUAL VISITS, WEB-CONFERENCES, WEBSITE DISSEMINATION, AND COLLABORATIVE MULTI-SITE RESEARCH.",
+    "Contract Award Type": "",
+    "Recipient UEI": "KMH5K9V7S518",
+    "Recipient Location": {
+      "address_line1": "1855 FOLSOM ST STE 425",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4249",
+      "zip5": "94103"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94143",
+      "zip5": "94143"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-04-15",
+    "End Date": "2024-04-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD030256_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717494,
+    "generated_unique_award_id": "ASST_NON_S10OD030256_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "HIGH FIELD MRI FOR OPTIMIZED TRANSLATIONAL 1H MULTIPARAMETRIC AND MULTINUCLEAR IMAGING RESEARCH - PROJECT SUMMARY/ABSTRACT THE PROPOSED REPLACEMENT OF A UNIQUE BUT AGING, COMMERCIALLY UNSUPPORTED, MOUSE ONLY VERTICAL BORE VARIAN 14T PRE-CLINICAL MRI TO A STATE-OF-THE-ART BRUKER 9.4T HORIZONTAL BORE MRI SCANNER LARGE ENOUGH FOR MICE AND RATS IS JUSTIFIED BY THE RESEARCH NEEDS OF 23 CURRENTLY FUNDED PROJECTS (21 NIH GRANTS) IN TRANSLATIONAL AND CLINICAL BIOMEDICAL RESEARCH AT UCSF AND INTERNATIONALLY THROUGH THE NIH P41 SUPPORTED HYPERPOLARIZED MRI TECHNOLOGY RESOURCE CENTER. THIS S10 HEI AWARD IS CRITICAL TO ENABLE THE REPLACEMENT OF AGING PRE-CLINCIAL MRI TO STATE-OF-THE-ART, BY ADDRESSING CURRENT LIMITATIONS FACING FUNDED AND NEW RESEARCH PROJECTS. THIS APPLICATION IS SUPPORTED BY STRONG INSTITUTIONAL SUPPORT COVERING ˜ 1/3 OF THE COST AND SITING OF THE 9.4T MRI SCANNER, AND A JUSTIFICATION OF NEED WHICH NOT ONLY INCLUDES STRONG RESEARCH SUPPORT BUT ALSO SUBSTANTIAL TRAINING, A WELL- ESTABLISHED ADMINISTRATIVE INFRASTRUCTURE THROUGH THE UCSF RESEARCH RESOURCE PROGRAM’S (RRP) PRE-CLINICAL IMAGING CORE, AND THE UCSF HYPERPOLARIZED MRI TECHNOLOGY RESOURCE CENTER (HMTRC). THE RRP CORE AND HMTRC PROVIDE THE HIGHLY EXPERIENCED TECHNICAL SUPPORT, TRAINING, EXPERT PERSONNEL, ANCILLARY EQUIPMENT AND INFRASTRUCTURE FOR DISSEMINATION OF RESULTS/TECHNIQUES TO MAKE THIS MAJOR HIGH-END INSTRUMENTATION PROJECT OPTIMALLY SUCCESSFUL IN ITS GOAL TO PROVIDE STATE-OF-THE-ART INSTRUMENTATION TO BOTH INTRA- AND EXTRAMURAL USERS. THE UCSF RRP PRE-CLINICAL IMAGING CORE, WHERE THE 9.4T MRI WILL BE SITED, PROVIDES ADVANCED PRE-CLINICAL IMAGING INSTRUMENTATION CONSISTING OF 4 SCANNERS, 2 DNP POLARIZERS, OTHER SUPPORTING SMALL EQUIPMENT, WET LAB FACILITIES, AS WELL AS EXPERT PERSONNEL FOR TRANSLATIONAL PRE-CLINICAL IMAGING RESEARCH FOR THE ENTIRE UCSF CAMPUS. SPECIFICALLY, THE PRE-CLINICAL IMAGING CORE SERVES A BROAD RESEARCH AND CLINICAL COMMUNITY (50+ PRINCIPAL INVESTIGATORS IN THE SCHOOLS OF MEDICINE AND PHARMACY) AND SUPPORTS A BROAD SPECTRUM OF BASIC AND CLINICAL RESEARCH (ONCOLOGY, DIABETES, CARDIAC DISEASE, BRAIN DISORDERS, LIVER DISEASE, INFECTIOUS DISEASES AND DRUG DISCOVERY). THE EQUIPMENT WILL BE USED FOR TRAINING A LARGE NUMBER OF STUDENTS AT UCSF EITHER AS PART OF FORMAL GRADUATE COURSES OR RESEARCH PROJECTS. FURTHERMORE, THIS INSTRUMENT WILL ALSO BE USED TO TRAIN INVESTIGATORS FROM AROUND THE WORLD THROUGH THE UCSF HYPERPOLARIZED MRI TECHNOLOGY RESOURCE CENTER AS WELL AS JUNIOR FACULTY SUPPORTED BY THE DEPARTMENT OF RADIOLOGY AND BIOMEDICAL IMAGING. THE NEW PRE-CLINICAL MRI WILL PROVIDE CRITICALLY-NEEDED, EXPANDED PRE-CLINICAL MR IMAGING CAPABILITIES BY PROVIDING THE ABILITY TO DO LARGER RODENT STUDIES, AND BY USING HARDWARE ENHANCEMENTS TO GO IN EXCITING NEW DIRECTIONS SUCH AS DEUTERIUM AND PHOSPHORUS SPECTROSCOPIC IMAGING STUDIES. IN SUMMARY, THIS EQUIPMENT REPLACEMENT S10 PROPOSAL IS CRITICAL TO REMOVE A MAJOR BOTTLENECK LIMITING PRE-CLINICAL MRI RESEARCH AND WILL ALSO BENEFIT THE TRAINING OF STUDENTS AT UCSF AND EXTERNAL INVESTIGATORS NATIONALLY AND INTERNATIONALLY THROUGH HANDS-ON WORKSHOPS, INDIVIDUAL VISITS, WEB-CONFERENCES, WEBSITE DISSEMINATION, AND COLLABORATIVE MULTI-SITE RESEARCH.",
+    "total_obligation": 2000000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-04-09",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2000000,
+    "total_account_obligation": 2000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2000000
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2021-04-15",
+      "end_date": "2024-04-14",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "recipient_uei": "KMH5K9V7S518",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "parent_recipient_uei": "KMH5K9V7S518",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN FRANCISCO",
+        "county_code": "075",
+        "county_name": "SAN FRANCISCO",
+        "address_line1": "1855 FOLSOM ST STE 425",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "11",
+        "zip4": "4249",
+        "zip5": "94103",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN FRANCISCO",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "11",
+      "zip4": "",
+      "zip5": "94143",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2000000
+  }
+}

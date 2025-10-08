@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91372639,
+    "Award ID": "RF1NS131379",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1650534,
+    "Total Outlays": 1026458.41,
+    "Description": "ALPHA-SYNUCLEIN ABERRANTLY MODIFIES THE NANOSCALE DISTRIBUTION AND FUNCTION OF ION CHANNELS TO PROMOTE NEURONAL CYTOTOXICITY - PROJECT SUMMARY ALPHA-SYNUCLEIN (A-SYN) IS A NEURONAL PROTEIN ENCODED BY THE SNCA GENE. GENETICALLY, MUTATIONS IN THE SNCA GENE LEAD TO ENHANCED EXPRESSION AND AGGREGATION OF A-SYNUCLEIN AND CAUSE INHERITED FORMS OF PARKINSON’S DISEASE (PD). IN IDIOPATHIC PD, AS WELL AS ALZHEIMER’S DISEASE AND RELATED DEMENTIAS (ADRD), A-SYN AGGREGATION LEADS TO THE FORMATION OF TOXIC A-SYN FIBRILS THAT CONSTITUTE THE BUILDING BLOCKS OF LEWY BODIES, THE DEVIANT PROTEIN DEPOSITS THAT ACCUMULATE AND ARE ASSOCIATED WITH NEURONAL CELL DEATH. THUS, A-SYN IS CONSIDERED A KEY PATHOLOGICAL HALLMARK OF PD. DUE TO OUR EVER-EXTENDING LIFE EXPECTANCY, THE PREVALENCE OF PD IS ESTIMATED TO DOUBLE BY 2030. AGE IS THE STRONGEST RISK FACTOR FOR ITS DEVELOPMENT, AND CURRENTLY THERE IS NO CURE AND NO THERAPEUTIC KNOWN TO MODIFY DISEASE PROGRESSION. DESPITE CLEAR NEUROPATHOLOGICAL CONSEQUENCES FOR A-SYN ACCUMULATION IN PD AND ADRD THERE IS A LACK OF MECHANISTIC INTRACELLULAR INFORMATION REGARDING THE MOLECULAR PATHWAYS PERTURBED BY A-SYN THAT LEAD TO CELL DEATH. THE GOAL OF THIS APPLICATION IS TO EXPLORE THIS CRITICAL GAP IN KNOWLEDGE BY EXAMINING WHETHER A-SYN ALTERS THE MOLECULAR COMPOSITION OF MEMBRANE CONTACT SITES. OUR CENTRAL HYPOTHESIS IS THAT A-SYN ABERRANTLY REMODELS PLASMA MEMBRANE ION CHANNELS AND LIPIDS TO ALTER ENDOPLASMIC RETICULUM – MITOCHONDRIAL CA2+ NANODOMAINS LEADING TO NEUROTOXICITY. OUR DATA SUPPORTS THE CONCEPT THAT PD IS A NANOSTRUCTURAL DISEASE. TO TEST THIS HYPOTHESIS, WE IMPLEMENT AN INNOVATIVE MULTI-SCALE (INCLUDING LIPIDOMICS, SUPER-RES IMAGING, GENETICS, AND PATCH-CLAMP ELECTROPHYSIOLOGY) APPROACH TO VERTICALLY INTEGRATE SIGNALING CASCADES FROM THE LEVEL OF SINGLE LIPIDS TO NEURONAL NETWORKS, WITH THE GOAL OF PROVIDING FUNDAMENTAL KNOWLEDGE THAT WILL AID IN THE DEVELOPMENT OF NOVEL STRATEGIES THAT SLOW OR REDUCE NEUROTOXIC A-SYN-MEDIATED CELL DEATH. SPECIFIC AIM 1 TESTS THE HYPOTHESIS THAT A-SYN REMODELS VOLTAGE-GATED POTASSIUM AND CA2+ NANOCOMPLEXES TO ALTER THE BIOPHYSICAL AND SPATIAL PROPERTIES OF VOLTAGE-GATED CA2+ CHANNELS, LEADING TO ENHANCED CA2+ INFLUX INTO NEURONS. SPECIFIC AIM 2 TESTS THE HYPOTHESIS THAT, A-SYN REMODELS PHOSPHOINOSITIDE METABOLIZING ENZYMES TO INCREASE CA2+ CHANNEL ACTIVITY. SPECIFIC AIM 3 TESTS THE HYPOTHESIS THAT A-SYN ABERRANTLY MODIFIES ER AND MITOCHONDRIAL C A2+ SIGNALING NANODOMAINS LEADING TO CYTOTOXICITY. THE PROPOSED STUDIES HAVE SPECIFIC RELEVANCE TO THE FIELDS OF NEUROSCIENCE, CELL BIOLOGY AND BIOPHYSICS, BUT THE FUNDAMENTAL IMPORTANCE OF VOLTAGE-GATED K+ AND CA2+ CHANNELS, AS WELL AS PHOSPHOINOSITIDES MEAN IT WILL HAVE BROAD IMPLICATIONS FOR MEDICINE. FINDINGS FROM THIS INVESTIGATION WILL UNVEIL CRUCIAL PHYSIOLOGICAL ROLES FOR A-SYN IN ORGANIZING THE NANOSCALE DISTRIBUTION OF ION CHANNELS IN HEALTH, AS WELL AS REVEALING NOVEL SIGNALING HUBS THAT CAN BE TARGETED FOR THE DEVELOPMENT OF THERAPEUTIC STRATEGIES FOR PD, ADRD, AND SYNUCLEINOPATHIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-04-01",
+    "End Date": "2028-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_RF1NS131379_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91372639,
+    "generated_unique_award_id": "ASST_NON_RF1NS131379_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ALPHA-SYNUCLEIN ABERRANTLY MODIFIES THE NANOSCALE DISTRIBUTION AND FUNCTION OF ION CHANNELS TO PROMOTE NEURONAL CYTOTOXICITY - PROJECT SUMMARY ALPHA-SYNUCLEIN (A-SYN) IS A NEURONAL PROTEIN ENCODED BY THE SNCA GENE. GENETICALLY, MUTATIONS IN THE SNCA GENE LEAD TO ENHANCED EXPRESSION AND AGGREGATION OF A-SYNUCLEIN AND CAUSE INHERITED FORMS OF PARKINSON’S DISEASE (PD). IN IDIOPATHIC PD, AS WELL AS ALZHEIMER’S DISEASE AND RELATED DEMENTIAS (ADRD), A-SYN AGGREGATION LEADS TO THE FORMATION OF TOXIC A-SYN FIBRILS THAT CONSTITUTE THE BUILDING BLOCKS OF LEWY BODIES, THE DEVIANT PROTEIN DEPOSITS THAT ACCUMULATE AND ARE ASSOCIATED WITH NEURONAL CELL DEATH. THUS, A-SYN IS CONSIDERED A KEY PATHOLOGICAL HALLMARK OF PD. DUE TO OUR EVER-EXTENDING LIFE EXPECTANCY, THE PREVALENCE OF PD IS ESTIMATED TO DOUBLE BY 2030. AGE IS THE STRONGEST RISK FACTOR FOR ITS DEVELOPMENT, AND CURRENTLY THERE IS NO CURE AND NO THERAPEUTIC KNOWN TO MODIFY DISEASE PROGRESSION. DESPITE CLEAR NEUROPATHOLOGICAL CONSEQUENCES FOR A-SYN ACCUMULATION IN PD AND ADRD THERE IS A LACK OF MECHANISTIC INTRACELLULAR INFORMATION REGARDING THE MOLECULAR PATHWAYS PERTURBED BY A-SYN THAT LEAD TO CELL DEATH. THE GOAL OF THIS APPLICATION IS TO EXPLORE THIS CRITICAL GAP IN KNOWLEDGE BY EXAMINING WHETHER A-SYN ALTERS THE MOLECULAR COMPOSITION OF MEMBRANE CONTACT SITES. OUR CENTRAL HYPOTHESIS IS THAT A-SYN ABERRANTLY REMODELS PLASMA MEMBRANE ION CHANNELS AND LIPIDS TO ALTER ENDOPLASMIC RETICULUM – MITOCHONDRIAL CA2+ NANODOMAINS LEADING TO NEUROTOXICITY. OUR DATA SUPPORTS THE CONCEPT THAT PD IS A NANOSTRUCTURAL DISEASE. TO TEST THIS HYPOTHESIS, WE IMPLEMENT AN INNOVATIVE MULTI-SCALE (INCLUDING LIPIDOMICS, SUPER-RES IMAGING, GENETICS, AND PATCH-CLAMP ELECTROPHYSIOLOGY) APPROACH TO VERTICALLY INTEGRATE SIGNALING CASCADES FROM THE LEVEL OF SINGLE LIPIDS TO NEURONAL NETWORKS, WITH THE GOAL OF PROVIDING FUNDAMENTAL KNOWLEDGE THAT WILL AID IN THE DEVELOPMENT OF NOVEL STRATEGIES THAT SLOW OR REDUCE NEUROTOXIC A-SYN-MEDIATED CELL DEATH. SPECIFIC AIM 1 TESTS THE HYPOTHESIS THAT A-SYN REMODELS VOLTAGE-GATED POTASSIUM AND CA2+ NANOCOMPLEXES TO ALTER THE BIOPHYSICAL AND SPATIAL PROPERTIES OF VOLTAGE-GATED CA2+ CHANNELS, LEADING TO ENHANCED CA2+ INFLUX INTO NEURONS. SPECIFIC AIM 2 TESTS THE HYPOTHESIS THAT, A-SYN REMODELS PHOSPHOINOSITIDE METABOLIZING ENZYMES TO INCREASE CA2+ CHANNEL ACTIVITY. SPECIFIC AIM 3 TESTS THE HYPOTHESIS THAT A-SYN ABERRANTLY MODIFIES ER AND MITOCHONDRIAL C A2+ SIGNALING NANODOMAINS LEADING TO CYTOTOXICITY. THE PROPOSED STUDIES HAVE SPECIFIC RELEVANCE TO THE FIELDS OF NEUROSCIENCE, CELL BIOLOGY AND BIOPHYSICS, BUT THE FUNDAMENTAL IMPORTANCE OF VOLTAGE-GATED K+ AND CA2+ CHANNELS, AS WELL AS PHOSPHOINOSITIDES MEAN IT WILL HAVE BROAD IMPLICATIONS FOR MEDICINE. FINDINGS FROM THIS INVESTIGATION WILL UNVEIL CRUCIAL PHYSIOLOGICAL ROLES FOR A-SYN IN ORGANIZING THE NANOSCALE DISTRIBUTION OF ION CHANNELS IN HEALTH, AS WELL AS REVEALING NOVEL SIGNALING HUBS THAT CAN BE TARGETED FOR THE DEVELOPMENT OF THERAPEUTIC STRATEGIES FOR PD, ADRD, AND SYNUCLEINOPATHIES.",
+    "total_obligation": 1650534,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-03-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1026458.41,
+    "total_account_obligation": 1650534,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1026458.41
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1650534
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2023-04-01",
+      "end_date": "2028-03-31",
+      "last_modified_date": "2023-10-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1026458.41
+  }
+}

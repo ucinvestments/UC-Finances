@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91204661,
+    "Award ID": "R01HD112991",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2013187,
+    "Total Outlays": 1290569.39,
+    "Description": "PLACENTAL IDENTIFIED NHIP REGULATING NEURONAL OXIDATIVE STRESS IN AUTISM - THE HUMAN FETAL BRAIN CONSUMES UP TO 60% OF THE BODY’S OXYGEN AND ENERGY CONSUMPTION, DESPITE MAKING UP ~13% OF BODY MASS. WHEN THE DEMAND FOR OXYGEN IN THE PLACENTA AND DEVELOPING BRAIN EXCEEDS ITS SUPPLY, HYPOXIA IS INDUCED, FOLLOWED BY CHANGES TO MITOCHONDRIAL RESPIRATION, PROTEIN TRANSLATION, AND OXIDATIVE STRESS. OXIDATIVE STRESS AND EPIGENETIC MECHANISMS WITHIN THE PLACENTAL-BRAIN AXIS ACT AT THE INTERFACE OF GENETIC AND ENVIRONMENTAL RISK FACTORS IN AUTISM SPECTRUM DISORDERS. USING PLACENTAL SAMPLES FROM A PROSPECTIVE HIGH-RISK COHORT, WE RECENTLY IDENTIFIED AND NAMED A NOVEL GENE NHIP (NEURONAL HYPOXIA INDUCIBLE, PLACENTA ASSOCIATED) AND DEMONSTRATED ITS EPIGENETIC, GENETIC, AND TRANSCRIPTIONAL ASSOCIATION WITH AUTISM. NHIP IS TRANSIENTLY EXPRESSED IN RESPONSE TO HYPOXIA AND NEURONAL DIFFERENTIATION, TWO EXAMPLES OF ELEVATED OXIDATIVE STRESS. NHIP ENCODES A PREVIOUSLY UNDISCOVERED MICROPEPTIDE THAT LOCALIZES TO THE NUCLEUS AND IS PREDICTED TO BE NEUROPROTECTIVE, BASED ON THE LOWER EXPRESSION OF NHIP IN PLACENTA AND BRAIN SAMPLES FROM AUTISM COMPARED TO CONTROL. THE PREDICTED STRUCTURE OF THE NHIP PEPTIDE IS AN AMPHIPATHIC HELIX THAT HAS SIMILARITY TO A 9AATAD MOTIF FOUND IN TRANSCRIPTIONAL ACTIVATION DOMAINS OF MANY DNA BINDING PROTEINS. WE PROPOSE TO TEST THE HYPOTHESIS THAT NHIP ACTS AS A COMPETITIVE INHIBITOR OF MULTI-PROTEIN COMPLEXES, THEREBY PROTECTING DEVELOPING AND DIFFERENTIATING NEURONS FOLLOWING TRANSIENT WAVES OF HYPOXIA. BECAUSE NHIP IS AN “UNDISCOVERED PROTEIN” WHOSE FUNCTION HAD NOT BEEN DESCRIBED BEFORE OUR RECENT STUDY, THIS PROPOSAL WILL FOCUS ON THE MAJOR RESEARCH QUESTIONS THAT ARE CRITICAL FOR DETERMINING THE THERAPEUTIC RELEVANCE OF NHIP. SPECIFICALLY, WHAT IS THE FUNCTION OF NHIP IN NEURONS AND BRAIN, HOW IS IT REGULATED IN RESPONSE TO HYPOXIA, AND IS IT PROTECTIVE OF NEURONAL OXIDATIVE STRESS? WE PROPOSE THREE SPECIFIC AIMS USING WELL-CHARACTERIZED IN VITRO AND IN VIVO MODELS, INCLUDING AN INDUCIBLE HUMAN NEURONAL CELL LINE (LUHMES) ENGINEERED FOR NHIP TRANSCRIPT OR PEPTIDE LOSS, HUMAN BRAIN EXTRACTS WITH KNOWN NHIP GENOTYPE AND EXPRESSION LEVELS, AND MOUSE BRAIN FOLLOWING NHIP PEPTIDE ADMINISTRATION AND/OR HYPOXIA. AIM 1 WILL DETERMINE THE MOLECULAR MECHANISMS OF NHIP FUNCTION AND EXAMINE BOTH PROTEIN-SPECIFIC AND GLOBAL CELLULAR IMPACTS OF NHIP LOSS. AIM 2 WILL DETERMINE HOW NHIP IS TRANSCRIPTIONALLY RESPONSIVE TO HYPOXIA-INDUCED OXIDATIVE STRESS BY IDENTIFYING THE TRANSCRIPTION FACTORS AND THEIR GENETIC AND EPIGENETIC REQUIREMENTS FOR BINDING TO THE NHIP PROMOTER AND ENHANCER. AIM 3 WILL DETERMINE IF EXOGENOUSLY DELIVERED NHIP/NHIP PROTECTS NEURONS AND EMBRYONIC NEURAL PRECURSOR CELLS FROM HYPOXIA-INDUCED OXIDATIVE STRESS. TOGETHER, THE RESULTS FROM THESE PROPOSED STUDIES WILL PROVIDE THE FIRST FUNCTIONAL CHARACTERIZATION OF NHIP, AN UNDERSTUDIED MICROPEPTIDE THAT IS ASSOCIATED WITH RESILIENCE TO AUTISM SPECTRUM DISORDERS. THE POTENTIAL IMPACT OF THESE RESULTS WILL BE A POTENTIAL THERAPEUTIC SMALL MOLECULE THAT COULD BE USED IN EARLY INTERVENTION THERAPY FOR AUTISM AND OTHER NEURODEVELOPMENTAL OR HYPOXIA-RELATED DISORDERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-08-15",
+    "End Date": "2028-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HD112991_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91204661,
+    "generated_unique_award_id": "ASST_NON_R01HD112991_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PLACENTAL IDENTIFIED NHIP REGULATING NEURONAL OXIDATIVE STRESS IN AUTISM - THE HUMAN FETAL BRAIN CONSUMES UP TO 60% OF THE BODY’S OXYGEN AND ENERGY CONSUMPTION, DESPITE MAKING UP ~13% OF BODY MASS. WHEN THE DEMAND FOR OXYGEN IN THE PLACENTA AND DEVELOPING BRAIN EXCEEDS ITS SUPPLY, HYPOXIA IS INDUCED, FOLLOWED BY CHANGES TO MITOCHONDRIAL RESPIRATION, PROTEIN TRANSLATION, AND OXIDATIVE STRESS. OXIDATIVE STRESS AND EPIGENETIC MECHANISMS WITHIN THE PLACENTAL-BRAIN AXIS ACT AT THE INTERFACE OF GENETIC AND ENVIRONMENTAL RISK FACTORS IN AUTISM SPECTRUM DISORDERS. USING PLACENTAL SAMPLES FROM A PROSPECTIVE HIGH-RISK COHORT, WE RECENTLY IDENTIFIED AND NAMED A NOVEL GENE NHIP (NEURONAL HYPOXIA INDUCIBLE, PLACENTA ASSOCIATED) AND DEMONSTRATED ITS EPIGENETIC, GENETIC, AND TRANSCRIPTIONAL ASSOCIATION WITH AUTISM. NHIP IS TRANSIENTLY EXPRESSED IN RESPONSE TO HYPOXIA AND NEURONAL DIFFERENTIATION, TWO EXAMPLES OF ELEVATED OXIDATIVE STRESS. NHIP ENCODES A PREVIOUSLY UNDISCOVERED MICROPEPTIDE THAT LOCALIZES TO THE NUCLEUS AND IS PREDICTED TO BE NEUROPROTECTIVE, BASED ON THE LOWER EXPRESSION OF NHIP IN PLACENTA AND BRAIN SAMPLES FROM AUTISM COMPARED TO CONTROL. THE PREDICTED STRUCTURE OF THE NHIP PEPTIDE IS AN AMPHIPATHIC HELIX THAT HAS SIMILARITY TO A 9AATAD MOTIF FOUND IN TRANSCRIPTIONAL ACTIVATION DOMAINS OF MANY DNA BINDING PROTEINS. WE PROPOSE TO TEST THE HYPOTHESIS THAT NHIP ACTS AS A COMPETITIVE INHIBITOR OF MULTI-PROTEIN COMPLEXES, THEREBY PROTECTING DEVELOPING AND DIFFERENTIATING NEURONS FOLLOWING TRANSIENT WAVES OF HYPOXIA. BECAUSE NHIP IS AN “UNDISCOVERED PROTEIN” WHOSE FUNCTION HAD NOT BEEN DESCRIBED BEFORE OUR RECENT STUDY, THIS PROPOSAL WILL FOCUS ON THE MAJOR RESEARCH QUESTIONS THAT ARE CRITICAL FOR DETERMINING THE THERAPEUTIC RELEVANCE OF NHIP. SPECIFICALLY, WHAT IS THE FUNCTION OF NHIP IN NEURONS AND BRAIN, HOW IS IT REGULATED IN RESPONSE TO HYPOXIA, AND IS IT PROTECTIVE OF NEURONAL OXIDATIVE STRESS? WE PROPOSE THREE SPECIFIC AIMS USING WELL-CHARACTERIZED IN VITRO AND IN VIVO MODELS, INCLUDING AN INDUCIBLE HUMAN NEURONAL CELL LINE (LUHMES) ENGINEERED FOR NHIP TRANSCRIPT OR PEPTIDE LOSS, HUMAN BRAIN EXTRACTS WITH KNOWN NHIP GENOTYPE AND EXPRESSION LEVELS, AND MOUSE BRAIN FOLLOWING NHIP PEPTIDE ADMINISTRATION AND/OR HYPOXIA. AIM 1 WILL DETERMINE THE MOLECULAR MECHANISMS OF NHIP FUNCTION AND EXAMINE BOTH PROTEIN-SPECIFIC AND GLOBAL CELLULAR IMPACTS OF NHIP LOSS. AIM 2 WILL DETERMINE HOW NHIP IS TRANSCRIPTIONALLY RESPONSIVE TO HYPOXIA-INDUCED OXIDATIVE STRESS BY IDENTIFYING THE TRANSCRIPTION FACTORS AND THEIR GENETIC AND EPIGENETIC REQUIREMENTS FOR BINDING TO THE NHIP PROMOTER AND ENHANCER. AIM 3 WILL DETERMINE IF EXOGENOUSLY DELIVERED NHIP/NHIP PROTECTS NEURONS AND EMBRYONIC NEURAL PRECURSOR CELLS FROM HYPOXIA-INDUCED OXIDATIVE STRESS. TOGETHER, THE RESULTS FROM THESE PROPOSED STUDIES WILL PROVIDE THE FIRST FUNCTIONAL CHARACTERIZATION OF NHIP, AN UNDERSTUDIED MICROPEPTIDE THAT IS ASSOCIATED WITH RESILIENCE TO AUTISM SPECTRUM DISORDERS. THE POTENTIAL IMPACT OF THESE RESULTS WILL BE A POTENTIAL THERAPEUTIC SMALL MOLECULE THAT COULD BE USED IN EARLY INTERVENTION THERAPY FOR AUTISM AND OTHER NEURODEVELOPMENTAL OR HYPOXIA-RELATED DISORDERS.",
+    "total_obligation": 2013187,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-08-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1290569.39,
+    "total_account_obligation": 2013187,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1290569.39
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2013187
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2023-08-15",
+      "end_date": "2028-05-31",
+      "last_modified_date": "2025-05-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1290569.39
+  }
+}

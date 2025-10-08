@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173175026,
+    "Award ID": "20256801544782",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 994586,
+    "Total Outlays": null,
+    "Description": "THIS PROJECT STUDIESHOW EFFECTIVE THE NEWRULES AND TECHNOLOGIES ARE IN REDUCING THE SPREAD OF ANTIBIOTIC-RESISTANT BACTERIA ON DAIRY FARMS, AND HOW THIS CAN LOWER HEALTH RISKS TO PEOPLE, ESPECIALLY THROUGH FOOD. THE PROJECT WILL FOCUS ON FOUR MAIN GOALS:ASSESSING THE IMPACT OF REGULATIONS: HOW WELL DO RULES TO LIMIT ANTIBIOTIC USE IN ANIMALS WORK TO REDUCE RESISTANCE?EVALUATING MANURE TREATMENTS: HOW WELL DO NEW METHODS FOR TREATING ANIMAL WASTE HELP REMOVE ANTIBIOTIC-RESISTANT BACTERIA?UNDERSTANDING HEALTH RISKS: HOW DO FOOD AND MANURE MANAGEMENT PRACTICES AFFECT THE SPREAD OF ANTIBIOTIC-RESISTANT BACTERIA AND HEALTH RISKS?EDUCATION AND OUTREACH: HELPING FARMERS AND THE PUBLIC UNDERSTAND THESE ISSUES BETTER.THE PROJECT WILL FIRST LOOK AT DATA COLLECTED FROM U.S. DAIRY FARMS OVER THE PAST 10 YEARS TO SEE HOW ANTIBIOTIC RESISTANCE CHANGED AFTER RULES WERE PUT IN PLACE TO LIMIT ANTIBIOTIC USE IN ANIMALS. THE TEAM WILL ALSO COLLECT NEW SAMPLES FROM FARMS IN CALIFORNIA AND IOWA TO CONTINUE STUDYING THESE TRENDS. THEY WILL USE BOTH LAB-BASED AND ADVANCED DNA SEQUENCING METHODS TO CHECK FOR ANTIBIOTIC-RESISTANT E. COLI, A HARMFUL BACTERIA.THE PROJECT WILL ALSO TEST NEW TECHNOLOGIES FOR TREATING MANURE ON EIGHT DIFFERENT DAIRIES TO SEE HOW EFFECTIVE THEY ARE AT REMOVING RESISTANT BACTERIA. FINALLY, THE RESEARCHERS WILL USE A MODEL TO ESTIMATE HOW THESE BACTERIA COULD AFFECT BOTH FARMERS AND CONSUMERS.THE ULTIMATE GOAL IS TO IMPROVE HOW ANTIBIOTICS ARE USED ON FARMS AND HELP REDUCE THE SPREAD OF ANTIBIOTIC RESISTANCE, CONTRIBUTING TO THE GLOBAL FIGHT AGAINST THIS GROWING HEALTH THREAT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92697-0001",
+      "zip5": "92697"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2025-07-15",
+    "End Date": "2030-07-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20256801544782_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173175026,
+    "generated_unique_award_id": "ASST_NON_20256801544782_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THIS PROJECT STUDIESHOW EFFECTIVE THE NEWRULES AND TECHNOLOGIES ARE IN REDUCING THE SPREAD OF ANTIBIOTIC-RESISTANT BACTERIA ON DAIRY FARMS, AND HOW THIS CAN LOWER HEALTH RISKS TO PEOPLE, ESPECIALLY THROUGH FOOD. THE PROJECT WILL FOCUS ON FOUR MAIN GOALS:ASSESSING THE IMPACT OF REGULATIONS: HOW WELL DO RULES TO LIMIT ANTIBIOTIC USE IN ANIMALS WORK TO REDUCE RESISTANCE?EVALUATING MANURE TREATMENTS: HOW WELL DO NEW METHODS FOR TREATING ANIMAL WASTE HELP REMOVE ANTIBIOTIC-RESISTANT BACTERIA?UNDERSTANDING HEALTH RISKS: HOW DO FOOD AND MANURE MANAGEMENT PRACTICES AFFECT THE SPREAD OF ANTIBIOTIC-RESISTANT BACTERIA AND HEALTH RISKS?EDUCATION AND OUTREACH: HELPING FARMERS AND THE PUBLIC UNDERSTAND THESE ISSUES BETTER.THE PROJECT WILL FIRST LOOK AT DATA COLLECTED FROM U.S. DAIRY FARMS OVER THE PAST 10 YEARS TO SEE HOW ANTIBIOTIC RESISTANCE CHANGED AFTER RULES WERE PUT IN PLACE TO LIMIT ANTIBIOTIC USE IN ANIMALS. THE TEAM WILL ALSO COLLECT NEW SAMPLES FROM FARMS IN CALIFORNIA AND IOWA TO CONTINUE STUDYING THESE TRENDS. THEY WILL USE BOTH LAB-BASED AND ADVANCED DNA SEQUENCING METHODS TO CHECK FOR ANTIBIOTIC-RESISTANT E. COLI, A HARMFUL BACTERIA.THE PROJECT WILL ALSO TEST NEW TECHNOLOGIES FOR TREATING MANURE ON EIGHT DIFFERENT DAIRIES TO SEE HOW EFFECTIVE THEY ARE AT REMOVING RESISTANT BACTERIA. FINALLY, THE RESEARCHERS WILL USE A MODEL TO ESTIMATE HOW THESE BACTERIA COULD AFFECT BOTH FARMERS AND CONSUMERS.THE ULTIMATE GOAL IS TO IMPROVE HOW ANTIBIOTICS ARE USED ON FARMS AND HELP REDUCE THE SPREAD OF ANTIBIOTIC RESISTANCE, CONTRIBUTING TO THE GLOBAL FIGHT AGAINST THIS GROWING HEALTH THREAT.",
+    "total_obligation": 994586,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-03",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 994586,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 994586
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2025-07-15",
+      "end_date": "2030-07-14",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "0001",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

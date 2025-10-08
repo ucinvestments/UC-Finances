@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91314359,
+    "Award ID": "R24AP00239",
+    "Recipient Name": "EL DORADO COUNTY WATER AGENCY",
+    "Award Amount": 875000,
+    "Total Outlays": 61535.67,
+    "Description": "AMERICAN RIVER BASIN HYDROLOGIC OBSERVATORY (ARHO) WIRELESS SENSOR NETWORK (WSN) PROJECT WILL IMPROVE FORECAST RELIABILITY, TIMELINESS, AND ACCURACY OF SNOWPACK CONDITIONS AND SUBSEQUENT RUNOFF IN THE UPPER PORTIONS OF THE AMERICAN RIVER BASIN (ARB). IT WILL CREATE A PERMANENT WSN TO PROVIDE ACCURATE, RELIABLE, SPATIALLY REPRESENTATIVE, AND DOWNLOADABLE CONTINUOUS DATA NEEDED FOR WATER SUPPLY AND FLOOD FORECASTS TO HELP THE REGION AND STATE AND FEDERAL AGENCIES BETTER PREPARE FOR DROUGHTS AND FLOODS. EL DORADO WATER AGENCY (WATER AGENCY) HAS PARTNERED WITH UNIVERSITY OF CALIFORNIA MERCED (UC MERCED), UC DAVIS, UC AGRICULTURAL AND NATURAL RESOURCES (ANR), AND U. S. BUREAU OF RECLAMATION (RECLAMATION) TO CREATE THIS NECESSARY NETWORK.",
+    "Contract Award Type": "",
+    "Recipient UEI": "D39GLX1L3UR4",
+    "Recipient Location": {
+      "address_line1": "1107 INVESTMENT BLVD",
+      "address_line2": "SUITE 240",
+      "address_line3": null,
+      "city_name": "EL DORADO HILLS",
+      "congressional_code": "05",
+      "country_name": "UNITED STATES",
+      "county_code": "017",
+      "county_name": "EL DORADO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5742",
+      "zip5": "95762"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "017",
+      "county_name": "EL DORADO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of the Interior",
+    "Awarding Sub Agency": "Bureau of Reclamation",
+    "Start Date": "2024-04-22",
+    "End Date": "2027-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "c325fa62-78ff-69af-562f-8c09dc559e0b-R",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R24AP00239_014",
+    "awarding_agency_id": 209,
+    "agency_slug": "department-of-the-interior",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91314359,
+    "generated_unique_award_id": "ASST_NON_R24AP00239_014",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "AMERICAN RIVER BASIN HYDROLOGIC OBSERVATORY (ARHO) WIRELESS SENSOR NETWORK (WSN) PROJECT WILL IMPROVE FORECAST RELIABILITY, TIMELINESS, AND ACCURACY OF SNOWPACK CONDITIONS AND SUBSEQUENT RUNOFF IN THE UPPER PORTIONS OF THE AMERICAN RIVER BASIN (ARB). IT WILL CREATE A PERMANENT WSN TO PROVIDE ACCURATE, RELIABLE, SPATIALLY REPRESENTATIVE, AND DOWNLOADABLE CONTINUOUS DATA NEEDED FOR WATER SUPPLY AND FLOOD FORECASTS TO HELP THE REGION AND STATE AND FEDERAL AGENCIES BETTER PREPARE FOR DROUGHTS AND FLOODS. EL DORADO WATER AGENCY (WATER AGENCY) HAS PARTNERED WITH UNIVERSITY OF CALIFORNIA MERCED (UC MERCED), UC DAVIS, UC AGRICULTURAL AND NATURAL RESOURCES (ANR), AND U. S. BUREAU OF RECLAMATION (RECLAMATION) TO CREATE THIS NECESSARY NETWORK.",
+    "total_obligation": 875000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-04-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 61535.67,
+    "total_account_obligation": 875000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 61535.67
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 875000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 228,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "Bureau of Reclamation",
+        "code": "1425",
+        "abbreviation": "BOR"
+      },
+      "office_agency_name": "DENVER FED CENTER"
+    },
+    "awarding_agency": {
+      "id": 228,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "Bureau of Reclamation",
+        "code": "1425",
+        "abbreviation": "BOR"
+      },
+      "office_agency_name": "DENVER FED CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2024-04-22",
+      "end_date": "2027-12-31",
+      "last_modified_date": "2024-05-01",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "c325fa62-78ff-69af-562f-8c09dc559e0b-R",
+      "recipient_name": "EL DORADO COUNTY WATER AGENCY",
+      "recipient_uei": "D39GLX1L3UR4",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Local Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "EL DORADO HILLS",
+        "county_code": "017",
+        "county_name": "EL DORADO",
+        "address_line1": "1107 INVESTMENT BLVD",
+        "address_line2": "SUITE 240",
+        "address_line3": null,
+        "congressional_code": "05",
+        "zip4": "5742",
+        "zip5": "95762",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "017",
+      "county_name": "EL DORADO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "90",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 61535.67
+  }
+}

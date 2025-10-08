@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91372698,
+    "Award ID": "RF1NS138032",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 3109079,
+    "Total Outlays": 597685.87,
+    "Description": "MODELING THE ROLE OF AGE AT TRAUMATIC BRAIN INJURY IN THE DEVELOPMENT OF ALZHEIMER'S DISEASE AND RELATED DEMENTIAS - PROJECT SUMMARY  GROWING CLINICAL EVIDENCE SUGGESTS THAT TRAUMATIC BRAIN INJURY (TBI) IS A MAJOR RISK-FACTOR OVER AN INDIVIDUAL’S LIFETIME, AND RESULTS IN SYMPTOMS AND PATHOPHYSIOLOGY CONSISTENT WITH ALZHEIMER’S DISEASE (AD) AND RELATED DEMENTIAS (ADRD). RODENT MODELS RECAPITULATE EARLY PATHOLOGICAL CLINICAL FEATURES OF TBI, BUT IT IS UNKNOWN IF THESE MODELS MANIFEST LONG-TERM ADRD FEATURES SUCH AS COGNITIVE DECLINE, NEURODEGENERATIVE BRAIN ATROPHY, CHRONIC INFLAMMATION, VASCULAR DISTURBANCES, AND ACCUMULATION OF AMYLOID-Β (AΒ) AND ALTERED FLUID BIOMARKER LEVELS. WELL-KNOWN RISK FACTORS FOR TBI-INDUCED ADRD (I.E. APOE, SEX ETC.) INFLUENCE SUSCEPTIBILITY FOR LIFESPAN PROGRESSION, BUT THE ROLE OF TBI PATHOPHYSIOLOGY HAS NOT BEEN WELL CHARACTERIZED. THIS PROPOSAL WILL FILL THESE KNOWLEDGE GAPS USING A CLOSED HEAD INJURY (CHI) TBI MODEL OVER THE ANIMAL’S LIFESPAN THAT EXHIBITS ADRD-LIKE FEATURES. USING THE CHI TBI MODEL, WE WILL EXAMINE HOW AD RISK ALLELES (I.E. HUMANIZED AMYLOID-Β (HAΒ), APOEΕ4, AND HAΒ.APOEΕ4) ACCELERATE ADRD PROGRESSION. IMPORTANTLY, COGNITIVE BEHAVIORAL OUTCOMES, CLINICALLY RELEVANT NEUROIMAGING (PET, MRI) USING ESTABLISHED PROTOCOLS (ADNI3) COMBINED WITH FLUID BIOMARKERS WILL BE USED TO ASSESS DISEASE ADVANCEMENT. CONSTRUCT AND FACE VALIDITY MEASURES (WITHIN AND BETWEEN PERFORMANCE SITES WILL BE DEMONSTRATED USING MULTI-MODAL DATA MODELING TO CONFIRM REPLICABILITY AND TO DIFFERENTIATE BETWEEN TBI+ADRD FROM TBI OR ADRD TRAJECTORIES ALONE.  USING OUR CHI TBI MOUSE MODEL, WHICH REPLICATES HUMAN MILD/MODERATE TBI, AND EXHIBITS ALTERED BLOOD BRAIN BARRIER (BBB), PROGRESSIVE COGNITIVE DECLINE, LATE AΒ DEPOSITION, CHRONIC NEUROINFLAMMATION, AND PROGRESSIVE VASCULAR PERTURBATIONS, WE WILL ESTABLISH IN SEX AND AGE-SPECIFIC MANNER THE CONDITIONS FOR TBI EVOLUTION TO ADRD. WE ALSO WILL LEVERAGE NIA-FUNDED MODEL-AD PLATFORM MICE EXPRESSING HAΒ AND APOEΕ4 ON A C57BL/6J (B6) BACKGROUND, AS SIGNIFICANT RISK FACTORS FOR ADRD PROGRESSION. USING THESE MODELS EXPOSED TO TBI, WE WILL INVESTIGATE HOW INJURY EXPOSURE AT 3 EPOCHS (JUVENILE 17D; MIDDLE 8M, OLD 12M) ACROSS LIFESPAN (24M OF AGE) INFLUENCES PROGRESSION TO ADRD (AIM 1). A REPEATED CHI TBI WILL BE IDENTICALLY TESTED TO DEMONSTRATE A FURTHER INCREASED VULNERABILITY TO ADRD (AIM 2). FINALLY, WE WILL LEVERAGE THESE MULTI-MODAL DATA IN AN UNBIASED MANNER TO ESTABLISH INTERNAL/EXTERNAL CONSISTENCY AND REPRODUCIBILITY (CONSTRUCT VALIDITY) AS WELL AS MODELING HOW THIS MAPS TO HUMAN PROGRESSIVE TRAJECTORIES TO DISSOCIATE TBI+ADRD FROM TBI OR ADRD ALONE (AIM 3). THESE AIMS WILL DEMONSTRATE, VALIDATE, AND REPLICATE OUR HYPOTHESIS THAT TBI THROUGHOUT THE LIFESPAN CONTINUUM LEADS TO AGE-SPECIFIC TRAJECTORIES TOWARDS ADRD SYMPTOMOLOGY. THE PROPOSED RESEARCH WILL RESULT IN A DEEPLY PHENOTYPED TBI MODEL AS IT PROGRESSES TO ADRD, AND THE ROLE OF SEX AND AGE OF INJURY. THE DERIVED DATA WILL SERVE AS A SIGNIFICANT RESOURCE TO ACCELERATE FUTURE RESEARCH INTO THE MECHANISMS OF TBI ADRD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925210001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_RF1NS138032_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91372698,
+    "generated_unique_award_id": "ASST_NON_RF1NS138032_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MODELING THE ROLE OF AGE AT TRAUMATIC BRAIN INJURY IN THE DEVELOPMENT OF ALZHEIMER'S DISEASE AND RELATED DEMENTIAS - PROJECT SUMMARY  GROWING CLINICAL EVIDENCE SUGGESTS THAT TRAUMATIC BRAIN INJURY (TBI) IS A MAJOR RISK-FACTOR OVER AN INDIVIDUAL’S LIFETIME, AND RESULTS IN SYMPTOMS AND PATHOPHYSIOLOGY CONSISTENT WITH ALZHEIMER’S DISEASE (AD) AND RELATED DEMENTIAS (ADRD). RODENT MODELS RECAPITULATE EARLY PATHOLOGICAL CLINICAL FEATURES OF TBI, BUT IT IS UNKNOWN IF THESE MODELS MANIFEST LONG-TERM ADRD FEATURES SUCH AS COGNITIVE DECLINE, NEURODEGENERATIVE BRAIN ATROPHY, CHRONIC INFLAMMATION, VASCULAR DISTURBANCES, AND ACCUMULATION OF AMYLOID-Β (AΒ) AND ALTERED FLUID BIOMARKER LEVELS. WELL-KNOWN RISK FACTORS FOR TBI-INDUCED ADRD (I.E. APOE, SEX ETC.) INFLUENCE SUSCEPTIBILITY FOR LIFESPAN PROGRESSION, BUT THE ROLE OF TBI PATHOPHYSIOLOGY HAS NOT BEEN WELL CHARACTERIZED. THIS PROPOSAL WILL FILL THESE KNOWLEDGE GAPS USING A CLOSED HEAD INJURY (CHI) TBI MODEL OVER THE ANIMAL’S LIFESPAN THAT EXHIBITS ADRD-LIKE FEATURES. USING THE CHI TBI MODEL, WE WILL EXAMINE HOW AD RISK ALLELES (I.E. HUMANIZED AMYLOID-Β (HAΒ), APOEΕ4, AND HAΒ.APOEΕ4) ACCELERATE ADRD PROGRESSION. IMPORTANTLY, COGNITIVE BEHAVIORAL OUTCOMES, CLINICALLY RELEVANT NEUROIMAGING (PET, MRI) USING ESTABLISHED PROTOCOLS (ADNI3) COMBINED WITH FLUID BIOMARKERS WILL BE USED TO ASSESS DISEASE ADVANCEMENT. CONSTRUCT AND FACE VALIDITY MEASURES (WITHIN AND BETWEEN PERFORMANCE SITES WILL BE DEMONSTRATED USING MULTI-MODAL DATA MODELING TO CONFIRM REPLICABILITY AND TO DIFFERENTIATE BETWEEN TBI+ADRD FROM TBI OR ADRD TRAJECTORIES ALONE.  USING OUR CHI TBI MOUSE MODEL, WHICH REPLICATES HUMAN MILD/MODERATE TBI, AND EXHIBITS ALTERED BLOOD BRAIN BARRIER (BBB), PROGRESSIVE COGNITIVE DECLINE, LATE AΒ DEPOSITION, CHRONIC NEUROINFLAMMATION, AND PROGRESSIVE VASCULAR PERTURBATIONS, WE WILL ESTABLISH IN SEX AND AGE-SPECIFIC MANNER THE CONDITIONS FOR TBI EVOLUTION TO ADRD. WE ALSO WILL LEVERAGE NIA-FUNDED MODEL-AD PLATFORM MICE EXPRESSING HAΒ AND APOEΕ4 ON A C57BL/6J (B6) BACKGROUND, AS SIGNIFICANT RISK FACTORS FOR ADRD PROGRESSION. USING THESE MODELS EXPOSED TO TBI, WE WILL INVESTIGATE HOW INJURY EXPOSURE AT 3 EPOCHS (JUVENILE 17D; MIDDLE 8M, OLD 12M) ACROSS LIFESPAN (24M OF AGE) INFLUENCES PROGRESSION TO ADRD (AIM 1). A REPEATED CHI TBI WILL BE IDENTICALLY TESTED TO DEMONSTRATE A FURTHER INCREASED VULNERABILITY TO ADRD (AIM 2). FINALLY, WE WILL LEVERAGE THESE MULTI-MODAL DATA IN AN UNBIASED MANNER TO ESTABLISH INTERNAL/EXTERNAL CONSISTENCY AND REPRODUCIBILITY (CONSTRUCT VALIDITY) AS WELL AS MODELING HOW THIS MAPS TO HUMAN PROGRESSIVE TRAJECTORIES TO DISSOCIATE TBI+ADRD FROM TBI OR ADRD ALONE (AIM 3). THESE AIMS WILL DEMONSTRATE, VALIDATE, AND REPLICATE OUR HYPOTHESIS THAT TBI THROUGHOUT THE LIFESPAN CONTINUUM LEADS TO AGE-SPECIFIC TRAJECTORIES TOWARDS ADRD SYMPTOMOLOGY. THE PROPOSED RESEARCH WILL RESULT IN A DEEPLY PHENOTYPED TBI MODEL AS IT PROGRESSES TO ADRD, AND THE ROLE OF SEX AND AGE OF INJURY. THE DERIVED DATA WILL SERVE AS A SIGNIFICANT RESOURCE TO ACCELERATE FUTURE RESEARCH INTO THE MECHANISMS OF TBI ADRD.",
+    "total_obligation": 3109079,
+    "subaward_count": 1,
+    "total_subaward_amount": 749440,
+    "date_signed": "2024-07-22",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 597685.87,
+    "total_account_obligation": 3109079,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 597685.87
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3109079
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2024-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 597685.87
+  }
+}

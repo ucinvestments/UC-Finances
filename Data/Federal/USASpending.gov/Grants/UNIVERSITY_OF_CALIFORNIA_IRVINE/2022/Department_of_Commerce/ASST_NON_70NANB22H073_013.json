@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 72623955,
+    "Award ID": "70NANB22H073",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 1398273,
+    "Total Outlays": 0,
+    "Description": "PURPOSE: THERE ARE THREE PURPOSES OF THIS PROJECT.  (1) DEVELOP POSITIONING SYSTEM FOR LOCATION OF EMERGENCY RESPONDERS. (2) DEVELOP FAR TARGET DETECTION SYSTEM FOR LOCATION OF EQUIPMENT, PRESENCE OF HAZARDS, AND RESOURCES. (3) DEVELOP A SYSTEM PROVIDING PATH PLANNING AND GUIDANCE FOR EMERGENCY RESPONDERS WITH STEP-BY-STEP INSTRUCTIONS GUARANTEEING ARRIVAL TO A DESIRABLE DESTINATION (E.G., EXIT FROM A BUILDING).ACTIVITIES TO BE PERFORMED: THIS PROJECT WILL DEVELOP THREE CUSTOM TECHNOLOGIES: UNAVCHIP - A CHIP-SCALE INERTIAL MEASUREMENT UNIT AND AIDING SENSORS MOUNTED IN SOLE OF A SHOE FOR SELF-CONTAINED GEOLOCATION OF EMERGENCY RESPONDERS (SUBJECTS), \"CRYSTALBALL\" - A GOLF-BALL SIZE MULTI-SENSOR SUITE FOR GEOLOCATION OF FARAWAY OBJECTS OF INTEREST (THINGS), \"ECOTONE\" - A PATH PLANNING ENGINE FOR GUIDANCE AND NAVIGATION IN COMPLETELY UNKNOWN ENVIRONMENT. THE TECHNOLOGIES OF UNAVCHIP, CRYSTALBALL, AND ECOTONE WILL BE INTEGRATED IN A FORMFACTOR OF A HAND-HELD DEVICE WITH A DEDICATED USER INTERFACE.EXPECTED OUTCOMES:  THIS PROJECT WILL DEVELOP A PROTOTYPE OF WEARABLE TECHNOLOGY TO LOCALIZE EMERGENCY RESPONDERS, ASSETS AND EQUIPMENT, AND OTHER PEOPLE (E.G., PATIENTS AND TRAPPED PERSONS) INDOORS AND IN COVERED OUTDOOR ENVIRONMENTS, WHERE THE ENVIRONMENT IS NOT KNOWN AND WHERE GPS SIGNALS ARE NOT AVAILABLE OR ARE UNUSABLE. THE WEARABLE AND HAND-HELD TECHNOLOGY WILL ADDRESS THE CHALLENGES OF GEOLOCATION OF PERSONNEL, GEOLOCATION OF  RESOURCES, AS WELL AS SAFE OPERATION IN UNKNOWN AND FAST CHANGING ENVIRONMENTS.INTENDED BENEFICIARIES: FIRST RESPONDERS, SPECIFICALLY FIREFIGHTERS, ARE THE INTENDED BENEFICIARIES.SUBRECIPIENT ACTIVITIES: THE RECIPIENT DOES NOT INTEND TO SUBAWARD FUNDS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "7600",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92697-7600",
+      "zip5": "92697"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Commerce",
+    "Awarding Sub Agency": "National Institute of Standards and Technology",
+    "Start Date": "2022-06-01",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_70NANB22H073_013",
+    "awarding_agency_id": 183,
+    "agency_slug": "department-of-commerce",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 72623955,
+    "generated_unique_award_id": "ASST_NON_70NANB22H073_013",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "PURPOSE: THERE ARE THREE PURPOSES OF THIS PROJECT.  (1) DEVELOP POSITIONING SYSTEM FOR LOCATION OF EMERGENCY RESPONDERS. (2) DEVELOP FAR TARGET DETECTION SYSTEM FOR LOCATION OF EQUIPMENT, PRESENCE OF HAZARDS, AND RESOURCES. (3) DEVELOP A SYSTEM PROVIDING PATH PLANNING AND GUIDANCE FOR EMERGENCY RESPONDERS WITH STEP-BY-STEP INSTRUCTIONS GUARANTEEING ARRIVAL TO A DESIRABLE DESTINATION (E.G., EXIT FROM A BUILDING).ACTIVITIES TO BE PERFORMED: THIS PROJECT WILL DEVELOP THREE CUSTOM TECHNOLOGIES: UNAVCHIP - A CHIP-SCALE INERTIAL MEASUREMENT UNIT AND AIDING SENSORS MOUNTED IN SOLE OF A SHOE FOR SELF-CONTAINED GEOLOCATION OF EMERGENCY RESPONDERS (SUBJECTS), \"CRYSTALBALL\" - A GOLF-BALL SIZE MULTI-SENSOR SUITE FOR GEOLOCATION OF FARAWAY OBJECTS OF INTEREST (THINGS), \"ECOTONE\" - A PATH PLANNING ENGINE FOR GUIDANCE AND NAVIGATION IN COMPLETELY UNKNOWN ENVIRONMENT. THE TECHNOLOGIES OF UNAVCHIP, CRYSTALBALL, AND ECOTONE WILL BE INTEGRATED IN A FORMFACTOR OF A HAND-HELD DEVICE WITH A DEDICATED USER INTERFACE.EXPECTED OUTCOMES:  THIS PROJECT WILL DEVELOP A PROTOTYPE OF WEARABLE TECHNOLOGY TO LOCALIZE EMERGENCY RESPONDERS, ASSETS AND EQUIPMENT, AND OTHER PEOPLE (E.G., PATIENTS AND TRAPPED PERSONS) INDOORS AND IN COVERED OUTDOOR ENVIRONMENTS, WHERE THE ENVIRONMENT IS NOT KNOWN AND WHERE GPS SIGNALS ARE NOT AVAILABLE OR ARE UNUSABLE. THE WEARABLE AND HAND-HELD TECHNOLOGY WILL ADDRESS THE CHALLENGES OF GEOLOCATION OF PERSONNEL, GEOLOCATION OF  RESOURCES, AS WELL AS SAFE OPERATION IN UNKNOWN AND FAST CHANGING ENVIRONMENTS.INTENDED BENEFICIARIES: FIRST RESPONDERS, SPECIFICALLY FIREFIGHTERS, ARE THE INTENDED BENEFICIARIES.SUBRECIPIENT ACTIVITIES: THE RECIPIENT DOES NOT INTEND TO SUBAWARD FUNDS.",
+    "total_obligation": 1398273,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-06-09",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 1398273,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1398273
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 197,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Commerce",
+        "code": "013",
+        "abbreviation": "DOC",
+        "slug": "department-of-commerce"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Standards and Technology",
+        "code": "1341",
+        "abbreviation": "NIST"
+      },
+      "office_agency_name": "DEPT OF COMMERCE NIST"
+    },
+    "awarding_agency": {
+      "id": 197,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Commerce",
+        "code": "013",
+        "abbreviation": "DOC",
+        "slug": "department-of-commerce"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Standards and Technology",
+        "code": "1341",
+        "abbreviation": "NIST"
+      },
+      "office_agency_name": "DEPT OF COMMERCE NIST"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-01",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-06-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "7600",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "7600",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91115556,
+    "Award ID": "R00HD099316",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 717696.28,
+    "Total Outlays": 664085.45,
+    "Description": "ELUCIDATING THE ROLE OF SUMO LIGASE SU(VAR)2-10 IN PIRNA-GUIDED TRANSCRIPTIONAL SILENCING AND REPRESSIVE CHROMATIN FORMATION - PROJECT SUMMARY: HETEROCHROMATIN REFERS TO THE COMPACTED AND TRANSCRIPTIONALLY SUPPRESSED CHROMATIN STATE THAT TYPICALLY INCLUDES REPEAT-RICH REGIONS NEAR CHROMOSOMAL ARM ENDS, TRANSPOSABLE ELEMENTS (TES), AS WELL AS SOME GENES. HETEROCHROMATIN PLAYS IMPORTANT ARCHITECTURAL AND REGULATORY ROLES, AND ITS MISREGULATION LEADS TO ABERRANT GENE EXPRESSION AND CHROMOSOME INSTABILITY ASSOCIATED WITH CANCERS, AGING AND IN GERM CELLS, EMBRYONIC LETHALITY AND STERILITY. LARGE FRACTION OF HETEROCHROMATIN FROM YEAST TO HUMANS IS MARKED BY HISTONE H3 LYSINE 9 TRIMETHYLATION (H3K9ME3). H3K9ME3 IS DEPOSITED BY HISTONE MARK “WRITER” COMPLEXES WHICH CAN BE RECRUITED TO GENOMIC TARGETS BY DNA BINDING PROTEINS OR SMALL RNA GUIDES. MANY ASPECTS OF HETEROCHROMATIN ESTABLISHMENT AND MAINTENANCE IN THE CELL AND IN DEVELOPMENT REMAIN POORLY UNDERSTOOD. HETEROCHROMATIN REGULATION IS THE CENTRAL FOCUS OF THIS PROPOSAL. IN GERM CELLS, PIWI PROTEINS AND ASSOCIATED PIWI-INTERACTING SMALL RNAS (PIRNAS) GUIDE A WRITER COMPLEX TO INSTALL THE H3K9ME3 MARK AND INDUCE TRANSCRIPTIONAL SILENCING AT TE TARGETS. TE REPRESSION BY PIRNAS IS ESSENTIAL FOR ANIMAL FERTILITY, YET ITS MECHANISM IS NOT KNOWN. CANDIDATE'S PREVIOUS WORK SHOWED THAT LOCALIZATION TO CHROMATIN OF THE CONSERVED SUMO E3 LIGASE SU(VAR)2- 10 INDUCES HETEROCHROMATIN FORMATION IN GERM CELLS OF THE DROSOPHILA OVARY. DATA LED TO A MODEL THAT SU(VAR)2- 10 FORMS A COMPLEX WITH PIRNA-PIWI AT GENOMIC TARGETS, AND DEPOSITS SUMO AT YET-TO-BE-ESTABLISHED FACTOR(S), WHICH IN TURN RECRUITS THE H3K9ME3 WRITER DSETDB1. SU(VAR)2-10 ALSO CONTROLS H3K9ME3 DEPOSITION AT PIRNA- INDEPENDENT LOCI, INCLUDING GENES OF SEVERAL SILENCING FACTORS, INDICATING A NOVEL NEGATIVE FEEDBACK MECHANISM BETWEEN HETEROCHROMATIN LEVELS AND SILENCING FACTORS THAT CAN EXPLAIN HOW GERM CELLS MAINTAIN HETEROCHROMATIN LEVELS TO ENSURE PROPER GENOME FUNCTION. THIS PROPOSAL PRESENTS A STRATEGY TO ELUCIDATE THE ROLE OF SU(VAR)2-10/SUMO IN PIRNA-GUIDED SILENCING, AND TO INVESTIGATE THE AUTO-REGULATION AND DEVELOPMENTAL INHERITANCE OF SU(VAR)2-10 DEPENDENT HETEROCHROMATIN. THE CANDIDATE WILL CHARACTERIZE THE SUBSTRATES OF SUMO MODIFICATION BY SU(VAR)2-10 USING STATE-OF-THE-ART PROTEOMICS COUPLED WITH RNAI (AIM 1), AND USE BIOCHEMICAL AND GENETIC APPROACHES TO INVESTIGATE THE MECHANISMS THAT LEAD TO SU(VAR)2-10 LOCALIZATION AND SUMO-DEPENDENT DSETDB1 RECRUITMENT TO GENOMIC TARGETS (AIM 2). IN THE LONG TERM, THE CANDIDATE WILL INVESTIGATE THE PROPOSED MODEL OF HETEROCHROMATIN REGULATION BY NEGATIVE FEEDBACK, AND STUDY THE STABILITY OF REPRESSED CHROMATIN STATES INDUCED BY PIWI AND SU(VAR)2-10 ACROSS DEVELOPMENT (AIM 3). TOGETHER, THIS PROJECT WILL PROVIDE DEEP MECHANISTIC INSIGHT INTO HETEROCHROMATIN FORMATION IN GERM CELLS, AND ADDRESS FUNDAMENTAL PRINCIPLES OF EPIGENETIC REGULATION RELEVANT TO NORMAL CELL FUNCTION AND DISEASE STATES. AIM 1 AND 2 WILL BE INITIATED DURING THE K99 PHASE IN DR. ALEXEI ARAVIN'S LAB AT CALTECH. THIS ENVIRONMENT WILL PROVIDE ALL NECESSARY RESEARCH FACILITIES AND TRAINING TO ACHIEVE THE PROPOSED GOALS, AND TO GENERATE REAGENTS AND DATA FOR FUTURE STUDIES, ALLOWING A SMOOTH TRANSITION TO AN INDEPENDENT RESEARCHER PHASE (AIM 3/R00).",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925210001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-07-01",
+    "End Date": "2024-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R00HD099316_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91115556,
+    "generated_unique_award_id": "ASST_NON_R00HD099316_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ELUCIDATING THE ROLE OF SUMO LIGASE SU(VAR)2-10 IN PIRNA-GUIDED TRANSCRIPTIONAL SILENCING AND REPRESSIVE CHROMATIN FORMATION - PROJECT SUMMARY: HETEROCHROMATIN REFERS TO THE COMPACTED AND TRANSCRIPTIONALLY SUPPRESSED CHROMATIN STATE THAT TYPICALLY INCLUDES REPEAT-RICH REGIONS NEAR CHROMOSOMAL ARM ENDS, TRANSPOSABLE ELEMENTS (TES), AS WELL AS SOME GENES. HETEROCHROMATIN PLAYS IMPORTANT ARCHITECTURAL AND REGULATORY ROLES, AND ITS MISREGULATION LEADS TO ABERRANT GENE EXPRESSION AND CHROMOSOME INSTABILITY ASSOCIATED WITH CANCERS, AGING AND IN GERM CELLS, EMBRYONIC LETHALITY AND STERILITY. LARGE FRACTION OF HETEROCHROMATIN FROM YEAST TO HUMANS IS MARKED BY HISTONE H3 LYSINE 9 TRIMETHYLATION (H3K9ME3). H3K9ME3 IS DEPOSITED BY HISTONE MARK “WRITER” COMPLEXES WHICH CAN BE RECRUITED TO GENOMIC TARGETS BY DNA BINDING PROTEINS OR SMALL RNA GUIDES. MANY ASPECTS OF HETEROCHROMATIN ESTABLISHMENT AND MAINTENANCE IN THE CELL AND IN DEVELOPMENT REMAIN POORLY UNDERSTOOD. HETEROCHROMATIN REGULATION IS THE CENTRAL FOCUS OF THIS PROPOSAL. IN GERM CELLS, PIWI PROTEINS AND ASSOCIATED PIWI-INTERACTING SMALL RNAS (PIRNAS) GUIDE A WRITER COMPLEX TO INSTALL THE H3K9ME3 MARK AND INDUCE TRANSCRIPTIONAL SILENCING AT TE TARGETS. TE REPRESSION BY PIRNAS IS ESSENTIAL FOR ANIMAL FERTILITY, YET ITS MECHANISM IS NOT KNOWN. CANDIDATE'S PREVIOUS WORK SHOWED THAT LOCALIZATION TO CHROMATIN OF THE CONSERVED SUMO E3 LIGASE SU(VAR)2- 10 INDUCES HETEROCHROMATIN FORMATION IN GERM CELLS OF THE DROSOPHILA OVARY. DATA LED TO A MODEL THAT SU(VAR)2- 10 FORMS A COMPLEX WITH PIRNA-PIWI AT GENOMIC TARGETS, AND DEPOSITS SUMO AT YET-TO-BE-ESTABLISHED FACTOR(S), WHICH IN TURN RECRUITS THE H3K9ME3 WRITER DSETDB1. SU(VAR)2-10 ALSO CONTROLS H3K9ME3 DEPOSITION AT PIRNA- INDEPENDENT LOCI, INCLUDING GENES OF SEVERAL SILENCING FACTORS, INDICATING A NOVEL NEGATIVE FEEDBACK MECHANISM BETWEEN HETEROCHROMATIN LEVELS AND SILENCING FACTORS THAT CAN EXPLAIN HOW GERM CELLS MAINTAIN HETEROCHROMATIN LEVELS TO ENSURE PROPER GENOME FUNCTION. THIS PROPOSAL PRESENTS A STRATEGY TO ELUCIDATE THE ROLE OF SU(VAR)2-10/SUMO IN PIRNA-GUIDED SILENCING, AND TO INVESTIGATE THE AUTO-REGULATION AND DEVELOPMENTAL INHERITANCE OF SU(VAR)2-10 DEPENDENT HETEROCHROMATIN. THE CANDIDATE WILL CHARACTERIZE THE SUBSTRATES OF SUMO MODIFICATION BY SU(VAR)2-10 USING STATE-OF-THE-ART PROTEOMICS COUPLED WITH RNAI (AIM 1), AND USE BIOCHEMICAL AND GENETIC APPROACHES TO INVESTIGATE THE MECHANISMS THAT LEAD TO SU(VAR)2-10 LOCALIZATION AND SUMO-DEPENDENT DSETDB1 RECRUITMENT TO GENOMIC TARGETS (AIM 2). IN THE LONG TERM, THE CANDIDATE WILL INVESTIGATE THE PROPOSED MODEL OF HETEROCHROMATIN REGULATION BY NEGATIVE FEEDBACK, AND STUDY THE STABILITY OF REPRESSED CHROMATIN STATES INDUCED BY PIWI AND SU(VAR)2-10 ACROSS DEVELOPMENT (AIM 3). TOGETHER, THIS PROJECT WILL PROVIDE DEEP MECHANISTIC INSIGHT INTO HETEROCHROMATIN FORMATION IN GERM CELLS, AND ADDRESS FUNDAMENTAL PRINCIPLES OF EPIGENETIC REGULATION RELEVANT TO NORMAL CELL FUNCTION AND DISEASE STATES. AIM 1 AND 2 WILL BE INITIATED DURING THE K99 PHASE IN DR. ALEXEI ARAVIN'S LAB AT CALTECH. THIS ENVIRONMENT WILL PROVIDE ALL NECESSARY RESEARCH FACILITIES AND TRAINING TO ACHIEVE THE PROPOSED GOALS, AND TO GENERATE REAGENTS AND DATA FOR FUTURE STUDIES, ALLOWING A SMOOTH TRANSITION TO AN INDEPENDENT RESEARCHER PHASE (AIM 3/R00).",
+    "total_obligation": 717696.28,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-08-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 664085.45,
+    "total_account_obligation": 717696.28,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 664085.45
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 717696.28
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2021-07-01",
+      "end_date": "2024-06-30",
+      "last_modified_date": "2023-12-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 664085.45
+  }
+}

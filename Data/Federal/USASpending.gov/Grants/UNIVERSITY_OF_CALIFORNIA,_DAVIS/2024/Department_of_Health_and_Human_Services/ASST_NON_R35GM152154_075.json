@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91330580,
+    "Award ID": "R35GM152154",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 853354,
+    "Total Outlays": 490407.71,
+    "Description": "MOLECULAR AND NEURAL MECHANISMS OF TEMPERATURE PREFERENCE RHYTHM IN DROSOPHILA - SUMMARY: CIRCADIAN RHYTHM IS IMPORTANT FOR HUMAN PHYSIOLOGY AND HEALTH. HUMAN BODY TEMPERATURE INCREASES DURING WAKEFULNESS AND DECREASES DURING SLEEP. THIS BODY TEMPERATURE RHYTHM (BTR) IS A ROBUST OUTPUT OF THE CIRCADIAN CLOCK AND IS FUNDAMENTAL FOR MAINTAINING HOMEOSTASIS AND ITS RELATED PROCESSES, SUCH AS SLEEP AND METABOLISM. THE LONG-TERM GOAL OF OUR RESEARCH IS TO UNDERSTAND THE MOLECULAR AND NEURAL MECHANISMS BY WHICH BTR IS REGULATED AND HOW BTR IS RELATED TO SLEEP REGULATION.  TO UNDERSTAND THE MECHANISMS OF BTR, WE USE DROSOPHILA. THIS MODEL HAS PROVIDED MANY STRONG CONTRIBUTIONS TO STUDYING THE CIRCADIAN CLOCK, INCLUDING THE DISCOVERY OF CONSERVED MAMMALIAN CIRCADIAN CLOCK GENES AND MECHANISMS. WE DEMONSTRATED THAT DROSOPHILA EXHIBITS A CIRCADIAN RHYTHM OF TEMPERATURE PREFERENCE, REFERRED TO AS TEMPERATURE PREFERENCE RHYTHMS (TPR). WHILE MAMMALS REGULATE BTR BY GENERATING OR LOSING INTERNAL HEAT, SMALL ECTOTHERMS, INCLUDING DROSOPHILA, REGULATE BTR VIA SELECTING AN ENVIRONMENTAL TEMPERATURE. AS FLIES ARE SMALL ECTOTHERMS, THEIR BODY TEMPERATURE IS CLOSE TO THAT OF THE SURROUNDING ENVIRONMENT. THUS, DROSOPHILA TPR PRODUCES BTR IN A SIMILAR PATTERN AS MAMMALS. FURTHERMORE, OUR STUDY PROVIDES THE FIRST EVIDENCE THAT FLY DH31R AND ITS MAMMALIAN HOMOLOG, CALCITONIN RECEPTOR, CALCR, REGULATE BTR. THUS, UNDERSTANDING FLY TPR WILL PROVIDE FUNDAMENTAL INSIGHTS INTO THE MOLECULAR AND NEURAL MECHANISMS THAT CONTROL BTR IN MAMMALS.  USING FLY TPR, IN THIS STUDY, WE WILL ADDRESS AN OUTSTANDING KNOWLEDGE GAP REGARDING HOW TEMPERATURE FLUCTUATIONS ARE DETERMINED AND HOW THE PREFERRED TEMPERATURE IS SET AT A SPECIFIC TIME OF DAY. WE WILL ELUCIDATE THE MOLECULAR AND NEURAL MECHANISMS UNDERLYING TPR. WE WILL EXAMINE THE DISTINCT FUNCTIONS OF EACH PACEMAKER BY MANIPULATING THEIR ACTIVITIES AND NEUROPEPTIDE-RECEPTOR SIGNALS WHICH COULD CONTROL TEMPERATURE FLUCTUATION OR TEMPERATURE SETPOINT. WE WILL CLARIFY THE MECHANISTIC DIFFERENCE BETWEEN TPR AND LOCOMOTOR ACTIVITY, FOCUSING ON A NONCANONICAL PATHWAY THAT WE ANTICIPATE TO BE A SPECIFIC REGULATOR OF TPR. THIS STUDY WILL UNVEIL THE UNIQUE NEURAL CIRCUITS CONTROLLING FLY TPR. FURTHER, WE WILL TAKE ADVANTAGE OF FLY TPR AND DETERMINE THE MECHANISTIC LINK BETWEEN TEMPERATURE CHANGE AND SLEEP; THEIR RELATIONSHIP HAS BEEN WELL KNOWN, BUT THE UNDERPINNING MOLECULAR MECHANISM HAS BEEN A BIG MYSTERY. THIS STUDY WILL FACILITATE AN UNDERSTANDING THE REGULATORY MECHANISMS UNDERLYING BTR AND ITS RELATIONSHIP TO SLEEP.  WE HAVE SHOWN THAT PARALLEL MECHANISTIC FUNCTIONS BETWEEN MAMMALIAN BTR AND FLY TPR; THUS, THE BASIC FOUNDATION OF BTR IS ALIGNED WITH FLY TPR. THE OUTCOME OF THIS R35 PROPOSAL WILL FACILITATE TO REVEAL BTR MECHANISMS IN MAMMALS AND LEND ACTIONABLE INSIGHTS INTO THE TREATMENT OF CIRCADIAN CLOCK DISEASES, SLEEP PROBLEMS, AND THE HEALTH OF NIGHT-SHIFT WORKERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-01-01",
+    "End Date": "2028-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM152154_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91330580,
+    "generated_unique_award_id": "ASST_NON_R35GM152154_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MOLECULAR AND NEURAL MECHANISMS OF TEMPERATURE PREFERENCE RHYTHM IN DROSOPHILA - SUMMARY: CIRCADIAN RHYTHM IS IMPORTANT FOR HUMAN PHYSIOLOGY AND HEALTH. HUMAN BODY TEMPERATURE INCREASES DURING WAKEFULNESS AND DECREASES DURING SLEEP. THIS BODY TEMPERATURE RHYTHM (BTR) IS A ROBUST OUTPUT OF THE CIRCADIAN CLOCK AND IS FUNDAMENTAL FOR MAINTAINING HOMEOSTASIS AND ITS RELATED PROCESSES, SUCH AS SLEEP AND METABOLISM. THE LONG-TERM GOAL OF OUR RESEARCH IS TO UNDERSTAND THE MOLECULAR AND NEURAL MECHANISMS BY WHICH BTR IS REGULATED AND HOW BTR IS RELATED TO SLEEP REGULATION.  TO UNDERSTAND THE MECHANISMS OF BTR, WE USE DROSOPHILA. THIS MODEL HAS PROVIDED MANY STRONG CONTRIBUTIONS TO STUDYING THE CIRCADIAN CLOCK, INCLUDING THE DISCOVERY OF CONSERVED MAMMALIAN CIRCADIAN CLOCK GENES AND MECHANISMS. WE DEMONSTRATED THAT DROSOPHILA EXHIBITS A CIRCADIAN RHYTHM OF TEMPERATURE PREFERENCE, REFERRED TO AS TEMPERATURE PREFERENCE RHYTHMS (TPR). WHILE MAMMALS REGULATE BTR BY GENERATING OR LOSING INTERNAL HEAT, SMALL ECTOTHERMS, INCLUDING DROSOPHILA, REGULATE BTR VIA SELECTING AN ENVIRONMENTAL TEMPERATURE. AS FLIES ARE SMALL ECTOTHERMS, THEIR BODY TEMPERATURE IS CLOSE TO THAT OF THE SURROUNDING ENVIRONMENT. THUS, DROSOPHILA TPR PRODUCES BTR IN A SIMILAR PATTERN AS MAMMALS. FURTHERMORE, OUR STUDY PROVIDES THE FIRST EVIDENCE THAT FLY DH31R AND ITS MAMMALIAN HOMOLOG, CALCITONIN RECEPTOR, CALCR, REGULATE BTR. THUS, UNDERSTANDING FLY TPR WILL PROVIDE FUNDAMENTAL INSIGHTS INTO THE MOLECULAR AND NEURAL MECHANISMS THAT CONTROL BTR IN MAMMALS.  USING FLY TPR, IN THIS STUDY, WE WILL ADDRESS AN OUTSTANDING KNOWLEDGE GAP REGARDING HOW TEMPERATURE FLUCTUATIONS ARE DETERMINED AND HOW THE PREFERRED TEMPERATURE IS SET AT A SPECIFIC TIME OF DAY. WE WILL ELUCIDATE THE MOLECULAR AND NEURAL MECHANISMS UNDERLYING TPR. WE WILL EXAMINE THE DISTINCT FUNCTIONS OF EACH PACEMAKER BY MANIPULATING THEIR ACTIVITIES AND NEUROPEPTIDE-RECEPTOR SIGNALS WHICH COULD CONTROL TEMPERATURE FLUCTUATION OR TEMPERATURE SETPOINT. WE WILL CLARIFY THE MECHANISTIC DIFFERENCE BETWEEN TPR AND LOCOMOTOR ACTIVITY, FOCUSING ON A NONCANONICAL PATHWAY THAT WE ANTICIPATE TO BE A SPECIFIC REGULATOR OF TPR. THIS STUDY WILL UNVEIL THE UNIQUE NEURAL CIRCUITS CONTROLLING FLY TPR. FURTHER, WE WILL TAKE ADVANTAGE OF FLY TPR AND DETERMINE THE MECHANISTIC LINK BETWEEN TEMPERATURE CHANGE AND SLEEP; THEIR RELATIONSHIP HAS BEEN WELL KNOWN, BUT THE UNDERPINNING MOLECULAR MECHANISM HAS BEEN A BIG MYSTERY. THIS STUDY WILL FACILITATE AN UNDERSTANDING THE REGULATORY MECHANISMS UNDERLYING BTR AND ITS RELATIONSHIP TO SLEEP.  WE HAVE SHOWN THAT PARALLEL MECHANISTIC FUNCTIONS BETWEEN MAMMALIAN BTR AND FLY TPR; THUS, THE BASIC FOUNDATION OF BTR IS ALIGNED WITH FLY TPR. THE OUTCOME OF THIS R35 PROPOSAL WILL FACILITATE TO REVEAL BTR MECHANISMS IN MAMMALS AND LEND ACTIONABLE INSIGHTS INTO THE TREATMENT OF CIRCADIAN CLOCK DISEASES, SLEEP PROBLEMS, AND THE HEALTH OF NIGHT-SHIFT WORKERS.",
+    "total_obligation": 853354,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-12-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 490407.71,
+    "total_account_obligation": 853354,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 490407.71
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 853354
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2024-01-01",
+      "end_date": "2028-12-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 490407.71
+  }
+}

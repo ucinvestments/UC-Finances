@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 53040414,
+    "Award ID": "15PNIJ21GG04707NIJB",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 885090,
+    "Total Outlays": 213486.15,
+    "Description": "ALTHOUGH THE NUMBER OF PEOPLE INCARCERATED HAS DECLINED SINCE THE GREAT RECESSION, ALTERNATIVES TO INCARCERATION MAY INTRODUCE NEW PATHWAYS TO INEQUALITY BECAUSE COMPLIANCE WITH STATE-ORDERED DIVERSIONARY PROGRAMS RELIES HEAVILY ON ACCESS TO RESOURCES (MONEY, INFORMATION, AND TIME). THIS PROPOSAL EXPLORES THE SOCIAL, ECONOMIC, AND LEGAL CONSEQUENCES OF SHADOW COSTS – FINANCIAL OUTLAYS AND EXPENDITURES NOT IMMEDIATELY QUANTIFIABLE BY THE STATE BUT ARE NEVERTHELESS ORDERED AS A PART OF A REENTRY OR REHABILITATION TREATMENT PROGRAM. THREE HYPOTHESES WILL BE TESTED: (H1) REMOVAL OF ECONOMIC BARRIERS (THROUGH PREPAID COURSES) WILL INCREASE COMPLIANCE RELATED TO REHABILITATION TREATMENT PROGRAMS BECAUSE THE CUMULATIVE FINANCIAL EFFECT OF SHADOW COSTS WILL NOT BE EXPERIENCED BY DEFENDANTS, PROBATIONERS, AND PAROLEES. (H2) REMOVAL OF SOCIOECONOMIC BARRIERS ASSOCIATED WITH POVERTY AND INEQUALITY WILL INCREASE COMPLIANCE RELATED TO TREATMENT, REHABILITATION, AND REENTRY PROGRAMS. (H3) REMOVAL OF INFORMATIONAL BARRIERS WILL INCREASE COMPLIANCE RELATED TO TREATMENT, REHABILITATION, AND REENTRY PROGRAMS. AN ORIGINAL DATA COLLECTION EFFORT IS PROPOSED TO EMPIRICALLY ASSESS THE EFFECTS OF ECONOMIC, SOCIOECONOMIC, AND INFORMATIONAL BARRIERS ON COMPLETING STATE-ORDERED PROGRAMS IN SIX CALIFORNIA COUNTIES. THE PROPOSED RANDOMIZED CONTROL TRIAL (RTC) WILL CAUSALLY INVESTIGATE WHETHER AND HOW INVESTMENTS IN REHABILITATION PROGRAMMING AND THE ALLEVIATION OF PARTICULAR FORMS OF STRUCTURAL DISADVANTAGE CAN INCREASE PROGRAM PARTICIPATION AND COMPLETION RATES. APPROXIMATELY 450 STUDY PARTICIPANTS WILL BE RANDOMLY SAMPLED FROM PUBLICLY AVAILABLE COURT CALENDARS AND PAROLE HEARING LISTINGS. CRIMINAL CASES SCHEDULED FOR SENTENCING IN THE SUPERIOR COURTS OF ALAMEDA COUNTY, LOS ANGELES, FRESNO COUNTY, MONO COUNTY, ORANGE COUNTY, AND SAN DIEGO COUNTY WILL BE REVIEWED WEEKLY TO DETERMINE ELIGIBILITY FOR THE STUDY. ONE HUNDRED AND FIFTY (150) PARTICIPANTS WILL BE RANDOMLY ASSIGNED TO TWO (2) TREATMENT OR THE CONTROL GROUP (3 GROUPS TOTAL). PARTICIPANTS WILL BE FOLLOWED WEEKLY FOR UP TO THREE MONTHS. MULTIPLE STATISTICAL ANALYSES WILL BE EMPLOYED TO ASSESS THE CAUSAL RELATIONSHIP BETWEEN STRUCTURAL INEQUALITY AND COURT-COMPLIANCE RATES. FINALLY, FINDINGS FROM THE FIELD EXPERIMENT (I.E., THE RCT) WILL BE INCLUDED AS INPUTS TO AN AGENT-BASED SIMULATION MODEL ALONG WITH REAL-WORLD DATA OBTAINED FROM THE SURVEYS OF INMATES IN STATE, FEDERAL, AND LOCAL CUSTODY; THE ANNUAL PROBATION AND PAROLE SURVEYS; THE STATE COURT PROCESSING STATISTICS; THE CENSUS OF CORRECTIONAL FACILITIES, THE BUREAU OF LABOR STATISTICS’ CONSUMER EXPENDITURE SURVEYS THAT WILL ASSESS SYSTEM-WIDE STRUCTURAL INEQUALITY IN REHABILITATION AND REENTRY PROGRAM COMPLIANCE AT THE POPULATION LEVEL.\n\nTHIS PROJECT WILL PRODUCE MANY IMPORTANT DATASETS FOR FUTURE RESEARCHERS’ USE AND DISSEMINATION PRODUCTS (E.G., CONFERENCE PRESENTATIONS, OP-ED ARTICLES FOR LOCAL AND NATIONAL PERIODICALS, BEST PRACTICES GUIDE, MANUSCRIPTS FOR PEER-REVIEWED JOURNALS) TO LEGAL PROFESSIONALS, PRACTITIONERS, ACADEMICS, AND GOVERNMENT STAKEHOLDERS. CA/NCF",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92697-0001",
+      "zip5": "92697"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Justice",
+    "Awarding Sub Agency": "Office of Justice Programs",
+    "Start Date": "2022-07-01",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_15PNIJ21GG04707NIJB_015",
+    "awarding_agency_id": 252,
+    "agency_slug": "department-of-justice",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 53040414,
+    "generated_unique_award_id": "ASST_NON_15PNIJ21GG04707NIJB_015",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ALTHOUGH THE NUMBER OF PEOPLE INCARCERATED HAS DECLINED SINCE THE GREAT RECESSION, ALTERNATIVES TO INCARCERATION MAY INTRODUCE NEW PATHWAYS TO INEQUALITY BECAUSE COMPLIANCE WITH STATE-ORDERED DIVERSIONARY PROGRAMS RELIES HEAVILY ON ACCESS TO RESOURCES (MONEY, INFORMATION, AND TIME). THIS PROPOSAL EXPLORES THE SOCIAL, ECONOMIC, AND LEGAL CONSEQUENCES OF SHADOW COSTS – FINANCIAL OUTLAYS AND EXPENDITURES NOT IMMEDIATELY QUANTIFIABLE BY THE STATE BUT ARE NEVERTHELESS ORDERED AS A PART OF A REENTRY OR REHABILITATION TREATMENT PROGRAM. THREE HYPOTHESES WILL BE TESTED: (H1) REMOVAL OF ECONOMIC BARRIERS (THROUGH PREPAID COURSES) WILL INCREASE COMPLIANCE RELATED TO REHABILITATION TREATMENT PROGRAMS BECAUSE THE CUMULATIVE FINANCIAL EFFECT OF SHADOW COSTS WILL NOT BE EXPERIENCED BY DEFENDANTS, PROBATIONERS, AND PAROLEES. (H2) REMOVAL OF SOCIOECONOMIC BARRIERS ASSOCIATED WITH POVERTY AND INEQUALITY WILL INCREASE COMPLIANCE RELATED TO TREATMENT, REHABILITATION, AND REENTRY PROGRAMS. (H3) REMOVAL OF INFORMATIONAL BARRIERS WILL INCREASE COMPLIANCE RELATED TO TREATMENT, REHABILITATION, AND REENTRY PROGRAMS. AN ORIGINAL DATA COLLECTION EFFORT IS PROPOSED TO EMPIRICALLY ASSESS THE EFFECTS OF ECONOMIC, SOCIOECONOMIC, AND INFORMATIONAL BARRIERS ON COMPLETING STATE-ORDERED PROGRAMS IN SIX CALIFORNIA COUNTIES. THE PROPOSED RANDOMIZED CONTROL TRIAL (RTC) WILL CAUSALLY INVESTIGATE WHETHER AND HOW INVESTMENTS IN REHABILITATION PROGRAMMING AND THE ALLEVIATION OF PARTICULAR FORMS OF STRUCTURAL DISADVANTAGE CAN INCREASE PROGRAM PARTICIPATION AND COMPLETION RATES. APPROXIMATELY 450 STUDY PARTICIPANTS WILL BE RANDOMLY SAMPLED FROM PUBLICLY AVAILABLE COURT CALENDARS AND PAROLE HEARING LISTINGS. CRIMINAL CASES SCHEDULED FOR SENTENCING IN THE SUPERIOR COURTS OF ALAMEDA COUNTY, LOS ANGELES, FRESNO COUNTY, MONO COUNTY, ORANGE COUNTY, AND SAN DIEGO COUNTY WILL BE REVIEWED WEEKLY TO DETERMINE ELIGIBILITY FOR THE STUDY. ONE HUNDRED AND FIFTY (150) PARTICIPANTS WILL BE RANDOMLY ASSIGNED TO TWO (2) TREATMENT OR THE CONTROL GROUP (3 GROUPS TOTAL). PARTICIPANTS WILL BE FOLLOWED WEEKLY FOR UP TO THREE MONTHS. MULTIPLE STATISTICAL ANALYSES WILL BE EMPLOYED TO ASSESS THE CAUSAL RELATIONSHIP BETWEEN STRUCTURAL INEQUALITY AND COURT-COMPLIANCE RATES. FINALLY, FINDINGS FROM THE FIELD EXPERIMENT (I.E., THE RCT) WILL BE INCLUDED AS INPUTS TO AN AGENT-BASED SIMULATION MODEL ALONG WITH REAL-WORLD DATA OBTAINED FROM THE SURVEYS OF INMATES IN STATE, FEDERAL, AND LOCAL CUSTODY; THE ANNUAL PROBATION AND PAROLE SURVEYS; THE STATE COURT PROCESSING STATISTICS; THE CENSUS OF CORRECTIONAL FACILITIES, THE BUREAU OF LABOR STATISTICS’ CONSUMER EXPENDITURE SURVEYS THAT WILL ASSESS SYSTEM-WIDE STRUCTURAL INEQUALITY IN REHABILITATION AND REENTRY PROGRAM COMPLIANCE AT THE POPULATION LEVEL.\n\nTHIS PROJECT WILL PRODUCE MANY IMPORTANT DATASETS FOR FUTURE RESEARCHERS’ USE AND DISSEMINATION PRODUCTS (E.G., CONFERENCE PRESENTATIONS, OP-ED ARTICLES FOR LOCAL AND NATIONAL PERIODICALS, BEST PRACTICES GUIDE, MANUSCRIPTS FOR PEER-REVIEWED JOURNALS) TO LEGAL PROFESSIONALS, PRACTITIONERS, ACADEMICS, AND GOVERNMENT STAKEHOLDERS. CA/NCF",
+    "total_obligation": 885090,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-08-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 213486.15,
+    "total_account_obligation": 885090,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 213486.15
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 885090
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 263,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Justice",
+        "code": "015",
+        "abbreviation": "DOJ",
+        "slug": "department-of-justice"
+      },
+      "subtier_agency": {
+        "name": "Office of Justice Programs",
+        "code": "1550",
+        "abbreviation": "OJP"
+      },
+      "office_agency_name": "OJP NATIONAL INSTITUTE JUSTICE"
+    },
+    "awarding_agency": {
+      "id": 263,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Justice",
+        "code": "015",
+        "abbreviation": "DOJ",
+        "slug": "department-of-justice"
+      },
+      "subtier_agency": {
+        "name": "Office of Justice Programs",
+        "code": "1550",
+        "abbreviation": "OJP"
+      },
+      "office_agency_name": "OJP NATIONAL INSTITUTE JUSTICE"
+    },
+    "period_of_performance": {
+      "start_date": "2022-07-01",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2025-03-13",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "0001",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 213486.15
+  }
+}

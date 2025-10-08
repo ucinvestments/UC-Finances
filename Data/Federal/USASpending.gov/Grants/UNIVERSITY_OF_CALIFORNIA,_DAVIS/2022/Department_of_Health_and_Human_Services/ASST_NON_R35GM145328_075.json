@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91329750,
+    "Award ID": "R35GM145328",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1764468,
+    "Total Outlays": 1188631.39,
+    "Description": "MECHANISM AND REGULATION OF NUCLEAR RNA EXPORT - ABSTRACT NUCLEAR MRNA EXPORT IS A FUNDAMENTAL COMPONENT OF THE GENE EXPRESSION PROGRAM IN EUKARYOTES AND IS INTIMATELY LINKED TO UPSTREAM (TRANSCRIPTION AND NUCLEAR RNA SURVEILLANCE) AND DOWNSTREAM (TRANSLATION AND CYTOPLASMIC RNA DECAY) EVENTS. WITHIN MY GROUP, WE STUDY THE MECHANISMS BY WHICH THE FATE (NUCLEAR EXPORT VS. DECAY) OF AN MRNA-PROTEIN COMPLEX (MRNP) IS DETERMINED AND REGULATED. CURRENT STUDIES WITHIN THE LAB FOCUS ON UNDERSTANDING HOW RNA-BINDING PROTEIN (RBP) CONSTITUENTS OF AN MRNP DIRECT NUCLEAR RNA PROCESSING AND EXPORT, INCLUDING INTERACTIONS WITH THE NUCLEAR PORE COMPLEX (NPC). RECENT EFFORTS IN MY GROUP HAVE LED TO THE DISCOVERY OF A NOVEL FUNCTION FOR THE MRNA EXPORT FACTOR DBP5 IN TRNA EXPORT AND THE SR-LIKE PROTEIN NPL3 IN THE MEIOTIC SPLICING REGULATORY NETWORK. IN ADDITION, WE HAVE CHARACTERIZED MUTATION-INDUCED ALTERATIONS IN POLYADENYLATION THAT PROMOTE IMBALANCES IN THE DISTRIBUTION OF RBPS BETWEEN MRNA AND NON-CODING (NC)RNA PROCESSES AND THE LOSS OF NUCLEAR RNA PROCESSING HOMEOSTASIS. AT THE CORE OF THESE EVENTS IS THE MRNP, WHICH REMAINS ILL-DEFINED IN TERMS OF HOW CHANGES IN MRNP ARCHITECTURE, INCLUDING GAIN OR LOSS OF SPECIFIC RBPS, DIRECTS DISTINCT TRANSCRIPT FATES, INCLUDING MRNA EXPORT. CONSEQUENTLY, OUR GOALS OVER THE NEXT FIVE YEARS FOCUS ON A QUANTITATIVE INTERROGATION OF MRNP BIOLOGY, ENCOMPASSING FUNCTION, REGULATION, AND STRUCTURE. PURSUING THIS GOAL IS TIMELY GIVEN THE NEWLY AMASSED KNOWLEDGE OF RBPS CENTRAL TO BOTH MRNA AND NCRNA BIOLOGY, THE TECHNOLOGIES AVAILABLE TO APPLY THESE QUESTIONS, AND THE NEED TO UNDERSTAND HOW DISEASE STATES ARISE IN THE CONTEXT OF MUTATIONS WITHIN CONSERVED RBP COMPONENTS OR THEIR MODULATION BY VIRUSES. A CRITICAL FACTOR IN MRNA EXPORT IS DBP5 (DDX19 IN HUMANS), A HIGHLY CONSERVED DEAD-BOX PROTEIN (DBP) THAT MEDIATES DIRECTIONAL MRNP EXPORT THROUGH NPCS VIA MODULATION OF RNA-PROTEIN INTERACTIONS. DBP5 IS ACTIVATED BY THE NPC COMPONENT GLE1- INSP6, WHICH WE HAVE ALSO SHOWN TO BE REQUIRED FOR TRNA EXPORT, IN ADDITION TO THE KNOWN ROLE OF GLE1 IN MRNA EXPORT. QUESTIONS THAT MUST BE ADDRESSED TO CLOSE MAJOR KNOWLEDGE GAPS IN THE RNA EXPORT FIELD INCLUDE: (1) HOW IS MRNP COMPOSITION REGULATED TO ACHIEVE DIRECTIONAL TRANSPORT THROUGH NPCS? (2) ARE MRNA AND NCRNA EXPORT PATHWAYS INTEGRATED OR DISTINCT? (3) IS THERE COORDINATION OF RNA PROCESSING AND EXPORT VIA SHARED RBPS BETWEEN MRNPS AND NCRNPS? BY ADDRESSING THESE QUESTIONS, WE EXPECT TO PROVIDE A MOLECULAR FRAMEWORK THAT DESCRIBES HOW DBP5 AND OTHER RBPS ENGAGE, MODIFY, AND DIRECT NUCLEAR RNA PROCESSING AND EXPORT. THESE DATA ARE ESSENTIAL TO UNDERSTANDING THE FLUX OF RNPS THROUGH NPCS TO MATCH CELLULAR DEMAND AND HOW ALTERING THIS PROCESS BY MUTATION LEADS TO DISEASE. IN ADDITION, THESE RESULTS WILL CONTRIBUTE TO THE UNDERSTANDING AND METHODOLOGY WITHIN THE DEAD-BOX PROTEIN, RNA TRANSPORT, AND GENE EXPRESSION FIELDS, THEREBY FUNDAMENTALLY CONTRIBUTING TO THE STUDY OF RNA BIOLOGY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-01",
+    "End Date": "2027-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM145328_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91329750,
+    "generated_unique_award_id": "ASST_NON_R35GM145328_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MECHANISM AND REGULATION OF NUCLEAR RNA EXPORT - ABSTRACT NUCLEAR MRNA EXPORT IS A FUNDAMENTAL COMPONENT OF THE GENE EXPRESSION PROGRAM IN EUKARYOTES AND IS INTIMATELY LINKED TO UPSTREAM (TRANSCRIPTION AND NUCLEAR RNA SURVEILLANCE) AND DOWNSTREAM (TRANSLATION AND CYTOPLASMIC RNA DECAY) EVENTS. WITHIN MY GROUP, WE STUDY THE MECHANISMS BY WHICH THE FATE (NUCLEAR EXPORT VS. DECAY) OF AN MRNA-PROTEIN COMPLEX (MRNP) IS DETERMINED AND REGULATED. CURRENT STUDIES WITHIN THE LAB FOCUS ON UNDERSTANDING HOW RNA-BINDING PROTEIN (RBP) CONSTITUENTS OF AN MRNP DIRECT NUCLEAR RNA PROCESSING AND EXPORT, INCLUDING INTERACTIONS WITH THE NUCLEAR PORE COMPLEX (NPC). RECENT EFFORTS IN MY GROUP HAVE LED TO THE DISCOVERY OF A NOVEL FUNCTION FOR THE MRNA EXPORT FACTOR DBP5 IN TRNA EXPORT AND THE SR-LIKE PROTEIN NPL3 IN THE MEIOTIC SPLICING REGULATORY NETWORK. IN ADDITION, WE HAVE CHARACTERIZED MUTATION-INDUCED ALTERATIONS IN POLYADENYLATION THAT PROMOTE IMBALANCES IN THE DISTRIBUTION OF RBPS BETWEEN MRNA AND NON-CODING (NC)RNA PROCESSES AND THE LOSS OF NUCLEAR RNA PROCESSING HOMEOSTASIS. AT THE CORE OF THESE EVENTS IS THE MRNP, WHICH REMAINS ILL-DEFINED IN TERMS OF HOW CHANGES IN MRNP ARCHITECTURE, INCLUDING GAIN OR LOSS OF SPECIFIC RBPS, DIRECTS DISTINCT TRANSCRIPT FATES, INCLUDING MRNA EXPORT. CONSEQUENTLY, OUR GOALS OVER THE NEXT FIVE YEARS FOCUS ON A QUANTITATIVE INTERROGATION OF MRNP BIOLOGY, ENCOMPASSING FUNCTION, REGULATION, AND STRUCTURE. PURSUING THIS GOAL IS TIMELY GIVEN THE NEWLY AMASSED KNOWLEDGE OF RBPS CENTRAL TO BOTH MRNA AND NCRNA BIOLOGY, THE TECHNOLOGIES AVAILABLE TO APPLY THESE QUESTIONS, AND THE NEED TO UNDERSTAND HOW DISEASE STATES ARISE IN THE CONTEXT OF MUTATIONS WITHIN CONSERVED RBP COMPONENTS OR THEIR MODULATION BY VIRUSES. A CRITICAL FACTOR IN MRNA EXPORT IS DBP5 (DDX19 IN HUMANS), A HIGHLY CONSERVED DEAD-BOX PROTEIN (DBP) THAT MEDIATES DIRECTIONAL MRNP EXPORT THROUGH NPCS VIA MODULATION OF RNA-PROTEIN INTERACTIONS. DBP5 IS ACTIVATED BY THE NPC COMPONENT GLE1- INSP6, WHICH WE HAVE ALSO SHOWN TO BE REQUIRED FOR TRNA EXPORT, IN ADDITION TO THE KNOWN ROLE OF GLE1 IN MRNA EXPORT. QUESTIONS THAT MUST BE ADDRESSED TO CLOSE MAJOR KNOWLEDGE GAPS IN THE RNA EXPORT FIELD INCLUDE: (1) HOW IS MRNP COMPOSITION REGULATED TO ACHIEVE DIRECTIONAL TRANSPORT THROUGH NPCS? (2) ARE MRNA AND NCRNA EXPORT PATHWAYS INTEGRATED OR DISTINCT? (3) IS THERE COORDINATION OF RNA PROCESSING AND EXPORT VIA SHARED RBPS BETWEEN MRNPS AND NCRNPS? BY ADDRESSING THESE QUESTIONS, WE EXPECT TO PROVIDE A MOLECULAR FRAMEWORK THAT DESCRIBES HOW DBP5 AND OTHER RBPS ENGAGE, MODIFY, AND DIRECT NUCLEAR RNA PROCESSING AND EXPORT. THESE DATA ARE ESSENTIAL TO UNDERSTANDING THE FLUX OF RNPS THROUGH NPCS TO MATCH CELLULAR DEMAND AND HOW ALTERING THIS PROCESS BY MUTATION LEADS TO DISEASE. IN ADDITION, THESE RESULTS WILL CONTRIBUTE TO THE UNDERSTANDING AND METHODOLOGY WITHIN THE DEAD-BOX PROTEIN, RNA TRANSPORT, AND GENE EXPRESSION FIELDS, THEREBY FUNDAMENTALLY CONTRIBUTING TO THE STUDY OF RNA BIOLOGY.",
+    "total_obligation": 1764468,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-07-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1188631.39,
+    "total_account_obligation": 1764468,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1188631.39
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1764468
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 841,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Office of the Assistant Secretary for Financial Resources",
+        "code": "7571",
+        "abbreviation": "ASFR"
+      },
+      "office_agency_name": "ASFR OFFICE OF THE ASSISTANT SECRETARY FOR FINANCIAL RESOURCES"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2027-07-31",
+      "last_modified_date": "2025-08-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1188631.39
+  }
+}

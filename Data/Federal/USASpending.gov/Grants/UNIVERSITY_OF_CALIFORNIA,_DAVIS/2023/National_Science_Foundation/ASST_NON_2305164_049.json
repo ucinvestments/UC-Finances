@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57166833,
+    "Award ID": "2305164",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 628430,
+    "Total Outlays": 328265.56,
+    "Description": "UNRAVELING NITRATE PHOTOCHEMISTRY IN THE ENVIRONMENT -WITH SUPPORT FROM THE ENVIRONMENTAL CHEMICAL SCIENCES PROGRAM IN THE DIVISION OF CHEMISTRY, DRS. CORT ANASTASIO, TED HULLAR, AND DAVIDE DONADIO FROM THE UNIVERSITY OF CALIFORNIA AT DAVIS AND THEIR TEAMS WILL STUDY THE INFLUENCE OF SURFACES AND ORGANIC MOLECULES ON NITRATE PHOTOCHEMISTRY. NITROGEN OXIDES (NOX), WHICH ARE EMITTED DURING COMBUSTION OF FOSSIL FUELS, PLAY MAJOR ROLES IN THE PRODUCTION OF SMOG. DURING SMOG FORMATION, NOX IS CONVERTED TO NITRATE, WHICH TRADITIONALLY WAS THOUGHT TO BE AN UNREACTIVE FINAL PRODUCT. HOWEVER, RESEARCH OVER THE PAST 20 YEARS SUGGESTS THAT SOME NITRATE IN THE ENVIRONMENT ? SUCH AS ON SURFACES OR IN THE PRESENCE OF CERTAIN CARBON-CONTAINING MOLECULES ? CAN ABSORB SUNLIGHT TO VERY QUICKLY REFORM NOX. IF TRUE, THIS WOULD LEAD TO MORE SMOG THAN EXPECTED FROM THE INITIAL NOX EMISSIONS. THE COLLABORATIVE UC-DAVIS TEAM WILL ADDRESS THIS DISCREPANCY IN THE PROJECTED STUDIES. THIS PROJECT ALSO INCLUDES THE TRAINING OF UNDERGRADUATE AND GRADUATE STUDENTS AS WELL AS CONTRIBUTIONS TO PODCASTS AND FACT SHEETS ABOUT ENVIRONMENTAL CHEMISTRY FOR MIDDLE AND HIGH SCHOOL STUDENTS. THIS PROJECT WILL STUDY NITRATE PHOTOCHEMISTRY ON SURFACES AND IN THE PRESENCE OF ORGANIC MOLECULES BY COMBINING COMPUTATIONAL CHEMICAL MODELING WITH EXPERIMENTAL MEASUREMENTS IN THE LABORATORY. THE MODELING WILL LEVERAGE AB INITIO MOLECULAR DYNAMICS OF THE (PHOTO)EXCITED TRIPLET STATE TO UNRAVEL THE MOLECULAR PATHWAYS AND FREE ENERGY SURFACE OF NITRATE PHOTOCHEMISTRY IN SOLUTION. THIS WILL ALLOW PREDICTIONS OF NITRATE QUANTUM YIELDS, WHICH WILL BE BENCHMARKED AGAINST PUBLISHED MEASUREMENTS. THIS APPROACH WILL THEN BE APPLIED TO PREDICT QUANTUM YIELDS ON A VARIETY OF ENVIRONMENTALLY RELEVANT SURFACES, WHICH WILL BE INTEGRATED WITH COMPUTED NITRATE ABSORPTION SPECTRA TO ESTIMATE NITRATE PHOTOLYSIS RATES. SIMULTANEOUSLY, RATES OF NITRATE PHOTOLYSIS ON THE SAME SURFACES WILL BE MEASURED IN THE LABORATORY USING NEWLY DEVELOPED TECHNIQUES TO STUDY SOLID-STATE PHOTOCHEMISTRY WITH MONOCHROMATIC ILLUMINATION. UNLIKE MOST PAST STUDIES, THE MEASUREMENTS WILL ALSO EMPLOY CHEMICAL ACTINOMETRY ON THE SURFACE TO BETTER QUANTIFY PHOTON FLUXES. THEN BY COMBINING THE MODELING AND EXPERIMENTAL RESULTS, THE TEAM AIMS TO ESTABLISH THE EXTENT TO WHICH FASTER NITRATE PHOTOLYSIS ON SURFACES IS DUE TO AN INCREASE IN LIGHT ABSORPTION AND/OR AN INCREASE IN PHOTOCHEMICAL EFFICIENCY. USING COMPUTATIONAL AND EXPERIMENTAL APPROACHES, THIS PROJECT WILL ALSO ASSESS HOW ORGANIC MOLECULES IMPACT NITRATE PHOTOLYSIS IN SOLUTION AND EXPLORE THE UNDERLYING MECHANISMS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-06-01",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2305164_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57166833,
+    "generated_unique_award_id": "ASST_NON_2305164_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "UNRAVELING NITRATE PHOTOCHEMISTRY IN THE ENVIRONMENT -WITH SUPPORT FROM THE ENVIRONMENTAL CHEMICAL SCIENCES PROGRAM IN THE DIVISION OF CHEMISTRY, DRS. CORT ANASTASIO, TED HULLAR, AND DAVIDE DONADIO FROM THE UNIVERSITY OF CALIFORNIA AT DAVIS AND THEIR TEAMS WILL STUDY THE INFLUENCE OF SURFACES AND ORGANIC MOLECULES ON NITRATE PHOTOCHEMISTRY. NITROGEN OXIDES (NOX), WHICH ARE EMITTED DURING COMBUSTION OF FOSSIL FUELS, PLAY MAJOR ROLES IN THE PRODUCTION OF SMOG. DURING SMOG FORMATION, NOX IS CONVERTED TO NITRATE, WHICH TRADITIONALLY WAS THOUGHT TO BE AN UNREACTIVE FINAL PRODUCT. HOWEVER, RESEARCH OVER THE PAST 20 YEARS SUGGESTS THAT SOME NITRATE IN THE ENVIRONMENT ? SUCH AS ON SURFACES OR IN THE PRESENCE OF CERTAIN CARBON-CONTAINING MOLECULES ? CAN ABSORB SUNLIGHT TO VERY QUICKLY REFORM NOX. IF TRUE, THIS WOULD LEAD TO MORE SMOG THAN EXPECTED FROM THE INITIAL NOX EMISSIONS. THE COLLABORATIVE UC-DAVIS TEAM WILL ADDRESS THIS DISCREPANCY IN THE PROJECTED STUDIES. THIS PROJECT ALSO INCLUDES THE TRAINING OF UNDERGRADUATE AND GRADUATE STUDENTS AS WELL AS CONTRIBUTIONS TO PODCASTS AND FACT SHEETS ABOUT ENVIRONMENTAL CHEMISTRY FOR MIDDLE AND HIGH SCHOOL STUDENTS. THIS PROJECT WILL STUDY NITRATE PHOTOCHEMISTRY ON SURFACES AND IN THE PRESENCE OF ORGANIC MOLECULES BY COMBINING COMPUTATIONAL CHEMICAL MODELING WITH EXPERIMENTAL MEASUREMENTS IN THE LABORATORY. THE MODELING WILL LEVERAGE AB INITIO MOLECULAR DYNAMICS OF THE (PHOTO)EXCITED TRIPLET STATE TO UNRAVEL THE MOLECULAR PATHWAYS AND FREE ENERGY SURFACE OF NITRATE PHOTOCHEMISTRY IN SOLUTION. THIS WILL ALLOW PREDICTIONS OF NITRATE QUANTUM YIELDS, WHICH WILL BE BENCHMARKED AGAINST PUBLISHED MEASUREMENTS. THIS APPROACH WILL THEN BE APPLIED TO PREDICT QUANTUM YIELDS ON A VARIETY OF ENVIRONMENTALLY RELEVANT SURFACES, WHICH WILL BE INTEGRATED WITH COMPUTED NITRATE ABSORPTION SPECTRA TO ESTIMATE NITRATE PHOTOLYSIS RATES. SIMULTANEOUSLY, RATES OF NITRATE PHOTOLYSIS ON THE SAME SURFACES WILL BE MEASURED IN THE LABORATORY USING NEWLY DEVELOPED TECHNIQUES TO STUDY SOLID-STATE PHOTOCHEMISTRY WITH MONOCHROMATIC ILLUMINATION. UNLIKE MOST PAST STUDIES, THE MEASUREMENTS WILL ALSO EMPLOY CHEMICAL ACTINOMETRY ON THE SURFACE TO BETTER QUANTIFY PHOTON FLUXES. THEN BY COMBINING THE MODELING AND EXPERIMENTAL RESULTS, THE TEAM AIMS TO ESTABLISH THE EXTENT TO WHICH FASTER NITRATE PHOTOLYSIS ON SURFACES IS DUE TO AN INCREASE IN LIGHT ABSORPTION AND/OR AN INCREASE IN PHOTOCHEMICAL EFFICIENCY. USING COMPUTATIONAL AND EXPERIMENTAL APPROACHES, THIS PROJECT WILL ALSO ASSESS HOW ORGANIC MOLECULES IMPACT NITRATE PHOTOLYSIS IN SOLUTION AND EXPLORE THE UNDERLYING MECHANISMS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 628430,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-05-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 374522.73,
+    "total_account_obligation": 628430,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 374522.73
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 628430
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF CHEMISTRY"
+    },
+    "period_of_performance": {
+      "start_date": "2023-06-01",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-01-22",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 374522.73
+  }
+}

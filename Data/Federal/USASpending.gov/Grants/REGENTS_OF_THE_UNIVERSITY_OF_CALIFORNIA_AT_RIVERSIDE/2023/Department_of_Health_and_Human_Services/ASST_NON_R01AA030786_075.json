@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91118523,
+    "Award ID": "R01AA030786",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1841344,
+    "Total Outlays": 513454.39,
+    "Description": "PREVENTING ALCOHOL USE DISORDERS AND ALCOHOL-RELATED HARMS IN PACIFIC ISLANDER YOUNG ADULTS - ABSTRACT  NATIVE HAWAIIANS/PACIFIC ISLANDERS (NPI) IN THE U.S. ARE A RAPIDLY GROWING RACIAL GROUP THAT SUFFERS SEVERE ALCOHOL-RELATED DISPARITIES. IN NPI COMMUNITIES, YOUNG ADULTS (18-30 YEARS) ENDURE THE GREATEST BURDEN OF ALCOHOL USE DISORDERS (AUD) AND ALCOHOL-RELATED HARMS WITH OUR EARLIER NIAAA R21 STUDY REVEALING THAT ALMOST 50% OF COMMUNITY-DWELLING NPI YOUNG ADULTS ARE AT HEAVY RISK FOR, OR HAVE, AUDS WITH 40% EXPERIENCING ALCOHOL-RELATED HARMS (E.G., HEALTH, SOCIAL, WORK). DESPITE THIS, NPI YOUNG ADULTS HAVE RECEIVED MINIMAL ALCOHOL RESEARCH ATTENTION, LEADING TO A LACK OF EFFECTIVE INTERVENTIONS TO PREVENT OR REDUCE THEIR EXTREME AUD RISK.  GUIDED BY THE FINDINGS OF OUR NIAAA R21, THIS RESUBMITTED R01 STUDY WILL RESPOND TO THIS PUBLIC HEALTH GAP BY REFINING AND EFFICACY TESTING SPEAR (STRATEGIES FOR PACIFIC EMPOWERMENT AND ALCOHOL REDUCTION): A NOVEL CULTURALLY GROUNDED AUD PREVENTION INTERVENTION FOR NPI YOUNG ADULTS. BUILDING ON OUR R21-DEVELOPED MODEL OF SPEAR INTERVENTION COMPONENTS FOR NPI YOUNG ADULTS (PREVIOUSLY CHOSEN AND SHAPED IN OUR R21 BY NPIS FROM EXISTING AUD PREVENTION INTERVENTIONS), IN AIM 1, WE WILL ASSEMBLE OUR TREATMENT MANUAL FROM OUR NPI-SHAPED R21 AUD PREVENTION COMPONENTS. TO ASSEMBLE THE MANUAL, WE WILL USE OUR CULTURALLY CONGRUENT INTERVENTION DESIGN METHODOLOGY FOR NPIS INVOLVING AN ADVISORY COUNCIL OF COMMUNITY EXPERTS AND CITIZENS’ PANELS—AN INNOVATIVE RESEARCH APPROACH THAT MIRRORS NPI COLLECTIVE DECISION-MAKING PRACTICES—TO OBTAIN CRITICAL FEEDBACK FOR REFINING SPEAR CONTENT/COMPONENTS FROM NPI YOUNG ADULTS WITH HIGH AUD RISK AND INFORMAL NPI PROVIDERS. IN AIM 2, WE WILL REVIEW AND REFINE OUR TREATMENT COMPONENTS AND MANUAL THROUGH EXPERT REVIEW BY 3 LEADING ALCOHOL RESEARCH EXPERTS AND FEASIBILITY PILOT TEST THE MANUAL WITH 36 NPI YOUNG ADULTS WITH HIGH AUD RISK FOR FEASIBILITY, ACCEPTABILITY, AND IMPACT, USING OUR FINDINGS TO FINALIZE SPEAR FOR OUR RANDOMIZED CONTROLLED TRIAL. IN AIM 3, WE WILL TEST THE EFFICACY OF SPEAR BY CONDUCTING A FULL-SCALE RANDOMIZED CONTROLLED TRIAL WITH 240 NPI YOUNG ADULTS WITH HIGH AUD RISK IN TWO LARGE NPI COMMUNITIES IN LOS ANGELES COUNTY AND NORTHWEST ARKANSAS FOR GENERALIZABILITY. ALIGNING WITH COMMUNITY RESEARCH PRINCIPLES, WE WILL SHARE STUDY FINDINGS WITH THE NPI COMMUNITY THROUGH PUBLIC REPORTS AND PRESENTATIONS, AND TO THE SCIENTIFIC COMMUNITY THROUGH ACADEMIC PRESENTATIONS AND MANUSCRIPTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-18",
+    "End Date": "2028-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AA030786_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91118523,
+    "generated_unique_award_id": "ASST_NON_R01AA030786_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PREVENTING ALCOHOL USE DISORDERS AND ALCOHOL-RELATED HARMS IN PACIFIC ISLANDER YOUNG ADULTS - ABSTRACT  NATIVE HAWAIIANS/PACIFIC ISLANDERS (NPI) IN THE U.S. ARE A RAPIDLY GROWING RACIAL GROUP THAT SUFFERS SEVERE ALCOHOL-RELATED DISPARITIES. IN NPI COMMUNITIES, YOUNG ADULTS (18-30 YEARS) ENDURE THE GREATEST BURDEN OF ALCOHOL USE DISORDERS (AUD) AND ALCOHOL-RELATED HARMS WITH OUR EARLIER NIAAA R21 STUDY REVEALING THAT ALMOST 50% OF COMMUNITY-DWELLING NPI YOUNG ADULTS ARE AT HEAVY RISK FOR, OR HAVE, AUDS WITH 40% EXPERIENCING ALCOHOL-RELATED HARMS (E.G., HEALTH, SOCIAL, WORK). DESPITE THIS, NPI YOUNG ADULTS HAVE RECEIVED MINIMAL ALCOHOL RESEARCH ATTENTION, LEADING TO A LACK OF EFFECTIVE INTERVENTIONS TO PREVENT OR REDUCE THEIR EXTREME AUD RISK.  GUIDED BY THE FINDINGS OF OUR NIAAA R21, THIS RESUBMITTED R01 STUDY WILL RESPOND TO THIS PUBLIC HEALTH GAP BY REFINING AND EFFICACY TESTING SPEAR (STRATEGIES FOR PACIFIC EMPOWERMENT AND ALCOHOL REDUCTION): A NOVEL CULTURALLY GROUNDED AUD PREVENTION INTERVENTION FOR NPI YOUNG ADULTS. BUILDING ON OUR R21-DEVELOPED MODEL OF SPEAR INTERVENTION COMPONENTS FOR NPI YOUNG ADULTS (PREVIOUSLY CHOSEN AND SHAPED IN OUR R21 BY NPIS FROM EXISTING AUD PREVENTION INTERVENTIONS), IN AIM 1, WE WILL ASSEMBLE OUR TREATMENT MANUAL FROM OUR NPI-SHAPED R21 AUD PREVENTION COMPONENTS. TO ASSEMBLE THE MANUAL, WE WILL USE OUR CULTURALLY CONGRUENT INTERVENTION DESIGN METHODOLOGY FOR NPIS INVOLVING AN ADVISORY COUNCIL OF COMMUNITY EXPERTS AND CITIZENS’ PANELS—AN INNOVATIVE RESEARCH APPROACH THAT MIRRORS NPI COLLECTIVE DECISION-MAKING PRACTICES—TO OBTAIN CRITICAL FEEDBACK FOR REFINING SPEAR CONTENT/COMPONENTS FROM NPI YOUNG ADULTS WITH HIGH AUD RISK AND INFORMAL NPI PROVIDERS. IN AIM 2, WE WILL REVIEW AND REFINE OUR TREATMENT COMPONENTS AND MANUAL THROUGH EXPERT REVIEW BY 3 LEADING ALCOHOL RESEARCH EXPERTS AND FEASIBILITY PILOT TEST THE MANUAL WITH 36 NPI YOUNG ADULTS WITH HIGH AUD RISK FOR FEASIBILITY, ACCEPTABILITY, AND IMPACT, USING OUR FINDINGS TO FINALIZE SPEAR FOR OUR RANDOMIZED CONTROLLED TRIAL. IN AIM 3, WE WILL TEST THE EFFICACY OF SPEAR BY CONDUCTING A FULL-SCALE RANDOMIZED CONTROLLED TRIAL WITH 240 NPI YOUNG ADULTS WITH HIGH AUD RISK IN TWO LARGE NPI COMMUNITIES IN LOS ANGELES COUNTY AND NORTHWEST ARKANSAS FOR GENERALIZABILITY. ALIGNING WITH COMMUNITY RESEARCH PRINCIPLES, WE WILL SHARE STUDY FINDINGS WITH THE NPI COMMUNITY THROUGH PUBLIC REPORTS AND PRESENTATIONS, AND TO THE SCIENTIFIC COMMUNITY THROUGH ACADEMIC PRESENTATIONS AND MANUSCRIPTS.",
+    "total_obligation": 1841344,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-09-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 513454.39,
+    "total_account_obligation": 1841344,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 513454.39
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1841344
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute on Alcohol Abuse and Alcoholism"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute on Alcohol Abuse and Alcoholism"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-18",
+      "end_date": "2028-08-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 513454.39
+  }
+}

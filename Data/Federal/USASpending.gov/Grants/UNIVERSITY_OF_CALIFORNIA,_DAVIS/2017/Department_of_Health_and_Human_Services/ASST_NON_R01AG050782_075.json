@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91121404,
+    "Award ID": "R01AG050782",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 14240222,
+    "Total Outlays": 4826842.99,
+    "Description": "STUDY OF HEALTHY AGING IN AFRICAN AMERICANS - PROJECT SUMMARY BLACK/AFRICAN AMERICANS HAVE THE HIGHEST RATE OF ALZHEIMER'S DISEASE AND RELATED DEMENTIAS (ADRD) IN THE UNITED STATES BUT EVIDENCE ON RISK AND RESILIENCY FACTORS FOR ADRD IS BASED ALMOST EXCLUSIVELY ON NON-HISPANIC WHITES. THE STUDY OF HEALTHY AGING IN AFRICAN AMERICANS (STAR) WAS INITIATED IN 2017 (RF1AG050782) AS A LIFECOURSE COHORT STUDY OF COGNITIVE AGEING IN MIDDLE AGED AND ELDERLY BLACK INDIVIDUALS WHO ARE LONG-TERM MEMBERS OF KAISER PERMANENTE NORTHERN CALIFORNIA. RECENTLY ESTABLISHED, STAR IS ONE OF THE LARGEST ALL BLACK COHORT STUDIES WITH PROSPECTIVE CLINICAL, LIFESTYLE, AND BEHAVIORAL DATA FROM 1960S - PRESENT. CYCLE 1OF STAR ACCOMPLISHED KEY GOALS INCLUDING COMMENCEMENT OF THE COHORT AND ENROLLMENT OF 764 BLACK INDIVIDUALS (MEAN AGE 69, RANGE 53-95; 66% FEMALE) WITH 3 RESEARCH VISITS APPROXIMATELY 15 MONTHS APART. ALL WAVES INCLUDED AN EXTENSIVE NEUROPSYCHOLOGY BATTERY ALONG WITH SURVEY COLLECTION OF PSYCHOSOCIAL FACTORS, STRESS, DISCRIMINATION, OCCUPATION, AND AN ARRAY OF HEALTH, BEHAVIORAL AND FUNCTIONAL MEASURES, 233 PARTICIPANTS HAD A BRAIN MRI. STAR CYCLE 1 HAS CONTRIBUTED KEY FINDINGS ABOUT COGNITIVE AGING IN THE BLACK POPULATION AND SET UP AN UNPRECEDENTED INFRASTRUCTURE ENABLING LINKAGE OF EARLY-LIFE DATA AND MEDICAL RECORDS TO INVESTIGATE PREDICTORS OF COGNITIVE DECLINE, NEURODEGENERATION AND VASCULAR INJURY. STAR PARTICIPANTS DISPLAY A WIDE ARRAY OF LIFE EXPERIENCES AND RESILIENCY: 47% ATTENDED COLLEGE, 80% REPORTING EVERYDAY DISCRIMINATION, 57% WITH MOTHERS \u003c HIGH SCHOOL EDUCATION, 28% FINANCIAL PROBLEMS IN CHILDHOOD WHILE 4% IN ADULTHOOD, 39% ATTENDED SEGREGATED SCHOOLS, AND 36% HAD \u003e1 CARDIOVASCULAR RISK FACTOR IN YOUNG ADULTHOOD. KEY FINDINGS FROM CYCLE 1 INCLUDE: 1) SCHOOL SEGREGATION AND TIMING OF DESEGREGATION IS ASSOCIATED WITH DIFFERENCES IN LATE-LIFE COGNITION; 2) HYPERTENSION, OBESITY, AND HYPERLIPIDEMIA IN ADOLESCENCE, YOUNG ADULTHOOD, AND MIDLIFE ARE ASSOCIATED WITH POORER COGNITIVE PERFORMANCE AND MORE VASCULAR BRAIN INJURY; 3) BIRTH IN A STROKE-BELT STATE IS ASSOCIATED WITH POORER COGNITIVE FUNCTION; 4) PARENTAL EDUCATION AND CHILDHOOD SOCIOECONOMIC STATUS ARE ASSOCIATED WITH COGNITIVE PERFORMANCE; AND 5) ATTENDING A SCHOOL WITH MOSTLY BLACK STUDENTS IS ASSOCIATED WITH LOWER DEPRESSIVE SYMPTOMS IN LATER LIFE. THE ESTABLISHMENT OF STAR IN CYCLE 1 SETS THE INFRASTRUCTURE FOR AN UNPRECEDENTED CONTINUING STUDY OF THE TRANSITION TO ADRD AND IDENTIFICATION OF LIFETIME FACTORS THAT CAN REDUCE RISK OF COGNITIVE IMPAIRMENT IN BLACK OLDER ADULTS. IN THIS COMPLETIVE RENEWAL FOR CYCLE 2 OF STAR OUR AIMS ARE: AIM 1A: ENROLL AN ADDITIONAL 400 INDIVIDUALS INTO STAR TO DETERMINE AGE AND SEX-SPECIFIC INCIDENT ADRD AND DOMAIN SPECIFIC COGNITIVE DECLINE IN A COHORT OF BLACK INDIVIDUALS. AIM1B: EVALUATE LIFECOURSE RISK AND PROTECTIVE FACTORS OF ADRD AND COGNITIVE DECLINE IN THIS COHORT. AIM 2: COLLECT BLOOD-BASED BIOMARKERS CONSISTENT WITH THE ATN FRAMEWORK (ASS 42/40, TOTAL TAU AND PHOSPHOTAU-181, NEUROFILAMENT LIGHT [NFL], GLIAL FIBRILLARY ACIDIC PROTEIN [GFAP]) AND EVALUATE THEIR CONTRIBUTION TO ADRD AND COGNITIVE DECLINE IN A COHORT OF BLACK INDIVIDUALS. AIM 3A: DETERMINE THE CONTRIBUTION OF LIFECOURSE RISK AND PROTECTIVE FACTORS ON NEUROIMAGING MARKERS OF NEURODEGENERATION, ATROPHY, AND VASCULAR INJURY CHANGE IN 300 BLACK INDIVIDUALS. AIM 3B: DETERMINE THE CONTRIBUTION OF NEUROIMAGING MARKERS OF NEURODEGENERATION, ATROPHY, AND VASCULAR INJURY CHANGE ON COGNITIVE DECLINE AND ADRD IN A BLACK COHORT. AIM 4A: INITIATE A BRAIN DONATION PROGRAM IN STAR AND CHARACTERIZE THE SPECTRUM OF NEUROPATHOLOGY IN A COHORT OF BLACK PARTICIPANTS. AIM 4B. EVALUATE PREDICTORS OF INTEREST, CONSENT, AND PARTICIPATION IN THE BRAIN DONATION PROGRAM.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2017-01-01",
+    "End Date": "2028-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG050782_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91121404,
+    "generated_unique_award_id": "ASST_NON_R01AG050782_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "STUDY OF HEALTHY AGING IN AFRICAN AMERICANS - PROJECT SUMMARY BLACK/AFRICAN AMERICANS HAVE THE HIGHEST RATE OF ALZHEIMER'S DISEASE AND RELATED DEMENTIAS (ADRD) IN THE UNITED STATES BUT EVIDENCE ON RISK AND RESILIENCY FACTORS FOR ADRD IS BASED ALMOST EXCLUSIVELY ON NON-HISPANIC WHITES. THE STUDY OF HEALTHY AGING IN AFRICAN AMERICANS (STAR) WAS INITIATED IN 2017 (RF1AG050782) AS A LIFECOURSE COHORT STUDY OF COGNITIVE AGEING IN MIDDLE AGED AND ELDERLY BLACK INDIVIDUALS WHO ARE LONG-TERM MEMBERS OF KAISER PERMANENTE NORTHERN CALIFORNIA. RECENTLY ESTABLISHED, STAR IS ONE OF THE LARGEST ALL BLACK COHORT STUDIES WITH PROSPECTIVE CLINICAL, LIFESTYLE, AND BEHAVIORAL DATA FROM 1960S - PRESENT. CYCLE 1OF STAR ACCOMPLISHED KEY GOALS INCLUDING COMMENCEMENT OF THE COHORT AND ENROLLMENT OF 764 BLACK INDIVIDUALS (MEAN AGE 69, RANGE 53-95; 66% FEMALE) WITH 3 RESEARCH VISITS APPROXIMATELY 15 MONTHS APART. ALL WAVES INCLUDED AN EXTENSIVE NEUROPSYCHOLOGY BATTERY ALONG WITH SURVEY COLLECTION OF PSYCHOSOCIAL FACTORS, STRESS, DISCRIMINATION, OCCUPATION, AND AN ARRAY OF HEALTH, BEHAVIORAL AND FUNCTIONAL MEASURES, 233 PARTICIPANTS HAD A BRAIN MRI. STAR CYCLE 1 HAS CONTRIBUTED KEY FINDINGS ABOUT COGNITIVE AGING IN THE BLACK POPULATION AND SET UP AN UNPRECEDENTED INFRASTRUCTURE ENABLING LINKAGE OF EARLY-LIFE DATA AND MEDICAL RECORDS TO INVESTIGATE PREDICTORS OF COGNITIVE DECLINE, NEURODEGENERATION AND VASCULAR INJURY. STAR PARTICIPANTS DISPLAY A WIDE ARRAY OF LIFE EXPERIENCES AND RESILIENCY: 47% ATTENDED COLLEGE, 80% REPORTING EVERYDAY DISCRIMINATION, 57% WITH MOTHERS \u003c HIGH SCHOOL EDUCATION, 28% FINANCIAL PROBLEMS IN CHILDHOOD WHILE 4% IN ADULTHOOD, 39% ATTENDED SEGREGATED SCHOOLS, AND 36% HAD \u003e1 CARDIOVASCULAR RISK FACTOR IN YOUNG ADULTHOOD. KEY FINDINGS FROM CYCLE 1 INCLUDE: 1) SCHOOL SEGREGATION AND TIMING OF DESEGREGATION IS ASSOCIATED WITH DIFFERENCES IN LATE-LIFE COGNITION; 2) HYPERTENSION, OBESITY, AND HYPERLIPIDEMIA IN ADOLESCENCE, YOUNG ADULTHOOD, AND MIDLIFE ARE ASSOCIATED WITH POORER COGNITIVE PERFORMANCE AND MORE VASCULAR BRAIN INJURY; 3) BIRTH IN A STROKE-BELT STATE IS ASSOCIATED WITH POORER COGNITIVE FUNCTION; 4) PARENTAL EDUCATION AND CHILDHOOD SOCIOECONOMIC STATUS ARE ASSOCIATED WITH COGNITIVE PERFORMANCE; AND 5) ATTENDING A SCHOOL WITH MOSTLY BLACK STUDENTS IS ASSOCIATED WITH LOWER DEPRESSIVE SYMPTOMS IN LATER LIFE. THE ESTABLISHMENT OF STAR IN CYCLE 1 SETS THE INFRASTRUCTURE FOR AN UNPRECEDENTED CONTINUING STUDY OF THE TRANSITION TO ADRD AND IDENTIFICATION OF LIFETIME FACTORS THAT CAN REDUCE RISK OF COGNITIVE IMPAIRMENT IN BLACK OLDER ADULTS. IN THIS COMPLETIVE RENEWAL FOR CYCLE 2 OF STAR OUR AIMS ARE: AIM 1A: ENROLL AN ADDITIONAL 400 INDIVIDUALS INTO STAR TO DETERMINE AGE AND SEX-SPECIFIC INCIDENT ADRD AND DOMAIN SPECIFIC COGNITIVE DECLINE IN A COHORT OF BLACK INDIVIDUALS. AIM1B: EVALUATE LIFECOURSE RISK AND PROTECTIVE FACTORS OF ADRD AND COGNITIVE DECLINE IN THIS COHORT. AIM 2: COLLECT BLOOD-BASED BIOMARKERS CONSISTENT WITH THE ATN FRAMEWORK (ASS 42/40, TOTAL TAU AND PHOSPHOTAU-181, NEUROFILAMENT LIGHT [NFL], GLIAL FIBRILLARY ACIDIC PROTEIN [GFAP]) AND EVALUATE THEIR CONTRIBUTION TO ADRD AND COGNITIVE DECLINE IN A COHORT OF BLACK INDIVIDUALS. AIM 3A: DETERMINE THE CONTRIBUTION OF LIFECOURSE RISK AND PROTECTIVE FACTORS ON NEUROIMAGING MARKERS OF NEURODEGENERATION, ATROPHY, AND VASCULAR INJURY CHANGE IN 300 BLACK INDIVIDUALS. AIM 3B: DETERMINE THE CONTRIBUTION OF NEUROIMAGING MARKERS OF NEURODEGENERATION, ATROPHY, AND VASCULAR INJURY CHANGE ON COGNITIVE DECLINE AND ADRD IN A BLACK COHORT. AIM 4A: INITIATE A BRAIN DONATION PROGRAM IN STAR AND CHARACTERIZE THE SPECTRUM OF NEUROPATHOLOGY IN A COHORT OF BLACK PARTICIPANTS. AIM 4B. EVALUATE PREDICTORS OF INTEREST, CONSENT, AND PARTICIPATION IN THE BRAIN DONATION PROGRAM.",
+    "total_obligation": 14240222,
+    "subaward_count": 3,
+    "total_subaward_amount": 2544477,
+    "date_signed": "2023-08-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 4826842.99,
+    "total_account_obligation": 14240222,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 4826842.99
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 14240222
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2017-01-01",
+      "end_date": "2028-05-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 4826842.99
+  }
+}

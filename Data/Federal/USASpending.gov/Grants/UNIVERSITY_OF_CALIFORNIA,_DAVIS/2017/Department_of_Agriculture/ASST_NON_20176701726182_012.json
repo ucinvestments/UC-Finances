@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56294972,
+    "Award ID": "20176701726182",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 975482,
+    "Total Outlays": 622931.35,
+    "Description": "PROTOZOAN PATHOGENS ARE MICROSCOPIC PARASITES THAT CAN CONTAMINATE SHELLFISH FROM OVERLAND RUNOFF CARRYING FECAL POLLUTION FROM LAND TO SEA. DESPITE WIDESPREAD CONTAMINATION OF SHELLFISH WITH PROTOZOAN PARASITES, THEIR IMPORTANCE AS CAUSES OF ILLNESS IN SEAFOOD CONSUMERS HAS BEEN UNDERSTUDIED. THIS PROJECT TARGETS FOUR PROTOZOANS IDENTIFIED AS NEGLECTED PATHOGENS IN THE CONTEXT OF SEAFOOD SAFETY: CRYPTOSPORIDIUM, GIARDIA, CYCLOSPORA, AND TOXOPLASMA. THE OVERALL GOAL OF THIS PROJECT IS TO DEVELOP AND VALIDATE NOVEL MOLECULAR METHODS FOR I) EFFICIENT SCREENING OF SHELLFISHTO SIMULTANEOUSLY IDENTIFY THESE FOUR PARASITES; AND II) DISCRIMINATION OF VIABLE PARASITES THAT CAN CAUSE ILLNESS FROM DEAD ORGANISMS THAT ARE DETECTABLE BUT NO LONGER INFECTIOUS. WE ADDITIONALLY AIM TO QUANTIFY THE RISK OF CONTRACTING PARASITE-BORNE DISEASE FROM CONSUMPTION OF OYSTERS USING A MULTI-STEP PROGRAM THAT EVALUATES DIFFERENT PRODUCTION AND DISTRIBUTION STAGES WITHIN THE SHELLFISH INDUSTRY- FROM SEA TO TABLE. THIS ANALYSIS TOOL WILL THEN ENABLE THE IDENTIFICATIONOF KEY STEPS WITHIN THE FOOD SUPPLY CHAIN WHERE INTERVENTION STRATEGIES CAN MOST EFFECTIVELY REDUCE THIS RISK.OUR PROJECT ALSO INCLUDESA ROBUST VALIDATION SCHEME THAT WOULD EVALUATE NOVEL PARASITE DETECTION METHODS NOT ONLY IN DIVERSE SHELLFISH TISSUES, BUT ALSO IN SEAWATER AND FRESHWATER. THIS APPROACH WILL BENEFIT MULTIPLE FOOD COMMODITIES BY DEVELOPING A NEW MOLECULAR TOOLKIT THAT COULD BE APPLIED BOTH ON FOOD MATRICES AS WELL AS ENVIRONMENTAL AND IRRIGATION WATERS. OUR WORK WILL SUPPORT THE AQUACULTURE INDUSTRY THROUGH BUILDING CAPACITY TO DETECT IMPORTANT, YET UNDERRESEARCHED, PROTOZOAN PATHOGENS IN SHELLFISHTISSUES, GROWING WATERS, AND WATERSHEDS DRAINING OVERLAND RUNOFF INTO COASTAL HABITATS. SEAFOOD CONSUMERS WILL ALSO BENEFIT FROM THE AVAILABILITY OF NEW METHODS THAT CAN EFFICIENTLYTEST FOOD COMODITIES AND INSURE THAT SHELLFISH DO NOT HARBOR VIABLE PARASITES THAN CAN CAUSE ILLNESS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2017-06-01",
+    "End Date": "2025-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20176701726182_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56294972,
+    "generated_unique_award_id": "ASST_NON_20176701726182_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PROTOZOAN PATHOGENS ARE MICROSCOPIC PARASITES THAT CAN CONTAMINATE SHELLFISH FROM OVERLAND RUNOFF CARRYING FECAL POLLUTION FROM LAND TO SEA. DESPITE WIDESPREAD CONTAMINATION OF SHELLFISH WITH PROTOZOAN PARASITES, THEIR IMPORTANCE AS CAUSES OF ILLNESS IN SEAFOOD CONSUMERS HAS BEEN UNDERSTUDIED. THIS PROJECT TARGETS FOUR PROTOZOANS IDENTIFIED AS NEGLECTED PATHOGENS IN THE CONTEXT OF SEAFOOD SAFETY: CRYPTOSPORIDIUM, GIARDIA, CYCLOSPORA, AND TOXOPLASMA. THE OVERALL GOAL OF THIS PROJECT IS TO DEVELOP AND VALIDATE NOVEL MOLECULAR METHODS FOR I) EFFICIENT SCREENING OF SHELLFISHTO SIMULTANEOUSLY IDENTIFY THESE FOUR PARASITES; AND II) DISCRIMINATION OF VIABLE PARASITES THAT CAN CAUSE ILLNESS FROM DEAD ORGANISMS THAT ARE DETECTABLE BUT NO LONGER INFECTIOUS. WE ADDITIONALLY AIM TO QUANTIFY THE RISK OF CONTRACTING PARASITE-BORNE DISEASE FROM CONSUMPTION OF OYSTERS USING A MULTI-STEP PROGRAM THAT EVALUATES DIFFERENT PRODUCTION AND DISTRIBUTION STAGES WITHIN THE SHELLFISH INDUSTRY- FROM SEA TO TABLE. THIS ANALYSIS TOOL WILL THEN ENABLE THE IDENTIFICATIONOF KEY STEPS WITHIN THE FOOD SUPPLY CHAIN WHERE INTERVENTION STRATEGIES CAN MOST EFFECTIVELY REDUCE THIS RISK.OUR PROJECT ALSO INCLUDESA ROBUST VALIDATION SCHEME THAT WOULD EVALUATE NOVEL PARASITE DETECTION METHODS NOT ONLY IN DIVERSE SHELLFISH TISSUES, BUT ALSO IN SEAWATER AND FRESHWATER. THIS APPROACH WILL BENEFIT MULTIPLE FOOD COMMODITIES BY DEVELOPING A NEW MOLECULAR TOOLKIT THAT COULD BE APPLIED BOTH ON FOOD MATRICES AS WELL AS ENVIRONMENTAL AND IRRIGATION WATERS. OUR WORK WILL SUPPORT THE AQUACULTURE INDUSTRY THROUGH BUILDING CAPACITY TO DETECT IMPORTANT, YET UNDERRESEARCHED, PROTOZOAN PATHOGENS IN SHELLFISHTISSUES, GROWING WATERS, AND WATERSHEDS DRAINING OVERLAND RUNOFF INTO COASTAL HABITATS. SEAFOOD CONSUMERS WILL ALSO BENEFIT FROM THE AVAILABILITY OF NEW METHODS THAT CAN EFFICIENTLYTEST FOOD COMODITIES AND INSURE THAT SHELLFISH DO NOT HARBOR VIABLE PARASITES THAN CAN CAUSE ILLNESS.",
+    "total_obligation": 975482,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2017-02-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 622931.35,
+    "total_account_obligation": 480000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 622931.35
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 480000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of  Food Safety and Nutrition (IFSN)"
+    },
+    "period_of_performance": {
+      "start_date": "2017-06-01",
+      "end_date": "2025-05-31",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 622931.35
+  }
+}

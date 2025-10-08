@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56789933,
+    "Award ID": "2200221",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 999844,
+    "Total Outlays": 985715.25,
+    "Description": "PIPP PHASE I: TRANSDISCIPLINARY INNOVATION IN PREDICTIVE SCIENCE FOR EMERGING INFECTIOUS DISEASE AND SPILLOVER -THE SCALE AND IMPACT OF EPIDEMICS AND PANDEMICS ARE EXPECTED TO INCREASE SUBSTANTIVELY IN FUTURE YEARS GIVEN GLOBAL TRENDS IN ENVIRONMENTAL CHANGE. PANDEMICS ARE MOST OFTEN CAUSED BY SPILLOVER EVENTS IN WHICH VIRUSES FROM WILD ANIMALS JUMP TO PEOPLE AND SPREAD, QUICKLY OUTPACING CONTAINMENT EFFORTS. PANDEMICS ARE BEST CONTAINED AT THE EARLIEST STAGES OF EMERGENCE, YET MAJOR HURDLES HAVE STOOD IN THE WAY OF EARLY DETECTION OF PANDEMIC THREATS AT THE SCALE THAT IS NEEDED. WE SET FORTH AN AMBITIOUS SCIENTIFIC AGENDA TO OVERCOME TECHNOLOGICAL LIMITATIONS IMPEDING DETECTION AND CHARACTERIZATION OF EMERGING PANDEMIC THREATS. OUR TEAM SPANNING ENGINEERING, COMPUTER SCIENCE, SOCIAL SCIENCE, EPIDEMIOLOGY, AND VIROLOGY WITH STAKEHOLDERS FROM PUBLIC HEALTH, WILDLIFE HEALTH, AND INDUSTRY IS FIRST-OF-A-KIND TO ADVANCE PREDICTIVE INTELLIGENCE FOR POTENTIAL PANDEMICS. WE WILL DEVELOP NEW DISEASE SURVEILLANCE TECHNOLOGIES THAT INCORPORATE INNOVATIVE SENSING, EPIDEMIOLOGICAL INSIGHTS, AND ARTIFICIAL INTELLIGENCE STRATEGIES, TO DETECT WHAT ANIMALS ARE PRESENT AND WHAT VIRUSES THEY CARRY - ALL REMOTELY WITH LITTLE HUMAN INTERVENTION. WE SEEK TO DEVELOP DIVERSE, INCLUSIVE, AND HIGHLY FUNCTIONAL TRANSDISCIPLINARY RESEARCH TEAMS AND TRAINEES, TO MOVE BEYOND THE STATE OF THE ART IN PREDICTIVE INTELLIGENCE FOR PANDEMICS TO INFORM NATIONAL AND GLOBAL HEALTH SECURITY. WE ADDRESS THE GRAND CHALLENGE OF GENERATING ACTIONABLE INTELLIGENCE FOR EARLY DETECTION OF PANDEMIC THREATS AT THE POINT OF DISEASE SPILLOVER FROM ANIMALS TO PEOPLE. WE ARE PLANNING A TRANSDISCIPLINARY CENTER AND ASSOCIATED RESEARCH TO ADVANCE OUR ABILITY TO CHARACTERIZE ENVIRONMENTAL CHANGE AND ANIMAL-HUMAN INTERACTIONS THAT FACILITATE THE EMERGENCE OF PANDEMIC THREATS, AND DEVELOP PREDICTIVE CAPABILITIES IN FORECASTING PANDEMIC RISK, TO ENABLE AN EVIDENCE-BASE THAT CAN INFORM PANDEMIC PREVENTION. RESEARCH ADVANCES WILL BE FOCUSED ON 1) CHARACTERIZING ENVIRONMENTAL CONDITIONS AND THE HUMAN DIMENSIONS OF DISEASE EMERGENCE, ESPECIALLY THE ANIMAL AND HUMAN MOVEMENTS, NETWORKS, AND SOCIAL SYSTEMS THAT FACILITATE SPILLOVER AT THE ANIMAL-HUMAN INTERFACE, 2) INVENTING BROAD-SPECTRUM SENSOR TECHNOLOGIES FOR RAPID, ACCURATE, SAFE, AND SCALABLE PATHOGEN DETECTION TAILORED TO A RANGE OF ANIMALS IN DIVERSE ENVIRONMENTS, AND 3) IMPROVING FORECASTING BY INTEGRATION OF EPIDEMIOLOGIC AND LANDSCAPE DATA WITH MACHINE LEARNING TO ADVANCE PREDICTIVE INTELLIGENCE. OUR TEAM WILL FOSTER THE CONVERGENCE OF CREATIVE IDEAS, NOVEL APPROACHES AND TECHNOLOGIES, TRANSDISCIPLINARY COLLABORATION AND COMMUNICATION, PARTICIPATORY COMMUNITY SCIENCE, AND CROSS-TRAINING FOR INNOVATION FOR A PROFOUNDLY DIVERSE WORKFORCE. THIS AWARD IS SUPPORTED BY THE CROSS-DIRECTORATE PREDICTIVE INTELLIGENCE FOR PANDEMIC PREVENTION PHASE I (PIPP) PROGRAM, WHICH IS JOINTLY FUNDED BY THE DIRECTORATES FOR BIOLOGICAL SCIENCES (BIO); COMPUTER, INFORMATION SCIENCE AND ENGINEERING (CISE); ENGINEERING (ENG) AND SOCIAL, BEHAVIORAL AND ECONOMIC SCIENCES (SBE). THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6134",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-08-01",
+    "End Date": "2024-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2200221_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56789933,
+    "generated_unique_award_id": "ASST_NON_2200221_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PIPP PHASE I: TRANSDISCIPLINARY INNOVATION IN PREDICTIVE SCIENCE FOR EMERGING INFECTIOUS DISEASE AND SPILLOVER -THE SCALE AND IMPACT OF EPIDEMICS AND PANDEMICS ARE EXPECTED TO INCREASE SUBSTANTIVELY IN FUTURE YEARS GIVEN GLOBAL TRENDS IN ENVIRONMENTAL CHANGE. PANDEMICS ARE MOST OFTEN CAUSED BY SPILLOVER EVENTS IN WHICH VIRUSES FROM WILD ANIMALS JUMP TO PEOPLE AND SPREAD, QUICKLY OUTPACING CONTAINMENT EFFORTS. PANDEMICS ARE BEST CONTAINED AT THE EARLIEST STAGES OF EMERGENCE, YET MAJOR HURDLES HAVE STOOD IN THE WAY OF EARLY DETECTION OF PANDEMIC THREATS AT THE SCALE THAT IS NEEDED. WE SET FORTH AN AMBITIOUS SCIENTIFIC AGENDA TO OVERCOME TECHNOLOGICAL LIMITATIONS IMPEDING DETECTION AND CHARACTERIZATION OF EMERGING PANDEMIC THREATS. OUR TEAM SPANNING ENGINEERING, COMPUTER SCIENCE, SOCIAL SCIENCE, EPIDEMIOLOGY, AND VIROLOGY WITH STAKEHOLDERS FROM PUBLIC HEALTH, WILDLIFE HEALTH, AND INDUSTRY IS FIRST-OF-A-KIND TO ADVANCE PREDICTIVE INTELLIGENCE FOR POTENTIAL PANDEMICS. WE WILL DEVELOP NEW DISEASE SURVEILLANCE TECHNOLOGIES THAT INCORPORATE INNOVATIVE SENSING, EPIDEMIOLOGICAL INSIGHTS, AND ARTIFICIAL INTELLIGENCE STRATEGIES, TO DETECT WHAT ANIMALS ARE PRESENT AND WHAT VIRUSES THEY CARRY - ALL REMOTELY WITH LITTLE HUMAN INTERVENTION. WE SEEK TO DEVELOP DIVERSE, INCLUSIVE, AND HIGHLY FUNCTIONAL TRANSDISCIPLINARY RESEARCH TEAMS AND TRAINEES, TO MOVE BEYOND THE STATE OF THE ART IN PREDICTIVE INTELLIGENCE FOR PANDEMICS TO INFORM NATIONAL AND GLOBAL HEALTH SECURITY. WE ADDRESS THE GRAND CHALLENGE OF GENERATING ACTIONABLE INTELLIGENCE FOR EARLY DETECTION OF PANDEMIC THREATS AT THE POINT OF DISEASE SPILLOVER FROM ANIMALS TO PEOPLE. WE ARE PLANNING A TRANSDISCIPLINARY CENTER AND ASSOCIATED RESEARCH TO ADVANCE OUR ABILITY TO CHARACTERIZE ENVIRONMENTAL CHANGE AND ANIMAL-HUMAN INTERACTIONS THAT FACILITATE THE EMERGENCE OF PANDEMIC THREATS, AND DEVELOP PREDICTIVE CAPABILITIES IN FORECASTING PANDEMIC RISK, TO ENABLE AN EVIDENCE-BASE THAT CAN INFORM PANDEMIC PREVENTION. RESEARCH ADVANCES WILL BE FOCUSED ON 1) CHARACTERIZING ENVIRONMENTAL CONDITIONS AND THE HUMAN DIMENSIONS OF DISEASE EMERGENCE, ESPECIALLY THE ANIMAL AND HUMAN MOVEMENTS, NETWORKS, AND SOCIAL SYSTEMS THAT FACILITATE SPILLOVER AT THE ANIMAL-HUMAN INTERFACE, 2) INVENTING BROAD-SPECTRUM SENSOR TECHNOLOGIES FOR RAPID, ACCURATE, SAFE, AND SCALABLE PATHOGEN DETECTION TAILORED TO A RANGE OF ANIMALS IN DIVERSE ENVIRONMENTS, AND 3) IMPROVING FORECASTING BY INTEGRATION OF EPIDEMIOLOGIC AND LANDSCAPE DATA WITH MACHINE LEARNING TO ADVANCE PREDICTIVE INTELLIGENCE. OUR TEAM WILL FOSTER THE CONVERGENCE OF CREATIVE IDEAS, NOVEL APPROACHES AND TECHNOLOGIES, TRANSDISCIPLINARY COLLABORATION AND COMMUNICATION, PARTICIPATORY COMMUNITY SCIENCE, AND CROSS-TRAINING FOR INNOVATION FOR A PROFOUNDLY DIVERSE WORKFORCE. THIS AWARD IS SUPPORTED BY THE CROSS-DIRECTORATE PREDICTIVE INTELLIGENCE FOR PANDEMIC PREVENTION PHASE I (PIPP) PROGRAM, WHICH IS JOINTLY FUNDED BY THE DIRECTORATES FOR BIOLOGICAL SCIENCES (BIO); COMPUTER, INFORMATION SCIENCE AND ENGINEERING (CISE); ENGINEERING (ENG) AND SOCIAL, BEHAVIORAL AND ECONOMIC SCIENCES (SBE). THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 999844,
+    "subaward_count": 4,
+    "total_subaward_amount": 300000,
+    "date_signed": "2022-06-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 985715.25,
+    "total_account_obligation": 985715.25,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 985715.25
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 985715.25
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF COMPUTER  COMM FOUNDATIONS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF COMPUTER  COMM FOUNDATIONS"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2024-01-31",
+      "last_modified_date": "2022-07-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6134",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 985715.25
+  }
+}

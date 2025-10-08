@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91239386,
+    "Award ID": "R01NS123165",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2009797,
+    "Total Outlays": 1512900.42,
+    "Description": "THE CURIOUS CASE OF PARP1 IN CNS MYELIN FORMATION AND REPAIR - THE CURIOUS CASE OF PARP1 IN CNS MYELIN FORMATION AND REPAIR  CURRENT ANTI-INFLAMMATORY DRUGS DIMINISH IMMUNE ATTACKS YET ARE INEFFECTIVE IN PREVENTING NEUROLOGICAL PROGRESSION OF MULTIPLE SCLEROSIS (MS), THE MOST COMMON DEMYELINATING DISORDER OF THE CENTRAL NERVOUS SYSTEM (CNS) WITH NO CURE AFFECTING ~ 400,000 PEOPLE IN THE USA. REMYELINATION FAILURE, PRIMARILY RESULTED FROM IMPAIRED DIFFERENTIATION OF OLIGODENDROCYTES FROM OLIGODENDROCYTE PROGENITOR CELLS (I.E. IMPAIRED OPC DIFFERENTIATION), IS ONE OF THE MAJOR CAUSES FOR MS NEUROLOGICAL PROGRESSION. REMYELINATION-PROMOTING THERAPY REPRESENTS A PROMISING OPTION IN COMBINATION WITH CURRENT IMMUNOSUPPRESSIVE MEDICATIONS, FOR TREATING MS. HOWEVER, FEW MEDICATIONS ARE AVAILABLE FOR TARGETING MYELIN REPAIR. OUR LONG-TERM GOAL IS TO DISCOVER REMYELINATION-PROMOTING STRATEGIES FOR TREATING DEMYELINATING DISORDERS. THE OBJECTIVE OF THIS PROPOSAL IS TO ADDRESS IF AND HOW POLY(ADP-RIBOSE) POLYMERASE 1 (PARP1) REGULATES OPC DIFFERENTIATION AND MYELINATION AND DETERMINE THERAPEUTIC VALUES OF PARP1-MEDIATED PATHWAYS IN MYELIN REPAIR. PARP1 IS A MULTI-FACETED NUCLEAR PROTEIN THAT HAS BEEN EXTENSIVELY SCRUTINIZED IN CANCER BIOLOGY. UPON ACTIVATION, PARP1 CATALYZES THE COVALENT ADDITION OF POLY(ADP-RIBOSE) UNITS TO ITS TARGET PROTEINS, A PROCESS CALLED PARYLATION WHICH CAN BE REVERSED BY THE ENZYME POLY(ADP-RIBOSE) GLYCOHYDROLASE (PARG). THE CLINICAL RATIONALE UNDERLYING THIS PROPOSAL IS THAT OLIGODENDROGLIAL LINEAGE CELLS IN THE ACTIVE BUT NOT CHRONIC MS LESIONS DISPLAY ELEVATED PARP1 ACTIVITY, SUGGESTING THAT PARP1 MAY BE A POTENTIAL TARGET FOR REMYELINATION-PROMOTING THERAPY. HOWEVER, OUR CURRENT KNOWLEDGE OF PARP1 IN OLIGODENDROGLIAL BIOLOGY AND PATHOLOGY IS EXTREMELY LIMITED AND ITS THERAPEUTIC VALUE IN REMYELINATION HAS YET TO BE DETERMINED. THE CENTRAL HYPOTHESIS IS THAT PARP1, ACTING THROUGH ITS ENZYMATIC ACTIVITY, IS AN INTRINSIC DUAL-MODEL DRIVER OF OPC DIFFERENTIATION AND MYELINATION WHICH COULD BE HARNESSED TO PROMOTE MYELIN REPAIR. OUR CENTRAL HYPOTHESIS IS BUILT ON THE CONCEPTUAL AND METHODOLOGICAL FOUNDATIONS LAID BY OUR PRELIMINARY DATA OF GENETIC AND PHARMACOLOGICAL MANIPULATIONS IN VITRO AND IN VIVO. THE HYPOTHESIS WILL BE TEST IN THREE SPECIFIC AIMS: 1) DETERMINE THE EFFECT OF PARP1 DEPLETION ON OPC DIFFERENTIATION AND MYELINATION; 2) DEFINE THE MECHANISMS UNDERLYING PARP1-REGULATED OPC DIFFERENTIATION AND MYELINATION; AND 3) DETERMINE THE EFFECTS OF LOSS- AND GAIN-OF-FUNCTION OF PARP1-MEDIATED PARYLATION ON MYELIN REPAIR. WE WILL PURSUE THESE THREE AIMS BY EMPLOYING UNIQUE TRANSGENIC MODELS GENERATED IN OUR LABORATORY. THE PROPOSED RESEARCH IS SIGNIFICANT BECAUSE IT WILL INTERROGATE THE THERAPEUTIC POTENTIAL OF PARP1 IN MYELIN REPAIR AND LAY THE CONCEPTUAL GROUNDWORK TO DEVELOP REMYELINATION-PROMOTING STRATEGIES. THE EXPECTED OUTCOMES WILL HAVE AN IMPORTANT POSITIVE IMPACT BECAUSE THEY WILL ESTABLISH THE FIRST CONCEPTUAL PICTURE REGARDING THE FUNCTION AND MECHANISM OF PARP1 IN CNS MYELIN FORMATION AND REPAIR AND THEY WILL PROVIDE NEW DATA JUSTIFYING INTERVENING PARP1-MEDIATED PARYLATION AS A PROMISING OPTION FOR REMYELINATION-PROMOTING THERAPY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172201",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-07-01",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS123165_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91239386,
+    "generated_unique_award_id": "ASST_NON_R01NS123165_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE CURIOUS CASE OF PARP1 IN CNS MYELIN FORMATION AND REPAIR - THE CURIOUS CASE OF PARP1 IN CNS MYELIN FORMATION AND REPAIR  CURRENT ANTI-INFLAMMATORY DRUGS DIMINISH IMMUNE ATTACKS YET ARE INEFFECTIVE IN PREVENTING NEUROLOGICAL PROGRESSION OF MULTIPLE SCLEROSIS (MS), THE MOST COMMON DEMYELINATING DISORDER OF THE CENTRAL NERVOUS SYSTEM (CNS) WITH NO CURE AFFECTING ~ 400,000 PEOPLE IN THE USA. REMYELINATION FAILURE, PRIMARILY RESULTED FROM IMPAIRED DIFFERENTIATION OF OLIGODENDROCYTES FROM OLIGODENDROCYTE PROGENITOR CELLS (I.E. IMPAIRED OPC DIFFERENTIATION), IS ONE OF THE MAJOR CAUSES FOR MS NEUROLOGICAL PROGRESSION. REMYELINATION-PROMOTING THERAPY REPRESENTS A PROMISING OPTION IN COMBINATION WITH CURRENT IMMUNOSUPPRESSIVE MEDICATIONS, FOR TREATING MS. HOWEVER, FEW MEDICATIONS ARE AVAILABLE FOR TARGETING MYELIN REPAIR. OUR LONG-TERM GOAL IS TO DISCOVER REMYELINATION-PROMOTING STRATEGIES FOR TREATING DEMYELINATING DISORDERS. THE OBJECTIVE OF THIS PROPOSAL IS TO ADDRESS IF AND HOW POLY(ADP-RIBOSE) POLYMERASE 1 (PARP1) REGULATES OPC DIFFERENTIATION AND MYELINATION AND DETERMINE THERAPEUTIC VALUES OF PARP1-MEDIATED PATHWAYS IN MYELIN REPAIR. PARP1 IS A MULTI-FACETED NUCLEAR PROTEIN THAT HAS BEEN EXTENSIVELY SCRUTINIZED IN CANCER BIOLOGY. UPON ACTIVATION, PARP1 CATALYZES THE COVALENT ADDITION OF POLY(ADP-RIBOSE) UNITS TO ITS TARGET PROTEINS, A PROCESS CALLED PARYLATION WHICH CAN BE REVERSED BY THE ENZYME POLY(ADP-RIBOSE) GLYCOHYDROLASE (PARG). THE CLINICAL RATIONALE UNDERLYING THIS PROPOSAL IS THAT OLIGODENDROGLIAL LINEAGE CELLS IN THE ACTIVE BUT NOT CHRONIC MS LESIONS DISPLAY ELEVATED PARP1 ACTIVITY, SUGGESTING THAT PARP1 MAY BE A POTENTIAL TARGET FOR REMYELINATION-PROMOTING THERAPY. HOWEVER, OUR CURRENT KNOWLEDGE OF PARP1 IN OLIGODENDROGLIAL BIOLOGY AND PATHOLOGY IS EXTREMELY LIMITED AND ITS THERAPEUTIC VALUE IN REMYELINATION HAS YET TO BE DETERMINED. THE CENTRAL HYPOTHESIS IS THAT PARP1, ACTING THROUGH ITS ENZYMATIC ACTIVITY, IS AN INTRINSIC DUAL-MODEL DRIVER OF OPC DIFFERENTIATION AND MYELINATION WHICH COULD BE HARNESSED TO PROMOTE MYELIN REPAIR. OUR CENTRAL HYPOTHESIS IS BUILT ON THE CONCEPTUAL AND METHODOLOGICAL FOUNDATIONS LAID BY OUR PRELIMINARY DATA OF GENETIC AND PHARMACOLOGICAL MANIPULATIONS IN VITRO AND IN VIVO. THE HYPOTHESIS WILL BE TEST IN THREE SPECIFIC AIMS: 1) DETERMINE THE EFFECT OF PARP1 DEPLETION ON OPC DIFFERENTIATION AND MYELINATION; 2) DEFINE THE MECHANISMS UNDERLYING PARP1-REGULATED OPC DIFFERENTIATION AND MYELINATION; AND 3) DETERMINE THE EFFECTS OF LOSS- AND GAIN-OF-FUNCTION OF PARP1-MEDIATED PARYLATION ON MYELIN REPAIR. WE WILL PURSUE THESE THREE AIMS BY EMPLOYING UNIQUE TRANSGENIC MODELS GENERATED IN OUR LABORATORY. THE PROPOSED RESEARCH IS SIGNIFICANT BECAUSE IT WILL INTERROGATE THE THERAPEUTIC POTENTIAL OF PARP1 IN MYELIN REPAIR AND LAY THE CONCEPTUAL GROUNDWORK TO DEVELOP REMYELINATION-PROMOTING STRATEGIES. THE EXPECTED OUTCOMES WILL HAVE AN IMPORTANT POSITIVE IMPACT BECAUSE THEY WILL ESTABLISH THE FIRST CONCEPTUAL PICTURE REGARDING THE FUNCTION AND MECHANISM OF PARP1 IN CNS MYELIN FORMATION AND REPAIR AND THEY WILL PROVIDE NEW DATA JUSTIFYING INTERVENING PARP1-MEDIATED PARYLATION AS A PROMISING OPTION FOR REMYELINATION-PROMOTING THERAPY.",
+    "total_obligation": 2009797,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-05-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1512900.42,
+    "total_account_obligation": 2009797,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1512900.42
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2009797
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2022-07-01",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2201",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1512900.42
+  }
+}

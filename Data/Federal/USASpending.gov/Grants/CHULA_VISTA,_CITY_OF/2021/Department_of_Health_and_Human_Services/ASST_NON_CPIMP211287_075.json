@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 81243428,
+    "Award ID": "CPIMP211287",
+    "Recipient Name": "CHULA VISTA, CITY OF",
+    "Award Amount": 3938731.65,
+    "Total Outlays": 3938731.65,
+    "Description": "THE SAN DIEGO ADVANCING MINORITY HEALTH LITERACY PROGRAM (SD-AMHLP) - THE SAN DIEGO ADVANCING MINORITY HEALTH LITERACY PROGRAM (SD-AMHLP) WILL ADDRESS DISPARITIES IN COVID-19 HEALTH OUTCOMES AS EXPERIENCED BY RACIAL AND ETHNIC MINORITY RESIDENTS WITHIN URBAN COMMUNITIES THROUGHOUT SAN DIEGO COUNTY. THE PROGRAM WILL BE LED BY A CONSORTIUM OF STAKEHOLDERS INCLUDING MULTIPLE CITY GOVERNMENTS, COUNTY HEALTH DEPARTMENTS, COMMUNITY-BASED ORGANIZATIONS, AND RESIDENT LEADERS. LOCAL GOVERNMENT PARTNERS WHO HAVE COMMITTED TO COLLABORATION AND TO SERVE ON A PROJECT STEERING COMMITTEE ARE: CITY OF CHULA VISTA (APPLICANT), CITY OF EL CAJON, CITY OF ESCONDIDO, CITY OF IMPERIAL BEACH, CITY OF LA MESA, NATIONAL CITY, CITY OF VISTA, AND THE SAN DIEGO COUNTY HEALTH AND HUMAN SERVICES AGENCY.IN SAN DIEGO, LIKE IN THE REST OF THE UNITED STATES, COVID-19 MORBIDITY AND MORTALITY DISPROPORTIONATELY AFFECT RACIAL AND ETHNIC MINORITY RESIDENTS LIVING IN LOW-INCOME NEIGHBORHOODS. THE LIMITED IMPACT OF CURRENT COVID-19 HEALTH LITERACY INITIATIVES FOR RACIAL AND ETHNIC MINORITY COMMUNITIES MAY BE ATTRIBUTED, IN PART, TO INADEQUATE AND ILL-INFORMED HEALTH LITERACY ACTIVITIES AND INSUFFICIENT ATTENTION TO PUBLIC POLICY IN PERPETUATING HEALTH INEQUITIES. THE SAN DIEGO ADVANCING MINORITY HEALTH LITERACY PROGRAM (SD-AMHLP) WILL ADDRESS THESE PROBLEMS BY IMPLEMENTING COMMUNITY-ENGAGED PARTNERSHIPS TO INFORM SAN DIEGO COVID-19 HEALTH LITERACY PROGRAM DESIGNS, APPROPRIATE FOR COMMUNITY CULTURES AND SETTINGS.IN YEAR ONE OF THE PROJECT, UNIVERSITY OF CALIFORNIA SAN DIEGO CENTER FOR COMMUNITY HEALTH (UCSD-CCH) WILL PARTNER WITH CITY OF CHULA VISTA, AND STEERING COMMITTEE MEMBERS, TO COORDINATE THE COMPLETION OF A COMPREHENSIVE DISPARITY IMPACT STATEMENT AND HEALTH LITERACY PLAN. COMMUNITY-BASED ORGANIZATIONS AND NETWORKS WHO HAVE ALSO COMMITTED TO SERVE ON STEERING COMMITTEE INCLUDE: SAN DIEGO REFUGEE COMMUNITIES COALITION, LATINO HEALTH COALITION, MULTI-CULTURAL HEALTH FOUNDATION, CHICANO FEDERATION AND UNION OF PAN ASIAN COMMUNITIES.UCSD CCH WILL USE  AN INNOVATIVE COMMUNITY-BASED PARTICIPATORY RESEARCH (CBPR) APPROACH TO ENGAGE STEERING COMMITTEE PARTNERS AND EXECUTE PROJECT DELIVERABLES. THROUGH THIS APPROACH, COMMUNITY, RESIDENT, AND GOVERNMENT PARTNERS WILL SHARE THEIR EXPERTISE, ASSUME RESPONSIBILITIES, AND EXPERIENCE CO-OWNERSHIP OF INTERVENTIONS AND OVERALL RESEARCH PROGRAM. AS A RESULT, HEALTH DISPARITIES WILL BE REDUCED THROUGH THE DEVELOPMENT OF SUSTAINABLE COMMUNITY BASED INTERVENTIONS AND RELEVANT POLICY.IN YEAR TWO, HEALTH LITERACY PROJECTS SELECTED WILL BE IMPLEMENTED BY COMMUNITY-BASED ORGANIZATIONS, EITHER INDEPENDENTLY OR IN COLLABORATION WITH COMMUNITY HEALTH CENTERS, INSTITUTIONS OF HIGHER EDUCATION, AND/OR OTHER PARTNER COMMUNITY HEALTH ORGANIZATIONS. HEALTHY PEOPLE 2030 OBJECTIVES INCLUDING IMPROVED UNDERSTANDING, COMMUNICATION AND INFORMED DECISION MAKING WILL BE REFLECTED IN HEALTH LITERACY PROJECTS. PROJECT OUTCOMES WILL: (1)INCREASE AVAILABILITY, ACCESSIBILITY AND USE OF COVID-19 PUBLIC HEALTH INFORMATION AND SERVICES; (2) IMPROVE COLLABORATION ACROSS STAKEHOLDERS, INCLUDING GREATER COMMUNITY ENGAGEMENT TO INFORM AND DELIVER SOLUTIONS, AND (3) INCREASE CAPACITY OF ETHNIC COMMUNITY-BASED ORGANIZATIONS AND HEALTH CENTERS TO PROVIDE EVIDENCE-BASED HEALTH LITERACY STRATEGIES.SAN DIEGO STATE UNIVERSITY SCHOOL OF PUBLIC HEALTH (SDSU SOPH) WILL PROVIDE QUALITY IMPROVEMENT AND PROGRAM EVALUATION SUPPORT FOR ALL PROGRAM INITIATIVES. THE EVALUATION TEAM WILL WORK WITH CITY OF CHULA VISTA AND UCSD-CCH TO DEVELOP EVALUATION GOALS AND OBJECTIVES AND IDENTIFY RESOURCES NEEDED TO CONDUCT PROPOSED EVALUATION. AN INDEPENDENT EVALUATION OF PROGRAMS INITIATED WILL ALSO BE CONDUCTED BY SDSU SOPH TEAM. SDSU SOPH IS ATRANSBORDER, MINORITY-SERVING INSTITUTION, AND ONE OF THE TOP PUBLIC HEALTH RESEARCH UNIVERSITIES IN CALIFORNIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "KVBYLRZMAGJ9",
+    "Recipient Location": {
+      "address_line1": "276 4TH AVE",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "CHULA VISTA",
+      "congressional_code": "52",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2631",
+      "zip5": "91910"
+    },
+    "Primary Place of Performance": {
+      "city_name": "CHULA VISTA",
+      "congressional_code": "52",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "CITY-WIDE",
+      "zip5": null
+    },
+    "def_codes": [
+      "U"
+    ],
+    "COVID-19 Obligations": 3938731.65,
+    "COVID-19 Outlays": 3938731.65,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "Office of Assistant Secretary for Health",
+    "Start Date": "2021-07-01",
+    "End Date": "2023-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "e9967951-827e-1049-960d-9cba97081aff-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_CPIMP211287_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 81243428,
+    "generated_unique_award_id": "ASST_NON_CPIMP211287_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE SAN DIEGO ADVANCING MINORITY HEALTH LITERACY PROGRAM (SD-AMHLP) - THE SAN DIEGO ADVANCING MINORITY HEALTH LITERACY PROGRAM (SD-AMHLP) WILL ADDRESS DISPARITIES IN COVID-19 HEALTH OUTCOMES AS EXPERIENCED BY RACIAL AND ETHNIC MINORITY RESIDENTS WITHIN URBAN COMMUNITIES THROUGHOUT SAN DIEGO COUNTY. THE PROGRAM WILL BE LED BY A CONSORTIUM OF STAKEHOLDERS INCLUDING MULTIPLE CITY GOVERNMENTS, COUNTY HEALTH DEPARTMENTS, COMMUNITY-BASED ORGANIZATIONS, AND RESIDENT LEADERS. LOCAL GOVERNMENT PARTNERS WHO HAVE COMMITTED TO COLLABORATION AND TO SERVE ON A PROJECT STEERING COMMITTEE ARE: CITY OF CHULA VISTA (APPLICANT), CITY OF EL CAJON, CITY OF ESCONDIDO, CITY OF IMPERIAL BEACH, CITY OF LA MESA, NATIONAL CITY, CITY OF VISTA, AND THE SAN DIEGO COUNTY HEALTH AND HUMAN SERVICES AGENCY.IN SAN DIEGO, LIKE IN THE REST OF THE UNITED STATES, COVID-19 MORBIDITY AND MORTALITY DISPROPORTIONATELY AFFECT RACIAL AND ETHNIC MINORITY RESIDENTS LIVING IN LOW-INCOME NEIGHBORHOODS. THE LIMITED IMPACT OF CURRENT COVID-19 HEALTH LITERACY INITIATIVES FOR RACIAL AND ETHNIC MINORITY COMMUNITIES MAY BE ATTRIBUTED, IN PART, TO INADEQUATE AND ILL-INFORMED HEALTH LITERACY ACTIVITIES AND INSUFFICIENT ATTENTION TO PUBLIC POLICY IN PERPETUATING HEALTH INEQUITIES. THE SAN DIEGO ADVANCING MINORITY HEALTH LITERACY PROGRAM (SD-AMHLP) WILL ADDRESS THESE PROBLEMS BY IMPLEMENTING COMMUNITY-ENGAGED PARTNERSHIPS TO INFORM SAN DIEGO COVID-19 HEALTH LITERACY PROGRAM DESIGNS, APPROPRIATE FOR COMMUNITY CULTURES AND SETTINGS.IN YEAR ONE OF THE PROJECT, UNIVERSITY OF CALIFORNIA SAN DIEGO CENTER FOR COMMUNITY HEALTH (UCSD-CCH) WILL PARTNER WITH CITY OF CHULA VISTA, AND STEERING COMMITTEE MEMBERS, TO COORDINATE THE COMPLETION OF A COMPREHENSIVE DISPARITY IMPACT STATEMENT AND HEALTH LITERACY PLAN. COMMUNITY-BASED ORGANIZATIONS AND NETWORKS WHO HAVE ALSO COMMITTED TO SERVE ON STEERING COMMITTEE INCLUDE: SAN DIEGO REFUGEE COMMUNITIES COALITION, LATINO HEALTH COALITION, MULTI-CULTURAL HEALTH FOUNDATION, CHICANO FEDERATION AND UNION OF PAN ASIAN COMMUNITIES.UCSD CCH WILL USE  AN INNOVATIVE COMMUNITY-BASED PARTICIPATORY RESEARCH (CBPR) APPROACH TO ENGAGE STEERING COMMITTEE PARTNERS AND EXECUTE PROJECT DELIVERABLES. THROUGH THIS APPROACH, COMMUNITY, RESIDENT, AND GOVERNMENT PARTNERS WILL SHARE THEIR EXPERTISE, ASSUME RESPONSIBILITIES, AND EXPERIENCE CO-OWNERSHIP OF INTERVENTIONS AND OVERALL RESEARCH PROGRAM. AS A RESULT, HEALTH DISPARITIES WILL BE REDUCED THROUGH THE DEVELOPMENT OF SUSTAINABLE COMMUNITY BASED INTERVENTIONS AND RELEVANT POLICY.IN YEAR TWO, HEALTH LITERACY PROJECTS SELECTED WILL BE IMPLEMENTED BY COMMUNITY-BASED ORGANIZATIONS, EITHER INDEPENDENTLY OR IN COLLABORATION WITH COMMUNITY HEALTH CENTERS, INSTITUTIONS OF HIGHER EDUCATION, AND/OR OTHER PARTNER COMMUNITY HEALTH ORGANIZATIONS. HEALTHY PEOPLE 2030 OBJECTIVES INCLUDING IMPROVED UNDERSTANDING, COMMUNICATION AND INFORMED DECISION MAKING WILL BE REFLECTED IN HEALTH LITERACY PROJECTS. PROJECT OUTCOMES WILL: (1)INCREASE AVAILABILITY, ACCESSIBILITY AND USE OF COVID-19 PUBLIC HEALTH INFORMATION AND SERVICES; (2) IMPROVE COLLABORATION ACROSS STAKEHOLDERS, INCLUDING GREATER COMMUNITY ENGAGEMENT TO INFORM AND DELIVER SOLUTIONS, AND (3) INCREASE CAPACITY OF ETHNIC COMMUNITY-BASED ORGANIZATIONS AND HEALTH CENTERS TO PROVIDE EVIDENCE-BASED HEALTH LITERACY STRATEGIES.SAN DIEGO STATE UNIVERSITY SCHOOL OF PUBLIC HEALTH (SDSU SOPH) WILL PROVIDE QUALITY IMPROVEMENT AND PROGRAM EVALUATION SUPPORT FOR ALL PROGRAM INITIATIVES. THE EVALUATION TEAM WILL WORK WITH CITY OF CHULA VISTA AND UCSD-CCH TO DEVELOP EVALUATION GOALS AND OBJECTIVES AND IDENTIFY RESOURCES NEEDED TO CONDUCT PROPOSED EVALUATION. AN INDEPENDENT EVALUATION OF PROGRAMS INITIATED WILL ALSO BE CONDUCTED BY SDSU SOPH TEAM. SDSU SOPH IS ATRANSBORDER, MINORITY-SERVING INSTITUTION, AND ONE OF THE TOP PUBLIC HEALTH RESEARCH UNIVERSITIES IN CALIFORNIA.",
+    "total_obligation": 3938731.65,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-06-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 3938731.65,
+    "total_account_obligation": 3938731.65,
+    "account_outlays_by_defc": [
+      {
+        "code": "U",
+        "amount": 3938731.65
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "U",
+        "amount": 3938731.65
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 822,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Office of Assistant Secretary for Health",
+        "code": "7521",
+        "abbreviation": ""
+      },
+      "office_agency_name": "OASH OFFICE OF MINORITY HEALTH"
+    },
+    "awarding_agency": {
+      "id": 822,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "Office of Assistant Secretary for Health",
+        "code": "7521",
+        "abbreviation": ""
+      },
+      "office_agency_name": "OASH Office of Grants Management"
+    },
+    "period_of_performance": {
+      "start_date": "2021-07-01",
+      "end_date": "2023-08-31",
+      "last_modified_date": "2024-03-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "e9967951-827e-1049-960d-9cba97081aff-C",
+      "recipient_name": "CHULA VISTA, CITY OF",
+      "recipient_uei": "KVBYLRZMAGJ9",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "e9967951-827e-1049-960d-9cba97081aff-P",
+      "parent_recipient_name": "CHULA VISTA, CITY OF",
+      "parent_recipient_uei": "KVBYLRZMAGJ9",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Local Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "CHULA VISTA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "276 4TH AVE",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "52",
+        "zip4": "2631",
+        "zip5": "91910",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "CHULA VISTA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "52",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 3938731.65
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "basic_data": {
+    "internal_id": 93865652,
+    "Award ID": "0010",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1681.5,
+    "Total Outlays": 0,
+    "Description": "IGF::OT::IGF XRF ANALYSIS FOR ART GLASS MONITORING IN REGION 5 (KOKOMO, INDIANA)",
+    "Contract Award Type": "DELIVERY ORDER",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6134",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "956186134",
+      "zip5": "95618"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Environmental Protection Agency",
+    "Awarding Sub Agency": "Environmental Protection Agency",
+    "Start Date": "2016-07-21",
+    "End Date": "2016-09-15",
+    "NAICS": {
+      "code": "541380",
+      "description": "TESTING LABORATORIES"
+    },
+    "PSC": {
+      "code": "B510",
+      "description": "SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS"
+    },
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "CONT_AWD_0010_6800_EPD15020_6800",
+    "awarding_agency_id": 700,
+    "agency_slug": "environmental-protection-agency",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 93865652,
+    "generated_unique_award_id": "CONT_AWD_0010_6800_EPD15020_6800",
+    "piid": "0010",
+    "category": "contract",
+    "type": "C",
+    "type_description": "DELIVERY ORDER",
+    "description": "IGF::OT::IGF XRF ANALYSIS FOR ART GLASS MONITORING IN REGION 5 (KOKOMO, INDIANA)",
+    "total_obligation": 1681.5,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2016-07-21",
+    "base_exercised_options": 1681.5,
+    "base_and_all_options": 1681.5,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": {
+      "agency_id": 700,
+      "agency_name": "Environmental Protection Agency",
+      "agency_slug": "environmental-protection-agency",
+      "award_id": 169160427,
+      "generated_unique_award_id": "CONT_IDV_EPD15020_6800",
+      "idv_type_description": "IDC",
+      "multiple_or_single_aw_desc": "SINGLE AWARD",
+      "piid": "EPD15020",
+      "sub_agency_id": "6800",
+      "sub_agency_name": "Environmental Protection Agency",
+      "type_of_idc_description": "INDEFINITE DELIVERY / REQUIREMENTS"
+    },
+    "latest_transaction_contract_data": {
+      "idv_type_description": null,
+      "type_of_idc_description": null,
+      "referenced_idv_agency_iden": "6800",
+      "referenced_idv_agency_desc": "ENVIRONMENTAL PROTECTION AGENCY",
+      "solicitation_identifier": null,
+      "solicitation_procedures": "NP",
+      "number_of_offers_received": "",
+      "extent_competed": "A",
+      "type_set_aside": "",
+      "type_set_aside_description": "",
+      "evaluated_preference": "NONE",
+      "fed_biz_opps": "Y",
+      "fed_biz_opps_description": "YES",
+      "small_business_competitive": false,
+      "product_or_service_code": "B510",
+      "naics": "541380",
+      "naics_description": "TESTING LABORATORIES",
+      "sea_transportation": null,
+      "clinger_cohen_act_planning": "N",
+      "labor_standards": "X",
+      "cost_or_pricing_data": "N",
+      "domestic_or_foreign_entity": "B",
+      "foreign_funding": "X",
+      "major_program": "TO FUND TEC 2 OF THE NEW SPECIATION CONTRACT.",
+      "program_acronym": null,
+      "subcontracting_plan": "",
+      "multi_year_contract": "Y",
+      "consolidated_contract": "N",
+      "type_of_contract_pricing": "J",
+      "national_interest_action": "NONE",
+      "multiple_or_single_award_description": null,
+      "solicitation_procedures_description": "NEGOTIATED PROPOSAL/QUOTE",
+      "extent_competed_description": "FULL AND OPEN COMPETITION",
+      "other_than_full_and_open": null,
+      "other_than_full_and_open_description": null,
+      "commercial_item_acquisition": "A",
+      "commercial_item_acquisition_description": "COMMERCIAL ITEM",
+      "commercial_item_test_program": "N",
+      "commercial_item_test_program_description": "NO",
+      "evaluated_preference_description": "NO PREFERENCE USED",
+      "fair_opportunity_limited": null,
+      "fair_opportunity_limited_description": null,
+      "product_or_service_description": "SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS",
+      "dod_claimant_program": null,
+      "dod_claimant_program_description": null,
+      "dod_acquisition_program": null,
+      "dod_acquisition_program_description": null,
+      "information_technology_commercial_item_category": null,
+      "information_technology_commercial_item_category_description": null,
+      "sea_transportation_description": null,
+      "clinger_cohen_act_planning_description": "NO",
+      "construction_wage_rate": "X",
+      "construction_wage_rate_description": "NOT APPLICABLE",
+      "labor_standards_description": "NOT APPLICABLE",
+      "materials_supplies": "X",
+      "materials_supplies_description": "NOT APPLICABLE",
+      "cost_or_pricing_data_description": "NO",
+      "domestic_or_foreign_entity_description": "OTHER U.S. ENTITY (E.G. GOVERNMENT)",
+      "foreign_funding_description": "NOT APPLICABLE",
+      "interagency_contracting_authority": "X",
+      "interagency_contracting_authority_description": "NOT APPLICABLE",
+      "price_evaluation_adjustment": "",
+      "subcontracting_plan_description": "",
+      "multi_year_contract_description": "YES",
+      "purchase_card_as_payment_method": "N",
+      "purchase_card_as_payment_method_description": "NO",
+      "consolidated_contract_description": "NO",
+      "type_of_contract_pricing_description": "FIRM FIXED PRICE",
+      "national_interest_action_description": "NONE"
+    },
+    "funding_agency": {
+      "id": 700,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "068",
+        "abbreviation": "EPA",
+        "slug": "environmental-protection-agency"
+      },
+      "subtier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "6800",
+        "abbreviation": "EPA"
+      },
+      "office_agency_name": "OFC FOR AIR  RAD (OAR) (FUNDING)"
+    },
+    "awarding_agency": {
+      "id": 700,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "068",
+        "abbreviation": "EPA",
+        "slug": "environmental-protection-agency"
+      },
+      "subtier_agency": {
+        "name": "Environmental Protection Agency",
+        "code": "6800",
+        "abbreviation": "EPA"
+      },
+      "office_agency_name": "RTP PROC OPS DIVISION (RTPPOD)"
+    },
+    "period_of_performance": {
+      "start_date": "2016-07-21",
+      "end_date": "2016-09-15",
+      "last_modified_date": "2019-06-13",
+      "potential_end_date": "2016-09-15 00:00:00"
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": "047120084",
+      "parent_recipient_hash": "9df6f273-648d-cf72-c4ef-346f414c585c-P",
+      "parent_recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "parent_recipient_uei": "PKK5TD16N4H1",
+      "parent_recipient_unique_id": "003985512",
+      "business_categories": [
+        "Category Business",
+        "Corporate Entity Tax Exempt",
+        "Educational Institution",
+        "Higher Education",
+        "Nonprofit Organization",
+        "Not Designated a Small Business",
+        "Higher Education (Public)",
+        "Veterinary College"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6134",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6134",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "B",
+        "description": "SPECIAL STUDIES/ANALYSIS, NOT R\u0026D"
+      },
+      "midtier_code": {
+        "code": "B5",
+        "description": "SPECIAL STUDIES - NOT R and D"
+      },
+      "subtier_code": {},
+      "base_code": {
+        "code": "B510",
+        "description": "SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS"
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "54",
+        "description": "Professional, Scientific, and Technical Services"
+      },
+      "midtier_code": {
+        "code": "5413",
+        "description": "Architectural, Engineering, and Related Services"
+      },
+      "base_code": {
+        "code": "541380",
+        "description": "Testing Laboratories"
+      }
+    },
+    "total_outlay": 0
+  }
+}

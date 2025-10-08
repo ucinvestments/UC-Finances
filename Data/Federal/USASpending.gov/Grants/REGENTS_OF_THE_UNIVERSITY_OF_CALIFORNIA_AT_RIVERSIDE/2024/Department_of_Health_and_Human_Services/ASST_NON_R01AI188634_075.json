@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91136211,
+    "Award ID": "R01AI188634",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 791864,
+    "Total Outlays": 246997.57,
+    "Description": "DECIPHERING THE ROLE OF NON-CODING RNAS IN GENE REGULATION - ABSTRACT: NEARLY HALF OF THE WORLD’S POPULATION LIVES IN COUNTRIES WHERE MALARIA IS ENDEMIC. PLASMODIUM FALCIPARUM, THE CAUSATIVE AGENT OF THE MOST SEVERE FORM OF HUMAN MALARIA, IS RESPONSIBLE FOR 95% OF MALARIA DEATHS WORLDWIDE. THE MAIN GOAL OF THIS PROJECT IS TO IDENTIFY THE MOLECULAR FACTORS THAT CONTROL CHROMATIN ORGANIZATION AND GENE REGULATION IN P. FALCIPARUM WITH A SPECIFIC FOCUS ON LONG NON-CODING RNAS (LNCRNAS). WE WILL ELUCIDATE THE IMPORTANCE OF LNCRNAS IN PARASITE DEVELOPMENT, VIRULENCE, AND SEXUAL DIFFERENTIATION, AND DETERMINE WHETHER THEY CAN BE TARGETED BY NOVEL THERAPEUTIC INTERVENTION. THE PROPOSED RESEARCH BUILDS UPON A LARGE BODY OF WORK GENERATED IN THE PI’S LAB THAT DISCOVERED HOW 3D GENOME ORGANIZATION AND EPIGENETIC STATE REGULATE TRANSCRIPTION, PARASITE DEVELOPMENT, AND SEXUAL DIFFERENTIATION. DESPITE SIGNIFICANT PROGRESS IN ELUCIDATING MECHANISMS CONTROLLING TRANSCRIPTION IN THE HUMAN MALARIA PARASITE, THE EXACT MOLECULAR COMPONENTS UNDERLYING CHANGES IN EPIGENETICS AND CHROMATIN STRUCTURE REMAIN TO BE ELUCIDATED. THE STUDIES PROPOSED HERE WILL EXAMINE HOW LNCRNAS, TOGETHER WITH PROTEINS CONTROL EPIGENETICS AND CHROMATIN STRUCTURE, AND ULTIMATELY PARASITE DEVELOPMENT, VIRULENCE, SURVIVAL, AND SEXUAL DIFFERENTIATION. THE PROJECT IS ORGANIZED INTO TWO SPECIFIC AIMS. IN AIM 1, WE WILL USE TWO COMPLEMENTARY METHODOLOGIES CALLED CHAR-SEQ AND RADICL-SEQ TO IDENTIFY PATTERNS OF GENOME-WIDE RNA AND DNA INTERACTING COMPLEXES FOR DIFFERENT CLASSES OF TRANSCRIPTS IN INTACT NUCLEI AT DIFFERENT STAGES OF THE PARASITE LIFE CYCLE. RESULTS FROM THESE EXPERIMENTS TOGETHER WITH A COMPLEMENTARY SET OF MOLECULAR APPROACHES, WILL NOT ONLY IDENTIFY STAGE-SPECIFIC RNA-CHROMATIN INTERACTION OCCUPANCIES BUT ALSO DETERMINE THEIR POTENTIAL ROLES IN THE ESTABLISHMENT OF CHROMATIN STRUCTURE AND TRANSCRIPTIONAL REGULATION. IN AIM 2, WE WILL IDENTIFY THE FUNCTIONS AT THE MECHANISTIC LEVEL FOR CANDIDATE LNCRNAS THAT WE ALREADY IDENTIFIED AS POTENTIAL REGULATORS OF ANTIGENIC VARIATION AND SEXUAL DIFFERENTIATION. FOR THIS AIM, WE HAVE DEVELOPED A SET OF MOLECULAR, CELLULAR, AND GENOME-WIDE APPROACHES INCLUDING THE USE OF COMPLEMENTARY CRISPR-CAS TECHNOLOGIES, TO DETERMINE THE BIOLOGICAL RELEVANCE OF LNCRNAS IN THE FORMATION AND MAINTENANCE OF EPIGENETIC FEATURES AND HETEROCHROMATIN, AS WELL AS THE SEXUAL DEVELOPMENT. IT IS ANTICIPATED THAT THE PROPOSED RESEARCH WILL OFFER GROUNDBREAKING INSIGHTS INTO PARASITE-SPECIFIC LNCRNAS AND THEIR ROLE IN CONTROLLING PARASITE BIOLOGY. RESULTS FROM THIS APPLICATION WILL MOST LIKELY LEAD TO NOVEL DIRECTIONS IN MALARIA RESEARCH AND THERAPY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925210001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-12-01",
+    "End Date": "2029-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI188634_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91136211,
+    "generated_unique_award_id": "ASST_NON_R01AI188634_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DECIPHERING THE ROLE OF NON-CODING RNAS IN GENE REGULATION - ABSTRACT: NEARLY HALF OF THE WORLD’S POPULATION LIVES IN COUNTRIES WHERE MALARIA IS ENDEMIC. PLASMODIUM FALCIPARUM, THE CAUSATIVE AGENT OF THE MOST SEVERE FORM OF HUMAN MALARIA, IS RESPONSIBLE FOR 95% OF MALARIA DEATHS WORLDWIDE. THE MAIN GOAL OF THIS PROJECT IS TO IDENTIFY THE MOLECULAR FACTORS THAT CONTROL CHROMATIN ORGANIZATION AND GENE REGULATION IN P. FALCIPARUM WITH A SPECIFIC FOCUS ON LONG NON-CODING RNAS (LNCRNAS). WE WILL ELUCIDATE THE IMPORTANCE OF LNCRNAS IN PARASITE DEVELOPMENT, VIRULENCE, AND SEXUAL DIFFERENTIATION, AND DETERMINE WHETHER THEY CAN BE TARGETED BY NOVEL THERAPEUTIC INTERVENTION. THE PROPOSED RESEARCH BUILDS UPON A LARGE BODY OF WORK GENERATED IN THE PI’S LAB THAT DISCOVERED HOW 3D GENOME ORGANIZATION AND EPIGENETIC STATE REGULATE TRANSCRIPTION, PARASITE DEVELOPMENT, AND SEXUAL DIFFERENTIATION. DESPITE SIGNIFICANT PROGRESS IN ELUCIDATING MECHANISMS CONTROLLING TRANSCRIPTION IN THE HUMAN MALARIA PARASITE, THE EXACT MOLECULAR COMPONENTS UNDERLYING CHANGES IN EPIGENETICS AND CHROMATIN STRUCTURE REMAIN TO BE ELUCIDATED. THE STUDIES PROPOSED HERE WILL EXAMINE HOW LNCRNAS, TOGETHER WITH PROTEINS CONTROL EPIGENETICS AND CHROMATIN STRUCTURE, AND ULTIMATELY PARASITE DEVELOPMENT, VIRULENCE, SURVIVAL, AND SEXUAL DIFFERENTIATION. THE PROJECT IS ORGANIZED INTO TWO SPECIFIC AIMS. IN AIM 1, WE WILL USE TWO COMPLEMENTARY METHODOLOGIES CALLED CHAR-SEQ AND RADICL-SEQ TO IDENTIFY PATTERNS OF GENOME-WIDE RNA AND DNA INTERACTING COMPLEXES FOR DIFFERENT CLASSES OF TRANSCRIPTS IN INTACT NUCLEI AT DIFFERENT STAGES OF THE PARASITE LIFE CYCLE. RESULTS FROM THESE EXPERIMENTS TOGETHER WITH A COMPLEMENTARY SET OF MOLECULAR APPROACHES, WILL NOT ONLY IDENTIFY STAGE-SPECIFIC RNA-CHROMATIN INTERACTION OCCUPANCIES BUT ALSO DETERMINE THEIR POTENTIAL ROLES IN THE ESTABLISHMENT OF CHROMATIN STRUCTURE AND TRANSCRIPTIONAL REGULATION. IN AIM 2, WE WILL IDENTIFY THE FUNCTIONS AT THE MECHANISTIC LEVEL FOR CANDIDATE LNCRNAS THAT WE ALREADY IDENTIFIED AS POTENTIAL REGULATORS OF ANTIGENIC VARIATION AND SEXUAL DIFFERENTIATION. FOR THIS AIM, WE HAVE DEVELOPED A SET OF MOLECULAR, CELLULAR, AND GENOME-WIDE APPROACHES INCLUDING THE USE OF COMPLEMENTARY CRISPR-CAS TECHNOLOGIES, TO DETERMINE THE BIOLOGICAL RELEVANCE OF LNCRNAS IN THE FORMATION AND MAINTENANCE OF EPIGENETIC FEATURES AND HETEROCHROMATIN, AS WELL AS THE SEXUAL DEVELOPMENT. IT IS ANTICIPATED THAT THE PROPOSED RESEARCH WILL OFFER GROUNDBREAKING INSIGHTS INTO PARASITE-SPECIFIC LNCRNAS AND THEIR ROLE IN CONTROLLING PARASITE BIOLOGY. RESULTS FROM THIS APPLICATION WILL MOST LIKELY LEAD TO NOVEL DIRECTIONS IN MALARIA RESEARCH AND THERAPY.",
+    "total_obligation": 791864,
+    "subaward_count": 3,
+    "total_subaward_amount": 271036,
+    "date_signed": "2024-11-19",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 246997.57,
+    "total_account_obligation": 791864,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 246997.57
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 791864
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2024-12-01",
+      "end_date": "2029-11-30",
+      "last_modified_date": "2024-12-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 246997.57
+  }
+}

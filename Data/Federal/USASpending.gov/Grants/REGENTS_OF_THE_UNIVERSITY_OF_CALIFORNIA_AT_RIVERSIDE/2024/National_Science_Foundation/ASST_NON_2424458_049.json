@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57498907,
+    "Award ID": "2424458",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 2000000,
+    "Total Outlays": 161529.78,
+    "Description": "THE COMPUTING SCHOLARS EXPERIENCE LAB PROGRAM -THIS PROJECT WILL CONTRIBUTE TO THE NATIONAL NEED FOR WELL-EDUCATED COMPUTING PROFESSIONALS BY SUPPORTING THE RETENTION AND GRADUATION OF HIGH-ACHIEVING, LOW-INCOME STUDENTS WITH DEMONSTRATED FINANCIAL NEED. OVER A SIX-YEAR DURATION, 55 SCHOLARS IN FOUR COHORTS WILL RECEIVE SUPPORT FOR FOUR YEARS, PLUS AN OPTIONAL FIFTH YEAR TO PURSUE AN M.S. DEGREE. STUDENTS FROM ALL COMPUTING PROGRAMS AT UCR WILL BE CONSIDERED: COMPUTER SCIENCE, COMPUTER ENGINEERING, DATA SCIENCE, COMPUTER SCIENCE WITH BUSINESS APPLICATIONS, AND ROBOTICS. A KEY INNOVATION IS THE CREATION OF THE SCHOLAR EXPERIENCE LAB (SCHOLAR XL) THROUGH WHICH STUDENTS WILL BE CONNECTED WITH INDUSTRY AND COMMUNITY PARTNERS TO WORK ON REAL AND MEANINGFUL PROJECTS, AND PARTICIPATE IN SKILLS DEVELOPMENT WORKSHOPS, WORK IN COLLABORATIVE LEARNING SPACES, AND GAIN OPPORTUNITIES TO PAIR WITH FACULTY ON RESEARCH PROJECTS. SPECIFIC OBJECTIVES OF THE PROJECT INCLUDE: (1) IMPROVING SOCIAL MOBILITY FOR SCHOLARS BY INCREASING THEIR RETENTION, SUCCESS AND COMPLETION RATES, AND (2) PROVIDING INDIVIDUAL FACULTY MENTORSHIP AND ACADEMIC COACHING THAT LEAD STUDENTS TOWARD INTERNSHIP OR RESEARCH OPPORTUNITIES AND POST-GRADUATION SUCCESS. THE PROJECT WILL LEVERAGE MANY EXISTING OPPORTUNITIES AND SUPPORT SERVICES SUCH AS SUMMER INTERNSHIP PROGRAMS, UNDERGRADUATE LEARNING ASSISTANTS, AND COMMUNITY OUTREACH PROGRAMS TO CREATE BONDING EXPERIENCES FOR EACH COHORT. THIS PROJECT IS FUNDED BY NSF?S SCHOLARSHIPS IN SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS PROGRAM, WHICH SEEKS TO INCREASE THE NUMBER OF LOW-INCOME ACADEMICALLY TALENTED STUDENTS WITH DEMONSTRATED FINANCIAL NEED WHO EARN DEGREES IN STEM FIELDS. IT ALSO AIMS TO IMPROVE THE EDUCATION OF FUTURE STEM WORKERS, AND TO GENERATE KNOWLEDGE ABOUT ACADEMIC SUCCESS, RETENTION, TRANSFER, GRADUATION, AND ACADEMIC/CAREER PATHWAYS OF LOW-INCOME STUDENTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-10-01",
+    "End Date": "2030-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2424458_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57498907,
+    "generated_unique_award_id": "ASST_NON_2424458_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE COMPUTING SCHOLARS EXPERIENCE LAB PROGRAM -THIS PROJECT WILL CONTRIBUTE TO THE NATIONAL NEED FOR WELL-EDUCATED COMPUTING PROFESSIONALS BY SUPPORTING THE RETENTION AND GRADUATION OF HIGH-ACHIEVING, LOW-INCOME STUDENTS WITH DEMONSTRATED FINANCIAL NEED. OVER A SIX-YEAR DURATION, 55 SCHOLARS IN FOUR COHORTS WILL RECEIVE SUPPORT FOR FOUR YEARS, PLUS AN OPTIONAL FIFTH YEAR TO PURSUE AN M.S. DEGREE. STUDENTS FROM ALL COMPUTING PROGRAMS AT UCR WILL BE CONSIDERED: COMPUTER SCIENCE, COMPUTER ENGINEERING, DATA SCIENCE, COMPUTER SCIENCE WITH BUSINESS APPLICATIONS, AND ROBOTICS. A KEY INNOVATION IS THE CREATION OF THE SCHOLAR EXPERIENCE LAB (SCHOLAR XL) THROUGH WHICH STUDENTS WILL BE CONNECTED WITH INDUSTRY AND COMMUNITY PARTNERS TO WORK ON REAL AND MEANINGFUL PROJECTS, AND PARTICIPATE IN SKILLS DEVELOPMENT WORKSHOPS, WORK IN COLLABORATIVE LEARNING SPACES, AND GAIN OPPORTUNITIES TO PAIR WITH FACULTY ON RESEARCH PROJECTS. SPECIFIC OBJECTIVES OF THE PROJECT INCLUDE: (1) IMPROVING SOCIAL MOBILITY FOR SCHOLARS BY INCREASING THEIR RETENTION, SUCCESS AND COMPLETION RATES, AND (2) PROVIDING INDIVIDUAL FACULTY MENTORSHIP AND ACADEMIC COACHING THAT LEAD STUDENTS TOWARD INTERNSHIP OR RESEARCH OPPORTUNITIES AND POST-GRADUATION SUCCESS. THE PROJECT WILL LEVERAGE MANY EXISTING OPPORTUNITIES AND SUPPORT SERVICES SUCH AS SUMMER INTERNSHIP PROGRAMS, UNDERGRADUATE LEARNING ASSISTANTS, AND COMMUNITY OUTREACH PROGRAMS TO CREATE BONDING EXPERIENCES FOR EACH COHORT. THIS PROJECT IS FUNDED BY NSF?S SCHOLARSHIPS IN SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS PROGRAM, WHICH SEEKS TO INCREASE THE NUMBER OF LOW-INCOME ACADEMICALLY TALENTED STUDENTS WITH DEMONSTRATED FINANCIAL NEED WHO EARN DEGREES IN STEM FIELDS. IT ALSO AIMS TO IMPROVE THE EDUCATION OF FUTURE STEM WORKERS, AND TO GENERATE KNOWLEDGE ABOUT ACADEMIC SUCCESS, RETENTION, TRANSFER, GRADUATION, AND ACADEMIC/CAREER PATHWAYS OF LOW-INCOME STUDENTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 2000000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-08-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 161529.78,
+    "total_account_obligation": 2000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 161529.78
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF UNDERGRADUATE EDUCATION"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF UNDERGRADUATE EDUCATION"
+    },
+    "period_of_performance": {
+      "start_date": "2024-10-01",
+      "end_date": "2030-09-30",
+      "last_modified_date": "2024-08-27",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 161529.78
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91333227,
+    "Award ID": "R37CA249007",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1741851,
+    "Total Outlays": 1276377.62,
+    "Description": "ENGRAILED-1 AND EPIGENETIC VULNERABILITIES IN METASTATIC PANCREATIC CANCER - PROJECT SUMMARY/ABSTRACT PANCREATIC CANCER IS THE MOST DEADLY DISEASE IN HUMAN MALIGNANCIES AND EFFECTIVE TREATMENT OPTIONS ARE LIMITED. HERE, WE HYPOTHESIZE THAT ENGRAILED-1 (EN1), A NEURO-DEVELOPMENT TRANSCRIPTION FACTOR, PLAYS A CRITICAL ROLE IN PANCREATIC CANCER PROGRESSION AND METASTASIS VIA EPIGENETIC MECHANISM OF GENE REGULATION. EN1 IS A HOMEO-DOMAIN TRANSCRIPTION FACTOR, ACTING AS A TRANSCRIPTIONAL REPRESSOR VIA RECRUITING TRANSCRIPTIONAL REPRESSIVE COMPLEXES. OUR PRELIMINARY DATA SHOW THAT EN1 IS HIGHLY EXPRESSED IN METASTASIS-DERIVED ORGANOIDS AND METASTATIC LESIONS OF PANCREATIC CANCER MOUSE MODEL. IN ADDITION, EN1 EXPRESSION IS ASSOCIATED WITH POOR PROGNOSIS AND THE SQUAMOUS MOLECULAR SUBTYPE OF PANCREATIC CANCER. HERE, WE FIND THAT EN1 EXPRESSION ENDOWS AGGRESSIVE CHARACTERISTICS TO PANCREATIC CANCER CELLS AND INDUCES THE SQUAMOUS-PDA IDENTITY GENE SIGNATURE. OUR DATA STRONGLY SUGGEST THAT EN1-MEDIATED EPIGENETIC ALTERATIONS CREATE A NEW VULNERABILITY FOR METASTATIC PANCREATIC CANCER. THEREFORE, IT IS CRITICAL TO IDENTIFY THE UNDERLYING MOLECULAR MECHANISM BY WHICH EN1 REGULATES PANCREATIC EPIGENOME AND CONTRIBUTES TO PDA PROGRESSION AND METASTASIS. TO ADDRESS THIS, WE WILL EMPLOY MULTI-ORTHOGONAL APPROACHES TO UNDERSTAND THE PRECISE ROLE OF EN1 IN PDA PROGRESSION. HERE, WE PROPOSE 1) TO DETERMINE THE ROLE OF EN1 IN THE PANCREATIC CANCER EPIGENOME, AND 2) TO DETERMINE THE ROLE OF EN1 IN PANCREATIC CANCER PROGRESSION. THE PROPOSED STUDY WILL PROVIDE A NEW INSIGHT HOW EN1-MEDIATED EPIGENETIC ALTERATIONS IMPACT ON AGGRESSIVE TRAITS OF PANCREATIC CANCER. THIS MAY OPEN NOVEL AVENUES FOR THE TREATMENT OF PANCREATIC CANCER.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-03-08",
+    "End Date": "2026-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R37CA249007_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91333227,
+    "generated_unique_award_id": "ASST_NON_R37CA249007_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ENGRAILED-1 AND EPIGENETIC VULNERABILITIES IN METASTATIC PANCREATIC CANCER - PROJECT SUMMARY/ABSTRACT PANCREATIC CANCER IS THE MOST DEADLY DISEASE IN HUMAN MALIGNANCIES AND EFFECTIVE TREATMENT OPTIONS ARE LIMITED. HERE, WE HYPOTHESIZE THAT ENGRAILED-1 (EN1), A NEURO-DEVELOPMENT TRANSCRIPTION FACTOR, PLAYS A CRITICAL ROLE IN PANCREATIC CANCER PROGRESSION AND METASTASIS VIA EPIGENETIC MECHANISM OF GENE REGULATION. EN1 IS A HOMEO-DOMAIN TRANSCRIPTION FACTOR, ACTING AS A TRANSCRIPTIONAL REPRESSOR VIA RECRUITING TRANSCRIPTIONAL REPRESSIVE COMPLEXES. OUR PRELIMINARY DATA SHOW THAT EN1 IS HIGHLY EXPRESSED IN METASTASIS-DERIVED ORGANOIDS AND METASTATIC LESIONS OF PANCREATIC CANCER MOUSE MODEL. IN ADDITION, EN1 EXPRESSION IS ASSOCIATED WITH POOR PROGNOSIS AND THE SQUAMOUS MOLECULAR SUBTYPE OF PANCREATIC CANCER. HERE, WE FIND THAT EN1 EXPRESSION ENDOWS AGGRESSIVE CHARACTERISTICS TO PANCREATIC CANCER CELLS AND INDUCES THE SQUAMOUS-PDA IDENTITY GENE SIGNATURE. OUR DATA STRONGLY SUGGEST THAT EN1-MEDIATED EPIGENETIC ALTERATIONS CREATE A NEW VULNERABILITY FOR METASTATIC PANCREATIC CANCER. THEREFORE, IT IS CRITICAL TO IDENTIFY THE UNDERLYING MOLECULAR MECHANISM BY WHICH EN1 REGULATES PANCREATIC EPIGENOME AND CONTRIBUTES TO PDA PROGRESSION AND METASTASIS. TO ADDRESS THIS, WE WILL EMPLOY MULTI-ORTHOGONAL APPROACHES TO UNDERSTAND THE PRECISE ROLE OF EN1 IN PDA PROGRESSION. HERE, WE PROPOSE 1) TO DETERMINE THE ROLE OF EN1 IN THE PANCREATIC CANCER EPIGENOME, AND 2) TO DETERMINE THE ROLE OF EN1 IN PANCREATIC CANCER PROGRESSION. THE PROPOSED STUDY WILL PROVIDE A NEW INSIGHT HOW EN1-MEDIATED EPIGENETIC ALTERATIONS IMPACT ON AGGRESSIVE TRAITS OF PANCREATIC CANCER. THIS MAY OPEN NOVEL AVENUES FOR THE TREATMENT OF PANCREATIC CANCER.",
+    "total_obligation": 1741851,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-03-08",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1276377.62,
+    "total_account_obligation": 1741851,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1276377.62
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1741851
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2021-03-08",
+      "end_date": "2026-02-28",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1276377.62
+  }
+}

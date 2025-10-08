@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 56095428,
+    "Award ID": "20084110000500.1",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 1351703,
+    "Total Outlays": null,
+    "Description": "SMITH LEVER 3 B\u0026C FUNDS",
+    "Contract Award Type": "",
+    "Recipient UEI": "K8KMKAY57LF7",
+    "Recipient Location": {
+      "address_line1": "821 SOUTH ST",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "ORLAND",
+      "congressional_code": "02",
+      "country_name": null,
+      "county_code": "021",
+      "county_name": "GLENN",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1666",
+      "zip5": "95963"
+    },
+    "Primary Place of Performance": {
+      "city_name": "ORLAND",
+      "congressional_code": "02",
+      "country_name": null,
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "959631666",
+      "zip5": null
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2007-10-01",
+    "End Date": "2008-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "b3f94feb-29e5-fe7c-d15d-cbf227ba2da1-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20084110000500.1_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56095428,
+    "generated_unique_award_id": "ASST_NON_20084110000500.1_012",
+    "piid": "",
+    "category": "grant",
+    "type": "03",
+    "type_description": "",
+    "description": "SMITH LEVER 3 B\u0026C FUNDS",
+    "total_obligation": 1351703,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2007-12-19",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 0,
+      "has_agency_page": false,
+      "toptier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": "",
+        "slug": ""
+      },
+      "subtier_agency": {
+        "name": "",
+        "code": "",
+        "abbreviation": ""
+      },
+      "office_agency_name": ""
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": ""
+    },
+    "period_of_performance": {
+      "start_date": "2007-10-01",
+      "end_date": "2008-09-30",
+      "last_modified_date": "2007-12-19",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "b3f94feb-29e5-fe7c-d15d-cbf227ba2da1-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "K8KMKAY57LF7",
+      "recipient_unique_id": "088203088",
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "",
+        "country_name": "",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "ORLAND",
+        "county_code": "021",
+        "county_name": "GLENN",
+        "address_line1": "821 SOUTH ST",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "01",
+        "zip4": "1666",
+        "zip5": "95963",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "",
+      "country_name": "",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "ORLAND",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

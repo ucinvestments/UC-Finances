@@ -1,0 +1,250 @@
+{
+  "basic_data": {
+    "internal_id": 92621912,
+    "Award ID": "U18TR003778",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 1796802.25,
+    "Total Outlays": 1739903.17,
+    "Description": "AFS/SERS SALIVA-BASED SARS-COV-2 EARLIEST INFECTION AND ANTIBODIES DETECTION - PROJECT SUMMARY/ABSTRACT:  THIS U18 APPLICATION IS RESPONSIVE TO THE NIH’S RADX-RAD EMERGENCY RESPONSES TO THE COVID- PANDEMIC FOR NEW OR NON-TRADITIONAL TECHNOLOGIES DEVELOPED FOR SINGLE EXTRACELLULAR VESICLE, EXOSOME AND EXTRACELLULAR RNA (EXRNA) ISOLATION AND ANALYSIS AND REPOSITION THEM FOR DETECTION OF SARS-COV-2. THE APPLICANT’S GROUP IS A GRANTEE IN THE NIH COMMON FUND “EXTRACELLULAR RNA COMMUNICATION (ERC)” PROGRAM ADVANCING A NEW AND EMERGING TECHNOLOGY OF ACOUSTOFLUIDIC SEPARATION (AFS) FOR LABEL-FREE, HIGH YIELD AND PURITY EXOSOMES FROM BIOFLUIDS WHICH IS COUPLED TO EXTRACELLULAR RNA CHARACTERIZATION USING SURFACE ENHANCED RAMAN SPECTROSCOPY (SERS) FOR SINGLE EV IDENTIFICATION. THIS U18 APPLICATION IS TO REPOSITION THE AFS EV TECHNOLOGY AND SERS FOR THE NON-INVASIVE EARLIEST DETECTION OF SARS-COV-2 IN SALIVA OF INFECTED PATIENTS. HOST IMMUNITY TO SARS-COV-2 WILL ALSO BE ASSESSED IN THE SALIVA SAMPLES, PERMITTING THE EARLIEST DETECTION OF SARS-COV-2 INFECTION AND HOST IMMUNITY NON-INVASIVELY IN A SALIVA SAMPLE.  FIVE SPECIFIC AIMS ARE IN PLACE TO REPOSITION THE SALIVA-BASED AFS AND SERS TECHNOLOGIES, IN A 2-YEAR U18 PROPOSAL, TO TEST THE HYPOTHESIS THAT AN INTEGRATED MULTI-PARAMETRIC NON-INVASIVE SALIVA TEST FOR SARS-COV- 2 INFECTION, VIRAL LOAD AND HOST IMMUNITY TEST DEMONSTRATING CLINICAL PERFORMANCE SURPASSING CURRENT SALIVA-BASED SARS-COV-2 EUA TESTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4200",
+      "zip5": "90024"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "36",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "90095",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "P",
+      "V"
+    ],
+    "COVID-19 Obligations": 1796802.25,
+    "COVID-19 Outlays": 1739903.17,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2020-12-21",
+    "End Date": "2023-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U18TR003778_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92621912,
+    "generated_unique_award_id": "ASST_NON_U18TR003778_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "AFS/SERS SALIVA-BASED SARS-COV-2 EARLIEST INFECTION AND ANTIBODIES DETECTION - PROJECT SUMMARY/ABSTRACT:  THIS U18 APPLICATION IS RESPONSIVE TO THE NIH’S RADX-RAD EMERGENCY RESPONSES TO THE COVID- PANDEMIC FOR NEW OR NON-TRADITIONAL TECHNOLOGIES DEVELOPED FOR SINGLE EXTRACELLULAR VESICLE, EXOSOME AND EXTRACELLULAR RNA (EXRNA) ISOLATION AND ANALYSIS AND REPOSITION THEM FOR DETECTION OF SARS-COV-2. THE APPLICANT’S GROUP IS A GRANTEE IN THE NIH COMMON FUND “EXTRACELLULAR RNA COMMUNICATION (ERC)” PROGRAM ADVANCING A NEW AND EMERGING TECHNOLOGY OF ACOUSTOFLUIDIC SEPARATION (AFS) FOR LABEL-FREE, HIGH YIELD AND PURITY EXOSOMES FROM BIOFLUIDS WHICH IS COUPLED TO EXTRACELLULAR RNA CHARACTERIZATION USING SURFACE ENHANCED RAMAN SPECTROSCOPY (SERS) FOR SINGLE EV IDENTIFICATION. THIS U18 APPLICATION IS TO REPOSITION THE AFS EV TECHNOLOGY AND SERS FOR THE NON-INVASIVE EARLIEST DETECTION OF SARS-COV-2 IN SALIVA OF INFECTED PATIENTS. HOST IMMUNITY TO SARS-COV-2 WILL ALSO BE ASSESSED IN THE SALIVA SAMPLES, PERMITTING THE EARLIEST DETECTION OF SARS-COV-2 INFECTION AND HOST IMMUNITY NON-INVASIVELY IN A SALIVA SAMPLE.  FIVE SPECIFIC AIMS ARE IN PLACE TO REPOSITION THE SALIVA-BASED AFS AND SERS TECHNOLOGIES, IN A 2-YEAR U18 PROPOSAL, TO TEST THE HYPOTHESIS THAT AN INTEGRATED MULTI-PARAMETRIC NON-INVASIVE SALIVA TEST FOR SARS-COV- 2 INFECTION, VIRAL LOAD AND HOST IMMUNITY TEST DEMONSTRATING CLINICAL PERFORMANCE SURPASSING CURRENT SALIVA-BASED SARS-COV-2 EUA TESTS.",
+    "total_obligation": 1796802.25,
+    "subaward_count": 2,
+    "total_subaward_amount": 566066,
+    "date_signed": "2020-12-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1739903.17,
+    "total_account_obligation": 1796802.25,
+    "account_outlays_by_defc": [
+      {
+        "code": "P",
+        "amount": 878241.46
+      },
+      {
+        "code": "V",
+        "amount": 861661.71
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "P",
+        "amount": 902780.42
+      },
+      {
+        "code": "V",
+        "amount": 894021.83
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Center for Advancing Translational Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2020-12-21",
+      "end_date": "2023-11-30",
+      "last_modified_date": "2024-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "4200",
+        "zip5": "90024",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1739903.17
+  }
+}

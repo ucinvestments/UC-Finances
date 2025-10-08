@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91140638,
+    "Award ID": "R01AR085141",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 600475,
+    "Total Outlays": 78440.83,
+    "Description": "ENGINEERING THE FETAL ENVIRONMENT FOR IN UTERO TREATMENT OF SPINA BIFIDA BONE DEFECT - ABSTRACT SPINA BIFIDA (SB) IS THE MOST COMMON CONGENITAL CAUSE OF LIFELONG PARALYSIS IN THE UNITED STATES, AND APPROXIMATELY FOUR CHILDREN ARE BORN DAILY WITH THIS DEVASTATING DISEASE. MYELOMENINGOCELE (MMC), THE MOST SEVERE FORM OF SB, RESULTS FROM THE INCOMPLETE CLOSURE OF THE NEURAL TUBE AND ABSENT OVERLYING SPINE, RESULTING IN LIFELONG PARALYSIS, BOWEL AND BLADDER DYSFUNCTION, MUSCULOSKELETAL DEFORMITIES, AND COGNITIVE DISABILITIES. IN UTERO SURGICAL REPAIR IMPROVES MORBIDITY, BUT FUNCTIONAL RECOVERY IS INCOMPLETE, AND MOST CHILDREN ARE STILL UNABLE TO WALK INDEPENDENTLY. WE DEVELOPED A TREATMENT FOR MMC THAT AUGMENTS THE IN UTERO SURGICAL REPAIR WITH PLACENTAL MESENCHYMAL STEM CELLS (PMSCS) AND FOUND THAT IN UTERO TREATMENT WITH PMSCS PREVENTS HINDLIMB PARALYSIS AT BIRTH IN THE FETAL SHEEP MMC MODEL VIA A NEUROPROTECTION MECHANISM. HOWEVER, TREATED LAMBS DEVELOPED SEVERE KYPHOSIS, CAUSING SPINAL CORD COMPRESSION AND DECREASED MOTOR FUNCTION LONG-TERM DUE TO A LACK OF SPINAL BONE SUPPORT. THEREFORE, REGENERATING THE BONY VERTEBRAE DEFECT IS CRITICAL IN PROTECTING THE NEWLY REPAIRED SPINAL CORD AND MAINTAINING LONG-TERM MOTOR FUNCTION. IT IS WELL KNOWN THAT THE DYNAMIC REGENERATIVE MILIEU IN THE WOMB NATURALLY SUPPORTS THE GENERATION OF FETAL TISSUES BY ENDOGENOUS STEM CELLS. THEREFORE, LEVERAGING THE ABUNDANT ENDOGENOUS CELLS IN THE FETAL ENVIRONMENT PRESENTS A UNIQUE OPPORTUNITY FOR TISSUE REGENERATION IN UTERO. THE BEHAVIOR OF ENDOGENOUS CELLS DURING BONE DEVELOPMENT IN THE FETAL ENVIRONMENT IS HIGHLY DEPENDENT ON SEVERAL CRITICAL AND COMPLEMENTARY FACTORS, SUCH AS INTEGRINS AND EXTRACELLULAR VESICLES (EVS). GIVEN THAT EXOGENOUS MORPHOGENETIC FACTORS ARE CONTRA-INDICATED FOR FETAL AND PEDIATRIC USES BY THE FDA, RECRUITING AND GUIDING ENDOGENOUS STEM CELLS THROUGH ENGINEERED MATERIALS WITH INTEGRIN LIGANDS AND EVS REPRESENTS AN INNOVATIVE, SAFE, AND EFFECTIVE APPROACH TO DRIVE THE ASSEMBLY OF APPROPRIATE CELLS AND FORM FUNCTIONAL BONY TISSUES IN THE DEVELOPING FETUS. USING ONE-BEAD ONE-COMPOUND (OBOC) COMBINATORIAL TECHNOLOGY, WE IDENTIFIED SPECIFIC INTEGRIN LIGANDS, LLP2A AND LXW7, WITH A HIGH AFFINITY FOR INTEGRINS Α4Β1 AND ΑVΒ3, RESPECTIVELY, THAT ARE HIGHLY EXPRESSED ON MSCS AND ENDOTHELIAL PROGENITOR CELLS (EPCS)/ENDOTHELIAL CELLS (ECS), AND THAT ARE CRITICAL FOR RECRUITING ENDOGENOUS MSCS AND EPCS/ECS TO THE BONE DEFECT SITE. WE ALSO DEMONSTRATED PLACENTAL MSCS-DERIVED EVS (PMSC-EVS) POSSESS STRONG OSTEOGENIC AND ANGIOGENIC POTENTIALS. IN THIS STUDY, WE PROPOSE TO DEVELOP A COLLAGEN-BASED SCAFFOLD MODIFIED WITH LLP2A/LXW7 AND PMSC-EVS TO SYNERGISTICALLY RECRUIT AND GUIDE ENDOGENOUS STEM CELLS FOR VASCULARIZED BONE REGENERATION IN UTERO. WE WILL EVALUATE THE REGENERATIVE FUNCTIONS OF THIS PRODUCT USING OUR WELL-ESTABLISHED FETAL SHEEP SPINAL BONE DEFECT AND FETAL SHEEP MMC MODELS. THIS FETAL TISSUE ENGINEERING APPROACH PROVIDES A TRANSFORMATIVE SOLUTION FOR REGENERATING THE BONY STRUCTURAL DEFECT IN MMC PATIENTS. ONCE ESTABLISHED, THIS SOLUTION COULD COMBINE WITH OUR PREVIOUS NEUROPROTECTIVE APPROACH, SIGNIFICANTLY IMPROVING THE CARE FOR MMC PATIENTS AND LOWERING HEALTHCARE COSTS. THIS TECHNOLOGY CAN ALSO HAVE WIDER IMPLICATIONS IN TREATING OTHER CONGENITAL SKELETAL DEFECTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-03-24",
+    "End Date": "2030-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AR085141_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91140638,
+    "generated_unique_award_id": "ASST_NON_R01AR085141_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ENGINEERING THE FETAL ENVIRONMENT FOR IN UTERO TREATMENT OF SPINA BIFIDA BONE DEFECT - ABSTRACT SPINA BIFIDA (SB) IS THE MOST COMMON CONGENITAL CAUSE OF LIFELONG PARALYSIS IN THE UNITED STATES, AND APPROXIMATELY FOUR CHILDREN ARE BORN DAILY WITH THIS DEVASTATING DISEASE. MYELOMENINGOCELE (MMC), THE MOST SEVERE FORM OF SB, RESULTS FROM THE INCOMPLETE CLOSURE OF THE NEURAL TUBE AND ABSENT OVERLYING SPINE, RESULTING IN LIFELONG PARALYSIS, BOWEL AND BLADDER DYSFUNCTION, MUSCULOSKELETAL DEFORMITIES, AND COGNITIVE DISABILITIES. IN UTERO SURGICAL REPAIR IMPROVES MORBIDITY, BUT FUNCTIONAL RECOVERY IS INCOMPLETE, AND MOST CHILDREN ARE STILL UNABLE TO WALK INDEPENDENTLY. WE DEVELOPED A TREATMENT FOR MMC THAT AUGMENTS THE IN UTERO SURGICAL REPAIR WITH PLACENTAL MESENCHYMAL STEM CELLS (PMSCS) AND FOUND THAT IN UTERO TREATMENT WITH PMSCS PREVENTS HINDLIMB PARALYSIS AT BIRTH IN THE FETAL SHEEP MMC MODEL VIA A NEUROPROTECTION MECHANISM. HOWEVER, TREATED LAMBS DEVELOPED SEVERE KYPHOSIS, CAUSING SPINAL CORD COMPRESSION AND DECREASED MOTOR FUNCTION LONG-TERM DUE TO A LACK OF SPINAL BONE SUPPORT. THEREFORE, REGENERATING THE BONY VERTEBRAE DEFECT IS CRITICAL IN PROTECTING THE NEWLY REPAIRED SPINAL CORD AND MAINTAINING LONG-TERM MOTOR FUNCTION. IT IS WELL KNOWN THAT THE DYNAMIC REGENERATIVE MILIEU IN THE WOMB NATURALLY SUPPORTS THE GENERATION OF FETAL TISSUES BY ENDOGENOUS STEM CELLS. THEREFORE, LEVERAGING THE ABUNDANT ENDOGENOUS CELLS IN THE FETAL ENVIRONMENT PRESENTS A UNIQUE OPPORTUNITY FOR TISSUE REGENERATION IN UTERO. THE BEHAVIOR OF ENDOGENOUS CELLS DURING BONE DEVELOPMENT IN THE FETAL ENVIRONMENT IS HIGHLY DEPENDENT ON SEVERAL CRITICAL AND COMPLEMENTARY FACTORS, SUCH AS INTEGRINS AND EXTRACELLULAR VESICLES (EVS). GIVEN THAT EXOGENOUS MORPHOGENETIC FACTORS ARE CONTRA-INDICATED FOR FETAL AND PEDIATRIC USES BY THE FDA, RECRUITING AND GUIDING ENDOGENOUS STEM CELLS THROUGH ENGINEERED MATERIALS WITH INTEGRIN LIGANDS AND EVS REPRESENTS AN INNOVATIVE, SAFE, AND EFFECTIVE APPROACH TO DRIVE THE ASSEMBLY OF APPROPRIATE CELLS AND FORM FUNCTIONAL BONY TISSUES IN THE DEVELOPING FETUS. USING ONE-BEAD ONE-COMPOUND (OBOC) COMBINATORIAL TECHNOLOGY, WE IDENTIFIED SPECIFIC INTEGRIN LIGANDS, LLP2A AND LXW7, WITH A HIGH AFFINITY FOR INTEGRINS Α4Β1 AND ΑVΒ3, RESPECTIVELY, THAT ARE HIGHLY EXPRESSED ON MSCS AND ENDOTHELIAL PROGENITOR CELLS (EPCS)/ENDOTHELIAL CELLS (ECS), AND THAT ARE CRITICAL FOR RECRUITING ENDOGENOUS MSCS AND EPCS/ECS TO THE BONE DEFECT SITE. WE ALSO DEMONSTRATED PLACENTAL MSCS-DERIVED EVS (PMSC-EVS) POSSESS STRONG OSTEOGENIC AND ANGIOGENIC POTENTIALS. IN THIS STUDY, WE PROPOSE TO DEVELOP A COLLAGEN-BASED SCAFFOLD MODIFIED WITH LLP2A/LXW7 AND PMSC-EVS TO SYNERGISTICALLY RECRUIT AND GUIDE ENDOGENOUS STEM CELLS FOR VASCULARIZED BONE REGENERATION IN UTERO. WE WILL EVALUATE THE REGENERATIVE FUNCTIONS OF THIS PRODUCT USING OUR WELL-ESTABLISHED FETAL SHEEP SPINAL BONE DEFECT AND FETAL SHEEP MMC MODELS. THIS FETAL TISSUE ENGINEERING APPROACH PROVIDES A TRANSFORMATIVE SOLUTION FOR REGENERATING THE BONY STRUCTURAL DEFECT IN MMC PATIENTS. ONCE ESTABLISHED, THIS SOLUTION COULD COMBINE WITH OUR PREVIOUS NEUROPROTECTIVE APPROACH, SIGNIFICANTLY IMPROVING THE CARE FOR MMC PATIENTS AND LOWERING HEALTHCARE COSTS. THIS TECHNOLOGY CAN ALSO HAVE WIDER IMPLICATIONS IN TREATING OTHER CONGENITAL SKELETAL DEFECTS.",
+    "total_obligation": 600475,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-03-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 78440.83,
+    "total_account_obligation": 600475,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 78440.83
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 600475
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-03-24",
+      "end_date": "2030-01-31",
+      "last_modified_date": "2025-04-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 78440.83
+  }
+}

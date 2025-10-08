@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717547,
+    "Award ID": "S10OD030378",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+    "Award Amount": 2000000,
+    "Total Outlays": 2000000,
+    "Description": "NEXT GENERATION 3T MRI SCANNER - 1. PROJECT SUMMARY/ABSTRACT THIS APPLICATION REQUESTS A SIEMENS PRISMA 3 TESLA MRI SYSTEM TO BE LOCATED IN THE BRAIN IMAGING CENTER (BIC) AT THE UNIVERSITY OF CALIFORNIA, BERKELEY (UCB). THE MRI USER COMMUNITY AT UCB CURRENTLY CONSISTS OF 12 MAJOR AND 6 MINOR USERS ON CAMPUS, AT LAWRENCE BERKELEY NATIONAL LABORATORY (LBNL), AND AT THE UNIVERSITY OF CALIFORNIA AT SAN FRANCISCO (UCSF). TOGETHER THESE RESEARCHERS ARE SUPPORTED BY 36 CURRENT NIH GRANTS AND 15 OTHER FEDERAL AND FOUNDATION GRANTS THAT ALL DEPEND ON 3T MRI. SINCE 2008 THIS COMMUNITY HAS MADE USE OF A 3 TESLA SIEMENS TIM TRIO MRI SCANNER THAT IS LOCATED WITHIN AND SUPPORTED BY THE UCB BIC. HOWEVER, THIS SYSTEM IS RAPIDLY BECOMING OBSOLETE. IT NO LONGER RECEIVES SOFTWARE OR HARDWARE UPDATES FROM THE MANUFACTURER, AND IT CANNOT SUPPORT SOME OF THE MOST MODERN NEUROIMAGING METHODS. THIS REQUEST IS FOR A MODERN MRI SCANNER THAT WILL ENABLE APPLICATION OF ADVANCED NEUROIMAGING METHODS WITH SIGNIFICANTLY INCREASED SENSITIVITY RELATIVE TO OUR CURRENT SCANNER. THE SPECIFIED INSTRUMENT IS A MAGNETOM PRISMA 3 TESLA SCANNER WITH TIM XR GRADIENTS (MAXIMUM GRADIENT AMPLITUDE OF 80 MT/M WITH A 200 T/M/S SLEW RATE). THE SYSTEM WILL HAVE PARALLEL TRANSMISSION AND PHASED-ARRAY RECEIVE COILS: A 32 CHANNEL COIL THAT WILL OFFER MAXIMUM SNR AND CONTINUITY WITH THE SAME COIL ON THE TRIO, AND A 64 CHANNEL COIL THAT WILL OFFER MAXIMUM COVERAGE OF THE HEAD AND NECK. A COMPLETE SOFTWARE SUITE WILL BE AVAILABLE FOR ADVANCED NEUROIMAGING APPLICATIONS, SUCH AS SIMULTANEOUS MULTI-SLICE, DIFFUSION IMAGING AND ARTERIAL SPIN LABELING. THE BIC AT UCB PROVIDES A STRONG ENVIRONMENT FOR SUPPORTING THE REQUESTED INSTRUMENT. THE BIC CO-DIRECTORS ARE PROF. JACK GALLANT, A COMPUTATIONAL COGNITIVE NEUROSCIENTIST, AND PROF. CHUNLEI LIU, AN MRI PHYSICIST. BIC STAFF CONSISTS OF DR. BEN INGLIS, AN MRI PHYSICIST AND TWO DEVELOPMENT ENGINEERS. THESE HIGHLY EXPERIENCED STAFF WILL BE DIRECTLY RESPONSIBLE FOR SCANNER MAINTENANCE, UPKEEP AND DEVELOPMENT, AND FOR USER TRAINING AND CERTIFICATION. OPERATION AND USE OF THE INSTRUMENT WILL BE OVERSEEN BY AN INDEPENDENT ADVISORY COMMITTEE. UC BERKELEY HAS COMMITTED SUPPORT FOR THE SALES TAX LIABILITY AND MINOR RENOVATIONS. THE COST OF THE MAINTENANCE CONTRACT AND SUPPORT STAFF WILL BE BORNE BY HOURLY RECHARGE BILLED THROUGH THE BIC. SUBSTANTIAL NIH-FUNDED RESEARCH AT UC BERKELEY DEPENDS ON THE AVAILABILITY OF A STATE-OF-THE-ART 3T HUMAN MRI SCANNER. THE REQUESTED INSTRUMENT WILL IMPROVE SCANNING CAPACITY IN THE AREAS OF SOFTWARE, HARDWARE, BRAIN COVERAGE, SIGNAL QUALITY AND COMFORT. THE INSTRUMENT WILL PROVIDE SIGNIFICANTLY IMPROVED SIGNAL QUALITY AND SENSITIVITY OVER OUR CURRENT SCANNER, THEREBY IMPROVING ALL SCIENTIFIC OUTCOMES. IT WILL ALSO FACILITATE COLLABORATION BETWEEN BERKELEY INVESTIGATORS AND THOSE AT OTHER IMAGING FACILITIES WHO ARE ALREADY USING THE PRISMA SCANNER. THUS, THE REQUESTED INSTRUMENT WILL FACILITATE BASIC RESEARCH AND SPEED ITS APPLICATION TOWARD IMPROVING PUBLIC HEALTH.",
+    "Contract Award Type": "",
+    "Recipient UEI": "GS3YEVSS12N6",
+    "Recipient Location": {
+      "address_line1": "1608 4TH ST STE 201",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "1749",
+      "zip5": "94710"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "947200001",
+      "zip5": "94720"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-06-28",
+    "End Date": "2024-06-27",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2f14ac11-bc8d-d1e9-d103-1585414b0792-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD030378_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717547,
+    "generated_unique_award_id": "ASST_NON_S10OD030378_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NEXT GENERATION 3T MRI SCANNER - 1. PROJECT SUMMARY/ABSTRACT THIS APPLICATION REQUESTS A SIEMENS PRISMA 3 TESLA MRI SYSTEM TO BE LOCATED IN THE BRAIN IMAGING CENTER (BIC) AT THE UNIVERSITY OF CALIFORNIA, BERKELEY (UCB). THE MRI USER COMMUNITY AT UCB CURRENTLY CONSISTS OF 12 MAJOR AND 6 MINOR USERS ON CAMPUS, AT LAWRENCE BERKELEY NATIONAL LABORATORY (LBNL), AND AT THE UNIVERSITY OF CALIFORNIA AT SAN FRANCISCO (UCSF). TOGETHER THESE RESEARCHERS ARE SUPPORTED BY 36 CURRENT NIH GRANTS AND 15 OTHER FEDERAL AND FOUNDATION GRANTS THAT ALL DEPEND ON 3T MRI. SINCE 2008 THIS COMMUNITY HAS MADE USE OF A 3 TESLA SIEMENS TIM TRIO MRI SCANNER THAT IS LOCATED WITHIN AND SUPPORTED BY THE UCB BIC. HOWEVER, THIS SYSTEM IS RAPIDLY BECOMING OBSOLETE. IT NO LONGER RECEIVES SOFTWARE OR HARDWARE UPDATES FROM THE MANUFACTURER, AND IT CANNOT SUPPORT SOME OF THE MOST MODERN NEUROIMAGING METHODS. THIS REQUEST IS FOR A MODERN MRI SCANNER THAT WILL ENABLE APPLICATION OF ADVANCED NEUROIMAGING METHODS WITH SIGNIFICANTLY INCREASED SENSITIVITY RELATIVE TO OUR CURRENT SCANNER. THE SPECIFIED INSTRUMENT IS A MAGNETOM PRISMA 3 TESLA SCANNER WITH TIM XR GRADIENTS (MAXIMUM GRADIENT AMPLITUDE OF 80 MT/M WITH A 200 T/M/S SLEW RATE). THE SYSTEM WILL HAVE PARALLEL TRANSMISSION AND PHASED-ARRAY RECEIVE COILS: A 32 CHANNEL COIL THAT WILL OFFER MAXIMUM SNR AND CONTINUITY WITH THE SAME COIL ON THE TRIO, AND A 64 CHANNEL COIL THAT WILL OFFER MAXIMUM COVERAGE OF THE HEAD AND NECK. A COMPLETE SOFTWARE SUITE WILL BE AVAILABLE FOR ADVANCED NEUROIMAGING APPLICATIONS, SUCH AS SIMULTANEOUS MULTI-SLICE, DIFFUSION IMAGING AND ARTERIAL SPIN LABELING. THE BIC AT UCB PROVIDES A STRONG ENVIRONMENT FOR SUPPORTING THE REQUESTED INSTRUMENT. THE BIC CO-DIRECTORS ARE PROF. JACK GALLANT, A COMPUTATIONAL COGNITIVE NEUROSCIENTIST, AND PROF. CHUNLEI LIU, AN MRI PHYSICIST. BIC STAFF CONSISTS OF DR. BEN INGLIS, AN MRI PHYSICIST AND TWO DEVELOPMENT ENGINEERS. THESE HIGHLY EXPERIENCED STAFF WILL BE DIRECTLY RESPONSIBLE FOR SCANNER MAINTENANCE, UPKEEP AND DEVELOPMENT, AND FOR USER TRAINING AND CERTIFICATION. OPERATION AND USE OF THE INSTRUMENT WILL BE OVERSEEN BY AN INDEPENDENT ADVISORY COMMITTEE. UC BERKELEY HAS COMMITTED SUPPORT FOR THE SALES TAX LIABILITY AND MINOR RENOVATIONS. THE COST OF THE MAINTENANCE CONTRACT AND SUPPORT STAFF WILL BE BORNE BY HOURLY RECHARGE BILLED THROUGH THE BIC. SUBSTANTIAL NIH-FUNDED RESEARCH AT UC BERKELEY DEPENDS ON THE AVAILABILITY OF A STATE-OF-THE-ART 3T HUMAN MRI SCANNER. THE REQUESTED INSTRUMENT WILL IMPROVE SCANNING CAPACITY IN THE AREAS OF SOFTWARE, HARDWARE, BRAIN COVERAGE, SIGNAL QUALITY AND COMFORT. THE INSTRUMENT WILL PROVIDE SIGNIFICANTLY IMPROVED SIGNAL QUALITY AND SENSITIVITY OVER OUR CURRENT SCANNER, THEREBY IMPROVING ALL SCIENTIFIC OUTCOMES. IT WILL ALSO FACILITATE COLLABORATION BETWEEN BERKELEY INVESTIGATORS AND THOSE AT OTHER IMAGING FACILITIES WHO ARE ALREADY USING THE PRISMA SCANNER. THUS, THE REQUESTED INSTRUMENT WILL FACILITATE BASIC RESEARCH AND SPEED ITS APPLICATION TOWARD IMPROVING PUBLIC HEALTH.",
+    "total_obligation": 2000000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-06-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2000000,
+    "total_account_obligation": 2000000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2000000
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2000000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-28",
+      "end_date": "2024-06-27",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2f14ac11-bc8d-d1e9-d103-1585414b0792-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE",
+      "recipient_uei": "GS3YEVSS12N6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1608 4TH ST STE 201",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "1749",
+        "zip5": "94710",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "0001",
+      "zip5": "94720",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2000000
+  }
+}

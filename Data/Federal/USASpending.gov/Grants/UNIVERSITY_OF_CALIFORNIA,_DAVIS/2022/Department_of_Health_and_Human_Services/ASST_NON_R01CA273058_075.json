@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91155011,
+    "Award ID": "R01CA273058",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2924499,
+    "Total Outlays": 2121474.9,
+    "Description": "SMART CANCER CARE TEAMS: ENHANCING EHR COMMUNICATION TO IMPROVE INTERPROFESSIONAL TEAMWORK - ABSTRACT  CANCER CONTINUES TO RANK AS THE SECOND LEADING CAUSE OF MORTALITY IN THE US, WITH 1.8 MILLION PROJECTED NEW CANCER CASES IN 2020, AND 606,520 CANCER DEATHS. THE NATIONAL ACADEMY OF MEDICINE DESCRIBED A CANCER CARE SYSTEM IN CRISIS, WITH INTERPROFESSIONAL (IP) TEAMWORK AND COORDINATION LARGELY THE EXCEPTION RATHER THAN THE RULE. THE NATIONAL CANCER INSTITUTE PRIORITIZED THE NEED TO IMPROVE IP TEAM-BASED CANCER CARE. ALIGNED WITH THESE PRIORITIES, THE OVERALL GOAL OF OUR RESEARCH IS TO DETERMINE HOW IP TEAMWORK AFFECTS QUALITY OUTCOMES AND DEVELOP TOOLS TO IMPROVE TEAMWORK IN CANCER CARE. THE MULTITEAM SYSTEM (MTS) PERSPECTIVE OFFERS A THEORETICAL FRAMEWORK TO EXAMINE IP WORK AMONG MULTIPLE GROUPS OF HEALTHCARE PROFESSIONALS (HCPS). WE PROPOSE TO LEVERAGE SOCIAL NETWORK ANALYSIS AND MACHINE LEARNING (ML)-ASSISTED VISUAL ANALYTICS TO EXTEND OUR PRELIMINARY STUDIES TO EXAMINING THEORY-INFORMED, TARGETED ELECTRONIC HEALTH RECORD (EHR) NETWORK STRUCTURES AT THREE STUDY SITES THAT ALL USE EPIC. OUR RESEARCH CENTERS ON ONE MODIFIABLE DIMENSION OF TEAM COMMUNICATION, INFORMATION SHARING THROUGH EHRS, WITH THESE AIMS: AIM 1: DEVELOP NEW MEASURES OF WITHIN- AND BETWEEN-GROUP EHR COMMUNICATION IN CANCER CARE MTSS. AIM 2: DETERMINE THE ASSOCIATIONS OF TARGETED EHR COMMUNICATION STRUCTURES WITH CANCER CARE QUALITY OUTCOMES, SPECIFICALLY POTENTIALLY PREVENTABLE ED VISITS AND UNPLANNED HOSPITALIZATIONS. AIM 3: DEVELOP ML-ASSISTED VISUAL ANALYTICS AND PROTOTYPE TOOLS TO (A) CHARACTERIZE MTSS, AND (B) PREDICT PATIENTS WITH EHR COMMUNICATION STRUCTURES ASSOCIATED WITH POOR QUALITY OUTCOMES. WE WILL EXTRACT EHR DATA OF PATIENTS WITH STAGE II OR III BREAST, COLORECTAL, AND NON-SMALL CELL LUNG CANCER AT THREE STUDY SITES (N=2,746). FOR EACH PATIENT, USING TIME-STAMPED EHR ACCESS-LOG DATA, WE WILL CONSTRUCT A WEIGHTED COMMUNICATION NETWORK OF HER/HIS CANCER CARE MTS TO MEASURE WITHIN- AND BETWEEN-GROUP COMMUNICATION SCORES. WE WILL APPLY ZERO-INFLATED POISSON MODELS TO ANALYZE THE ASSOCIATIONS OF TARGETD EHR NETWORK STRUCTURES WITH QUALITY OUTCOMES, CONTROLLING FOR MEDICAL COMPLEXITY AND SOCIAL DETERMINANTS OF HEALTH. LEVERAGING AIM 2 RESULTS, AND TO LAY THE CRITICAL GROUNDWORK FOR AIM 3, WE WILL CONDUCT INTERVIEWS AND FOCUS GROUPS WITH HCPS, PATIENTS, AND CAREGIVERS (N=90), TO GAIN A MORE IN-DEPTH UNDERSTANDING OF EHR COMMUNICATION STRUCTURES. WE WILL APPLY AND EXTEND GRAPH NEURAL NETWORKS (GNN) TO PREDICT PATIENTS WHO HAVE EHR COMMUNICATION STRUCTURES ASSOCIATED WITH POOR OUTCOMES AS WELL AS PROVIDE THE REASONING BEHIND THE PREDICTION. FURTHERMORE, WE WILL DEVELOP AN ALGORITHM TO RECOMMEND POTENTIAL COMMUNICATION STRUCTURE CHANGES THAT SIGNIFICANTLY REDUCE RISK. THIS STUDY ADDRESSES THE NATIONAL RESEARCH COUNCIL REPORT UNDERSCORING THE CENTRAL ROLE OF VISUAL ANALYTICS TO SUPPORT COGNITION, DECISION-MAKING, AND WORKFLOW OPTIMIZATION IN HEALTHCARE. IN A SUBSEQUENT STUDY, WE WILL EVALUATE THE EFFECTIVENESS OF ML-ASSISTED VISUAL ANALYTICS TOOLS AT IMPROVING PATIENT OUTCOMES AND REDUCING COSTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958171460",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-07-01",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA273058_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91155011,
+    "generated_unique_award_id": "ASST_NON_R01CA273058_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SMART CANCER CARE TEAMS: ENHANCING EHR COMMUNICATION TO IMPROVE INTERPROFESSIONAL TEAMWORK - ABSTRACT  CANCER CONTINUES TO RANK AS THE SECOND LEADING CAUSE OF MORTALITY IN THE US, WITH 1.8 MILLION PROJECTED NEW CANCER CASES IN 2020, AND 606,520 CANCER DEATHS. THE NATIONAL ACADEMY OF MEDICINE DESCRIBED A CANCER CARE SYSTEM IN CRISIS, WITH INTERPROFESSIONAL (IP) TEAMWORK AND COORDINATION LARGELY THE EXCEPTION RATHER THAN THE RULE. THE NATIONAL CANCER INSTITUTE PRIORITIZED THE NEED TO IMPROVE IP TEAM-BASED CANCER CARE. ALIGNED WITH THESE PRIORITIES, THE OVERALL GOAL OF OUR RESEARCH IS TO DETERMINE HOW IP TEAMWORK AFFECTS QUALITY OUTCOMES AND DEVELOP TOOLS TO IMPROVE TEAMWORK IN CANCER CARE. THE MULTITEAM SYSTEM (MTS) PERSPECTIVE OFFERS A THEORETICAL FRAMEWORK TO EXAMINE IP WORK AMONG MULTIPLE GROUPS OF HEALTHCARE PROFESSIONALS (HCPS). WE PROPOSE TO LEVERAGE SOCIAL NETWORK ANALYSIS AND MACHINE LEARNING (ML)-ASSISTED VISUAL ANALYTICS TO EXTEND OUR PRELIMINARY STUDIES TO EXAMINING THEORY-INFORMED, TARGETED ELECTRONIC HEALTH RECORD (EHR) NETWORK STRUCTURES AT THREE STUDY SITES THAT ALL USE EPIC. OUR RESEARCH CENTERS ON ONE MODIFIABLE DIMENSION OF TEAM COMMUNICATION, INFORMATION SHARING THROUGH EHRS, WITH THESE AIMS: AIM 1: DEVELOP NEW MEASURES OF WITHIN- AND BETWEEN-GROUP EHR COMMUNICATION IN CANCER CARE MTSS. AIM 2: DETERMINE THE ASSOCIATIONS OF TARGETED EHR COMMUNICATION STRUCTURES WITH CANCER CARE QUALITY OUTCOMES, SPECIFICALLY POTENTIALLY PREVENTABLE ED VISITS AND UNPLANNED HOSPITALIZATIONS. AIM 3: DEVELOP ML-ASSISTED VISUAL ANALYTICS AND PROTOTYPE TOOLS TO (A) CHARACTERIZE MTSS, AND (B) PREDICT PATIENTS WITH EHR COMMUNICATION STRUCTURES ASSOCIATED WITH POOR QUALITY OUTCOMES. WE WILL EXTRACT EHR DATA OF PATIENTS WITH STAGE II OR III BREAST, COLORECTAL, AND NON-SMALL CELL LUNG CANCER AT THREE STUDY SITES (N=2,746). FOR EACH PATIENT, USING TIME-STAMPED EHR ACCESS-LOG DATA, WE WILL CONSTRUCT A WEIGHTED COMMUNICATION NETWORK OF HER/HIS CANCER CARE MTS TO MEASURE WITHIN- AND BETWEEN-GROUP COMMUNICATION SCORES. WE WILL APPLY ZERO-INFLATED POISSON MODELS TO ANALYZE THE ASSOCIATIONS OF TARGETD EHR NETWORK STRUCTURES WITH QUALITY OUTCOMES, CONTROLLING FOR MEDICAL COMPLEXITY AND SOCIAL DETERMINANTS OF HEALTH. LEVERAGING AIM 2 RESULTS, AND TO LAY THE CRITICAL GROUNDWORK FOR AIM 3, WE WILL CONDUCT INTERVIEWS AND FOCUS GROUPS WITH HCPS, PATIENTS, AND CAREGIVERS (N=90), TO GAIN A MORE IN-DEPTH UNDERSTANDING OF EHR COMMUNICATION STRUCTURES. WE WILL APPLY AND EXTEND GRAPH NEURAL NETWORKS (GNN) TO PREDICT PATIENTS WHO HAVE EHR COMMUNICATION STRUCTURES ASSOCIATED WITH POOR OUTCOMES AS WELL AS PROVIDE THE REASONING BEHIND THE PREDICTION. FURTHERMORE, WE WILL DEVELOP AN ALGORITHM TO RECOMMEND POTENTIAL COMMUNICATION STRUCTURE CHANGES THAT SIGNIFICANTLY REDUCE RISK. THIS STUDY ADDRESSES THE NATIONAL RESEARCH COUNCIL REPORT UNDERSCORING THE CENTRAL ROLE OF VISUAL ANALYTICS TO SUPPORT COGNITION, DECISION-MAKING, AND WORKFLOW OPTIMIZATION IN HEALTHCARE. IN A SUBSEQUENT STUDY, WE WILL EVALUATE THE EFFECTIVENESS OF ML-ASSISTED VISUAL ANALYTICS TOOLS AT IMPROVING PATIENT OUTCOMES AND REDUCING COSTS.",
+    "total_obligation": 2924499,
+    "subaward_count": 3,
+    "total_subaward_amount": 359956,
+    "date_signed": "2022-06-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2121474.9,
+    "total_account_obligation": 2924499,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2121474.9
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2924499
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-07-01",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "1460",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2121474.9
+  }
+}

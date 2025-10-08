@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91153497,
+    "Award ID": "R01CA250512",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2434599,
+    "Total Outlays": 1821380.03,
+    "Description": "LABEL-FREE FLUORESCENCE LIFETIME IMAGING FOR INTRAOPERATIVE REAL-TIME GUIDANCE OF NEUROLOGICAL PROCEDURES - PROJECT SUMMARY/ABSTRACT THE OUTCOME OF BRAIN TUMOR SURGERY IS CRITICALLY DEPENDENT ON THE NEUROSURGEON'S ABILITY TO DISTINGUISH BETWEEN ABNORMAL AND NORMAL TISSUE IN REAL-TIME. OUR GOAL IS TO ENHANCE THIS DISCRIMINATION BY USING LABEL-FREE FLUORESCENCE LIFETIME IMAGING (FLIM) TO DETECT TISSUE BIOCHEMICAL AND METABOLIC CHARACTERISTICS THAT DISTINGUISH AMONG DIFFERENT TISSUE TYPES AND, BY INTEGRATING FLIM INTO THE NEUROSURGICAL WORKFLOW, TO PROVIDE THIS INFORMATION IN A REAL-TIME, VISUAL FORMAT USEFUL FOR GUIDING TUMOR BIOPSY AND RESECTION. FLIM-DERIVED TISSUE FLUORESCENCE FEATURE INFORMATION WILL BE CO-REGISTERED WITH THE PREOPERATIVE-MRI (PMRI) AND PROJECTED ONTO THE CONVENTIONAL SURGICAL MICROSCOPE FIELD-OF-VIEW (FOV). THIS SHOULD IMPROVE DELINEATION OF TUMOR MARGINS AND THUS INCREASE BOTH THE DIAGNOSTIC YIELD OF BRAIN BIOPSY AND THE EXTENT OF TUMOR RESECTION. THE PROPOSED FLIM TECHNIQUE WILL INCORPORATE THE FOLLOWING FEATURES: (1) SAFE, RAPID, AND SIMULTANEOUS MEASUREMENT OF TIME-RESOLVED FLUORESCENCE DECAYS IN MULTIPLE SPECTRAL EMISSION BANDS THAT WILL ACQUIRE EXTENSIVE INFORMATION IN ONE SCANNING MEASUREMENT OF A LARGE AREA OF TISSUE SELECTED BY THE SURGEON; AND (2) FAST ANALYSIS, DISPLAY, AND AUGMENTATION OF FLUORESCENCE PARAMETERS THAT ENABLE REAL-TIME VISUALIZATION OF OPTICAL DATA ENCODING DIAGNOSTIC INFORMATION ONTO THE SURGICAL FOV. THE PROPOSED CLINICAL STUDIES USING FLIM AS A STAND- ALONE TOOL WILL ESTABLISH CLASSIFIERS TO CORRELATE FLIM PARAMETERS WITH SPECIFIC TISSUE PATHOLOGIES, AN IMPORTANT STEP IN DEMONSTRATING FLIM'S DIAGNOSTIC VALUE. THE PROPOSED INTEGRATION OF FLIM AS AN ADJUNCT TO THE NEURONAVIGATION SYSTEM AND SURGICAL MICROSCOPE WILL PROVIDE DATA FOR COMBINED ANALYSIS TO VALIDATE THE BENEFIT OF FLIM DIAGNOSTICS IN NEUROSURGICAL PROCEDURES. THREE AIMS ARE PROPOSED: AIM 1) CONSTRUCT AND INTEGRATE A FLIM DEVICE AS A DIAGNOSTIC ADJUNCT WITH CONVENTIONAL NEUROSURGICAL TOOLS. AIM 2) CLINICALLY EVALUATE THE RELATIONSHIP BETWEEN FLIM PARAMETERS AND DISTINCT TISSUE PATHOLOGIES AND DEVELOP CLASSIFIERS FOR DIFFERENT TISSUE TYPES. AIM 3) VALIDATE FLIM FOR REAL-TIME INTRAOPERATIVE GUIDANCE THROUGH A PROSPECTIVE ANALYSIS. IN SUMMARY, THIS STUDY WILL DEMONSTRATE THE CLINICAL FEASIBILITY AND UTILITY OF FLIM FOR INTRAOPERATIVE REAL-TIME ASSESSMENT OF NEUROSURGICAL MARGINS AND THE RESULTING IMPROVEMENT IN NEUROPATHOLOGIC DIAGNOSTIC YIELD. THE ACQUIRED FLIM PARAMETER DATABASE WILL ENABLE SUBSEQUENT CLINICAL TRIALS FOR AUTOMATED TISSUE CLASSIFICATION AND DIAGNOSTIC PREDICTION. THE NEW FLIM INSTRUMENTATION, CHARACTERIZED BY SIMPLE, FAST AND FLEXIBLE DATA ACQUISITION AND DISPLAY, AND ITS SEAMLESS INTEGRATION WITH EXISTING NEUROSURGICAL IMAGING, WILL PROVIDE A LESS EXPENSIVE ALTERNATIVE TO INTRAOPERATIVE MRI AND A VALUABLE COMPLEMENT TO CURRENT STANDARD-OF-CARE DIAGNOSTIC PROCEDURES. SUCCESS IN THIS AREA WILL WARRANT A MORE GENERALIZED USE OF FLIM IN SURGICAL ONCOLOGY (OTHER CANCERS) AS WELL AS GUIDED INTERVENTIONS FOR TREATMENT OF FUNCTIONAL NEUROLOGIC DISEASES (E.G. EPILEPSY, NEURODEGENERATIVE DISEASES).",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2020-12-15",
+    "End Date": "2026-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA250512_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91153497,
+    "generated_unique_award_id": "ASST_NON_R01CA250512_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "LABEL-FREE FLUORESCENCE LIFETIME IMAGING FOR INTRAOPERATIVE REAL-TIME GUIDANCE OF NEUROLOGICAL PROCEDURES - PROJECT SUMMARY/ABSTRACT THE OUTCOME OF BRAIN TUMOR SURGERY IS CRITICALLY DEPENDENT ON THE NEUROSURGEON'S ABILITY TO DISTINGUISH BETWEEN ABNORMAL AND NORMAL TISSUE IN REAL-TIME. OUR GOAL IS TO ENHANCE THIS DISCRIMINATION BY USING LABEL-FREE FLUORESCENCE LIFETIME IMAGING (FLIM) TO DETECT TISSUE BIOCHEMICAL AND METABOLIC CHARACTERISTICS THAT DISTINGUISH AMONG DIFFERENT TISSUE TYPES AND, BY INTEGRATING FLIM INTO THE NEUROSURGICAL WORKFLOW, TO PROVIDE THIS INFORMATION IN A REAL-TIME, VISUAL FORMAT USEFUL FOR GUIDING TUMOR BIOPSY AND RESECTION. FLIM-DERIVED TISSUE FLUORESCENCE FEATURE INFORMATION WILL BE CO-REGISTERED WITH THE PREOPERATIVE-MRI (PMRI) AND PROJECTED ONTO THE CONVENTIONAL SURGICAL MICROSCOPE FIELD-OF-VIEW (FOV). THIS SHOULD IMPROVE DELINEATION OF TUMOR MARGINS AND THUS INCREASE BOTH THE DIAGNOSTIC YIELD OF BRAIN BIOPSY AND THE EXTENT OF TUMOR RESECTION. THE PROPOSED FLIM TECHNIQUE WILL INCORPORATE THE FOLLOWING FEATURES: (1) SAFE, RAPID, AND SIMULTANEOUS MEASUREMENT OF TIME-RESOLVED FLUORESCENCE DECAYS IN MULTIPLE SPECTRAL EMISSION BANDS THAT WILL ACQUIRE EXTENSIVE INFORMATION IN ONE SCANNING MEASUREMENT OF A LARGE AREA OF TISSUE SELECTED BY THE SURGEON; AND (2) FAST ANALYSIS, DISPLAY, AND AUGMENTATION OF FLUORESCENCE PARAMETERS THAT ENABLE REAL-TIME VISUALIZATION OF OPTICAL DATA ENCODING DIAGNOSTIC INFORMATION ONTO THE SURGICAL FOV. THE PROPOSED CLINICAL STUDIES USING FLIM AS A STAND- ALONE TOOL WILL ESTABLISH CLASSIFIERS TO CORRELATE FLIM PARAMETERS WITH SPECIFIC TISSUE PATHOLOGIES, AN IMPORTANT STEP IN DEMONSTRATING FLIM'S DIAGNOSTIC VALUE. THE PROPOSED INTEGRATION OF FLIM AS AN ADJUNCT TO THE NEURONAVIGATION SYSTEM AND SURGICAL MICROSCOPE WILL PROVIDE DATA FOR COMBINED ANALYSIS TO VALIDATE THE BENEFIT OF FLIM DIAGNOSTICS IN NEUROSURGICAL PROCEDURES. THREE AIMS ARE PROPOSED: AIM 1) CONSTRUCT AND INTEGRATE A FLIM DEVICE AS A DIAGNOSTIC ADJUNCT WITH CONVENTIONAL NEUROSURGICAL TOOLS. AIM 2) CLINICALLY EVALUATE THE RELATIONSHIP BETWEEN FLIM PARAMETERS AND DISTINCT TISSUE PATHOLOGIES AND DEVELOP CLASSIFIERS FOR DIFFERENT TISSUE TYPES. AIM 3) VALIDATE FLIM FOR REAL-TIME INTRAOPERATIVE GUIDANCE THROUGH A PROSPECTIVE ANALYSIS. IN SUMMARY, THIS STUDY WILL DEMONSTRATE THE CLINICAL FEASIBILITY AND UTILITY OF FLIM FOR INTRAOPERATIVE REAL-TIME ASSESSMENT OF NEUROSURGICAL MARGINS AND THE RESULTING IMPROVEMENT IN NEUROPATHOLOGIC DIAGNOSTIC YIELD. THE ACQUIRED FLIM PARAMETER DATABASE WILL ENABLE SUBSEQUENT CLINICAL TRIALS FOR AUTOMATED TISSUE CLASSIFICATION AND DIAGNOSTIC PREDICTION. THE NEW FLIM INSTRUMENTATION, CHARACTERIZED BY SIMPLE, FAST AND FLEXIBLE DATA ACQUISITION AND DISPLAY, AND ITS SEAMLESS INTEGRATION WITH EXISTING NEUROSURGICAL IMAGING, WILL PROVIDE A LESS EXPENSIVE ALTERNATIVE TO INTRAOPERATIVE MRI AND A VALUABLE COMPLEMENT TO CURRENT STANDARD-OF-CARE DIAGNOSTIC PROCEDURES. SUCCESS IN THIS AREA WILL WARRANT A MORE GENERALIZED USE OF FLIM IN SURGICAL ONCOLOGY (OTHER CANCERS) AS WELL AS GUIDED INTERVENTIONS FOR TREATMENT OF FUNCTIONAL NEUROLOGIC DISEASES (E.G. EPILEPSY, NEURODEGENERATIVE DISEASES).",
+    "total_obligation": 2434599,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2020-12-04",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1821380.03,
+    "total_account_obligation": 2434599,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1821380.03
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2434599
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2020-12-15",
+      "end_date": "2026-11-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1821380.03
+  }
+}

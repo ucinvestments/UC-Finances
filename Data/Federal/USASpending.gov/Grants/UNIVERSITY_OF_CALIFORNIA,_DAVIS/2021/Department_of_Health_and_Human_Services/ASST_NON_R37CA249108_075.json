@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91333229,
+    "Award ID": "R37CA249108",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1770550,
+    "Total Outlays": 1292768.26,
+    "Description": "DISSECTING THE ROLE OF PROTEOSTASIS IN ANTI-ANDROGEN RESISTANT PROSTATE CANCER - PROJECT ABSTRACT IN THE UNITED STATES, PROSTATE CANCER (PCA) IS PREDICTED TO BE THE SECOND LEADING CAUSE OF CANCER RELATED DEATH IN MEN IN THE UNITED STATES IN 2020. AFTER INITIAL DIAGNOSIS OF PCA, RADICAL PROSTATECTOMY, RADIATION AND ANDROGEN DEPRIVATION THERAPY (ADT) ARE USED TO TREAT THE PRIMARY TUMORS. WHEN CANCER RECURS, CASTRATE- RESISTANT PROSTATE CANCER (CRPC) IS TREATED BY ANTI-ANDROGEN DRUGS, SUCH AS ENZALUTAMIDE (XTANDI®), ABIRATERONE ACETATE (ZYTIGA®) OR APALUTAMIDE (ERLEADA™). ALTHOUGH THESE DRUGS ARE HIGHLY EFFECTIVE INITIALLY, PATIENTS QUICKLY DEVELOP RESISTANCE THROUGH MECHANISMS THAT ARE NOT COMPLETELY UNDERSTOOD. THEREFORE, THERE IS AN URGENT NEED TO IDENTIFY RESISTANT MECHANISMS TO IMPROVE THE TREATMENT OUTCOME OF CRPC. PROTEIN HOMEOSTASIS (PROTEOSTASIS) DEFICIENCY AND ONCOGENIC ACTIVATION PLAYS IMPORTANT ROLES DURING TUMORIGENESIS; HOWEVER, PROTEOSTASIS MODULATION INVOLVED IN ANTI-ANDROGEN RESISTANT PCA IS STILL RUDIMENTARILY UNDERSTOOD. WE HAVE REPORTED THAT UBIQUITIN MEDIATED PROTEOLYSIS PATHWAY AND PROTEASOME ACTIVITY ARE SUPPRESSED IN ENZALUTAMIDE AND ABIRATERONE RESISTANT PCA CELLS. AS A RESULT, ANDROGEN RECEPTOR (AR) AND ITS VARIANT FORM AR- V7 PROTEIN ARE STABILIZED AND ACCUMULATED IN THESE RESISTANT CELLS THROUGH CHAPERONE-UBIQUITIN-PROTEASOME- SYSTEM ALTERATION. THE CHAPERONE (HSP70)/E3 UBIQUITIN LIGASE (STUB1) MACHINERY REGULATES FULL LENGTH AR AND AR VARIANT PROTEOSTASIS. HSP70 INHIBITION BY SMALL MOLECULES PROMOTES HSP70, AR-V7 AND STUB1 PROXIMITY WHICH SIGNIFICANTLY DISRUPTS AR/AR-V7 GENE PROGRAMS AND SUPPRESSES PROSTATE TUMOR GROWTH. THIS PROPOSAL INITIATES A NEW PARADIGM TO EXPLORE THE UNDERLYING MECHANISMS DRIVING NEXT GENERATION ANTI-ANDROGEN RESISTANCE IN CRPC. THE ULTIMATE GOAL OF THIS PROGRAM IS TO DISSECT THE ROLES OF CHAPERONE-UBIQUITIN- PROTEASOME-SYSTEM IN ANTI-ANDROGEN RESISTANCE AND DEVELOP NEW PHARMACEUTICAL APPROACHES TO PROVIDE CO- TARGETING NEOADJUVANT WITH ANTI-AR AGENTS TO PERSONALIZED CRPC PATIENTS’ TREATMENT. WE WILL PROVIDE A NOVEL MECHANISM OF NEXT GENERATION ANTI-ANDROGEN RESISTANCE VIA PROTEOSTASIS IMPAIRMENT AND UNCOVER THAT HSP70/STUB1 MACHINERY IN ANTI-ANDROGEN RESISTANT CRPC MAY TRIGGER ACCUMULATION OF ONCOGENIC PROTEINS SUCH AS AR VARIANTS AND GLUCOCORTICOID RECEPTOR (GR) DUE TO INABILITY OF PROTEIN CLEARANCE. WE WILL FUNCTIONALLY INTERROGATE THE HSP70/STUB1/AR-V7 TERNARY COMPLEX THROUGH BIOCHEMICAL ASSAYS, AND UNCOVER THE MECHANISMS OF INHIBITION OF HSP70 ACTIVITY IN INDUCING AR-V7 DEGRADATION THROUGH THE PROXIMITY OF STUB1. WE WILL UNVEIL THE UNDERLYING MECHANISMS OF AR AND AR-V7 UBIQUITINATION THROUGH THE UBIQUITINATION BINDING SITES IDENTIFICATION AND LARGE-SCALE UBIQUITIN REMNANTS SEQUENCING. IMPORTANTLY, WE WILL PROVIDE THE RATIONALE TO CORRECT PROTEOSTASIS IMBALANCE THROUGH MODULATION OF HSP70/STUB1 AS A POTENTIAL THERAPEUTIC STRATEGY TO OVERCOME RESISTANCE TO AR-TARGETED THERAPIES IN CRPC PATIENTS AND DEVELOP CONDITIONAL REPROGRAMED CELL CULTURES (CRCS) AND PATIENT DERIVED XENOGRAFT (PDX) MODELS TO DISSECT THE MECHANISMS IN VIVO. THIS PROPOSAL WILL FILL THE GAP IN OVERCOMING NEXT GENERATION ANTI-ANDROGEN RESISTANCE IN CRPC PATIENTS AND POINT THE WAY TO FUTURE RESEARCH BY IMPROVING CURRENT AR-TARGETED THERAPIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-07-01",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R37CA249108_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91333229,
+    "generated_unique_award_id": "ASST_NON_R37CA249108_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "DISSECTING THE ROLE OF PROTEOSTASIS IN ANTI-ANDROGEN RESISTANT PROSTATE CANCER - PROJECT ABSTRACT IN THE UNITED STATES, PROSTATE CANCER (PCA) IS PREDICTED TO BE THE SECOND LEADING CAUSE OF CANCER RELATED DEATH IN MEN IN THE UNITED STATES IN 2020. AFTER INITIAL DIAGNOSIS OF PCA, RADICAL PROSTATECTOMY, RADIATION AND ANDROGEN DEPRIVATION THERAPY (ADT) ARE USED TO TREAT THE PRIMARY TUMORS. WHEN CANCER RECURS, CASTRATE- RESISTANT PROSTATE CANCER (CRPC) IS TREATED BY ANTI-ANDROGEN DRUGS, SUCH AS ENZALUTAMIDE (XTANDI®), ABIRATERONE ACETATE (ZYTIGA®) OR APALUTAMIDE (ERLEADA™). ALTHOUGH THESE DRUGS ARE HIGHLY EFFECTIVE INITIALLY, PATIENTS QUICKLY DEVELOP RESISTANCE THROUGH MECHANISMS THAT ARE NOT COMPLETELY UNDERSTOOD. THEREFORE, THERE IS AN URGENT NEED TO IDENTIFY RESISTANT MECHANISMS TO IMPROVE THE TREATMENT OUTCOME OF CRPC. PROTEIN HOMEOSTASIS (PROTEOSTASIS) DEFICIENCY AND ONCOGENIC ACTIVATION PLAYS IMPORTANT ROLES DURING TUMORIGENESIS; HOWEVER, PROTEOSTASIS MODULATION INVOLVED IN ANTI-ANDROGEN RESISTANT PCA IS STILL RUDIMENTARILY UNDERSTOOD. WE HAVE REPORTED THAT UBIQUITIN MEDIATED PROTEOLYSIS PATHWAY AND PROTEASOME ACTIVITY ARE SUPPRESSED IN ENZALUTAMIDE AND ABIRATERONE RESISTANT PCA CELLS. AS A RESULT, ANDROGEN RECEPTOR (AR) AND ITS VARIANT FORM AR- V7 PROTEIN ARE STABILIZED AND ACCUMULATED IN THESE RESISTANT CELLS THROUGH CHAPERONE-UBIQUITIN-PROTEASOME- SYSTEM ALTERATION. THE CHAPERONE (HSP70)/E3 UBIQUITIN LIGASE (STUB1) MACHINERY REGULATES FULL LENGTH AR AND AR VARIANT PROTEOSTASIS. HSP70 INHIBITION BY SMALL MOLECULES PROMOTES HSP70, AR-V7 AND STUB1 PROXIMITY WHICH SIGNIFICANTLY DISRUPTS AR/AR-V7 GENE PROGRAMS AND SUPPRESSES PROSTATE TUMOR GROWTH. THIS PROPOSAL INITIATES A NEW PARADIGM TO EXPLORE THE UNDERLYING MECHANISMS DRIVING NEXT GENERATION ANTI-ANDROGEN RESISTANCE IN CRPC. THE ULTIMATE GOAL OF THIS PROGRAM IS TO DISSECT THE ROLES OF CHAPERONE-UBIQUITIN- PROTEASOME-SYSTEM IN ANTI-ANDROGEN RESISTANCE AND DEVELOP NEW PHARMACEUTICAL APPROACHES TO PROVIDE CO- TARGETING NEOADJUVANT WITH ANTI-AR AGENTS TO PERSONALIZED CRPC PATIENTS’ TREATMENT. WE WILL PROVIDE A NOVEL MECHANISM OF NEXT GENERATION ANTI-ANDROGEN RESISTANCE VIA PROTEOSTASIS IMPAIRMENT AND UNCOVER THAT HSP70/STUB1 MACHINERY IN ANTI-ANDROGEN RESISTANT CRPC MAY TRIGGER ACCUMULATION OF ONCOGENIC PROTEINS SUCH AS AR VARIANTS AND GLUCOCORTICOID RECEPTOR (GR) DUE TO INABILITY OF PROTEIN CLEARANCE. WE WILL FUNCTIONALLY INTERROGATE THE HSP70/STUB1/AR-V7 TERNARY COMPLEX THROUGH BIOCHEMICAL ASSAYS, AND UNCOVER THE MECHANISMS OF INHIBITION OF HSP70 ACTIVITY IN INDUCING AR-V7 DEGRADATION THROUGH THE PROXIMITY OF STUB1. WE WILL UNVEIL THE UNDERLYING MECHANISMS OF AR AND AR-V7 UBIQUITINATION THROUGH THE UBIQUITINATION BINDING SITES IDENTIFICATION AND LARGE-SCALE UBIQUITIN REMNANTS SEQUENCING. IMPORTANTLY, WE WILL PROVIDE THE RATIONALE TO CORRECT PROTEOSTASIS IMBALANCE THROUGH MODULATION OF HSP70/STUB1 AS A POTENTIAL THERAPEUTIC STRATEGY TO OVERCOME RESISTANCE TO AR-TARGETED THERAPIES IN CRPC PATIENTS AND DEVELOP CONDITIONAL REPROGRAMED CELL CULTURES (CRCS) AND PATIENT DERIVED XENOGRAFT (PDX) MODELS TO DISSECT THE MECHANISMS IN VIVO. THIS PROPOSAL WILL FILL THE GAP IN OVERCOMING NEXT GENERATION ANTI-ANDROGEN RESISTANCE IN CRPC PATIENTS AND POINT THE WAY TO FUTURE RESEARCH BY IMPROVING CURRENT AR-TARGETED THERAPIES.",
+    "total_obligation": 1770550,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-02-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1292768.26,
+    "total_account_obligation": 1770550,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1292768.26
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1770550
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2021-07-01",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1292768.26
+  }
+}

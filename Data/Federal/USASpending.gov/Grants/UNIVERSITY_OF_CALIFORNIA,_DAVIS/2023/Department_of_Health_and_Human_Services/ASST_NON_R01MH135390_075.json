@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91229648,
+    "Award ID": "R01MH135390",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1586512,
+    "Total Outlays": 1249794.11,
+    "Description": "ALTERATIONS IN PRIMATE BRAIN DEVELOPMENT FOLLOWING PRENATAL IMMUNE CHALLENGE - ABSTRACT PRENATAL EXPOSURE TO VIRAL OR BACTERIAL INFECTIONS DURING PREGNANCY IS ASSOCIATED WITH AN INCREASED RISK OF OFFSPRING NEURODEVELOPMENTAL DISORDERS, INCLUDING AUTISM AND SCHIZOPHRENIA. GESTATIONAL BIOMARKERS INDICATE THAT THE MATERNAL IMMUNE RESPONSE IS THE CRITICAL LINK BETWEEN MATERNAL INFECTION AND ALTERED OFFSPRING NEURODEVELOPMENT. HOWEVER, OUR ABILITY TO MITIGATE THE DELETERIOUS IMPACT OF MATERNAL INFECTION ON OFFSPRING BRAIN DEVELOPMENT IS SEVERELY RESTRICTED BY OUR LIMITED MECHANISTIC UNDERSTANDING OF THE UNDERLYING NEUROBIOLOGICAL CHANGES. ALTHOUGH PRECLINICAL RODENT MODELS HAVE PROVIDED FOUNDATIONAL EVIDENCE OF ALTERATIONS IN BRAIN AND BEHAVIORAL DEVELOPMENT RESULTING FROM MIA EXPOSURE THAT MIRROR SOME CHANGES IN HUMAN DISORDERS, TRANSLATIONAL LIMITATIONS PROVIDE A NEED TO EXTEND THIS PROGRAM OF RESEARCH INTO A SPECIES MORE CLOSELY RELATED TO HUMANS. NONHUMAN PRIMATES (NHPS) PROVIDE THE CLOSEST MODEL TO HUMAN DEVELOPMENT, SHARING SIMILARITIES IN PLACENTAL STRUCTURE AND PREGNANCY PHYSIOLOGY, MATERNAL-FETAL INTERFACE, GESTATIONAL TIMELINE, FETAL AND POSTNATAL BRAIN DEVELOPMENT, AND COMPLEX SOCIAL BEHAVIOR AND COGNITION. OUR LABORATORY HAS DEVELOPED THE FIRST VIRAL-MIMIC BASED NHP MIA MODEL AND DEMONSTRATED THAT MIA-EXPOSED NHPS EXHIBIT ALTERATIONS IN BRAIN AND BEHAVIORAL DEVELOPMENT IMPLICATING SELECTIVE VULNERABILITY TO SOCIOEMOTIONAL AMYGDALA-PREFRONTAL CIRCUITRY. HERE WE PROPOSE TO LEVERAGE THE ENTIRE BIOREPOSITORY OF BRAIN TISSUE FROM PREVIOUS NHP MIA MODELS TO DETERMINE, AT THE SINGLE CELL LEVEL, THE TRANSCRIPTOMIC, CELLULAR, AND CONNECTOMIC ALTERATIONS TRIGGERED BY PRENATAL IMMUNE CHALLENGE. WE HAVE DEVELOPED A NOVEL PIPELINE FOR A GENES-TO-CIRCUITRY APPROACH THAT MAXIMIZES THE YIELD OF INFORMATION FROM THIS PRECIOUS TISSUE RESOURCE. HERE, WE WILL TARGET KEY BRAIN REGIONS IN THE AMYGDALA-PREFRONTAL NETWORK MEDIATING SOCIOEMOTIONAL BEHAVIORS IMPLICATED IN HUMAN NEURODEVELOPMENTAL AND MENTAL HEALTH DISORDERS AT TWO CRITICAL AGE TIME POINTS FOR THE PATHOPHYSIOLOGY OF MENTAL ILLNESS: JUVENILE (18 MONTH) AND ADOLESCENT (4 YEAR). WE WILL GENERATE SINGLE-NUCLEI TRANSCRIPTOMIC PROFILES AND QUANTIFY DIFFERENTIALLY EXPRESSED GENES (DEGS) IN SPECIFIC CELL TYPES (AIM 1), SPATIALLY MAP AND QUANTIFY HIGH-PRIORITY TRANSCRIPTS IN SPECIFIC CELL TYPES AND WITHIN-CELL TRANSCRIPTOMIC COLOCALIZATION (AIM 2), AND MAP SPATIAL DISTRIBUTION OF SYNAPTIC COMPOSITION, RECEPTORS, AND DIRECT INPUTS ONTO SPECIFIC CELL TYPES (AIM 3). THESE DATA, IN COMBINATION WITH THE EXTENSIVE, LONGITUDINAL CHARACTERIZATION OF OFFSPRING BRAIN AND BEHAVIORAL DEVELOPMENT, BUILD A COMPREHENSIVE PICTURE OF MIA-INDUCED CHANGES IN NHP BRAIN CIRCUITRY, TOWARD THE ULTIMATE GOAL OF IDENTIFYING PATHWAYS OF VULNERABILITY AND CRITICAL PERIODS FOR NOVEL, TARGETED INTERVENTIONS AND BIOTHERAPEUTICS TO REDUCE THE NUMBER OF CHILDREN ADVERSELY AFFECTED BY PRENATAL EXPOSURE TO MATERNAL INFECTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-09-18",
+    "End Date": "2025-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01MH135390_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91229648,
+    "generated_unique_award_id": "ASST_NON_R01MH135390_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ALTERATIONS IN PRIMATE BRAIN DEVELOPMENT FOLLOWING PRENATAL IMMUNE CHALLENGE - ABSTRACT PRENATAL EXPOSURE TO VIRAL OR BACTERIAL INFECTIONS DURING PREGNANCY IS ASSOCIATED WITH AN INCREASED RISK OF OFFSPRING NEURODEVELOPMENTAL DISORDERS, INCLUDING AUTISM AND SCHIZOPHRENIA. GESTATIONAL BIOMARKERS INDICATE THAT THE MATERNAL IMMUNE RESPONSE IS THE CRITICAL LINK BETWEEN MATERNAL INFECTION AND ALTERED OFFSPRING NEURODEVELOPMENT. HOWEVER, OUR ABILITY TO MITIGATE THE DELETERIOUS IMPACT OF MATERNAL INFECTION ON OFFSPRING BRAIN DEVELOPMENT IS SEVERELY RESTRICTED BY OUR LIMITED MECHANISTIC UNDERSTANDING OF THE UNDERLYING NEUROBIOLOGICAL CHANGES. ALTHOUGH PRECLINICAL RODENT MODELS HAVE PROVIDED FOUNDATIONAL EVIDENCE OF ALTERATIONS IN BRAIN AND BEHAVIORAL DEVELOPMENT RESULTING FROM MIA EXPOSURE THAT MIRROR SOME CHANGES IN HUMAN DISORDERS, TRANSLATIONAL LIMITATIONS PROVIDE A NEED TO EXTEND THIS PROGRAM OF RESEARCH INTO A SPECIES MORE CLOSELY RELATED TO HUMANS. NONHUMAN PRIMATES (NHPS) PROVIDE THE CLOSEST MODEL TO HUMAN DEVELOPMENT, SHARING SIMILARITIES IN PLACENTAL STRUCTURE AND PREGNANCY PHYSIOLOGY, MATERNAL-FETAL INTERFACE, GESTATIONAL TIMELINE, FETAL AND POSTNATAL BRAIN DEVELOPMENT, AND COMPLEX SOCIAL BEHAVIOR AND COGNITION. OUR LABORATORY HAS DEVELOPED THE FIRST VIRAL-MIMIC BASED NHP MIA MODEL AND DEMONSTRATED THAT MIA-EXPOSED NHPS EXHIBIT ALTERATIONS IN BRAIN AND BEHAVIORAL DEVELOPMENT IMPLICATING SELECTIVE VULNERABILITY TO SOCIOEMOTIONAL AMYGDALA-PREFRONTAL CIRCUITRY. HERE WE PROPOSE TO LEVERAGE THE ENTIRE BIOREPOSITORY OF BRAIN TISSUE FROM PREVIOUS NHP MIA MODELS TO DETERMINE, AT THE SINGLE CELL LEVEL, THE TRANSCRIPTOMIC, CELLULAR, AND CONNECTOMIC ALTERATIONS TRIGGERED BY PRENATAL IMMUNE CHALLENGE. WE HAVE DEVELOPED A NOVEL PIPELINE FOR A GENES-TO-CIRCUITRY APPROACH THAT MAXIMIZES THE YIELD OF INFORMATION FROM THIS PRECIOUS TISSUE RESOURCE. HERE, WE WILL TARGET KEY BRAIN REGIONS IN THE AMYGDALA-PREFRONTAL NETWORK MEDIATING SOCIOEMOTIONAL BEHAVIORS IMPLICATED IN HUMAN NEURODEVELOPMENTAL AND MENTAL HEALTH DISORDERS AT TWO CRITICAL AGE TIME POINTS FOR THE PATHOPHYSIOLOGY OF MENTAL ILLNESS: JUVENILE (18 MONTH) AND ADOLESCENT (4 YEAR). WE WILL GENERATE SINGLE-NUCLEI TRANSCRIPTOMIC PROFILES AND QUANTIFY DIFFERENTIALLY EXPRESSED GENES (DEGS) IN SPECIFIC CELL TYPES (AIM 1), SPATIALLY MAP AND QUANTIFY HIGH-PRIORITY TRANSCRIPTS IN SPECIFIC CELL TYPES AND WITHIN-CELL TRANSCRIPTOMIC COLOCALIZATION (AIM 2), AND MAP SPATIAL DISTRIBUTION OF SYNAPTIC COMPOSITION, RECEPTORS, AND DIRECT INPUTS ONTO SPECIFIC CELL TYPES (AIM 3). THESE DATA, IN COMBINATION WITH THE EXTENSIVE, LONGITUDINAL CHARACTERIZATION OF OFFSPRING BRAIN AND BEHAVIORAL DEVELOPMENT, BUILD A COMPREHENSIVE PICTURE OF MIA-INDUCED CHANGES IN NHP BRAIN CIRCUITRY, TOWARD THE ULTIMATE GOAL OF IDENTIFYING PATHWAYS OF VULNERABILITY AND CRITICAL PERIODS FOR NOVEL, TARGETED INTERVENTIONS AND BIOTHERAPEUTICS TO REDUCE THE NUMBER OF CHILDREN ADVERSELY AFFECTED BY PRENATAL EXPOSURE TO MATERNAL INFECTION.",
+    "total_obligation": 1586512,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-09-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1249794.11,
+    "total_account_obligation": 1586512,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1249794.11
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1586512
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-18",
+      "end_date": "2025-07-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1249794.11
+  }
+}

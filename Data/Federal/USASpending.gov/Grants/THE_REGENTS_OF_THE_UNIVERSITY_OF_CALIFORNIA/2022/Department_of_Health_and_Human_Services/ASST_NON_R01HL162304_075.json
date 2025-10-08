@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91218041,
+    "Award ID": "R01HL162304",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 2998900,
+    "Total Outlays": 2444250.13,
+    "Description": "IN VIVO CHARACTERIZATION OF REGULATORY VARIANT PATHOGENICITY IN CONGENITAL HEART DISEASE - PROJECT SUMMARY CONGENITAL HEART DISEASE (CHD) IS A GROUP OF SEVERE BIRTH DEFECTS THAT COLLECTIVELY REPRESENT THE LEADING CAUSE OF BIRTH DEFECT-ASSOCIATED ILLNESS AND DEATH. DESPITE THE EXTENSIVE USE OF CLINICAL GENETIC TESTING AND WHOLE EXOME SEQUENCING (WES), LESS THAN A THIRD OF CHD CASES CAN CURRENTLY BE ACCOUNTED FOR BY MUTATIONS IN PROTEIN-CODING GENES. MANY OF THE REMAINING, CURRENTLY UNEXPLAINED CASES ARE ASSUMED TO BE DUE TO NON-CODING SEQUENCE VARIANTS THAT ALTER THE EXPRESSION OF GENES ESSENTIAL FOR CARDIAC DEVELOPMENT. TO UNCOVER NON-CODING VARIANTS IN CHD PATIENTS, THE NATIONAL HEART, LUNG, AND BLOOD INSTITUTE'S BENCH TO BASSINET (B2B) AND TOPMED PROGRAMS ARE USING WHOLE GENOME SEQUENCING (WGS) ON LARGE CHD PATIENT COHORTS, PRINCIPALLY FOR PROBANDS WHOSE PRIOR WES FAILED TO UNCOVER A LIKELY CAUSATIVE CODING VARIANT. WGS OF 1,831 PATIENT-PARENT TRIOS FROM THE B2B COHORT IS CURRENTLY AVAILABLE, WITH SEVERAL HUNDRED ADDITIONAL TRIOS CURRENTLY BEING SEQUENCED. INITIAL ANALYSES OF ~750 PROBANDS HAVE ALREADY IDENTIFIED OVER 2,000 DE NOVO VARIANTS IN PREDICTED FETAL HUMAN HEART ENHANCERS, ALONG WITH A STATISTICALLY SIGNIFICANT EXCESS OF GENETIC LOCI (27 GENES VERSUS 3.7 EXPECTED, P=1X10-5) AT WHICH THE NEIGHBORING HUMAN FETAL HEART ENHANCERS SHOWED MULTIPLE DE NOVO VARIANTS IN CASES. THIS SUGGESTS THAT CHD RISK IS CONFERRED THROUGH DYSREGULATION OF THE RESPECTIVE TARGET GENES OF THESE ENHANCERS. HOWEVER, THE CAUSALITY OF THESE VARIANTS IN CHD, AS WELL AS THE MOLECULAR UNDERPINNINGS OF THEIR POTENTIAL PATHOGENICITY, REMAIN TO BE DEMONSTRATED. BUILDING ON OUR EXTENSIVE PREVIOUS WORK IN MAPPING AND CHARACTERIZING CARDIAC ENHANCERS AT SCALE, WE PROPOSE TO PERFORM SYSTEMATIC IN VIVO FUNCTIONAL VALIDATION OF DE NOVO SEQUENCE VARIANTS FROM CHD PATIENTS THAT RESIDE IN PREDICTED HEART ENHANCERS TO REVEAL ENHANCER MUTATIONS THAT CONTRIBUTE TO THE ETIOLOGY OF CHD. WE WILL 1) USE A COMBINATION OF COMPREHENSIVE MAPS OF PREDICTED HUMAN HEART ENHANCERS, GENETIC AND EPIGENOMIC ANALYSIS TOOLS, AND MASSIVELY PARALLEL REPORTER ASSAYS IN CARDIOMYOCYTES DIFFERENTIATED FROM INDUCED PLURIPOTENT STEM CELLS (IPSC-CMS) TO IDENTIFY AND PRIORITIZE CARDIAC ENHANCERS HARBORING DE NOVO VARIANTS FROM CHD PATIENTS, 2) USE OUR WORLD-CLASS MOUSE TRANSGENESIS PIPELINE IN COMBINATION WITH NOVEL SINGLE-CELL CHARACTERIZATION METHODS TO TEST THE REFERENCE AND VARIANT ALLELES OF 200 PRIORITIZED ENHANCERS (400 ALLELES IN TOTAL) AT APPROPRIATE STAGES OF CARDIAC DEVELOPMENT TO ASSESS HOW THE RISK ALLELES ALTER ENHANCER FUNCTION IN VIVO AT CELLULAR RESOLUTION, 3) USE CRISPR/CAS9 GENOME ENGINEERING TO GENERATE 20 KNOCK-IN MOUSE MODELS FOR HUMAN CHD VARIANT ALLELES THAT ALTER ENHANCER ACTIVITY AND MATCHED HUMAN REFERENCE ALLELES TO ASSESS THEIR IMPACT ON THE STRUCTURE AND FUNCTION OF THE HEART USING A COMBINATION OF SINGLE-CELL TRANSCRIPTOMICS AND CARDIAC PHENOTYPING. SUCCESSFUL COMPLETION OF THE PROPOSED STUDIES WILL PROVIDE FOUNDATIONAL INSIGHTS INTO THE ROLE OF NON-CODING REGULATORY SEQUENCES IN THE MOST COMMON SEVERE HUMAN BIRTH DEFECT, IDENTIFY SPECIFIC EXAMPLES OF HUMAN ENHANCER VARIANTS CONCLUSIVELY IMPLICATED IN DISEASE, AND PROVIDE INITIAL MECHANISTIC INSIGHTS INTO THEIR RESPECTIVE MODE OF ACTION TO PROVIDE NEW AVENUES FOR EXPLORING FUTURE THERAPEUTICS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "ENBLDJUN4N73",
+    "Recipient Location": {
+      "address_line1": "1 CYCLOTRON RD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "8099",
+      "zip5": "94720"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-01-01",
+    "End Date": "2025-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL162304_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91218041,
+    "generated_unique_award_id": "ASST_NON_R01HL162304_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "IN VIVO CHARACTERIZATION OF REGULATORY VARIANT PATHOGENICITY IN CONGENITAL HEART DISEASE - PROJECT SUMMARY CONGENITAL HEART DISEASE (CHD) IS A GROUP OF SEVERE BIRTH DEFECTS THAT COLLECTIVELY REPRESENT THE LEADING CAUSE OF BIRTH DEFECT-ASSOCIATED ILLNESS AND DEATH. DESPITE THE EXTENSIVE USE OF CLINICAL GENETIC TESTING AND WHOLE EXOME SEQUENCING (WES), LESS THAN A THIRD OF CHD CASES CAN CURRENTLY BE ACCOUNTED FOR BY MUTATIONS IN PROTEIN-CODING GENES. MANY OF THE REMAINING, CURRENTLY UNEXPLAINED CASES ARE ASSUMED TO BE DUE TO NON-CODING SEQUENCE VARIANTS THAT ALTER THE EXPRESSION OF GENES ESSENTIAL FOR CARDIAC DEVELOPMENT. TO UNCOVER NON-CODING VARIANTS IN CHD PATIENTS, THE NATIONAL HEART, LUNG, AND BLOOD INSTITUTE'S BENCH TO BASSINET (B2B) AND TOPMED PROGRAMS ARE USING WHOLE GENOME SEQUENCING (WGS) ON LARGE CHD PATIENT COHORTS, PRINCIPALLY FOR PROBANDS WHOSE PRIOR WES FAILED TO UNCOVER A LIKELY CAUSATIVE CODING VARIANT. WGS OF 1,831 PATIENT-PARENT TRIOS FROM THE B2B COHORT IS CURRENTLY AVAILABLE, WITH SEVERAL HUNDRED ADDITIONAL TRIOS CURRENTLY BEING SEQUENCED. INITIAL ANALYSES OF ~750 PROBANDS HAVE ALREADY IDENTIFIED OVER 2,000 DE NOVO VARIANTS IN PREDICTED FETAL HUMAN HEART ENHANCERS, ALONG WITH A STATISTICALLY SIGNIFICANT EXCESS OF GENETIC LOCI (27 GENES VERSUS 3.7 EXPECTED, P=1X10-5) AT WHICH THE NEIGHBORING HUMAN FETAL HEART ENHANCERS SHOWED MULTIPLE DE NOVO VARIANTS IN CASES. THIS SUGGESTS THAT CHD RISK IS CONFERRED THROUGH DYSREGULATION OF THE RESPECTIVE TARGET GENES OF THESE ENHANCERS. HOWEVER, THE CAUSALITY OF THESE VARIANTS IN CHD, AS WELL AS THE MOLECULAR UNDERPINNINGS OF THEIR POTENTIAL PATHOGENICITY, REMAIN TO BE DEMONSTRATED. BUILDING ON OUR EXTENSIVE PREVIOUS WORK IN MAPPING AND CHARACTERIZING CARDIAC ENHANCERS AT SCALE, WE PROPOSE TO PERFORM SYSTEMATIC IN VIVO FUNCTIONAL VALIDATION OF DE NOVO SEQUENCE VARIANTS FROM CHD PATIENTS THAT RESIDE IN PREDICTED HEART ENHANCERS TO REVEAL ENHANCER MUTATIONS THAT CONTRIBUTE TO THE ETIOLOGY OF CHD. WE WILL 1) USE A COMBINATION OF COMPREHENSIVE MAPS OF PREDICTED HUMAN HEART ENHANCERS, GENETIC AND EPIGENOMIC ANALYSIS TOOLS, AND MASSIVELY PARALLEL REPORTER ASSAYS IN CARDIOMYOCYTES DIFFERENTIATED FROM INDUCED PLURIPOTENT STEM CELLS (IPSC-CMS) TO IDENTIFY AND PRIORITIZE CARDIAC ENHANCERS HARBORING DE NOVO VARIANTS FROM CHD PATIENTS, 2) USE OUR WORLD-CLASS MOUSE TRANSGENESIS PIPELINE IN COMBINATION WITH NOVEL SINGLE-CELL CHARACTERIZATION METHODS TO TEST THE REFERENCE AND VARIANT ALLELES OF 200 PRIORITIZED ENHANCERS (400 ALLELES IN TOTAL) AT APPROPRIATE STAGES OF CARDIAC DEVELOPMENT TO ASSESS HOW THE RISK ALLELES ALTER ENHANCER FUNCTION IN VIVO AT CELLULAR RESOLUTION, 3) USE CRISPR/CAS9 GENOME ENGINEERING TO GENERATE 20 KNOCK-IN MOUSE MODELS FOR HUMAN CHD VARIANT ALLELES THAT ALTER ENHANCER ACTIVITY AND MATCHED HUMAN REFERENCE ALLELES TO ASSESS THEIR IMPACT ON THE STRUCTURE AND FUNCTION OF THE HEART USING A COMBINATION OF SINGLE-CELL TRANSCRIPTOMICS AND CARDIAC PHENOTYPING. SUCCESSFUL COMPLETION OF THE PROPOSED STUDIES WILL PROVIDE FOUNDATIONAL INSIGHTS INTO THE ROLE OF NON-CODING REGULATORY SEQUENCES IN THE MOST COMMON SEVERE HUMAN BIRTH DEFECT, IDENTIFY SPECIFIC EXAMPLES OF HUMAN ENHANCER VARIANTS CONCLUSIVELY IMPLICATED IN DISEASE, AND PROVIDE INITIAL MECHANISTIC INSIGHTS INTO THEIR RESPECTIVE MODE OF ACTION TO PROVIDE NEW AVENUES FOR EXPLORING FUTURE THERAPEUTICS.",
+    "total_obligation": 2998900,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-12-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2444250.13,
+    "total_account_obligation": 2998900,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2444250.13
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2998900
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-01-01",
+      "end_date": "2025-12-31",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "ENBLDJUN4N73",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1 CYCLOTRON RD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "8099",
+        "zip5": "94720",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2444250.13
+  }
+}

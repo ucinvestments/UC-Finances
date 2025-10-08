@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91134104,
+    "Award ID": "R01AI153419",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1932088,
+    "Total Outlays": 1308409.57,
+    "Description": "MECHANISTIC INSIGHTS INTO FLAVIVIRUS NS5-MEDIATED STAT2 SUPPRESSION - THE FAMILY OF FLAVIVIRUS CONSISTS OF OVER 90 VECTOR-BORNE, SINGLE-STRANDED RNA-CONTAINING VIRUSES, INCLUDING DENGUE VIRUS (DENV) AND ZIKA VIRUS (ZIKV), WHICH CAUSE MAJOR EPIDEMICS AMONG HUMANS AND POSE A SERIOUS THREAT TO GLOBAL PUBLIC HEALTH. NO VACCINES OR ANTIVIRALS EXIST TO PREVENT OR TREAT INFECTIONS CAUSED BY DENV, ZIKV, AND SOME OTHER FLAVIVIRUSES. TO ESTABLISH INFECTION, FLAVIVIRUSES NEED TO OVERCOME THE ANTIVIRAL STATE INDUCED BY TYPE 1 INTERFERON (IFN-1), THE FIRST LINE OF HOST DEFENSE. IN THIS REGARD, FLAVIVIRUSES HAVE ENCODED SEVERAL ANTAGONISTS TO SUPPRESS IFN RESPONSES. FOR EXAMPLE, THE NONSTRUCTURAL NS5 PROTEINS OF DENV, ZIKV, AND SOME OTHER FLAVIVIRUSES HAVE BEEN SHOWN TO BE POTENT SUPPRESSOR OF IFN SIGNALING, TARGETING DIFFERENT STEPS OF THE IFN SIGNALING PATHWAY. LIKE DENV, ZIKV NS5 PROTEIN BIND HUMAN SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 2 (HSTAT2) PROTEIN AND TRIGGER ITS PROTEASOMAL DEGRADATION, ALBEIT USING DIFFERENT DOWNSTREAM MECHANISMS. TO ELUCIDATE THE MECHANISTIC BASIS OF FLAVIVIRUS NS5-MEDIATED HSTAT2 SUPPRESSION, WE PROPOSE TO PROVIDE STRUCTURAL INSIGHT INTO THE ZIKV NS5-HSTAT2 AND DENV NS5-HSTAT2 COMPLEXES, WHICH, IN TURN, WILL GUIDE INTERROGATION OF THE CONSEQUENCE(S) OF THE FLAVIVIRUS NS5-HSTAT2 INTERACTIONS IN PROTEASOME-MEDIATED DEGRADATION OF HSTAT2 AND SUPPRESSION OF IFN SIGNALING. TOWARD THIS GOAL, WE WILL USE STRUCTURAL, BIOCHEMICAL, MOLECULAR, CELLULAR AND VIROLOGY APPROACHES TO INVESTIGATE THE STRUCTURAL BASIS OF THE ZIKV NS5-HSTAT2 AND DENV NS5-HSTAT2 INTERACTIONS AND THEIR FUNCTIONAL CONSEQUENCE. IN AIM 1, WE WILL ESTABLISH THE STRUCTURAL BASIS OF THE ZIKV-HSTAT2 INTERACTION BY USING X-RAY CRYSTALLOGRAPHY AND CRYO-ELECTRON MICROSCOPY AND VALIDATE OUR OBSERVATIONS WITH MUTATIONAL AND IN VITRO PULL-DOWN ANALYSES. IN AIM 2, WE WILL EXAMINE THE ZIKV NS5-HSTAT2 INTERACTION AT A CELLULAR LEVEL AND INVESTIGATE THE FUNCTIONAL CONSEQUENCE OF THE ZIKV NS5-HSTAT2 INTERACTION THROUGH EVALUATION OF THE MUTATIONAL EFFECTS OF ZIKV NS5 ON HSTAT2 DEGRADATION, IFN RESPONSE AND VIRAL INFECTION. THE RESULTS OF THESE STUDIES WILL PROVIDE CRITICAL STRUCTURAL AND FUNCTIONAL INSIGHTS INTO THE VIRUS- AND SPECIES-SPECIFIC ZIKV NS5-HSTAT2 INTERACTION, THEREBY ESTABLISHING A MECHANISTIC LINK BETWEEN FLAVIVIRUS NS5 PROTEINS, HSTAT2 DEGRADATION, SUPPRESSION OF THE IFN RESPONSE AND VIRAL INFECTION. RESULTS FROM THE PROPOSED STUDIES WILL ULTIMATELY BENEFIT DEVELOPMENT OF NOVEL ANTIVIRALS AND LIVE VACCINES AGAINST FLAVIVIRUSES INFECTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-03-15",
+    "End Date": "2026-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI153419_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91134104,
+    "generated_unique_award_id": "ASST_NON_R01AI153419_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MECHANISTIC INSIGHTS INTO FLAVIVIRUS NS5-MEDIATED STAT2 SUPPRESSION - THE FAMILY OF FLAVIVIRUS CONSISTS OF OVER 90 VECTOR-BORNE, SINGLE-STRANDED RNA-CONTAINING VIRUSES, INCLUDING DENGUE VIRUS (DENV) AND ZIKA VIRUS (ZIKV), WHICH CAUSE MAJOR EPIDEMICS AMONG HUMANS AND POSE A SERIOUS THREAT TO GLOBAL PUBLIC HEALTH. NO VACCINES OR ANTIVIRALS EXIST TO PREVENT OR TREAT INFECTIONS CAUSED BY DENV, ZIKV, AND SOME OTHER FLAVIVIRUSES. TO ESTABLISH INFECTION, FLAVIVIRUSES NEED TO OVERCOME THE ANTIVIRAL STATE INDUCED BY TYPE 1 INTERFERON (IFN-1), THE FIRST LINE OF HOST DEFENSE. IN THIS REGARD, FLAVIVIRUSES HAVE ENCODED SEVERAL ANTAGONISTS TO SUPPRESS IFN RESPONSES. FOR EXAMPLE, THE NONSTRUCTURAL NS5 PROTEINS OF DENV, ZIKV, AND SOME OTHER FLAVIVIRUSES HAVE BEEN SHOWN TO BE POTENT SUPPRESSOR OF IFN SIGNALING, TARGETING DIFFERENT STEPS OF THE IFN SIGNALING PATHWAY. LIKE DENV, ZIKV NS5 PROTEIN BIND HUMAN SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 2 (HSTAT2) PROTEIN AND TRIGGER ITS PROTEASOMAL DEGRADATION, ALBEIT USING DIFFERENT DOWNSTREAM MECHANISMS. TO ELUCIDATE THE MECHANISTIC BASIS OF FLAVIVIRUS NS5-MEDIATED HSTAT2 SUPPRESSION, WE PROPOSE TO PROVIDE STRUCTURAL INSIGHT INTO THE ZIKV NS5-HSTAT2 AND DENV NS5-HSTAT2 COMPLEXES, WHICH, IN TURN, WILL GUIDE INTERROGATION OF THE CONSEQUENCE(S) OF THE FLAVIVIRUS NS5-HSTAT2 INTERACTIONS IN PROTEASOME-MEDIATED DEGRADATION OF HSTAT2 AND SUPPRESSION OF IFN SIGNALING. TOWARD THIS GOAL, WE WILL USE STRUCTURAL, BIOCHEMICAL, MOLECULAR, CELLULAR AND VIROLOGY APPROACHES TO INVESTIGATE THE STRUCTURAL BASIS OF THE ZIKV NS5-HSTAT2 AND DENV NS5-HSTAT2 INTERACTIONS AND THEIR FUNCTIONAL CONSEQUENCE. IN AIM 1, WE WILL ESTABLISH THE STRUCTURAL BASIS OF THE ZIKV-HSTAT2 INTERACTION BY USING X-RAY CRYSTALLOGRAPHY AND CRYO-ELECTRON MICROSCOPY AND VALIDATE OUR OBSERVATIONS WITH MUTATIONAL AND IN VITRO PULL-DOWN ANALYSES. IN AIM 2, WE WILL EXAMINE THE ZIKV NS5-HSTAT2 INTERACTION AT A CELLULAR LEVEL AND INVESTIGATE THE FUNCTIONAL CONSEQUENCE OF THE ZIKV NS5-HSTAT2 INTERACTION THROUGH EVALUATION OF THE MUTATIONAL EFFECTS OF ZIKV NS5 ON HSTAT2 DEGRADATION, IFN RESPONSE AND VIRAL INFECTION. THE RESULTS OF THESE STUDIES WILL PROVIDE CRITICAL STRUCTURAL AND FUNCTIONAL INSIGHTS INTO THE VIRUS- AND SPECIES-SPECIFIC ZIKV NS5-HSTAT2 INTERACTION, THEREBY ESTABLISHING A MECHANISTIC LINK BETWEEN FLAVIVIRUS NS5 PROTEINS, HSTAT2 DEGRADATION, SUPPRESSION OF THE IFN RESPONSE AND VIRAL INFECTION. RESULTS FROM THE PROPOSED STUDIES WILL ULTIMATELY BENEFIT DEVELOPMENT OF NOVEL ANTIVIRALS AND LIVE VACCINES AGAINST FLAVIVIRUSES INFECTION.",
+    "total_obligation": 1932088,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-03-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1308409.57,
+    "total_account_obligation": 1932088,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1308409.57
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1932088
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2021-03-15",
+      "end_date": "2026-02-28",
+      "last_modified_date": "2025-03-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1308409.57
+  }
+}

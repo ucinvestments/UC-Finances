@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91155287,
+    "Award ID": "R01CA277527",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1786277.14,
+    "Total Outlays": 1069468.87,
+    "Description": "GIGAFIBI; RAPID, LARGE-FORMAT HISTOLOGY-RESOLUTION IMAGING FOR INTRAOPERATIVE ASSESSMENT OF BREAST LUMPECTOMY MARGINS - PROJECT SUMMARY BREAST-CONSERVING SURGERY (BCS), OR LUMPECTOMY, HAS BECOME STANDARD FOR THE TREATMENT OF BREAST CANCERS. THE GOAL OF BCS IS TO REMOVE THE CANCER AND ENOUGH SURROUNDING TISSUE TO REDUCE THE CHANCE OF TUMOR RECURRENCE (CLEAR MARGINS) BUT RETAIN AS MUCH OF THE NORMAL BREAST APPEARANCE AS POSSIBLE. ALTHOUGH BCS HAS MANY ADVANTAGES, RESIDUAL TUMOR (POSITIVE MARGINS) ARE FOUND ON POST-OPERATIVE PATHOLOGY IN 5–40% OF CASES, OFTEN NECESSITATING AN ADDITIONAL SURGERY AND POTENTIAL FOR TREATMENT DELAYS, INCREASED HEALTHCARE COSTS, PATIENT ANXIETY, AND SUBOPTIMAL COSMETIC OUTCOMES. OBTAINING CLEAR MARGINS AT THE TIME OF THE INITIAL BREAST SURGERY ALSO HAS IMPLICATIONS FOR MALIGNANCY, AS MARGIN STATUS IS THE CHIEF DETERMINANT OF LOCAL RECURRENCE. THEREFORE, TECHNOLOGIES PROVIDING INTRAOPERATIVE MARGIN ASSESSMENT, IN WHICH REAL-TIME SURGICAL GUIDANCE IS MOST OFTEN COORDINATED WITH THE PATHOLOGY TEAM, HAS THE POTENTIAL TO SUBSTANTIALLY REDUCE THE NEED FOR ADDITIONAL SURGERIES, IMPROVE PATIENT OUTCOMES, AND INCREASE HEALTH CARE VALUE.  VARIOUS METHODS HAVE BEEN PROPOSED AND EVALUATED FOR INTRAOPERATIVE BREAST MARGIN ASSESSMENT, INCLUDING GROSS EVALUATION, FROZEN SECTION ANALYSIS, OPTICAL AND NON-OPTICAL IMAGING, AND OTHERS. WHILE EACH OF THESE TECHNIQUES ARE SUGGESTED TO REDUCE POSITIVE MARGIN RATES OVER NON-GUIDED SURGERIES, THEY ALSO HAVE INHERENT LIMITATIONS (E.G. PROCESSING TIME, COST, PERMANENT TISSUE CHANGES), WITH VARYING DEGREES OF SENSITIVITY AND SPECIFICITY. ACCORDINGLY, A SINGLE INTRAOPERATIVE METHOD HAS YET TO BE WIDELY ACCEPTED INTO CLINICAL PRACTICE AND POST-OPERATIVE PATHOLOGY REMAINS THE GOLD-STANDARD FOR DIAGNOSIS AND MARGIN EVALUATION.  THE IDEAL TOOL FOR INTRAOPERATIVE BCS ASSESSMENTS WOULD HAVE A HIGH DEGREE OF SENSITIVITY TO DETECT ALL TUMOR IN THE MARGINS, REGARDLESS OF TUMOR TYPE, AND, SINCE DIAGNOSIS IS NOT THE INTENDED OUTCOME, SPECIFICITY SHOULD BE HIGH ENOUGH TO BOTH LIMIT FALSE POSITIVES AND THE RATE OF RETURN SURGERIES. TO THIS END, WE PROPOSE FIBI (FLUORESCENCE IMITATING BRIGHTFIELD IMAGING) FOR RAPID, HIGH-QUALITY IMAGING OF BCS TISSUES. WE WILL USE OUR ALREADY EXISTING FIBI TECHNOLOGY TO ENGINEER A NOVEL SYSTEM, GIGA FIBI, CAPABLE OF ASSESSING LARGE AREAS (UP TO 100 X 100 MM2) OF FRESH TISSUE, ELIMINATING THE NEED FOR SUBSTANTIAL PROCESSING OR SECTIONING. THROUGH A SERIES OF VALIDATION STUDIES, WE WILL SHOW THAT GIGA FIBI GENERATES MICROSCOPIC IMAGES AT A QUALITY COMPARABLE TO GOLD-STANDARD HISTOLOGY FROM LARGE SURFACES WITHIN JUST MINUTES. UNLIKE OTHER EXISTING METHODOLOGIES FOR IMAGING TISSUE DIRECTLY WITHOUT SECTIONING (SLIDE-FREE TECHNIQUES), GIGA FIBI IS A TECHNICALLY SIMPLE AND COST- EFFECTIVE SOLUTION THAT IS NON-DESTRUCTIVE, PRESERVES ORIENTATION, AND LEAVES THE TISSUE AVAILABLE FOR DOWNSTREAM PERMANENT HISTOLOGY OR MOLECULAR TESTS.  THE PRACTICAL GUIDANCE PROVIDED BY GIGA FIBI IS EXPECTED TO MARKEDLY ENHANCE INTRAOPERATIVE BREAST TUMOR MARGIN ASSESSMENT TO MINIMIZE REPEAT SURGERIES, LOCAL RECURRENCE, AND IMPROVE PATIENT OUTCOMES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-04-01",
+    "End Date": "2024-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA277527_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91155287,
+    "generated_unique_award_id": "ASST_NON_R01CA277527_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "GIGAFIBI; RAPID, LARGE-FORMAT HISTOLOGY-RESOLUTION IMAGING FOR INTRAOPERATIVE ASSESSMENT OF BREAST LUMPECTOMY MARGINS - PROJECT SUMMARY BREAST-CONSERVING SURGERY (BCS), OR LUMPECTOMY, HAS BECOME STANDARD FOR THE TREATMENT OF BREAST CANCERS. THE GOAL OF BCS IS TO REMOVE THE CANCER AND ENOUGH SURROUNDING TISSUE TO REDUCE THE CHANCE OF TUMOR RECURRENCE (CLEAR MARGINS) BUT RETAIN AS MUCH OF THE NORMAL BREAST APPEARANCE AS POSSIBLE. ALTHOUGH BCS HAS MANY ADVANTAGES, RESIDUAL TUMOR (POSITIVE MARGINS) ARE FOUND ON POST-OPERATIVE PATHOLOGY IN 5–40% OF CASES, OFTEN NECESSITATING AN ADDITIONAL SURGERY AND POTENTIAL FOR TREATMENT DELAYS, INCREASED HEALTHCARE COSTS, PATIENT ANXIETY, AND SUBOPTIMAL COSMETIC OUTCOMES. OBTAINING CLEAR MARGINS AT THE TIME OF THE INITIAL BREAST SURGERY ALSO HAS IMPLICATIONS FOR MALIGNANCY, AS MARGIN STATUS IS THE CHIEF DETERMINANT OF LOCAL RECURRENCE. THEREFORE, TECHNOLOGIES PROVIDING INTRAOPERATIVE MARGIN ASSESSMENT, IN WHICH REAL-TIME SURGICAL GUIDANCE IS MOST OFTEN COORDINATED WITH THE PATHOLOGY TEAM, HAS THE POTENTIAL TO SUBSTANTIALLY REDUCE THE NEED FOR ADDITIONAL SURGERIES, IMPROVE PATIENT OUTCOMES, AND INCREASE HEALTH CARE VALUE.  VARIOUS METHODS HAVE BEEN PROPOSED AND EVALUATED FOR INTRAOPERATIVE BREAST MARGIN ASSESSMENT, INCLUDING GROSS EVALUATION, FROZEN SECTION ANALYSIS, OPTICAL AND NON-OPTICAL IMAGING, AND OTHERS. WHILE EACH OF THESE TECHNIQUES ARE SUGGESTED TO REDUCE POSITIVE MARGIN RATES OVER NON-GUIDED SURGERIES, THEY ALSO HAVE INHERENT LIMITATIONS (E.G. PROCESSING TIME, COST, PERMANENT TISSUE CHANGES), WITH VARYING DEGREES OF SENSITIVITY AND SPECIFICITY. ACCORDINGLY, A SINGLE INTRAOPERATIVE METHOD HAS YET TO BE WIDELY ACCEPTED INTO CLINICAL PRACTICE AND POST-OPERATIVE PATHOLOGY REMAINS THE GOLD-STANDARD FOR DIAGNOSIS AND MARGIN EVALUATION.  THE IDEAL TOOL FOR INTRAOPERATIVE BCS ASSESSMENTS WOULD HAVE A HIGH DEGREE OF SENSITIVITY TO DETECT ALL TUMOR IN THE MARGINS, REGARDLESS OF TUMOR TYPE, AND, SINCE DIAGNOSIS IS NOT THE INTENDED OUTCOME, SPECIFICITY SHOULD BE HIGH ENOUGH TO BOTH LIMIT FALSE POSITIVES AND THE RATE OF RETURN SURGERIES. TO THIS END, WE PROPOSE FIBI (FLUORESCENCE IMITATING BRIGHTFIELD IMAGING) FOR RAPID, HIGH-QUALITY IMAGING OF BCS TISSUES. WE WILL USE OUR ALREADY EXISTING FIBI TECHNOLOGY TO ENGINEER A NOVEL SYSTEM, GIGA FIBI, CAPABLE OF ASSESSING LARGE AREAS (UP TO 100 X 100 MM2) OF FRESH TISSUE, ELIMINATING THE NEED FOR SUBSTANTIAL PROCESSING OR SECTIONING. THROUGH A SERIES OF VALIDATION STUDIES, WE WILL SHOW THAT GIGA FIBI GENERATES MICROSCOPIC IMAGES AT A QUALITY COMPARABLE TO GOLD-STANDARD HISTOLOGY FROM LARGE SURFACES WITHIN JUST MINUTES. UNLIKE OTHER EXISTING METHODOLOGIES FOR IMAGING TISSUE DIRECTLY WITHOUT SECTIONING (SLIDE-FREE TECHNIQUES), GIGA FIBI IS A TECHNICALLY SIMPLE AND COST- EFFECTIVE SOLUTION THAT IS NON-DESTRUCTIVE, PRESERVES ORIENTATION, AND LEAVES THE TISSUE AVAILABLE FOR DOWNSTREAM PERMANENT HISTOLOGY OR MOLECULAR TESTS.  THE PRACTICAL GUIDANCE PROVIDED BY GIGA FIBI IS EXPECTED TO MARKEDLY ENHANCE INTRAOPERATIVE BREAST TUMOR MARGIN ASSESSMENT TO MINIMIZE REPEAT SURGERIES, LOCAL RECURRENCE, AND IMPROVE PATIENT OUTCOMES.",
+    "total_obligation": 1786277.14,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-03-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1069468.87,
+    "total_account_obligation": 1213037,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1069468.87
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1213037
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-04-01",
+      "end_date": "2024-08-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1069468.87
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92635636,
+    "Award ID": "U54CA283766",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3532429,
+    "Total Outlays": 2066089.13,
+    "Description": "UNIVERSITY OF CALIFORNIA AND UT SOUTHWESTERN D-PDTC - PROJECT SUMMARY/ABSTRACT THE UNIVERSITY OF CALIFORNIA AND THE UNIVERSITY OF TEXAS SOUTHWESTERN (UCATS) DIVERSITY PATIENT-DERIVED XENOGRAFT (PDX) DEVELOPMENT AND TRIAL CENTER’S IS A DIVERSITY-FOCUSED GRANT WITH A GOAL OF ESTABLISHING AND CHARACTERIZING AT LEAST 120 NEW PDXS FROM RACIALLY AND ETHNICALLY DIVERSE POPULATIONS AND USE THESE PDXS AS PRECLINICAL MODELS TO BETTER UNDERSTAND THE MECHANISMS OF ONCOGENESIS, TO TEST FDA-APPROVED AND NCI-CTEP SINGLE AGENT AND DRUG COMBINATION THERAPIES AND TO ADVANCE CANCER HEALTH DISPARITIES RESEARCH. EXPANDING THE EXISTING PDX INFRASTRUCTURE FROM OUR ONGOING UNIVERSITY OF CALIFORNIA PATIENT DERIVED AND TRIAL CENTER (UCAMP, U54CA233306), UCATS IS COMPRISED OF SIX NCI-DESIGNATED COMPREHENSIVE CANCER CENTERS (CCC): UC DAVIS COMPREHENSIVE CANCER CENTER (UCD) [LEAD INSTITUTION], UC IRVINE CHAO FAMILY COMPREHENSIVE CANCER CENTER (UCI), UC LOS ANGELES JONSSON COMPREHENSIVE CANCER CENTER (UCLA), UC SAN DIEGO MOORES CANCER CENTER (UCSD), UC SAN FRANCISCO HELEN DILLER FAMILY COMPREHENSIVE CANCER CENTER (UCSF), AND THE UNIVERSITY OF TEXAS SOUTHWESTERN HAROLD C. SIMMONS CANCER CENTER (UTSW). COLLECTIVELY, UCATS INCLUDES A TEAM OF TRANSDISCIPLINARY INVESTIGATORS WITH STRENGTHS IN PDX DEVELOPMENT, PRECLINICAL DRUG TESTING, CANCER HEALTH DISPARITIES, CLINICAL TRIAL DEVELOPMENT, BIOINFORMATICS, AND LARGE MULTICENTER ADMINISTRATION. UCATS WILL ACHIEVE ITS GOAL THROUGH TWO RESEARCH PROJECTS. PROJECT 1 – “ADVANCING GASTRIC CANCER PRECISION MEDICINE IN LATINOS THROUGH PATIENT-DERIVED MODELING” FOCUSES ON DEVELOPING NOVEL, EFFECTIVE THERAPEUTIC REGIMENS FOR MOST COMMONLY DRUGGABLE AND GENOMICALLY COMPLEX LATINO GC SUBTYPE, WHICH INVOLVES CO-MUTATIONS IN MULTIPLE PATHWAY (SUCH AS CELL CYCLE KINASE, PI3K/AKT/MTOR, WNT AND RTK-RAS) AND TO STUDY RESISTANCE MECHANISMS TO TARGETED THERAPIES, IDENTIFY RESPONSE BIOMARKERS AND ASSESS HOW ANCESTRY INFLUENCES RESPONSE. PROJECT 2 – “PRECISION TARGETING OF DISPARITY-ASSOCIATED EGFR MUTANT LUNG TUMORS TO CIRCUMVENT EARLY RESISTANCE TO EGFR INHIBITORS”, FOCUSES ON ONE OF THE MOST COMMON LUNG CANCER (LC) SUBTYPES IN MINORITY POPULATIONS, EGFR- MUTATED LUNG TUMORS. THIS MOLECULAR SUBTYPE REPRESENTS A HIGH PROPORTION OF LUNG CANCER DIAGNOSED IN FEMALE PATIENTS OF LATINO AND ASIAN ANCESTRY. THE PROJECT WILL UTILIZE PDXNET AND OUR UCATS LUNG CANCER PDX EXPERTISE AND RESOURCES TO DEVELOP EFFECTIVE TARGETED THERAPY COMBINATIONS WITH FDA-APPROVED AND NCI-CTEP AGENTS SEEKING TO OVERCOME EARLY RESISTANCE TO EGFR-TKIS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-08-01",
+    "End Date": "2028-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U54CA283766_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92635636,
+    "generated_unique_award_id": "ASST_NON_U54CA283766_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "UNIVERSITY OF CALIFORNIA AND UT SOUTHWESTERN D-PDTC - PROJECT SUMMARY/ABSTRACT THE UNIVERSITY OF CALIFORNIA AND THE UNIVERSITY OF TEXAS SOUTHWESTERN (UCATS) DIVERSITY PATIENT-DERIVED XENOGRAFT (PDX) DEVELOPMENT AND TRIAL CENTER’S IS A DIVERSITY-FOCUSED GRANT WITH A GOAL OF ESTABLISHING AND CHARACTERIZING AT LEAST 120 NEW PDXS FROM RACIALLY AND ETHNICALLY DIVERSE POPULATIONS AND USE THESE PDXS AS PRECLINICAL MODELS TO BETTER UNDERSTAND THE MECHANISMS OF ONCOGENESIS, TO TEST FDA-APPROVED AND NCI-CTEP SINGLE AGENT AND DRUG COMBINATION THERAPIES AND TO ADVANCE CANCER HEALTH DISPARITIES RESEARCH. EXPANDING THE EXISTING PDX INFRASTRUCTURE FROM OUR ONGOING UNIVERSITY OF CALIFORNIA PATIENT DERIVED AND TRIAL CENTER (UCAMP, U54CA233306), UCATS IS COMPRISED OF SIX NCI-DESIGNATED COMPREHENSIVE CANCER CENTERS (CCC): UC DAVIS COMPREHENSIVE CANCER CENTER (UCD) [LEAD INSTITUTION], UC IRVINE CHAO FAMILY COMPREHENSIVE CANCER CENTER (UCI), UC LOS ANGELES JONSSON COMPREHENSIVE CANCER CENTER (UCLA), UC SAN DIEGO MOORES CANCER CENTER (UCSD), UC SAN FRANCISCO HELEN DILLER FAMILY COMPREHENSIVE CANCER CENTER (UCSF), AND THE UNIVERSITY OF TEXAS SOUTHWESTERN HAROLD C. SIMMONS CANCER CENTER (UTSW). COLLECTIVELY, UCATS INCLUDES A TEAM OF TRANSDISCIPLINARY INVESTIGATORS WITH STRENGTHS IN PDX DEVELOPMENT, PRECLINICAL DRUG TESTING, CANCER HEALTH DISPARITIES, CLINICAL TRIAL DEVELOPMENT, BIOINFORMATICS, AND LARGE MULTICENTER ADMINISTRATION. UCATS WILL ACHIEVE ITS GOAL THROUGH TWO RESEARCH PROJECTS. PROJECT 1 – “ADVANCING GASTRIC CANCER PRECISION MEDICINE IN LATINOS THROUGH PATIENT-DERIVED MODELING” FOCUSES ON DEVELOPING NOVEL, EFFECTIVE THERAPEUTIC REGIMENS FOR MOST COMMONLY DRUGGABLE AND GENOMICALLY COMPLEX LATINO GC SUBTYPE, WHICH INVOLVES CO-MUTATIONS IN MULTIPLE PATHWAY (SUCH AS CELL CYCLE KINASE, PI3K/AKT/MTOR, WNT AND RTK-RAS) AND TO STUDY RESISTANCE MECHANISMS TO TARGETED THERAPIES, IDENTIFY RESPONSE BIOMARKERS AND ASSESS HOW ANCESTRY INFLUENCES RESPONSE. PROJECT 2 – “PRECISION TARGETING OF DISPARITY-ASSOCIATED EGFR MUTANT LUNG TUMORS TO CIRCUMVENT EARLY RESISTANCE TO EGFR INHIBITORS”, FOCUSES ON ONE OF THE MOST COMMON LUNG CANCER (LC) SUBTYPES IN MINORITY POPULATIONS, EGFR- MUTATED LUNG TUMORS. THIS MOLECULAR SUBTYPE REPRESENTS A HIGH PROPORTION OF LUNG CANCER DIAGNOSED IN FEMALE PATIENTS OF LATINO AND ASIAN ANCESTRY. THE PROJECT WILL UTILIZE PDXNET AND OUR UCATS LUNG CANCER PDX EXPERTISE AND RESOURCES TO DEVELOP EFFECTIVE TARGETED THERAPY COMBINATIONS WITH FDA-APPROVED AND NCI-CTEP AGENTS SEEKING TO OVERCOME EARLY RESISTANCE TO EGFR-TKIS.",
+    "total_obligation": 3532429,
+    "subaward_count": 2,
+    "total_subaward_amount": 122941,
+    "date_signed": "2023-07-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2066089.13,
+    "total_account_obligation": 3402776,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2066089.13
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3402776
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-08-01",
+      "end_date": "2028-07-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2066089.13
+  }
+}

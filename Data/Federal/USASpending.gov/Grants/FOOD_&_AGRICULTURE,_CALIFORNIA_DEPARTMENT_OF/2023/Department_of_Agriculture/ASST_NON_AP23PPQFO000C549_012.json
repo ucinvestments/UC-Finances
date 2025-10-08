@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 80570469,
+    "Award ID": "AP23PPQFO000C549",
+    "Recipient Name": "FOOD \u0026 AGRICULTURE, CALIFORNIA DEPARTMENT OF",
+    "Award Amount": 768971.33,
+    "Total Outlays": 768971.33,
+    "Description": "1. AWARD PURPOSE: TO PREVENT THE ESTABLISHMENT OF ORIENTAL FRUIT FLY (OFF), BACTROCERA DORSALIS (HENDEL), THE CDFA HAS INITIATED AN ERADICATION PROJECT IN RESPONSE TO THE DETECTION OF SIX ADULT MALES AND TWO UNMATED ADULT FEMALES OFF IN THE SANTA CLARA AND SUNNYVALE AREAS OF SANTA CLARA COUNTY DURING THE PERIOD BETWEEN JULY 20, 2023 AND AUGUST 25, 2023. THE QUARANTINE WAS EFFECTIVE SEPTEMBER 1, 2023 AND ENCOMPASSES 112 SQUARE MILES IN SIZE. THE PURPOSE OF THIS AWARD IS TO CONDUCT TRAPPING DELIMITATION ARRAY, LARVAL SURVEY, ERADICATION TREATMENTS (INSECTICIDE TREATMENTS AND FRUIT REMOVAL) AND QUARANTINE ENFORCEMENT AROUND THE OFF DETECTION SITES, AND TO CONTINUE EARLY DETECTION OF NEW OFF INFESTATIONS. 2. ACTIVITIES TO BE PERFORMED: DELIMITATION TRAPPING WITH JACKSON AND MCPHAIL TRAPS WILL OCCUR OVER 100 SQUARE MILES. FOLIAR BAIT TREATMENTS (GROUND) WILL TAKE PLACE OVER 200 METERS AROUND ALL ADULT DETECTION SITES FOR ONE LIFE CYCLE BEYOND THE LAST FLY DETECTED. GROUND BAIT SPRAY CONTAINING SPINOSAD WILL BE APPLIED TO ALL PROPERTIES WITHIN A 200-METER RADIUS OF EACH FLY DETECTION SITE FOR ONE LIFECYCLE, REPEATED EVERY SEVEN TO 14 DAYS. MALE ATTRACTANT TREATMENT (MAT) WILL HAVE 600 BAIT STATIONS APPLIED TO INANIMATE OBJECTS EVERY TWO WEEKS THROUGHOUT A NINE SQUARE MILE AREA AROUND EACH DETECTION SITE. TREATMENTS WILL CONTINUE FOR TWO LIFE CYCLES BEYOND THE LAST FLY DETECTED. LARVAL SURVEY WILL BE CONDUCTED OVER 200 METERS AROUND ALL DETECTION SITES. IF LARVAE, A MATED FEMALE, OR MULTIPLE ADULT FLIES ARE FOUND AT A PROPERTY, HOST FRUIT WILL BE REMOVED. QUARANTINE WORK WILL BE DONE TO REGULATE THE MOVEMENT OF HOST MATERIAL, INCLUDING ISSUING COMPLIANCE AGREEMENTS AND HOLD NOTICES. INTENSIVE POST-TREATMENT TRAPPING WILL OCCUR FOR THREE LIFECYCLES AFTER THE LAST FLY IS DETECTED. THE TRAPPING AND SURVEY CREW WILL BE TRAINED IN TRAP PLACEMENT, PRELIMINARY IDENTIFICATION, ENVIRONMENTAL COMPLIANCE, LAWS AND REGULATIONS, AND PROPER SAMPLE SUBMISSION PROCEDURES. SAMPLES WILL BE SENT TO THE PLANT PEST DIAGNOSTICS CENTER (PPDC) FOR IDENTIFICATION. THE QUARANTINE AND REGULATED AREA ACTIVITIES WILL BE PERFORMED BY THE USDA, CDFA, AND COUNTY AGRICULTURAL COMMISSIONER'S (CAC) STAFF. 3. DELIVERABLES AND EXPECTED OUTCOMES: THE SUCCESSFUL IMPLEMENTATION OF THE DETECTION, TREATMENT, AND QUARANTINE ACTIVITIES WILL ERADICATE THE OFF FROM CALIFORNIA. INTENSIVE POST-TREATMENT TRAPPING WILL BE MAINTAINED THROUGHOUT THE PROJECT AREAS FOR THREE LIFE CYCLES AFTER THE LAST FLY IS DETECTED. THIS HIGH LEVEL OF TRAPPING WILL DETERMINE THE EFFECTIVENESS OF THE PROGRAM. A TABULATION OF THE NUMBER OF SITES SAMPLED AND THE NUMBER OF POSITIVE SAMPLES SUBMITTED CAN BE USED TO DETERMINE IF THE SURVEY EFFORTS WERE SUFFICIENT. IF NO ADDITIONAL OFFS ARE DETECTED, THE PROJECT WILL BE TERMINATED, AND THE QUARANTINE LIFTED. 4. INTENDED BENEFICIARY(IES): THE ESTABLISHMENT OF THE OFF WOULD HAVE A DRAMATIC IMPACT ON THE ENVIRONMENT AND ECONOMIC WELLNESS OF CALIFORNIA AND THE NATION. OFF IN CALIFORNIA WOULD REQUIRE EXTENSIVE USE OF PESTICIDES BOTH IN URBAN AND COMMERCIAL SETTINGS. THE RESULTING QUARANTINES AGAINST EXPORTED CALIFORNIA GROWN COMMODITIES WOULD HAVE AN IMMEDIATE IMPACT ON CALIFORNIA'S ABILITY TO COMPETE IN THE INTERNATIONAL EXPORT TRADE ARENA. THESE INFESTATIONS POSE A SERIOUS THREAT TO THE UNITED STATES' AGRICULTURAL INDUSTRY, AND PARTICULARLY TO CALIFORNIA'S $50 BILLION AGRICULTURAL INDUSTRY. 5. SUBRECIPIENT ACTIVITIES, IF KNOWN OR SPECIFIED AT THE TIME OF AWARD: THE SANTA CLARA COUNTY AGRICULTURAL COMMISSIONER'S OFFICE (CAC) WILL ASSIST WITH THE QUARANTINE. THE OFFICE OF ENVIRONMENTAL HEALTH HAZARD ASSESSMENT (OEHHA), THE DEPARTMENT OF PESTICIDE REGULATIONS (DPR), THE CALIFORNIA CONSERVATION CORPS (CCC), HAZARDOUS WASTE DISPOSAL, LEGAL NEWSPAPER ADVERTISEMENTS, AND THE UNIVERSITY OF CALIFORNIA AT DAVIS MEDICAL WILL ALSO PARTICIPATE, HOWEVER NO SUBAWARD IS GIVEN.",
+    "Contract Award Type": "",
+    "Recipient UEI": "H8ANDD5WXME7",
+    "Recipient Location": {
+      "address_line1": "1220 N ST STE 400",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "5603",
+      "zip5": "95814"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "Animal and Plant Health Inspection Service",
+    "Start Date": "2023-09-01",
+    "End Date": "2024-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2673dc0c-eb29-402e-2f47-3115c28630f0-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_AP23PPQFO000C549_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 80570469,
+    "generated_unique_award_id": "ASST_NON_AP23PPQFO000C549_012",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "1. AWARD PURPOSE: TO PREVENT THE ESTABLISHMENT OF ORIENTAL FRUIT FLY (OFF), BACTROCERA DORSALIS (HENDEL), THE CDFA HAS INITIATED AN ERADICATION PROJECT IN RESPONSE TO THE DETECTION OF SIX ADULT MALES AND TWO UNMATED ADULT FEMALES OFF IN THE SANTA CLARA AND SUNNYVALE AREAS OF SANTA CLARA COUNTY DURING THE PERIOD BETWEEN JULY 20, 2023 AND AUGUST 25, 2023. THE QUARANTINE WAS EFFECTIVE SEPTEMBER 1, 2023 AND ENCOMPASSES 112 SQUARE MILES IN SIZE. THE PURPOSE OF THIS AWARD IS TO CONDUCT TRAPPING DELIMITATION ARRAY, LARVAL SURVEY, ERADICATION TREATMENTS (INSECTICIDE TREATMENTS AND FRUIT REMOVAL) AND QUARANTINE ENFORCEMENT AROUND THE OFF DETECTION SITES, AND TO CONTINUE EARLY DETECTION OF NEW OFF INFESTATIONS. 2. ACTIVITIES TO BE PERFORMED: DELIMITATION TRAPPING WITH JACKSON AND MCPHAIL TRAPS WILL OCCUR OVER 100 SQUARE MILES. FOLIAR BAIT TREATMENTS (GROUND) WILL TAKE PLACE OVER 200 METERS AROUND ALL ADULT DETECTION SITES FOR ONE LIFE CYCLE BEYOND THE LAST FLY DETECTED. GROUND BAIT SPRAY CONTAINING SPINOSAD WILL BE APPLIED TO ALL PROPERTIES WITHIN A 200-METER RADIUS OF EACH FLY DETECTION SITE FOR ONE LIFECYCLE, REPEATED EVERY SEVEN TO 14 DAYS. MALE ATTRACTANT TREATMENT (MAT) WILL HAVE 600 BAIT STATIONS APPLIED TO INANIMATE OBJECTS EVERY TWO WEEKS THROUGHOUT A NINE SQUARE MILE AREA AROUND EACH DETECTION SITE. TREATMENTS WILL CONTINUE FOR TWO LIFE CYCLES BEYOND THE LAST FLY DETECTED. LARVAL SURVEY WILL BE CONDUCTED OVER 200 METERS AROUND ALL DETECTION SITES. IF LARVAE, A MATED FEMALE, OR MULTIPLE ADULT FLIES ARE FOUND AT A PROPERTY, HOST FRUIT WILL BE REMOVED. QUARANTINE WORK WILL BE DONE TO REGULATE THE MOVEMENT OF HOST MATERIAL, INCLUDING ISSUING COMPLIANCE AGREEMENTS AND HOLD NOTICES. INTENSIVE POST-TREATMENT TRAPPING WILL OCCUR FOR THREE LIFECYCLES AFTER THE LAST FLY IS DETECTED. THE TRAPPING AND SURVEY CREW WILL BE TRAINED IN TRAP PLACEMENT, PRELIMINARY IDENTIFICATION, ENVIRONMENTAL COMPLIANCE, LAWS AND REGULATIONS, AND PROPER SAMPLE SUBMISSION PROCEDURES. SAMPLES WILL BE SENT TO THE PLANT PEST DIAGNOSTICS CENTER (PPDC) FOR IDENTIFICATION. THE QUARANTINE AND REGULATED AREA ACTIVITIES WILL BE PERFORMED BY THE USDA, CDFA, AND COUNTY AGRICULTURAL COMMISSIONER'S (CAC) STAFF. 3. DELIVERABLES AND EXPECTED OUTCOMES: THE SUCCESSFUL IMPLEMENTATION OF THE DETECTION, TREATMENT, AND QUARANTINE ACTIVITIES WILL ERADICATE THE OFF FROM CALIFORNIA. INTENSIVE POST-TREATMENT TRAPPING WILL BE MAINTAINED THROUGHOUT THE PROJECT AREAS FOR THREE LIFE CYCLES AFTER THE LAST FLY IS DETECTED. THIS HIGH LEVEL OF TRAPPING WILL DETERMINE THE EFFECTIVENESS OF THE PROGRAM. A TABULATION OF THE NUMBER OF SITES SAMPLED AND THE NUMBER OF POSITIVE SAMPLES SUBMITTED CAN BE USED TO DETERMINE IF THE SURVEY EFFORTS WERE SUFFICIENT. IF NO ADDITIONAL OFFS ARE DETECTED, THE PROJECT WILL BE TERMINATED, AND THE QUARANTINE LIFTED. 4. INTENDED BENEFICIARY(IES): THE ESTABLISHMENT OF THE OFF WOULD HAVE A DRAMATIC IMPACT ON THE ENVIRONMENT AND ECONOMIC WELLNESS OF CALIFORNIA AND THE NATION. OFF IN CALIFORNIA WOULD REQUIRE EXTENSIVE USE OF PESTICIDES BOTH IN URBAN AND COMMERCIAL SETTINGS. THE RESULTING QUARANTINES AGAINST EXPORTED CALIFORNIA GROWN COMMODITIES WOULD HAVE AN IMMEDIATE IMPACT ON CALIFORNIA'S ABILITY TO COMPETE IN THE INTERNATIONAL EXPORT TRADE ARENA. THESE INFESTATIONS POSE A SERIOUS THREAT TO THE UNITED STATES' AGRICULTURAL INDUSTRY, AND PARTICULARLY TO CALIFORNIA'S $50 BILLION AGRICULTURAL INDUSTRY. 5. SUBRECIPIENT ACTIVITIES, IF KNOWN OR SPECIFIED AT THE TIME OF AWARD: THE SANTA CLARA COUNTY AGRICULTURAL COMMISSIONER'S OFFICE (CAC) WILL ASSIST WITH THE QUARANTINE. THE OFFICE OF ENVIRONMENTAL HEALTH HAZARD ASSESSMENT (OEHHA), THE DEPARTMENT OF PESTICIDE REGULATIONS (DPR), THE CALIFORNIA CONSERVATION CORPS (CCC), HAZARDOUS WASTE DISPOSAL, LEGAL NEWSPAPER ADVERTISEMENTS, AND THE UNIVERSITY OF CALIFORNIA AT DAVIS MEDICAL WILL ALSO PARTICIPATE, HOWEVER NO SUBAWARD IS GIVEN.",
+    "total_obligation": 768971.33,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-09-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 768971.33,
+    "total_account_obligation": 768971.33,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 768971.33
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 768971.33
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 176,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Animal and Plant Health Inspection Service",
+        "code": "12K3",
+        "abbreviation": "APHIS"
+      },
+      "office_agency_name": "PPQ-FO FT COLLINS CO"
+    },
+    "awarding_agency": {
+      "id": 176,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "Animal and Plant Health Inspection Service",
+        "code": "12K3",
+        "abbreviation": "APHIS"
+      },
+      "office_agency_name": "PPQ-FO FT COLLINS CO"
+    },
+    "period_of_performance": {
+      "start_date": "2023-09-01",
+      "end_date": "2024-06-30",
+      "last_modified_date": "2025-02-13",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2673dc0c-eb29-402e-2f47-3115c28630f0-C",
+      "recipient_name": "FOOD \u0026 AGRICULTURE, CALIFORNIA DEPARTMENT OF",
+      "recipient_uei": "H8ANDD5WXME7",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "767ea773-fe28-1a94-a12e-aec774194af4-P",
+      "parent_recipient_name": "FOOD \u0026 AGRICULTURE  CALIFORNIA DEPARTMENT OF",
+      "parent_recipient_uei": "LNRMZMQC5DK3",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SACRAMENTO",
+        "county_code": "067",
+        "county_name": "SACRAMENTO",
+        "address_line1": "1220 N ST STE 400",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "07",
+        "zip4": "5603",
+        "zip5": "95814",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 768971.33
+  }
+}

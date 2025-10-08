@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56903647,
+    "Award ID": "2211661",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1486812,
+    "Total Outlays": 847775.58,
+    "Description": "BEYOND SEX DETERMINATION: THE EVOLUTION AND FUNCTION OF Y CHROMOSOMES -EARLY IN THE 180 MILLION-YEAR HISTORY OF MAMMALIAN SEX CHROMOSOMES, THE Y CHROMOSOME LOST MOST OF ITS GENES. THUS, SURVIVING ANCESTRAL GENES ARE HIGHLY CONSERVED ACROSS MOST MAMMALS. HOWEVER, RECENT EVOLUTION ON THE Y IS REMARKABLY DYNAMIC. THE HANDFUL OF FULLY ANNOTATED MAMMALIAN Y CHROMOSOMES ALL FEATURE LINEAGE-SPECIFIC GENES ACQUIRED FROM OTHER PARTS OF THE GENOME. THIS REGENERATIVE PROPERTY OF Y CHROMOSOMES WAS NOT ANTICIPATED BY THEORY AND THE EVOLUTIONARY DRIVERS ARE POORLY UNDERSTOOD. TO FILL THIS KNOWLEDGE GAP, THE RESEARCH WILL PRODUCE Y CHROMOSOME ASSEMBLIES AND MULTI-TISSUE TRANSCRIPTOMES FOR EIGHT CLOSELY RELATED SPECIES OF RODENTS WITH UNUSUALLY HIGH RATES OF SEX CHROMOSOME EVOLUTION. THESE DATA WILL BE USED TO TEST HYPOTHESES ABOUT THE FUNCTIONS OF Y-LINKED GENES. FURTHER, THE WORK WILL INVESTIGATE THE SELECTIVE FORCES THAT PROMOTE GENE ACQUISITION AND SURVIVAL. THE RESEARCH WILL BE INTEGRATED INTO INQUIRY-BASED UNDERGRADUATE CURRICULUM AT TWO MINORITY-SERVING INSTITUTIONS. IT WILL ALSO PROVIDE MENTORED RESEARCH EXPERIENCES FOR UNDERGRADUATES RECRUITED THROUGH PROGRAMS TARGETING UNDER-REPRESENTED GROUPS. THE RESULTS OF THIS RESEARCH WILL SHED NEW LIGHT ON THE FUNCTION AND SHORT-TERM EVOLUTION OF Y CHROMOSOMES. THIS PROJECT WILL ALSO PROMOTE ENGAGEMENT AND RETENTION OF UNDER-REPRESENTED MINORITIES IN SCIENCE, AND PROVIDE TRAINING OPPORTUNITIES FOR STUDENTS. THE RESEARCH WILL USE LONG READ SEQUENCING TECHNOLOGIES AND OPTICAL MAPPING TO PRODUCE TELOMERE-TO-TELOMERE Y CHROMOSOME ASSEMBLIES FOR A GROUP OF VOLES (GENUS, MICROTUS). THIS GROUP INCLUDES M. OREGONI, A SPECIES IN WHICH BOTH SEXES CARRY FULL COMPLEMENTS OF Y-DERIVED GENES. MULTI-TISSUE GENE EXPRESSION ATLASES WILL BE PRODUCED FOR EACH SPECIES. THE ATLASES WILL BE GENERATED USING A COMBINATION OF LONG AND SHORT READ TRANSCRIPTOMES AND SINGLE CELL SEQUENCING. AIM 1 WILL USE A COMPARATIVE FRAMEWORK TO UNDERSTAND GENE ACQUISITION, MOLECULAR EVOLUTION, AND GENE LOSS ON MICROTUS Y CHROMOSOMES. THE FIRST AIM WILL ALSO EVALUATE FUNCTIONAL ASSOCIATIONS AND PATTERNS OF COPY NUMBER AMPLIFICATION. AIM 2 HAS TWO GOALS. FIRST, IT WILL TEST THE DOMINANT PARADIGM FOR MAMMALIAN Y-LINKED GENE FUNCTION, UNDER WHICH SURVIVING ANCESTRAL GENES ARE BROADLY EXPRESSED REGULATORS THAT COMPENSATE FOR X CHROMOSOME HEMIZYGOSITY, WHEREAS GENES ACQUIRED FROM OTHER PARTS OF THE GENOME ARE SPECIALIZED FOR SPERMATOGENESIS. SECOND, AIM 2 WILL TEST FOR EXPRESSION PATTERNS CONSISTENT WITH ALTERNATIVE DRIVERS OF Y-ACQUIRED GENE SURVIVAL IN MICROTUS. AIM 3 WILL LEVERAGE THE UNIQUE SEX CHROMOSOME SYSTEM OF M. OREGONI FOR TWO PURPOSES. ONE, TO RE-EVALUATE THE DOMINANT PARADIGM FOR Y CHROMOSOME GENE FUNCTION BY ANALYZING THE EFFECTS OF SEX AND X CHROMOSOME DOSAGE ON Y-DERIVED GENE EXPRESSION. TWO, TO TEST THE LONGSTANDING PREDICTION THAT SEX-LIMITED CHROMOSOMES ACCUMULATE GENES WITH SEXUALLY ANTAGONISTIC EFFECTS IN THE SHARED GENOME. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "900 UNIVERSITY AVE",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "9800",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "41",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92507-4633",
+      "zip5": "92507"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-08-01",
+    "End Date": "2026-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2211661_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56903647,
+    "generated_unique_award_id": "ASST_NON_2211661_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "BEYOND SEX DETERMINATION: THE EVOLUTION AND FUNCTION OF Y CHROMOSOMES -EARLY IN THE 180 MILLION-YEAR HISTORY OF MAMMALIAN SEX CHROMOSOMES, THE Y CHROMOSOME LOST MOST OF ITS GENES. THUS, SURVIVING ANCESTRAL GENES ARE HIGHLY CONSERVED ACROSS MOST MAMMALS. HOWEVER, RECENT EVOLUTION ON THE Y IS REMARKABLY DYNAMIC. THE HANDFUL OF FULLY ANNOTATED MAMMALIAN Y CHROMOSOMES ALL FEATURE LINEAGE-SPECIFIC GENES ACQUIRED FROM OTHER PARTS OF THE GENOME. THIS REGENERATIVE PROPERTY OF Y CHROMOSOMES WAS NOT ANTICIPATED BY THEORY AND THE EVOLUTIONARY DRIVERS ARE POORLY UNDERSTOOD. TO FILL THIS KNOWLEDGE GAP, THE RESEARCH WILL PRODUCE Y CHROMOSOME ASSEMBLIES AND MULTI-TISSUE TRANSCRIPTOMES FOR EIGHT CLOSELY RELATED SPECIES OF RODENTS WITH UNUSUALLY HIGH RATES OF SEX CHROMOSOME EVOLUTION. THESE DATA WILL BE USED TO TEST HYPOTHESES ABOUT THE FUNCTIONS OF Y-LINKED GENES. FURTHER, THE WORK WILL INVESTIGATE THE SELECTIVE FORCES THAT PROMOTE GENE ACQUISITION AND SURVIVAL. THE RESEARCH WILL BE INTEGRATED INTO INQUIRY-BASED UNDERGRADUATE CURRICULUM AT TWO MINORITY-SERVING INSTITUTIONS. IT WILL ALSO PROVIDE MENTORED RESEARCH EXPERIENCES FOR UNDERGRADUATES RECRUITED THROUGH PROGRAMS TARGETING UNDER-REPRESENTED GROUPS. THE RESULTS OF THIS RESEARCH WILL SHED NEW LIGHT ON THE FUNCTION AND SHORT-TERM EVOLUTION OF Y CHROMOSOMES. THIS PROJECT WILL ALSO PROMOTE ENGAGEMENT AND RETENTION OF UNDER-REPRESENTED MINORITIES IN SCIENCE, AND PROVIDE TRAINING OPPORTUNITIES FOR STUDENTS. THE RESEARCH WILL USE LONG READ SEQUENCING TECHNOLOGIES AND OPTICAL MAPPING TO PRODUCE TELOMERE-TO-TELOMERE Y CHROMOSOME ASSEMBLIES FOR A GROUP OF VOLES (GENUS, MICROTUS). THIS GROUP INCLUDES M. OREGONI, A SPECIES IN WHICH BOTH SEXES CARRY FULL COMPLEMENTS OF Y-DERIVED GENES. MULTI-TISSUE GENE EXPRESSION ATLASES WILL BE PRODUCED FOR EACH SPECIES. THE ATLASES WILL BE GENERATED USING A COMBINATION OF LONG AND SHORT READ TRANSCRIPTOMES AND SINGLE CELL SEQUENCING. AIM 1 WILL USE A COMPARATIVE FRAMEWORK TO UNDERSTAND GENE ACQUISITION, MOLECULAR EVOLUTION, AND GENE LOSS ON MICROTUS Y CHROMOSOMES. THE FIRST AIM WILL ALSO EVALUATE FUNCTIONAL ASSOCIATIONS AND PATTERNS OF COPY NUMBER AMPLIFICATION. AIM 2 HAS TWO GOALS. FIRST, IT WILL TEST THE DOMINANT PARADIGM FOR MAMMALIAN Y-LINKED GENE FUNCTION, UNDER WHICH SURVIVING ANCESTRAL GENES ARE BROADLY EXPRESSED REGULATORS THAT COMPENSATE FOR X CHROMOSOME HEMIZYGOSITY, WHEREAS GENES ACQUIRED FROM OTHER PARTS OF THE GENOME ARE SPECIALIZED FOR SPERMATOGENESIS. SECOND, AIM 2 WILL TEST FOR EXPRESSION PATTERNS CONSISTENT WITH ALTERNATIVE DRIVERS OF Y-ACQUIRED GENE SURVIVAL IN MICROTUS. AIM 3 WILL LEVERAGE THE UNIQUE SEX CHROMOSOME SYSTEM OF M. OREGONI FOR TWO PURPOSES. ONE, TO RE-EVALUATE THE DOMINANT PARADIGM FOR Y CHROMOSOME GENE FUNCTION BY ANALYZING THE EFFECTS OF SEX AND X CHROMOSOME DOSAGE ON Y-DERIVED GENE EXPRESSION. TWO, TO TEST THE LONGSTANDING PREDICTION THAT SEX-LIMITED CHROMOSOMES ACCUMULATE GENES WITH SEXUALLY ANTAGONISTIC EFFECTS IN THE SHARED GENOME. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 1486812,
+    "subaward_count": 4,
+    "total_subaward_amount": 323876,
+    "date_signed": "2022-08-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 847775.58,
+    "total_account_obligation": 1486812,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 847775.58
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1486812
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ENVIRONMENTAL BIOLOGY"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ENVIRONMENTAL BIOLOGY"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-01",
+      "end_date": "2026-07-31",
+      "last_modified_date": "2022-08-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "900 UNIVERSITY AVE",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "9800",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "4633",
+      "zip5": "92507",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 847775.58
+  }
+}

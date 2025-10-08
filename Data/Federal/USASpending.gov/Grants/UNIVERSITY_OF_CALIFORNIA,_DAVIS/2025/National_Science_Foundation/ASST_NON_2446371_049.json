@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57677799,
+    "Award ID": "2446371",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 624041,
+    "Total Outlays": 159.39,
+    "Description": "ATTENTIONAL GUIDANCE AND DECISIONS DURING VISUAL SEARCH -HUMANS PERFORM VISUAL SEARCH TASKS MANY TIMES THROUGHOUT THE DAY. EXAMPLES INCLUDE SEARCHING FOR THE PERFECT SNACK IN A SUPERMARKET, LOOKING FOR A MISPLACED PHONE IN A CLUTTERED ROOM, OR FINDING A FRIEND IN A BUSY RESTAURANT. THE EFFICIENCY WITH WHICH HUMANS PERFORM THESE TASKS HAS A SIGNIFICANT IMPACT ON THE QUALITY OF DAILY LIFE. THE CURRENT PROJECT USES BEHAVIOR, EYE-TRACKING, VIRTUAL REALITY, BRAIN ACTIVITY, AND COMPUTATIONAL MODELING TO TEST THE IDEA THAT THE EFFICIENCY OF VISUAL SEARCH DEPENDS ON TWO STAGES OF PROCESSING WITH TWO DIFFERENT COMPUTATIONAL GOALS: 1) A FIRST STAGE WITH ?GOOD ENOUGH? ATTENTIONAL GUIDANCE TO SELECT POTENTIAL TARGETS FOR CLOSER INSPECTION, AND 2) A SECOND STAGE INVOLVING A DECISION THAT EMPHASIZES ACCURACY OVER SPEED. THE OVERALL GOAL IS TO UNDERSTAND ORGANIZING PRINCIPLES THAT MAKE VISUAL SEARCH EFFICIENT. IN ADDITION TO THE SCIENTIFIC WORK, THIS PROJECT SUPPORTS THE TRAINING AND PROFESSIONAL DEVELOPMENT OF UNDERGRADUATE STUDENTS WITH ACTIVITIES THAT BUILD SCIENTIFIC LITERACY, ANALYTICAL SKILLS, AND EMPHASIZE LINKS BETWEEN CLASSROOM LEARNING AND THE WORKFORCE. THE PROJECT TESTS HYPOTHESES THAT GUIDANCE AND DECISIONS IN VISUAL SEARCH RELY ON DIFFERENT TYPES OF INFORMATION BECAUSE THEY HAVE DIFFERENT COMPUTATIONAL GOALS, NOT BECAUSE THEY WORK ON DIFFERENT FEATURE TYPES. ONE SET OF EXPERIMENTS TESTS THE PREDICTION THAT DURING VISUAL SEARCH, ATTENTIONAL GUIDANCE PRIORITIZES SPEED OVER ACCURACY, BUT THAT DECISIONS PRIORITIZE ACCURACY OVER SPEED. TO DO THIS, SIMPLE STIMULUS ARRAYS IN WHICH THE PRECISION AND FEATURE-DIMENSION USED FOR GUIDANCE AND DECISIONS ARE SEPARATELY MEASURED USING EYE-TRACKING DATA, ELECTROENCEPHALOGRAPHY/EVENT-RELATED POTENTIALS (EEG/ERPS), AND DRIFT-DIFFUSION MODELING (DDM). ANOTHER SET OF EXPERIMENTS, ALSO USING BEHAVIOR, EEG, AND DDMS, TEST THE PREDICTION THAT ATTENTIONAL GUIDANCE RELIES ON NON-TARGET INFORMATION SUCH AS PRIOR KNOWLEDGE ABOUT TYPICAL SCENES BECAUSE THEY ACT AS RAPIDLY DETECTABLE SPATIAL CUES FOR THE TARGET. ADDITIONALLY, THE PROJECT USES IMMERSIVE VIRTUAL REALITY AND DDMS TO EXAMINE SEARCH EFFICIENCY IN NATURALISTIC CONTEXTS AND TEST FOR HIERARCHICAL PROCESSES IN WHICH GUIDANCE PRIORITIZES INFORMATION AND LEADS TO REDUCTIONS IN THE SEARCH SPACE. OVERALL, THE PROJECT AIMS TO ADDRESS IMPORTANT LIMITATIONS OF EXISTING MODELS OF ATTENTION AND AIMS TO UNDERSTAND HOW VISUAL SEARCH IS EFFICIENT. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-03-15",
+    "End Date": "2028-02-29",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2446371_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57677799,
+    "generated_unique_award_id": "ASST_NON_2446371_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ATTENTIONAL GUIDANCE AND DECISIONS DURING VISUAL SEARCH -HUMANS PERFORM VISUAL SEARCH TASKS MANY TIMES THROUGHOUT THE DAY. EXAMPLES INCLUDE SEARCHING FOR THE PERFECT SNACK IN A SUPERMARKET, LOOKING FOR A MISPLACED PHONE IN A CLUTTERED ROOM, OR FINDING A FRIEND IN A BUSY RESTAURANT. THE EFFICIENCY WITH WHICH HUMANS PERFORM THESE TASKS HAS A SIGNIFICANT IMPACT ON THE QUALITY OF DAILY LIFE. THE CURRENT PROJECT USES BEHAVIOR, EYE-TRACKING, VIRTUAL REALITY, BRAIN ACTIVITY, AND COMPUTATIONAL MODELING TO TEST THE IDEA THAT THE EFFICIENCY OF VISUAL SEARCH DEPENDS ON TWO STAGES OF PROCESSING WITH TWO DIFFERENT COMPUTATIONAL GOALS: 1) A FIRST STAGE WITH ?GOOD ENOUGH? ATTENTIONAL GUIDANCE TO SELECT POTENTIAL TARGETS FOR CLOSER INSPECTION, AND 2) A SECOND STAGE INVOLVING A DECISION THAT EMPHASIZES ACCURACY OVER SPEED. THE OVERALL GOAL IS TO UNDERSTAND ORGANIZING PRINCIPLES THAT MAKE VISUAL SEARCH EFFICIENT. IN ADDITION TO THE SCIENTIFIC WORK, THIS PROJECT SUPPORTS THE TRAINING AND PROFESSIONAL DEVELOPMENT OF UNDERGRADUATE STUDENTS WITH ACTIVITIES THAT BUILD SCIENTIFIC LITERACY, ANALYTICAL SKILLS, AND EMPHASIZE LINKS BETWEEN CLASSROOM LEARNING AND THE WORKFORCE. THE PROJECT TESTS HYPOTHESES THAT GUIDANCE AND DECISIONS IN VISUAL SEARCH RELY ON DIFFERENT TYPES OF INFORMATION BECAUSE THEY HAVE DIFFERENT COMPUTATIONAL GOALS, NOT BECAUSE THEY WORK ON DIFFERENT FEATURE TYPES. ONE SET OF EXPERIMENTS TESTS THE PREDICTION THAT DURING VISUAL SEARCH, ATTENTIONAL GUIDANCE PRIORITIZES SPEED OVER ACCURACY, BUT THAT DECISIONS PRIORITIZE ACCURACY OVER SPEED. TO DO THIS, SIMPLE STIMULUS ARRAYS IN WHICH THE PRECISION AND FEATURE-DIMENSION USED FOR GUIDANCE AND DECISIONS ARE SEPARATELY MEASURED USING EYE-TRACKING DATA, ELECTROENCEPHALOGRAPHY/EVENT-RELATED POTENTIALS (EEG/ERPS), AND DRIFT-DIFFUSION MODELING (DDM). ANOTHER SET OF EXPERIMENTS, ALSO USING BEHAVIOR, EEG, AND DDMS, TEST THE PREDICTION THAT ATTENTIONAL GUIDANCE RELIES ON NON-TARGET INFORMATION SUCH AS PRIOR KNOWLEDGE ABOUT TYPICAL SCENES BECAUSE THEY ACT AS RAPIDLY DETECTABLE SPATIAL CUES FOR THE TARGET. ADDITIONALLY, THE PROJECT USES IMMERSIVE VIRTUAL REALITY AND DDMS TO EXAMINE SEARCH EFFICIENCY IN NATURALISTIC CONTEXTS AND TEST FOR HIERARCHICAL PROCESSES IN WHICH GUIDANCE PRIORITIZES INFORMATION AND LEADS TO REDUCTIONS IN THE SEARCH SPACE. OVERALL, THE PROJECT AIMS TO ADDRESS IMPORTANT LIMITATIONS OF EXISTING MODELS OF ATTENTION AND AIMS TO UNDERSTAND HOW VISUAL SEARCH IS EFFICIENT. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 624041,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-03-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 11959.53,
+    "total_account_obligation": 341347,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 11959.53
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 341347
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF BEHAVIORAL  COGNITIVE SCI"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF BEHAVIORAL  COGNITIVE SCI"
+    },
+    "period_of_performance": {
+      "start_date": "2025-03-15",
+      "end_date": "2028-02-29",
+      "last_modified_date": "2025-09-18",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 11959.53
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91122937,
+    "Award ID": "R01AG067791",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 3128986.1,
+    "Total Outlays": 2096280.34,
+    "Description": "EFFECTS OF AGING ON SIGNAL IN NOISE PROCESSING - PROJECT SUMMARY/ABSTRACT AGE-RELATED HEARING LOSS IS A UBIQUITOUS PROBLEM, ESTIMATED TO AFFECT UP TO ONE THIRD OF THE POPULATION. THIS CONDITION IS MUCH MORE DETRIMENTAL THAN ‘HARD OF HEARING’, RATHER, IT HAS BEEN IMPLICATED IN A HOST OF CO-MORBIDITIES SUCH AS COGNITIVE DEFICITS, AND OTHER MENTAL ILLNESS. IT REMAINS UNCLEAR IF THIS IS A CAUSE AND EFFECT SITUATION OR AN EPIPHENOMENON. IF THE FORMER, SIMPLE INTERVENTIONS MAY WELL LEAD TO MUCH BETTER MENTAL HEALTH AMONG THE ELDERLY. THE LONG-TERM GOAL OF THE PROPOSED RESEARCH PROGRAM IS TO IDENTIFY THE NEURAL CODING PRINCIPLES THAT ALLOW LISTENERS TO MAKE SENSE OF, AND FOCUS ON, PARTICULAR SOUNDS (I.E. WHAT YOU ARE LISTENING TO) WHEN THEY OCCUR MIXED WITH OTHER SOUNDS (I.E. THE BACKGROUND), SOMETHING THAT IS COMMON IN MANY LISTENING SITUATIONS. ALTHOUGH THIS IS AN EXTREMELY DIFFICULT COMPUTATIONAL PROBLEM, PEOPLE WITH NORMAL HEARING SOLVE IT EFFORTLESSLY. UNFORTUNATELY, THIS REMARKABLE ABILITY ALMOST ALWAYS DECLINES WITH AGE, LEAVING INDIVIDUALS STRUGGLING TO UNDERSTAND SPEECH IN NOISY ENVIRONMENTS. IN ORDER TO DEVELOP ASSISTIVE TECHNOLOGIES OR THERAPIES TO RESTORE THIS CRITICAL FUNCTION, WE NEED TO UNDERSTAND HOW THE BRAIN PROCESSES SOUNDS IN COMPLEX ACOUSTIC SCENES, AND, IN PARTICULAR, EXACTLY HOW IT FAILS TO DO SO IN AGED INDIVIDUALS. AGE-RELATED SHIFTS IN THE CODING STRATEGY EMPLOYED AT DIFFERENT STAGES OF THE AUDITORY PATHWAY ARE BELIEVED TO INVOLVE COMPENSATORY CHANGES RELATED TO ATTENUATED INPUT FROM MORE PERIPHERAL STAGES, AND RECENT RESEARCH IN OLDER ANIMALS HAS DEMONSTRATED QUANTITATIVE AND QUALITATIVE CHANGES IN CENTRAL NEURAL REPRESENTATION OF COMPLEX SOUNDS. CRUCIALLY, THESE CHANGES APPEAR TO INVOLVE CHANGES IN HOW INFORMATION IS TRANSFORMED ALONG THE CORTICAL HIERARCHY. FOR THIS REASON, A RIGOROUS STUDY OF THE EFFECTS OF AGE-RELATED HEARING LOSS MUST INCLUDE A COMPARISON OF CORTICAL AREAS, SUCH AS CORE VERSUS BELT, THAT FUNCTION AT DIFFERENT LEVELS OF THE PROCESSING HIERARCHY IN NORMAL HEARING. MOREOVER, THESE CENTRAL CHANGES IMPACT NOT ONLY ‘BOTTOM-UP’ SOUND PROCESSING ALONG THE ASCENDING AUDITORY PATHWAY, BUT ALSO ‘TOP-DOWN’ MODULATION BY ATTENTION. THE PROPOSED STUDIES WILL THEREFORE CONTRAST HOW COMPLEX SOUNDS IN CHALLENGING LISTENING ENVIRONMENTS ARE PROCESSED IN YOUNG VERSUS OLD ANIMALS WHILE THOSE ANIMALS ARE PERFORMING PERCEPTUAL TASKS THAT EITHER DO OR DO NOT REQUIRE AUDITORY ATTENTION. THESE STUDIES WILL BE THE FIRST TO TRACK CHANGES IN HOW MULTIPLE COMPLEX SOUNDS ARE ENCODED ACROSS HIERARCHICAL LEVELS OF PROCESSING IN THE AUDITORY PATHWAY IN A PRIMATE MODEL OF AGING, WHILE ALLOWING DIRECT COMPARISONS BETWEEN CORTICAL RESPONSE CHANGES AND AUDITORY PERCEPTUAL DEFICITS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-02-01",
+    "End Date": "2025-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG067791_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91122937,
+    "generated_unique_award_id": "ASST_NON_R01AG067791_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EFFECTS OF AGING ON SIGNAL IN NOISE PROCESSING - PROJECT SUMMARY/ABSTRACT AGE-RELATED HEARING LOSS IS A UBIQUITOUS PROBLEM, ESTIMATED TO AFFECT UP TO ONE THIRD OF THE POPULATION. THIS CONDITION IS MUCH MORE DETRIMENTAL THAN ‘HARD OF HEARING’, RATHER, IT HAS BEEN IMPLICATED IN A HOST OF CO-MORBIDITIES SUCH AS COGNITIVE DEFICITS, AND OTHER MENTAL ILLNESS. IT REMAINS UNCLEAR IF THIS IS A CAUSE AND EFFECT SITUATION OR AN EPIPHENOMENON. IF THE FORMER, SIMPLE INTERVENTIONS MAY WELL LEAD TO MUCH BETTER MENTAL HEALTH AMONG THE ELDERLY. THE LONG-TERM GOAL OF THE PROPOSED RESEARCH PROGRAM IS TO IDENTIFY THE NEURAL CODING PRINCIPLES THAT ALLOW LISTENERS TO MAKE SENSE OF, AND FOCUS ON, PARTICULAR SOUNDS (I.E. WHAT YOU ARE LISTENING TO) WHEN THEY OCCUR MIXED WITH OTHER SOUNDS (I.E. THE BACKGROUND), SOMETHING THAT IS COMMON IN MANY LISTENING SITUATIONS. ALTHOUGH THIS IS AN EXTREMELY DIFFICULT COMPUTATIONAL PROBLEM, PEOPLE WITH NORMAL HEARING SOLVE IT EFFORTLESSLY. UNFORTUNATELY, THIS REMARKABLE ABILITY ALMOST ALWAYS DECLINES WITH AGE, LEAVING INDIVIDUALS STRUGGLING TO UNDERSTAND SPEECH IN NOISY ENVIRONMENTS. IN ORDER TO DEVELOP ASSISTIVE TECHNOLOGIES OR THERAPIES TO RESTORE THIS CRITICAL FUNCTION, WE NEED TO UNDERSTAND HOW THE BRAIN PROCESSES SOUNDS IN COMPLEX ACOUSTIC SCENES, AND, IN PARTICULAR, EXACTLY HOW IT FAILS TO DO SO IN AGED INDIVIDUALS. AGE-RELATED SHIFTS IN THE CODING STRATEGY EMPLOYED AT DIFFERENT STAGES OF THE AUDITORY PATHWAY ARE BELIEVED TO INVOLVE COMPENSATORY CHANGES RELATED TO ATTENUATED INPUT FROM MORE PERIPHERAL STAGES, AND RECENT RESEARCH IN OLDER ANIMALS HAS DEMONSTRATED QUANTITATIVE AND QUALITATIVE CHANGES IN CENTRAL NEURAL REPRESENTATION OF COMPLEX SOUNDS. CRUCIALLY, THESE CHANGES APPEAR TO INVOLVE CHANGES IN HOW INFORMATION IS TRANSFORMED ALONG THE CORTICAL HIERARCHY. FOR THIS REASON, A RIGOROUS STUDY OF THE EFFECTS OF AGE-RELATED HEARING LOSS MUST INCLUDE A COMPARISON OF CORTICAL AREAS, SUCH AS CORE VERSUS BELT, THAT FUNCTION AT DIFFERENT LEVELS OF THE PROCESSING HIERARCHY IN NORMAL HEARING. MOREOVER, THESE CENTRAL CHANGES IMPACT NOT ONLY ‘BOTTOM-UP’ SOUND PROCESSING ALONG THE ASCENDING AUDITORY PATHWAY, BUT ALSO ‘TOP-DOWN’ MODULATION BY ATTENTION. THE PROPOSED STUDIES WILL THEREFORE CONTRAST HOW COMPLEX SOUNDS IN CHALLENGING LISTENING ENVIRONMENTS ARE PROCESSED IN YOUNG VERSUS OLD ANIMALS WHILE THOSE ANIMALS ARE PERFORMING PERCEPTUAL TASKS THAT EITHER DO OR DO NOT REQUIRE AUDITORY ATTENTION. THESE STUDIES WILL BE THE FIRST TO TRACK CHANGES IN HOW MULTIPLE COMPLEX SOUNDS ARE ENCODED ACROSS HIERARCHICAL LEVELS OF PROCESSING IN THE AUDITORY PATHWAY IN A PRIMATE MODEL OF AGING, WHILE ALLOWING DIRECT COMPARISONS BETWEEN CORTICAL RESPONSE CHANGES AND AUDITORY PERCEPTUAL DEFICITS.",
+    "total_obligation": 3128986.1,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-01-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2096280.34,
+    "total_account_obligation": 3128986.1,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2096280.34
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3128986.1
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-02-01",
+      "end_date": "2025-12-31",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2096280.34
+  }
+}

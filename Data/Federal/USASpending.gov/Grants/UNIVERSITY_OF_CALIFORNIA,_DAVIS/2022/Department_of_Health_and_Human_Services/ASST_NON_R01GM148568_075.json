@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91197540,
+    "Award ID": "R01GM148568",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1367911,
+    "Total Outlays": 1066939.47,
+    "Description": "CHEMOENZYMATIC CONSTRUCTION OF SYNTHETIC HUMAN MILK OLIGOSACCHARIDE (HMO) GLYCOME - PROJECT SUMMARY CHEMOENZYMATIC CONSTRUCTION OF SYNTHETIC HUMAN MILK OLIGOSACCHARIDE (HMO) GLYCOME HUMAN MILK OLIGOSACCHARIDES (HMOS) CONSTITUTE A MAJOR COMPONENT OF HUMAN MILK WHICH PROVIDES EVERYTHING THAT BREAST-FED INFANTS NEED IN THE FIRST SEVERAL MONTHS OF THEIR LIVES. THERE IS AN INCREASING APPRECIATION OF THE MULTIFACETED CONTRIBUTION OF HMOS TO THE HEALTH OF BREAST-FED INFANTS. EXPLORING THE APPLICATIONS OF HMOS AS INFANT FORMULA ADDITIVES, NUTRACEUTICALS, AND/OR THERAPEUTICS HAS BEGUN BUT HAS BEEN SLOW DUE TO THE LIMITED ACCESS TO STRUCTURALLY DEFINED HMOS IN SUFFICIENT AMOUNTS. THE STRUCTURES OF MORE THAN 150 HMOS ARE KNOWN. DESPITE EFFORTS AND ADVANCES IN DEVELOPING CHEMICAL, ENZYMATIC, CHEMOENZYMATIC, AND FERMENTATION METHODS FOR HMO SYNTHESIS, THE ACCESS TO A COMPLETE HMO GLYCOME HAS NOT BEEN ACHIEVED SYNTHETICALLY. HMOS CAN BE PURIFIED FROM HUMAN MILK BUT THE AMOUNT IS LIMITED. WE PLAN TO LOWER THE TECHNICAL BARRIER TO ACCESS HMOS BY DEVELOPING HIGHLY EFFICIENT USER-FRIENDLY GLYCOSYLTRANSFERASE-BASED CHEMOENZYMATIC METHODS AND CONSTRUCT A COMPREHENSIVE SYNTHETIC HMO GLYCOME. OTHER THAN THE ENZYMES, THE CHEMOENZYMATIC SYNTHETIC STRATEGIES, AND THE PRODUCTION PROCESSES THAT HAVE BEEN DEVELOPED, ADDITIONAL INNOVATION WILL BE INTRODUCED FOR SUBSTRATE AND PROCESS ENGINEERING. NEW ENZYMES WILL BE IDENTIFIED, ENGINEERED, CHARACTERIZED, AND USED FOR THE SYNTHESIS OF HMOS IN A SYSTEMATIC TARGET-ORIENTED MANNER. MAPS FOR CHEMOENZYMATIC SYNTHETIC ROUTES WILL BE DEVELOPED. A COMPREHENSIVE LIBRARY OF HMOS INCLUDING BRANCHED AND LONG-CHAIN LINEAR STRUCTURES WITH OR WITHOUT L-FUCOSE AND/OR SIALIC ACID THAT HAVE BEEN IDENTIFIED FROM HUMAN MILK AND POTENTIAL ISOMERS THAT HAVE NOT BEEN IDENTIFIED WILL BE CONSTRUCTED. THE SYNTHETIC HMO GLYCOME WILL PROVIDE WELL CHARACTERIZED PURE COMPOUND STANDARDS FOR IDENTIFYING AND PROFILING OF HMOS IN THE MILK FROM DIFFERENT NURSING MOTHERS, AT DIFFERENT LACTATION STAGES, AND WITH OR WITHOUT INFECTIONS OR OTHER DISEASES. THE CHEMOENZYMATIC SYNTHETIC PROCESS IS PROGRAMMABLE, CAN BE ADAPTED FOR AUTOMATION, AND IS READILY SCALABLE FOR LARGE-SCALE PRODUCTION OF HMOS IN THE FUTURE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-22",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01GM148568_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91197540,
+    "generated_unique_award_id": "ASST_NON_R01GM148568_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CHEMOENZYMATIC CONSTRUCTION OF SYNTHETIC HUMAN MILK OLIGOSACCHARIDE (HMO) GLYCOME - PROJECT SUMMARY CHEMOENZYMATIC CONSTRUCTION OF SYNTHETIC HUMAN MILK OLIGOSACCHARIDE (HMO) GLYCOME HUMAN MILK OLIGOSACCHARIDES (HMOS) CONSTITUTE A MAJOR COMPONENT OF HUMAN MILK WHICH PROVIDES EVERYTHING THAT BREAST-FED INFANTS NEED IN THE FIRST SEVERAL MONTHS OF THEIR LIVES. THERE IS AN INCREASING APPRECIATION OF THE MULTIFACETED CONTRIBUTION OF HMOS TO THE HEALTH OF BREAST-FED INFANTS. EXPLORING THE APPLICATIONS OF HMOS AS INFANT FORMULA ADDITIVES, NUTRACEUTICALS, AND/OR THERAPEUTICS HAS BEGUN BUT HAS BEEN SLOW DUE TO THE LIMITED ACCESS TO STRUCTURALLY DEFINED HMOS IN SUFFICIENT AMOUNTS. THE STRUCTURES OF MORE THAN 150 HMOS ARE KNOWN. DESPITE EFFORTS AND ADVANCES IN DEVELOPING CHEMICAL, ENZYMATIC, CHEMOENZYMATIC, AND FERMENTATION METHODS FOR HMO SYNTHESIS, THE ACCESS TO A COMPLETE HMO GLYCOME HAS NOT BEEN ACHIEVED SYNTHETICALLY. HMOS CAN BE PURIFIED FROM HUMAN MILK BUT THE AMOUNT IS LIMITED. WE PLAN TO LOWER THE TECHNICAL BARRIER TO ACCESS HMOS BY DEVELOPING HIGHLY EFFICIENT USER-FRIENDLY GLYCOSYLTRANSFERASE-BASED CHEMOENZYMATIC METHODS AND CONSTRUCT A COMPREHENSIVE SYNTHETIC HMO GLYCOME. OTHER THAN THE ENZYMES, THE CHEMOENZYMATIC SYNTHETIC STRATEGIES, AND THE PRODUCTION PROCESSES THAT HAVE BEEN DEVELOPED, ADDITIONAL INNOVATION WILL BE INTRODUCED FOR SUBSTRATE AND PROCESS ENGINEERING. NEW ENZYMES WILL BE IDENTIFIED, ENGINEERED, CHARACTERIZED, AND USED FOR THE SYNTHESIS OF HMOS IN A SYSTEMATIC TARGET-ORIENTED MANNER. MAPS FOR CHEMOENZYMATIC SYNTHETIC ROUTES WILL BE DEVELOPED. A COMPREHENSIVE LIBRARY OF HMOS INCLUDING BRANCHED AND LONG-CHAIN LINEAR STRUCTURES WITH OR WITHOUT L-FUCOSE AND/OR SIALIC ACID THAT HAVE BEEN IDENTIFIED FROM HUMAN MILK AND POTENTIAL ISOMERS THAT HAVE NOT BEEN IDENTIFIED WILL BE CONSTRUCTED. THE SYNTHETIC HMO GLYCOME WILL PROVIDE WELL CHARACTERIZED PURE COMPOUND STANDARDS FOR IDENTIFYING AND PROFILING OF HMOS IN THE MILK FROM DIFFERENT NURSING MOTHERS, AT DIFFERENT LACTATION STAGES, AND WITH OR WITHOUT INFECTIONS OR OTHER DISEASES. THE CHEMOENZYMATIC SYNTHETIC PROCESS IS PROGRAMMABLE, CAN BE ADAPTED FOR AUTOMATION, AND IS READILY SCALABLE FOR LARGE-SCALE PRODUCTION OF HMOS IN THE FUTURE.",
+    "total_obligation": 1367911,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-09-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1066939.47,
+    "total_account_obligation": 1367911,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1066939.47
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1367911
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-22",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1066939.47
+  }
+}

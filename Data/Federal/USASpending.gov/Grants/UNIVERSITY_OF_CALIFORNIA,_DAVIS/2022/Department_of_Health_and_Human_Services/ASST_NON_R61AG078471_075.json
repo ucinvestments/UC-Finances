@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91365063,
+    "Award ID": "R61AG078471",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 649235,
+    "Total Outlays": 649235,
+    "Description": "CREATION OF A MONKEY MINI MENTAL STATE EXAM (MMMSE) FOR IDENTIFYING EARLY COGNITIVE DEFICITS RELATED TO ALZHEIMER?S DISEASE AND RELATED DEMENTIAS - AGING IS A HUGELY VARIABLE PROCESS. SOME PEOPLE AGE WELL, WITH SUSTAINED MEMORY, GENERALLY POSITIVE EMOTIONAL EXPERIENCES, HEALTHY SOCIAL RELATIONSHIPS, AND GOOD PHYSICAL HEALTH INTO OLD AGE, WHILE OTHERS EXPERIENCE SIGNIFICANT AGE-RELATED DETRIMENTS TO BOTH PSYCHOLOGICAL AND PHYSICAL HEALTH. PREDICTING WHO IS VULNERABLE TO POOR AGING OUTCOMES AND SPECIFICALLY TO ALZHEIMER’S DISEASE AND ALZHEIMER’S DISEASE-RELATED DEMENTIAS (AD/ADRD) IS CRITICAL FOR DEVELOPING EARLY INTERVENTIONS AND DEPLOYING TREATMENTS IN A TIMEFRAME IN WHICH THEY ARE MOST EFFICACIOUS. NONHUMAN PRIMATE MODELS HAVE LONG BEEN USED TO UNDERSTAND THE CAUSAL BIOLOGICAL MECHANISMS UNDERLYING AGING TRAJECTORIES AND VULNERABILITY TO AD/ADRD PATHOLOGY, WITH THE GOAL OF DEVELOPING TREATMENTS AND INTERVENTIONS TO PROMOTE HUMAN HEALTH. SUCH RESEARCH IS PARTICULARLY CHALLENGING BECAUSE THE EXPERIMENTAL TESTING IN THESE DOMAINS REQUIRES EXTENSIVE TRAINING (TYPICALLY 6-18 MONTHS), PRECLUDING THE USE OF LARGE SAMPLES THAT WOULD ALLOW FOR GENETIC STUDIES OR STUDIES OF NATURALLY OCCURRING VARIATION. THE PROPOSED PROJECT IS INSPIRED BY HUMAN LITERATURE WHICH HAS A NUMBER OF QUICK, RESOURCE-LIGHT SCREENING TOOLS FOR PSYCHOLOGICAL HEALTH ACROSS THE LIFESPAN, OF WHICH THE MINI MENTAL STATE EXAMINATION (MMSE) IS ONE OF THE MOST POPULAR TO PREDICT COGNITIVE AGING OUTCOMES AND ARE PREDICTIVE TO THE PRESENCE/OCCURRENCE OF AD/ADRD. THE PROPOSED WORK DEVELOPS A MONKEY VERSION OF MMSE (THE MMMSE) – A HIGH THROUGHPUT SCREENING TOOL TO MEASURE COGNITIVE FUNCTIONS ACROSS A VARIETY OF DOMAINS AS WELL AS SOCIAL AND AFFECTIVE PROCESSING WHICH ARE BROADLY IMPLICATED AS BEHAVIORAL AND PSYCHOLOGICAL SYMPTOMS OF DEMENTIA. VALIDITY WILL BE ESTABLISHED VIA “GOLD STANDARD” TIME-INTENSIVE TASKS ACROSS PSYCHOLOGICAL DOMAINS. THIS TOOL WILL ALLOW FOR RAPID COGNITIVE ASSESSMENT FOR LARGE SAMPLE STUDIES CORRELATING BIOMARKERS OF NEURODEGENERATIVE DISEASE RISK WITH FUNCTIONAL STATUS, IDENTIFICATION OF SUBGROUPS OF VULNERABLE MONKEYS, AND ENHANCED MAINTENANCE OF AGING NONHUMAN PRIMATE COLONIES BY IDENTIFYING MONKEYS AT RISK OF POOR HEALTH. UNDERSTANDING NONHUMAN PRIMATE AGING TRAJECTORIES AND DEVELOPING INTERVENTIONS TO PROMOTE THEIR WELL-BEING IS CRITICAL TO MAINTAIN COLONIES OF AGING MONKEYS AS A NATIONAL RESOURCE AND ALSO TO HAVE THOSE MONKEYS BE APPROPRIATE ANIMAL MODELS FOR THE STUDY OF HUMAN HEALTH AND AGE-RELATED DISEASES LIKE AD/ADRD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-15",
+    "End Date": "2025-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R61AG078471_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91365063,
+    "generated_unique_award_id": "ASST_NON_R61AG078471_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CREATION OF A MONKEY MINI MENTAL STATE EXAM (MMMSE) FOR IDENTIFYING EARLY COGNITIVE DEFICITS RELATED TO ALZHEIMER?S DISEASE AND RELATED DEMENTIAS - AGING IS A HUGELY VARIABLE PROCESS. SOME PEOPLE AGE WELL, WITH SUSTAINED MEMORY, GENERALLY POSITIVE EMOTIONAL EXPERIENCES, HEALTHY SOCIAL RELATIONSHIPS, AND GOOD PHYSICAL HEALTH INTO OLD AGE, WHILE OTHERS EXPERIENCE SIGNIFICANT AGE-RELATED DETRIMENTS TO BOTH PSYCHOLOGICAL AND PHYSICAL HEALTH. PREDICTING WHO IS VULNERABLE TO POOR AGING OUTCOMES AND SPECIFICALLY TO ALZHEIMER’S DISEASE AND ALZHEIMER’S DISEASE-RELATED DEMENTIAS (AD/ADRD) IS CRITICAL FOR DEVELOPING EARLY INTERVENTIONS AND DEPLOYING TREATMENTS IN A TIMEFRAME IN WHICH THEY ARE MOST EFFICACIOUS. NONHUMAN PRIMATE MODELS HAVE LONG BEEN USED TO UNDERSTAND THE CAUSAL BIOLOGICAL MECHANISMS UNDERLYING AGING TRAJECTORIES AND VULNERABILITY TO AD/ADRD PATHOLOGY, WITH THE GOAL OF DEVELOPING TREATMENTS AND INTERVENTIONS TO PROMOTE HUMAN HEALTH. SUCH RESEARCH IS PARTICULARLY CHALLENGING BECAUSE THE EXPERIMENTAL TESTING IN THESE DOMAINS REQUIRES EXTENSIVE TRAINING (TYPICALLY 6-18 MONTHS), PRECLUDING THE USE OF LARGE SAMPLES THAT WOULD ALLOW FOR GENETIC STUDIES OR STUDIES OF NATURALLY OCCURRING VARIATION. THE PROPOSED PROJECT IS INSPIRED BY HUMAN LITERATURE WHICH HAS A NUMBER OF QUICK, RESOURCE-LIGHT SCREENING TOOLS FOR PSYCHOLOGICAL HEALTH ACROSS THE LIFESPAN, OF WHICH THE MINI MENTAL STATE EXAMINATION (MMSE) IS ONE OF THE MOST POPULAR TO PREDICT COGNITIVE AGING OUTCOMES AND ARE PREDICTIVE TO THE PRESENCE/OCCURRENCE OF AD/ADRD. THE PROPOSED WORK DEVELOPS A MONKEY VERSION OF MMSE (THE MMMSE) – A HIGH THROUGHPUT SCREENING TOOL TO MEASURE COGNITIVE FUNCTIONS ACROSS A VARIETY OF DOMAINS AS WELL AS SOCIAL AND AFFECTIVE PROCESSING WHICH ARE BROADLY IMPLICATED AS BEHAVIORAL AND PSYCHOLOGICAL SYMPTOMS OF DEMENTIA. VALIDITY WILL BE ESTABLISHED VIA “GOLD STANDARD” TIME-INTENSIVE TASKS ACROSS PSYCHOLOGICAL DOMAINS. THIS TOOL WILL ALLOW FOR RAPID COGNITIVE ASSESSMENT FOR LARGE SAMPLE STUDIES CORRELATING BIOMARKERS OF NEURODEGENERATIVE DISEASE RISK WITH FUNCTIONAL STATUS, IDENTIFICATION OF SUBGROUPS OF VULNERABLE MONKEYS, AND ENHANCED MAINTENANCE OF AGING NONHUMAN PRIMATE COLONIES BY IDENTIFYING MONKEYS AT RISK OF POOR HEALTH. UNDERSTANDING NONHUMAN PRIMATE AGING TRAJECTORIES AND DEVELOPING INTERVENTIONS TO PROMOTE THEIR WELL-BEING IS CRITICAL TO MAINTAIN COLONIES OF AGING MONKEYS AS A NATIONAL RESOURCE AND ALSO TO HAVE THOSE MONKEYS BE APPROPRIATE ANIMAL MODELS FOR THE STUDY OF HUMAN HEALTH AND AGE-RELATED DISEASES LIKE AD/ADRD.",
+    "total_obligation": 649235,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-08-12",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 649235,
+    "total_account_obligation": 649235,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 649235
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 649235
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-15",
+      "end_date": "2025-07-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 649235
+  }
+}

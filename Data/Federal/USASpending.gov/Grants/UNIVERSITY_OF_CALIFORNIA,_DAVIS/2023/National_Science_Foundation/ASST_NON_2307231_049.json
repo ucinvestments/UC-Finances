@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57172117,
+    "Award ID": "2307231",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 670871,
+    "Total Outlays": 526465.74,
+    "Description": "UNLOCKING THE POTENTIAL OF ZINTL COMPOUNDS FOR THERMOELECTRICS -PART 1: NON-TECHNICAL SUMMARY WITH SUPPORT FROM THE SOLID STATE AND MATERIALS CHEMISTRY PROGRAM IN NSF?S DIVISION OF MATERIALS RESEARCH, THE PRINCIPAL INVESTIGATOR AND HER RESEARCH GROUP AT THE UNIVERSITY OF CALIFORNIA DAVIS SYNTHESIZE AND CHARACTERIZE NEW ZINTL COMPOUNDS. ZINTL PHASES ARE COMPOUNDS COMPOSED OF METALLIC ELEMENTS BUT HAVE THE PROPERTIES OF A SEMICONDUCTOR. THIS TYPE OF MATERIAL HAS POTENTIALLY EXCELLENT THERMOELECTRIC PROPERTIES. LESS EXPENSIVE THERMOELECTRIC MATERIALS COULD ALTER THE WORLD?S ENERGY LANDSCAPE BY CONVERTING WASTE HEAT INTO USABLE ELECTRICITY AND REDUCING OUR DEPENDENCE ON FOSSIL FUELS. THE ENERGY CONVERSION EFFICIENCY OF A MATERIAL REQUIRES LOW ELECTRICAL RESISTIVITY LIKE A METAL AND LOW THERMAL CONDUCTIVITY AS IN AN INSULATOR. THE UNIQUE COMBINATION OF COMPOSITION AND STRUCTURE OF ZINTL PHASES CAN GIVE RISE TO EXCEPTIONAL THERMOELECTRIC PROPERTIES THAT CAN BE FURTHER OPTIMIZED BY SYSTEMATIC SUBSTITUTION OF INDIVIDUAL ELEMENTS. THIS PROJECT DEVELOPS NEW STRUCTURES AND OPTIMIZES PROPERTIES TOWARD HIGH EFFICIENCY THERMOELECTRIC MATERIALS. A NEW COURSE FOR GRADUATE STUDENTS FOCUSED ON RESILIENCY, MENTAL HEALTH AND WELL-BEING IS DEVELOPED AND ASSESSED DURING THE TIME OF THIS AWARD. THIS PROJECT ALSO TRAINS YOUNG SCIENTISTS IN STRUCTURE DETERMINATION AND PROPERTY MEASUREMENTS ALONG WITH THERMOELECTRIC DESIGN AND OPTIMIZATION. GRADUATE AND UNDERGRADUATE STUDENTS? SCIENTIFIC AND SOCIAL SKILLS ARE DEVELOPED THROUGH WORKSHOPS, SYMPOSIUMS, AND INDIVIDUALIZED MENTORING. PART 2: TECHNICAL SUMMARY EFFICIENT THERMOELECTRIC MATERIALS ARE REQUIRED TO IMPACT ENERGY CONVERSION TECHNOLOGIES. THIS PROJECT, WITH SUPPORT FROM THE SOLID STATE AND MATERIALS CHEMISTRY PROGRAM IN NSF?S DIVISION OF MATERIALS RESEARCH, PROVIDES NEW ZINTL PHASE COMPOUNDS VIA FLUX AND DIRECT SYNTHESIS AND CHARACTERIZES THEIR PROPERTIES WITH A GOAL OF DISCOVERING NEW THERMOELECTRIC MATERIALS. COMPOUNDS WITH PROMISING PROPERTIES ARE THEN FURTHER OPTIMIZED FOR THEIR THERMOELECTRIC EFFICIENCY AND PROVIDE NEW DIRECTIONS OF RESEARCH FOR THE SCIENTIFIC COMMUNITY. GOALS INCLUDE THE THE SYNTHESIS OF NEW COMPOUNDS THAT HAVE NOT YET BEEN INVESTIGATED AND, E.G. MORPHOLOGICAL OPTIMIZATION OF ZINTL PHASES. TWO-DIMENSIONAL (LAYERED) AND ONE-DIMENSIONAL (CHAIN) CONTAINING PHASES ARE SYNTHESIZED AND THEIR PROPERTIES CHARACTERIZED. THE PROPERTIES OF THESE NEW PHASES WILL BE ENHANCED WITH ALIO- AND ISO-VALENT SUBSTITUTION TOWARDS BETTER THERMOELECTRIC BEHAVIOR. GRADUATE AND UNDERGRADUATE STUDENTS LEARN A SUITE OF PHYSICAL CHARACTERIZATION TECHNIQUES AND HOW TO CORRELATE STRUCTURE AND PHASE COMPOSITION WITH ELECTRONIC AND THERMAL TRANSPORT PROPERTIES. IN COLLABORATION WITH THE UC DAVIS GRADUATE DIVISION, A MENTAL WELLNESS AND SCIENTIFIC RESILIENCY COURSE IS TAUGHT AND ASSESSED DURING THE TIMEFRAME OF THIS AWARD. GRADUATE AND UNDERGRADUATE STUDENTS CAN DEVELOP THEIR SCIENTIFIC AND SOCIAL SKILLS THROUGH WORKSHOPS, SYMPOSIUMS, AND MENTORSHIP. THE RESEARCH WILL BE DISSEMINATED AT NATIONAL MEETINGS AND FINDINGS PUBLISHED IN PEER-REVIEWED JOURNALS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-07-01",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2307231_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57172117,
+    "generated_unique_award_id": "ASST_NON_2307231_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "UNLOCKING THE POTENTIAL OF ZINTL COMPOUNDS FOR THERMOELECTRICS -PART 1: NON-TECHNICAL SUMMARY WITH SUPPORT FROM THE SOLID STATE AND MATERIALS CHEMISTRY PROGRAM IN NSF?S DIVISION OF MATERIALS RESEARCH, THE PRINCIPAL INVESTIGATOR AND HER RESEARCH GROUP AT THE UNIVERSITY OF CALIFORNIA DAVIS SYNTHESIZE AND CHARACTERIZE NEW ZINTL COMPOUNDS. ZINTL PHASES ARE COMPOUNDS COMPOSED OF METALLIC ELEMENTS BUT HAVE THE PROPERTIES OF A SEMICONDUCTOR. THIS TYPE OF MATERIAL HAS POTENTIALLY EXCELLENT THERMOELECTRIC PROPERTIES. LESS EXPENSIVE THERMOELECTRIC MATERIALS COULD ALTER THE WORLD?S ENERGY LANDSCAPE BY CONVERTING WASTE HEAT INTO USABLE ELECTRICITY AND REDUCING OUR DEPENDENCE ON FOSSIL FUELS. THE ENERGY CONVERSION EFFICIENCY OF A MATERIAL REQUIRES LOW ELECTRICAL RESISTIVITY LIKE A METAL AND LOW THERMAL CONDUCTIVITY AS IN AN INSULATOR. THE UNIQUE COMBINATION OF COMPOSITION AND STRUCTURE OF ZINTL PHASES CAN GIVE RISE TO EXCEPTIONAL THERMOELECTRIC PROPERTIES THAT CAN BE FURTHER OPTIMIZED BY SYSTEMATIC SUBSTITUTION OF INDIVIDUAL ELEMENTS. THIS PROJECT DEVELOPS NEW STRUCTURES AND OPTIMIZES PROPERTIES TOWARD HIGH EFFICIENCY THERMOELECTRIC MATERIALS. A NEW COURSE FOR GRADUATE STUDENTS FOCUSED ON RESILIENCY, MENTAL HEALTH AND WELL-BEING IS DEVELOPED AND ASSESSED DURING THE TIME OF THIS AWARD. THIS PROJECT ALSO TRAINS YOUNG SCIENTISTS IN STRUCTURE DETERMINATION AND PROPERTY MEASUREMENTS ALONG WITH THERMOELECTRIC DESIGN AND OPTIMIZATION. GRADUATE AND UNDERGRADUATE STUDENTS? SCIENTIFIC AND SOCIAL SKILLS ARE DEVELOPED THROUGH WORKSHOPS, SYMPOSIUMS, AND INDIVIDUALIZED MENTORING. PART 2: TECHNICAL SUMMARY EFFICIENT THERMOELECTRIC MATERIALS ARE REQUIRED TO IMPACT ENERGY CONVERSION TECHNOLOGIES. THIS PROJECT, WITH SUPPORT FROM THE SOLID STATE AND MATERIALS CHEMISTRY PROGRAM IN NSF?S DIVISION OF MATERIALS RESEARCH, PROVIDES NEW ZINTL PHASE COMPOUNDS VIA FLUX AND DIRECT SYNTHESIS AND CHARACTERIZES THEIR PROPERTIES WITH A GOAL OF DISCOVERING NEW THERMOELECTRIC MATERIALS. COMPOUNDS WITH PROMISING PROPERTIES ARE THEN FURTHER OPTIMIZED FOR THEIR THERMOELECTRIC EFFICIENCY AND PROVIDE NEW DIRECTIONS OF RESEARCH FOR THE SCIENTIFIC COMMUNITY. GOALS INCLUDE THE THE SYNTHESIS OF NEW COMPOUNDS THAT HAVE NOT YET BEEN INVESTIGATED AND, E.G. MORPHOLOGICAL OPTIMIZATION OF ZINTL PHASES. TWO-DIMENSIONAL (LAYERED) AND ONE-DIMENSIONAL (CHAIN) CONTAINING PHASES ARE SYNTHESIZED AND THEIR PROPERTIES CHARACTERIZED. THE PROPERTIES OF THESE NEW PHASES WILL BE ENHANCED WITH ALIO- AND ISO-VALENT SUBSTITUTION TOWARDS BETTER THERMOELECTRIC BEHAVIOR. GRADUATE AND UNDERGRADUATE STUDENTS LEARN A SUITE OF PHYSICAL CHARACTERIZATION TECHNIQUES AND HOW TO CORRELATE STRUCTURE AND PHASE COMPOSITION WITH ELECTRONIC AND THERMAL TRANSPORT PROPERTIES. IN COLLABORATION WITH THE UC DAVIS GRADUATE DIVISION, A MENTAL WELLNESS AND SCIENTIFIC RESILIENCY COURSE IS TAUGHT AND ASSESSED DURING THE TIMEFRAME OF THIS AWARD. GRADUATE AND UNDERGRADUATE STUDENTS CAN DEVELOP THEIR SCIENTIFIC AND SOCIAL SKILLS THROUGH WORKSHOPS, SYMPOSIUMS, AND MENTORSHIP. THE RESEARCH WILL BE DISSEMINATED AT NATIONAL MEETINGS AND FINDINGS PUBLISHED IN PEER-REVIEWED JOURNALS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 670871,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-04-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 572487.05,
+    "total_account_obligation": 670871,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 572487.05
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 670871
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MATERIALS RESEARCH"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MATERIALS RESEARCH"
+    },
+    "period_of_performance": {
+      "start_date": "2023-07-01",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2024-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 572487.05
+  }
+}

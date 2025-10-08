@@ -1,0 +1,250 @@
+{
+  "basic_data": {
+    "internal_id": 90838651,
+    "Award ID": "P24AC00910",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+    "Award Amount": 615213.25,
+    "Total Outlays": 107185.93,
+    "Description": "IN RECENT YEARS, GIANT SEQUOIAS  A SPECIES OFTEN CONSIDERED INSENSITIVE AND INVULNERABLE TO CLIMATIC AND BIOTIC STRESSORS  HAVE SHOWN SUBSTANTIAL SIGNS OF VULNERABILITY. DURING THE RECENT DROUGHT, SEQUOIAS EXHIBITED AN UNPRECEDENTED DEGREE OF FOLIAGE DIEBACK  AN APPARENT ADAPTIVE RESPONSE TO EXTREME DROUGHT STRESS  SUGGESTING THAT THE SPECIES MAY BE INCREASINGLY VULNERABLE AS TEMPERATURES WARM AND SEVERE DROUGHTS OCCUR WITH INCREASING FREQUENCY. IN ADDITION, A RELATIVELY SMALL NUMBER OF LARGE SEQUOIAS APPEAR TO HAVE BEEN KILLED BY BARK BEETLES, ANOTHER UNPRECEDENTED EVENT THAT IS PRESUMED TO BE A CONSEQUENCE OF AN INTERACTION BETWEEN RECENT FIRE DAMAGE AND BELOW GROUND WATER AVAILABILITY. WHILE OVERALL MORTALITY DUE TO BARK BEETLES HAS, THUS FAR, BEEN MINIMAL, THE MORTALITY OF THESE TREES IS TROUBLING, AS MANAGERS FEAR THAT THIS MAY PORTEND A MORE SUBSTANTIAL MORTALITY EVENT IN THE FUTURE. THE SITUATION IS FURTHER EXACERBATED BY RECENT CATASTROPHIC WILDFIRES, WHICH MAY HAVE KILLED NEARLY A FIFTH OF ALL OF THE LARGE SEQUOIAS IN THE SPECIES RANGE.  FOREST MANAGERS ARE NOW IN THE CHALLENGING POSITION OF TRYING TO INCREASE OVERALL SEQUOIA RESILIENCE TO THESE THREATS, TO PROTECT TREES THAT MAY BE AT PARTICULAR RISK OF BEETLE ATTACK, AND ALSO TO POSITIVELY AFFECT THE RECOVERY OF ALREADY IMPACTED GROVES. THESE EFFORTS ARE SEVERELY HAMPERED BY SEVERAL INFORMATION GAPS:  A)  WE LACK AN ADEQUATE UNDERSTANDING OF WHAT DETERMINES SEQUOIA TREE VULNERABILITY TO DROUGHT AND FIRE DAMAGE (TRUGMAN, ANDEREGG, DAS, STEPHENSON 2021), INCLUDING INSUFFICIENT UNDERSTANDING ABOUT SEQUOIA SUBSURFACE WATER ACCESS, MAKING IT DIFFICULT TO TARGET MANAGEMENT TREATMENTS INTENDED TO IMPROVE SEQUOIA RESILIENCE. B)  WE LACK BASIC INFORMATION ABOUT THE BARK BEETLE THAT ATTACKS SEQUOIAS AND HOW THEY INTERACT WITH TREE PHYSIOLOGY AND DEFENSES, MAKING IT CHALLENGING NOT ONLY TO DETERMINE WHICH TREES MIGHT BE AT RISK FOR ATTACK BUT ALSO WHAT MEASURES CAN BE TAKEN TO PROTECT THOSE TREES.  C)  WE LACK MODELING TOOLS THAT CAN DIGEST THE PHYSIOLOGICAL UNDERSTANDING OF SEQUOIA VULNERABILITIES TO CLIMATE AND DISTURBANCE INTO RISK TOOLS THAT CAN HELP MANAGERS TARGET TREATMENTS SUCH AS THINNING, BURNING OR INSECT PROTECTION TO THE SEQUOIA GROVES OR EVEN PARTS OF GROVES THAT ARE MOST LIKELY TO BENEFIT  HERE, WE WILL ADDRESS THREE KEY AREAS OF CONCERN:  1)  SEQUOIA TREE HYDROLOGY AND DROUGHT VULNERABILITY:    WE WILL COMBINE TREE PHYSIOLOGICAL, STRUCTURAL AND ENVIRONMENTAL DATA WITH A PLANT PHYSIOLOGICAL MODEL TO MAP CURRENT AND FUTURE DROUGHT VULNERABILITY OF KEY SEQUOIA GROVES.   WE WILL PROVIDE SPECIFIC RISK ASSESSMENTS FOR TREES OF HIGH SOCIAL VALUE (E.G., NAMED TREES), PROVIDED THAT WATER POTENTIAL, CANOPY TEMPERATURE, AND CANOPY HUMIDITY MEASUREMENTS ARE MADE ON THOSE TREES.  2)  INFLUENCE OF FIRE ON GIANT SEQUOIA TREE DROUGHT VULNERABILITY AND MORTALITY RISK:    WE WILL COMBINE ELECTRICAL RESISTIVITY TOMOGRAPHY MEASUREMENTS, WHICH ALLOW FOR ESTIMATES OF THE AMOUNT OF SAPWOOD IMPAIRED BY FIRE, WITH THE MODELING TOOL FROM (1) TO INFORM FIRE DAMAGE SEVERITY THRESHOLDS THAT ARE I) LIKELY LETHAL, II) MAY BENEFIT FROM MANAGEMENT INTERVENTION TO PROMOTE SURVIVAL, AND III) LIKELY NON-LETHAL.  3)  DROUGHT INTERACTIONS WITH BEETLE RISKS TO GIANT SEQUOIAS:    WE WILL LEVERAGE LONG TERM DATA FROM USGS DEMOGRAPHIC PLOTS WITH DETAILED INSECT INFORMATION, EXPERIMENTAL DATA COLLECTED ON DEFENSE PHYSIOLOGY AND THRESHOLDS, AND BUILD ON THE MODELING TOOL FROM (1) TO GAIN A BETTER UNDERSTANDING OF WHEN DROUGHT DURATION OR FREQUENCY MIGHT EXCEED SEQUOIA PHYSIOLOGICAL THRESHOLDS FOR DEFENDING AGAINST BEETLE OUTBREAKS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "G9QBQDH39DF4",
+    "Recipient Location": {
+      "address_line1": "3227 CHEADLE HALL",
+      "address_line2": "OFFICE OF RESEARCH",
+      "address_line3": null,
+      "city_name": "SANTA BARBARA",
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": "083",
+      "county_name": "SANTA BARBARA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "93106"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "24",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "AAB",
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of the Interior",
+    "Awarding Sub Agency": "National Park Service",
+    "Start Date": "2024-07-01",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2e3fd571-0484-5e6b-3e26-4381689012c6-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_P24AC00910_014",
+    "awarding_agency_id": 209,
+    "agency_slug": "department-of-the-interior",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 90838651,
+    "generated_unique_award_id": "ASST_NON_P24AC00910_014",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "IN RECENT YEARS, GIANT SEQUOIAS  A SPECIES OFTEN CONSIDERED INSENSITIVE AND INVULNERABLE TO CLIMATIC AND BIOTIC STRESSORS  HAVE SHOWN SUBSTANTIAL SIGNS OF VULNERABILITY. DURING THE RECENT DROUGHT, SEQUOIAS EXHIBITED AN UNPRECEDENTED DEGREE OF FOLIAGE DIEBACK  AN APPARENT ADAPTIVE RESPONSE TO EXTREME DROUGHT STRESS  SUGGESTING THAT THE SPECIES MAY BE INCREASINGLY VULNERABLE AS TEMPERATURES WARM AND SEVERE DROUGHTS OCCUR WITH INCREASING FREQUENCY. IN ADDITION, A RELATIVELY SMALL NUMBER OF LARGE SEQUOIAS APPEAR TO HAVE BEEN KILLED BY BARK BEETLES, ANOTHER UNPRECEDENTED EVENT THAT IS PRESUMED TO BE A CONSEQUENCE OF AN INTERACTION BETWEEN RECENT FIRE DAMAGE AND BELOW GROUND WATER AVAILABILITY. WHILE OVERALL MORTALITY DUE TO BARK BEETLES HAS, THUS FAR, BEEN MINIMAL, THE MORTALITY OF THESE TREES IS TROUBLING, AS MANAGERS FEAR THAT THIS MAY PORTEND A MORE SUBSTANTIAL MORTALITY EVENT IN THE FUTURE. THE SITUATION IS FURTHER EXACERBATED BY RECENT CATASTROPHIC WILDFIRES, WHICH MAY HAVE KILLED NEARLY A FIFTH OF ALL OF THE LARGE SEQUOIAS IN THE SPECIES RANGE.  FOREST MANAGERS ARE NOW IN THE CHALLENGING POSITION OF TRYING TO INCREASE OVERALL SEQUOIA RESILIENCE TO THESE THREATS, TO PROTECT TREES THAT MAY BE AT PARTICULAR RISK OF BEETLE ATTACK, AND ALSO TO POSITIVELY AFFECT THE RECOVERY OF ALREADY IMPACTED GROVES. THESE EFFORTS ARE SEVERELY HAMPERED BY SEVERAL INFORMATION GAPS:  A)  WE LACK AN ADEQUATE UNDERSTANDING OF WHAT DETERMINES SEQUOIA TREE VULNERABILITY TO DROUGHT AND FIRE DAMAGE (TRUGMAN, ANDEREGG, DAS, STEPHENSON 2021), INCLUDING INSUFFICIENT UNDERSTANDING ABOUT SEQUOIA SUBSURFACE WATER ACCESS, MAKING IT DIFFICULT TO TARGET MANAGEMENT TREATMENTS INTENDED TO IMPROVE SEQUOIA RESILIENCE. B)  WE LACK BASIC INFORMATION ABOUT THE BARK BEETLE THAT ATTACKS SEQUOIAS AND HOW THEY INTERACT WITH TREE PHYSIOLOGY AND DEFENSES, MAKING IT CHALLENGING NOT ONLY TO DETERMINE WHICH TREES MIGHT BE AT RISK FOR ATTACK BUT ALSO WHAT MEASURES CAN BE TAKEN TO PROTECT THOSE TREES.  C)  WE LACK MODELING TOOLS THAT CAN DIGEST THE PHYSIOLOGICAL UNDERSTANDING OF SEQUOIA VULNERABILITIES TO CLIMATE AND DISTURBANCE INTO RISK TOOLS THAT CAN HELP MANAGERS TARGET TREATMENTS SUCH AS THINNING, BURNING OR INSECT PROTECTION TO THE SEQUOIA GROVES OR EVEN PARTS OF GROVES THAT ARE MOST LIKELY TO BENEFIT  HERE, WE WILL ADDRESS THREE KEY AREAS OF CONCERN:  1)  SEQUOIA TREE HYDROLOGY AND DROUGHT VULNERABILITY:    WE WILL COMBINE TREE PHYSIOLOGICAL, STRUCTURAL AND ENVIRONMENTAL DATA WITH A PLANT PHYSIOLOGICAL MODEL TO MAP CURRENT AND FUTURE DROUGHT VULNERABILITY OF KEY SEQUOIA GROVES.   WE WILL PROVIDE SPECIFIC RISK ASSESSMENTS FOR TREES OF HIGH SOCIAL VALUE (E.G., NAMED TREES), PROVIDED THAT WATER POTENTIAL, CANOPY TEMPERATURE, AND CANOPY HUMIDITY MEASUREMENTS ARE MADE ON THOSE TREES.  2)  INFLUENCE OF FIRE ON GIANT SEQUOIA TREE DROUGHT VULNERABILITY AND MORTALITY RISK:    WE WILL COMBINE ELECTRICAL RESISTIVITY TOMOGRAPHY MEASUREMENTS, WHICH ALLOW FOR ESTIMATES OF THE AMOUNT OF SAPWOOD IMPAIRED BY FIRE, WITH THE MODELING TOOL FROM (1) TO INFORM FIRE DAMAGE SEVERITY THRESHOLDS THAT ARE I) LIKELY LETHAL, II) MAY BENEFIT FROM MANAGEMENT INTERVENTION TO PROMOTE SURVIVAL, AND III) LIKELY NON-LETHAL.  3)  DROUGHT INTERACTIONS WITH BEETLE RISKS TO GIANT SEQUOIAS:    WE WILL LEVERAGE LONG TERM DATA FROM USGS DEMOGRAPHIC PLOTS WITH DETAILED INSECT INFORMATION, EXPERIMENTAL DATA COLLECTED ON DEFENSE PHYSIOLOGY AND THRESHOLDS, AND BUILD ON THE MODELING TOOL FROM (1) TO GAIN A BETTER UNDERSTANDING OF WHEN DROUGHT DURATION OR FREQUENCY MIGHT EXCEED SEQUOIA PHYSIOLOGICAL THRESHOLDS FOR DEFENDING AGAINST BEETLE OUTBREAKS.",
+    "total_obligation": 615213.25,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-06-11",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 107185.93,
+    "total_account_obligation": 615213.25,
+    "account_outlays_by_defc": [
+      {
+        "code": "AAB",
+        "amount": 44769.48
+      },
+      {
+        "code": "Q",
+        "amount": 62416.45
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "AAB",
+        "amount": 334000
+      },
+      {
+        "code": "Q",
+        "amount": 281213.25
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 237,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "National Park Service",
+        "code": "1443",
+        "abbreviation": "NPS"
+      },
+      "office_agency_name": "JOSHUA TREE NATIONAL PARK"
+    },
+    "awarding_agency": {
+      "id": 237,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "National Park Service",
+        "code": "1443",
+        "abbreviation": "NPS"
+      },
+      "office_agency_name": "PWR SF/SEA MABO(85000)"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-01",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2024-06-17",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2e3fd571-0484-5e6b-3e26-4381689012c6-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+      "recipient_uei": "G9QBQDH39DF4",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SANTA BARBARA",
+        "county_code": "083",
+        "county_name": "SANTA BARBARA",
+        "address_line1": "3227 CHEADLE HALL",
+        "address_line2": "OFFICE OF RESEARCH",
+        "address_line3": null,
+        "congressional_code": "24",
+        "zip4": "0001",
+        "zip5": "93106",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 107185.93
+  }
+}

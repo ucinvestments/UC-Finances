@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91371728,
+    "Award ID": "RF1AG067049",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 1404443,
+    "Total Outlays": 1232626.07,
+    "Description": "INCREASING SYNAPTIC PSD-95, A NEUROPROTECTION APPROACH AGAINST ALZHEIMER'S DISEASE - PROJECT SUMMARY/ABSTRACT THE FIRST CHANGE IN THE BRAINS OF ALZHEIMER’S PATIENTS AND THE BEST BIOMARKER OF THE DISEASE IS SYNAPTIC LOSS. SEVERAL STUDIES HAVE SHOWN THAT PSD-95 (A MAJOR SCAFFOLDING PROTEIN AT THE SYNAPSE) IS SIGNIFICANTLY DEPLETED IN BRAIN TISSUE OF ALZHEIMER’S PATIENTS AS WELL AS IN NEURONS EXPOSED TO AMYLOID BETA (ASS, A PEPTIDE THOUGHT TO CAUSE ALZHEIMER’S DISEASE (AD)). OUR DATA INDICATE THAT ELEVATED PSD-95 BLOCKS ASS-INDUCED SYNAPTIC DEPRESSION. SURPRISINGLY, THIS EFFECT APPEARS INDEPENDENT OF SYNAPTIC POTENTIATION, BUT TO INTERFERENCE BY PSD- 95 OF NMDA RECEPTOR SIGNALING. MOREOVER, WE OBSERVED THAT BIG DENDRITIC SPINES, CONTAINING A LOT OF PSD-95, WERE UNAFFECTED BY ASS AND THAT SMALLER SPINES, WITH LOWER AMOUNTS OF PSD-95 WERE MORE VULNERABLE; SUGGESTING THAT ENDOGENOUS PSD-95 IS ALSO PROTECTIVE. THESE FINDINGS INDICATE THAT INCREASED SYNAPTIC PSD- 95 PROTECTS SYNAPSES FROM ASS. THE AMOUNT OF SYNAPTIC PSD-95 IS CONTROLLED BY A PROCESS CALLED ‘PALMITOYLATION’ WHICH MEDIATE THE INSERTION OF PSD-95 IN POST-SYNAPTIC MEMBRANES. THE SPECIFIC ENZYME RESPONSIBLE FOR PSD-95 DEPALMITOYLATION, WHICH REMOVES PSD-95 FROM SYNAPSES, WAS RECENTLY IDENTIFIED. THE KEY FOCUS OF THIS PROPOSAL IS THUS TO TEST THE POTENTIAL OF A NOVEL DRUG TARGET, PSD-95 DEPALMITOYLATING ENZYME, AS A NEW THERAPEUTIC AVENUE AGAINST ALZHEIMER’S. OUR PRELIMINARY IN VITRO AND IN VIVO RESULTS, USING A COMMERCIALLY AVAILABLE INHIBITOR OF THAT ENZYME (PALMOSTATIN B), ARE VERY PROMISING. IN VITRO EXPERIMENTS SHOWED THAT THIS DRUG COULD RESCUE ASS-INDUCED SYNAPTIC DEPRESSION AND ASS-MEDIATED EFFECTS ON DENDRITIC SPINES. WE PROPOSE TO STUDY PSD-95 PALMITOYLATION IN BRAIN REGIONS DIFFERENTLY AFFECTED IN THE DISEASE IN AD MODEL MICE (APP/PS1) AND POSTMORTEM HUMAN BRAIN SAMPLES. THESE EXPERIMENTS COULD EXPLAIN WHY CERTAIN BRAIN REGIONS (AND INDIVIDUALS) ARE MORE VULNERABLE TO AD. IN APP/PS1 MICE, PSD-95 PALMITOYLATION IN THE HIPPOCAMPUS WAS DRASTICALLY LOWER THAN IN WT LITTERMATES WHILE TOTAL PSD-95 LEVELS WERE BARELY AFFECTED. THIS SUGGESTS THAT LOSS OF PSD-95 PALMITOYLATION WOULD HAPPEN BEFORE REDUCTIONS IN PSD-95. IMPORTANTLY, PALMOSTATIN B INJECTIONS IN THE INTRAPERITONEAL CAVITY RESCUED THAT EFFECT IN A DOSE DEPENDENT MANNER, WHICH INDICATES THAT THIS DRUG CAN ACCESS BRAIN SYNAPSES IN VIVO. IN THIS PROJECT, WE WILL INVESTIGATE THE FUNCTIONAL CONSEQUENCES OF THAT RESCUE AND TEST IF DEFICITS OBSERVED IN THESE APP/PS1 MICE CAN BE AMELIORATED BY INCREASING SYNAPTIC PSD-95. WE EXPECT THAT INHIBITING PSD-95 DEPALMITOYLATION WILL IMPROVE PERFORMANCE IN BEHAVIORAL TESTS INVOLVING MEMORY AND RESCUE SYNAPTIC PHYSIOLOGY IMPAIRMENTS IN THESE AD MODEL MICE. OVERALL, THIS INNOVATIVE PROJECT WILL CHARACTERIZE PSD-95 TRAFFICKING IN DIFFERENT BRAIN REGIONS AND TEST IF PHARMACOLOGICAL BLOCKADE OF PSD-95 DEPALMITOYLATING ENZYME CAN RESCUE DEFICITS IN APP/PS1 MODEL MICE. FINALLY, INCREASING SYNAPTIC PSD-95 SHOULD MAKE VULNERABLE SYNAPSES STRONGER, WHICH WOULD BE BENEFICIAL FOR BOTH TREATING AND PREVENTING AD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "920930634",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-05-01",
+    "End Date": "2024-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_RF1AG067049_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91371728,
+    "generated_unique_award_id": "ASST_NON_RF1AG067049_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INCREASING SYNAPTIC PSD-95, A NEUROPROTECTION APPROACH AGAINST ALZHEIMER'S DISEASE - PROJECT SUMMARY/ABSTRACT THE FIRST CHANGE IN THE BRAINS OF ALZHEIMER’S PATIENTS AND THE BEST BIOMARKER OF THE DISEASE IS SYNAPTIC LOSS. SEVERAL STUDIES HAVE SHOWN THAT PSD-95 (A MAJOR SCAFFOLDING PROTEIN AT THE SYNAPSE) IS SIGNIFICANTLY DEPLETED IN BRAIN TISSUE OF ALZHEIMER’S PATIENTS AS WELL AS IN NEURONS EXPOSED TO AMYLOID BETA (ASS, A PEPTIDE THOUGHT TO CAUSE ALZHEIMER’S DISEASE (AD)). OUR DATA INDICATE THAT ELEVATED PSD-95 BLOCKS ASS-INDUCED SYNAPTIC DEPRESSION. SURPRISINGLY, THIS EFFECT APPEARS INDEPENDENT OF SYNAPTIC POTENTIATION, BUT TO INTERFERENCE BY PSD- 95 OF NMDA RECEPTOR SIGNALING. MOREOVER, WE OBSERVED THAT BIG DENDRITIC SPINES, CONTAINING A LOT OF PSD-95, WERE UNAFFECTED BY ASS AND THAT SMALLER SPINES, WITH LOWER AMOUNTS OF PSD-95 WERE MORE VULNERABLE; SUGGESTING THAT ENDOGENOUS PSD-95 IS ALSO PROTECTIVE. THESE FINDINGS INDICATE THAT INCREASED SYNAPTIC PSD- 95 PROTECTS SYNAPSES FROM ASS. THE AMOUNT OF SYNAPTIC PSD-95 IS CONTROLLED BY A PROCESS CALLED ‘PALMITOYLATION’ WHICH MEDIATE THE INSERTION OF PSD-95 IN POST-SYNAPTIC MEMBRANES. THE SPECIFIC ENZYME RESPONSIBLE FOR PSD-95 DEPALMITOYLATION, WHICH REMOVES PSD-95 FROM SYNAPSES, WAS RECENTLY IDENTIFIED. THE KEY FOCUS OF THIS PROPOSAL IS THUS TO TEST THE POTENTIAL OF A NOVEL DRUG TARGET, PSD-95 DEPALMITOYLATING ENZYME, AS A NEW THERAPEUTIC AVENUE AGAINST ALZHEIMER’S. OUR PRELIMINARY IN VITRO AND IN VIVO RESULTS, USING A COMMERCIALLY AVAILABLE INHIBITOR OF THAT ENZYME (PALMOSTATIN B), ARE VERY PROMISING. IN VITRO EXPERIMENTS SHOWED THAT THIS DRUG COULD RESCUE ASS-INDUCED SYNAPTIC DEPRESSION AND ASS-MEDIATED EFFECTS ON DENDRITIC SPINES. WE PROPOSE TO STUDY PSD-95 PALMITOYLATION IN BRAIN REGIONS DIFFERENTLY AFFECTED IN THE DISEASE IN AD MODEL MICE (APP/PS1) AND POSTMORTEM HUMAN BRAIN SAMPLES. THESE EXPERIMENTS COULD EXPLAIN WHY CERTAIN BRAIN REGIONS (AND INDIVIDUALS) ARE MORE VULNERABLE TO AD. IN APP/PS1 MICE, PSD-95 PALMITOYLATION IN THE HIPPOCAMPUS WAS DRASTICALLY LOWER THAN IN WT LITTERMATES WHILE TOTAL PSD-95 LEVELS WERE BARELY AFFECTED. THIS SUGGESTS THAT LOSS OF PSD-95 PALMITOYLATION WOULD HAPPEN BEFORE REDUCTIONS IN PSD-95. IMPORTANTLY, PALMOSTATIN B INJECTIONS IN THE INTRAPERITONEAL CAVITY RESCUED THAT EFFECT IN A DOSE DEPENDENT MANNER, WHICH INDICATES THAT THIS DRUG CAN ACCESS BRAIN SYNAPSES IN VIVO. IN THIS PROJECT, WE WILL INVESTIGATE THE FUNCTIONAL CONSEQUENCES OF THAT RESCUE AND TEST IF DEFICITS OBSERVED IN THESE APP/PS1 MICE CAN BE AMELIORATED BY INCREASING SYNAPTIC PSD-95. WE EXPECT THAT INHIBITING PSD-95 DEPALMITOYLATION WILL IMPROVE PERFORMANCE IN BEHAVIORAL TESTS INVOLVING MEMORY AND RESCUE SYNAPTIC PHYSIOLOGY IMPAIRMENTS IN THESE AD MODEL MICE. OVERALL, THIS INNOVATIVE PROJECT WILL CHARACTERIZE PSD-95 TRAFFICKING IN DIFFERENT BRAIN REGIONS AND TEST IF PHARMACOLOGICAL BLOCKADE OF PSD-95 DEPALMITOYLATING ENZYME CAN RESCUE DEFICITS IN APP/PS1 MODEL MICE. FINALLY, INCREASING SYNAPTIC PSD-95 SHOULD MAKE VULNERABLE SYNAPSES STRONGER, WHICH WOULD BE BENEFICIAL FOR BOTH TREATING AND PREVENTING AD.",
+    "total_obligation": 1404443,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-04-20",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1232626.07,
+    "total_account_obligation": 1404443,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1232626.07
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1404443
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2021-05-01",
+      "end_date": "2024-04-30",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0634",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1232626.07
+  }
+}

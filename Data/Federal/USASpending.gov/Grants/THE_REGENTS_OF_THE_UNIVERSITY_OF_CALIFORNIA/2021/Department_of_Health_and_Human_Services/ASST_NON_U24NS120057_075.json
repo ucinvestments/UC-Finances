@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92628095,
+    "Award ID": "U24NS120057",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 5871405,
+    "Total Outlays": 4970559.99,
+    "Description": "ADVANCING STANDARDIZATION OF NEUROPHYSIOLOGY DATA THROUGH DISSEMINATION OF NWB - PROJECT SUMMARY LACK OF STANDARDS FOR NEUROPHYSIOLOGY DATA AND RELATED METADATA IS THE SINGLE GREATEST IMPEDIMENT TO FULLY EXTRACTING RETURN ON INVESTMENT FROM NEUROPHYSIOLOGY EXPERIMENTS. ONE OF THE GREATEST QUESTIONS IN SCIENCE TODAY IS UNDERSTANDING HOW THE BRAIN WORKS AND GIVES RISE TO THOUGHTS, MEMORIES, PERCEPTION, AND CONSCIOUSNESS. TO ADDRESS THIS CHALLENGE, NEUROPHYSIOLOGISTS WITHIN THE NIH BRAIN INITIATIVE AND AROUND THE WORLD PERFORM EXPERIMENTS THAT MEASURE NEURONAL ACTIVITY FROM DIFFERENT PARTS OF THE BRAIN AND RELATE THAT ACTIVITY TO SENSATION AND BEHAVIOR. A KEY COMPONENT OF THE BRAIN INITIATIVE IS TO SUPPORT SHARING OF THESE RICH DATASETS AND EXTEND THEIR VALUE BY ENABLING REUSE OF DATA WITHIN AND ACROSS LABS. THE GOAL OF THIS PROPOSAL IS TO DISSEMINATE NEURODATA WITHOUT BORDERS (NWB) NEUROPHYSIOLOGY TECHNOLOGIES DEVELOPED AS PART OF THE NIH BRAIN INITIATIVE BROADLY TO THE NEUROSCIENCE RESEARCH COMMUNITY. NWB IS AN AWARD-WINNING, COMMUNITY-DRIVEN DATA STANDARD AND SOFTWARE ECOSYSTEM FOR NEUROPHYSIOLOGY. TO FACILITATE DATA SHARING AND REUSE, THE NWB FORMAT STANDARDIZES HOW NEUROPHYSIOLOGY DATA AND ASSOCIATED METADATA ARE STORED, AND THE NWB SOFTWARE ENABLES RESEARCHERS TO ACCESS AND SAVE DATA IN THE NWB FORMAT EASILY AND EFFICIENTLY. SEVERAL LEADING NEUROSCIENCE LABS AND INSTITUTIONS NOW PRODUCE DATA IN NWB; HOWEVER, A SUBSTANTIAL ENERGY BARRIER REMAINS FOR LABS TO STANDARDIZE THEIR DATA. TO LOWER THE BARRIER OF ADOPTING NWB, WE PROPOSE A MULTIFACETED PLAN TO MAKE NWB EASIER TO USE BY FOCUSING ON THE NEEDS OF 1) NEUROSCIENCE RESEARCHERS AND LABORATORIES BY ENHANCING USER TRAINING, SUPPORT, AND COVERAGE OF NEW TECHNOLOGIES AND 2) NEUROSCIENCE TOOLS AND TECHNOLOGIES BY MAINTAINING CORE NWB TECHNOLOGIES AND INTEGRATING WITH A WIDE ARRAY OF POWERFUL DATA TOOLS AND TECHNOLOGIES. WITH NWB DATA AS A TARGET, SCIENTISTS CAN ACCESS, MANAGE, AND SHARE DATA USING COMMON PROTOCOLS, WHILE DEVELOPERS HAVE A COMMON FORMAT ON TOP OF WHICH TO BUILD TOOLS. BY TARGETING THESE TWO AREAS SIMULTANEOUSLY, WE AIM TO REDUCE COST, TIME, AND EFFORT FOR ANALYSIS; IMPROVE QUALITY, RELIABILITY, AND ACCURACY OF RESULTS; AND ENABLE SCIENTISTS TO ACCESS NEW SCIENTIFIC CAPABILITIES. SUCCESSFUL COMPLETION OF THE PROPOSED WORK WILL ENABLE BROAD DISSEMINATION OF NWB TO NEUROSCIENCE LABS AND RESEARCHERS AND INTEGRATION OF NWB WITH NEUROSCIENCE TOOLS, PROVIDING THE RESEARCH COMMUNITY WITH AN ACCESSIBLE DATA STANDARD AND SOFTWARE ECOSYSTEM THAT ENHANCES UTILIZATION, SHARING, QUALITY, RELIABILITY, AND ANALYSIS OF NEUROPHYSIOLOGY DATA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "ENBLDJUN4N73",
+    "Recipient Location": {
+      "address_line1": "1 CYCLOTRON RD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "8099",
+      "zip5": "94720"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-04-01",
+    "End Date": "2026-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U24NS120057_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92628095,
+    "generated_unique_award_id": "ASST_NON_U24NS120057_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "ADVANCING STANDARDIZATION OF NEUROPHYSIOLOGY DATA THROUGH DISSEMINATION OF NWB - PROJECT SUMMARY LACK OF STANDARDS FOR NEUROPHYSIOLOGY DATA AND RELATED METADATA IS THE SINGLE GREATEST IMPEDIMENT TO FULLY EXTRACTING RETURN ON INVESTMENT FROM NEUROPHYSIOLOGY EXPERIMENTS. ONE OF THE GREATEST QUESTIONS IN SCIENCE TODAY IS UNDERSTANDING HOW THE BRAIN WORKS AND GIVES RISE TO THOUGHTS, MEMORIES, PERCEPTION, AND CONSCIOUSNESS. TO ADDRESS THIS CHALLENGE, NEUROPHYSIOLOGISTS WITHIN THE NIH BRAIN INITIATIVE AND AROUND THE WORLD PERFORM EXPERIMENTS THAT MEASURE NEURONAL ACTIVITY FROM DIFFERENT PARTS OF THE BRAIN AND RELATE THAT ACTIVITY TO SENSATION AND BEHAVIOR. A KEY COMPONENT OF THE BRAIN INITIATIVE IS TO SUPPORT SHARING OF THESE RICH DATASETS AND EXTEND THEIR VALUE BY ENABLING REUSE OF DATA WITHIN AND ACROSS LABS. THE GOAL OF THIS PROPOSAL IS TO DISSEMINATE NEURODATA WITHOUT BORDERS (NWB) NEUROPHYSIOLOGY TECHNOLOGIES DEVELOPED AS PART OF THE NIH BRAIN INITIATIVE BROADLY TO THE NEUROSCIENCE RESEARCH COMMUNITY. NWB IS AN AWARD-WINNING, COMMUNITY-DRIVEN DATA STANDARD AND SOFTWARE ECOSYSTEM FOR NEUROPHYSIOLOGY. TO FACILITATE DATA SHARING AND REUSE, THE NWB FORMAT STANDARDIZES HOW NEUROPHYSIOLOGY DATA AND ASSOCIATED METADATA ARE STORED, AND THE NWB SOFTWARE ENABLES RESEARCHERS TO ACCESS AND SAVE DATA IN THE NWB FORMAT EASILY AND EFFICIENTLY. SEVERAL LEADING NEUROSCIENCE LABS AND INSTITUTIONS NOW PRODUCE DATA IN NWB; HOWEVER, A SUBSTANTIAL ENERGY BARRIER REMAINS FOR LABS TO STANDARDIZE THEIR DATA. TO LOWER THE BARRIER OF ADOPTING NWB, WE PROPOSE A MULTIFACETED PLAN TO MAKE NWB EASIER TO USE BY FOCUSING ON THE NEEDS OF 1) NEUROSCIENCE RESEARCHERS AND LABORATORIES BY ENHANCING USER TRAINING, SUPPORT, AND COVERAGE OF NEW TECHNOLOGIES AND 2) NEUROSCIENCE TOOLS AND TECHNOLOGIES BY MAINTAINING CORE NWB TECHNOLOGIES AND INTEGRATING WITH A WIDE ARRAY OF POWERFUL DATA TOOLS AND TECHNOLOGIES. WITH NWB DATA AS A TARGET, SCIENTISTS CAN ACCESS, MANAGE, AND SHARE DATA USING COMMON PROTOCOLS, WHILE DEVELOPERS HAVE A COMMON FORMAT ON TOP OF WHICH TO BUILD TOOLS. BY TARGETING THESE TWO AREAS SIMULTANEOUSLY, WE AIM TO REDUCE COST, TIME, AND EFFORT FOR ANALYSIS; IMPROVE QUALITY, RELIABILITY, AND ACCURACY OF RESULTS; AND ENABLE SCIENTISTS TO ACCESS NEW SCIENTIFIC CAPABILITIES. SUCCESSFUL COMPLETION OF THE PROPOSED WORK WILL ENABLE BROAD DISSEMINATION OF NWB TO NEUROSCIENCE LABS AND RESEARCHERS AND INTEGRATION OF NWB WITH NEUROSCIENCE TOOLS, PROVIDING THE RESEARCH COMMUNITY WITH AN ACCESSIBLE DATA STANDARD AND SOFTWARE ECOSYSTEM THAT ENHANCES UTILIZATION, SHARING, QUALITY, RELIABILITY, AND ANALYSIS OF NEUROPHYSIOLOGY DATA.",
+    "total_obligation": 5871405,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-03-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 4970559.99,
+    "total_account_obligation": 5871405,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 4970559.99
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 5871405
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2021-04-01",
+      "end_date": "2026-02-28",
+      "last_modified_date": "2025-04-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "ENBLDJUN4N73",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1 CYCLOTRON RD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "8099",
+        "zip5": "94720",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 4970559.99
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56984462,
+    "Award ID": "2235566",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 849999,
+    "Total Outlays": 574873.38,
+    "Description": "MOLECULAR MECHANISMS OF CEREBELLAR ONTOGENY -THE MAMMALIAN BRAIN IS COMPOSED OF MILLIONS TO BILLIONS OF NEURONS THAT FORM SEVERAL BILLIONS OF INTRICATE CONNECTIONS TO REGULATE BODILY FUNCTIONS AND BEHAVIOR. GENERALLY, NEURONS ARE NOT BORN IN THEIR PROPER PLACE, BUT MUST TRAVEL (MIGRATE) LONG DISTANCES TO FIND THEIR FINAL DESTINATION BEFORE THEY CAN CARRY OUT THEIR ESSENTIAL FUNCTIONS. TO GET TO THEIR DESTINATION THEY NEED TO ADHERE TO THE PROPER ROAD (SUBSTRATE) WHILE BEING GUIDED BY EXTERNAL SIGNALS. ALONG THEIR WAY THEY WILL ALSO INTERACT WITH DIFFERENT PARTNERS, LIKE GLIAL CELLS, THAT AID IN THE PROCESS OF MIGRATION. THIS PROPOSAL IS AIMED AT UNDERSTANDING HOW NEURONS INTERACT WITH THEIR ENVIRONMENT TO CHOOSE THE PROPER ROAD AND FIND THEIR FINAL LOCATION FOCUSING ON THE DEVELOPMENT OF A BRAIN REGION CALLED THE CEREBELLUM, WHICH IS ESSENTIAL FOR MOVEMENT COORDINATION AND PRECISE MOVEMENT EXECUTION. THE EXPERIMENTAL PLAN INVOLVES PERFORMING GENETIC EXPERIMENTS USING THE MOUSE, AN EXTENSIVELY USED MAMMALIAN DEVELOPMENT MODEL, TO INVESTIGATE HOW A FAMILY OF PROTEINS WITH IMPORTANT ROLES IN CELL ADHESION (CAS FAMILY) PARTICIPATES IN THE ESTABLISHMENT OF CEREBELLAR CIRCUITS. THE PROPOSED STUDIES WILL COMBINE MOUSE GENETICS WITH NOVEL IMAGING TECHNIQUES TO ADDRESS HOW THESE PROTEINS HELP NEURONS AND GLIA INTERPRET EXTERNAL SIGNALS DURING NEURAL MIGRATION. IT IS ANTICIPATED THAT THE RESULTS FROM THESE EXPERIMENTS WILL PROVIDE UNIQUE INSIGHTS INTO NEURONAL CIRCUIT DEVELOPMENT AND THE ETIOLOGY OF CERTAIN NEURODEVELOPMENTAL DISORDERS. THE EDUCATIONAL AND OUTREACH PROGRAM WILL IMPROVE STEM-CAREER RECRUITMENT AND RETENTION BY PROMOTING EARLY EXPOSURE OF HIGH SCHOOL AND UNDERGRADUATE STUDENTS TO HANDS-ON RESEARCH IN NEURAL DEVELOPMENT. THE SIMPLE LAMINAR ARCHITECTURE AND LARGELY POSTNATAL DEVELOPMENT OF THE CEREBELLUM MAKE IT A HIGHLY TRACTABLE MODEL FOR UNDERSTANDING THE CELLULAR MECHANISMS THAT DIRECT NEURONAL MIGRATION AND LAMINATION. MIGRATION AND LAMINATION PROVIDE A FOUNDATION UPON WHICH FUNCTIONAL NEURAL CIRCUITS CAN BE ASSEMBLED. DURING THESE EARLY DEVELOPMENTAL EVENTS, NEURONS AND RADIAL GLIA ACTIVELY INTERACT WITH EACH OTHER AND THE EXTRACELLULAR MATRIX (ECM). THESE PROCESSES INVOLVE THE PRECISE AND TIMELY REGULATION OF ADHESION AND DETACHMENT OF NEURAL CELLS FROM THEIR SUBSTRATES. PRELIMINARY IN VIVO LOSS-OF-FUNCTION STUDIES IDENTIFY CRK-ASSOCIATED SUBSTRATE (CAS) ADAPTOR PROTEINS AS CENTRAL PLAYERS IN CEREBELLAR DEVELOPMENT: CAS GENE ABLATION RESULTS IN SEVERE LAMINATION PHENOTYPES. CAS PROTEINS ARE KNOWN TO ACT DOWNSTREAM OF ADHESION-SIGNALING, AND DIFFERENTIAL PHOSPHORYLATION OF CAS PROTEINS REGULATES INTEGRIN ADHESION COMPLEX (IAC) DYNAMICS. THUS, THE STUDY OF CAS PROTEIN FUNCTION PROVIDES A UNIQUE OPPORTUNITY TO UNDERSTAND HOW MODULATION OF THE ATTACHMENT OF CELLS TO THEIR SUBSTRATES PARTICIPATES IN CEREBELLAR CIRCUIT FORMATION. THE DRIVING HYPOTHESIS IS THAT CAS ADAPTOR PROTEINS PLAY ESSENTIAL ROLES DURING CEREBELLAR LAMINATION AND FOLIATION BY REGULATING IAC REMODELING. TASK 1 USES CAS TRIPLE CONDITIONAL KNOCKOUTS TO TEST THE ROLES OF CAS ADAPTOR PROTEINS DURING CEREBELLAR DEVELOPMENT. TASK 2 LEVERAGES THESE MOUSE MODELS TO INVESTIGATE WHETHER CAS GENES PARTICIPATE IN CEREBELLAR LAMINATION AND FOLIATION BY ACTING NEURONAL-AUTONOMOUSLY OR GLIAL-AUTONOMOUSLY. TASK 3 TESTS THE HYPOTHESIS THAT REGULATION OF CAS FUNCTION CONTROLS KEY STEPS IN CEREBELLAR ONTOGENY BY PARTICIPATING IN IAC DYNAMICS. THE EDUCATION PLAN WILL INTEGRATE THE PROPOSED EXPERIMENTS IN COURSEWORK AND HANDS-ON UNDERGRADUATE RESEARCH. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-9800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-04-15",
+    "End Date": "2028-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2235566_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56984462,
+    "generated_unique_award_id": "ASST_NON_2235566_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MOLECULAR MECHANISMS OF CEREBELLAR ONTOGENY -THE MAMMALIAN BRAIN IS COMPOSED OF MILLIONS TO BILLIONS OF NEURONS THAT FORM SEVERAL BILLIONS OF INTRICATE CONNECTIONS TO REGULATE BODILY FUNCTIONS AND BEHAVIOR. GENERALLY, NEURONS ARE NOT BORN IN THEIR PROPER PLACE, BUT MUST TRAVEL (MIGRATE) LONG DISTANCES TO FIND THEIR FINAL DESTINATION BEFORE THEY CAN CARRY OUT THEIR ESSENTIAL FUNCTIONS. TO GET TO THEIR DESTINATION THEY NEED TO ADHERE TO THE PROPER ROAD (SUBSTRATE) WHILE BEING GUIDED BY EXTERNAL SIGNALS. ALONG THEIR WAY THEY WILL ALSO INTERACT WITH DIFFERENT PARTNERS, LIKE GLIAL CELLS, THAT AID IN THE PROCESS OF MIGRATION. THIS PROPOSAL IS AIMED AT UNDERSTANDING HOW NEURONS INTERACT WITH THEIR ENVIRONMENT TO CHOOSE THE PROPER ROAD AND FIND THEIR FINAL LOCATION FOCUSING ON THE DEVELOPMENT OF A BRAIN REGION CALLED THE CEREBELLUM, WHICH IS ESSENTIAL FOR MOVEMENT COORDINATION AND PRECISE MOVEMENT EXECUTION. THE EXPERIMENTAL PLAN INVOLVES PERFORMING GENETIC EXPERIMENTS USING THE MOUSE, AN EXTENSIVELY USED MAMMALIAN DEVELOPMENT MODEL, TO INVESTIGATE HOW A FAMILY OF PROTEINS WITH IMPORTANT ROLES IN CELL ADHESION (CAS FAMILY) PARTICIPATES IN THE ESTABLISHMENT OF CEREBELLAR CIRCUITS. THE PROPOSED STUDIES WILL COMBINE MOUSE GENETICS WITH NOVEL IMAGING TECHNIQUES TO ADDRESS HOW THESE PROTEINS HELP NEURONS AND GLIA INTERPRET EXTERNAL SIGNALS DURING NEURAL MIGRATION. IT IS ANTICIPATED THAT THE RESULTS FROM THESE EXPERIMENTS WILL PROVIDE UNIQUE INSIGHTS INTO NEURONAL CIRCUIT DEVELOPMENT AND THE ETIOLOGY OF CERTAIN NEURODEVELOPMENTAL DISORDERS. THE EDUCATIONAL AND OUTREACH PROGRAM WILL IMPROVE STEM-CAREER RECRUITMENT AND RETENTION BY PROMOTING EARLY EXPOSURE OF HIGH SCHOOL AND UNDERGRADUATE STUDENTS TO HANDS-ON RESEARCH IN NEURAL DEVELOPMENT. THE SIMPLE LAMINAR ARCHITECTURE AND LARGELY POSTNATAL DEVELOPMENT OF THE CEREBELLUM MAKE IT A HIGHLY TRACTABLE MODEL FOR UNDERSTANDING THE CELLULAR MECHANISMS THAT DIRECT NEURONAL MIGRATION AND LAMINATION. MIGRATION AND LAMINATION PROVIDE A FOUNDATION UPON WHICH FUNCTIONAL NEURAL CIRCUITS CAN BE ASSEMBLED. DURING THESE EARLY DEVELOPMENTAL EVENTS, NEURONS AND RADIAL GLIA ACTIVELY INTERACT WITH EACH OTHER AND THE EXTRACELLULAR MATRIX (ECM). THESE PROCESSES INVOLVE THE PRECISE AND TIMELY REGULATION OF ADHESION AND DETACHMENT OF NEURAL CELLS FROM THEIR SUBSTRATES. PRELIMINARY IN VIVO LOSS-OF-FUNCTION STUDIES IDENTIFY CRK-ASSOCIATED SUBSTRATE (CAS) ADAPTOR PROTEINS AS CENTRAL PLAYERS IN CEREBELLAR DEVELOPMENT: CAS GENE ABLATION RESULTS IN SEVERE LAMINATION PHENOTYPES. CAS PROTEINS ARE KNOWN TO ACT DOWNSTREAM OF ADHESION-SIGNALING, AND DIFFERENTIAL PHOSPHORYLATION OF CAS PROTEINS REGULATES INTEGRIN ADHESION COMPLEX (IAC) DYNAMICS. THUS, THE STUDY OF CAS PROTEIN FUNCTION PROVIDES A UNIQUE OPPORTUNITY TO UNDERSTAND HOW MODULATION OF THE ATTACHMENT OF CELLS TO THEIR SUBSTRATES PARTICIPATES IN CEREBELLAR CIRCUIT FORMATION. THE DRIVING HYPOTHESIS IS THAT CAS ADAPTOR PROTEINS PLAY ESSENTIAL ROLES DURING CEREBELLAR LAMINATION AND FOLIATION BY REGULATING IAC REMODELING. TASK 1 USES CAS TRIPLE CONDITIONAL KNOCKOUTS TO TEST THE ROLES OF CAS ADAPTOR PROTEINS DURING CEREBELLAR DEVELOPMENT. TASK 2 LEVERAGES THESE MOUSE MODELS TO INVESTIGATE WHETHER CAS GENES PARTICIPATE IN CEREBELLAR LAMINATION AND FOLIATION BY ACTING NEURONAL-AUTONOMOUSLY OR GLIAL-AUTONOMOUSLY. TASK 3 TESTS THE HYPOTHESIS THAT REGULATION OF CAS FUNCTION CONTROLS KEY STEPS IN CEREBELLAR ONTOGENY BY PARTICIPATING IN IAC DYNAMICS. THE EDUCATION PLAN WILL INTEGRATE THE PROPOSED EXPERIMENTS IN COURSEWORK AND HANDS-ON UNDERGRADUATE RESEARCH. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 849999,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-04-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 574873.38,
+    "total_account_obligation": 849999,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 574873.38
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 849999
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "EMERGING FRONTIERS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "period_of_performance": {
+      "start_date": "2023-04-15",
+      "end_date": "2028-03-31",
+      "last_modified_date": "2025-09-10",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 574873.38
+  }
+}

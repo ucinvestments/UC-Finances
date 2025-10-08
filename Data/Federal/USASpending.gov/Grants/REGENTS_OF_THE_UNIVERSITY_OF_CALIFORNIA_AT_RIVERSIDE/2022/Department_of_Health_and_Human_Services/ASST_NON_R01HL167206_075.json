@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91218656,
+    "Award ID": "R01HL167206",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 2135638,
+    "Total Outlays": 1274977.35,
+    "Description": "ROLE OF PXR IN DRUG-ELICITED CARDIOVASCULAR DISEASE - PROJECT SUMMARY ANTIPSYCHOTIC THERAPY IS WIDELY USED IN THE TREATMENT OF PSYCHIATRIC CONDITIONS INCLUDING BIPOLAR DISORDER, SCHIZOPHRENIA, AND MAJOR DEPRESSIVE DISORDER. THESE CONDITIONS, WHICH TOGETHER AFFECT MORE THAN 20% OF THE POPULATION, USUALLY REQUIRE LIFELONG MEDICATION. ATYPICAL ANTIPSYCHOTICS HAVE SUPERIOR THERAPEUTIC ACTION AND REDUCED ADVERSE EFFECTS AS COMPARED WITH TYPICAL ANTIPSYCHOTICS, BUT THE USE OF ATYPICAL ANTIPSYCHOTICS IS ALSO ASSOCIATED WITH DYSLIPIDEMIA AND AN INCREASED RISK OF CARDIOVASCULAR DISEASE (CVD) IN PATIENTS. THE UNDERLYING MECHANISMS RESPONSIBLE FOR THESE ADVERSE EFFECTS REMAIN LARGELY UNKNOWN, WHICH POSES SERIOUS HEALTH CHALLENGES TO PATIENTS UNDERGOING LONG-TERM ANTIPSYCHOTIC TREATMENT. TO THIS END, WE RECENTLY IDENTIFIED SEVERAL ATYPICAL ANTIPSYCHOTICS INCLUDING QUETIAPINE THAT PROMOTE DYSLIPIDEMIA, AS POTENT AGONISTS FOR THE NUCLEAR RECEPTOR PREGNANE X RECEPTOR (PXR). OUR PREVIOUS WORK REVEALED NOVEL AND UNSUSPECTED ROLES OF PXR IN LIPID HOMEOSTASIS AND ATHEROGENESIS, AND SHOWED THAT PXR LIGANDS INCREASE DYSLIPIDEMIA AND ATHEROSCLEROSIS IN ATHEROGENIC MOUSE MODELS INCLUDING PXR-HUMANIZED MICE. GIVEN INTESTINE AND LYMPHATIC SYSTEMS ARE ESSENTIAL FOR DIETARY LIPID ABSORPTION AND TRANSPORT, OUR LATEST PRELIMINARY STUDY USING NOVEL TISSUE-SPECIFIC PXR KNOCKOUT MOUSE MODELS DEMONSTRATED THAT EXPOSURE TO QUETIAPINE FAILS TO CAUSE HYPERLIPIDEMIA IN INTESTINE- SPECIFIC PXR KNOCKOUT MICE. HOW PXR SIGNALING IN ENTEROCYTES REGULATES THE INTESTINAL LIPID METABOLISM IS AN OPEN AND HIGHLY CLINICALLY RELEVANT QUESTION. FURTHERMORE, OUR PILOT STUDY REVEALED THAT ABLATION OF PXR BLUNTS VEGF RECEPTOR 3 SIGNALING IN LYMPHATIC ENDOTHELIAL CELLS AND REDUCES LYMPHATIC BUTTON JUNCTION FORMATION IN LACTEALS OF PXR-DEFICIENT MICE. IT IS COMPLETELY UNKNOW HOW LYMPHATIC PXR REGULATES LIPID ABSORPTION AND TRANSPORT BY GUT LYMPHATIC VESSELS. TO UNVEIL THE AFOREMENTIONED CENTRAL MYSTERY AND TO STUDY THE ACTION MODE OF PXR IN MEDIATING ANTIPSYCHOTIC-ELICITED ADVERSE EFFECTS ON LIPID HOMEOSTASIS AND ATHEROSCLEROSIS, WE PROPOSE THE FOLLOWING SPECIFIC AIMS TO DETERMINE THE MOLECULAR MECHANISMS OF THE ATHEROGENIC EFFECTS OF ATYPICAL ANTIPSYCHOTICS: 1) DEFINE THE ENTEROCYTE SIGNALING THROUGH WHICH PXR-ACTIVATING ANTIPSYCHOTICS REGULATE LIPID HOMEOSTASIS AND ATHEROSCLEROSIS; 2) DETERMINE THE MOLECULAR MECHANISMS UNDERLYING PXR- REGULATED LYMPHATIC LIPID ABSORPTION AND TRANSPORT IN ATHEROSCLEROSIS; AND 3) INVESTIGATE THE THERAPEUTIC POTENTIAL OF A NATURALLY OCCURRING PXR ANTAGONIST IN PREVENTING ANTIPSYCHOTIC-INDUCED DYSLIPIDEMIA AND ATHEROSCLEROSIS. SUCCESSFUL COMPLETION OF THE PROPOSED WORK WILL FILL IN THE VOID IN UNCOVERING NOVEL MOLECULAR MECHANISMS UNDERLYING ANTIPSYCHOTIC THERAPY-ASSOCIATED CVD RISK. OUR FINDINGS MAY ALSO INAUGURATE NEW CLASS OF THERAPEUTIC STRATEGIES TO TREAT DYSLIPIDEMIA IN PATIENTS UNDERGOING LONG-TERM ANTIPSYCHOTIC THERAPY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-12-15",
+    "End Date": "2026-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01HL167206_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91218656,
+    "generated_unique_award_id": "ASST_NON_R01HL167206_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ROLE OF PXR IN DRUG-ELICITED CARDIOVASCULAR DISEASE - PROJECT SUMMARY ANTIPSYCHOTIC THERAPY IS WIDELY USED IN THE TREATMENT OF PSYCHIATRIC CONDITIONS INCLUDING BIPOLAR DISORDER, SCHIZOPHRENIA, AND MAJOR DEPRESSIVE DISORDER. THESE CONDITIONS, WHICH TOGETHER AFFECT MORE THAN 20% OF THE POPULATION, USUALLY REQUIRE LIFELONG MEDICATION. ATYPICAL ANTIPSYCHOTICS HAVE SUPERIOR THERAPEUTIC ACTION AND REDUCED ADVERSE EFFECTS AS COMPARED WITH TYPICAL ANTIPSYCHOTICS, BUT THE USE OF ATYPICAL ANTIPSYCHOTICS IS ALSO ASSOCIATED WITH DYSLIPIDEMIA AND AN INCREASED RISK OF CARDIOVASCULAR DISEASE (CVD) IN PATIENTS. THE UNDERLYING MECHANISMS RESPONSIBLE FOR THESE ADVERSE EFFECTS REMAIN LARGELY UNKNOWN, WHICH POSES SERIOUS HEALTH CHALLENGES TO PATIENTS UNDERGOING LONG-TERM ANTIPSYCHOTIC TREATMENT. TO THIS END, WE RECENTLY IDENTIFIED SEVERAL ATYPICAL ANTIPSYCHOTICS INCLUDING QUETIAPINE THAT PROMOTE DYSLIPIDEMIA, AS POTENT AGONISTS FOR THE NUCLEAR RECEPTOR PREGNANE X RECEPTOR (PXR). OUR PREVIOUS WORK REVEALED NOVEL AND UNSUSPECTED ROLES OF PXR IN LIPID HOMEOSTASIS AND ATHEROGENESIS, AND SHOWED THAT PXR LIGANDS INCREASE DYSLIPIDEMIA AND ATHEROSCLEROSIS IN ATHEROGENIC MOUSE MODELS INCLUDING PXR-HUMANIZED MICE. GIVEN INTESTINE AND LYMPHATIC SYSTEMS ARE ESSENTIAL FOR DIETARY LIPID ABSORPTION AND TRANSPORT, OUR LATEST PRELIMINARY STUDY USING NOVEL TISSUE-SPECIFIC PXR KNOCKOUT MOUSE MODELS DEMONSTRATED THAT EXPOSURE TO QUETIAPINE FAILS TO CAUSE HYPERLIPIDEMIA IN INTESTINE- SPECIFIC PXR KNOCKOUT MICE. HOW PXR SIGNALING IN ENTEROCYTES REGULATES THE INTESTINAL LIPID METABOLISM IS AN OPEN AND HIGHLY CLINICALLY RELEVANT QUESTION. FURTHERMORE, OUR PILOT STUDY REVEALED THAT ABLATION OF PXR BLUNTS VEGF RECEPTOR 3 SIGNALING IN LYMPHATIC ENDOTHELIAL CELLS AND REDUCES LYMPHATIC BUTTON JUNCTION FORMATION IN LACTEALS OF PXR-DEFICIENT MICE. IT IS COMPLETELY UNKNOW HOW LYMPHATIC PXR REGULATES LIPID ABSORPTION AND TRANSPORT BY GUT LYMPHATIC VESSELS. TO UNVEIL THE AFOREMENTIONED CENTRAL MYSTERY AND TO STUDY THE ACTION MODE OF PXR IN MEDIATING ANTIPSYCHOTIC-ELICITED ADVERSE EFFECTS ON LIPID HOMEOSTASIS AND ATHEROSCLEROSIS, WE PROPOSE THE FOLLOWING SPECIFIC AIMS TO DETERMINE THE MOLECULAR MECHANISMS OF THE ATHEROGENIC EFFECTS OF ATYPICAL ANTIPSYCHOTICS: 1) DEFINE THE ENTEROCYTE SIGNALING THROUGH WHICH PXR-ACTIVATING ANTIPSYCHOTICS REGULATE LIPID HOMEOSTASIS AND ATHEROSCLEROSIS; 2) DETERMINE THE MOLECULAR MECHANISMS UNDERLYING PXR- REGULATED LYMPHATIC LIPID ABSORPTION AND TRANSPORT IN ATHEROSCLEROSIS; AND 3) INVESTIGATE THE THERAPEUTIC POTENTIAL OF A NATURALLY OCCURRING PXR ANTAGONIST IN PREVENTING ANTIPSYCHOTIC-INDUCED DYSLIPIDEMIA AND ATHEROSCLEROSIS. SUCCESSFUL COMPLETION OF THE PROPOSED WORK WILL FILL IN THE VOID IN UNCOVERING NOVEL MOLECULAR MECHANISMS UNDERLYING ANTIPSYCHOTIC THERAPY-ASSOCIATED CVD RISK. OUR FINDINGS MAY ALSO INAUGURATE NEW CLASS OF THERAPEUTIC STRATEGIES TO TREAT DYSLIPIDEMIA IN PATIENTS UNDERGOING LONG-TERM ANTIPSYCHOTIC THERAPY.",
+    "total_obligation": 2135638,
+    "subaward_count": 3,
+    "total_subaward_amount": 1210680,
+    "date_signed": "2022-12-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1274977.35,
+    "total_account_obligation": 2135638,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1274977.35
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2135638
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Heart, Lung, and Blood Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2022-12-15",
+      "end_date": "2026-11-30",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1274977.35
+  }
+}

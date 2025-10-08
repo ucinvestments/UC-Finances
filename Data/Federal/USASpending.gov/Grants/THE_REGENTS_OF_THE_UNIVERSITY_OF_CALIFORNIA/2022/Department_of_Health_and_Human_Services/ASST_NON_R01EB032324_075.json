@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91180018,
+    "Award ID": "R01EB032324",
+    "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 3728080,
+    "Total Outlays": 1829641.44,
+    "Description": "A HIGH SENSITIVITY GAMMA CAMERA USING A COMBINATION OF COMPTON RECONSTRUCTION AND SOURCE PROXIMITY FOR IN-VIVO IMAGING OF AC-225 - PROJECT SUMMARY (ABSTRACT) WE PROPOSE TO BUILD A NOVEL GAMMA IMAGING DEVICE BASED ON THE COMBINATION OF COMPTON AND PROXIMITY RECONSTRUCTIONS IN ORDER TO ACHIEVE UNPRECEDENTED SENSITIVITIES THAT WILL ENABLE IN VIVO IMAGING OF BIODISTRIBUTIONS OF 225AC, A PROMISING TARGETED ALPHA THERAPY (TAT) ISOTOPE. TAT HAS DEMONSTRATED A REMARKABLE EFFICACY AND SPECIFICITY FOR CANCER RADIOTHERAPY. THIS IS DUE TO THE HIGH LINEAR ENERGY TRANSFER AND THE SHORT FREE PATH OF ALPHA PARTICLES THAT RESULT IN A HIGHER AND MORE LOCALIZED ENERGY DEPOSITION THAN THAT OF BETA PARTICLES. 225AC IS A VERY PROMISING ALPHA-EMITTER THAT HAS SUCCESSFULLY SHOWN EXCELLENT RESULTS ON THE TREATMENT OF A NUMBER OF MALIGNANCIES, NAMELY, METASTATIC CASTRATION-RESISTANT PROSTATE CANCER, PANCREATIC CANCER AND ACUTE MYELOID LEUKEMIA. A KEY ASPECT OF TAT IS THE TARGETING RADIOPHARMACEUTICAL THAT TRANSPORTS THE 225AC TO THE CARCINOGENIC CELLS, PREVENTING FREE ISOTOPES FROM DELIVERING A HIGHLY TOXIC RADIOACTIVE DOSE TO HEALTHY TISSUE. HOWEVER, DEVELOPMENT OF NOVEL RADIOPHARMACEUTICALS IS CURRENTLY LIMITED BY THE INABILITY OF COMMERCIAL IMAGING SYSTEMS TO DETECT 225AC IN VIVO. AS A RESULT, THEIR PHARMACOKINETICS CANNOT BE FULLY UNDERSTOOD IN CLINICAL APPLICATIONS, DELAYING THEIR FDA APPROVAL AND HINDERING THE WIDE ADOPTION OF TAT. 225AC AND ITS DAUGHTERS CAN BE IMAGED THROUGH THE DETECTION OF THE GAMMA RAYS EMITTED IN THEIR DECAY CHAIN, BUT THE MAIN CHALLENGE OF THIS TECHNIQUE (AND THE REASON WHY CURRENT GAMMA RAY IMAGING SYSTEMS ARE NOT SUITABLE FOR THIS TASK) IS THAT THE GAMMA RAY EMISSION ACTIVITY IS EXTREMELY LOW DUE TO THE VERY SMALL DOSES INJECTED IN HUMAN PATIENTS (0.1MBQ/KG) AND IN PRECLINICAL STUDIES (1MBQ/KG IN MICE) TO PREVENT A MORBID TOXICITY. IN THIS SCENARIO, AN APPARATUS WITH A HIGH GAMMA RAY DETECTION SENSITIVITY IS NECESSARY IN ORDER TO PROVIDE IMAGES WITH EXPOSURES NO LONGER THAN A FEW MINUTES. WE PLAN TO ACHIEVE THIS UNPRECEDENTED SENSITIVITY BY DESIGNING A DEDICATED GAMMA CAMERA THAT INTEGRATES COMPTON AND PROXIMITY IMAGING IN A MULTI-MODALITY SYSTEM. THESE TECHNIQUES HAVE BEEN SUCCESSFULLY IN MEDICAL IMAGING APPLICATIONS, BUT THEY HAVE NEVER BEEN COMBINED IN THE SAME DEVICE IN ORDER TO IMPROVE SENSITIVITY AND IMAGE QUALITY AT THE SAME TIME. TO ACHIEVE THIS GOAL, WE PROPOSE TO QUANTITATIVELY IMAGE AC-225 IN VIVO THE FIRST TIME WITH A CADMIUM ZINC TELLURIDE DUAL-HEAD CAMERA THAT ENABLES BOTH COMPTON AND PROXIMITY IMAGING. TO REACH THIS GOAL WE PLAN TO 1) ASSEMBLE COMPTON AND PROXIMITY GAMMA CAMERA; 2) DEVELOP A MULTI- MODALITY RECONSTRUCTION ALGORITHM FOR COMPTON AND PROXIMITY IMAGING; 3) DEMONSTRATE IN VIVO IMAGING OF 225AC WITH THE FINAL PROTOTYPE AND PERFORM FIRST IN VIVO PHARMACOKINETICS STUDY OF TWO 225AC RADIOPHARMACEUTICALS, PROVIDING A PROOF OF PRINCIPLE IN PRE-CLINICAL CONDITIONS USING PHANTOMS AND MICE. THE OUTCOME FROM THIS PROJECT WILL BE A PROTOTYPE GAMMA CAMERA ABLE TO IMAGE DISTRIBUTIONS OF 225AC TAT RADIOPHARMACEUTICALS IN-VIVO (AND POTENTIALLY OTHER TAT ISOTOPES), AND THUS, ENABLING THE COMPLETE STUDY OF THEIR PHARMACOKINETICS TO ACCELERATE THEIR DEVELOPMENT. WITH OUR SYSTEM, WE EXPECT TO INCREASE THE UNDERSTANDING AND CONFIDENCE IN TAT.",
+    "Contract Award Type": "",
+    "Recipient UEI": "ENBLDJUN4N73",
+    "Recipient Location": {
+      "address_line1": "1 CYCLOTRON RD",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "8099",
+      "zip5": "94720"
+    },
+    "Primary Place of Performance": {
+      "city_name": "BERKELEY",
+      "congressional_code": "12",
+      "country_name": "UNITED STATES",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "947208099",
+      "zip5": "94720"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-30",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01EB032324_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91180018,
+    "generated_unique_award_id": "ASST_NON_R01EB032324_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A HIGH SENSITIVITY GAMMA CAMERA USING A COMBINATION OF COMPTON RECONSTRUCTION AND SOURCE PROXIMITY FOR IN-VIVO IMAGING OF AC-225 - PROJECT SUMMARY (ABSTRACT) WE PROPOSE TO BUILD A NOVEL GAMMA IMAGING DEVICE BASED ON THE COMBINATION OF COMPTON AND PROXIMITY RECONSTRUCTIONS IN ORDER TO ACHIEVE UNPRECEDENTED SENSITIVITIES THAT WILL ENABLE IN VIVO IMAGING OF BIODISTRIBUTIONS OF 225AC, A PROMISING TARGETED ALPHA THERAPY (TAT) ISOTOPE. TAT HAS DEMONSTRATED A REMARKABLE EFFICACY AND SPECIFICITY FOR CANCER RADIOTHERAPY. THIS IS DUE TO THE HIGH LINEAR ENERGY TRANSFER AND THE SHORT FREE PATH OF ALPHA PARTICLES THAT RESULT IN A HIGHER AND MORE LOCALIZED ENERGY DEPOSITION THAN THAT OF BETA PARTICLES. 225AC IS A VERY PROMISING ALPHA-EMITTER THAT HAS SUCCESSFULLY SHOWN EXCELLENT RESULTS ON THE TREATMENT OF A NUMBER OF MALIGNANCIES, NAMELY, METASTATIC CASTRATION-RESISTANT PROSTATE CANCER, PANCREATIC CANCER AND ACUTE MYELOID LEUKEMIA. A KEY ASPECT OF TAT IS THE TARGETING RADIOPHARMACEUTICAL THAT TRANSPORTS THE 225AC TO THE CARCINOGENIC CELLS, PREVENTING FREE ISOTOPES FROM DELIVERING A HIGHLY TOXIC RADIOACTIVE DOSE TO HEALTHY TISSUE. HOWEVER, DEVELOPMENT OF NOVEL RADIOPHARMACEUTICALS IS CURRENTLY LIMITED BY THE INABILITY OF COMMERCIAL IMAGING SYSTEMS TO DETECT 225AC IN VIVO. AS A RESULT, THEIR PHARMACOKINETICS CANNOT BE FULLY UNDERSTOOD IN CLINICAL APPLICATIONS, DELAYING THEIR FDA APPROVAL AND HINDERING THE WIDE ADOPTION OF TAT. 225AC AND ITS DAUGHTERS CAN BE IMAGED THROUGH THE DETECTION OF THE GAMMA RAYS EMITTED IN THEIR DECAY CHAIN, BUT THE MAIN CHALLENGE OF THIS TECHNIQUE (AND THE REASON WHY CURRENT GAMMA RAY IMAGING SYSTEMS ARE NOT SUITABLE FOR THIS TASK) IS THAT THE GAMMA RAY EMISSION ACTIVITY IS EXTREMELY LOW DUE TO THE VERY SMALL DOSES INJECTED IN HUMAN PATIENTS (0.1MBQ/KG) AND IN PRECLINICAL STUDIES (1MBQ/KG IN MICE) TO PREVENT A MORBID TOXICITY. IN THIS SCENARIO, AN APPARATUS WITH A HIGH GAMMA RAY DETECTION SENSITIVITY IS NECESSARY IN ORDER TO PROVIDE IMAGES WITH EXPOSURES NO LONGER THAN A FEW MINUTES. WE PLAN TO ACHIEVE THIS UNPRECEDENTED SENSITIVITY BY DESIGNING A DEDICATED GAMMA CAMERA THAT INTEGRATES COMPTON AND PROXIMITY IMAGING IN A MULTI-MODALITY SYSTEM. THESE TECHNIQUES HAVE BEEN SUCCESSFULLY IN MEDICAL IMAGING APPLICATIONS, BUT THEY HAVE NEVER BEEN COMBINED IN THE SAME DEVICE IN ORDER TO IMPROVE SENSITIVITY AND IMAGE QUALITY AT THE SAME TIME. TO ACHIEVE THIS GOAL, WE PROPOSE TO QUANTITATIVELY IMAGE AC-225 IN VIVO THE FIRST TIME WITH A CADMIUM ZINC TELLURIDE DUAL-HEAD CAMERA THAT ENABLES BOTH COMPTON AND PROXIMITY IMAGING. TO REACH THIS GOAL WE PLAN TO 1) ASSEMBLE COMPTON AND PROXIMITY GAMMA CAMERA; 2) DEVELOP A MULTI- MODALITY RECONSTRUCTION ALGORITHM FOR COMPTON AND PROXIMITY IMAGING; 3) DEMONSTRATE IN VIVO IMAGING OF 225AC WITH THE FINAL PROTOTYPE AND PERFORM FIRST IN VIVO PHARMACOKINETICS STUDY OF TWO 225AC RADIOPHARMACEUTICALS, PROVIDING A PROOF OF PRINCIPLE IN PRE-CLINICAL CONDITIONS USING PHANTOMS AND MICE. THE OUTCOME FROM THIS PROJECT WILL BE A PROTOTYPE GAMMA CAMERA ABLE TO IMAGE DISTRIBUTIONS OF 225AC TAT RADIOPHARMACEUTICALS IN-VIVO (AND POTENTIALLY OTHER TAT ISOTOPES), AND THUS, ENABLING THE COMPLETE STUDY OF THEIR PHARMACOKINETICS TO ACCELERATE THEIR DEVELOPMENT. WITH OUR SYSTEM, WE EXPECT TO INCREASE THE UNDERSTANDING AND CONFIDENCE IN TAT.",
+    "total_obligation": 3728080,
+    "subaward_count": 1,
+    "total_subaward_amount": 512924,
+    "date_signed": "2022-09-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1829641.44,
+    "total_account_obligation": 3728080,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1829641.44
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3728080
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Biomedical Imaging and Bioengineering"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-30",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "75fc71be-d3ca-f8b5-c3ab-2e7614f71459-R",
+      "recipient_name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "ENBLDJUN4N73",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "BERKELEY",
+        "county_code": "001",
+        "county_name": "ALAMEDA",
+        "address_line1": "1 CYCLOTRON RD",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "12",
+        "zip4": "8099",
+        "zip5": "94720",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "BERKELEY",
+      "county_code": "001",
+      "county_name": "ALAMEDA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "12",
+      "zip4": "8099",
+      "zip5": "94720",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1829641.44
+  }
+}

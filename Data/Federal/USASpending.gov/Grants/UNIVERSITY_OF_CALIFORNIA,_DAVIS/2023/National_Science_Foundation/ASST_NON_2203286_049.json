@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56800451,
+    "Award ID": "2203286",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 796385,
+    "Total Outlays": 404193.12,
+    "Description": "PATTERN-TRIGGERED IMMUNITY IN PLANT-NEMATODE INTERACTION -PLANT PARASITIC NEMATODES ARE AMONG THE MOST DESTRUCTIVE PLANT PATHOGENS, CAUSING AN ESTIMATED $8 BILLION ANNUAL LOSSES TO U. S. GROWERS AND NEARLY $78 BILLION GLOBALLY. PLANTS USE THEIR INNATE IMMUNE SYSTEM TO RESIST INFECTION BY VARIOUS CLASSES OF PATHOGENS. THIS PROJECT WILL ADVANCE OUR UNDERSTANDING OF HOW PLANTS RECOGNIZE AND RESPOND TO NEMATODE INFECTION. SPECIFICALLY, THE RESEARCHERS WILL IDENTIFY NEMATODE-DERIVED MOLECULES WHOSE PERCEPTION ACTIVATES PLANT INNATE IMMUNITY. BECAUSE INNATE IMMUNE SYSTEMS OF PLANTS AND ANIMALS SHARE REMARKABLE SIMILARITY IN STRUCTURAL COMPONENTS AND ACTIVATION MECHANISMS, SUCCESSFUL COMPLETION OF THIS PROJECT WILL ENHANCE OUR UNDERSTANDING OF INNATE IMMUNITY IN A BROAD RANGE OF ORGANISMS. THIS PROJECT ALSO INVOLVES MENTORING OF HIGH SCHOOL AND UNDERGRADUATE STUDENTS IN THE RESEARCH PROCESS, AND USE OF CUTTING-EDGE MOLECULAR BIOLOGY TOOLS. A DISPLAY FOCUSING ON THEMES SUCH AS PLANT DAMAGE CAUSED BY NEMATODES WILL BE CREATED IN THE BOHART MUSEUM OF ENTOMOLOGY, DAVIS. THE RESEARCH WILL STRENGTHEN THE BIOECONOMY BY LAYING THE GROUNDWORK NEEDED FOR THE DEVELOPMENT OF NEMATODE CONTROLS IN AGRICULTURAL SYSTEMS. PLANT PARASITIC NEMATODES ARE HIGHLY EVOLVED OBLIGATE PARASITES THAT THREATEN GLOBAL FOOD SECURITY. THESE NEMATODES HAVE A REMARKABLE ABILITY TO MODIFY HOST CELLS THAT SERVE AS THEIR ONLY SOURCE OF NUTRIENTS THROUGHOUT THEIR LIFE CYCLE. PLANTS HAVE EVOLVED AN INNATE IMMUNE SYSTEM COMPRISING GERMLINE-ENCODED IMMUNE RECEPTORS CAPABLE OF RECOGNIZING VARIOUS CLASSES OF PATHOGENS. PLANT IMMUNE RECEPTORS ARE STRUCTURALLY SIMILAR TO THEIR ANIMAL COUNTERPARTS AND INCLUDE MEMBRANE-LOCATED PATHOGEN-RECOGNITION RECEPTORS (PRRS) AS WELL AS INTRACELLULAR NUCLEOTIDE-BINDING DOMAIN LEUCINE-RICH REPEAT (NLR) RECEPTORS. PRRS RECOGNIZE PATHOGEN-ASSOCIATED MOLECULAR PATTERNS (PAMPS) AND ACTIVATE PATTERN-TRIGGERED IMMUNITY (PTI), THE PLANT?S FIRST LINE OF INDUCIBLE DEFENSE. EXTENSIVE STUDIES OVER THE PAST TWO DECADES HAVE IDENTIFIED NUMEROUS PAMPS THAT BIND PRRS TO ACTIVATE PTI, PROVIDING PROTECTION AGAINST INFECTION IN A WIDE RANGE OF PLANTS. HOWEVER, THE MECHANISMS THAT UNDERLIE THE ACTIVATION OF PTI IN PLANT?NEMATODE INTERACTIONS REMAIN UNCLEAR. BUILDING ON OUR PRELIMINARY RESULTS, THIS PROJECT AIMS TO IDENTIFY AND CHARACTERIZE NEMATODE-DERIVED PAMPS WHOSE PERCEPTION ACTIVATES PTI IN PLANTS. THE IDENTIFICATION OF SUCH A MOLECULE WILL PROVIDE A POWERFUL MEANS TO GALVANIZE RESEARCH EXAMINING IMMUNE PERCEPTION IN PLANT-ANIMAL INTERACTIONS. SIGNALING MECHANISMS LINKING ACTIVATION OF PTI TO DOWNSTREAM IMMUNE SIGNALING WILL ALSO BE INVESTIGATED. THIS PROJECT PROVIDES A PATHWAY TO DEVELOPING SUSTAINABLE AND BROAD-SPECTRUM METHODS FOR NEMATODE CONTROL IN CROPS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6134",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2023-07-01",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2203286_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56800451,
+    "generated_unique_award_id": "ASST_NON_2203286_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PATTERN-TRIGGERED IMMUNITY IN PLANT-NEMATODE INTERACTION -PLANT PARASITIC NEMATODES ARE AMONG THE MOST DESTRUCTIVE PLANT PATHOGENS, CAUSING AN ESTIMATED $8 BILLION ANNUAL LOSSES TO U. S. GROWERS AND NEARLY $78 BILLION GLOBALLY. PLANTS USE THEIR INNATE IMMUNE SYSTEM TO RESIST INFECTION BY VARIOUS CLASSES OF PATHOGENS. THIS PROJECT WILL ADVANCE OUR UNDERSTANDING OF HOW PLANTS RECOGNIZE AND RESPOND TO NEMATODE INFECTION. SPECIFICALLY, THE RESEARCHERS WILL IDENTIFY NEMATODE-DERIVED MOLECULES WHOSE PERCEPTION ACTIVATES PLANT INNATE IMMUNITY. BECAUSE INNATE IMMUNE SYSTEMS OF PLANTS AND ANIMALS SHARE REMARKABLE SIMILARITY IN STRUCTURAL COMPONENTS AND ACTIVATION MECHANISMS, SUCCESSFUL COMPLETION OF THIS PROJECT WILL ENHANCE OUR UNDERSTANDING OF INNATE IMMUNITY IN A BROAD RANGE OF ORGANISMS. THIS PROJECT ALSO INVOLVES MENTORING OF HIGH SCHOOL AND UNDERGRADUATE STUDENTS IN THE RESEARCH PROCESS, AND USE OF CUTTING-EDGE MOLECULAR BIOLOGY TOOLS. A DISPLAY FOCUSING ON THEMES SUCH AS PLANT DAMAGE CAUSED BY NEMATODES WILL BE CREATED IN THE BOHART MUSEUM OF ENTOMOLOGY, DAVIS. THE RESEARCH WILL STRENGTHEN THE BIOECONOMY BY LAYING THE GROUNDWORK NEEDED FOR THE DEVELOPMENT OF NEMATODE CONTROLS IN AGRICULTURAL SYSTEMS. PLANT PARASITIC NEMATODES ARE HIGHLY EVOLVED OBLIGATE PARASITES THAT THREATEN GLOBAL FOOD SECURITY. THESE NEMATODES HAVE A REMARKABLE ABILITY TO MODIFY HOST CELLS THAT SERVE AS THEIR ONLY SOURCE OF NUTRIENTS THROUGHOUT THEIR LIFE CYCLE. PLANTS HAVE EVOLVED AN INNATE IMMUNE SYSTEM COMPRISING GERMLINE-ENCODED IMMUNE RECEPTORS CAPABLE OF RECOGNIZING VARIOUS CLASSES OF PATHOGENS. PLANT IMMUNE RECEPTORS ARE STRUCTURALLY SIMILAR TO THEIR ANIMAL COUNTERPARTS AND INCLUDE MEMBRANE-LOCATED PATHOGEN-RECOGNITION RECEPTORS (PRRS) AS WELL AS INTRACELLULAR NUCLEOTIDE-BINDING DOMAIN LEUCINE-RICH REPEAT (NLR) RECEPTORS. PRRS RECOGNIZE PATHOGEN-ASSOCIATED MOLECULAR PATTERNS (PAMPS) AND ACTIVATE PATTERN-TRIGGERED IMMUNITY (PTI), THE PLANT?S FIRST LINE OF INDUCIBLE DEFENSE. EXTENSIVE STUDIES OVER THE PAST TWO DECADES HAVE IDENTIFIED NUMEROUS PAMPS THAT BIND PRRS TO ACTIVATE PTI, PROVIDING PROTECTION AGAINST INFECTION IN A WIDE RANGE OF PLANTS. HOWEVER, THE MECHANISMS THAT UNDERLIE THE ACTIVATION OF PTI IN PLANT?NEMATODE INTERACTIONS REMAIN UNCLEAR. BUILDING ON OUR PRELIMINARY RESULTS, THIS PROJECT AIMS TO IDENTIFY AND CHARACTERIZE NEMATODE-DERIVED PAMPS WHOSE PERCEPTION ACTIVATES PTI IN PLANTS. THE IDENTIFICATION OF SUCH A MOLECULE WILL PROVIDE A POWERFUL MEANS TO GALVANIZE RESEARCH EXAMINING IMMUNE PERCEPTION IN PLANT-ANIMAL INTERACTIONS. SIGNALING MECHANISMS LINKING ACTIVATION OF PTI TO DOWNSTREAM IMMUNE SIGNALING WILL ALSO BE INVESTIGATED. THIS PROJECT PROVIDES A PATHWAY TO DEVELOPING SUSTAINABLE AND BROAD-SPECTRUM METHODS FOR NEMATODE CONTROL IN CROPS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 796385,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-06-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 416752.03,
+    "total_account_obligation": 796385,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 416752.03
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 796385
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF INTEGRATIVE ORGANISMAL SYS"
+    },
+    "period_of_performance": {
+      "start_date": "2023-07-01",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2023-07-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6134",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 416752.03
+  }
+}

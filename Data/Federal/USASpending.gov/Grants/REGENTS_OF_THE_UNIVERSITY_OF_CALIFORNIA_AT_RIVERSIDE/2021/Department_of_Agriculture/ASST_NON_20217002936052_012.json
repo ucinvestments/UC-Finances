@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56330549,
+    "Award ID": "20217002936052",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 1499998,
+    "Total Outlays": 1439759.27,
+    "Description": "HUANGLONGBING (HLB) AND ITS CAUSAL AGENT CANDIDATUS LIBERIBACTER ASIATICUS (CLAS) ARE A SERIOUS PROBLEM FOR THE US CITRUS INDUSTRY, WITH FLORIDA AND TEXAS ALREADY HEAVILY AFFECTED, AND CALIFORNIA AT AN EARLY STAGE. ROOTSTOCK CULTIVARS WITH GENETIC TOLERANCE TO HLB IMPROVE TREE HEALTH, FRUIT PRODUCTION, AND FRUIT QUALITY IN HLB-AFFECTED ORCHARDS, BUT EVEN THE BEST ROOTSTOCK AVAILABLE SUFFERS LARGE YIELD LOSSES WHEN INFECTED. FURTHER GAINS IN TOLERANCE OR RESISTANCE TO HLB ARE URGENTLY NEEDED TO SUSTAIN THE INDUSTRY. FIELD TREES IN FLORIDA ARE NOW ALL INFECTED WITH CLAS, PROVIDING AN OPPORTUNITY TO SCREEN THOUSANDS OF TREES FOR OVERALL PERFORMANCE IN ENVIRONMENTS WITH HIGH DISEASE PRESSURE. PREVIOUS WORK TO CREATE AND EVALUATE OVER 300 NEW ROOTSTOCK HYBRIDS ACROSS THREE HLB- ENDEMIC REGIONS IN FLORIDA IN REPLICATED SWEET ORANGE FIELD TRIALS WILL BE LEVERAGED TO DELIVER THE BEST PERFORMING HLB-TOLERANT ROOTSTOCKS FOR COMMERCIAL RELEASE, INCLUDING EXPANDED COLLECTION OF PERFORMANCE INFORMATION OVER THE NEXT TWO YEARS (OBJECTIVE 1). TOP PERFORMING ROOTSTOCKS WILL BE FURTHER SCREENED FOR RESISTANCE TO PHYTOPHTHORA AND OTHER RELEVANT SOIL-BORNE PATHOGENS TO ENSURE ADOPTION IN HLB-ENDEMIC AND HLB-THREATENED REGIONS. THIS EXTENSIVE SET OF PHENOTYPIC DATA WILL BE INTEGRATED WITH GENETIC INFORMATION TO IDENTIFY THE GENETIC CONTROL OF HLB-TOLERANCE AND OTHER IMPORTANT TRAITS, ENABLING RAPID SELECTION OF SUPERIOR TOLERANT HYBRID ROOTSTOCKS IN FUTURE BREEDING CYCLES (OBJECTIVE 2). COMMERCIAL TESTING AND RELEASE OF ROOTSTOCKS WILL OCCUR IN CLOSE CONSULTATION WITH INDUSTRY MEMBERS AND WILL BE DISSEMINATED TO STAKEHOLDERS AT ALL LEVELS THROUGH VIRTUAL AND IN- PERSON SEMINARS AND LARGE INDUSTRY EVENTS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2021-09-15",
+    "End Date": "2025-09-14",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20217002936052_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56330549,
+    "generated_unique_award_id": "ASST_NON_20217002936052_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "HUANGLONGBING (HLB) AND ITS CAUSAL AGENT CANDIDATUS LIBERIBACTER ASIATICUS (CLAS) ARE A SERIOUS PROBLEM FOR THE US CITRUS INDUSTRY, WITH FLORIDA AND TEXAS ALREADY HEAVILY AFFECTED, AND CALIFORNIA AT AN EARLY STAGE. ROOTSTOCK CULTIVARS WITH GENETIC TOLERANCE TO HLB IMPROVE TREE HEALTH, FRUIT PRODUCTION, AND FRUIT QUALITY IN HLB-AFFECTED ORCHARDS, BUT EVEN THE BEST ROOTSTOCK AVAILABLE SUFFERS LARGE YIELD LOSSES WHEN INFECTED. FURTHER GAINS IN TOLERANCE OR RESISTANCE TO HLB ARE URGENTLY NEEDED TO SUSTAIN THE INDUSTRY. FIELD TREES IN FLORIDA ARE NOW ALL INFECTED WITH CLAS, PROVIDING AN OPPORTUNITY TO SCREEN THOUSANDS OF TREES FOR OVERALL PERFORMANCE IN ENVIRONMENTS WITH HIGH DISEASE PRESSURE. PREVIOUS WORK TO CREATE AND EVALUATE OVER 300 NEW ROOTSTOCK HYBRIDS ACROSS THREE HLB- ENDEMIC REGIONS IN FLORIDA IN REPLICATED SWEET ORANGE FIELD TRIALS WILL BE LEVERAGED TO DELIVER THE BEST PERFORMING HLB-TOLERANT ROOTSTOCKS FOR COMMERCIAL RELEASE, INCLUDING EXPANDED COLLECTION OF PERFORMANCE INFORMATION OVER THE NEXT TWO YEARS (OBJECTIVE 1). TOP PERFORMING ROOTSTOCKS WILL BE FURTHER SCREENED FOR RESISTANCE TO PHYTOPHTHORA AND OTHER RELEVANT SOIL-BORNE PATHOGENS TO ENSURE ADOPTION IN HLB-ENDEMIC AND HLB-THREATENED REGIONS. THIS EXTENSIVE SET OF PHENOTYPIC DATA WILL BE INTEGRATED WITH GENETIC INFORMATION TO IDENTIFY THE GENETIC CONTROL OF HLB-TOLERANCE AND OTHER IMPORTANT TRAITS, ENABLING RAPID SELECTION OF SUPERIOR TOLERANT HYBRID ROOTSTOCKS IN FUTURE BREEDING CYCLES (OBJECTIVE 2). COMMERCIAL TESTING AND RELEASE OF ROOTSTOCKS WILL OCCUR IN CLOSE CONSULTATION WITH INDUSTRY MEMBERS AND WILL BE DISSEMINATED TO STAKEHOLDERS AT ALL LEVELS THROUGH VIRTUAL AND IN- PERSON SEMINARS AND LARGE INDUSTRY EVENTS.",
+    "total_obligation": 1499998,
+    "subaward_count": 2,
+    "total_subaward_amount": 968231,
+    "date_signed": "2021-09-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1447757.1,
+    "total_account_obligation": 1499998,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1447757.1
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1499998
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-15",
+      "end_date": "2025-09-14",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1447757.1
+  }
+}

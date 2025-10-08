@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89111360,
+    "Award ID": "K24AA029958",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+    "Award Amount": 750416,
+    "Total Outlays": 572102.12,
+    "Description": "ASTERISK: ALCOHOL AND SUBSTANCE USE TREATMENT AND ENGAGEMENT RESEARCH ON INTERVENTION STUDIES AMONG KEY POPULATIONS - PROJECT SUMMARY ALCOHOL AND SUBSTANCE USE DISORDERS (ASUD) ARE ASSOCIATED WITH SUBSTANTIAL MORBIDITY AND MORTALITY. GLOBALLY ALCOHOL USE DISORDERS (AUD) WERE ATTRIBUTED TO 99.2 MILLION DISABILITY-ADJUSTED LIFE YEARS (DALYS) WHILE ILLICIT SUBSTANCE USE DISORDERS (SUD) WERE ATTRIBUTED TO 31.8 MILLION DALYS LOST IN 2016. DESPITE THE URGENT NEED TO REDUCE THE PUBLIC HEALTH IMPACTS OF ASUD AND SCALE UP EFFICACIOUS INTERVENTIONS, TREATMENT UPTAKE WORLDWIDE REMAINS LOW. PSYCHOSOCIAL AND STRUCTURAL FACTORS ARE MAJOR BARRIERS TO ASUD TREATMENT AND ENGAGEMENT. FOR EXAMPLE, PSYCHOLOGICAL DISTRESS, POLYSUBSTANCE USE, HOMELESSNESS, INCARCERATION, AND ENGAGEMENT IN SEX WORK HAVE BEEN ASSOCIATED WITH LOWER ASUD TREATMENT COVERAGE AND COMPLETION. WHEN THESE FACTORS CO-OCCUR, THEY MAY ALSO GENERATE SYNERGISTIC NEGATIVE EFFECTS THAT CONTRIBUTE TO LESS OPTIMAL HEALTH OUTCOMES AND GREATER DISEASE BURDEN (DEFINED AS SYNDEMICS). LESS RESEARCH HAS EMPIRICALLY EXAMINED THE SYNDEMIC EFFECTS OF PSYCHOSOCIAL AND STRUCTURAL BARRIERS ON ASUD TREATMENT AND TREATMENT ENGAGEMENT. TO OPTIMIZE ASUD TREATMENTS AND MAXIMIZE ENGAGEMENT, THERE’S AN URGENT NEED TO EXAMINE THE SYNDEMIC RELATIONSHIP OF THESE CONDITIONS, ESPECIALLY ACROSS MULTIPLE AND DIVERSE STUDIES. TO ADDRESS THESE GAPS, DR. SANTOS PROPOSES TO EXPAND HIS PATIENT ORIENTED RESEARCH (POR) PROGRAM, AND EXPAND HIS CAPACITY TO TRAIN EARLY STAGE INVESTIGATORS (ESIS), PARTICULARLY THOSE FROM UNDERREPRESENTED BACKGROUNDS. DR. SANTOS WILL PROVIDE EXPERIENTIAL TRAINING FOR ESIS IN THREE COMPLEMENTARY POR PROJECTS (PROJECTS A, B, AND C) THAT WILL EXAMINE THE BARRIERS TO ASUD TREATMENT ACCESS AND ENGAGEMENT, AND EXPLORE TREATMENT PREFERENCES OF INDIVIDUALS WITH ASUD. PROJECT A WILL EXAMINE THE SYNDEMIC EFFECTS OF PSYCHOSOCIAL AND STRUCTURAL CONDITIONS ON THE USE OF ASUD TREATMENT (AIM 1), AND THE MODERATORS OF THOSE EFFECTS (AIM 2), LEVERAGING FIVE NATIONAL HIV BEHAVIORAL SURVEY CYCLES (CUMULATIVE N=3848) USING AN INTEGRATIVE DATA ANALYSIS (IDA) APPROACH. PROJECT B WILL EXAMINE THE SYNDEMIC EFFECTS OF PSYCHOSOCIAL AND STRUCTURAL CONDITIONS ON ASUD TREATMENT OUTCOMES (AIM 3), AND THE MODERATORS OF THOSE EFFECTS (AIM 4), LEVERAGING 10 ASUD PHARMACOTHERAPY TRIALS (CUMULATIVE N=722), ALSO USING AN IDA APPROACH. PROJECT C WILL EXAMINE THE PREFERRED TREATMENT ATTRIBUTES OF INDIVIDUALS WITH ASUD USING DISCRETE CHOICE EXPERIMENTS (DCE; AIM 5) AND EXAMINE HOW PREFERENCES DIFFER BETWEEN GROUPS (AIM 6) AMONG 250 INDIVIDUALS WITH ASUD. ULTIMATELY, THE FINDINGS FROM THIS STUDY WILL BE FILL CRITICAL GAPS IN ASUD TREATMENT IMPLEMENTATION, PARTICULARLY FOR KEY POPULATIONS DISPROPORTIONATELY IMPACTED BY HIV. IN PARALLEL TO THESE RESEARCH PROJECTS, DR. SANTOS WILL PROVIDE STRUCTURED MENTORING AND TRAINING TO ESIS IN THREE KEY AREAS OF SUPPORT: INSTRUMENTAL, PROFESSIONAL AND SOCIAL. INSTRUMENTAL SUPPORT WILL FOCUS ON BUILDING ESIS CAPACITY TO BECOME INDEPENDENT RESEARCHERS. PROFESSIONAL SUPPORT WILL FOCUS ON CAREER DEVELOPMENT SKILLS TO THRIVE IN RESEARCH. FINALLY, SOCIAL SUPPORT AIMS TO INCREASE THEIR SOCIAL CAPITAL AND RESILIENCE THROUGH NETWORKING OPPORTUNITIES, GROUP SOCIAL ACTIVITIES, AND INDIVIDUAL COACHING.",
+    "Contract Award Type": "",
+    "Recipient UEI": "KMH5K9V7S518",
+    "Recipient Location": {
+      "address_line1": "1855 FOLSOM ST STE 425",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4249",
+      "zip5": "94103"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94143",
+      "zip5": "94143"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-04-01",
+    "End Date": "2027-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_K24AA029958_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89111360,
+    "generated_unique_award_id": "ASST_NON_K24AA029958_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ASTERISK: ALCOHOL AND SUBSTANCE USE TREATMENT AND ENGAGEMENT RESEARCH ON INTERVENTION STUDIES AMONG KEY POPULATIONS - PROJECT SUMMARY ALCOHOL AND SUBSTANCE USE DISORDERS (ASUD) ARE ASSOCIATED WITH SUBSTANTIAL MORBIDITY AND MORTALITY. GLOBALLY ALCOHOL USE DISORDERS (AUD) WERE ATTRIBUTED TO 99.2 MILLION DISABILITY-ADJUSTED LIFE YEARS (DALYS) WHILE ILLICIT SUBSTANCE USE DISORDERS (SUD) WERE ATTRIBUTED TO 31.8 MILLION DALYS LOST IN 2016. DESPITE THE URGENT NEED TO REDUCE THE PUBLIC HEALTH IMPACTS OF ASUD AND SCALE UP EFFICACIOUS INTERVENTIONS, TREATMENT UPTAKE WORLDWIDE REMAINS LOW. PSYCHOSOCIAL AND STRUCTURAL FACTORS ARE MAJOR BARRIERS TO ASUD TREATMENT AND ENGAGEMENT. FOR EXAMPLE, PSYCHOLOGICAL DISTRESS, POLYSUBSTANCE USE, HOMELESSNESS, INCARCERATION, AND ENGAGEMENT IN SEX WORK HAVE BEEN ASSOCIATED WITH LOWER ASUD TREATMENT COVERAGE AND COMPLETION. WHEN THESE FACTORS CO-OCCUR, THEY MAY ALSO GENERATE SYNERGISTIC NEGATIVE EFFECTS THAT CONTRIBUTE TO LESS OPTIMAL HEALTH OUTCOMES AND GREATER DISEASE BURDEN (DEFINED AS SYNDEMICS). LESS RESEARCH HAS EMPIRICALLY EXAMINED THE SYNDEMIC EFFECTS OF PSYCHOSOCIAL AND STRUCTURAL BARRIERS ON ASUD TREATMENT AND TREATMENT ENGAGEMENT. TO OPTIMIZE ASUD TREATMENTS AND MAXIMIZE ENGAGEMENT, THERE’S AN URGENT NEED TO EXAMINE THE SYNDEMIC RELATIONSHIP OF THESE CONDITIONS, ESPECIALLY ACROSS MULTIPLE AND DIVERSE STUDIES. TO ADDRESS THESE GAPS, DR. SANTOS PROPOSES TO EXPAND HIS PATIENT ORIENTED RESEARCH (POR) PROGRAM, AND EXPAND HIS CAPACITY TO TRAIN EARLY STAGE INVESTIGATORS (ESIS), PARTICULARLY THOSE FROM UNDERREPRESENTED BACKGROUNDS. DR. SANTOS WILL PROVIDE EXPERIENTIAL TRAINING FOR ESIS IN THREE COMPLEMENTARY POR PROJECTS (PROJECTS A, B, AND C) THAT WILL EXAMINE THE BARRIERS TO ASUD TREATMENT ACCESS AND ENGAGEMENT, AND EXPLORE TREATMENT PREFERENCES OF INDIVIDUALS WITH ASUD. PROJECT A WILL EXAMINE THE SYNDEMIC EFFECTS OF PSYCHOSOCIAL AND STRUCTURAL CONDITIONS ON THE USE OF ASUD TREATMENT (AIM 1), AND THE MODERATORS OF THOSE EFFECTS (AIM 2), LEVERAGING FIVE NATIONAL HIV BEHAVIORAL SURVEY CYCLES (CUMULATIVE N=3848) USING AN INTEGRATIVE DATA ANALYSIS (IDA) APPROACH. PROJECT B WILL EXAMINE THE SYNDEMIC EFFECTS OF PSYCHOSOCIAL AND STRUCTURAL CONDITIONS ON ASUD TREATMENT OUTCOMES (AIM 3), AND THE MODERATORS OF THOSE EFFECTS (AIM 4), LEVERAGING 10 ASUD PHARMACOTHERAPY TRIALS (CUMULATIVE N=722), ALSO USING AN IDA APPROACH. PROJECT C WILL EXAMINE THE PREFERRED TREATMENT ATTRIBUTES OF INDIVIDUALS WITH ASUD USING DISCRETE CHOICE EXPERIMENTS (DCE; AIM 5) AND EXAMINE HOW PREFERENCES DIFFER BETWEEN GROUPS (AIM 6) AMONG 250 INDIVIDUALS WITH ASUD. ULTIMATELY, THE FINDINGS FROM THIS STUDY WILL BE FILL CRITICAL GAPS IN ASUD TREATMENT IMPLEMENTATION, PARTICULARLY FOR KEY POPULATIONS DISPROPORTIONATELY IMPACTED BY HIV. IN PARALLEL TO THESE RESEARCH PROJECTS, DR. SANTOS WILL PROVIDE STRUCTURED MENTORING AND TRAINING TO ESIS IN THREE KEY AREAS OF SUPPORT: INSTRUMENTAL, PROFESSIONAL AND SOCIAL. INSTRUMENTAL SUPPORT WILL FOCUS ON BUILDING ESIS CAPACITY TO BECOME INDEPENDENT RESEARCHERS. PROFESSIONAL SUPPORT WILL FOCUS ON CAREER DEVELOPMENT SKILLS TO THRIVE IN RESEARCH. FINALLY, SOCIAL SUPPORT AIMS TO INCREASE THEIR SOCIAL CAPITAL AND RESILIENCE THROUGH NETWORKING OPPORTUNITIES, GROUP SOCIAL ACTIVITIES, AND INDIVIDUAL COACHING.",
+    "total_obligation": 750416,
+    "subaward_count": 3,
+    "total_subaward_amount": 169395,
+    "date_signed": "2022-03-16",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 572102.12,
+    "total_account_obligation": 750416,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 572102.12
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 750416
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute on Alcohol Abuse and Alcoholism"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute on Alcohol Abuse and Alcoholism"
+    },
+    "period_of_performance": {
+      "start_date": "2022-04-01",
+      "end_date": "2027-03-31",
+      "last_modified_date": "2025-07-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "recipient_uei": "KMH5K9V7S518",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "parent_recipient_uei": "KMH5K9V7S518",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN FRANCISCO",
+        "county_code": "075",
+        "county_name": "SAN FRANCISCO",
+        "address_line1": "1855 FOLSOM ST STE 425",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "11",
+        "zip4": "4249",
+        "zip5": "94103",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN FRANCISCO",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "11",
+      "zip4": "",
+      "zip5": "94143",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 572102.12
+  }
+}

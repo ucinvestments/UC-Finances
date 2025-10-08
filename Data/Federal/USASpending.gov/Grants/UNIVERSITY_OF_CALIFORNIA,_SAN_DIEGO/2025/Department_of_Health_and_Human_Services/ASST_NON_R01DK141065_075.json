@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 175104452,
+    "Award ID": "R01DK141065",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 1187347,
+    "Total Outlays": null,
+    "Description": "PHOTOACOUSTIC ULTRASOUND TO DIRECT THERAPY OF DIABETIC FOOT ULCERS - DIABETIC FOOT ULCERS (DFUS) ARE A COMMON MANIFESTATION OF UNCONTROLLED DIABETES MELLITUS, AND DFU TREATMENT ACCOUNTS FOR APPROXIMATELY ONE-THIRD OF THE TOTAL COST OF DIABETIC CARE. SADLY, TOOLS THAT DETERMINE RESPONSE TO THERAPY OR PREDICT RELAPSE ARE LARGELY LIMITED TO VISUAL INSPECTION DESPITE THE KNOWN UTILITY OF TISSUE PERFUSION AND TISSUE HYPOXIA IN MONITORING THERAPY/RELAPSE. THE CURRENT GENERATION OF TOOLS TO QUANTIFY PERFUSION AND HYPOXIA ARE SURFACE-WEIGHTED AND ENSEMBLE APPROACHES WITH NO ABILITY TO UNDERSTAND THE DFU IN THREE DIMENSIONS. THUS, IMAGING TOOLS THAT PREDICT AND MONITOR DFU RESPONSE TO THERAPY AND IDENTIFY AT-RISK TISSUE BEFORE DFUS RELAPSE WOULD HAVE A MAJOR IMPACT ON DFUS. TO ADDRESS THIS MAJOR LIMITATION, WE RECENTLY USED PHOTOACOUSTIC IMAGING TO MAP AND MEASURE TISSUE PERFUSION AND HYPOXIA IN CHRONIC WOUNDS. WE THEN IDENTIFIED IMAGING BIOMARKERS THAT SUGGEST A RESPONSE TO THERAPY IN A PILOT HUMAN COHORT LEADING TO A RECEIVER-OPERATOR CURVE (ROC) AREA UNDER THE CURVE (AUC) OF 0.92. OUR PROPOSED WORK WILL NOW VALIDATE THESE IMAGING BIOMARKERS IN LONGITUDINAL COHORTS VIA THREE AIMS: AIM 1 WILL USE THE BIOMARKERS TO MONITOR DFU STANDARD CARE THAT FAILS IN UP TO 70% OF PATIENTS AFTER 24 WEEKS. OUR GOAL IS TO QUICKLY (\u003c30 DAYS) ESCALATE THOSE NEEDING ADVANCED TREATMENT (E.G., SKIN GRAFTS). AIM 2 WILL USE PHOTOACOUSTIC IMAGING TO GUIDE DFU HYPERBARIC OXYGEN THERAPY (HBOT). THE ROLE OF HBOT IN DFU TREATMENT REMAINS CONTROVERSIAL—PERHAPS BECAUSE THERE IS NO WAY TO QUICKLY STRATIFY RESPONDERS FROM NON- RESPONDERS. WE HYPOTHESIZE THAT DFUS WITH A GREATER INCREASE IN PERFUSION AND OXYGENATION DUE TO HBOT AS DETECTED BY PHOTOACOUSTIC IMAGING WILL HEAL MORE QUICKLY. AIM 3 WILL EVALUATE DFU RELAPSE. THE DFU RECURRENCE RATE IS 66% AND EVEN HIGHER IN DIALYSIS PATIENTS. WE WILL PERFORM LONGITUDINAL IMAGING OF DIALYSIS PATIENTS WITH A DFU IN REMISSION AND HYPOTHESIZE THAT SUBJECTS WITH LOWER FOOT PERFUSION AND/OR OXYGENATION WILL HAVE THE HIGHEST RISK OF RELAPSE. THE SIGNIFICANCE OF THIS WORK IS UNDERSCORED BY THE MAJOR AND NEGATIVE IMPACTS THAT DFUS HAVE ON QUALITY OF LIFE, AND THE INNOVATION LIES IN PATIENT COHORTS NOT YET STUDIED WITH PHOTOACOUSTIC IMAGING. THIS WORK IS FEASIBLE BECAUSE OF OUR LARGE BODY OF PRELIMINARY DATA (FIVE PUBLISHED MANUSCRIPTS WITH 116 PATIENTS IMAGED) AS WELL AS THE INCLUSION OF EXPERTS IN WOUND CARE, IMAGING, DIALYSIS, AND BIOSTATISTICS. THE IMAGING WILL OFFER DIRECT ASSESSMENT OF MICROVASCULAR DISEASE IN 3D AND CHANGE CLINICAL PRACTICE BY ENABLING CLINICIANS TO: 1) ESCALATE THOSE NEEDING ADVANCED CARE AT BASELINE VISIT LEADING TO EARLIER, QUICKER TREATMENTS (AIM 1); 2) DISCONTINUE HBOT NON-RESPONDERS WITHIN THE FIRST ~ 5 TREATMENTS WHILE CONTINUING TO TREAT KNOWN RESPONDERS, WHICH WILL STOP FUTILE TREATMENTS AND LOWER COSTS (AIM 2); AND 3) START THERAPY EARLY FOR DFU RELAPSE, WHICH WILL TARGET LIMB SALVAGE EARLIER, DECREASE MORBIDITY, AND LOWER COSTS (AIM 3). IMPORTANTLY, THE WORK WILL LIKELY HAVE VALUE BEYOND DFUS (E.G., DECUBITUS ULCERS, BURNS).",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-09-01",
+    "End Date": "2027-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DK141065_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 175104452,
+    "generated_unique_award_id": "ASST_NON_R01DK141065_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PHOTOACOUSTIC ULTRASOUND TO DIRECT THERAPY OF DIABETIC FOOT ULCERS - DIABETIC FOOT ULCERS (DFUS) ARE A COMMON MANIFESTATION OF UNCONTROLLED DIABETES MELLITUS, AND DFU TREATMENT ACCOUNTS FOR APPROXIMATELY ONE-THIRD OF THE TOTAL COST OF DIABETIC CARE. SADLY, TOOLS THAT DETERMINE RESPONSE TO THERAPY OR PREDICT RELAPSE ARE LARGELY LIMITED TO VISUAL INSPECTION DESPITE THE KNOWN UTILITY OF TISSUE PERFUSION AND TISSUE HYPOXIA IN MONITORING THERAPY/RELAPSE. THE CURRENT GENERATION OF TOOLS TO QUANTIFY PERFUSION AND HYPOXIA ARE SURFACE-WEIGHTED AND ENSEMBLE APPROACHES WITH NO ABILITY TO UNDERSTAND THE DFU IN THREE DIMENSIONS. THUS, IMAGING TOOLS THAT PREDICT AND MONITOR DFU RESPONSE TO THERAPY AND IDENTIFY AT-RISK TISSUE BEFORE DFUS RELAPSE WOULD HAVE A MAJOR IMPACT ON DFUS. TO ADDRESS THIS MAJOR LIMITATION, WE RECENTLY USED PHOTOACOUSTIC IMAGING TO MAP AND MEASURE TISSUE PERFUSION AND HYPOXIA IN CHRONIC WOUNDS. WE THEN IDENTIFIED IMAGING BIOMARKERS THAT SUGGEST A RESPONSE TO THERAPY IN A PILOT HUMAN COHORT LEADING TO A RECEIVER-OPERATOR CURVE (ROC) AREA UNDER THE CURVE (AUC) OF 0.92. OUR PROPOSED WORK WILL NOW VALIDATE THESE IMAGING BIOMARKERS IN LONGITUDINAL COHORTS VIA THREE AIMS: AIM 1 WILL USE THE BIOMARKERS TO MONITOR DFU STANDARD CARE THAT FAILS IN UP TO 70% OF PATIENTS AFTER 24 WEEKS. OUR GOAL IS TO QUICKLY (\u003c30 DAYS) ESCALATE THOSE NEEDING ADVANCED TREATMENT (E.G., SKIN GRAFTS). AIM 2 WILL USE PHOTOACOUSTIC IMAGING TO GUIDE DFU HYPERBARIC OXYGEN THERAPY (HBOT). THE ROLE OF HBOT IN DFU TREATMENT REMAINS CONTROVERSIAL—PERHAPS BECAUSE THERE IS NO WAY TO QUICKLY STRATIFY RESPONDERS FROM NON- RESPONDERS. WE HYPOTHESIZE THAT DFUS WITH A GREATER INCREASE IN PERFUSION AND OXYGENATION DUE TO HBOT AS DETECTED BY PHOTOACOUSTIC IMAGING WILL HEAL MORE QUICKLY. AIM 3 WILL EVALUATE DFU RELAPSE. THE DFU RECURRENCE RATE IS 66% AND EVEN HIGHER IN DIALYSIS PATIENTS. WE WILL PERFORM LONGITUDINAL IMAGING OF DIALYSIS PATIENTS WITH A DFU IN REMISSION AND HYPOTHESIZE THAT SUBJECTS WITH LOWER FOOT PERFUSION AND/OR OXYGENATION WILL HAVE THE HIGHEST RISK OF RELAPSE. THE SIGNIFICANCE OF THIS WORK IS UNDERSCORED BY THE MAJOR AND NEGATIVE IMPACTS THAT DFUS HAVE ON QUALITY OF LIFE, AND THE INNOVATION LIES IN PATIENT COHORTS NOT YET STUDIED WITH PHOTOACOUSTIC IMAGING. THIS WORK IS FEASIBLE BECAUSE OF OUR LARGE BODY OF PRELIMINARY DATA (FIVE PUBLISHED MANUSCRIPTS WITH 116 PATIENTS IMAGED) AS WELL AS THE INCLUSION OF EXPERTS IN WOUND CARE, IMAGING, DIALYSIS, AND BIOSTATISTICS. THE IMAGING WILL OFFER DIRECT ASSESSMENT OF MICROVASCULAR DISEASE IN 3D AND CHANGE CLINICAL PRACTICE BY ENABLING CLINICIANS TO: 1) ESCALATE THOSE NEEDING ADVANCED CARE AT BASELINE VISIT LEADING TO EARLIER, QUICKER TREATMENTS (AIM 1); 2) DISCONTINUE HBOT NON-RESPONDERS WITHIN THE FIRST ~ 5 TREATMENTS WHILE CONTINUING TO TREAT KNOWN RESPONDERS, WHICH WILL STOP FUTILE TREATMENTS AND LOWER COSTS (AIM 2); AND 3) START THERAPY EARLY FOR DFU RELAPSE, WHICH WILL TARGET LIMB SALVAGE EARLIER, DECREASE MORBIDITY, AND LOWER COSTS (AIM 3). IMPORTANTLY, THE WORK WILL LIKELY HAVE VALUE BEYOND DFUS (E.G., DECUBITUS ULCERS, BURNS).",
+    "total_obligation": 1187347,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-08-31",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-09-01",
+      "end_date": "2027-08-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

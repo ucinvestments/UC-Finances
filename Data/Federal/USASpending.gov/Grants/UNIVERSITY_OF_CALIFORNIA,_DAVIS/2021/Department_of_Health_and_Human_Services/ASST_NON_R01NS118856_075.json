@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91238992,
+    "Award ID": "R01NS118856",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2089282,
+    "Total Outlays": 1495822.2,
+    "Description": "REGULATION OF AROUSAL STATE BY THE SUPRACHIASMATIC CLOCK - PROJECT SUMMARY THERE IS A FUNDAMENTAL GAP IN UNDERSTANDING THE CIRCUIT, CELLULAR AND SYNAPTIC BASES BY WHICH THE CIRCADIAN PACEMAKER, LOCATED IN THE HYPOTHALAMIC SUPRACHIASMATIC NUCLEUS (SCN) OF MAMMALS, REGULATES BRAIN AROUSAL. THIS KNOWLEDGE GAP IS AN IMPORTANT PROBLEM BECAUSE IT NOT ONLY REDUCES OUR ABILITY TO TREAT AROUSAL DISORDERS, SUCH AS HYPERSOMNIA AND FATIGUE, BUT ALSO IMPACTS TREATMENT AND DEEPER UNDERSTANDING OF MANY NEUROPSYCHIATRIC, NEURODEGENERATIVE AND NEUROLOGICAL DISORDERS THAT OFTEN INCLUDE SEVERE AROUSAL DISRUPTION, INCLUDING DEPRESSION AND ALZHEIMER'S DISEASE. OUR LONG-TERM GOAL IS TO UNDERSTAND THE ANATOMIC, CELLULAR AND SYNAPTIC OUTFLOW BASES BY WHICH THE SCN REGULATES BRAIN AROUSAL. THE OBJECTIVES OF THIS APPLICATION ARE TO 1) DETERMINE IF NEUROMEDIN S-PRODUCING SCN (SCNNMS) NEURONS PROMOTE AROUSAL, 2) DEFINE THEIR STATE-DEPENDENT FIRING PROFILE IN VIVO; 3) ESTABLISH A FUNCTIONAL TRI-SYNAPTIC CIRCUIT SPANNING SCNNMS-\u003eDORSOMEDIAL HYPOTHALAMUS (DMH)-\u003eVENTROLATERAL PREOPTIC NUCLEUS (VLPO), 4) DEFINE THE FUNCTIONAL SYNAPTIC PHYSIOLOGY OF THE DMH-\u003eVLPO INTERFACE, INCLUDING THE CELLULAR PROFILE OF THE TARGETED NEURONS, 5) DETERMINE PRESYNAPTIC INPUTS TO SCNNMS NEURONS, AND 6) DEFINE THE MOLECULAR/TRANSCRIPTIONAL LANDSCAPE OF SCNNMS NEURONS. THE CENTRAL HYPOTHESIS IS THAT SCNNMS NEURON ARE BOTH NECESSARY AND SUFFICIENT FOR CLOCK REGULATION OF AROUSAL LEVELS. THE RATIONALE FOR THE PROPOSED RESEARCH IS THAT IDENTIFYING THE ANATOMIC, CELLULAR AND SYNAPTIC BASES BY WHICH THE SCN CAN MODULATE AROUSAL LEVELS IS A CRITICAL FIRST STEP TOWARDS MANIPULATING THEM AND REDUCING THE DYSFUNCTION EXPERIENCED BY INDIVIDUALS WITH DISORDERS OF AROUSAL. GUIDED BY STRONG PRELIMINARY DATA, THIS HYPOTHESIS WILL BE TESTED BY PURSUING FOUR SPECIFIC AIMS: 1) DETERMINE IN VIVO IF ACUTE ACTIVATION/INHIBITION OF SCNNMS NEURONS CAN PROMOTE/ATTENUATE AROUSAL, RESPECTIVELY, AND, VIA IN VIVO CA+2 IMAGING, IF THEY EXHIBIT A WAKE-ACTIVE PROFILE; 2) DEMONSTRATE THAT SCNNMS NEURONS ARE FUNCTIONALLY, SYNAPTICALLY CONNECTED WITH SLEEP-PROMOTING VLPO NEURONS VIA A DMH `RELAY'; 3) DETERMINE THE SOURCES OF PRESYNAPTIC INPUTS TO SCNNMS NEURONS AND CONFIRM FUNCTIONAL CONNECTIVITY; AND 4) DETERMINE MOLECULAR HETEROGENEITY WITHIN THE SCNNMS CELL POPULATION. THE APPROACH IS INTELLECTUALLY AND TECHNICALLY INNOVATIVE BECAUSE IT SEEKS TO REVEAL THE MECHANISTIC BASIS BY WHICH THE SCN REGULATES BRAIN AROUSAL AND BECAUSE IT EMPLOYS A NOVEL COMBINATION OF NEWLY DEVELOPED AND VALIDATED APPROACHES. THE PROPOSED RESEARCH IS SIGNIFICANT, BECAUSE IT IS EXPECTED TO VERTICALLY ADVANCE AND EXPAND UNDERSTANDING OF THE CELLULAR AND SYNAPTIC MECHANISMS SUBSERVING THE SCN CLOCK. ULTIMATELY, SUCH KNOWLEDGE HAS THE POTENTIAL TO INFORM THE DEVELOPMENT OF TREATMENTS TO REDUCE THE DYSFUNCTION AND NEGATIVE HEALTH EFFECTS EXPERIENCED BY NOT ONLY THE GROWING NUMBER OF PATIENTS WITH CIRCADIAN- AND AROUSAL-BASED DISORDERS, SUCH AS HYPERSOMNIA AND FATIGUE, BUT ALSO OF THOSE SUFFERING ONE OF THE HOST OF NEUROPSYCHIATRIC, NEURODEGENERATIVE AND NEUROLOGICAL DISORDERS WITH SEVERE AROUSAL DISRUPTION, SUCH AS DEPRESSION OR ALZHEIMER'S DISEASE, INCLUDING MANY IN WHICH A CLOCK CONTRIBUTION HAS BEEN IMPLICATED OR DEMONSTRATED.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-08-01",
+    "End Date": "2026-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS118856_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91238992,
+    "generated_unique_award_id": "ASST_NON_R01NS118856_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "REGULATION OF AROUSAL STATE BY THE SUPRACHIASMATIC CLOCK - PROJECT SUMMARY THERE IS A FUNDAMENTAL GAP IN UNDERSTANDING THE CIRCUIT, CELLULAR AND SYNAPTIC BASES BY WHICH THE CIRCADIAN PACEMAKER, LOCATED IN THE HYPOTHALAMIC SUPRACHIASMATIC NUCLEUS (SCN) OF MAMMALS, REGULATES BRAIN AROUSAL. THIS KNOWLEDGE GAP IS AN IMPORTANT PROBLEM BECAUSE IT NOT ONLY REDUCES OUR ABILITY TO TREAT AROUSAL DISORDERS, SUCH AS HYPERSOMNIA AND FATIGUE, BUT ALSO IMPACTS TREATMENT AND DEEPER UNDERSTANDING OF MANY NEUROPSYCHIATRIC, NEURODEGENERATIVE AND NEUROLOGICAL DISORDERS THAT OFTEN INCLUDE SEVERE AROUSAL DISRUPTION, INCLUDING DEPRESSION AND ALZHEIMER'S DISEASE. OUR LONG-TERM GOAL IS TO UNDERSTAND THE ANATOMIC, CELLULAR AND SYNAPTIC OUTFLOW BASES BY WHICH THE SCN REGULATES BRAIN AROUSAL. THE OBJECTIVES OF THIS APPLICATION ARE TO 1) DETERMINE IF NEUROMEDIN S-PRODUCING SCN (SCNNMS) NEURONS PROMOTE AROUSAL, 2) DEFINE THEIR STATE-DEPENDENT FIRING PROFILE IN VIVO; 3) ESTABLISH A FUNCTIONAL TRI-SYNAPTIC CIRCUIT SPANNING SCNNMS-\u003eDORSOMEDIAL HYPOTHALAMUS (DMH)-\u003eVENTROLATERAL PREOPTIC NUCLEUS (VLPO), 4) DEFINE THE FUNCTIONAL SYNAPTIC PHYSIOLOGY OF THE DMH-\u003eVLPO INTERFACE, INCLUDING THE CELLULAR PROFILE OF THE TARGETED NEURONS, 5) DETERMINE PRESYNAPTIC INPUTS TO SCNNMS NEURONS, AND 6) DEFINE THE MOLECULAR/TRANSCRIPTIONAL LANDSCAPE OF SCNNMS NEURONS. THE CENTRAL HYPOTHESIS IS THAT SCNNMS NEURON ARE BOTH NECESSARY AND SUFFICIENT FOR CLOCK REGULATION OF AROUSAL LEVELS. THE RATIONALE FOR THE PROPOSED RESEARCH IS THAT IDENTIFYING THE ANATOMIC, CELLULAR AND SYNAPTIC BASES BY WHICH THE SCN CAN MODULATE AROUSAL LEVELS IS A CRITICAL FIRST STEP TOWARDS MANIPULATING THEM AND REDUCING THE DYSFUNCTION EXPERIENCED BY INDIVIDUALS WITH DISORDERS OF AROUSAL. GUIDED BY STRONG PRELIMINARY DATA, THIS HYPOTHESIS WILL BE TESTED BY PURSUING FOUR SPECIFIC AIMS: 1) DETERMINE IN VIVO IF ACUTE ACTIVATION/INHIBITION OF SCNNMS NEURONS CAN PROMOTE/ATTENUATE AROUSAL, RESPECTIVELY, AND, VIA IN VIVO CA+2 IMAGING, IF THEY EXHIBIT A WAKE-ACTIVE PROFILE; 2) DEMONSTRATE THAT SCNNMS NEURONS ARE FUNCTIONALLY, SYNAPTICALLY CONNECTED WITH SLEEP-PROMOTING VLPO NEURONS VIA A DMH `RELAY'; 3) DETERMINE THE SOURCES OF PRESYNAPTIC INPUTS TO SCNNMS NEURONS AND CONFIRM FUNCTIONAL CONNECTIVITY; AND 4) DETERMINE MOLECULAR HETEROGENEITY WITHIN THE SCNNMS CELL POPULATION. THE APPROACH IS INTELLECTUALLY AND TECHNICALLY INNOVATIVE BECAUSE IT SEEKS TO REVEAL THE MECHANISTIC BASIS BY WHICH THE SCN REGULATES BRAIN AROUSAL AND BECAUSE IT EMPLOYS A NOVEL COMBINATION OF NEWLY DEVELOPED AND VALIDATED APPROACHES. THE PROPOSED RESEARCH IS SIGNIFICANT, BECAUSE IT IS EXPECTED TO VERTICALLY ADVANCE AND EXPAND UNDERSTANDING OF THE CELLULAR AND SYNAPTIC MECHANISMS SUBSERVING THE SCN CLOCK. ULTIMATELY, SUCH KNOWLEDGE HAS THE POTENTIAL TO INFORM THE DEVELOPMENT OF TREATMENTS TO REDUCE THE DYSFUNCTION AND NEGATIVE HEALTH EFFECTS EXPERIENCED BY NOT ONLY THE GROWING NUMBER OF PATIENTS WITH CIRCADIAN- AND AROUSAL-BASED DISORDERS, SUCH AS HYPERSOMNIA AND FATIGUE, BUT ALSO OF THOSE SUFFERING ONE OF THE HOST OF NEUROPSYCHIATRIC, NEURODEGENERATIVE AND NEUROLOGICAL DISORDERS WITH SEVERE AROUSAL DISRUPTION, SUCH AS DEPRESSION OR ALZHEIMER'S DISEASE, INCLUDING MANY IN WHICH A CLOCK CONTRIBUTION HAS BEEN IMPLICATED OR DEMONSTRATED.",
+    "total_obligation": 2089282,
+    "subaward_count": 1,
+    "total_subaward_amount": 333346,
+    "date_signed": "2021-07-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1495822.2,
+    "total_account_obligation": 2089282,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1495822.2
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2089282
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2021-08-01",
+      "end_date": "2026-05-31",
+      "last_modified_date": "2025-07-03",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1495822.2
+  }
+}

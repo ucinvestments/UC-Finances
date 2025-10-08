@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 172240252,
+    "Award ID": "2442606",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 600000,
+    "Total Outlays": 0,
+    "Description": "CAREER: EXPLORING X-CHROMOSOME INACTIVATION DYNAMICS IN MYOFIBROBLASTS USING ENGINEERED HYDROGELS -SEX DIFFERENCES IN HEALTH AND DISEASE HAVE OFTEN BEEN ATTRIBUTED TO SEX HORMONES, BUT THERE IS A GROWING APPRECIATION THAT SEX CHROMOSOMES DIRECTLY IMPACT SEX DIFFERENCES IN DISEASE PROGRESSION. THE GOAL OF THIS CAREER PROJECT IS TO IMPROVE THE UNDERSTANDING OF HOW TWO X CHROMOSOMES IN FEMALE CELLS CONTRIBUTE TO FEMALE-SPECIFIC AORTIC VALVE STENOSIS PROGRESSION, THE MOST COMMON AORTIC VALVE DISORDER THAT CAN LEAD TO SUDDEN HEART FAILURE. TO ACCOMPLISH THE RESEARCH OBJECTIVES, SEX-SPECIFIC CELL CULTURE PLATFORMS WILL BE ENGINEERED USING HYDROGELS THAT MIMIC THE SOFT TISSUE MICROENVIRONMENT OF THE AORTIC VALVE. THESE PLATFORMS WILL BE USED TO INVESTIGATE HOW X CHROMOSOME GENES CONTRIBUTE TO FEMALE-SPECIFIC VALVE CELL PHENOTYPES. USING VARIOUS BIOMATERIAL TOOLS, FEMALE-SPECIFIC GENES ON THE X CHROMOSOME WILL BE LINKED TO INCREASED AORTIC VALVE TISSUE STIFFENING IN FEMALES. IN PARALLEL, THE EDUCATIONAL OBJECTIVES FOCUS ON CLARIFYING AND COMMUNICATING THE IMPORTANCE OF SEX AS A BIOLOGICAL VARIABLE IN BIOMEDICAL RESEARCH TO UNDERGRADUATE STUDENTS, THE UC SAN DIEGO COMMUNITY, AND THE PUBLIC. SPECIFICALLY, THE IMPORTANCE OF SEX AS A BIOLOGICAL VARIABLE IN BIOMEDICAL RESEARCH WILL BE PROMOTED THOUGH UNDERGRADUATE SENIOR DESIGN PROJECTS, CAMPUS-WIDE SYMPOSIA, AND PUBLIC SCIENCE COMMUNICATION EVENTS. BIOLOGICAL SEX INFLUENCES THE PROGRESSION OF AORTIC VALVE STENOSIS (AVS), WITH MALES EXHIBITING INCREASED VALVE CALCIFICATION AND FEMALES EXPERIENCING SEVERE VALVE FIBROSIS PRIOR TO EVENTUAL CALCIFICATION. THE BIOLOGICAL MECHANISMS UNDERLYING SEX-DEPENDENT FIBRO-CALCIFICATION OF AORTIC VALVES REMAIN POORLY DEFINED, PARTLY DUE TO SIGNIFICANT CHALLENGES IN DISENTANGLING THE EFFECTS OF SEX HORMONES FROM THOSE OF SEX CHROMOSOMES ON SEXUALLY DIMORPHIC VIC PHENOTYPES IN VIVO. EXISTING IN VITRO STRATEGIES RELY ON CELL CULTURE SUBSTRATES THAT FAIL TO REPLICATE THE TIME-DEPENDENT DYNAMIC CHANGES IN EXTRACELLULAR MATRIX (ECM) STRUCTURES OBSERVED IN HEALTH AND DISEASE. THIS CAREER PROJECT AIMS TO ENGINEER DYNAMIC IN VITRO SYSTEMS TO INVESTIGATE HOW X CHROMOSOME-LINKED GENES MODULATE FEMALE-SPECIFIC FIBROSIS DURING AVS, WHILE ISOLATING THESE EFFECTS FROM HORMONE BIOLOGY. VALVULAR INTERSTITIAL CELLS (VICS), THE PRIMARY FIBROBLAST POPULATION WITHIN AORTIC VALVE TISSUE, ARE BELIEVED TO DRIVE SEX-SPECIFIC DIFFERENCES IN AORTIC VALVE FIBRO-CALCIFICATION. IN XX FEMALE VICS, X-INACTIVE SPECIFIC TRANSCRIPT (XIST), A LONG NON-CODING RNA THAT SILENCES ONE OF THE X CHROMOSOMES DURING X CHROMOSOME INACTIVATION (XCI), IS EXPRESSED. THE CENTRAL HYPOTHESIS OF THIS WORK IS THAT REDUCED XIST EXPRESSION IN VICS REGULATES DYNAMIC ECM REMODELING AND FIBROSIS DURING AORTIC VALVE STENOSIS. TO TEST THIS HYPOTHESIS, THE RESEARCH OBJECTIVES WILL FOCUS ON ENGINEERING HYDROGELS AS CELL CULTURE PLATFORMS USING BIORTHOGONAL CHEMICAL CONJUGATIONS TO CREATE CULTURE SYSTEMS THAT MIMIC THE DYNAMIC ECM. THESE HYDROGELS WILL ALLOW FOR SPATIAL AND TEMPORAL EVALUATION OF XIST EXPRESSION DYNAMICS INDEPENDENTLY OF SEX HORMONES. COLLECTIVELY, THIS PROPOSAL SEEKS TO ESTABLISH FUNDAMENTAL KNOWLEDGE REGARDING HOW XIST EXPRESSION REGULATES ECM ALTERATIONS DURING VALVE FIBRO-CALCIFICATION, INDEPENDENT OF SEX HORMONE EFFECTS. FUTURE EFFORTS WILL EXPLORE THE INDEPENDENT AND SYNERGISTIC ROLES OF SEX HORMONES AND SEX CHROMOSOMES TO FULLY ELUCIDATE THE MECHANISMS DEFINING AVS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92093-0021",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-05-01",
+    "End Date": "2030-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2442606_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 172240252,
+    "generated_unique_award_id": "ASST_NON_2442606_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAREER: EXPLORING X-CHROMOSOME INACTIVATION DYNAMICS IN MYOFIBROBLASTS USING ENGINEERED HYDROGELS -SEX DIFFERENCES IN HEALTH AND DISEASE HAVE OFTEN BEEN ATTRIBUTED TO SEX HORMONES, BUT THERE IS A GROWING APPRECIATION THAT SEX CHROMOSOMES DIRECTLY IMPACT SEX DIFFERENCES IN DISEASE PROGRESSION. THE GOAL OF THIS CAREER PROJECT IS TO IMPROVE THE UNDERSTANDING OF HOW TWO X CHROMOSOMES IN FEMALE CELLS CONTRIBUTE TO FEMALE-SPECIFIC AORTIC VALVE STENOSIS PROGRESSION, THE MOST COMMON AORTIC VALVE DISORDER THAT CAN LEAD TO SUDDEN HEART FAILURE. TO ACCOMPLISH THE RESEARCH OBJECTIVES, SEX-SPECIFIC CELL CULTURE PLATFORMS WILL BE ENGINEERED USING HYDROGELS THAT MIMIC THE SOFT TISSUE MICROENVIRONMENT OF THE AORTIC VALVE. THESE PLATFORMS WILL BE USED TO INVESTIGATE HOW X CHROMOSOME GENES CONTRIBUTE TO FEMALE-SPECIFIC VALVE CELL PHENOTYPES. USING VARIOUS BIOMATERIAL TOOLS, FEMALE-SPECIFIC GENES ON THE X CHROMOSOME WILL BE LINKED TO INCREASED AORTIC VALVE TISSUE STIFFENING IN FEMALES. IN PARALLEL, THE EDUCATIONAL OBJECTIVES FOCUS ON CLARIFYING AND COMMUNICATING THE IMPORTANCE OF SEX AS A BIOLOGICAL VARIABLE IN BIOMEDICAL RESEARCH TO UNDERGRADUATE STUDENTS, THE UC SAN DIEGO COMMUNITY, AND THE PUBLIC. SPECIFICALLY, THE IMPORTANCE OF SEX AS A BIOLOGICAL VARIABLE IN BIOMEDICAL RESEARCH WILL BE PROMOTED THOUGH UNDERGRADUATE SENIOR DESIGN PROJECTS, CAMPUS-WIDE SYMPOSIA, AND PUBLIC SCIENCE COMMUNICATION EVENTS. BIOLOGICAL SEX INFLUENCES THE PROGRESSION OF AORTIC VALVE STENOSIS (AVS), WITH MALES EXHIBITING INCREASED VALVE CALCIFICATION AND FEMALES EXPERIENCING SEVERE VALVE FIBROSIS PRIOR TO EVENTUAL CALCIFICATION. THE BIOLOGICAL MECHANISMS UNDERLYING SEX-DEPENDENT FIBRO-CALCIFICATION OF AORTIC VALVES REMAIN POORLY DEFINED, PARTLY DUE TO SIGNIFICANT CHALLENGES IN DISENTANGLING THE EFFECTS OF SEX HORMONES FROM THOSE OF SEX CHROMOSOMES ON SEXUALLY DIMORPHIC VIC PHENOTYPES IN VIVO. EXISTING IN VITRO STRATEGIES RELY ON CELL CULTURE SUBSTRATES THAT FAIL TO REPLICATE THE TIME-DEPENDENT DYNAMIC CHANGES IN EXTRACELLULAR MATRIX (ECM) STRUCTURES OBSERVED IN HEALTH AND DISEASE. THIS CAREER PROJECT AIMS TO ENGINEER DYNAMIC IN VITRO SYSTEMS TO INVESTIGATE HOW X CHROMOSOME-LINKED GENES MODULATE FEMALE-SPECIFIC FIBROSIS DURING AVS, WHILE ISOLATING THESE EFFECTS FROM HORMONE BIOLOGY. VALVULAR INTERSTITIAL CELLS (VICS), THE PRIMARY FIBROBLAST POPULATION WITHIN AORTIC VALVE TISSUE, ARE BELIEVED TO DRIVE SEX-SPECIFIC DIFFERENCES IN AORTIC VALVE FIBRO-CALCIFICATION. IN XX FEMALE VICS, X-INACTIVE SPECIFIC TRANSCRIPT (XIST), A LONG NON-CODING RNA THAT SILENCES ONE OF THE X CHROMOSOMES DURING X CHROMOSOME INACTIVATION (XCI), IS EXPRESSED. THE CENTRAL HYPOTHESIS OF THIS WORK IS THAT REDUCED XIST EXPRESSION IN VICS REGULATES DYNAMIC ECM REMODELING AND FIBROSIS DURING AORTIC VALVE STENOSIS. TO TEST THIS HYPOTHESIS, THE RESEARCH OBJECTIVES WILL FOCUS ON ENGINEERING HYDROGELS AS CELL CULTURE PLATFORMS USING BIORTHOGONAL CHEMICAL CONJUGATIONS TO CREATE CULTURE SYSTEMS THAT MIMIC THE DYNAMIC ECM. THESE HYDROGELS WILL ALLOW FOR SPATIAL AND TEMPORAL EVALUATION OF XIST EXPRESSION DYNAMICS INDEPENDENTLY OF SEX HORMONES. COLLECTIVELY, THIS PROPOSAL SEEKS TO ESTABLISH FUNDAMENTAL KNOWLEDGE REGARDING HOW XIST EXPRESSION REGULATES ECM ALTERATIONS DURING VALVE FIBRO-CALCIFICATION, INDEPENDENT OF SEX HORMONE EFFECTS. FUTURE EFFORTS WILL EXPLORE THE INDEPENDENT AND SYNERGISTIC ROLES OF SEX HORMONES AND SEX CHROMOSOMES TO FULLY ELUCIDATE THE MECHANISMS DEFINING AVS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 600000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-06-04",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 600000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 600000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF CHEMICAL BIOENGINEERING"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF CHEMICAL BIOENGINEERING"
+    },
+    "period_of_performance": {
+      "start_date": "2025-05-01",
+      "end_date": "2030-04-30",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0021",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

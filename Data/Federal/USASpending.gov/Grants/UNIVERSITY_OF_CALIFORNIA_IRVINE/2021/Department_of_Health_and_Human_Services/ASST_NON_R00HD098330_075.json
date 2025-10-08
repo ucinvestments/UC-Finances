@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91115547,
+    "Award ID": "R00HD098330",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA IRVINE",
+    "Award Amount": 882037.92,
+    "Total Outlays": 879069.61,
+    "Description": "THE ROLE OF ENERGY BALANCE IN GONADOTROPE AND REPRODUCTIVE FUNCTION - PROJECT SUMMARY POLYCYSTIC OVARY SYNDROME (PCOS) IS THE MOST COMMON FERTILITY DISORDER IN REPRODUCTIVE-AGED WOMEN. WOMEN WITH PCOS HAVE ELEVATED GONADOTROPIN LUTEINIZING HORMONE (LH), ANDROGENS, GLUCOSE, FREE FATTY ACIDS (FFAS), AND INFLAMMATORY CYTOKINES. CONCOMITANT INCREASES IN LH AND TESTOSTERONE IN BOTH WOMEN WITH PCOS AND MOUSE MODELS OF PCOS COUNTER THE WELL-ESTABLISHED PARADIGM THAT TESTOSTERONE SUPPRESSES THE NEUROENDOCRINE AXIS. MECHANISMS BEHIND THIS PARADOX ARE LARGELY UNEXPLORED. LH TRANSLATION AND SECRETION ARE INNATELY ENERGY- DEPENDENT PROCESSES. THEREFORE, GONADOTROPE CELLULAR METABOLISM MAY EXPLAIN THE COUNTERINTUITIVE RELATIONSHIP BETWEEN ANDROGENS (ANABOLIC STEROIDS) AND LH IN PCOS. THE OVERALL GOAL OF THIS PROPOSAL IS TO INVESTIGATE THE IMPACT OF GONADOTROPE GLUCOSE METABOLISM ON LH SECRETION AND FERTILITY IN BOTH NORMAL AND PCOS-LIKE CONDITIONS. THE OVERARCHING HYPOTHESIS OF THIS PROPOSAL IS CELLULAR METABOLISM IN GONADOTROPES REGULATES LH SYNTHESIS; AND FACTORS ASSOCIATED WITH PCOS, INCLUDING GLUCOSE, ANDROGENS, AND INFLAMMATORY CYTOKINES, PERTURB GONADOTROPE ENERGY BALANCE AND THEREFORE LH SECRETION. IN AIM 1, WE WILL DEFINE THE METABOLIC PROGRAM REQUIRED FOR NORMAL GONADOTROPE FUNCTION. WE HYPOTHESIZE THAT GONADOTROPES UTILIZE GLUCOSE TO SUPPORT LH PRODUCTION AND SECRETION. WE WILL TEST THE IMPACT OF GLUCOSE DEPRIVATION ON GNRH CHALLENGE IN VITRO AND IN VIVO. IN VITRO, WE WILL PERFORM COMPREHENSIVE ANALYSIS OF GONADOTROPE GLYCOLYSIS AND OXIDATIVE PHOSPHORYLATION AS THEY RELATE TO NUTRIENT AVAILABILITY AND LH SECRETION. IN VIVO, WE WILL TEST THE EFFECTS OF GONADOTROPE SPECIFIC GLUCOSE TRANSPORTER 1 (GLUT1) KNOCK OUT ON FEMALE FERTILITY. IN AIM 2, WE WILL DECIPHER HOW ANDROGENS INCREASE GONADOTROPE GLUCOSE METABOLISM. WE HYPOTHESIZE THAT ANDROGENS INCREASE GONADOTROPE UTILIZATION OF GLUCOSE TO DRIVE LH SECRETION BY TRANSLATIONAL REGULATION OF GLUT1. WE WILL ASSESS THE IMPACT OF ANDROGEN ON GLUCOSE UPTAKE AFTER SILENCING GLUT1 IN CELL LINES AND USE GONADOTROPE SPECIFIC GLUT1 OR ANDROGEN RECEPTOR KO MICE TO DETERMINE THE ROLE OF GONADOTROPE GLUT1 IN PCOS. IN AIM 3, WE WILL ELUCIDATE THE CONTRIBUTION OF PCOS-INDUCED INFLAMMATION TO GONADOTROPE METABOLISM AND FUNCTION. WE HYPOTHESIZE THAT CHRONIC INFLAMMATION DIRECTLY MODULATES GONADOTROPE LH SECRETION AND CONTRIBUTES TO REPRODUCTIVE DYSFUNCTION IN PCOS. USING COMPLEX BIOINFORMATIC APPROACHES, WE WILL IDENTIFY THE IMMUNOPHENOTYPE SPECIFIC TO PCOS AND ASSESS THE CONTRIBUTION OF IMMUNE CELLS TO PCOS ETIOLOGY USING IMMUNE DEFICIENT TRANSGENIC MOUSE MODELS. TOGETHER, THESE AIMS WILL 1) OUTLINE A ROLE FOR GONADOTROPE ENERGY BALANCE IN PCOS, 2) EXPLAIN HOW ANDROGENS INCREASE LH, AND 3) IDENTIFY SPECIFIC INFLAMMATORY PATHWAYS AS POTENTIAL THERAPEUTIC TARGETS IN PCOS. IN THE K99 MENTORED PHASE, DR. NICHOLAS WILL BE TRAINED IN REPRODUCTIVE PHYSIOLOGY AND A PCOS MOUSE MODEL THAT WAS ESTABLISHED BY HER MENTORS. THESE NEW SKILLS WILL BE COMBINED WITH HER PREVIOUS EXPERTISE IN IMMUNOLOGY TO LAUNCH A SUCCESSFUL CAREER DISSECTING THE ROLE OF INFLAMMATION IN REPRODUCTIVE AND METABOLIC DISEASE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MJC5FCYQTPE6",
+    "Recipient Location": {
+      "address_line1": "160 ALDRICH HALL",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92697"
+    },
+    "Primary Place of Performance": {
+      "city_name": "IRVINE",
+      "congressional_code": "47",
+      "country_name": "UNITED STATES",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "926970001",
+      "zip5": "92697"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-07-01",
+    "End Date": "2024-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R00HD098330_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91115547,
+    "generated_unique_award_id": "ASST_NON_R00HD098330_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE ROLE OF ENERGY BALANCE IN GONADOTROPE AND REPRODUCTIVE FUNCTION - PROJECT SUMMARY POLYCYSTIC OVARY SYNDROME (PCOS) IS THE MOST COMMON FERTILITY DISORDER IN REPRODUCTIVE-AGED WOMEN. WOMEN WITH PCOS HAVE ELEVATED GONADOTROPIN LUTEINIZING HORMONE (LH), ANDROGENS, GLUCOSE, FREE FATTY ACIDS (FFAS), AND INFLAMMATORY CYTOKINES. CONCOMITANT INCREASES IN LH AND TESTOSTERONE IN BOTH WOMEN WITH PCOS AND MOUSE MODELS OF PCOS COUNTER THE WELL-ESTABLISHED PARADIGM THAT TESTOSTERONE SUPPRESSES THE NEUROENDOCRINE AXIS. MECHANISMS BEHIND THIS PARADOX ARE LARGELY UNEXPLORED. LH TRANSLATION AND SECRETION ARE INNATELY ENERGY- DEPENDENT PROCESSES. THEREFORE, GONADOTROPE CELLULAR METABOLISM MAY EXPLAIN THE COUNTERINTUITIVE RELATIONSHIP BETWEEN ANDROGENS (ANABOLIC STEROIDS) AND LH IN PCOS. THE OVERALL GOAL OF THIS PROPOSAL IS TO INVESTIGATE THE IMPACT OF GONADOTROPE GLUCOSE METABOLISM ON LH SECRETION AND FERTILITY IN BOTH NORMAL AND PCOS-LIKE CONDITIONS. THE OVERARCHING HYPOTHESIS OF THIS PROPOSAL IS CELLULAR METABOLISM IN GONADOTROPES REGULATES LH SYNTHESIS; AND FACTORS ASSOCIATED WITH PCOS, INCLUDING GLUCOSE, ANDROGENS, AND INFLAMMATORY CYTOKINES, PERTURB GONADOTROPE ENERGY BALANCE AND THEREFORE LH SECRETION. IN AIM 1, WE WILL DEFINE THE METABOLIC PROGRAM REQUIRED FOR NORMAL GONADOTROPE FUNCTION. WE HYPOTHESIZE THAT GONADOTROPES UTILIZE GLUCOSE TO SUPPORT LH PRODUCTION AND SECRETION. WE WILL TEST THE IMPACT OF GLUCOSE DEPRIVATION ON GNRH CHALLENGE IN VITRO AND IN VIVO. IN VITRO, WE WILL PERFORM COMPREHENSIVE ANALYSIS OF GONADOTROPE GLYCOLYSIS AND OXIDATIVE PHOSPHORYLATION AS THEY RELATE TO NUTRIENT AVAILABILITY AND LH SECRETION. IN VIVO, WE WILL TEST THE EFFECTS OF GONADOTROPE SPECIFIC GLUCOSE TRANSPORTER 1 (GLUT1) KNOCK OUT ON FEMALE FERTILITY. IN AIM 2, WE WILL DECIPHER HOW ANDROGENS INCREASE GONADOTROPE GLUCOSE METABOLISM. WE HYPOTHESIZE THAT ANDROGENS INCREASE GONADOTROPE UTILIZATION OF GLUCOSE TO DRIVE LH SECRETION BY TRANSLATIONAL REGULATION OF GLUT1. WE WILL ASSESS THE IMPACT OF ANDROGEN ON GLUCOSE UPTAKE AFTER SILENCING GLUT1 IN CELL LINES AND USE GONADOTROPE SPECIFIC GLUT1 OR ANDROGEN RECEPTOR KO MICE TO DETERMINE THE ROLE OF GONADOTROPE GLUT1 IN PCOS. IN AIM 3, WE WILL ELUCIDATE THE CONTRIBUTION OF PCOS-INDUCED INFLAMMATION TO GONADOTROPE METABOLISM AND FUNCTION. WE HYPOTHESIZE THAT CHRONIC INFLAMMATION DIRECTLY MODULATES GONADOTROPE LH SECRETION AND CONTRIBUTES TO REPRODUCTIVE DYSFUNCTION IN PCOS. USING COMPLEX BIOINFORMATIC APPROACHES, WE WILL IDENTIFY THE IMMUNOPHENOTYPE SPECIFIC TO PCOS AND ASSESS THE CONTRIBUTION OF IMMUNE CELLS TO PCOS ETIOLOGY USING IMMUNE DEFICIENT TRANSGENIC MOUSE MODELS. TOGETHER, THESE AIMS WILL 1) OUTLINE A ROLE FOR GONADOTROPE ENERGY BALANCE IN PCOS, 2) EXPLAIN HOW ANDROGENS INCREASE LH, AND 3) IDENTIFY SPECIFIC INFLAMMATORY PATHWAYS AS POTENTIAL THERAPEUTIC TARGETS IN PCOS. IN THE K99 MENTORED PHASE, DR. NICHOLAS WILL BE TRAINED IN REPRODUCTIVE PHYSIOLOGY AND A PCOS MOUSE MODEL THAT WAS ESTABLISHED BY HER MENTORS. THESE NEW SKILLS WILL BE COMBINED WITH HER PREVIOUS EXPERTISE IN IMMUNOLOGY TO LAUNCH A SUCCESSFUL CAREER DISSECTING THE ROLE OF INFLAMMATION IN REPRODUCTIVE AND METABOLIC DISEASE.",
+    "total_obligation": 882037.92,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-08-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 879069.61,
+    "total_account_obligation": 882037.92,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 879069.61
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 882037.92
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH Eunice Kennedy Shriver National Institute of Child Health \u0026 Human Development"
+    },
+    "period_of_performance": {
+      "start_date": "2021-07-01",
+      "end_date": "2024-06-30",
+      "last_modified_date": "2024-12-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "recipient_uei": "MJC5FCYQTPE6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0b710df3-c98e-f245-bbed-8bbbc32a803b-P",
+      "parent_recipient_name": "UNIVERSITY OF CALIFORNIA IRVINE",
+      "parent_recipient_uei": "MJC5FCYQTPE6",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "IRVINE",
+        "county_code": "059",
+        "county_name": "ORANGE",
+        "address_line1": "160 ALDRICH HALL",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "47",
+        "zip4": "0001",
+        "zip5": "92697",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "IRVINE",
+      "county_code": "059",
+      "county_name": "ORANGE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "47",
+      "zip4": "0001",
+      "zip5": "92697",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 879069.61
+  }
+}

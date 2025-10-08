@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91229025,
+    "Award ID": "R01MH128744",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2372535,
+    "Total Outlays": 1975341.45,
+    "Description": "MULTI-LEVEL DISSECTION OF CEREBELLO-LIMBIC CONNECTIVITY - PROJECT SUMMARY IN ADDITION TO ITS WELL-ESTABLISHED ROLE IN MOTOR CONTROL, THE CEREBELLUM IS INCREASINGLY RECOGNIZED AS A REGULATOR OF LIMBIC FUNCTIONS, INCLUDING GOAL-DIRECTED BEHAVIOR AND AFFECTIVE LEARNING. THE MECHANISTIC CONTRIBUTION OF THE CEREBELLUM TO THESE FUNCTIONS REMAINS UNCLEAR BUT IS HYPOTHESIZED TO INVOLVE MNEMONIC PROCESSING, TIMING OF RESPONSES, AND/OR COMPUTATION OF PREDICTION ERRORS, WHICH DRIVE BEHAVIOR AND LEARNING. OUR ABILITY TO TEST THESE HYPOTHESES DEPENDS ON TWO THINGS: ESTABLISHMENT OF A WELL-DEFINED CEREBELLUM-RELEVANT BEHAVIORAL PARADIGM; AND KNOWLEDGE OF THE UNDERLYING LONG-RANGE CIRCUITS THAT CONNECT THE CEREBELLUM TO ESSENTIAL LIMBIC BRAIN CENTERS. OUR PRELIMINARY DATA DEMONSTRATE THAT WE HAVE ACCOMPLISHED BOTH: FIRST, WE HAVE IDENTIFIED EXTINCTION OF LEARNED FEAR AS A SUITABLE PARADIGM FOR THESE STUDIES. SECOND, OUR INVESTIGATIONS OF THE ANATOMICAL AND FUNCTIONAL BLUEPRINTS OF CEREBELLAR CIRCUITS HAVE REVEALED THE EXISTENCE OF DISYNAPTIC CONNECTIVITY BETWEEN (1) THE CEREBELLUM AND THE AMYGDALA AND (2) THE CEREBELLUM AND NUCLEUS ACCUMBENS. THE GOAL OF THIS PROJECT IS TO DISSECT THE STRUCTURE AND FUNCTION OF THESE CEREBELLO-LIMBIC CIRCUITS AND TO DEFINE THEIR ROLE IN LEARNED BEHAVIOR. IN AIMS 1 AND 2, WE WILL USE CIRCUIT TRACING, SINGLE-CELL SEQUENCING AND OPTOPHYSIOLOGY TO DEFINE THE FUNDAMENTAL FUNCTIONAL PROPERTIES OF INDIVIDUAL CELL TYPES THAT COMPRISE THESE CEREBELLAR CIRCUITS AND LINK THEM TO POSITIONAL AND TRANSCRIPTOMIC PROFILES. IN AIM 3, WE WILL USE IN VIVO MANIPULATION OF THE ACTIVITY OF INDIVIDUAL CIRCUIT ELEMENTS AND MEASUREMENTS OF NEURAL ACTIVITY TO PINPOINT THE CONTRIBUTION OF CEREBELLO-LIMBIC CIRCUITS TO EXTINCTION OF LEARNED BEHAVIOR. OUR MULTI-LEVEL INTERROGATION OF CEREBELLO-LIMBIC CONNECTIVITY WILL GREATLY INCREASE OUR UNDERSTANDING OF ITS CONTRIBUTIONS TO NON-MOTOR FUNCTIONALITY AND MAY PROVIDE INSIGHT INTO THE (DYS)REGULATION OF LEARNED FEAR, WHICH IS PREVALENT IN DISEASES SUCH AS POST-TRAUMATIC STRESS DISORDER.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "956184859",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-04-01",
+    "End Date": "2027-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01MH128744_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91229025,
+    "generated_unique_award_id": "ASST_NON_R01MH128744_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "MULTI-LEVEL DISSECTION OF CEREBELLO-LIMBIC CONNECTIVITY - PROJECT SUMMARY IN ADDITION TO ITS WELL-ESTABLISHED ROLE IN MOTOR CONTROL, THE CEREBELLUM IS INCREASINGLY RECOGNIZED AS A REGULATOR OF LIMBIC FUNCTIONS, INCLUDING GOAL-DIRECTED BEHAVIOR AND AFFECTIVE LEARNING. THE MECHANISTIC CONTRIBUTION OF THE CEREBELLUM TO THESE FUNCTIONS REMAINS UNCLEAR BUT IS HYPOTHESIZED TO INVOLVE MNEMONIC PROCESSING, TIMING OF RESPONSES, AND/OR COMPUTATION OF PREDICTION ERRORS, WHICH DRIVE BEHAVIOR AND LEARNING. OUR ABILITY TO TEST THESE HYPOTHESES DEPENDS ON TWO THINGS: ESTABLISHMENT OF A WELL-DEFINED CEREBELLUM-RELEVANT BEHAVIORAL PARADIGM; AND KNOWLEDGE OF THE UNDERLYING LONG-RANGE CIRCUITS THAT CONNECT THE CEREBELLUM TO ESSENTIAL LIMBIC BRAIN CENTERS. OUR PRELIMINARY DATA DEMONSTRATE THAT WE HAVE ACCOMPLISHED BOTH: FIRST, WE HAVE IDENTIFIED EXTINCTION OF LEARNED FEAR AS A SUITABLE PARADIGM FOR THESE STUDIES. SECOND, OUR INVESTIGATIONS OF THE ANATOMICAL AND FUNCTIONAL BLUEPRINTS OF CEREBELLAR CIRCUITS HAVE REVEALED THE EXISTENCE OF DISYNAPTIC CONNECTIVITY BETWEEN (1) THE CEREBELLUM AND THE AMYGDALA AND (2) THE CEREBELLUM AND NUCLEUS ACCUMBENS. THE GOAL OF THIS PROJECT IS TO DISSECT THE STRUCTURE AND FUNCTION OF THESE CEREBELLO-LIMBIC CIRCUITS AND TO DEFINE THEIR ROLE IN LEARNED BEHAVIOR. IN AIMS 1 AND 2, WE WILL USE CIRCUIT TRACING, SINGLE-CELL SEQUENCING AND OPTOPHYSIOLOGY TO DEFINE THE FUNDAMENTAL FUNCTIONAL PROPERTIES OF INDIVIDUAL CELL TYPES THAT COMPRISE THESE CEREBELLAR CIRCUITS AND LINK THEM TO POSITIONAL AND TRANSCRIPTOMIC PROFILES. IN AIM 3, WE WILL USE IN VIVO MANIPULATION OF THE ACTIVITY OF INDIVIDUAL CIRCUIT ELEMENTS AND MEASUREMENTS OF NEURAL ACTIVITY TO PINPOINT THE CONTRIBUTION OF CEREBELLO-LIMBIC CIRCUITS TO EXTINCTION OF LEARNED BEHAVIOR. OUR MULTI-LEVEL INTERROGATION OF CEREBELLO-LIMBIC CONNECTIVITY WILL GREATLY INCREASE OUR UNDERSTANDING OF ITS CONTRIBUTIONS TO NON-MOTOR FUNCTIONALITY AND MAY PROVIDE INSIGHT INTO THE (DYS)REGULATION OF LEARNED FEAR, WHICH IS PREVALENT IN DISEASES SUCH AS POST-TRAUMATIC STRESS DISORDER.",
+    "total_obligation": 2372535,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-03-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1975341.45,
+    "total_account_obligation": 2285368,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1975341.45
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2285368
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2022-04-01",
+      "end_date": "2027-01-31",
+      "last_modified_date": "2025-09-24",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "4859",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1975341.45
+  }
+}

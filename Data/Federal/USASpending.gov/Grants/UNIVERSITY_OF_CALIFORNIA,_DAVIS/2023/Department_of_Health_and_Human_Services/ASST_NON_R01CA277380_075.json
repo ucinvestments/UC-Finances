@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91155279,
+    "Award ID": "R01CA277380",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1651085,
+    "Total Outlays": 1430879.92,
+    "Description": "INTEGRATION OF 5-ALA FLUORESCENCE LIFETIME IMAGING WITH STEREOTACTIC SURGICAL NAVIGATION FOR QUANTITATIVE REAL-TIME SPATIAL LOCALIZATION OF TUMOR DURING NEUROSURGICAL PROCEDURES - PROJECT SUMMARY/ABSTRACT MAXIMAL SURGICAL RESECTION OF THE MOST COMMON PRIMARY BRAIN CANCER, GLIOBLASTOMA (GBM), HAS BEEN SHOWN TO IMPROVE OVERALL SURVIVAL IN A HIGHLY MORBID DISEASE. HOWEVER, DELINEATION OF RESIDUAL TUMOR AT THE MARGINS OF SURGICAL RESECTIONS CAN BE CHALLENGING USING CONVENTIONAL TECHNIQUES, AND THEREFORE THE USE OF FLUORESCENCE GUIDED SURGERY (FGS) HAS EMERGED AS AN ADJUVANT TOOL FOR TUMOR DETECTION. AT PRESENT, ONLY ONE AGENT, 5- AMINOLEVEULINIC ACID (5-ALA), IS APPROVED FOR DETECTION OF GBM DURING SURGERY. METABOLISM OF 5-ALA INTO PROTOPORPHYRIN IX (PPIX) IS DETECTED QUALITATIVELY BY WIDE-FIELD FLUORESCENCE IMAGING THROUGH THE SURGICAL MICROSCOPE. THIS INTENSITY-BASED DETECTION IS NON-QUANTITATIVE AND BACKGROUND LIGHT-SENSITIVE, REQUIRING THE SURGEON TO WORK IN A DARK FIELD. WE HAVE DEVELOPED A FIBER-BASED PULSE-EXCITATION TIME-RESOLVED METHOD FOR FLUORESCENCE LIFETIME IMAGING (FLIM) TO DETECT QUANTITATIVE PPIX FLUORESCENCE IN REAL-TIME UNDER FULL ILLUMINATION CONDITIONS. OUR GOAL IN THIS STUDY IS TO INTEGRATE THE POINT-SCANNING FLIM TECHNOLOGY WITH AN EXISTING INTRAOPERATIVE STEREOTACTIC NEURONAVIGATION SYSTEM PRODUCED BY BRAINLAB TO SPATIALLY CO-REGISTER FLIM DATA ACROSS THE SURGICAL FIELD FOR APPLICABLE SURGICAL GUIDANCE. WE AIM TO DEVELOP NEW SOFTWARE AND TISSUE CLASSIFIERS BASED ON PRIMARY PATIENT DATA, AND TO APPLY THE INTEGRATED TECHNOLOGY IN A PROSPECTIVE CLINICAL STUDY TO DEMONSTRATE THE BENEFITS FOR SURGICAL NAVIGATION. TO ACHIEVE THE OVERALL GOAL OF DEVELOPING A NEW INTEGRATED TECHNOLOGY WHICH IS IMMEDIATELY APPLICABLE FOR ROUTINE USE IN BRAIN TUMOR RESECTIONS, WE WILL UNDERTAKE THE FOLLOWING AIMS: AIM 1) TO DEVELOP NEW SOFTWARE FOR INTEGRATION OF THE FLIM DEVICE WITH THE BRAINLAB NEURONAVIGATION SYSTEM FOR REAL-TIME ACQUISITION OF SPATIAL POSITIONING OF FLIM DATA AND DISPLAY OF THE DATA OVERLAID ON THE PATIENT’S IMAGING IN THE NAVIGATION SPACE. AIM 2) TO DEVELOP CLASSIFIERS FOR SURGICALLY RESECTABLE TUMOR BASED ON PPIX FLUORESCENCE LIFETIME THRESHOLDS DETERMINED THROUGH A PROSPECTIVE STUDY CORRELATING FLIM DATA TO TISSUE BIOPSIES. AIM 3) TO VALIDATE THE ACCURACY OF INTEGRATED FLIM-BASED NAVIGATION IN IDENTIFYING RESIDUAL TUMOR TISSUE TO FACILITATE A GREATER EXTENT OF RESECTION IN A PROSPECTIVE CLINICAL STUDY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-01-01",
+    "End Date": "2027-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA277380_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91155279,
+    "generated_unique_award_id": "ASST_NON_R01CA277380_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INTEGRATION OF 5-ALA FLUORESCENCE LIFETIME IMAGING WITH STEREOTACTIC SURGICAL NAVIGATION FOR QUANTITATIVE REAL-TIME SPATIAL LOCALIZATION OF TUMOR DURING NEUROSURGICAL PROCEDURES - PROJECT SUMMARY/ABSTRACT MAXIMAL SURGICAL RESECTION OF THE MOST COMMON PRIMARY BRAIN CANCER, GLIOBLASTOMA (GBM), HAS BEEN SHOWN TO IMPROVE OVERALL SURVIVAL IN A HIGHLY MORBID DISEASE. HOWEVER, DELINEATION OF RESIDUAL TUMOR AT THE MARGINS OF SURGICAL RESECTIONS CAN BE CHALLENGING USING CONVENTIONAL TECHNIQUES, AND THEREFORE THE USE OF FLUORESCENCE GUIDED SURGERY (FGS) HAS EMERGED AS AN ADJUVANT TOOL FOR TUMOR DETECTION. AT PRESENT, ONLY ONE AGENT, 5- AMINOLEVEULINIC ACID (5-ALA), IS APPROVED FOR DETECTION OF GBM DURING SURGERY. METABOLISM OF 5-ALA INTO PROTOPORPHYRIN IX (PPIX) IS DETECTED QUALITATIVELY BY WIDE-FIELD FLUORESCENCE IMAGING THROUGH THE SURGICAL MICROSCOPE. THIS INTENSITY-BASED DETECTION IS NON-QUANTITATIVE AND BACKGROUND LIGHT-SENSITIVE, REQUIRING THE SURGEON TO WORK IN A DARK FIELD. WE HAVE DEVELOPED A FIBER-BASED PULSE-EXCITATION TIME-RESOLVED METHOD FOR FLUORESCENCE LIFETIME IMAGING (FLIM) TO DETECT QUANTITATIVE PPIX FLUORESCENCE IN REAL-TIME UNDER FULL ILLUMINATION CONDITIONS. OUR GOAL IN THIS STUDY IS TO INTEGRATE THE POINT-SCANNING FLIM TECHNOLOGY WITH AN EXISTING INTRAOPERATIVE STEREOTACTIC NEURONAVIGATION SYSTEM PRODUCED BY BRAINLAB TO SPATIALLY CO-REGISTER FLIM DATA ACROSS THE SURGICAL FIELD FOR APPLICABLE SURGICAL GUIDANCE. WE AIM TO DEVELOP NEW SOFTWARE AND TISSUE CLASSIFIERS BASED ON PRIMARY PATIENT DATA, AND TO APPLY THE INTEGRATED TECHNOLOGY IN A PROSPECTIVE CLINICAL STUDY TO DEMONSTRATE THE BENEFITS FOR SURGICAL NAVIGATION. TO ACHIEVE THE OVERALL GOAL OF DEVELOPING A NEW INTEGRATED TECHNOLOGY WHICH IS IMMEDIATELY APPLICABLE FOR ROUTINE USE IN BRAIN TUMOR RESECTIONS, WE WILL UNDERTAKE THE FOLLOWING AIMS: AIM 1) TO DEVELOP NEW SOFTWARE FOR INTEGRATION OF THE FLIM DEVICE WITH THE BRAINLAB NEURONAVIGATION SYSTEM FOR REAL-TIME ACQUISITION OF SPATIAL POSITIONING OF FLIM DATA AND DISPLAY OF THE DATA OVERLAID ON THE PATIENT’S IMAGING IN THE NAVIGATION SPACE. AIM 2) TO DEVELOP CLASSIFIERS FOR SURGICALLY RESECTABLE TUMOR BASED ON PPIX FLUORESCENCE LIFETIME THRESHOLDS DETERMINED THROUGH A PROSPECTIVE STUDY CORRELATING FLIM DATA TO TISSUE BIOPSIES. AIM 3) TO VALIDATE THE ACCURACY OF INTEGRATED FLIM-BASED NAVIGATION IN IDENTIFYING RESIDUAL TUMOR TISSUE TO FACILITATE A GREATER EXTENT OF RESECTION IN A PROSPECTIVE CLINICAL STUDY.",
+    "total_obligation": 1651085,
+    "subaward_count": 2,
+    "total_subaward_amount": 162636,
+    "date_signed": "2022-12-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1430879.92,
+    "total_account_obligation": 1651085,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1430879.92
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1651085
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-01-01",
+      "end_date": "2027-12-31",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1430879.92
+  }
+}

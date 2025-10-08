@@ -1,0 +1,250 @@
+{
+  "basic_data": {
+    "internal_id": 57298746,
+    "Award ID": "2347866",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 999893,
+    "Total Outlays": 0,
+    "Description": "EXPLORATIONS: BROAD ENGAGEMENT FOR STUDENTS AND TEACHERS TO ADVANCE AND REINFORCE SCIENCE EDUCATION (BE-STARSE) -THE CURRENT EDUCATIONAL FRAMEWORK OF K-12 STEM PROGRAMS NEEDS A MAJOR OVERHAUL TO INTRODUCE STUDENTS TO THE EXTENSIVE RANGE OF CRUCIAL STEM FIELDS, PARTICULARLY THOSE FACING WORKFORCE SHORTAGES AS IDENTIFIED BY THE CHIPS AND SCIENCE ACT. LIMITED EXPOSURE AND LACK OF ENGAGEMENT OFTEN DIMINISH INTEREST AMONG YOUNGER STUDENTS AND CONTRIBUTE TO A SERIOUS SHORTAGE OF STUDENTS VIEWING STEM AS A CAREER CHOICE IN THEIR EARLY SCHOOL YEARS. TO HELP MAINTAIN OUR NATION?S LEAD IN TECHNOLOGICAL DEVELOPMENT, THE UC DAVIS TEAM PROPOSES THE BROAD ENGAGEMENT FOR STUDENTS AND TEACHERS TO ADVANCE AND REINFORCE SCIENCE? (BE-STARSE) INITIATIVE, A ROBUST COMMUNITY ENGAGEMENT MODEL EMPHASIZING CLOSE ENGAGEMENT OF UNIVERSITY FACULTY, RESEARCH SCIENTISTS, INDUSTRY STEM PROFESSIONALS, NATIONAL LAB EXPERTS, AND RETIRED EDUCATORS WITH K-12 STUDENTS, K-12 TEACHERS, AND UNDERGRADUATE STUDENTS. THE PRINCIPAL AIM OF BE-STARSE IS TO INVIGORATE WORKFORCE INNOVATION AND FOSTER INCLUSION IN THE EXPANSIVE FIELDS IDENTIFIED BY THE CHIPS AND SCIENCE ACT. ITS GOAL IS TO STIMULATE SYSTEM- LEVEL THINKING AND FOSTER AN INTEREST IN SEMICONDUCTOR MICROELECTRONICS AMONG K-12 STUDENTS AND EARLY-STAGE COLLEGE STUDENTS. BE-STARSE ENGAGES YOUNG STUDENTS BEFORE THEY FULLY GRASP FOUNDATIONAL CONCEPTS TAUGHT IN LATER YEARS. THIS PROGRAM WILL ?PULL BACK THE CURTAIN? TO HELP STUDENTS DEVELOP A PHYSICAL INTUITION AND BIG-PICTURE UNDERSTANDING OF SEMICONDUCTOR-RELEVANT TOPICS THROUGH INTENSE INTELLECTUAL INTERACTIONS BETWEEN THE RESEARCHERS, HOST MENTORS, FACULTY, AND DOMAIN EXPERTS. THROUGH BE-STARSE, THE UC DAVIS TEAM PLANS TO IMMERSE K-12 STUDENTS IN THE PRACTICAL ASPECTS OF EMERGING TECHNOLOGIES VIA WORKSHOPS IN AN ACTIVE MICROFABRICATION LAB (A CLEANROOM), DESIGN LABS, MAKER SPACES, AND HANDS-ON ACTIVITIES AT THE UC DAVIS CAMPUS. FURTHERMORE, BE- STARSE WILL PROVIDE INTERNSHIP OPPORTUNITIES TO UNDERGRADUATE STUDENTS IN THE REALMS OF SEMICONDUCTORS AND MICROELECTRONICS AND FACILITATE CLOSE INTERACTIONS WITH INTERNS, K12 STUDENTS, AND TEACHERS. A SPECIAL EMPHASIS WILL BE PLACED ON ENGAGING STUDENTS FROM COMMUNITIES HISTORICALLY MARGINALIZED WITHIN STEM FIELDS, AND ON FOSTERING LEADERSHIP SKILLS, CAREER PLANNING, AND BOLSTERING DIVERSITY, EQUITY, AND INCLUSION. THE UC DAVIS TEAM ENDEAVORS TO EXPAND THE CAREER HORIZONS FOR STUDENTS FROM THE CENTRAL VALLEY OF CALIFORNIA, A TRADITIONALLY UNDERSERVED AND ECONOMICALLY DISADVANTAGED AREA WITH A SIGNIFICANT PERCENTAGE OF UNDER-REPRESENTED MINORITY STUDENTS. THE PROJECT WILL AGGRESSIVELY RECRUIT ETHNIC AND RACIAL MINORITIES, WOMEN AND GIRLS, PELL GRANT-ELIGIBLE STUDENTS, RECENT IMMIGRANTS, AND FIRST-GENERATION COLLEGE STUDENTS. THE PROJECT EFFORTS ARE EXPECTED TO SIGNIFICANTLY IMPACT THE CAREER CHOICES OF THESE YOUNG STUDENTS BY PROVIDING EXPOSURE, MENTORSHIP, FIRST-HAND EXPERIENCES, AND TRAINING OPPORTUNITIES. BY EXPANDING THE TALENT PIPELINE, THESE EFFORTS WILL STRONGLY IMPACT THE ABILITY OF UNIVERSITIES AND TECHNOLOGY INDUSTRIES TO RECRUIT MORE HIGHLY MOTIVATED, WELL-EDUCATED, AND ASPIRING YOUNG TALENT. THIS PROJECT IS CO-FUNDED BY THE ADVANCING INFORMAL STEM LEARNING (AISL) AND DISCOVERY RESEARCH PREK-12 (DRK-12) PROGRAMS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "AAB",
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-07-15",
+    "End Date": "2026-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2347866_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57298746,
+    "generated_unique_award_id": "ASST_NON_2347866_049",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "EXPLORATIONS: BROAD ENGAGEMENT FOR STUDENTS AND TEACHERS TO ADVANCE AND REINFORCE SCIENCE EDUCATION (BE-STARSE) -THE CURRENT EDUCATIONAL FRAMEWORK OF K-12 STEM PROGRAMS NEEDS A MAJOR OVERHAUL TO INTRODUCE STUDENTS TO THE EXTENSIVE RANGE OF CRUCIAL STEM FIELDS, PARTICULARLY THOSE FACING WORKFORCE SHORTAGES AS IDENTIFIED BY THE CHIPS AND SCIENCE ACT. LIMITED EXPOSURE AND LACK OF ENGAGEMENT OFTEN DIMINISH INTEREST AMONG YOUNGER STUDENTS AND CONTRIBUTE TO A SERIOUS SHORTAGE OF STUDENTS VIEWING STEM AS A CAREER CHOICE IN THEIR EARLY SCHOOL YEARS. TO HELP MAINTAIN OUR NATION?S LEAD IN TECHNOLOGICAL DEVELOPMENT, THE UC DAVIS TEAM PROPOSES THE BROAD ENGAGEMENT FOR STUDENTS AND TEACHERS TO ADVANCE AND REINFORCE SCIENCE? (BE-STARSE) INITIATIVE, A ROBUST COMMUNITY ENGAGEMENT MODEL EMPHASIZING CLOSE ENGAGEMENT OF UNIVERSITY FACULTY, RESEARCH SCIENTISTS, INDUSTRY STEM PROFESSIONALS, NATIONAL LAB EXPERTS, AND RETIRED EDUCATORS WITH K-12 STUDENTS, K-12 TEACHERS, AND UNDERGRADUATE STUDENTS. THE PRINCIPAL AIM OF BE-STARSE IS TO INVIGORATE WORKFORCE INNOVATION AND FOSTER INCLUSION IN THE EXPANSIVE FIELDS IDENTIFIED BY THE CHIPS AND SCIENCE ACT. ITS GOAL IS TO STIMULATE SYSTEM- LEVEL THINKING AND FOSTER AN INTEREST IN SEMICONDUCTOR MICROELECTRONICS AMONG K-12 STUDENTS AND EARLY-STAGE COLLEGE STUDENTS. BE-STARSE ENGAGES YOUNG STUDENTS BEFORE THEY FULLY GRASP FOUNDATIONAL CONCEPTS TAUGHT IN LATER YEARS. THIS PROGRAM WILL ?PULL BACK THE CURTAIN? TO HELP STUDENTS DEVELOP A PHYSICAL INTUITION AND BIG-PICTURE UNDERSTANDING OF SEMICONDUCTOR-RELEVANT TOPICS THROUGH INTENSE INTELLECTUAL INTERACTIONS BETWEEN THE RESEARCHERS, HOST MENTORS, FACULTY, AND DOMAIN EXPERTS. THROUGH BE-STARSE, THE UC DAVIS TEAM PLANS TO IMMERSE K-12 STUDENTS IN THE PRACTICAL ASPECTS OF EMERGING TECHNOLOGIES VIA WORKSHOPS IN AN ACTIVE MICROFABRICATION LAB (A CLEANROOM), DESIGN LABS, MAKER SPACES, AND HANDS-ON ACTIVITIES AT THE UC DAVIS CAMPUS. FURTHERMORE, BE- STARSE WILL PROVIDE INTERNSHIP OPPORTUNITIES TO UNDERGRADUATE STUDENTS IN THE REALMS OF SEMICONDUCTORS AND MICROELECTRONICS AND FACILITATE CLOSE INTERACTIONS WITH INTERNS, K12 STUDENTS, AND TEACHERS. A SPECIAL EMPHASIS WILL BE PLACED ON ENGAGING STUDENTS FROM COMMUNITIES HISTORICALLY MARGINALIZED WITHIN STEM FIELDS, AND ON FOSTERING LEADERSHIP SKILLS, CAREER PLANNING, AND BOLSTERING DIVERSITY, EQUITY, AND INCLUSION. THE UC DAVIS TEAM ENDEAVORS TO EXPAND THE CAREER HORIZONS FOR STUDENTS FROM THE CENTRAL VALLEY OF CALIFORNIA, A TRADITIONALLY UNDERSERVED AND ECONOMICALLY DISADVANTAGED AREA WITH A SIGNIFICANT PERCENTAGE OF UNDER-REPRESENTED MINORITY STUDENTS. THE PROJECT WILL AGGRESSIVELY RECRUIT ETHNIC AND RACIAL MINORITIES, WOMEN AND GIRLS, PELL GRANT-ELIGIBLE STUDENTS, RECENT IMMIGRANTS, AND FIRST-GENERATION COLLEGE STUDENTS. THE PROJECT EFFORTS ARE EXPECTED TO SIGNIFICANTLY IMPACT THE CAREER CHOICES OF THESE YOUNG STUDENTS BY PROVIDING EXPOSURE, MENTORSHIP, FIRST-HAND EXPERIENCES, AND TRAINING OPPORTUNITIES. BY EXPANDING THE TALENT PIPELINE, THESE EFFORTS WILL STRONGLY IMPACT THE ABILITY OF UNIVERSITIES AND TECHNOLOGY INDUSTRIES TO RECRUIT MORE HIGHLY MOTIVATED, WELL-EDUCATED, AND ASPIRING YOUNG TALENT. THIS PROJECT IS CO-FUNDED BY THE ADVANCING INFORMAL STEM LEARNING (AISL) AND DISCOVERY RESEARCH PREK-12 (DRK-12) PROGRAMS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 999893,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-07-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 999893,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      },
+      {
+        "code": "AAB",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 599936
+      },
+      {
+        "code": "AAB",
+        "amount": 399957
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF RESEARCH ON LEARNING IN"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "INNOVATION AND TECHNOLOGY ECOSYSTEMS"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-15",
+      "end_date": "2026-06-30",
+      "last_modified_date": "2024-07-23",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

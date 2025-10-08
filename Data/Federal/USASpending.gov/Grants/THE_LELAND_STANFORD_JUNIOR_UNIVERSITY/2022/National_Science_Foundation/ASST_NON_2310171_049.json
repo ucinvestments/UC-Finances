@@ -1,0 +1,250 @@
+{
+  "basic_data": {
+    "internal_id": 57203160,
+    "Award ID": "2310171",
+    "Recipient Name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+    "Award Amount": 598450,
+    "Total Outlays": 335100.27,
+    "Description": "CAREER: ACCELERATING REAL-TIME HYBRID PHYSICAL-NUMERICAL SIMULATIONS IN NATURAL HAZARDS ENGINEERING WITH A GRAPHICS PROCESSING UNIT (GPU)-DRIVEN PARADIGM -THIS AWARD IS FUNDED IN WHOLE OR IN PART UNDER THE AMERICAN RESCUE PLAN ACT OF 2021 (PUBLIC LAW 117-2). THIS FACULTY EARLY CAREER DEVELOPMENT (CAREER) AWARD WILL ADVANCE FUNDAMENTAL UNDERSTANDING OF THE RISKS POSED BY NATURAL HAZARDS TO THE BUILT ENVIRONMENT BY LAYING THE ALGORITHMIC FOUNDATION FOR HIGH-FIDELITY SIMULATIONS USING GRAPHICS PROCESSING UNITS (GPUS). HIGH-RESOLUTION SIMULATION OF COMPLEX STRUCTURAL SYSTEMS REQUIRES THAT DETAILED MODELS BE SOLVED IN UNIQUE WAYS. FOR EXAMPLE, TALL BUILDINGS ARE SO FUNCTIONALLY IMPORTANT THAT THEY ARE ?TOO BIG TO FAIL,? AS MODERATE DAMAGE CAN BE DIFFICULT TO REPAIR AND TALL BUILDING LOSS OF FUNCTION SEVERELY AFFECTS POST-EVENT RECOVERY. YET, THE INFLUENCE OF SOIL-STRUCTURE INTERACTION (SSI), CRITICALLY IMPORTANT TO TALL BUILDING RESPONSE DURING AN EARTHQUAKE, IS OFTEN NEGLECTED DUE TO COMPUTATIONAL COST AND PHYSICAL TESTING CONSTRAINTS. TO ENABLE MORE REALISTIC AND FASTER SIMULATIONS, THIS RESEARCH WILL DERIVE, DEMONSTRATE, AND FACILITATE ADVANCED NUMERICAL METHODS THAT HARNESS THE MASSIVE PARALLELISM OF GPUS, I.E., REAL-TIME COMPUTER CHIPS ORIGINALLY DEVELOPED FOR GRAPHICS RENDERING, TO OVERCOME COMPUTATIONAL BOTTLENECKS IN STRUCTURAL SIMULATIONS, SPECIFICALLY IN THE REAL-TIME HYBRID SIMULATION (RTHS) OF TALL BUILDINGS. IN PARALLEL, THE MULTI-DISCIPLINARY COMPONENTS OF THIS RESEARCH WILL BE INTEGRATED WITH A LARGER EDUCATIONAL COMMITMENT TO DEVELOP, DISSEMINATE, AND CONTINUOUSLY REFLECT ON AN INCLUSIVE TEACHING PEDAGOGY TO ENHANCE STUDENT PERSISTENCE AND JOY IN COMPUTATION, TRAINING STUDENTS WITH THE SKILLS NEEDED FOR AN INCREASINGLY TECHNOLOGY-DRIVEN WORKFORCE. THIS AWARD WILL CONTRIBUTE TO THE NATIONAL SCIENCE FOUNDATION (NSF) ROLE IN THE NATIONAL EARTHQUAKE HAZARDS REDUCTION PROGRAM (NEHRP). HIGH-RESOLUTION SIMULATIONS OF COMPLEX STRUCTURES USING RTHS, WHICH COUPLES PHYSICAL EXPERIMENTS WITH NUMERICAL MODELS IN REAL TIME, HAS PREVIOUSLY BEEN EXCEPTIONALLY DIFFICULT. REFINED, HIGH-FIDELITY MODELS RESULT IN GREATER RESOLUTION AND ACCURACY BUT ALSO SUFFER INCREASED RUN TIME, INHIBITING THE FEASIBILITY OF RTHS. GRAPHICS PROCESSORS WILL, FOR THE FIRST TIME, BE USED TO ACCELERATE RTHS TO ENABLE HIGHER-FIDELITY ON-THE-FLY SIMULATION OF CIVIL STRUCTURES. THE SEISMIC RESPONSE OF CIVIL STRUCTURES POSES UNIQUE CHALLENGES FOR FULL GPU ACCELERATION, INCLUDING HETEROGENEOUS ELEMENT FORMULATIONS, VARYING DEGREES OF NONLINEARITIES, AND RELIANCE ON IMPLICIT INTEGRATION SCHEMES WITH DIRECT SOLVERS. TO ADDRESS THESE CHALLENGES, THIS RESEARCH WILL RE-FORMULATE APPROACHES TO ASSEMBLING AND SOLVING THE EQUATIONS OF MOTION ON GPUS WITH: (I) MASSIVELY PARALLEL ALGORITHMS, (II) SEMI-DISCRETE TIME INTEGRATION SCHEMES, AND (III) AN EVENT-DRIVEN GPU-ADAPTED RTHS ARCHITECTURE. THIS RESEARCH WILL CULMINATE IN A TIERED TESTING PROGRAM TO SIMULATE REALISTIC TALL BUILDING RESPONSE, INCLUDING SSI. THIS PROJECT WILL ESTABLISH MULTI-DISCIPLINARY RESEARCH AND MENTORSHIP AT THE INTERSECTION OF STRUCTURAL ENGINEERING AND SCIENTIFIC COMPUTING. MUTUAL COLLABORATIONS WILL BE USED TO SYNTHESIZE EXPERTISE ACROSS THREE NSF-SUPPORTED NATURAL HAZARDS ENGINEERING RESEARCH INFRASTRUCTURE (NHERI) FACILITIES, INCLUDING THE COMPUTATIONAL MODELING AND SIMULATION CENTER AT THE UNIVERSITY OF CALIFORNIA, BERKELEY, THE EXPERIMENTAL FACILITY AT LEHIGH UNIVERSITY, AND THE DESIGNSAFE CYBERINFRASTRUCTURE AT THE UNIVERSITY OF TEXAS AT AUSTIN. PROJECT DATA WILL BE ARCHIVED AND MADE PUBLICLY AVAILABLE IN THE NHERI DATA DEPOT (HTTPS://WWW.DESIGNSAFE-CI.ORG). THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "HJD6G4D6TJY5",
+    "Recipient Location": {
+      "address_line1": "450 JANE STANFORD WAY",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "STANFORD",
+      "congressional_code": "16",
+      "country_name": "UNITED STATES",
+      "county_code": "085",
+      "county_name": "SANTA CLARA",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2004",
+      "zip5": "94305"
+    },
+    "Primary Place of Performance": {
+      "city_name": "STANFORD",
+      "congressional_code": "16",
+      "country_name": "UNITED STATES",
+      "county_code": "085",
+      "county_name": "SANTA CLARA",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94305-2004",
+      "zip5": "94305"
+    },
+    "def_codes": [
+      "Q",
+      "V"
+    ],
+    "COVID-19 Obligations": 250000,
+    "COVID-19 Outlays": 250000,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-10-01",
+    "End Date": "2027-09-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "0c13d643-4334-38ed-1952-0db7e2ac5e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2310171_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57203160,
+    "generated_unique_award_id": "ASST_NON_2310171_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAREER: ACCELERATING REAL-TIME HYBRID PHYSICAL-NUMERICAL SIMULATIONS IN NATURAL HAZARDS ENGINEERING WITH A GRAPHICS PROCESSING UNIT (GPU)-DRIVEN PARADIGM -THIS AWARD IS FUNDED IN WHOLE OR IN PART UNDER THE AMERICAN RESCUE PLAN ACT OF 2021 (PUBLIC LAW 117-2). THIS FACULTY EARLY CAREER DEVELOPMENT (CAREER) AWARD WILL ADVANCE FUNDAMENTAL UNDERSTANDING OF THE RISKS POSED BY NATURAL HAZARDS TO THE BUILT ENVIRONMENT BY LAYING THE ALGORITHMIC FOUNDATION FOR HIGH-FIDELITY SIMULATIONS USING GRAPHICS PROCESSING UNITS (GPUS). HIGH-RESOLUTION SIMULATION OF COMPLEX STRUCTURAL SYSTEMS REQUIRES THAT DETAILED MODELS BE SOLVED IN UNIQUE WAYS. FOR EXAMPLE, TALL BUILDINGS ARE SO FUNCTIONALLY IMPORTANT THAT THEY ARE ?TOO BIG TO FAIL,? AS MODERATE DAMAGE CAN BE DIFFICULT TO REPAIR AND TALL BUILDING LOSS OF FUNCTION SEVERELY AFFECTS POST-EVENT RECOVERY. YET, THE INFLUENCE OF SOIL-STRUCTURE INTERACTION (SSI), CRITICALLY IMPORTANT TO TALL BUILDING RESPONSE DURING AN EARTHQUAKE, IS OFTEN NEGLECTED DUE TO COMPUTATIONAL COST AND PHYSICAL TESTING CONSTRAINTS. TO ENABLE MORE REALISTIC AND FASTER SIMULATIONS, THIS RESEARCH WILL DERIVE, DEMONSTRATE, AND FACILITATE ADVANCED NUMERICAL METHODS THAT HARNESS THE MASSIVE PARALLELISM OF GPUS, I.E., REAL-TIME COMPUTER CHIPS ORIGINALLY DEVELOPED FOR GRAPHICS RENDERING, TO OVERCOME COMPUTATIONAL BOTTLENECKS IN STRUCTURAL SIMULATIONS, SPECIFICALLY IN THE REAL-TIME HYBRID SIMULATION (RTHS) OF TALL BUILDINGS. IN PARALLEL, THE MULTI-DISCIPLINARY COMPONENTS OF THIS RESEARCH WILL BE INTEGRATED WITH A LARGER EDUCATIONAL COMMITMENT TO DEVELOP, DISSEMINATE, AND CONTINUOUSLY REFLECT ON AN INCLUSIVE TEACHING PEDAGOGY TO ENHANCE STUDENT PERSISTENCE AND JOY IN COMPUTATION, TRAINING STUDENTS WITH THE SKILLS NEEDED FOR AN INCREASINGLY TECHNOLOGY-DRIVEN WORKFORCE. THIS AWARD WILL CONTRIBUTE TO THE NATIONAL SCIENCE FOUNDATION (NSF) ROLE IN THE NATIONAL EARTHQUAKE HAZARDS REDUCTION PROGRAM (NEHRP). HIGH-RESOLUTION SIMULATIONS OF COMPLEX STRUCTURES USING RTHS, WHICH COUPLES PHYSICAL EXPERIMENTS WITH NUMERICAL MODELS IN REAL TIME, HAS PREVIOUSLY BEEN EXCEPTIONALLY DIFFICULT. REFINED, HIGH-FIDELITY MODELS RESULT IN GREATER RESOLUTION AND ACCURACY BUT ALSO SUFFER INCREASED RUN TIME, INHIBITING THE FEASIBILITY OF RTHS. GRAPHICS PROCESSORS WILL, FOR THE FIRST TIME, BE USED TO ACCELERATE RTHS TO ENABLE HIGHER-FIDELITY ON-THE-FLY SIMULATION OF CIVIL STRUCTURES. THE SEISMIC RESPONSE OF CIVIL STRUCTURES POSES UNIQUE CHALLENGES FOR FULL GPU ACCELERATION, INCLUDING HETEROGENEOUS ELEMENT FORMULATIONS, VARYING DEGREES OF NONLINEARITIES, AND RELIANCE ON IMPLICIT INTEGRATION SCHEMES WITH DIRECT SOLVERS. TO ADDRESS THESE CHALLENGES, THIS RESEARCH WILL RE-FORMULATE APPROACHES TO ASSEMBLING AND SOLVING THE EQUATIONS OF MOTION ON GPUS WITH: (I) MASSIVELY PARALLEL ALGORITHMS, (II) SEMI-DISCRETE TIME INTEGRATION SCHEMES, AND (III) AN EVENT-DRIVEN GPU-ADAPTED RTHS ARCHITECTURE. THIS RESEARCH WILL CULMINATE IN A TIERED TESTING PROGRAM TO SIMULATE REALISTIC TALL BUILDING RESPONSE, INCLUDING SSI. THIS PROJECT WILL ESTABLISH MULTI-DISCIPLINARY RESEARCH AND MENTORSHIP AT THE INTERSECTION OF STRUCTURAL ENGINEERING AND SCIENTIFIC COMPUTING. MUTUAL COLLABORATIONS WILL BE USED TO SYNTHESIZE EXPERTISE ACROSS THREE NSF-SUPPORTED NATURAL HAZARDS ENGINEERING RESEARCH INFRASTRUCTURE (NHERI) FACILITIES, INCLUDING THE COMPUTATIONAL MODELING AND SIMULATION CENTER AT THE UNIVERSITY OF CALIFORNIA, BERKELEY, THE EXPERIMENTAL FACILITY AT LEHIGH UNIVERSITY, AND THE DESIGNSAFE CYBERINFRASTRUCTURE AT THE UNIVERSITY OF TEXAS AT AUSTIN. PROJECT DATA WILL BE ARCHIVED AND MADE PUBLICLY AVAILABLE IN THE NHERI DATA DEPOT (HTTPS://WWW.DESIGNSAFE-CI.ORG). THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 598450,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-12-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 335100.27,
+    "total_account_obligation": 598450,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 85100.27
+      },
+      {
+        "code": "V",
+        "amount": 250000
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 348450
+      },
+      {
+        "code": "V",
+        "amount": 250000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF CIVIL, MECHAN  MANUF INNOV"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIV OF CIVIL, MECHAN  MANUF INNOV"
+    },
+    "period_of_performance": {
+      "start_date": "2022-10-01",
+      "end_date": "2027-09-30",
+      "last_modified_date": "2022-12-19",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "0c13d643-4334-38ed-1952-0db7e2ac5e56-C",
+      "recipient_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+      "recipient_uei": "HJD6G4D6TJY5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "0c13d643-4334-38ed-1952-0db7e2ac5e56-P",
+      "parent_recipient_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+      "parent_recipient_uei": "HJD6G4D6TJY5",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "STANFORD",
+        "county_code": "085",
+        "county_name": "SANTA CLARA",
+        "address_line1": "450 JANE STANFORD WAY",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "16",
+        "zip4": "2004",
+        "zip5": "94305",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "STANFORD",
+      "county_code": "085",
+      "county_name": "SANTA CLARA",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "16",
+      "zip4": "2004",
+      "zip5": "94305",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 335100.27
+  }
+}

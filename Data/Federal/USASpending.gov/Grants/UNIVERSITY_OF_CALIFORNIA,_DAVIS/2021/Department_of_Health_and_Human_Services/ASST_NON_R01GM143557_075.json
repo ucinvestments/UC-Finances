@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91197214,
+    "Award ID": "R01GM143557",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1159084,
+    "Total Outlays": 960167.75,
+    "Description": "ELUCIDATING MECHANISMS OF RECOGNITION AND EXCISION OF DAMAGED BASES BY NEIL GLYCOSYLASES - OXIDATIVE STRESS ERODES THE INTEGRITY OF DNA BY MODIFYING DNA BASES AND HAS BEEN LINKED TO CANCER, NEUROLOGICAL DISORDERS AND AGING. THE NEIL GLYCOSYLASES INITIATE BASE EXCISION REPAIR OF OXIDIZED BASE LESIONS BY CATALYZING THE CLEAVAGE OF THE N-GLYCOSIDIC LINKAGE TO THE 2’-DEOXYRIBOSE AND ARE CAPABLE OF REMOVING A WIDE ARRAY OF MODIFIED DNA BASES. THE NEIL GLYCOSYLASES ARE UNIQUE IN ACTING IN A VARIETY OF DIFFERENT CONTEXTS BEYOND DUPLEX DNA, SUCH AS SSDNA, AND G-QUADRUPLEXES, THAT HAS SUGGESTED THAT THESE ENZYMES PLAY CENTRAL ROLES IN REPAIR, REPLICATION AND TRANSCRIPTION. WE HAVE SHOWN THAT HYDANTOIN LESIONS, THAT ARE FORMED FORMED UNDER CONDITIONS OF HIGH OXIDATIVE STRESS, AND IN G-RICH SEQUENCES SUCH AS G-QUADRUPLEXES, ARE THE BEST SUBSTRATES FOR THE NEIL GLYCOSYLASES. OUR LABORATORY WAS ALSO THE FIRST TO PROVIDE A DIRECT LINK BETWEEN RNA EDITING AND DNA REPAIR BY SHOWING LESION PROCESSING BY NEIL1 IS MODULATED BY AN RNA EDITING REACTION THAT CHANGES THE CODON FOR AMINO ACID POSITION 242 IN THE LESION RECOGNITION LOOP OF THE ENZYME, SWITCHING THE RESIDUE FROM THE GENOMICALLY ENCODED LYSINE TO AN ARGININE. THIS CHANGE ALTERS NEIL1 GLYCOSYLASE RATE CONSTANTS IN A LESION AND DNA CONTEXT DEPENDENT MANNER. LESION IDENTITY AND CONTEXT ALSO INFLUENCES THE EXTENT OF NEIL1 BASE EXCISION, AND THIS LESION BINDING PROPERTY SUGGEST ROLES IN REGULATING REPLICATION AND TRANSCRIPTION. WE HAVE ALSO UNCOVERED UNIQUE DIFFERENCES BETWEEN THE NEIL1 AND NEIL3 IN THE REMOVAL OF HYDANTOIN LESIONS FROM DIFFERENT G-QUADRUPLEX SEQUENCES. THE PRESENCE OF DIFFERENT G-QUADRUPLEX SEQUENCES IN GENE PROMOTERS, CURIOUSLY IN THE DNA REPAIR ENZYMES THEMSELVES, SUGGESTS THAT THE OBSERVED DIFFERENCES IN EXTENTS OF LESION EXCISION, AND THE PRESENCE OF NON-PRODUCTIVE BINDING, MAY ALTER TRANSCRIPTION IN RESPONSE TO OXIDATIVE STRESS. THESE OBSERVATIONS FURTHER IMPLICATE NEIL ENZYMES IN PROCESSES BEYOND CLASSIC BER, AND FURTHER UNDERSCORE THE TIGHT INTERDEPENDENCE OF NUCLEIC ACID TRANSACTIONS. THIS PROJECT WILL ENTAIL USING A MULTI- FACETED APPROACH INVOLVING ENZYMOLOGY, NUCLEIC ACID CHEMISTRY, BIOPHYSICAL METHODS AND CELLULAR ASSAYS TO PROBE THE LESION AND CONTEXT DEPENDENT PROPERTIES OF NEIL1, 2 AND 3 TO MAKE DIRECT CONNECTIONS BETWEEN MOLECULAR DEFECTS IN PARTICULAR ASPECTS OF DAMAGE RECOGNITION AND BASE EXCISION ON PREVENTING DNA MUTATIONS AND ALTERING GENE TRANSCRIPTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2021-09-01",
+    "End Date": "2025-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01GM143557_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91197214,
+    "generated_unique_award_id": "ASST_NON_R01GM143557_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ELUCIDATING MECHANISMS OF RECOGNITION AND EXCISION OF DAMAGED BASES BY NEIL GLYCOSYLASES - OXIDATIVE STRESS ERODES THE INTEGRITY OF DNA BY MODIFYING DNA BASES AND HAS BEEN LINKED TO CANCER, NEUROLOGICAL DISORDERS AND AGING. THE NEIL GLYCOSYLASES INITIATE BASE EXCISION REPAIR OF OXIDIZED BASE LESIONS BY CATALYZING THE CLEAVAGE OF THE N-GLYCOSIDIC LINKAGE TO THE 2’-DEOXYRIBOSE AND ARE CAPABLE OF REMOVING A WIDE ARRAY OF MODIFIED DNA BASES. THE NEIL GLYCOSYLASES ARE UNIQUE IN ACTING IN A VARIETY OF DIFFERENT CONTEXTS BEYOND DUPLEX DNA, SUCH AS SSDNA, AND G-QUADRUPLEXES, THAT HAS SUGGESTED THAT THESE ENZYMES PLAY CENTRAL ROLES IN REPAIR, REPLICATION AND TRANSCRIPTION. WE HAVE SHOWN THAT HYDANTOIN LESIONS, THAT ARE FORMED FORMED UNDER CONDITIONS OF HIGH OXIDATIVE STRESS, AND IN G-RICH SEQUENCES SUCH AS G-QUADRUPLEXES, ARE THE BEST SUBSTRATES FOR THE NEIL GLYCOSYLASES. OUR LABORATORY WAS ALSO THE FIRST TO PROVIDE A DIRECT LINK BETWEEN RNA EDITING AND DNA REPAIR BY SHOWING LESION PROCESSING BY NEIL1 IS MODULATED BY AN RNA EDITING REACTION THAT CHANGES THE CODON FOR AMINO ACID POSITION 242 IN THE LESION RECOGNITION LOOP OF THE ENZYME, SWITCHING THE RESIDUE FROM THE GENOMICALLY ENCODED LYSINE TO AN ARGININE. THIS CHANGE ALTERS NEIL1 GLYCOSYLASE RATE CONSTANTS IN A LESION AND DNA CONTEXT DEPENDENT MANNER. LESION IDENTITY AND CONTEXT ALSO INFLUENCES THE EXTENT OF NEIL1 BASE EXCISION, AND THIS LESION BINDING PROPERTY SUGGEST ROLES IN REGULATING REPLICATION AND TRANSCRIPTION. WE HAVE ALSO UNCOVERED UNIQUE DIFFERENCES BETWEEN THE NEIL1 AND NEIL3 IN THE REMOVAL OF HYDANTOIN LESIONS FROM DIFFERENT G-QUADRUPLEX SEQUENCES. THE PRESENCE OF DIFFERENT G-QUADRUPLEX SEQUENCES IN GENE PROMOTERS, CURIOUSLY IN THE DNA REPAIR ENZYMES THEMSELVES, SUGGESTS THAT THE OBSERVED DIFFERENCES IN EXTENTS OF LESION EXCISION, AND THE PRESENCE OF NON-PRODUCTIVE BINDING, MAY ALTER TRANSCRIPTION IN RESPONSE TO OXIDATIVE STRESS. THESE OBSERVATIONS FURTHER IMPLICATE NEIL ENZYMES IN PROCESSES BEYOND CLASSIC BER, AND FURTHER UNDERSCORE THE TIGHT INTERDEPENDENCE OF NUCLEIC ACID TRANSACTIONS. THIS PROJECT WILL ENTAIL USING A MULTI- FACETED APPROACH INVOLVING ENZYMOLOGY, NUCLEIC ACID CHEMISTRY, BIOPHYSICAL METHODS AND CELLULAR ASSAYS TO PROBE THE LESION AND CONTEXT DEPENDENT PROPERTIES OF NEIL1, 2 AND 3 TO MAKE DIRECT CONNECTIONS BETWEEN MOLECULAR DEFECTS IN PARTICULAR ASPECTS OF DAMAGE RECOGNITION AND BASE EXCISION ON PREVENTING DNA MUTATIONS AND ALTERING GENE TRANSCRIPTION.",
+    "total_obligation": 1159084,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-08-05",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 960167.75,
+    "total_account_obligation": 1159084,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 960167.75
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1159084
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2021-09-01",
+      "end_date": "2025-05-31",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 960167.75
+  }
+}

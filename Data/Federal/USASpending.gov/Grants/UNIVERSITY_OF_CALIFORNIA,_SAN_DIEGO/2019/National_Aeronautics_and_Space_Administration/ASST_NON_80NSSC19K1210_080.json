@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 74727982,
+    "Award ID": "80NSSC19K1210",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 1514000,
+    "Total Outlays": 1514000,
+    "Description": "CO-INVESTIGATORS (CO-IS) WILL UTILIZE NASCENT NANO-OPTICAL METHODS IN THE SEARCH FOR CHEMICAL TRACES OF LIFE S ESSENTIALS INCLUDING PHOSPHOROUS. NANO-IDENTIFICATION OF PHOSPHORUS IS REVEALING BECAUSE CORE PRE-BIOTIC REACTIONS AND EVOLUTIONARY DEVELOPMENT ALL CENTER ON PHOSPHORUS CHEMISTRY. LIKEWISE  THE ORIGIN OF AN RNA-BASED WORLD AND A DNA-RNA-PROTEIN-BASED LIFE REVOLVE AROUND PHOSPHORUS. THE NEW NANO OPTICAL MEASUREMENTS WILL BE DEVELOPED TO BE SUPPORTIVE OF MEASUREMENTS OF NASA RETURN MISSIONS AS WELL AS METEORITE AND COMET SAMPLES. THE TECHNIQUE HAS A LARGE ADVANTAGE AS IT IS NON DESTRUCTIVE AND PRESERVES PRECIOUS SAMPLES WHILE ALSO MAKING NEW CHEMICAL MEASUREMENTS NANO-OPTICAL SEARCH FOR PHOSPHORUS WAS TECHNICALLY IMPOSSIBLE UNTIL RECENTLY. CO-IS WILL STUDY RETURNED MISSION PARTICLES IN THE INFRARED REGION THAT HARBORS MOLECULAR FINGERPRINTS OF PHOSPHOROUS SPECIES. THESE STUDIES WILL BE AUGMENTED WITH ISOTOPIC EXPERIMENTS PROBING THE EVOLUTION OF OXYGEN. NEW INNOVATIVE APPROACHES WILL DELIVER PRECISE AND REPRODUCIBLE DATA ON LIFE S CHEMISTRY AND WILL THEREFORE ADVANCE THE PRESENT UNDERSTANDING OF THE ORIGINS OF LIFE. CO-IS WILL DEVELOP NANO-INFRARED PROTOCOLS ENABLING HIGH-SENSITIVITY AND CONTAMINATION-FREE DETECTION OF PHOSPHATES. PHOSPHORUS IS ESPECIALLY DIFFICULT TO TRACK WITH COMMON TOOLS BECAUSE OF ITS UNREACTIVITY. THE PN  CP  AND PO AND ORGANIC BONDS ARE ALL RELEVANT SPECIES FOR WHICH THERE IS NO OTHER NONDESTRUCTIVE  SMALL SIZE SCALE ANALYTICAL DETECTION TECHNIQUE AVAILABLE. THESE SPECIFIC BONDS PRODUCE PROMINENT INFRARED FEATURES THAT WILL BE TRACED WITH NANO-IMAGING. LIKEWISE  NANO-INFRARED CONTRAST DUE TO WATER IS ONE OF THE STRONGEST SPECTROSCOPIC OBSERVABLE. ALTHOUGH AQUEOUS PHOSPHATE PRODUCTION HAS BEEN DEMONSTRATED EX SITU  IN SITU CONFIRMATION OF SPATIALLY ASSOCIATED PHOSPHATES (E.G. APATITES AND METALLIC PHOSPHIDES) WOULD BE PROFOUND IN RETURNED SAMPLE AND METEORITE PARTICLES. THE EXPERIMENTS DEVISED AND DEPLOYED BY CO-IS WILL ENABLE IN SITU CONFIRMATION OF SUPPOSED SPATIAL ASSOCIATIONS BETWEEN PUTATIVE PARENT PHOSPHIDES AND SOLUBLE PHOSPHATES AT THE NANO-SCALE. NANO-INFRARED STUDIES WILL BE ACCOMPANIED WITH ULTRA HIGH PRECISION SULFUR ISOTOPE MEASUREMENTS SUITABLE TO QUANTITATIVELY TRACK THE EARLY EVOLUTION OF OXYGEN AND THE LIFE THAT PRODUCED IT. USING THESE TIME AND ENVIRONMENTAL STAMPS  WE WILL SEARCH FOR A DIRECT LINKAGE BETWEEN PHOSPHORUS AND OXYGEN EVOLUTION. THUS  A COMBINATION OF NANO-INFRARED AND ISOTOPE ANALYSIS IS POSITIONED TO MAKE THE QUANTITATIVE LEAPS IN RESOLVING THE ORIGIN AND EVOLUTION OF LIFE. CO-INVESTIGATORS HAVE COLLABORATED IN THE PAST WITHIN VARIOUS PROGRAMS THAT HAVE PRODUCED IMPACTFUL PUBLICATIONS. THE PROPOSED PROGRAM RESPONDS TO SOLICITATIONS FOR  SIGNIFICANT IMPROVEMENTS IN THE PRECISION  RESOLUTION  OR SENSITIVITY OF MEASUREMENTS  OF RETURNED SAMPLES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR DEPT 621",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "49",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0621",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "52",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92093-0621",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2019-06-26",
+    "End Date": "2023-06-25",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_80NSSC19K1210_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 74727982,
+    "generated_unique_award_id": "ASST_NON_80NSSC19K1210_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CO-INVESTIGATORS (CO-IS) WILL UTILIZE NASCENT NANO-OPTICAL METHODS IN THE SEARCH FOR CHEMICAL TRACES OF LIFE S ESSENTIALS INCLUDING PHOSPHOROUS. NANO-IDENTIFICATION OF PHOSPHORUS IS REVEALING BECAUSE CORE PRE-BIOTIC REACTIONS AND EVOLUTIONARY DEVELOPMENT ALL CENTER ON PHOSPHORUS CHEMISTRY. LIKEWISE  THE ORIGIN OF AN RNA-BASED WORLD AND A DNA-RNA-PROTEIN-BASED LIFE REVOLVE AROUND PHOSPHORUS. THE NEW NANO OPTICAL MEASUREMENTS WILL BE DEVELOPED TO BE SUPPORTIVE OF MEASUREMENTS OF NASA RETURN MISSIONS AS WELL AS METEORITE AND COMET SAMPLES. THE TECHNIQUE HAS A LARGE ADVANTAGE AS IT IS NON DESTRUCTIVE AND PRESERVES PRECIOUS SAMPLES WHILE ALSO MAKING NEW CHEMICAL MEASUREMENTS NANO-OPTICAL SEARCH FOR PHOSPHORUS WAS TECHNICALLY IMPOSSIBLE UNTIL RECENTLY. CO-IS WILL STUDY RETURNED MISSION PARTICLES IN THE INFRARED REGION THAT HARBORS MOLECULAR FINGERPRINTS OF PHOSPHOROUS SPECIES. THESE STUDIES WILL BE AUGMENTED WITH ISOTOPIC EXPERIMENTS PROBING THE EVOLUTION OF OXYGEN. NEW INNOVATIVE APPROACHES WILL DELIVER PRECISE AND REPRODUCIBLE DATA ON LIFE S CHEMISTRY AND WILL THEREFORE ADVANCE THE PRESENT UNDERSTANDING OF THE ORIGINS OF LIFE. CO-IS WILL DEVELOP NANO-INFRARED PROTOCOLS ENABLING HIGH-SENSITIVITY AND CONTAMINATION-FREE DETECTION OF PHOSPHATES. PHOSPHORUS IS ESPECIALLY DIFFICULT TO TRACK WITH COMMON TOOLS BECAUSE OF ITS UNREACTIVITY. THE PN  CP  AND PO AND ORGANIC BONDS ARE ALL RELEVANT SPECIES FOR WHICH THERE IS NO OTHER NONDESTRUCTIVE  SMALL SIZE SCALE ANALYTICAL DETECTION TECHNIQUE AVAILABLE. THESE SPECIFIC BONDS PRODUCE PROMINENT INFRARED FEATURES THAT WILL BE TRACED WITH NANO-IMAGING. LIKEWISE  NANO-INFRARED CONTRAST DUE TO WATER IS ONE OF THE STRONGEST SPECTROSCOPIC OBSERVABLE. ALTHOUGH AQUEOUS PHOSPHATE PRODUCTION HAS BEEN DEMONSTRATED EX SITU  IN SITU CONFIRMATION OF SPATIALLY ASSOCIATED PHOSPHATES (E.G. APATITES AND METALLIC PHOSPHIDES) WOULD BE PROFOUND IN RETURNED SAMPLE AND METEORITE PARTICLES. THE EXPERIMENTS DEVISED AND DEPLOYED BY CO-IS WILL ENABLE IN SITU CONFIRMATION OF SUPPOSED SPATIAL ASSOCIATIONS BETWEEN PUTATIVE PARENT PHOSPHIDES AND SOLUBLE PHOSPHATES AT THE NANO-SCALE. NANO-INFRARED STUDIES WILL BE ACCOMPANIED WITH ULTRA HIGH PRECISION SULFUR ISOTOPE MEASUREMENTS SUITABLE TO QUANTITATIVELY TRACK THE EARLY EVOLUTION OF OXYGEN AND THE LIFE THAT PRODUCED IT. USING THESE TIME AND ENVIRONMENTAL STAMPS  WE WILL SEARCH FOR A DIRECT LINKAGE BETWEEN PHOSPHORUS AND OXYGEN EVOLUTION. THUS  A COMBINATION OF NANO-INFRARED AND ISOTOPE ANALYSIS IS POSITIONED TO MAKE THE QUANTITATIVE LEAPS IN RESOLVING THE ORIGIN AND EVOLUTION OF LIFE. CO-INVESTIGATORS HAVE COLLABORATED IN THE PAST WITHIN VARIOUS PROGRAMS THAT HAVE PRODUCED IMPACTFUL PUBLICATIONS. THE PROPOSED PROGRAM RESPONDS TO SOLICITATIONS FOR  SIGNIFICANT IMPROVEMENTS IN THE PRECISION  RESOLUTION  OR SENSITIVITY OF MEASUREMENTS  OF RETURNED SAMPLES.",
+    "total_obligation": 1514000,
+    "subaward_count": 1,
+    "total_subaward_amount": 753864,
+    "date_signed": "2019-08-02",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1514000,
+    "total_account_obligation": 819000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1514000
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 819000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2019-06-26",
+      "end_date": "2023-06-25",
+      "last_modified_date": "2024-09-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR DEPT 621",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0621",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0621",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1514000
+  }
+}

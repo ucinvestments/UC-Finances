@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91240073,
+    "Award ID": "R01NS131375",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 1233847,
+    "Total Outlays": 973136.23,
+    "Description": "REGULATION OF PHOSPHOINOSITIDE METABOLISM AND CALCIUM DYNAMICS IN THE NEOCORTEX - PROJECT SUMMARY/ABSTRACT: THE NEOCORTEX IS AN EXCLUSIVE STRUCTURE OF THE MAMMALIAN CENTRAL NERVOUS SYSTEM. IN HUMANS, THE NEOCORTEX IS INVOLVED IN HIGHER-ORDER BRAIN FUNCTIONS SUCH AS COGNITION AND LANGUAGE. ALL PROJECTION NEURONS IN THE NEOCORTEX ARE BORN FROM A COMMON POOL OF NEURAL PROGENITORS AT THE SURFACE OF THE LATERAL VENTRICLES OF THE TELENCEPHALON. POST-MITOTIC PROJECTION NEURONS MUST MIGRATE FROM THE PROLIFERATIVE NICHE TO THEIR INTENDED CORTICAL LAYERS IN ORDER TO MATURE AND ESTABLISH FUNCTIONAL SYNAPTIC CONTACTS. MISREGULATION OF PN MIGRATION HAS DEVASTATING CONSEQUENCES FOR HUMAN HEALTH AND RESULTS IN A SERIES OF NEURONAL MIGRATION DISORDERS THAT DISRUPT NEURAL CIRCUITRY AND/OR BRAIN MORPHOLOGY, LEADING TO COGNITION PROBLEMS, NEUROPSYCHIATRIC DISEASE, EPILEPSY, AND NEUROANATOMICAL MALFORMATIONS. THE OVERARCHING GOAL OF THIS PROJECT IS TO DEFINE NOVEL MOLECULAR MECHANISMS THAT INSTRUCT PROJECTION NEURON MIGRATION, MIGRATION ENDING, AND SETTLING IN THEIR FINAL POSITION IN THE NEOCORTEX. RECENTLY, WE HAVE IDENTIFIED THE E3 UBIQUITIN LIGASE CRL5 AS A KEY REGULATOR OF MIGRATION AND FINAL POSITIONING OF PROJECTION NEURONS IN THE CORTEX. HERE, WE AIM TO UNDERSTAND THE CRL5-DEPENDENT MOLECULAR MECHANISMS THAT CONTROL PYRAMIDAL NEURON MIGRATION AND TERMINATION. OUR PRELIMINARY DATA INDICATE THAT CRL5 REGULATES THE LEVELS OF TWO CRUCIAL PHOSPHOINOSITIDE SIGNALING LIPIDS, PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE (PIP2) AND PHOSPHATIDYLINOSITOL 3,4,5-TRISPHOSPHATE (PIP3) IN PROJECTION NEURONS. OUR DATA ALSO SUGGESTS THAT CRL5 REGULATES PIP2 AND PIP3 LEVELS BY OPPOSING THE ACTIVITY OF THE PHOSPHATIDYLINOSITOL 4-PHOSPHATE 5-KINASE (PIP5K) AND PHOSPHOINOSITIDE 3-KINASES (PI3K), WHICH SYNTHESIZES PIP2 AND PIP3, RESPECTIVELY. MOREOVER, CRL5 ALSO CONTROLS CA2+ DYNAMICS BY REGULATING THE FREQUENCY OF CA2+ EVENTS, WHICH ARE CRUCIAL FOR PYRAMIDAL NEURON MIGRATION. THIS PROPOSAL AIMS TO ADDRESS THE ROLE OF CRL5 DURING PROJECTION NEURON MIGRATION AND CORTICAL DEVELOPMENT BY ANSWERING THE FOLLOWING QUESTIONS: 1) HOW DOES CRL5 REGULATE PIP5K AND PI3K ACTIVITY TO CONTROL PHOSPHOINOSITIDE LEVELS?, 2) IS CRL5 REGULATING PIP2 AND PIP3 LEVELS TO CONTROL PROJECTION NEURON MIGRATION?, 3) DOES CRL5 PARTICIPATE IN CA2+ DYNAMICS IN PROJECTION NEURONS BY CONTROLLING CA2+ CHANNELS ACTIVITY/LOCALIZATION?, AND 4) DOES CRL5-DEPENDENT REGULATION OF PIP2 AND PIP3 LEVELS DIRECTLY AFFECT CA2+ DYNAMICS? THE SUCCESSFUL COMPLETION OF THE PROJECT WILL PROVIDE THE FIRST DETAILED MOLECULAR FRAMEWORK OF HOW CRL5 CONTROLS PROJECTION NEURON MIGRATION AND TERMINATION TO ORCHESTRATE CORTICAL MORPHOGENESIS AND IDENTIFY CRL5 AS A NOVEL REGULATOR OF PHOSPHOINOSITIDES METABOLISM AND CA2+ DYNAMICS IN THE NERVOUS SYSTEM. COMPLETION OF THIS PROJECT WILL OFFERING POTENTIAL TARGETS FOR THERAPEUTIC INTERVENTION IN NEURONAL MIGRATION DISORDERS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-03-01",
+    "End Date": "2028-02-29",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01NS131375_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91240073,
+    "generated_unique_award_id": "ASST_NON_R01NS131375_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "REGULATION OF PHOSPHOINOSITIDE METABOLISM AND CALCIUM DYNAMICS IN THE NEOCORTEX - PROJECT SUMMARY/ABSTRACT: THE NEOCORTEX IS AN EXCLUSIVE STRUCTURE OF THE MAMMALIAN CENTRAL NERVOUS SYSTEM. IN HUMANS, THE NEOCORTEX IS INVOLVED IN HIGHER-ORDER BRAIN FUNCTIONS SUCH AS COGNITION AND LANGUAGE. ALL PROJECTION NEURONS IN THE NEOCORTEX ARE BORN FROM A COMMON POOL OF NEURAL PROGENITORS AT THE SURFACE OF THE LATERAL VENTRICLES OF THE TELENCEPHALON. POST-MITOTIC PROJECTION NEURONS MUST MIGRATE FROM THE PROLIFERATIVE NICHE TO THEIR INTENDED CORTICAL LAYERS IN ORDER TO MATURE AND ESTABLISH FUNCTIONAL SYNAPTIC CONTACTS. MISREGULATION OF PN MIGRATION HAS DEVASTATING CONSEQUENCES FOR HUMAN HEALTH AND RESULTS IN A SERIES OF NEURONAL MIGRATION DISORDERS THAT DISRUPT NEURAL CIRCUITRY AND/OR BRAIN MORPHOLOGY, LEADING TO COGNITION PROBLEMS, NEUROPSYCHIATRIC DISEASE, EPILEPSY, AND NEUROANATOMICAL MALFORMATIONS. THE OVERARCHING GOAL OF THIS PROJECT IS TO DEFINE NOVEL MOLECULAR MECHANISMS THAT INSTRUCT PROJECTION NEURON MIGRATION, MIGRATION ENDING, AND SETTLING IN THEIR FINAL POSITION IN THE NEOCORTEX. RECENTLY, WE HAVE IDENTIFIED THE E3 UBIQUITIN LIGASE CRL5 AS A KEY REGULATOR OF MIGRATION AND FINAL POSITIONING OF PROJECTION NEURONS IN THE CORTEX. HERE, WE AIM TO UNDERSTAND THE CRL5-DEPENDENT MOLECULAR MECHANISMS THAT CONTROL PYRAMIDAL NEURON MIGRATION AND TERMINATION. OUR PRELIMINARY DATA INDICATE THAT CRL5 REGULATES THE LEVELS OF TWO CRUCIAL PHOSPHOINOSITIDE SIGNALING LIPIDS, PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE (PIP2) AND PHOSPHATIDYLINOSITOL 3,4,5-TRISPHOSPHATE (PIP3) IN PROJECTION NEURONS. OUR DATA ALSO SUGGESTS THAT CRL5 REGULATES PIP2 AND PIP3 LEVELS BY OPPOSING THE ACTIVITY OF THE PHOSPHATIDYLINOSITOL 4-PHOSPHATE 5-KINASE (PIP5K) AND PHOSPHOINOSITIDE 3-KINASES (PI3K), WHICH SYNTHESIZES PIP2 AND PIP3, RESPECTIVELY. MOREOVER, CRL5 ALSO CONTROLS CA2+ DYNAMICS BY REGULATING THE FREQUENCY OF CA2+ EVENTS, WHICH ARE CRUCIAL FOR PYRAMIDAL NEURON MIGRATION. THIS PROPOSAL AIMS TO ADDRESS THE ROLE OF CRL5 DURING PROJECTION NEURON MIGRATION AND CORTICAL DEVELOPMENT BY ANSWERING THE FOLLOWING QUESTIONS: 1) HOW DOES CRL5 REGULATE PIP5K AND PI3K ACTIVITY TO CONTROL PHOSPHOINOSITIDE LEVELS?, 2) IS CRL5 REGULATING PIP2 AND PIP3 LEVELS TO CONTROL PROJECTION NEURON MIGRATION?, 3) DOES CRL5 PARTICIPATE IN CA2+ DYNAMICS IN PROJECTION NEURONS BY CONTROLLING CA2+ CHANNELS ACTIVITY/LOCALIZATION?, AND 4) DOES CRL5-DEPENDENT REGULATION OF PIP2 AND PIP3 LEVELS DIRECTLY AFFECT CA2+ DYNAMICS? THE SUCCESSFUL COMPLETION OF THE PROJECT WILL PROVIDE THE FIRST DETAILED MOLECULAR FRAMEWORK OF HOW CRL5 CONTROLS PROJECTION NEURON MIGRATION AND TERMINATION TO ORCHESTRATE CORTICAL MORPHOGENESIS AND IDENTIFY CRL5 AS A NOVEL REGULATOR OF PHOSPHOINOSITIDES METABOLISM AND CA2+ DYNAMICS IN THE NERVOUS SYSTEM. COMPLETION OF THIS PROJECT WILL OFFERING POTENTIAL TARGETS FOR THERAPEUTIC INTERVENTION IN NEURONAL MIGRATION DISORDERS.",
+    "total_obligation": 1233847,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-02-20",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 973136.23,
+    "total_account_obligation": 1233847,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 973136.23
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1233847
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Neurological Disorders and Stroke"
+    },
+    "period_of_performance": {
+      "start_date": "2023-03-01",
+      "end_date": "2028-02-29",
+      "last_modified_date": "2025-08-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 973136.23
+  }
+}

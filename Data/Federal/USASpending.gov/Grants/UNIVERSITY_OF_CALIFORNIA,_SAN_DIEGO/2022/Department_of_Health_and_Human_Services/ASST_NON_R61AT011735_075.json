@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91365254,
+    "Award ID": "R61AT011735",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 1099216,
+    "Total Outlays": 984220.39,
+    "Description": "ENDOCANNABINOID SYSTEM ENGAGEMENT AND CLINICAL SYMPTOM CHANGE WITH CANNABIDIOL FOR SOCIAL ANXIETY DISORDER - CANNABIS-BASED PRODUCTS ARE COMMONLY USED BY THE PUBLIC TO SELF-MANAGE SYMPTOMS OF ANXIETY; HOWEVER, PEOPLE ARE MAKING DECISIONS ABOUT WHAT TYPE OF PRODUCT TO USE (E.G., CBD, THC), AND IN WHAT DOSES, IN THE ABSENCE OF RIGOROUS EMPIRICAL DATA. CANNABIDIOL (CBD) IS A NON-INTOXICATING PHYTOCANNABINOID THAT HAS SHOWN PROMISE – BASED ON ANIMAL AND SINGLE DOSE FINDINGS IN HUMANS – AS A NATURAL THERAPEUTIC FOR ANXIETY AND STRESS-RELATED DISORDERS. THESE CONDITIONS ARE COMMON, DISABLING, AND FOR WHICH FIRST-LINE PHARMACOLOGICAL AND PSYCHOSOCIAL TREATMENTS FAIL 50% OF PATIENTS. ALTHOUGH INITIAL EVIDENCE SUGGESTS THAT CBD HAS ANXIOLYTIC PROPERTIES, THE DOSE-DEPENDENT BIOLOGICAL AND BEHAVIORAL EFFECTS HAVE NOT BEEN CHARACTERIZED IN CLINICALLY ANXIOUS SAMPLES. NO STUDIES, TO OUR KNOWLEDGE, HAVE COMPARED DIFFERENT CBD DOSES WITHIN THE SAME CLINICAL SAMPLE, NOR HAVE PUTATIVE BIOLOGICAL TARGETS (E.G., ENDOCANNABINOID FUNCTION) BEEN MEASURED ALONGSIDE ANXIETY REACTIVITY OR SYMPTOM MEASURES. THIS LIMITED KNOWLEDGE HAS IMPEDED THE TRANSLATION OF SINGLE DOSE FINDINGS TO CHRONIC DOSING RANDOMIZED CLINICAL TRIALS IN ANXIETY POPULATIONS. THE PROPOSED TWO-PHASE, MILESTONE-DRIVEN PROJECT INTENDS TO ADDRESS THIS GAP BY ADVANCING KNOWLEDGE ABOUT THE MECHANISMS AND THERAPEUTIC POTENTIAL OF CBD FOR ANXIETY. WE WILL TEST THE CAUSAL ROLE OF ENDOCANNABINOID-MEDIATED ANXIETY REACTIVITY IN REDUCING CLINICAL SYMPTOMS AND IMPAIRMENT IN PATIENTS DIAGNOSED WITH SOCIAL ANXIETY DISORDER (SAD). THE R61 PHASE PROJECT WILL EVALUATE THE DOSE-DEPENDENT EFFECTS OF CBD ON BLOOD PLASMA LEVELS OF ANANDAMIDE (AN ENDOGENOUS CANNABINOID THAT HAS BEEN SHOWN TO REGULATE STRESS RESPONSES; PRIMARY BIOLOGICAL SIGNATURE) AND ANXIETY REACTIVITY TO A SOCIAL STRESS TASK (SECONDARY TARGET) IN A SUB-ACUTE (4-DAY) DOSING STUDY (I.E., WHEN STEADY STATE CBD LEVELS HAVE BEEN REACHED). AIM 1 WILL TEST THE HYPOTHESIS THAT CBD INCREASES ANANDAMIDE LEVELS AND DECREASES ANXIETY REACTIVITY COMPARED TO PLACEBO. AIM 2 WILL DETERMINE WHICH DOSE (300 OR 900 MG/D) OF CBD PRODUCES A GREATER EFFECT ON ANANDAMIDE AND ANXIETY REACTIVITY. IF CBD IS FOUND TO BE SUPERIOR TO PLACEBO IN ELEVATING PLASMA ANANDAMIDE LEVELS AND REDUCING ANXIETY REACTIVITY, THE R33 PHASE PROJECT WILL ATTEMPT TO REPLICATE THE R61 PROJECT FINDINGS (AIM 1; SUB-ACUTE DOSING STUDY) AND EXAMINE WHETHER CHANGES IN ANANDAMIDE AND ANXIETY RESPONSES ARE ASSOCIATED WITH CLINICAL IMPROVEMENT (I.E., REDUCTION IN ANXIETY SYMPTOMS AND IMPAIRMENT; AIM 2) FOLLOWING AN 8-WEEK DOUBLE-BLIND, RANDOMIZED, PLACEBO-CONTROLLED TRIAL OF CBD (DOSE INFORMED BY THE R61 PROJECT) IN SUBJECTS DIAGNOSED WITH SAD. SECONDARY CLINICAL OUTCOMES WILL BE CHANGE IN FUNCTIONAL INTERFERENCE, AND CO-OCCURRING SYMPTOMS OF DEPRESSION AND GENERAL ANXIETY. POSITIVE FINDINGS WILL SUPPORT A LARGER CONFIRMATORY EFFICACY TRIAL TO FURTHER EVALUATE THE THERAPEUTIC POTENTIAL OF CBD FOR ANXIETY DISORDERS. REGARDLESS OF STUDY OUTCOMES, IMPORTANT INFORMATION WILL BE GAINED ABOUT THE ROLE OF CBD IN MODULATING ENDOCANNABINOID-MEDIATED ANXIETY OUTCOMES, WHICH WILL PAVE THE WAY FOR FUTURE RESEARCH ON CANNABINOIDS AND ANXIETY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92093",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-01-18",
+    "End Date": "2025-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R61AT011735_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91365254,
+    "generated_unique_award_id": "ASST_NON_R61AT011735_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ENDOCANNABINOID SYSTEM ENGAGEMENT AND CLINICAL SYMPTOM CHANGE WITH CANNABIDIOL FOR SOCIAL ANXIETY DISORDER - CANNABIS-BASED PRODUCTS ARE COMMONLY USED BY THE PUBLIC TO SELF-MANAGE SYMPTOMS OF ANXIETY; HOWEVER, PEOPLE ARE MAKING DECISIONS ABOUT WHAT TYPE OF PRODUCT TO USE (E.G., CBD, THC), AND IN WHAT DOSES, IN THE ABSENCE OF RIGOROUS EMPIRICAL DATA. CANNABIDIOL (CBD) IS A NON-INTOXICATING PHYTOCANNABINOID THAT HAS SHOWN PROMISE – BASED ON ANIMAL AND SINGLE DOSE FINDINGS IN HUMANS – AS A NATURAL THERAPEUTIC FOR ANXIETY AND STRESS-RELATED DISORDERS. THESE CONDITIONS ARE COMMON, DISABLING, AND FOR WHICH FIRST-LINE PHARMACOLOGICAL AND PSYCHOSOCIAL TREATMENTS FAIL 50% OF PATIENTS. ALTHOUGH INITIAL EVIDENCE SUGGESTS THAT CBD HAS ANXIOLYTIC PROPERTIES, THE DOSE-DEPENDENT BIOLOGICAL AND BEHAVIORAL EFFECTS HAVE NOT BEEN CHARACTERIZED IN CLINICALLY ANXIOUS SAMPLES. NO STUDIES, TO OUR KNOWLEDGE, HAVE COMPARED DIFFERENT CBD DOSES WITHIN THE SAME CLINICAL SAMPLE, NOR HAVE PUTATIVE BIOLOGICAL TARGETS (E.G., ENDOCANNABINOID FUNCTION) BEEN MEASURED ALONGSIDE ANXIETY REACTIVITY OR SYMPTOM MEASURES. THIS LIMITED KNOWLEDGE HAS IMPEDED THE TRANSLATION OF SINGLE DOSE FINDINGS TO CHRONIC DOSING RANDOMIZED CLINICAL TRIALS IN ANXIETY POPULATIONS. THE PROPOSED TWO-PHASE, MILESTONE-DRIVEN PROJECT INTENDS TO ADDRESS THIS GAP BY ADVANCING KNOWLEDGE ABOUT THE MECHANISMS AND THERAPEUTIC POTENTIAL OF CBD FOR ANXIETY. WE WILL TEST THE CAUSAL ROLE OF ENDOCANNABINOID-MEDIATED ANXIETY REACTIVITY IN REDUCING CLINICAL SYMPTOMS AND IMPAIRMENT IN PATIENTS DIAGNOSED WITH SOCIAL ANXIETY DISORDER (SAD). THE R61 PHASE PROJECT WILL EVALUATE THE DOSE-DEPENDENT EFFECTS OF CBD ON BLOOD PLASMA LEVELS OF ANANDAMIDE (AN ENDOGENOUS CANNABINOID THAT HAS BEEN SHOWN TO REGULATE STRESS RESPONSES; PRIMARY BIOLOGICAL SIGNATURE) AND ANXIETY REACTIVITY TO A SOCIAL STRESS TASK (SECONDARY TARGET) IN A SUB-ACUTE (4-DAY) DOSING STUDY (I.E., WHEN STEADY STATE CBD LEVELS HAVE BEEN REACHED). AIM 1 WILL TEST THE HYPOTHESIS THAT CBD INCREASES ANANDAMIDE LEVELS AND DECREASES ANXIETY REACTIVITY COMPARED TO PLACEBO. AIM 2 WILL DETERMINE WHICH DOSE (300 OR 900 MG/D) OF CBD PRODUCES A GREATER EFFECT ON ANANDAMIDE AND ANXIETY REACTIVITY. IF CBD IS FOUND TO BE SUPERIOR TO PLACEBO IN ELEVATING PLASMA ANANDAMIDE LEVELS AND REDUCING ANXIETY REACTIVITY, THE R33 PHASE PROJECT WILL ATTEMPT TO REPLICATE THE R61 PROJECT FINDINGS (AIM 1; SUB-ACUTE DOSING STUDY) AND EXAMINE WHETHER CHANGES IN ANANDAMIDE AND ANXIETY RESPONSES ARE ASSOCIATED WITH CLINICAL IMPROVEMENT (I.E., REDUCTION IN ANXIETY SYMPTOMS AND IMPAIRMENT; AIM 2) FOLLOWING AN 8-WEEK DOUBLE-BLIND, RANDOMIZED, PLACEBO-CONTROLLED TRIAL OF CBD (DOSE INFORMED BY THE R61 PROJECT) IN SUBJECTS DIAGNOSED WITH SAD. SECONDARY CLINICAL OUTCOMES WILL BE CHANGE IN FUNCTIONAL INTERFERENCE, AND CO-OCCURRING SYMPTOMS OF DEPRESSION AND GENERAL ANXIETY. POSITIVE FINDINGS WILL SUPPORT A LARGER CONFIRMATORY EFFICACY TRIAL TO FURTHER EVALUATE THE THERAPEUTIC POTENTIAL OF CBD FOR ANXIETY DISORDERS. REGARDLESS OF STUDY OUTCOMES, IMPORTANT INFORMATION WILL BE GAINED ABOUT THE ROLE OF CBD IN MODULATING ENDOCANNABINOID-MEDIATED ANXIETY OUTCOMES, WHICH WILL PAVE THE WAY FOR FUTURE RESEARCH ON CANNABINOIDS AND ANXIETY.",
+    "total_obligation": 1099216,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-01-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 984220.39,
+    "total_account_obligation": 1099216,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 984220.39
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1099216
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Center for Complementary \u0026 Integrative Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Center for Complementary \u0026 Integrative Health"
+    },
+    "period_of_performance": {
+      "start_date": "2022-01-18",
+      "end_date": "2025-04-30",
+      "last_modified_date": "2025-05-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 984220.39
+  }
+}

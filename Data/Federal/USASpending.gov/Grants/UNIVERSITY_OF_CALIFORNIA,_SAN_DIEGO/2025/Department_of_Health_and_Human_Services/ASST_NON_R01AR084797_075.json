@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 171738086,
+    "Award ID": "R01AR084797",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 2884008,
+    "Total Outlays": 0,
+    "Description": "INVESTIGATING MECHANISMS OF INTRA- AND INTER-INDIVIDUAL PAIN VARIABILITY IN PATIENTS WITH COMORBID CHRONIC PAIN AND DEPRESSION - PROJECT SUMMARY/ ABSTRACT CHRONIC LOW BACK PAIN (CLBP) IS THE MOST COMMON MUSCULOSKELETAL PAIN CONDITION ASSOCIATED WITH SUBSTANTIAL INTER-INDIVIDUAL VARIABILITY. FURTHER, MAJOR DEPRESSIVE DISORDER (MDD) IS COMORBID IN UP TO 46% OF INDIVIDUALS WITH CLBP, WHICH IS RELATED TO WORSE PAIN AND DEPRESSION SEVERITY, DISABILITY, AND QUALITY OF LIFE, AND POORER RESPONSE TO EXISTING TREATMENTS COMPARED TO CLBP ALONE. MDD IS ITSELF A HETEROGENOUS CONDITION, AND THUS ANY ASSOCIATION WITH CLBP ALSO LIKELY VARIES BETWEEN INDIVIDUALS. WHILE THE BIOPSYCHOSOCIAL MODEL HAS BEEN HELPFUL FOR IDENTIFYING BIOLOGICAL, PSYCHOLOGICAL, AND SOCIAL PROCESSES ASSOCIATED WITH CLBP, AS WELL AS HELPING TO EXPLAIN THE OVERLAP BETWEEN CLBP AND MDD, A MAJOR CHALLENGE IN OPTIMIZING THE TREATMENT IS IDENTIFYING WHICH FACTORS, AND IN WHICH COMBINATION, ARE MOST RELATED TO AN INDIVIDUAL’S UNIQUE PAIN EXPERIENCE. IN RESPONSE TO THE NOTICE OF FUNDING OPPORTUNITY FOR UNDERSTANDING INDIVIDUAL DIFFERENCES IN HUMAN PAIN CONDITIONS, THE PROPOSED RESEARCH WILL GENERATE INDIVIDUALIZED PREDICTION MODELS OF MOMENTARY PAIN INTENSITY AMONG 150 ADULTS WITH CLBP+MDD (AIM 1). THIS WILL BE ACCOMPLISHED BY A COMBINATION OF ECOLOGICAL MOMENTARY ASSESSMENTS (EMA) AND WHOLE-HEALTH METRICS OBTAINED FROM WEARABLES, ALL PROCESSED WITH A ROBUST MACHINE LEARNING (ML) PIPELINE PREVIOUSLY VALIDATED IN OUR LABORATORY. WE HYPOTHESIZE THAT PERSONALIZED PREDICTION MODELS OF PAIN VARIABILITY USING ML ALGORITHMS WILL BE FEASIBLE IN AT LEAST 80% OF PARTICIPANTS, ACHIEVING ~80% PREDICTION ACCURACY. AFTER OBTAINING INDIVIDUALIZED MODELS ON THE STUDY SAMPLE, WE WELL THEN APPLY DATA-DRIVEN CLUSTERING ALGORITHMS TO IDENTIFY SUBGROUPS OF PARTICIPANTS THAT SHARE TOP FEATURES OF INDIVIDUAL PAIN VARIABILITY (AIM 2A) AND RELATE THESE CLUSTERS TO UNDERLYING BIOLOGICAL MECHANISMS IMPLICATED IN CLBP+MDD (EMOTION BIAS AND REWARD PROCESSING WITH CONCURRENT EEG AND LABORATORY MEASURES OF CENTRAL SENSITIZATION) (AIM 2B). WE HYPOTHESIZE THAT UNIQUE PHENOTYPES WILL EMERGE CHARACTERIZED BY SHARED FEATURES OF INDIVIDUAL PAIN VARIABILITY AND THAT EMPIRICALLY-DERIVED PHENOTYPES WILL BE RELATED TO DISTINCT BIOLOGICAL MECHANISMS. THIS APPLICATION HOLDS PROMISE TO MAKE A MAJOR CONTRIBUTION TO THE SCIENTIFIC KNOWLEDGE OF BOTH INTRA- AND INTER-INDIVIDUAL PAIN VARIABILITY IN PERSONS WITH CLBP+MDD. THIS APPROACH REPRESENTS A SHIFT IN CURRENT RESEARCH PRACTICES, WHICH HAS LARGELY FOCUSED ON ANALYSIS AT THE GROUP LEVEL, BY TAKING A DATA-DRIVEN APPROACH TO ELUCIDATE INDIVIDUAL DIFFERENCES IN CLBP+MDD. FURTHER, OUR CLUSTERING APPROACH IN AIM 2 IS HIGHLY NOVEL, WHICH GROUPS INDIVIDUALS BASED ON TOP FEATURES OF INDIVIDUAL PAIN VARIABILITY, ENABLING A HIGH PRECISION METHOD OF IDENTIFYING HOMOGENOUS SUBGROUPS AND EXAMINING PUTATIVE UNDERLYING MECHANISMS OF CLBP+MDD SUBTYPES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92093",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-05-29",
+    "End Date": "2028-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AR084797_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 171738086,
+    "generated_unique_award_id": "ASST_NON_R01AR084797_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INVESTIGATING MECHANISMS OF INTRA- AND INTER-INDIVIDUAL PAIN VARIABILITY IN PATIENTS WITH COMORBID CHRONIC PAIN AND DEPRESSION - PROJECT SUMMARY/ ABSTRACT CHRONIC LOW BACK PAIN (CLBP) IS THE MOST COMMON MUSCULOSKELETAL PAIN CONDITION ASSOCIATED WITH SUBSTANTIAL INTER-INDIVIDUAL VARIABILITY. FURTHER, MAJOR DEPRESSIVE DISORDER (MDD) IS COMORBID IN UP TO 46% OF INDIVIDUALS WITH CLBP, WHICH IS RELATED TO WORSE PAIN AND DEPRESSION SEVERITY, DISABILITY, AND QUALITY OF LIFE, AND POORER RESPONSE TO EXISTING TREATMENTS COMPARED TO CLBP ALONE. MDD IS ITSELF A HETEROGENOUS CONDITION, AND THUS ANY ASSOCIATION WITH CLBP ALSO LIKELY VARIES BETWEEN INDIVIDUALS. WHILE THE BIOPSYCHOSOCIAL MODEL HAS BEEN HELPFUL FOR IDENTIFYING BIOLOGICAL, PSYCHOLOGICAL, AND SOCIAL PROCESSES ASSOCIATED WITH CLBP, AS WELL AS HELPING TO EXPLAIN THE OVERLAP BETWEEN CLBP AND MDD, A MAJOR CHALLENGE IN OPTIMIZING THE TREATMENT IS IDENTIFYING WHICH FACTORS, AND IN WHICH COMBINATION, ARE MOST RELATED TO AN INDIVIDUAL’S UNIQUE PAIN EXPERIENCE. IN RESPONSE TO THE NOTICE OF FUNDING OPPORTUNITY FOR UNDERSTANDING INDIVIDUAL DIFFERENCES IN HUMAN PAIN CONDITIONS, THE PROPOSED RESEARCH WILL GENERATE INDIVIDUALIZED PREDICTION MODELS OF MOMENTARY PAIN INTENSITY AMONG 150 ADULTS WITH CLBP+MDD (AIM 1). THIS WILL BE ACCOMPLISHED BY A COMBINATION OF ECOLOGICAL MOMENTARY ASSESSMENTS (EMA) AND WHOLE-HEALTH METRICS OBTAINED FROM WEARABLES, ALL PROCESSED WITH A ROBUST MACHINE LEARNING (ML) PIPELINE PREVIOUSLY VALIDATED IN OUR LABORATORY. WE HYPOTHESIZE THAT PERSONALIZED PREDICTION MODELS OF PAIN VARIABILITY USING ML ALGORITHMS WILL BE FEASIBLE IN AT LEAST 80% OF PARTICIPANTS, ACHIEVING ~80% PREDICTION ACCURACY. AFTER OBTAINING INDIVIDUALIZED MODELS ON THE STUDY SAMPLE, WE WELL THEN APPLY DATA-DRIVEN CLUSTERING ALGORITHMS TO IDENTIFY SUBGROUPS OF PARTICIPANTS THAT SHARE TOP FEATURES OF INDIVIDUAL PAIN VARIABILITY (AIM 2A) AND RELATE THESE CLUSTERS TO UNDERLYING BIOLOGICAL MECHANISMS IMPLICATED IN CLBP+MDD (EMOTION BIAS AND REWARD PROCESSING WITH CONCURRENT EEG AND LABORATORY MEASURES OF CENTRAL SENSITIZATION) (AIM 2B). WE HYPOTHESIZE THAT UNIQUE PHENOTYPES WILL EMERGE CHARACTERIZED BY SHARED FEATURES OF INDIVIDUAL PAIN VARIABILITY AND THAT EMPIRICALLY-DERIVED PHENOTYPES WILL BE RELATED TO DISTINCT BIOLOGICAL MECHANISMS. THIS APPLICATION HOLDS PROMISE TO MAKE A MAJOR CONTRIBUTION TO THE SCIENTIFIC KNOWLEDGE OF BOTH INTRA- AND INTER-INDIVIDUAL PAIN VARIABILITY IN PERSONS WITH CLBP+MDD. THIS APPROACH REPRESENTS A SHIFT IN CURRENT RESEARCH PRACTICES, WHICH HAS LARGELY FOCUSED ON ANALYSIS AT THE GROUP LEVEL, BY TAKING A DATA-DRIVEN APPROACH TO ELUCIDATE INDIVIDUAL DIFFERENCES IN CLBP+MDD. FURTHER, OUR CLUSTERING APPROACH IN AIM 2 IS HIGHLY NOVEL, WHICH GROUPS INDIVIDUALS BASED ON TOP FEATURES OF INDIVIDUAL PAIN VARIABILITY, ENABLING A HIGH PRECISION METHOD OF IDENTIFYING HOMOGENOUS SUBGROUPS AND EXAMINING PUTATIVE UNDERLYING MECHANISMS OF CLBP+MDD SUBTYPES.",
+    "total_obligation": 2884008,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-05-29",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 2884008,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2884008
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2025-05-29",
+      "end_date": "2028-04-30",
+      "last_modified_date": "2025-06-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

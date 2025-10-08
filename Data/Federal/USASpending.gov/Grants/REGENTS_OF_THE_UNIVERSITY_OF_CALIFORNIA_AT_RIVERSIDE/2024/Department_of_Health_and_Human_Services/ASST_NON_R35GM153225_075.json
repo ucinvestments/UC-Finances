@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91330637,
+    "Award ID": "R35GM153225",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 787500,
+    "Total Outlays": 248215.52,
+    "Description": "INVESTIGATING THE ROLES OF NUCLEAR RNA MODIFICATIONS IN GENE REGULATION - RNA MODIFICATION SERVES AS A MAJOR POSTTRANSCRIPTIONAL MECHANISM TO REGULATE GENE EXPRESSION. RECENT ADVANCES IN HIGH-THROUGHPUT SEQUENCING HAVE EXPONENTIALLY EXPANDED THE BREADTH AND DEPTH OF RNA MODIFICATION TYPES, SUBSTRATE VARIETIES AND BIOLOGICAL SIGNIFICANCE IN NORMAL DEVELOPMENTAL PROCESSES AND THE GENESIS/PROGRESSION OF HUMAN DISEASES, INCLUDING CANCERS, VIRUS INFECTIONS, AND MANY NEURODEGENERATIVE DISEASES. IN EUKARYOTIC CELLS, ALL NASCENT MRNAS ARE BORN WITH A 5' TRIPHOSPHATE GROUP (PPP) AND THEN IMMEDIATELY MODIFIED WITH AN M7G CAP IN THE NUCLEUS. TRNAS AND RRNAS ALSO INITIALLY BEAR A 5' PPP GROUP BUT LOSE IT DURING MATURATION VIA RNA CLEAVAGE EVENTS. EUKARYOTIC CELLS STRINGENTLY REGULATE THE 5' PPP GROUP TO GENERATE A CYTOPLASM FREE OF PPP-RNAS, ALLOWING THEM TO EASILY DETECT VIRAL RNAS, SOME OF WHICH BEAR A 5' PPP GROUP. WHETHER THE PPP GROUP IS SUBJECT TO ALTERNATIVE MODIFICATIONS TO ALTER RNA FATES REMAINS TO BE A KNOWLEDGE GAP IN THE RNA FIELD. RECENT STUDIES BY THE PI AND OTHERS HAVE DEMONSTRATED THAT RNA POLYPHOSPHATASES, WHICH REMOVE TWO PHOSPHATES FROM THE 5' PPP GROUP, PLAY IMPORTANT ROLES IN REGULATING NUCLEAR SMALL RNAS AND VIRUSES. THE PI IS ALSO STUDYING ANOTHER MODIFICATION ON THE PPP GROUP, THE M2,2,7G CAP ON NCRNAS INCLUDING U1 AND U2 SNRNAS. THE PI FOUND THAT INFLUENZA A VIRUS (IAV) PREFERS TO SNATCH THE CAPS OF NCRNAS AND UTILIZE THEM TO GENERATE VIRAL RNAS WITH THESE CAPS IN CANONICAL AND NON-CANONICAL CAP- SNATCHING PROCESSES, THE LATTER OF WHICH WAS DISCOVERED BY THE PI RECENTLY. THE PI IS STUDYING A THIRD NUCLEAR RNA MODIFICATION, THE M5C ON PIRNAS, A RELATIVELY UNEXPLORED BUT IMPORTANT RESEARCH AREA, SINCE PIRNAS USUALLY SERVE AS THE SENSORS IN INNATE IMMUNE RESPONSES. IN ALL, THE PI PROPOSES TO INVESTIGATE THESE THREE TYPES OF NUCLEAR RNA MODIFICATIONS. UNLIKE THE PI'S PREVIOUS STUDY FOCUSING ON SMALL RNA PATHWAYS, THIS PROPOSAL PRIMARILY FOCUSES ON HOW PROTEINS IN THIS RNA POLYPHOSPHATASE FAMILY, ESPECIALLY PIR-2, REGULATE MRNA AND LINCRNA, AS THE PI DISCOVERED THAT THESE PROTEINS PLAY NON-SMALL RNA MEDIATED ESSENTIAL ROLES IN C. ELEGANS. THE PI WILL IDENTIFY THE SUBSTRATES AND SYSTEMATICALLY EXAMINE IF AND HOW THIS POLYPHOSPHATASE FAMILY REGULATES DNA REPLICATION, RNA TRANSCRIPTION AND CHROMATIN MODIFICATION IN A VARIETY OF CELLS INCLUDING GERMLINE CELLS AND NEURONS. THIS STUDY WILL DISCOVER A NEW MODE OF GENE REGULATION, WHICH UTILIZES NUCLEAR RNA POLYPHOSPHATASES TO ALTER NASCENT PPP-RNA FATE. THE PI WILL ALSO STUDY HOW M5C ON PIRNA MODULATES RNA STABILITY AND FUNCTIONS IN TARGET BINDING AND PROCESSING, AS M5C ON OTHER RNAS. MOREOVER, THE PI WILL EXAMINE IF IAV PREFERENTIALLY UTILIZES THE M7G CAPS DERIVED FROM NASCENT U1 AND U2 SNRNAS OR THE M2,2,7G CAPS DERIVED FROM MATURE U1 AND U2 IN THE NUCLEUS, AND IF RNA SPLICING MEDIATED BY U1/U2 SNRNA IS COMPROMISED BY IAV. THE PROPOSED RESEARCH IS ORIGINAL AND INNOVATIVE, AND BEARS DIRECT RELEVANCE WITH HUMAN HEALTH AND DISEASE. NOT ONLY WILL THIS STUDY GENERATE NEW GENE REGULATION TOOLS FOR RESEARCH AND DISEASE TREATMENT, BUT IT ALSO PROMOTES NEXT GENERATION RESEARCHERS, ESPECIALLY THOSE UNDERREPRESENTED /UNDERSERVED.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-08-01",
+    "End Date": "2029-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R35GM153225_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91330637,
+    "generated_unique_award_id": "ASST_NON_R35GM153225_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "INVESTIGATING THE ROLES OF NUCLEAR RNA MODIFICATIONS IN GENE REGULATION - RNA MODIFICATION SERVES AS A MAJOR POSTTRANSCRIPTIONAL MECHANISM TO REGULATE GENE EXPRESSION. RECENT ADVANCES IN HIGH-THROUGHPUT SEQUENCING HAVE EXPONENTIALLY EXPANDED THE BREADTH AND DEPTH OF RNA MODIFICATION TYPES, SUBSTRATE VARIETIES AND BIOLOGICAL SIGNIFICANCE IN NORMAL DEVELOPMENTAL PROCESSES AND THE GENESIS/PROGRESSION OF HUMAN DISEASES, INCLUDING CANCERS, VIRUS INFECTIONS, AND MANY NEURODEGENERATIVE DISEASES. IN EUKARYOTIC CELLS, ALL NASCENT MRNAS ARE BORN WITH A 5' TRIPHOSPHATE GROUP (PPP) AND THEN IMMEDIATELY MODIFIED WITH AN M7G CAP IN THE NUCLEUS. TRNAS AND RRNAS ALSO INITIALLY BEAR A 5' PPP GROUP BUT LOSE IT DURING MATURATION VIA RNA CLEAVAGE EVENTS. EUKARYOTIC CELLS STRINGENTLY REGULATE THE 5' PPP GROUP TO GENERATE A CYTOPLASM FREE OF PPP-RNAS, ALLOWING THEM TO EASILY DETECT VIRAL RNAS, SOME OF WHICH BEAR A 5' PPP GROUP. WHETHER THE PPP GROUP IS SUBJECT TO ALTERNATIVE MODIFICATIONS TO ALTER RNA FATES REMAINS TO BE A KNOWLEDGE GAP IN THE RNA FIELD. RECENT STUDIES BY THE PI AND OTHERS HAVE DEMONSTRATED THAT RNA POLYPHOSPHATASES, WHICH REMOVE TWO PHOSPHATES FROM THE 5' PPP GROUP, PLAY IMPORTANT ROLES IN REGULATING NUCLEAR SMALL RNAS AND VIRUSES. THE PI IS ALSO STUDYING ANOTHER MODIFICATION ON THE PPP GROUP, THE M2,2,7G CAP ON NCRNAS INCLUDING U1 AND U2 SNRNAS. THE PI FOUND THAT INFLUENZA A VIRUS (IAV) PREFERS TO SNATCH THE CAPS OF NCRNAS AND UTILIZE THEM TO GENERATE VIRAL RNAS WITH THESE CAPS IN CANONICAL AND NON-CANONICAL CAP- SNATCHING PROCESSES, THE LATTER OF WHICH WAS DISCOVERED BY THE PI RECENTLY. THE PI IS STUDYING A THIRD NUCLEAR RNA MODIFICATION, THE M5C ON PIRNAS, A RELATIVELY UNEXPLORED BUT IMPORTANT RESEARCH AREA, SINCE PIRNAS USUALLY SERVE AS THE SENSORS IN INNATE IMMUNE RESPONSES. IN ALL, THE PI PROPOSES TO INVESTIGATE THESE THREE TYPES OF NUCLEAR RNA MODIFICATIONS. UNLIKE THE PI'S PREVIOUS STUDY FOCUSING ON SMALL RNA PATHWAYS, THIS PROPOSAL PRIMARILY FOCUSES ON HOW PROTEINS IN THIS RNA POLYPHOSPHATASE FAMILY, ESPECIALLY PIR-2, REGULATE MRNA AND LINCRNA, AS THE PI DISCOVERED THAT THESE PROTEINS PLAY NON-SMALL RNA MEDIATED ESSENTIAL ROLES IN C. ELEGANS. THE PI WILL IDENTIFY THE SUBSTRATES AND SYSTEMATICALLY EXAMINE IF AND HOW THIS POLYPHOSPHATASE FAMILY REGULATES DNA REPLICATION, RNA TRANSCRIPTION AND CHROMATIN MODIFICATION IN A VARIETY OF CELLS INCLUDING GERMLINE CELLS AND NEURONS. THIS STUDY WILL DISCOVER A NEW MODE OF GENE REGULATION, WHICH UTILIZES NUCLEAR RNA POLYPHOSPHATASES TO ALTER NASCENT PPP-RNA FATE. THE PI WILL ALSO STUDY HOW M5C ON PIRNA MODULATES RNA STABILITY AND FUNCTIONS IN TARGET BINDING AND PROCESSING, AS M5C ON OTHER RNAS. MOREOVER, THE PI WILL EXAMINE IF IAV PREFERENTIALLY UTILIZES THE M7G CAPS DERIVED FROM NASCENT U1 AND U2 SNRNAS OR THE M2,2,7G CAPS DERIVED FROM MATURE U1 AND U2 IN THE NUCLEUS, AND IF RNA SPLICING MEDIATED BY U1/U2 SNRNA IS COMPROMISED BY IAV. THE PROPOSED RESEARCH IS ORIGINAL AND INNOVATIVE, AND BEARS DIRECT RELEVANCE WITH HUMAN HEALTH AND DISEASE. NOT ONLY WILL THIS STUDY GENERATE NEW GENE REGULATION TOOLS FOR RESEARCH AND DISEASE TREATMENT, BUT IT ALSO PROMOTES NEXT GENERATION RESEARCHERS, ESPECIALLY THOSE UNDERREPRESENTED /UNDERSERVED.",
+    "total_obligation": 787500,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-08-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 248215.52,
+    "total_account_obligation": 787500,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 248215.52
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 787500
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of General Medical Sciences"
+    },
+    "period_of_performance": {
+      "start_date": "2024-08-01",
+      "end_date": "2029-07-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 248215.52
+  }
+}

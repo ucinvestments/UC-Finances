@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91313141,
+    "Award ID": "R22AC00392",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2897821,
+    "Total Outlays": 2897821,
+    "Description": "1. PURPOSE: THIS PROJECT WILL EVALUATE THE EFFICACY OF ACTIONS MEANT TO AID DELTA SMELT POPULATION AND HELP CONSTRUCT THE DECISION SUPPORT TOOLS NECESSARY FOR STRUCTURED DECISION MAKING.2. ACTIVITIES TO BE PERFORMED INCLUDE EVALUATING THE INFLUENCE OF FLOW (MANAGED FLOW ACTIONS OR NATURAL) ON DELTA SMELT; EVALUATING THE HEALTH, CONDITION, AND INTRINSIC GROWTH THROUGH TIME OF WILD CAUGHT DELTA SMELT (INCLUDING WILD FISH OR HATCHERY RELEASED); AND EXPLORING THE INFLUENCE OF PHYTOPLANKTON ON DELTA SMELT CONDITION BY PAIRING ICF PHYTOPLANKTON DATA WITH EDSM DELTA SMELT COLLECTIONS SINCE 2017.3. DELIVERABLES AND EXPECTED OUTCOMES: THE OBJECTIVE OF THIS PROJECT IS TO COLLECT AND PRESERVE DELTA SMELT FROM FISH SURVEYS, INCLUDING EXAMINING BIOMARKERS AND INDICES, OTOLITH AGING, CHEMISTRY, AND GROWTH. THE DATA WILL BE ANALYZED AND UTILIZED FOR DECISION MAKING BUT ALSO POSTED ON A PUBLIC WEBSITE AND PRESENTED AT VARIOUS SCIENTIFIC CONFERENCES AND IN SCIENTIFIC JOURNALS AND PUBLICATIONS.4. INTENDED BENEFICIARY(IES): THE PUBLIC AND THE DELTA SMELT",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": "SCHOOL OF VETERINARY MEDICINE",
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of the Interior",
+    "Awarding Sub Agency": "Bureau of Reclamation",
+    "Start Date": "2022-05-13",
+    "End Date": "2025-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R22AC00392_014",
+    "awarding_agency_id": 209,
+    "agency_slug": "department-of-the-interior",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91313141,
+    "generated_unique_award_id": "ASST_NON_R22AC00392_014",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "1. PURPOSE: THIS PROJECT WILL EVALUATE THE EFFICACY OF ACTIONS MEANT TO AID DELTA SMELT POPULATION AND HELP CONSTRUCT THE DECISION SUPPORT TOOLS NECESSARY FOR STRUCTURED DECISION MAKING.2. ACTIVITIES TO BE PERFORMED INCLUDE EVALUATING THE INFLUENCE OF FLOW (MANAGED FLOW ACTIONS OR NATURAL) ON DELTA SMELT; EVALUATING THE HEALTH, CONDITION, AND INTRINSIC GROWTH THROUGH TIME OF WILD CAUGHT DELTA SMELT (INCLUDING WILD FISH OR HATCHERY RELEASED); AND EXPLORING THE INFLUENCE OF PHYTOPLANKTON ON DELTA SMELT CONDITION BY PAIRING ICF PHYTOPLANKTON DATA WITH EDSM DELTA SMELT COLLECTIONS SINCE 2017.3. DELIVERABLES AND EXPECTED OUTCOMES: THE OBJECTIVE OF THIS PROJECT IS TO COLLECT AND PRESERVE DELTA SMELT FROM FISH SURVEYS, INCLUDING EXAMINING BIOMARKERS AND INDICES, OTOLITH AGING, CHEMISTRY, AND GROWTH. THE DATA WILL BE ANALYZED AND UTILIZED FOR DECISION MAKING BUT ALSO POSTED ON A PUBLIC WEBSITE AND PRESENTED AT VARIOUS SCIENTIFIC CONFERENCES AND IN SCIENTIFIC JOURNALS AND PUBLICATIONS.4. INTENDED BENEFICIARY(IES): THE PUBLIC AND THE DELTA SMELT",
+    "total_obligation": 2897821,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-05-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 2897821,
+    "total_account_obligation": 2897821,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2897821
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2897821
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 228,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "Bureau of Reclamation",
+        "code": "1425",
+        "abbreviation": "BOR"
+      },
+      "office_agency_name": "MP-REGIONAL OFFICE"
+    },
+    "awarding_agency": {
+      "id": 228,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of the Interior",
+        "code": "014",
+        "abbreviation": "DOI",
+        "slug": "department-of-the-interior"
+      },
+      "subtier_agency": {
+        "name": "Bureau of Reclamation",
+        "code": "1425",
+        "abbreviation": "BOR"
+      },
+      "office_agency_name": "MP-REGIONAL OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2022-05-13",
+      "end_date": "2025-04-30",
+      "last_modified_date": "2024-02-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": "SCHOOL OF VETERINARY MEDICINE",
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "90",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 2897821
+  }
+}

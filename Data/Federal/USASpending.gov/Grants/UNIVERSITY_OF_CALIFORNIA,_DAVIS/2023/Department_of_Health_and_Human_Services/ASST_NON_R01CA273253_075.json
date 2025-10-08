@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91155032,
+    "Award ID": "R01CA273253",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2119698,
+    "Total Outlays": 1600857.11,
+    "Description": "A MINIATURIZED NEURAL NETWORK ENABLED NANOPLASMONIC SPECTROSCOPY PLATFORM FOR LABEL-FREE CANCER DETECTION IN BIOFLUIDS - PROJECT SUMMARY/ABSTRACT STATE OF THE ART METHODS FOR THE EARLY DETECTION AND MONITORING OF CANCER ARE EITHER INVASIVE, TIME-CONSUMING, EXPENSIVE, OR FREQUENTLY INACCURATE, WHICH HINDERS THE ROUTINE SCREENING OF AT RISK-PATIENTS TO IMPROVE SURVIVAL RATES. THE MULTIPLEXED DETECTION OF ONCOMETABOLITES CIRCULATING IN MINIMALLY OR NON-INVASIVE BIOFLUIDS, SUCH AS SALIVA, BLOOD PLASMA, OR SWEAT, COULD PROVIDE SIGNIFICANT CLINICAL AND ECONOMIC BENEFITS. METABOLITES AND RELATED CIRCULATING BIOMARKERS ARE STRUCTURALLY UNIQUE ELEMENTS WITH DISTINCTIVE ABSORPTIVE FINGERPRINTS IN THE INFRARED (IR) PORTION OF THE ELECTROMAGNETIC SPECTRUM. COMMON APPROACHES THAT PROVIDE MULTIPLEXED METABOLITE DETECTION, SUCH AS MASS SPECTROMETRY (MS), RAMAN SPECTROSCOPY, AND FOURIER TRANSFORM INFRARED (FTIR) SPECTROSCOPY, ARE EXPENSIVE AND DIFFICULT TO MINIATURIZE. ON THE OTHER HAND, INEXPENSIVE MINIATURIZED ELECTROCHEMICAL TECHNIQUES LACK SPECIFICITY, SENSITIVITY, EASE, AND SUFFER FROM LIMITED MULTIPLEXING. PORTABLE TECHNOLOGIES CAPABLE OF RAPID AND ACCURATE DIAGNOSTICS OF EARLY/LATE-STAGE CANCER ARE NOT READILY AVAILABLE. TO ADDRESS THIS CHALLENGE, OUR MULTIDISCIPLINARY TEAM PROPOSES AN INNOVATIVE NEURAL NETWORK ENABLED CANCER SPECTROSCOPY (NNECS) LIQUID BIOPSY PLATFORM BASED ON PLASMONIC NANO-MICRO ELECTROMECHANICAL SYSTEMS (NMEMS) TO DIAGNOSE AND MONITOR EARLY/LATE-STAGE HEAD NECK CANCER (HNC). INSTEAD OF TARGETING INDIVIDUAL METABOLITES, WE PROPOSE TO PROCESS THE ENTIRE IR SPECTRUM OF SALIVA, BLOOD PLASMA, AND SWEAT AS A BIOMARKER. OUR FOCUS IS HEAD AND NECK CANCER (HNC), A HIGHLY METABOLIC DISEASE WHERE STRATIFICATION OF PATIENTS ACCORDING TO BETTER DIAGNOSTIC INFORMATION WOULD GREATLY IMPROVE OUTCOMES. OUR PLATFORM COMBINES IR NMEMS SENSORS TO ACCURATELY DETECT IR SPECTRAL FINGERPRINTS WITH NEURAL NETWORK (NN) FRAMEWORKS TO FIND THE APPROPRIATE COMBINATIONS OF SPECTRAL BANDS THAT WILL INFORM THE DESIGN OF HIGHLY MULTIPLEXED MINIATURIZED BIOSENSOR. WE WILL TAKE A NOVEL, INTERDISCIPLINARY APPROACH WITHIN THE FRAMEWORK OF FIVE KEY COMPONENTS: (I) COLLECTING AND ANALYZING (FTIR, MS, HISTOPATHOLOGY/IMAGING) BIOFLUIDS (SALIVA, SWEAT, BLOOD) FROM A LARGE NUMBER OF EARLY/LATE STAGE HNC PATIENTS AND HEALTHY SUBJECTS PER YEAR; (II) DEVELOPING POWERFUL NN ARCHITECTURES AND DIAGNOSIS TOOLS FOR SEGREGATING EARLY/LATE-STAGE HNC SAMPLES FROM CONTROLS, CONSIDERING IR DATA STREAMS FROM EACH INDIVIDUAL BIOFLUID AS WELL AS THEIR POTENTIAL COMBINATIONS; (III) DEVELOPING A NNECS PLATFORM USING ARRAYS OF PLASMONIC NMEMS TARGETING SPECIFIC IR BANDS RESOLVED BY ML ALGORITHMS; (IV) DETERMINING NNECS EARLY/LATE-STAGE CANCER DETECTION PERFORMANCE IN TERMS OF SPECIFICITY, SENSITIVITY, AND ACCURACY; AND (V) ELUCIDATING WHICH METABOLITES DRIVE THE CHANGES IN THE IR ABSORPTION OF CANCER BIOFLUIDS SUPPORTED BY MS. THE EXPECTED OUTCOME IS A MINIATURIZED, LABEL-FREE, AFFORDABLE, AND ACCURATE TECHNOLOGY ABLE TO RADICALLY IMPROVE THE ABILITY TO DIAGNOSE EARLY- STAGE HNC AS WELL AS THE MONITORING OF RECURRENT HNC PATIENTS. MOVING BEYOND, NNECS CAN BE ADAPTED FOR THE DIAGNOSIS AND MONITORING OF A WIDE RANGE OF METABOLIC CONDITIONS, INCLUDING MANY TYPES OF CANCER, DIABETES, AND HEART-DISEASES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2023-04-01",
+    "End Date": "2028-03-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01CA273253_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91155032,
+    "generated_unique_award_id": "ASST_NON_R01CA273253_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "A MINIATURIZED NEURAL NETWORK ENABLED NANOPLASMONIC SPECTROSCOPY PLATFORM FOR LABEL-FREE CANCER DETECTION IN BIOFLUIDS - PROJECT SUMMARY/ABSTRACT STATE OF THE ART METHODS FOR THE EARLY DETECTION AND MONITORING OF CANCER ARE EITHER INVASIVE, TIME-CONSUMING, EXPENSIVE, OR FREQUENTLY INACCURATE, WHICH HINDERS THE ROUTINE SCREENING OF AT RISK-PATIENTS TO IMPROVE SURVIVAL RATES. THE MULTIPLEXED DETECTION OF ONCOMETABOLITES CIRCULATING IN MINIMALLY OR NON-INVASIVE BIOFLUIDS, SUCH AS SALIVA, BLOOD PLASMA, OR SWEAT, COULD PROVIDE SIGNIFICANT CLINICAL AND ECONOMIC BENEFITS. METABOLITES AND RELATED CIRCULATING BIOMARKERS ARE STRUCTURALLY UNIQUE ELEMENTS WITH DISTINCTIVE ABSORPTIVE FINGERPRINTS IN THE INFRARED (IR) PORTION OF THE ELECTROMAGNETIC SPECTRUM. COMMON APPROACHES THAT PROVIDE MULTIPLEXED METABOLITE DETECTION, SUCH AS MASS SPECTROMETRY (MS), RAMAN SPECTROSCOPY, AND FOURIER TRANSFORM INFRARED (FTIR) SPECTROSCOPY, ARE EXPENSIVE AND DIFFICULT TO MINIATURIZE. ON THE OTHER HAND, INEXPENSIVE MINIATURIZED ELECTROCHEMICAL TECHNIQUES LACK SPECIFICITY, SENSITIVITY, EASE, AND SUFFER FROM LIMITED MULTIPLEXING. PORTABLE TECHNOLOGIES CAPABLE OF RAPID AND ACCURATE DIAGNOSTICS OF EARLY/LATE-STAGE CANCER ARE NOT READILY AVAILABLE. TO ADDRESS THIS CHALLENGE, OUR MULTIDISCIPLINARY TEAM PROPOSES AN INNOVATIVE NEURAL NETWORK ENABLED CANCER SPECTROSCOPY (NNECS) LIQUID BIOPSY PLATFORM BASED ON PLASMONIC NANO-MICRO ELECTROMECHANICAL SYSTEMS (NMEMS) TO DIAGNOSE AND MONITOR EARLY/LATE-STAGE HEAD NECK CANCER (HNC). INSTEAD OF TARGETING INDIVIDUAL METABOLITES, WE PROPOSE TO PROCESS THE ENTIRE IR SPECTRUM OF SALIVA, BLOOD PLASMA, AND SWEAT AS A BIOMARKER. OUR FOCUS IS HEAD AND NECK CANCER (HNC), A HIGHLY METABOLIC DISEASE WHERE STRATIFICATION OF PATIENTS ACCORDING TO BETTER DIAGNOSTIC INFORMATION WOULD GREATLY IMPROVE OUTCOMES. OUR PLATFORM COMBINES IR NMEMS SENSORS TO ACCURATELY DETECT IR SPECTRAL FINGERPRINTS WITH NEURAL NETWORK (NN) FRAMEWORKS TO FIND THE APPROPRIATE COMBINATIONS OF SPECTRAL BANDS THAT WILL INFORM THE DESIGN OF HIGHLY MULTIPLEXED MINIATURIZED BIOSENSOR. WE WILL TAKE A NOVEL, INTERDISCIPLINARY APPROACH WITHIN THE FRAMEWORK OF FIVE KEY COMPONENTS: (I) COLLECTING AND ANALYZING (FTIR, MS, HISTOPATHOLOGY/IMAGING) BIOFLUIDS (SALIVA, SWEAT, BLOOD) FROM A LARGE NUMBER OF EARLY/LATE STAGE HNC PATIENTS AND HEALTHY SUBJECTS PER YEAR; (II) DEVELOPING POWERFUL NN ARCHITECTURES AND DIAGNOSIS TOOLS FOR SEGREGATING EARLY/LATE-STAGE HNC SAMPLES FROM CONTROLS, CONSIDERING IR DATA STREAMS FROM EACH INDIVIDUAL BIOFLUID AS WELL AS THEIR POTENTIAL COMBINATIONS; (III) DEVELOPING A NNECS PLATFORM USING ARRAYS OF PLASMONIC NMEMS TARGETING SPECIFIC IR BANDS RESOLVED BY ML ALGORITHMS; (IV) DETERMINING NNECS EARLY/LATE-STAGE CANCER DETECTION PERFORMANCE IN TERMS OF SPECIFICITY, SENSITIVITY, AND ACCURACY; AND (V) ELUCIDATING WHICH METABOLITES DRIVE THE CHANGES IN THE IR ABSORPTION OF CANCER BIOFLUIDS SUPPORTED BY MS. THE EXPECTED OUTCOME IS A MINIATURIZED, LABEL-FREE, AFFORDABLE, AND ACCURATE TECHNOLOGY ABLE TO RADICALLY IMPROVE THE ABILITY TO DIAGNOSE EARLY- STAGE HNC AS WELL AS THE MONITORING OF RECURRENT HNC PATIENTS. MOVING BEYOND, NNECS CAN BE ADAPTED FOR THE DIAGNOSIS AND MONITORING OF A WIDE RANGE OF METABOLIC CONDITIONS, INCLUDING MANY TYPES OF CANCER, DIABETES, AND HEART-DISEASES.",
+    "total_obligation": 2119698,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2023-03-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1600857.11,
+    "total_account_obligation": 2034045,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1600857.11
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2034045
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Cancer Institute"
+    },
+    "period_of_performance": {
+      "start_date": "2023-04-01",
+      "end_date": "2028-03-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1600857.11
+  }
+}

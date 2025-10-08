@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57282804,
+    "Award ID": "2340731",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 770000,
+    "Total Outlays": 235520.09,
+    "Description": "CAREER: INNOVATING OXIDATIVE C?H FUNCTIONALIZATION VIA RHODIUM AND COBALT CATALYSIS -WITH THE SUPPORT OF THE CHEMICAL SYNTHESIS PROGRAM IN THE DIVISION OF CHEMISTRY, KEVIN KOU OF THE UNIVERSITY OF CALIFORNIA, RIVERSIDE, IS DEVELOPING NEW CHEMICAL REACTIONS THAT STREAMLINE THE PREPARATION OF MOLECULES RELEVANT TO THE PHARMACEUTICAL AND AGROCHEMICAL SECTORS, INCLUDING THOSE THAT ARE DERIVED FROM NATURE. DR. KOU IS FOCUSING ON EXAMINING RHODIUM CATALYSTS TO CONVERT RELATIVELY ABUNDANT CARBON-HYDROGEN (C-H) BONDS INTO VALUE-ADDED CARBON-CARBON (C-C) BONDS. THIS RESEARCH IS INVESTIGATING THE USE OF THE CONSIDERABLY CHEAPER AND MORE EARTH ABUNDANT COBALT CATALYSTS TO PERFORM THESE TRANSFORMATIONS. DR. KOU?S TEAM WILL ENGAGE IN SYNERGISTIC ACTIVITIES TO BUILD EXCITEMENT AROUND SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS (STEM) EDUCATION IN K?16 STUDENTS WITHIN THE SOUTHERN CALIFORNIA INLAND EMPIRE. THESE INITIATIVES WILL INCLUDE ORGANIZING ORGANIC CHEMISTRY DEMONSTRATIONS TO ELEMENTARY SCHOOLS, ARRANGING FIELD TRIPS TO CAMPUS TO PROVIDE A GLIMPSE INTO THE LIFE OF UCR COLLEGE STUDENTS, AND OFFERING HANDS-ON LABORATORY RESEARCH OPPORTUNITIES FOR HIGH SCHOOL AND UNDERGRADUATE TRAINEES. IMPORTANTLY, THIS PROJECT AIMS TO CONTRIBUTE TO INCREASING DIVERSITY WITHIN THE STEM PIPELINE BY REACHING OUT TO MEMBERS OF HISTORICALLY UNDERREPRESENTED COMMUNITIES FOR ENGAGEMENT. UNDER THIS AWARD, THE RESEARCH TEAM OF KEVIN KOU IS EXPLORING A NEW MODE OF OXIDATIVE RH(III)/(IV)/(II)-CATALYSIS THAT COMPLEMENTS THE WIDELY PRACTICED RH(III)/(I)-CATALYSIS FOR TRANSFORMING C-H BONDS INTO C-C BONDS. THIS UNDEREXPLORED OXIDATIVE CATALYSIS MANIFOLD IS EXPECTED TO OPEN UP NOVEL REACTIVITY WITH ELECTRON-RICH ALKENES AND ALKYNES, GENERATING PRODUCTS THAT SERVE AS CORE ARCHITECTURES IN BIOACTIVE COMPOUNDS. AS SUCH, DR. KOU?S LABORATORY SEEKS TO APPLY THIS METHODOLOGY TO THE SYNTHESIS OF ALKALOID NATURAL PRODUCTS. TO ADDRESS THE SCOPE AND LIMITATIONS OF THIS APPROACH, HIS TEAM IS DESIGNING AND SYNTHESIZING NEW RH(III) AND CO(III) CATALYSTS WITH VARYING STERICS AND ELECTRONICS AND WILL MAP OUT STRUCTURE-REACTIVITY SPACE FOR THESE CATALYSTS. ADDITIONALLY, DR. KOU PLANS TO INTRODUCE C-H FUNCTIONALIZATION CHEMISTRY INTO THE UNDERGRADUATE TEACHING LABORATORY TO EXPOSE STUDENTS TO CUTTING EDGE SCIENCE EARLY ON AND, IN PARALLEL, HE WILL INTRODUCE THEM TO SUSTAINABLE CHEMISTRY CONCEPTS THROUGH EXAMINING THE COST-EFFECTIVENESS OF COBALT VERSUS RHODIUM FOR D9-METAL-MEDIATED ORGANOMETALLIC CHEMISTRY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-07-01",
+    "End Date": "2029-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2340731_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57282804,
+    "generated_unique_award_id": "ASST_NON_2340731_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAREER: INNOVATING OXIDATIVE C?H FUNCTIONALIZATION VIA RHODIUM AND COBALT CATALYSIS -WITH THE SUPPORT OF THE CHEMICAL SYNTHESIS PROGRAM IN THE DIVISION OF CHEMISTRY, KEVIN KOU OF THE UNIVERSITY OF CALIFORNIA, RIVERSIDE, IS DEVELOPING NEW CHEMICAL REACTIONS THAT STREAMLINE THE PREPARATION OF MOLECULES RELEVANT TO THE PHARMACEUTICAL AND AGROCHEMICAL SECTORS, INCLUDING THOSE THAT ARE DERIVED FROM NATURE. DR. KOU IS FOCUSING ON EXAMINING RHODIUM CATALYSTS TO CONVERT RELATIVELY ABUNDANT CARBON-HYDROGEN (C-H) BONDS INTO VALUE-ADDED CARBON-CARBON (C-C) BONDS. THIS RESEARCH IS INVESTIGATING THE USE OF THE CONSIDERABLY CHEAPER AND MORE EARTH ABUNDANT COBALT CATALYSTS TO PERFORM THESE TRANSFORMATIONS. DR. KOU?S TEAM WILL ENGAGE IN SYNERGISTIC ACTIVITIES TO BUILD EXCITEMENT AROUND SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS (STEM) EDUCATION IN K?16 STUDENTS WITHIN THE SOUTHERN CALIFORNIA INLAND EMPIRE. THESE INITIATIVES WILL INCLUDE ORGANIZING ORGANIC CHEMISTRY DEMONSTRATIONS TO ELEMENTARY SCHOOLS, ARRANGING FIELD TRIPS TO CAMPUS TO PROVIDE A GLIMPSE INTO THE LIFE OF UCR COLLEGE STUDENTS, AND OFFERING HANDS-ON LABORATORY RESEARCH OPPORTUNITIES FOR HIGH SCHOOL AND UNDERGRADUATE TRAINEES. IMPORTANTLY, THIS PROJECT AIMS TO CONTRIBUTE TO INCREASING DIVERSITY WITHIN THE STEM PIPELINE BY REACHING OUT TO MEMBERS OF HISTORICALLY UNDERREPRESENTED COMMUNITIES FOR ENGAGEMENT. UNDER THIS AWARD, THE RESEARCH TEAM OF KEVIN KOU IS EXPLORING A NEW MODE OF OXIDATIVE RH(III)/(IV)/(II)-CATALYSIS THAT COMPLEMENTS THE WIDELY PRACTICED RH(III)/(I)-CATALYSIS FOR TRANSFORMING C-H BONDS INTO C-C BONDS. THIS UNDEREXPLORED OXIDATIVE CATALYSIS MANIFOLD IS EXPECTED TO OPEN UP NOVEL REACTIVITY WITH ELECTRON-RICH ALKENES AND ALKYNES, GENERATING PRODUCTS THAT SERVE AS CORE ARCHITECTURES IN BIOACTIVE COMPOUNDS. AS SUCH, DR. KOU?S LABORATORY SEEKS TO APPLY THIS METHODOLOGY TO THE SYNTHESIS OF ALKALOID NATURAL PRODUCTS. TO ADDRESS THE SCOPE AND LIMITATIONS OF THIS APPROACH, HIS TEAM IS DESIGNING AND SYNTHESIZING NEW RH(III) AND CO(III) CATALYSTS WITH VARYING STERICS AND ELECTRONICS AND WILL MAP OUT STRUCTURE-REACTIVITY SPACE FOR THESE CATALYSTS. ADDITIONALLY, DR. KOU PLANS TO INTRODUCE C-H FUNCTIONALIZATION CHEMISTRY INTO THE UNDERGRADUATE TEACHING LABORATORY TO EXPOSE STUDENTS TO CUTTING EDGE SCIENCE EARLY ON AND, IN PARALLEL, HE WILL INTRODUCE THEM TO SUSTAINABLE CHEMISTRY CONCEPTS THROUGH EXAMINING THE COST-EFFECTIVENESS OF COBALT VERSUS RHODIUM FOR D9-METAL-MEDIATED ORGANOMETALLIC CHEMISTRY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 770000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-01-19",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 235520.09,
+    "total_account_obligation": 770000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 235520.09
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 770000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF CHEMISTRY"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF CHEMISTRY"
+    },
+    "period_of_performance": {
+      "start_date": "2024-07-01",
+      "end_date": "2029-06-30",
+      "last_modified_date": "2024-09-25",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 235520.09
+  }
+}

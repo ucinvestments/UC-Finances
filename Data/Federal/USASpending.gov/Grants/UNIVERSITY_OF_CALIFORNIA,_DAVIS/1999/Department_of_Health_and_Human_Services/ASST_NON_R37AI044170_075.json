@@ -1,0 +1,229 @@
+{
+  "basic_data": {
+    "internal_id": 175108322,
+    "Award ID": "R37AI044170",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 601256,
+    "Total Outlays": null,
+    "Description": "SALMONELLA HOST INTERACTIONS - ABSTRACT  TYPHOID FEVER, CAUSED BY SALMONELLA ENTERICA SEROVAR (S.) TYPHI, IS A MAJOR HUMAN DISEASE RESPONSIBLE FOR 21.6 MILLION ILLNESSES ANNUALLY. THE EMERGENCE OF EXTENSIVELY DRUG- RESISTANT S. TYPHI STRAINS IN 2016 REPRESENTS A SERIOUS THREAT TO HUMAN HEALTH ACCORDING TO THE CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC). HOWEVER, VIRULENCE STRATEGIES OF THIS PATHOGEN REMAIN INCOMPLETELY UNDERSTOOD DUE TO THE LACK OF SUITABLE ANIMAL MODELS FOR THE STRICTLY HUMAN-ADAPTED S. TYPHI. S. TYPHIMURIUM INFECTION OF MICE IS COMMONLY USED TO MODEL THE PATHOGENESIS OF TYPHOID FEVER. A LIMITATION OF THIS APPROACH IS THAT S. TYPHIMURIUM DOES NOT CAUSE TYPHOID FEVER IN HUMANS, BUT RATHER CAUSES A LOCALIZED GASTROENTERITIS. AS A RESULT, VIRULENCE MECHANISMS THAT SET TYPHOIDAL SALMONELLA SEROVARS, SUCH AS S. TYPHI, APART FROM NON-TYPHOIDAL SALMONELLA SEROVARS, SUCH AS S. TYPHIMURIUM, REMAIN UNDERSTUDIED. EXPERIMENTS PROPOSED IN THIS APPLICATION ARE AIMED AT ADDRESSING THIS IMPORTANT GAP IN KNOWLEDGE. THE OBJECTIVES OF THIS APPLICATION ARE TO STUDY THE CONTRIBUTION OF THE VIRULENCE ASSOCIATED (VI) CAPSULAR POLYSACCHARIDE AND THE TYPE III SECRETION SYSTEM ENCODED BY SALMONELLA PATHOGENICITY ISLAND 2 (T3SS-2) TO S. TYPHI INFECTION. OUR CENTRAL HYPOTHESIS IS THAT S. TYPHI USES THE VI CAPSULAR POLYSACCHARIDE TO DISSEMINATE FROM THE GUT BY EVADING NEUTROPHIL PHAGOCYTOSIS AND PERSISTS IN TISSUE BY USING T3SS-2 TO INDUCE A CYCLE OF NEUTROPHIL EFFEROCYTOSIS AND MACROPHAGE EFFEROCYTOSIS. WE WILL TEST DIFFERENT ASPECTS OF OUR HYPOTHESIS AND ACCOMPLISH THE OBJECTIVES OF THIS APPLICATION BY PURSUING THE FOLLOWING TWO SPECIFIC AIMS: 1. DETERMINE THE ROLE OF THE VI CAPSULAR POLYSACCHARIDE IN DISSEMINATION FROM THE GUT. 2. DETERMINE THE ROLE OF EFFEROCYTOSIS DURING S. TYPHI PERSISTENCE IN TISSUE. THE PROPOSED WORK IS INNOVATIVE IN THAT IT ESTABLISHES THE FIRST MOUSE MODEL FOR ORAL S. TYPHI INFECTION. IT IS OUR EXPECTATION THAT SUCCESSFUL COMPLETION OF THE PROPOSED EXPERIMENTS WILL ESTABLISH A NEW MODEL OF S. TYPHI PATHOGENESIS TO INCORPORATE THE COMPLEXITY OF HOST PATHOGEN INTERACTION IN VIVO, WHICH WILL MARK A SIGNIFICANT CONCEPTUAL ADVANCE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": null,
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "1999-06-15",
+    "End Date": "2029-10-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R37AI044170_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 175108322,
+    "generated_unique_award_id": "ASST_NON_R37AI044170_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "SALMONELLA HOST INTERACTIONS - ABSTRACT  TYPHOID FEVER, CAUSED BY SALMONELLA ENTERICA SEROVAR (S.) TYPHI, IS A MAJOR HUMAN DISEASE RESPONSIBLE FOR 21.6 MILLION ILLNESSES ANNUALLY. THE EMERGENCE OF EXTENSIVELY DRUG- RESISTANT S. TYPHI STRAINS IN 2016 REPRESENTS A SERIOUS THREAT TO HUMAN HEALTH ACCORDING TO THE CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC). HOWEVER, VIRULENCE STRATEGIES OF THIS PATHOGEN REMAIN INCOMPLETELY UNDERSTOOD DUE TO THE LACK OF SUITABLE ANIMAL MODELS FOR THE STRICTLY HUMAN-ADAPTED S. TYPHI. S. TYPHIMURIUM INFECTION OF MICE IS COMMONLY USED TO MODEL THE PATHOGENESIS OF TYPHOID FEVER. A LIMITATION OF THIS APPROACH IS THAT S. TYPHIMURIUM DOES NOT CAUSE TYPHOID FEVER IN HUMANS, BUT RATHER CAUSES A LOCALIZED GASTROENTERITIS. AS A RESULT, VIRULENCE MECHANISMS THAT SET TYPHOIDAL SALMONELLA SEROVARS, SUCH AS S. TYPHI, APART FROM NON-TYPHOIDAL SALMONELLA SEROVARS, SUCH AS S. TYPHIMURIUM, REMAIN UNDERSTUDIED. EXPERIMENTS PROPOSED IN THIS APPLICATION ARE AIMED AT ADDRESSING THIS IMPORTANT GAP IN KNOWLEDGE. THE OBJECTIVES OF THIS APPLICATION ARE TO STUDY THE CONTRIBUTION OF THE VIRULENCE ASSOCIATED (VI) CAPSULAR POLYSACCHARIDE AND THE TYPE III SECRETION SYSTEM ENCODED BY SALMONELLA PATHOGENICITY ISLAND 2 (T3SS-2) TO S. TYPHI INFECTION. OUR CENTRAL HYPOTHESIS IS THAT S. TYPHI USES THE VI CAPSULAR POLYSACCHARIDE TO DISSEMINATE FROM THE GUT BY EVADING NEUTROPHIL PHAGOCYTOSIS AND PERSISTS IN TISSUE BY USING T3SS-2 TO INDUCE A CYCLE OF NEUTROPHIL EFFEROCYTOSIS AND MACROPHAGE EFFEROCYTOSIS. WE WILL TEST DIFFERENT ASPECTS OF OUR HYPOTHESIS AND ACCOMPLISH THE OBJECTIVES OF THIS APPLICATION BY PURSUING THE FOLLOWING TWO SPECIFIC AIMS: 1. DETERMINE THE ROLE OF THE VI CAPSULAR POLYSACCHARIDE IN DISSEMINATION FROM THE GUT. 2. DETERMINE THE ROLE OF EFFEROCYTOSIS DURING S. TYPHI PERSISTENCE IN TISSUE. THE PROPOSED WORK IS INNOVATIVE IN THAT IT ESTABLISHES THE FIRST MOUSE MODEL FOR ORAL S. TYPHI INFECTION. IT IS OUR EXPECTATION THAT SUCCESSFUL COMPLETION OF THE PROPOSED EXPERIMENTS WILL ESTABLISH A NEW MODEL OF S. TYPHI PATHOGENESIS TO INCORPORATE THE COMPLEXITY OF HOST PATHOGEN INTERACTION IN VIVO, WHICH WILL MARK A SIGNIFICANT CONCEPTUAL ADVANCE.",
+    "total_obligation": 601256,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-11-18",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 0,
+    "account_outlays_by_defc": [],
+    "account_obligations_by_defc": [],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "1999-06-15",
+      "end_date": "2029-10-31",
+      "last_modified_date": "2025-09-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

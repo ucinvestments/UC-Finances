@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 90779271,
+    "Award ID": "P063Q231133",
+    "Recipient Name": "DOMINICAN UNIVERSITY OF CALIFORNIA",
+    "Award Amount": 1965,
+    "Total Outlays": 1965,
+    "Description": "PELL GRANTS",
+    "Contract Award Type": "",
+    "Recipient UEI": "UK5GQC1GVNZ4",
+    "Recipient Location": {
+      "address_line1": "50 ACACIA AVE",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN RAFAEL",
+      "congressional_code": "02",
+      "country_name": "UNITED STATES",
+      "county_code": "041",
+      "county_name": "MARIN",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2230",
+      "zip5": "94901"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN RAFAEL",
+      "congressional_code": "02",
+      "country_name": "UNITED STATES",
+      "county_code": "041",
+      "county_name": "MARIN",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94901-2230",
+      "zip5": "94901"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Education",
+    "Awarding Sub Agency": "Department of Education",
+    "Start Date": "",
+    "End Date": "2029-08-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "380b51ce-b1a2-bad0-3803-74645c80253f-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_P063Q231133_091",
+    "awarding_agency_id": 1068,
+    "agency_slug": "department-of-education",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 90779271,
+    "generated_unique_award_id": "ASST_NON_P063Q231133_091",
+    "piid": "",
+    "category": "direct payment",
+    "type": "06",
+    "type_description": "DIRECT PAYMENT FOR SPECIFIED USE, AS A SUBSIDY OR OTHER NON-REIMBURSABLE DIRECT FINANCIAL AID (C)",
+    "description": "PELL GRANTS",
+    "total_obligation": 1965,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-02-21",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1965,
+    "total_account_obligation": 1965,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1965
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1965
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 1068,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Education",
+        "code": "091",
+        "abbreviation": "ED",
+        "slug": "department-of-education"
+      },
+      "subtier_agency": {
+        "name": "Department of Education",
+        "code": "9100",
+        "abbreviation": "ED"
+      },
+      "office_agency_name": "OFFICE OF POSTSECONDARY EDUCATION"
+    },
+    "awarding_agency": {
+      "id": 1068,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Education",
+        "code": "091",
+        "abbreviation": "ED",
+        "slug": "department-of-education"
+      },
+      "subtier_agency": {
+        "name": "Department of Education",
+        "code": "9100",
+        "abbreviation": "ED"
+      },
+      "office_agency_name": "OFFICE OF POSTSECONDARY EDUCATION"
+    },
+    "period_of_performance": {
+      "start_date": "",
+      "end_date": "2029-08-31",
+      "last_modified_date": "2024-10-02",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "380b51ce-b1a2-bad0-3803-74645c80253f-C",
+      "recipient_name": "DOMINICAN UNIVERSITY OF CALIFORNIA",
+      "recipient_uei": "UK5GQC1GVNZ4",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "380b51ce-b1a2-bad0-3803-74645c80253f-P",
+      "parent_recipient_name": "DOMINICAN UNIVERSITY OF CALIFORNIA",
+      "parent_recipient_uei": "UK5GQC1GVNZ4",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Private)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN RAFAEL",
+        "county_code": "041",
+        "county_name": "MARIN",
+        "address_line1": "50 ACACIA AVE",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "02",
+        "zip4": "2230",
+        "zip5": "94901",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN RAFAEL",
+      "county_code": "041",
+      "county_name": "MARIN",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "02",
+      "zip4": "2230",
+      "zip5": "94901",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1965
+  }
+}

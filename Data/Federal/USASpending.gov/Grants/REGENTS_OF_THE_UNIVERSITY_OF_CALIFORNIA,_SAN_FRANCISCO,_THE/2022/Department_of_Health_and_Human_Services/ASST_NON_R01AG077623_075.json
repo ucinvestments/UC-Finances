@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 173193182,
+    "Award ID": "R01AG077623",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+    "Award Amount": 806018,
+    "Total Outlays": null,
+    "Description": "ASSESSING THE LONG-TERM IMPACT OF COVID-INDUCED TELEMEDICINE EXPANSION ON DEMENTIA CARE - PROJECT SUMMARY ABSTRACT A DRAMATIC LONG-TERM EFFECT OF THE COVID-19 PANDEMIC IS THE EXPANDED USE OF VIDEO- AND PHONE-BASED TELEMEDICINE IN ROUTINE PRIMARY CARE. THE PANDEMIC CAUSED PRIMARY CARE PRACTICES TO SEVERELY LIMIT IN-PERSON VISITS AND SHIFT TO TELEMEDICINE VISITS, BUT OVER TIME USE OF THIS MODALITY OF CARE AS AN OPTION ALONGSIDE IN-PERSON CARE IS PERSISTING. THE IMPLICATIONS ARE PARTICULARLY SIGNIFICANT FOR THE MORE THAN 5 MILLION PEOPLE WITH DEMENTIA (PWD) AND THEIR CAREGIVERS. HIGH-QUALITY PRIMARY CARE FOR PWD REQUIRES ADDRESSING COMPLEX CLINICAL, SOCIAL, AND BEHAVIORAL DIMENSIONS OF HEALTH. WHILE SOME OF THESE DIMENSIONS MAY BE FACILITATED BY TELEMEDICINE, THE DEGREE TO WHICH PWDS USE AND BENEFIT FROM TELEMEDICINE IS UNKNOWN. ON THE ONE HAND, TELEMEDICINE MAY RESULT IN MORE TIMELY PRIMARY CARE AS THIS MODALITY ALLOWS PWD TO AVOID THE NEED TO TRAVEL, WHICH IS PARTICULARLY CHALLENGING FOR THIS POPULATION. HOWEVER, DURING TELEMEDICINE ENCOUNTERS, PRIMARY CARE PROVIDERS (PCPS) FACE LIMITED ABILITY TO ASSESS MOVEMENT AND FUNCTIONAL STATUS, LOSS OF COMMUNICATION NUANCES, AND POTENTIALLY REDUCED ABILITY OR WILLINGNESS OF PWD AND CAREGIVERS TO SHARE INFORMATION. SUCH LIMITATIONS COULD RESULT IN POORER QUALITY OF CARE, INCLUDING HIGHER LIKELIHOOD OF SUBSEQUENT UTILIZATION OF IN-PERSON CARE (E.G., ED VISITS). ASSESSING WHICH PWD USE TELEMEDICINE AND THE RELATIONSHIPS BETWEEN VISIT MODALITY (VIDEO, PHONE, IN-PERSON) AND OUTCOMES (TIMELINESS OF CARE AND SUBSEQUENT UTILIZATION PATTERNS) WILL REVEAL THE BENEFITS AND THE SHORTCOMINGS FROM PRIMARY CARE USE OF TELEMEDICINE IN THE CARE OF PWD. WE PROPOSE A SEQUENTIAL MIXED-METHODS STUDY THAT WILL GENERATE ROBUST EVIDENCE CHARACTERIZING WHICH PWDS USE TELEMEDICINE, AND THE RELATIONSHIPS BETWEEN USE OF TELEMEDICINE AND OUTCOMES (TIMELINESS AND SUBSEQUENT UTILIZATION), IN THE PRIMARY CARE SETTING. WE WILL DRAW ON DATA FROM TWO LARGE HEALTH SYSTEMS: KAISER PERMANENTE NORTHERN CA (KPNC) - A TELEMEDICINE PIONEER - AND UCSF HEALTH - A NATIONALLY-RECOGNIZED DEMENTIA CARE PROVIDER. WE WILL USE THESE RESULTS, ALONGSIDE A LITERATURE REVIEW, TO ENGAGE A NATIONAL EXPERT PANEL IN BRAINSTORMING POTENTIAL STRATEGIES TO ADAPT THE USE OF TELEMEDICINE TO BETTER SUPPORT DEMENTIA CARE IN THE PRIMARY CARE SETTING. FINALLY, WE WILL CONDUCT A PCP SURVEY TO RATE THE FEASIBILITY AND IMPACT OF THE STRATEGIES. ULTIMATELY, OUR RESULTS WILL DIRECTLY INFORM THE DECISIONS FACING PRIMARY CARE PRACTICES ACROSS THE NATION ABOUT ONGOING INVESTMENT IN TELEMEDICINE AND HOW TO OPTIMIZE IT IN WAYS THAT SERVE THE GROWING DEMENTIA POPULATION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "KMH5K9V7S518",
+    "Recipient Location": {
+      "address_line1": "1855 FOLSOM ST STE 425",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "4249",
+      "zip5": "94103"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SAN FRANCISCO",
+      "congressional_code": "11",
+      "country_name": "UNITED STATES",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "94143",
+      "zip5": "94143"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": null,
+    "COVID-19 Outlays": null,
+    "Infrastructure Obligations": null,
+    "Infrastructure Outlays": null,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-06-01",
+    "End Date": "2027-05-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG077623_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 173193182,
+    "generated_unique_award_id": "ASST_NON_R01AG077623_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ASSESSING THE LONG-TERM IMPACT OF COVID-INDUCED TELEMEDICINE EXPANSION ON DEMENTIA CARE - PROJECT SUMMARY ABSTRACT A DRAMATIC LONG-TERM EFFECT OF THE COVID-19 PANDEMIC IS THE EXPANDED USE OF VIDEO- AND PHONE-BASED TELEMEDICINE IN ROUTINE PRIMARY CARE. THE PANDEMIC CAUSED PRIMARY CARE PRACTICES TO SEVERELY LIMIT IN-PERSON VISITS AND SHIFT TO TELEMEDICINE VISITS, BUT OVER TIME USE OF THIS MODALITY OF CARE AS AN OPTION ALONGSIDE IN-PERSON CARE IS PERSISTING. THE IMPLICATIONS ARE PARTICULARLY SIGNIFICANT FOR THE MORE THAN 5 MILLION PEOPLE WITH DEMENTIA (PWD) AND THEIR CAREGIVERS. HIGH-QUALITY PRIMARY CARE FOR PWD REQUIRES ADDRESSING COMPLEX CLINICAL, SOCIAL, AND BEHAVIORAL DIMENSIONS OF HEALTH. WHILE SOME OF THESE DIMENSIONS MAY BE FACILITATED BY TELEMEDICINE, THE DEGREE TO WHICH PWDS USE AND BENEFIT FROM TELEMEDICINE IS UNKNOWN. ON THE ONE HAND, TELEMEDICINE MAY RESULT IN MORE TIMELY PRIMARY CARE AS THIS MODALITY ALLOWS PWD TO AVOID THE NEED TO TRAVEL, WHICH IS PARTICULARLY CHALLENGING FOR THIS POPULATION. HOWEVER, DURING TELEMEDICINE ENCOUNTERS, PRIMARY CARE PROVIDERS (PCPS) FACE LIMITED ABILITY TO ASSESS MOVEMENT AND FUNCTIONAL STATUS, LOSS OF COMMUNICATION NUANCES, AND POTENTIALLY REDUCED ABILITY OR WILLINGNESS OF PWD AND CAREGIVERS TO SHARE INFORMATION. SUCH LIMITATIONS COULD RESULT IN POORER QUALITY OF CARE, INCLUDING HIGHER LIKELIHOOD OF SUBSEQUENT UTILIZATION OF IN-PERSON CARE (E.G., ED VISITS). ASSESSING WHICH PWD USE TELEMEDICINE AND THE RELATIONSHIPS BETWEEN VISIT MODALITY (VIDEO, PHONE, IN-PERSON) AND OUTCOMES (TIMELINESS OF CARE AND SUBSEQUENT UTILIZATION PATTERNS) WILL REVEAL THE BENEFITS AND THE SHORTCOMINGS FROM PRIMARY CARE USE OF TELEMEDICINE IN THE CARE OF PWD. WE PROPOSE A SEQUENTIAL MIXED-METHODS STUDY THAT WILL GENERATE ROBUST EVIDENCE CHARACTERIZING WHICH PWDS USE TELEMEDICINE, AND THE RELATIONSHIPS BETWEEN USE OF TELEMEDICINE AND OUTCOMES (TIMELINESS AND SUBSEQUENT UTILIZATION), IN THE PRIMARY CARE SETTING. WE WILL DRAW ON DATA FROM TWO LARGE HEALTH SYSTEMS: KAISER PERMANENTE NORTHERN CA (KPNC) - A TELEMEDICINE PIONEER - AND UCSF HEALTH - A NATIONALLY-RECOGNIZED DEMENTIA CARE PROVIDER. WE WILL USE THESE RESULTS, ALONGSIDE A LITERATURE REVIEW, TO ENGAGE A NATIONAL EXPERT PANEL IN BRAINSTORMING POTENTIAL STRATEGIES TO ADAPT THE USE OF TELEMEDICINE TO BETTER SUPPORT DEMENTIA CARE IN THE PRIMARY CARE SETTING. FINALLY, WE WILL CONDUCT A PCP SURVEY TO RATE THE FEASIBILITY AND IMPACT OF THE STRATEGIES. ULTIMATELY, OUR RESULTS WILL DIRECTLY INFORM THE DECISIONS FACING PRIMARY CARE PRACTICES ACROSS THE NATION ABOUT ONGOING INVESTMENT IN TELEMEDICINE AND HOW TO OPTIMIZE IT IN WAYS THAT SERVE THE GROWING DEMENTIA POPULATION.",
+    "total_obligation": 806018,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-14",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 806018,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 806018
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2022-06-01",
+      "end_date": "2027-05-31",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-C",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "recipient_uei": "KMH5K9V7S518",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "bb8d1cd4-e0ae-6348-a07c-04df6a112768-P",
+      "parent_recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE",
+      "parent_recipient_uei": "KMH5K9V7S518",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "SAN FRANCISCO",
+        "county_code": "075",
+        "county_name": "SAN FRANCISCO",
+        "address_line1": "1855 FOLSOM ST STE 425",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "11",
+        "zip4": "4249",
+        "zip5": "94103",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SAN FRANCISCO",
+      "county_code": "075",
+      "county_name": "SAN FRANCISCO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "11",
+      "zip4": "",
+      "zip5": "94143",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

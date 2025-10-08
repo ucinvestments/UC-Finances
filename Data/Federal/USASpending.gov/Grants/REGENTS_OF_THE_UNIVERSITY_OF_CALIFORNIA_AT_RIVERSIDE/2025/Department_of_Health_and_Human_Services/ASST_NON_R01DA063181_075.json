@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 170720913,
+    "Award ID": "R01DA063181",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 804728,
+    "Total Outlays": 0,
+    "Description": "METHAMPHETAMINE AND CYSTEINYL LEUKOTRIENES IN HIV PERSISTENCE - USE OF PSYCHOSTIMULANT DRUGS, SUCH AS METHAMPHETAMINE (METH), IS A FREQUENT COMORBIDITY IN PEOPLE LIVING WITH HUMAN IMMUNODEFICIENCY VIRUS (HIV)-1 (PWH). THE INTERACTION OF VIRUS AND ADDICTIVE SUBSTANCE, IN PARTICULAR WITH REGARD TO VIRAL PERSISTENCE, IS POORLY UNDERSTOOD AND WILL BE STUDIED HERE USING IN VITRO AND IN VIVO APPROACHES IN COMBINATION WITH SINGLE CELL (SC) AND SINGLE NUCLEI (SN) RNA-SEQUENCING. WE OBSERVED THAT METH IN COMBINATION WITH A SINGLE-STRANDED (SS) RNA MIMIC OF THE HIV LONG TERMINAL REPEAT (LTR) THAT ACTS AS TLR7/8 LIGAND UPREGULATES COMPONENTS OF THE ARACHIDONIC ACID (AA) PATHWAY, INCLUDING CYSTEINYL LEUKOTRIENE SYNTHASE (LTC4S), WHICH PRODUCES CYSTEINYL LEUKOTRIENES (CYSLTS). WE ALSO FOUND THAT I) CYSLT RECEPTOR 1 (CYSLTR1) EXPRESSION IN HIV+ BRAIN CORRELATES WITH HIV DNA AND RNA, II) CYSLTR1 IS UPREGULATED IN CEREBRAL CORTEX OF CART-RECEIVING PWH WITH BRAIN PATHOLOGY, III) CYSLTS RELEASED BY HIV-1 INFECTED MACROPHAGES (MΦ) AND CYSLTR1 PLAY A CRITICAL ROLE IN NEUROTOXICITY, AND IV) PHARMACOLOGICAL BLOCKADE OF CYSLTR1 ABROGATES NEUROTOXICITY OF HIV- INFECTED MΦ. THEREFORE, WE PROPOSE HERE TO INVESTIGATE, IF THE CYSLT-CYSLTR1 AXIS PLAYS A CAUSAL ROLE IN THE PROMOTION OF HIV-1 PERSISTENCE AND BRAIN INJURY BY METH IN THE PRESENCE OF CART. THREE SPECIFIC AIMS ARE PROPOSED: 1) TO DETERMINE HOW METHAMPHETAMINE ENGAGES THE CYSLT-CYSLTR1 AXIS AND INCREASES HIV-1 INFECTION OF PERIPHERAL BLOOD CD4+T-CELLS AND MACROPHAGES IN THE PRESENCE OF CART. THIS AIM WILL TEST THE HYPOTHESIS THAT METH ENGAGES THE CYSLT-CYSLTR1 AXIS TO ESCALATE HIV-INDUCED INFLAMMATION, VIRAL PRODUCTION AND RESERVOIRS DESPITE CART THROUGH UPREGULATION OF PROVIRAL HOST FACTORS, INCL. LNCRNAS. 2) TO INVESTIGATE WHETHER INHIBITION OF CYSLTR1 COMBINED WITH CART AMELIORATES BRAIN DAMAGE BY METH AND HIV IN HUMANIZED CD34+ HSC-ENGRAFTED NSG-SGM3 MICE. THIS AIM WILL TEST THE PREMISE THAT METH UPREGULATES THE CYSLT- CYSLTR1 AXIS TO DRIVE HIV-INDUCED INFLAMMATION, INFILTRATION OF INFECTED MΦ AND CD4+T-CELLS INTO THE BRAIN AND NEURONAL DAMAGE DESPITE CART. THIS AIM WILL ALSO ASSESS IF THE CLINICALLY APPROVED, CNS-PENETRATING CYSLTR1 INHIBITOR MONTELUKAST (MTLK) ABROGATES THOSE PATHOLOGICAL PROCESSES. 3) TO ASSESS IN VITRO HOW THE BLOCKADE OF CYSLTR1 ENABLES NEURONAL SURVIVAL IN THE PRESENCE OF METH, CART AND HIV-INDUCED MACROPHAGE TOXINS. THIS AIM WILL INVESTIGATE THE HYPOTHESIS THAT BLOCKADE OF CYSLTR1 ENABLES NEURONS TO SUPPRESS CELLULAR SIGNALING PATHWAYS PROMOTING INFLAMMATION, CELLULAR STRESS, INJURY AND APOPTOSIS, SUCH AS THOSE MEDIATED BY P38 MAPK AND JNK, IN FAVOR OF PRO-SURVIVAL AND CYTOPROTECTIVE PATHWAYS, SUCH AS ACTIVATION OF PKB/AKT AND ERK1/2. THE EXPERIMENTS WILL BE PERFORMED IN VITRO WITH ISOLATED HUMAN PERIPHERAL BLOOD CELLS AND IPSC-DERIVED NEURONS AND IN VIVO IN HUMANIZED MOUSE MODEL THAT PROVIDES HIV PERMISSIVE HUMAN PERIPHERAL CD4+T-CELLS AND MΦ. ALL THREE SPECIFIC AIMS WILL DEFINE RNA SIGNATURES OF HIV-1 INFECTED CD4+ T-CELLS AND MΦ IN THE PRESENCE AND ABSENCE OF METH, CART, AND MTLK USING SC AND SN RNA-SEQUENCING, AND WILL TEST THE PROPOSED MECHANISMS, INCLUDING THE INTERFERENCE OF METH WITH TLR7/8 FUNCTION, LEADING TO INCREASED INFLAMMATORY CYSLT PRODUCTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-06-01",
+    "End Date": "2030-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DA063181_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 170720913,
+    "generated_unique_award_id": "ASST_NON_R01DA063181_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "METHAMPHETAMINE AND CYSTEINYL LEUKOTRIENES IN HIV PERSISTENCE - USE OF PSYCHOSTIMULANT DRUGS, SUCH AS METHAMPHETAMINE (METH), IS A FREQUENT COMORBIDITY IN PEOPLE LIVING WITH HUMAN IMMUNODEFICIENCY VIRUS (HIV)-1 (PWH). THE INTERACTION OF VIRUS AND ADDICTIVE SUBSTANCE, IN PARTICULAR WITH REGARD TO VIRAL PERSISTENCE, IS POORLY UNDERSTOOD AND WILL BE STUDIED HERE USING IN VITRO AND IN VIVO APPROACHES IN COMBINATION WITH SINGLE CELL (SC) AND SINGLE NUCLEI (SN) RNA-SEQUENCING. WE OBSERVED THAT METH IN COMBINATION WITH A SINGLE-STRANDED (SS) RNA MIMIC OF THE HIV LONG TERMINAL REPEAT (LTR) THAT ACTS AS TLR7/8 LIGAND UPREGULATES COMPONENTS OF THE ARACHIDONIC ACID (AA) PATHWAY, INCLUDING CYSTEINYL LEUKOTRIENE SYNTHASE (LTC4S), WHICH PRODUCES CYSTEINYL LEUKOTRIENES (CYSLTS). WE ALSO FOUND THAT I) CYSLT RECEPTOR 1 (CYSLTR1) EXPRESSION IN HIV+ BRAIN CORRELATES WITH HIV DNA AND RNA, II) CYSLTR1 IS UPREGULATED IN CEREBRAL CORTEX OF CART-RECEIVING PWH WITH BRAIN PATHOLOGY, III) CYSLTS RELEASED BY HIV-1 INFECTED MACROPHAGES (MΦ) AND CYSLTR1 PLAY A CRITICAL ROLE IN NEUROTOXICITY, AND IV) PHARMACOLOGICAL BLOCKADE OF CYSLTR1 ABROGATES NEUROTOXICITY OF HIV- INFECTED MΦ. THEREFORE, WE PROPOSE HERE TO INVESTIGATE, IF THE CYSLT-CYSLTR1 AXIS PLAYS A CAUSAL ROLE IN THE PROMOTION OF HIV-1 PERSISTENCE AND BRAIN INJURY BY METH IN THE PRESENCE OF CART. THREE SPECIFIC AIMS ARE PROPOSED: 1) TO DETERMINE HOW METHAMPHETAMINE ENGAGES THE CYSLT-CYSLTR1 AXIS AND INCREASES HIV-1 INFECTION OF PERIPHERAL BLOOD CD4+T-CELLS AND MACROPHAGES IN THE PRESENCE OF CART. THIS AIM WILL TEST THE HYPOTHESIS THAT METH ENGAGES THE CYSLT-CYSLTR1 AXIS TO ESCALATE HIV-INDUCED INFLAMMATION, VIRAL PRODUCTION AND RESERVOIRS DESPITE CART THROUGH UPREGULATION OF PROVIRAL HOST FACTORS, INCL. LNCRNAS. 2) TO INVESTIGATE WHETHER INHIBITION OF CYSLTR1 COMBINED WITH CART AMELIORATES BRAIN DAMAGE BY METH AND HIV IN HUMANIZED CD34+ HSC-ENGRAFTED NSG-SGM3 MICE. THIS AIM WILL TEST THE PREMISE THAT METH UPREGULATES THE CYSLT- CYSLTR1 AXIS TO DRIVE HIV-INDUCED INFLAMMATION, INFILTRATION OF INFECTED MΦ AND CD4+T-CELLS INTO THE BRAIN AND NEURONAL DAMAGE DESPITE CART. THIS AIM WILL ALSO ASSESS IF THE CLINICALLY APPROVED, CNS-PENETRATING CYSLTR1 INHIBITOR MONTELUKAST (MTLK) ABROGATES THOSE PATHOLOGICAL PROCESSES. 3) TO ASSESS IN VITRO HOW THE BLOCKADE OF CYSLTR1 ENABLES NEURONAL SURVIVAL IN THE PRESENCE OF METH, CART AND HIV-INDUCED MACROPHAGE TOXINS. THIS AIM WILL INVESTIGATE THE HYPOTHESIS THAT BLOCKADE OF CYSLTR1 ENABLES NEURONS TO SUPPRESS CELLULAR SIGNALING PATHWAYS PROMOTING INFLAMMATION, CELLULAR STRESS, INJURY AND APOPTOSIS, SUCH AS THOSE MEDIATED BY P38 MAPK AND JNK, IN FAVOR OF PRO-SURVIVAL AND CYTOPROTECTIVE PATHWAYS, SUCH AS ACTIVATION OF PKB/AKT AND ERK1/2. THE EXPERIMENTS WILL BE PERFORMED IN VITRO WITH ISOLATED HUMAN PERIPHERAL BLOOD CELLS AND IPSC-DERIVED NEURONS AND IN VIVO IN HUMANIZED MOUSE MODEL THAT PROVIDES HIV PERMISSIVE HUMAN PERIPHERAL CD4+T-CELLS AND MΦ. ALL THREE SPECIFIC AIMS WILL DEFINE RNA SIGNATURES OF HIV-1 INFECTED CD4+ T-CELLS AND MΦ IN THE PRESENCE AND ABSENCE OF METH, CART, AND MTLK USING SC AND SN RNA-SEQUENCING, AND WILL TEST THE PROPOSED MECHANISMS, INCLUDING THE INTERFERENCE OF METH WITH TLR7/8 FUNCTION, LEADING TO INCREASED INFLAMMATORY CYSLT PRODUCTION.",
+    "total_obligation": 804728,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-05-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 804728,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 804728
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Drug Abuse"
+    },
+    "period_of_performance": {
+      "start_date": "2025-06-01",
+      "end_date": "2030-04-30",
+      "last_modified_date": "2025-05-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

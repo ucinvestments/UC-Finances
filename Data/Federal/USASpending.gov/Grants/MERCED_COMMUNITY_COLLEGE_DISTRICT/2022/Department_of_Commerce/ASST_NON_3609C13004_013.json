@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 61554806,
+    "Award ID": "3609C13004",
+    "Recipient Name": "MERCED COMMUNITY COLLEGE DISTRICT",
+    "Award Amount": 2634914,
+    "Total Outlays": 0,
+    "Description": "PROJECT PURPOSE:THE MERCED COLLEGE CONNECTING MINORITY COMMUNITIES PILOT PROGRAM (CMCPP) WILL EXPAND EDUCATIONAL INSTRUCTION AND REMOTE LEARNING OPPORTUNITIES, SPUR ECONOMIC DEVELOPMENT, AND CREATE OPPORTUNITIES FOR EMPLOYMENT AND ENTREPRENEURSHIP, BY BUILDING THE DIGITAL CAPACITY OF THE ELIGIBLE INSTITUTIONS, FAMILIES, AND STUDENTS AND FURTHERING BROADBAND ACCESS, ADOPTION, AND DIGITAL SKILLS WITHIN THOSE INSTITUTIONS AND IN THEIR SURROUNDING ANCHOR COMMUNITIES. ACTIVITIES:THIS PROJECT WILL PILOT A DIGITAL PATHWAY FOR AREA K-12 STUDENTS AND WILL 1) CREATE A NEW DIGITAL NAVIGATOR PROGRAM; 2) OFFER DUAL CREDIT STEM AND COMPUTER SCIENCE COURSES TO AREA HIGH SCHOOLS; AND 3) EXPAND THE MERCED COLLEGE'S CAPABILITY TO PROVIDE REMOTE LEARNING FOR COMMUTING AND ONLINE LEARNERS ATTENDING THE COLLEGE FOR DEGREE EARNING PROGRAMS, ADULT EDUCATION, AND WORKFORCE DEVELOPMENT. THIS PROJECT WILL DELIVER DIGITAL NAVIGATORS TO THE PARENTS AT ELEMENTARY SCHOOLS. DIGITAL NAVIGATORS ARE STUDENTS WITHIN THE MINORITY SERVING INSTITUTION WHO ARE TRAINED TO LEVERAGE THEIR KNOWLEDGE WITH PARTICIPATING ELEMENTARY SCHOOL PARENTS. MERCED COLLEGE WILL PURCHASE AND DISTRIBUTE CONNECTIVITY EQUIPMENT FOR STUDENTS AND FAMILIES EVERY YEAR ON A NEEDS-DETERMINED BASIS. THESE INCLUDE HOTSPOTS TO FACILITATE ADEQUATE INTERNET ACCESS, HP LAPTOPS, WEBCAMS WITH HEADSETS FOR STUDENTS, AND WEBCAMS WITH SPEAKERS FOR FAMILIES. OUTCOMES:AS A RESULT OF PROJECT IMPLEMENTATION, MERCED COMMUNITY COLLEGE DISTRICT WILL 1) BUILD DIGITAL CAPACITY AND FURTHER BROADBAND ACCESS, ADOPTION, AND DIGITAL SKILLS FOR MERCED COLLEGE, ITS PARTNERS, AND THE SURROUNDING COMMUNITIES; AND 2) EXPAND EDUCATIONAL INSTRUCTION AND REMOTE LEARNING OPPORTUNITIES IN MERCED COUNTY. THIS PROJECT WILL DEVELOP A STREAMLINED APPROACH ACROSS THE THREE EDUCATIONAL SYSTEMS IN THE ANCHOR COMMUNITY OF MERCED COUNTY, CALIFORNIA: MERCED COUNTY'S K-12 SYSTEM, COMMUNITY COLLEGE, AND THE UNIVERSITY OF CALIFORNIA. BENEFICIARIES:THIS PROJECT WILL BENEFIT MERCED COLLEGE STUDENTS AND ANCHOR COMMUNITY MEMBERS IN MERCED COUNTY, CALIFORNIA. MERCED COLLEGE'S IMPROVED INFORMATION TECHNOLOGY INFRASTRUCTURE WILL REACH STUDENTS AND ADULTS THROUGH THE MERCED ONLINE PROGRAM FOR WORKING PROFESSIONALS. MERCED AIMS TO PROVIDE STUDENTS AND FAMILIES WITH NECESSARY TECHNOLOGY AND SERVICES TO PROVIDE THE BROADBAND ACCESS TO MERCED ONLINE AND OTHER BROADBAND SERVICES. MERCED ONLINE EXPECTS TO SERVE COMMUTERS AND ONLINE LEARNERS, HIGH SCHOOL STUDENTS, AND ELEMENTARY STUDENTS AND PARENTS. OTHER COMMUNITY MEMBERS CAN BENEFIT FROM THE MERCED ONLINE PROGRAM, INCLUDING WORKING ADULTS ATTENDING DIGITAL LITERACY WORKSHOPS AND FORMERLY INCARCERATED ADULTS WHO ARE TRANSITIONING OUT OF CUSTODY AND ATTEND A WORKSHOP THROUGH PROBATION OR AT THE BUSINESS RESOURCE CENTER. SUBRECIPIENT ACTIVITIES:THE RECIPIENT DOES NOT INTEND TO SUBAWARD FUNDS.",
+    "Contract Award Type": "",
+    "Recipient UEI": "K6MVKT1DFWW6",
+    "Recipient Location": {
+      "address_line1": "3600 M STREET",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "MERCED",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "2806",
+      "zip5": "95348"
+    },
+    "Primary Place of Performance": {
+      "city_name": "MERCED",
+      "congressional_code": "13",
+      "country_name": "UNITED STATES",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95348-2806",
+      "zip5": "95348"
+    },
+    "def_codes": [
+      "O"
+    ],
+    "COVID-19 Obligations": 2634914,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Commerce",
+    "Awarding Sub Agency": "National Institute of Standards and Technology",
+    "Start Date": "2022-12-01",
+    "End Date": "2025-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "2829068d-77bb-35d6-b429-f408aca6ae59-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_3609C13004_013",
+    "awarding_agency_id": 183,
+    "agency_slug": "department-of-commerce",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 61554806,
+    "generated_unique_award_id": "ASST_NON_3609C13004_013",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "PROJECT PURPOSE:THE MERCED COLLEGE CONNECTING MINORITY COMMUNITIES PILOT PROGRAM (CMCPP) WILL EXPAND EDUCATIONAL INSTRUCTION AND REMOTE LEARNING OPPORTUNITIES, SPUR ECONOMIC DEVELOPMENT, AND CREATE OPPORTUNITIES FOR EMPLOYMENT AND ENTREPRENEURSHIP, BY BUILDING THE DIGITAL CAPACITY OF THE ELIGIBLE INSTITUTIONS, FAMILIES, AND STUDENTS AND FURTHERING BROADBAND ACCESS, ADOPTION, AND DIGITAL SKILLS WITHIN THOSE INSTITUTIONS AND IN THEIR SURROUNDING ANCHOR COMMUNITIES. ACTIVITIES:THIS PROJECT WILL PILOT A DIGITAL PATHWAY FOR AREA K-12 STUDENTS AND WILL 1) CREATE A NEW DIGITAL NAVIGATOR PROGRAM; 2) OFFER DUAL CREDIT STEM AND COMPUTER SCIENCE COURSES TO AREA HIGH SCHOOLS; AND 3) EXPAND THE MERCED COLLEGE'S CAPABILITY TO PROVIDE REMOTE LEARNING FOR COMMUTING AND ONLINE LEARNERS ATTENDING THE COLLEGE FOR DEGREE EARNING PROGRAMS, ADULT EDUCATION, AND WORKFORCE DEVELOPMENT. THIS PROJECT WILL DELIVER DIGITAL NAVIGATORS TO THE PARENTS AT ELEMENTARY SCHOOLS. DIGITAL NAVIGATORS ARE STUDENTS WITHIN THE MINORITY SERVING INSTITUTION WHO ARE TRAINED TO LEVERAGE THEIR KNOWLEDGE WITH PARTICIPATING ELEMENTARY SCHOOL PARENTS. MERCED COLLEGE WILL PURCHASE AND DISTRIBUTE CONNECTIVITY EQUIPMENT FOR STUDENTS AND FAMILIES EVERY YEAR ON A NEEDS-DETERMINED BASIS. THESE INCLUDE HOTSPOTS TO FACILITATE ADEQUATE INTERNET ACCESS, HP LAPTOPS, WEBCAMS WITH HEADSETS FOR STUDENTS, AND WEBCAMS WITH SPEAKERS FOR FAMILIES. OUTCOMES:AS A RESULT OF PROJECT IMPLEMENTATION, MERCED COMMUNITY COLLEGE DISTRICT WILL 1) BUILD DIGITAL CAPACITY AND FURTHER BROADBAND ACCESS, ADOPTION, AND DIGITAL SKILLS FOR MERCED COLLEGE, ITS PARTNERS, AND THE SURROUNDING COMMUNITIES; AND 2) EXPAND EDUCATIONAL INSTRUCTION AND REMOTE LEARNING OPPORTUNITIES IN MERCED COUNTY. THIS PROJECT WILL DEVELOP A STREAMLINED APPROACH ACROSS THE THREE EDUCATIONAL SYSTEMS IN THE ANCHOR COMMUNITY OF MERCED COUNTY, CALIFORNIA: MERCED COUNTY'S K-12 SYSTEM, COMMUNITY COLLEGE, AND THE UNIVERSITY OF CALIFORNIA. BENEFICIARIES:THIS PROJECT WILL BENEFIT MERCED COLLEGE STUDENTS AND ANCHOR COMMUNITY MEMBERS IN MERCED COUNTY, CALIFORNIA. MERCED COLLEGE'S IMPROVED INFORMATION TECHNOLOGY INFRASTRUCTURE WILL REACH STUDENTS AND ADULTS THROUGH THE MERCED ONLINE PROGRAM FOR WORKING PROFESSIONALS. MERCED AIMS TO PROVIDE STUDENTS AND FAMILIES WITH NECESSARY TECHNOLOGY AND SERVICES TO PROVIDE THE BROADBAND ACCESS TO MERCED ONLINE AND OTHER BROADBAND SERVICES. MERCED ONLINE EXPECTS TO SERVE COMMUTERS AND ONLINE LEARNERS, HIGH SCHOOL STUDENTS, AND ELEMENTARY STUDENTS AND PARENTS. OTHER COMMUNITY MEMBERS CAN BENEFIT FROM THE MERCED ONLINE PROGRAM, INCLUDING WORKING ADULTS ATTENDING DIGITAL LITERACY WORKSHOPS AND FORMERLY INCARCERATED ADULTS WHO ARE TRANSITIONING OUT OF CUSTODY AND ATTEND A WORKSHOP THROUGH PROBATION OR AT THE BUSINESS RESOURCE CENTER. SUBRECIPIENT ACTIVITIES:THE RECIPIENT DOES NOT INTEND TO SUBAWARD FUNDS.",
+    "total_obligation": 2634914,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-11-15",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 2634914,
+    "account_outlays_by_defc": [
+      {
+        "code": "O",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "O",
+        "amount": 2634914
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 196,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Commerce",
+        "code": "013",
+        "abbreviation": "DOC",
+        "slug": "department-of-commerce"
+      },
+      "subtier_agency": {
+        "name": "National Telecommunications and Information Administration",
+        "code": "1335",
+        "abbreviation": "NTIA"
+      },
+      "office_agency_name": "DEPT OF COMMERCE NTIA"
+    },
+    "awarding_agency": {
+      "id": 197,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Commerce",
+        "code": "013",
+        "abbreviation": "DOC",
+        "slug": "department-of-commerce"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Standards and Technology",
+        "code": "1341",
+        "abbreviation": "NIST"
+      },
+      "office_agency_name": "DEPT OF COMMERCE NIST"
+    },
+    "period_of_performance": {
+      "start_date": "2022-12-01",
+      "end_date": "2025-11-30",
+      "last_modified_date": "2024-08-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "2829068d-77bb-35d6-b429-f408aca6ae59-R",
+      "recipient_name": "MERCED COMMUNITY COLLEGE DISTRICT",
+      "recipient_uei": "K6MVKT1DFWW6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "MERCED COMMUNITY COLLEGE DISTRICT",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "MERCED",
+        "county_code": "047",
+        "county_name": "MERCED",
+        "address_line1": "3600 M STREET",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "13",
+        "zip4": "2806",
+        "zip5": "95348",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "MERCED",
+      "county_code": "047",
+      "county_name": "MERCED",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "13",
+      "zip4": "2806",
+      "zip5": "95348",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

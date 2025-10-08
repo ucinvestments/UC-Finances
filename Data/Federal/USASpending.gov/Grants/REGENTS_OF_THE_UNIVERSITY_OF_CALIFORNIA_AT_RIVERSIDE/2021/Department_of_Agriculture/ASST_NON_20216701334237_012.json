@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56329587,
+    "Award ID": "20216701334237",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 650000,
+    "Total Outlays": 587159.92,
+    "Description": "THE AVOCADO, PERSEA AMERICANA, IS A NEWLY DOMESTICATED CROP THAT IS WIDELY GROWN AND CONSUMED WORLDWIDE. THE UNITED STATES IS THE SECOND LARGEST CONSUMER OF AVOCADOS WITH THE BULK OF THE FRUIT COMING FROM IMPORTS, HOWEVER MARKET DATA INDICATES THAT AMERICAN CONSUMERS PREFERS DOMESTICALLY PRODUCED FRUIT. CALIFORNIA, THE LARGEST DOMESTIC PRODUCER, FACES MANY CHALLENGES TO SUSTAIN ITS INDUSTRY INCLUDING URBAN ENCROACHMENT, LABOR SUPPLY AND WATER AVAILABILITY. ITS SISTER INDUSTRIES IN HAWAII, FLORIDA AND TEXAS FACE SIMILAR CHALLENGES. TO SUSTAIN A USA INDUSTRY IT IS IMPERATIVE TO SHIFT TO VARIETIES THAT ARE BETTER ADAPTED TO THESE CHALLENGES AND WHICH CAN BE CULTIVATED UNDER INTENSIVE MANAGEMENT AND MINIMIZE INPUTS OF NATURAL RESOURCES.ALTHOUGH WIDELY GROWN, THERE IS A RELATIVE PAUCITY OF RESEARCH ON AVOCADO AS COMPARED TO OTHER TREE CROPS. A REFERENCE GENOME BASED ON THE LEADING GLOBAL CULTIVAR \u0026#39;HASS\u0026#39; WAS RECENTLY PUBLICLY RELEASED AND A NEW ERA OF AVOCADO GENETIC RESEARCH IS NOWPOSSIBLE THAT CAN FOCUS ON SELECTING MATERIAL WITH HIGH CONSUMER APPEAL BUT ALSO ABLE TO WITHSTAND THE CHALLENGES OF CULTIVATION. UC RIVERSIDE, AN INSTITUTION WITH \u0026GT;60 YEARS OF AVOCADO IMPROVEMENT RESEARCH, HAS RECENTLY PLANTED A MAPPING POPULATION OF PROGENY FROM TWO ELITE MODERN SELECTIONS WITH A RANGE OF DIFFERING TRAITS THAT ARE MORE SUITED TO INTENSIVE CULTIVATION. OF MOST INTEREST ARE TRAITS RELATING TO TREE GROWTH AND ARCHITECTURE, AS THESE WILL ALLOW GROWERS TO IMPROVE PRODUCTION EFFICIENCY AND PLANT AT HIGHER DENSITIES. TREE GROWTH AND ARCHITECTURAL TRAITS ARE EASILY MEASURABLE EARLY IN A TREE\u0026#39;S DEVELOPMENT, RENDERING THEM AN IDEAL STARTING POINT FOR MAKING USE OF THESE UNIQUE AVOCADO GENOTYPES. BOTH PARENTAL GENOTYPES WILL BE RESEQUENCED AGAINST A REFERENCE GENOME AND A MAP OF DNA POLYMORPHIC DIVERGENCES BETWEEN THE TWO WILL BE CREATED TO COMPARE GENETIC SEGREGATION IN THE MAPPING POPULATION PROGENY FOR THESE TRAITS. THEREAFTER, A PHENOMICS APPROACH WILL BE CARRIED OUT AND ASSOCIATED WITH DNA POLYMORPHISMS FROM THE PROGENY IN ORDER TO DEVELOP MARKERS FOR LOCI WITH STRONG EFFECT ON TREE AND SHOOT ARCHITECTURE. THESE LOCI WILL BE AVAILABLE FOR SCREENING FUTURE BREEDING SELECTIONS, ALLOWING FOR A MORE EFFICIENT BREEDING PROGRAM. AN OUTCOME OF THIS PROJECT WILL BE A DEEPER UNDERSTANDING OF TRAITS ASSOCIATED WITH PRODUCTIVITY (YIELD), WHICH WILL CONTRIBUTE TO SUSTAINING U.S. COMPETITIVENESS IN THE GLOBAL MARKET THROUGH THE DEVELOPMENT OF NEW IMPROVED VARIETIES AND CULTURAL PRACTICES THAT WILL SUSTAIN DOMESTIC PRODUCTION.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFFICE BLDG",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Agriculture",
+    "Awarding Sub Agency": "National Institute of Food and Agriculture",
+    "Start Date": "2021-03-01",
+    "End Date": "2025-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_20216701334237_012",
+    "awarding_agency_id": 95,
+    "agency_slug": "department-of-agriculture",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56329587,
+    "generated_unique_award_id": "ASST_NON_20216701334237_012",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "THE AVOCADO, PERSEA AMERICANA, IS A NEWLY DOMESTICATED CROP THAT IS WIDELY GROWN AND CONSUMED WORLDWIDE. THE UNITED STATES IS THE SECOND LARGEST CONSUMER OF AVOCADOS WITH THE BULK OF THE FRUIT COMING FROM IMPORTS, HOWEVER MARKET DATA INDICATES THAT AMERICAN CONSUMERS PREFERS DOMESTICALLY PRODUCED FRUIT. CALIFORNIA, THE LARGEST DOMESTIC PRODUCER, FACES MANY CHALLENGES TO SUSTAIN ITS INDUSTRY INCLUDING URBAN ENCROACHMENT, LABOR SUPPLY AND WATER AVAILABILITY. ITS SISTER INDUSTRIES IN HAWAII, FLORIDA AND TEXAS FACE SIMILAR CHALLENGES. TO SUSTAIN A USA INDUSTRY IT IS IMPERATIVE TO SHIFT TO VARIETIES THAT ARE BETTER ADAPTED TO THESE CHALLENGES AND WHICH CAN BE CULTIVATED UNDER INTENSIVE MANAGEMENT AND MINIMIZE INPUTS OF NATURAL RESOURCES.ALTHOUGH WIDELY GROWN, THERE IS A RELATIVE PAUCITY OF RESEARCH ON AVOCADO AS COMPARED TO OTHER TREE CROPS. A REFERENCE GENOME BASED ON THE LEADING GLOBAL CULTIVAR \u0026#39;HASS\u0026#39; WAS RECENTLY PUBLICLY RELEASED AND A NEW ERA OF AVOCADO GENETIC RESEARCH IS NOWPOSSIBLE THAT CAN FOCUS ON SELECTING MATERIAL WITH HIGH CONSUMER APPEAL BUT ALSO ABLE TO WITHSTAND THE CHALLENGES OF CULTIVATION. UC RIVERSIDE, AN INSTITUTION WITH \u0026GT;60 YEARS OF AVOCADO IMPROVEMENT RESEARCH, HAS RECENTLY PLANTED A MAPPING POPULATION OF PROGENY FROM TWO ELITE MODERN SELECTIONS WITH A RANGE OF DIFFERING TRAITS THAT ARE MORE SUITED TO INTENSIVE CULTIVATION. OF MOST INTEREST ARE TRAITS RELATING TO TREE GROWTH AND ARCHITECTURE, AS THESE WILL ALLOW GROWERS TO IMPROVE PRODUCTION EFFICIENCY AND PLANT AT HIGHER DENSITIES. TREE GROWTH AND ARCHITECTURAL TRAITS ARE EASILY MEASURABLE EARLY IN A TREE\u0026#39;S DEVELOPMENT, RENDERING THEM AN IDEAL STARTING POINT FOR MAKING USE OF THESE UNIQUE AVOCADO GENOTYPES. BOTH PARENTAL GENOTYPES WILL BE RESEQUENCED AGAINST A REFERENCE GENOME AND A MAP OF DNA POLYMORPHIC DIVERGENCES BETWEEN THE TWO WILL BE CREATED TO COMPARE GENETIC SEGREGATION IN THE MAPPING POPULATION PROGENY FOR THESE TRAITS. THEREAFTER, A PHENOMICS APPROACH WILL BE CARRIED OUT AND ASSOCIATED WITH DNA POLYMORPHISMS FROM THE PROGENY IN ORDER TO DEVELOP MARKERS FOR LOCI WITH STRONG EFFECT ON TREE AND SHOOT ARCHITECTURE. THESE LOCI WILL BE AVAILABLE FOR SCREENING FUTURE BREEDING SELECTIONS, ALLOWING FOR A MORE EFFICIENT BREEDING PROGRAM. AN OUTCOME OF THIS PROJECT WILL BE A DEEPER UNDERSTANDING OF TRAITS ASSOCIATED WITH PRODUCTIVITY (YIELD), WHICH WILL CONTRIBUTE TO SUSTAINING U.S. COMPETITIVENESS IN THE GLOBAL MARKET THROUGH THE DEVELOPMENT OF NEW IMPROVED VARIETIES AND CULTURAL PRACTICES THAT WILL SUSTAIN DOMESTIC PRODUCTION.",
+    "total_obligation": 650000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2021-02-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 587159.92,
+    "total_account_obligation": 650000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 587159.92
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 650000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "awarding_agency": {
+      "id": 169,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Agriculture",
+        "code": "012",
+        "abbreviation": "USDA",
+        "slug": "department-of-agriculture"
+      },
+      "subtier_agency": {
+        "name": "National Institute of Food and Agriculture",
+        "code": "12H3",
+        "abbreviation": "NIFA"
+      },
+      "office_agency_name": "Institute of Food Protection and Sustainability (IFPS)"
+    },
+    "period_of_performance": {
+      "start_date": "2021-03-01",
+      "end_date": "2025-02-28",
+      "last_modified_date": "2024-08-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFFICE BLDG",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 587159.92
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 92617557,
+    "Award ID": "U01MH131827",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 5747033,
+    "Total Outlays": 952441.32,
+    "Description": "BY YOUTH, FOR YOUTH: DIGITAL SUPPORTED PEER NAVIGATION FOR ADDRESSING CHILD MENTAL HEALTH INEQUITIES - PROJECT SUMMARY DESPITE SIGNIFICANT PROGRESS IN RESEARCH, PRACTICE, AND POLICY OVER THE PAST FEW DECADES, MANY CHILDREN AND YOUTH CONTINUE TO EXPERIENCE POOR MENTAL HEALTH OUTCOMES BASED ON THEIR SOCIOECONOMIC DISADVANTAGE, ETHNIC OR RACIAL MINORITY STATUS, OR IMMIGRANT STATUS. AFRICAN AMERICAN AND LATINO YOUTH HAVE 1.5–3 TIMES GREATER ODDS OF EXPERIENCING AN UNMET MENTAL HEALTH NEED THAN DO THEIR WHITE COUNTERPARTS AND ARE MORE LIKELY TO BE NEGATIVELY IMPACTED BY SOCIAL DETERMINANTS OF MENTAL HEALTH RELATED TO POVERTY. WITH THEIR UNRIVALED ABILITY TO REACH YOUTH, SCHOOL-BASED AND PEDIATRIC PRIMARY CARE SERVICES ARE IDEAL HUBS TO PROVIDE MENTAL HEALTH, HEALTHCARE, SOCIAL SERVICES, AND PREVENTION TO STUDENTS AND FAMILIES WHO OTHERWISE FACE BARRIERS TO CARE. USING PARTICIPATORY DESIGN AND COMMUNITY PARTNERED PARTICIPATORY RESEARCH (CPPR), UCLA AND UCSF PSYCHIATRY RESEARCH CENTERS WITH LOS ANGELES TRUST FOR CHILDREN’S HEALTH AND SAN FRANCISCO HEALTH NETWORK PROPOSE TO: (1) FULLY CO-DESIGN (WITH YOUTH, CAREGIVERS, CLINICIANS AND OTHER STAKEHOLDERS) AN INNOVATIVE MENTAL HEALTH DIGITAL TOOL, CALLED 4YOUTH, TO IMPLEMENT ALGORITHMICALLY SUPPORTED MENTAL HEALTH AND SOCIAL DETERMINANTS SCREENING AND TRIAGE, RESILIENCY APPS AND NAVIGATION ACTIVITIES AND HELP SUPPORT THE PRIMARY CARE-CLINICAL WORKFORCE WITHIN SCHOOL CENTERS AND PEDIATRIC SERVICES; (2) STUDY THE IMPLEMENTATION OF TWO MENTAL HEALTH NAVIGATION MODELS SEPARATELY (FAMILY NAVIGATON+4YOUTH AND YOUTH NAVIGATION+4YOUTH), AND THEIR COMBINED EFFECTIVENESS FOR IMPROVING CONNECTING AND MATCHING YOUTH TO THE RIGHT LEVEL OF CARE AND SUPPORTS. THIS PROJECT WILL BE INITIATED WITH YOUTH 11-24 YEARS OLD AND FAMILY AND COMMUNITY MEMBERS ACROSS 10 LOS ANGELES UNIFIED SCHOOL DISTRICT (LAUSD) WELLNESS CENTERS AND 10 SAN FRANCISCO HEALTH NETWORK PEDIATRIC PRIMARY CARE CENTERS, WHICH SERVE MOSTLY BLACK, LATINO, AND ASIAN CHILDREN. MOBILE TECHNOLOGY APPROACHES ARE GAINING EMPIRICAL SUPPORT AND HOLD GREAT POTENTIAL FOR ENHANCING MENTAL HEALTH NAVIGATOR MODELS. INCORPORATING SCALABLE DIGITAL HEALTH TOOLS, AND STATISTICALLY EVALUATED ALGORITHMS TO AID THE NAVIGATION PROCESS, SUCH AS SCREENING, TRIAGE, TRACKING, CONNECTING TO CARE, AND MULTI-LEVEL COMMUNICATION, WILL HELP ENSURE YOUTH ARE RECEIVING OPTIMAL CARE THAT NAVIGATORS, PROVIDERS AND OTHER RELEVANT SYSTEMS CAN MEASURE. A SUCCESSFUL OUTCOME OF THE PROJECT IS A CPPR DEVELOPED OPEN-SOURCE INTERVENTION IMPLEMENTABLE IN SCHOOL-BASED AND PEDIATRIC PRIMARY CARE SERVICES, FOR IMPROVING MENTAL HEALTH SERVICES ACCESS FOR MINORITIZED YOUTH.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-08-15",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_U01MH131827_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 92617557,
+    "generated_unique_award_id": "ASST_NON_U01MH131827_075",
+    "piid": "",
+    "category": "grant",
+    "type": "05",
+    "type_description": "COOPERATIVE AGREEMENT (B)",
+    "description": "BY YOUTH, FOR YOUTH: DIGITAL SUPPORTED PEER NAVIGATION FOR ADDRESSING CHILD MENTAL HEALTH INEQUITIES - PROJECT SUMMARY DESPITE SIGNIFICANT PROGRESS IN RESEARCH, PRACTICE, AND POLICY OVER THE PAST FEW DECADES, MANY CHILDREN AND YOUTH CONTINUE TO EXPERIENCE POOR MENTAL HEALTH OUTCOMES BASED ON THEIR SOCIOECONOMIC DISADVANTAGE, ETHNIC OR RACIAL MINORITY STATUS, OR IMMIGRANT STATUS. AFRICAN AMERICAN AND LATINO YOUTH HAVE 1.5–3 TIMES GREATER ODDS OF EXPERIENCING AN UNMET MENTAL HEALTH NEED THAN DO THEIR WHITE COUNTERPARTS AND ARE MORE LIKELY TO BE NEGATIVELY IMPACTED BY SOCIAL DETERMINANTS OF MENTAL HEALTH RELATED TO POVERTY. WITH THEIR UNRIVALED ABILITY TO REACH YOUTH, SCHOOL-BASED AND PEDIATRIC PRIMARY CARE SERVICES ARE IDEAL HUBS TO PROVIDE MENTAL HEALTH, HEALTHCARE, SOCIAL SERVICES, AND PREVENTION TO STUDENTS AND FAMILIES WHO OTHERWISE FACE BARRIERS TO CARE. USING PARTICIPATORY DESIGN AND COMMUNITY PARTNERED PARTICIPATORY RESEARCH (CPPR), UCLA AND UCSF PSYCHIATRY RESEARCH CENTERS WITH LOS ANGELES TRUST FOR CHILDREN’S HEALTH AND SAN FRANCISCO HEALTH NETWORK PROPOSE TO: (1) FULLY CO-DESIGN (WITH YOUTH, CAREGIVERS, CLINICIANS AND OTHER STAKEHOLDERS) AN INNOVATIVE MENTAL HEALTH DIGITAL TOOL, CALLED 4YOUTH, TO IMPLEMENT ALGORITHMICALLY SUPPORTED MENTAL HEALTH AND SOCIAL DETERMINANTS SCREENING AND TRIAGE, RESILIENCY APPS AND NAVIGATION ACTIVITIES AND HELP SUPPORT THE PRIMARY CARE-CLINICAL WORKFORCE WITHIN SCHOOL CENTERS AND PEDIATRIC SERVICES; (2) STUDY THE IMPLEMENTATION OF TWO MENTAL HEALTH NAVIGATION MODELS SEPARATELY (FAMILY NAVIGATON+4YOUTH AND YOUTH NAVIGATION+4YOUTH), AND THEIR COMBINED EFFECTIVENESS FOR IMPROVING CONNECTING AND MATCHING YOUTH TO THE RIGHT LEVEL OF CARE AND SUPPORTS. THIS PROJECT WILL BE INITIATED WITH YOUTH 11-24 YEARS OLD AND FAMILY AND COMMUNITY MEMBERS ACROSS 10 LOS ANGELES UNIFIED SCHOOL DISTRICT (LAUSD) WELLNESS CENTERS AND 10 SAN FRANCISCO HEALTH NETWORK PEDIATRIC PRIMARY CARE CENTERS, WHICH SERVE MOSTLY BLACK, LATINO, AND ASIAN CHILDREN. MOBILE TECHNOLOGY APPROACHES ARE GAINING EMPIRICAL SUPPORT AND HOLD GREAT POTENTIAL FOR ENHANCING MENTAL HEALTH NAVIGATOR MODELS. INCORPORATING SCALABLE DIGITAL HEALTH TOOLS, AND STATISTICALLY EVALUATED ALGORITHMS TO AID THE NAVIGATION PROCESS, SUCH AS SCREENING, TRIAGE, TRACKING, CONNECTING TO CARE, AND MULTI-LEVEL COMMUNICATION, WILL HELP ENSURE YOUTH ARE RECEIVING OPTIMAL CARE THAT NAVIGATORS, PROVIDERS AND OTHER RELEVANT SYSTEMS CAN MEASURE. A SUCCESSFUL OUTCOME OF THE PROJECT IS A CPPR DEVELOPED OPEN-SOURCE INTERVENTION IMPLEMENTABLE IN SCHOOL-BASED AND PEDIATRIC PRIMARY CARE SERVICES, FOR IMPROVING MENTAL HEALTH SERVICES ACCESS FOR MINORITIZED YOUTH.",
+    "total_obligation": 5747033,
+    "subaward_count": 2,
+    "total_subaward_amount": 41577,
+    "date_signed": "2022-08-05",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 952441.32,
+    "total_account_obligation": 5747033,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 952441.32
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 5747033
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2022-08-15",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2025-09-26",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 952441.32
+  }
+}

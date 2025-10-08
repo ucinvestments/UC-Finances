@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 174109490,
+    "Award ID": "2512099",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 809183,
+    "Total Outlays": 0,
+    "Description": "COLLABORATIVE RESEARCH: EVALUATING PARADIGMS IN P BIOGEOCHEMICAL CYCLING: THE PARADOX OF HIGH P AVAILABILITY IN ECOSYSTEMS DEVELOPING ON P-POOR PARENT MATERIAL -THIS STUDY WILL DETERMINE THE ROLE OF THE ATMOSPHERE AS A SUPPLIER OF PHOSPHORUS (P), A KEY SOIL NUTRIENT, TO ECOSYSTEMS. THE RESEARCH USES LAKE SEDIMENTS THAT PRESERVE THE HISTORY OF HOW ECOSYSTEMS DEVELOPED TO RECONSTRUCT HOW P CYCLED OVER TIME. THE STUDY ALSO USES PRESENT-DAY SOILS AND WATER SAMPLES TO ANSWER FUNDAMENTAL QUESTIONS RELATED TO ECOSYSTEM DEVELOPMENT: CAN ATMOSPHERIC P INPUTS DRIVE THE DEVELOPMENT OF YOUNG, ERODING ECOSYSTEMS, ON P-POOR PARENT MATERIAL? UNDERSTANDING THE ROLE OF ATMOSPHERIC P AS A DRIVER OF ECOSYSTEM CHANGE IS CRITICAL FOR EVALUATING AND PREDICTING WHETHER I) P IS LOST OR GAINED IN ECOSYSTEMS, II) WHETHER PLANTS OR MICROBES MAY NOT BE ABLE TO GROW OR DECOMPOSE ORGANIC MATTER BECAUSE THEY LACK P, AND III) WHETHER SHIFTS IN DUST EMISSION SOURCES, AND DEPOSITION RATES, CAUSED BY GLOBAL CHANGES MAY ALTER ECOSYSTEM FUNCTIONS LIKE ORGANIC MATTER DECOMPOSITION. LAND MANAGERS IN MANY ARID REGIONS DEPEND ON MONTANE ECOSYSTEMS FOR WATER SUPPLY. BECAUSE DUST CAN ACCELERATE THE TIMING OF SNOWMELT AND NUTRIENT-BEARING DUSTS CAN DEGRADE WATER QUALITY, ASSESSING THE IMPACTS OF DUST DEPOSITION ON ECOSYSTEMS IS CRITICAL FROM A WATER AND ECOSYSTEM QUALITY PERSPECTIVE. THIS RESEARCH PROPOSES TO RE-EVALUATE ESTABLISHED PARADIGMS ON ECOSYSTEM P CYCLING BY FOCUSING ON YOUNG, ERODING LANDSCAPES DERIVED FROM P-POOR PARENT MATERIALS, AND WHERE SURROUNDING DRYLANDS FAVOR ATMOSPHERIC TRANSPORT AND DEPOSITION OF P-BEARING DUSTS. THE STUDY EXPECTS THAT IN GLACIATED REGIONS I) ROCK-DERIVED P WAS MINIMALLY RETAINED, ESPECIALLY BEFORE ECOSYSTEM DEVELOPMENT, AND BECAME LOCKED IN LAKE SEDIMENTS, AND THAT II) ATMOSPHERIC P INPUTS CONTROL THE BULK OF BIOLOGICALLY CYCLED P RELATIVE TO THE CONTRIBUTION OF ROCK P. THIS WORK INTEGRATES LANDSCAPE PALEO-DENUDATION RATES, SOIL ENRICHMENT FACTORS USING IMMOBILE ELEMENTS, AND ISOTOPIC TECHNIQUES TO FINGERPRINT AND UNDERSTAND THE FATES AND SOURCES OF P AT A WATERSHED SCALE. ECOLOGICAL APPROACHES (E.G., EXOENZYMES, RESPIRATION ASSAYS, AND SUBSTRATE USE EFFICIENCY) WILL BE USED TO ASSESS PRESENT-DAY RATES OF NUTRIENT CYCLING AND LIMITATION IN RELATION TO P AVAILABILITY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "92521-0001",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2025-08-01",
+    "End Date": "2028-07-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2512099_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 174109490,
+    "generated_unique_award_id": "ASST_NON_2512099_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "COLLABORATIVE RESEARCH: EVALUATING PARADIGMS IN P BIOGEOCHEMICAL CYCLING: THE PARADOX OF HIGH P AVAILABILITY IN ECOSYSTEMS DEVELOPING ON P-POOR PARENT MATERIAL -THIS STUDY WILL DETERMINE THE ROLE OF THE ATMOSPHERE AS A SUPPLIER OF PHOSPHORUS (P), A KEY SOIL NUTRIENT, TO ECOSYSTEMS. THE RESEARCH USES LAKE SEDIMENTS THAT PRESERVE THE HISTORY OF HOW ECOSYSTEMS DEVELOPED TO RECONSTRUCT HOW P CYCLED OVER TIME. THE STUDY ALSO USES PRESENT-DAY SOILS AND WATER SAMPLES TO ANSWER FUNDAMENTAL QUESTIONS RELATED TO ECOSYSTEM DEVELOPMENT: CAN ATMOSPHERIC P INPUTS DRIVE THE DEVELOPMENT OF YOUNG, ERODING ECOSYSTEMS, ON P-POOR PARENT MATERIAL? UNDERSTANDING THE ROLE OF ATMOSPHERIC P AS A DRIVER OF ECOSYSTEM CHANGE IS CRITICAL FOR EVALUATING AND PREDICTING WHETHER I) P IS LOST OR GAINED IN ECOSYSTEMS, II) WHETHER PLANTS OR MICROBES MAY NOT BE ABLE TO GROW OR DECOMPOSE ORGANIC MATTER BECAUSE THEY LACK P, AND III) WHETHER SHIFTS IN DUST EMISSION SOURCES, AND DEPOSITION RATES, CAUSED BY GLOBAL CHANGES MAY ALTER ECOSYSTEM FUNCTIONS LIKE ORGANIC MATTER DECOMPOSITION. LAND MANAGERS IN MANY ARID REGIONS DEPEND ON MONTANE ECOSYSTEMS FOR WATER SUPPLY. BECAUSE DUST CAN ACCELERATE THE TIMING OF SNOWMELT AND NUTRIENT-BEARING DUSTS CAN DEGRADE WATER QUALITY, ASSESSING THE IMPACTS OF DUST DEPOSITION ON ECOSYSTEMS IS CRITICAL FROM A WATER AND ECOSYSTEM QUALITY PERSPECTIVE. THIS RESEARCH PROPOSES TO RE-EVALUATE ESTABLISHED PARADIGMS ON ECOSYSTEM P CYCLING BY FOCUSING ON YOUNG, ERODING LANDSCAPES DERIVED FROM P-POOR PARENT MATERIALS, AND WHERE SURROUNDING DRYLANDS FAVOR ATMOSPHERIC TRANSPORT AND DEPOSITION OF P-BEARING DUSTS. THE STUDY EXPECTS THAT IN GLACIATED REGIONS I) ROCK-DERIVED P WAS MINIMALLY RETAINED, ESPECIALLY BEFORE ECOSYSTEM DEVELOPMENT, AND BECAME LOCKED IN LAKE SEDIMENTS, AND THAT II) ATMOSPHERIC P INPUTS CONTROL THE BULK OF BIOLOGICALLY CYCLED P RELATIVE TO THE CONTRIBUTION OF ROCK P. THIS WORK INTEGRATES LANDSCAPE PALEO-DENUDATION RATES, SOIL ENRICHMENT FACTORS USING IMMOBILE ELEMENTS, AND ISOTOPIC TECHNIQUES TO FINGERPRINT AND UNDERSTAND THE FATES AND SOURCES OF P AT A WATERSHED SCALE. ECOLOGICAL APPROACHES (E.G., EXOENZYMES, RESPIRATION ASSAYS, AND SUBSTRATE USE EFFICIENCY) WILL BE USED TO ASSESS PRESENT-DAY RATES OF NUTRIENT CYCLING AND LIMITATION IN RELATION TO P AVAILABILITY. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 809183,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-07-30",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 0,
+    "total_account_obligation": 809183,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 0
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 809183
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ENVIRONMENTAL BIOLOGY"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF ENVIRONMENTAL BIOLOGY"
+    },
+    "period_of_performance": {
+      "start_date": "2025-08-01",
+      "end_date": "2028-07-31",
+      "last_modified_date": "2025-08-12",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "0001",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 0
+  }
+}

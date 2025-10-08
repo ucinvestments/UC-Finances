@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91176577,
+    "Award ID": "R01DK138456",
+    "Recipient Name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+    "Award Amount": 865703,
+    "Total Outlays": 218122.3,
+    "Description": "TARGETED IDENTIFICATION OF IBD RISK GENE VARIANT IMPACT ON IMMUNE-EPITHELIAL CROSSTALK AND INTESTINAL BARRIER FUNCTION - PROJECT SUMMARY SINGLE NUCLEOTIDE POLYMORPHISMS (SNPS) IN THE PROTEIN TYROSINE PHOSPHATASE N2 (PTPN2) GENE ARE CONFIRMED RISK MARKERS IN BOTH FORMS OF INFLAMMATORY BOWEL DISEASE (IBD), CROHN’S DISEASE (CD) AND ULCERATIVE COLITIS (UC). PTPN2 LOSS-OF-FUNCTION VARIANTS REDUCE PTPN2 ACTIVITY AND ARE ASSOCIATED WITH MORE SEVERE DISEASE IN IBD PATIENTS. WHILE WE AND OTHERS HAVE UTILIZED PTPN2 KNOCKDOWN AND KNOCKOUT MODELS TO GENERATE PRELIMINARY INSIGHTS INTO THE POTENTIAL CONTRIBUTIONS OF PTPN2 LOSS-OF- FUNCTION IN IBD DEVELOPMENT, THERE IS VERY LITTLE INFORMATION AS TO HOW PTPN2 CLINICAL VARIANTS COMPROMISE INTESTINAL HOMEOSTASIS. A MAJOR CONTRIBUTOR TO THIS KNOWLEDGE GAP LIES IN THE LACK OF SUITABLE MODEL SYSTEMS TO STUDY PTPN2 VARIANTS IN INTESTINAL EPITHELIAL CELLS, THE CRITICAL CELL TYPE THAT COMPRISES THE GUT BARRIER. TO ADDRESS THIS, WE PROPOSE TO UTILIZE IBDGC RESOURCES TO 1) IDENTIFY GENE CLUSTERING, EXPRESSION, AND BIOLOGICAL PATHWAYS ALTERED IN IBD PATIENTS CARRYING THE PTPN2 RS1893217 LOSS-OF- FUNCTION VARIANT; 2) GENERATE NOVEL IN VITRO MODELS THAT WILL ALLOW US TO MECHANISTICALLY PROBE KEY TARGETS, PERFORM CHALLENGE AND RESCUE (USING PHARMACOLOGIC AND GENETIC APPROACHES) EXPERIMENTS; AND 3) GENERATE NOVEL GUT-ON-CHIP MODELS TO INTEGRATE THESE FINDINGS INTO A MORE PHYSIOLOGICALLY RELEVANT EXPERIMENTAL SYSTEM. OUTCOMES \u0026 IMPACT: THIS PROPOSAL WILL CAPITALIZE ON OUR EXPERTISE IN STUDYING ROLES OF PTPN2 IN MULTIPLE FACETS OF IBD PATHOPHYSIOLOGY BY UTILIZING THE UNIQUE RESOURCES OF IBDGC TO DEVELOP CUTTING- EDGE MODELS FOR A GREATER TRANSLATIONAL UNDERSTANDING OF HOW PTPN2 VARIANTS CONTRIBUTE TO IBD. THESE MODELS WILL ALSO REPRESENT A SIGNIFICANT ADVANCE TO THE FIELD FOR DISCOVERY BIOLOGY AND FOR FUTURE ‘PERSONALIZED’ DRUG DEVELOPMENT STUDIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "MR5QC5FCAVH5",
+    "Recipient Location": {
+      "address_line1": "200 UNIVERSTY OFC BUILDING",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "92521"
+    },
+    "Primary Place of Performance": {
+      "city_name": "RIVERSIDE",
+      "congressional_code": "39",
+      "country_name": "UNITED STATES",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "925219800",
+      "zip5": "92521"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-03-01",
+    "End Date": "2028-02-28",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01DK138456_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91176577,
+    "generated_unique_award_id": "ASST_NON_R01DK138456_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "TARGETED IDENTIFICATION OF IBD RISK GENE VARIANT IMPACT ON IMMUNE-EPITHELIAL CROSSTALK AND INTESTINAL BARRIER FUNCTION - PROJECT SUMMARY SINGLE NUCLEOTIDE POLYMORPHISMS (SNPS) IN THE PROTEIN TYROSINE PHOSPHATASE N2 (PTPN2) GENE ARE CONFIRMED RISK MARKERS IN BOTH FORMS OF INFLAMMATORY BOWEL DISEASE (IBD), CROHN’S DISEASE (CD) AND ULCERATIVE COLITIS (UC). PTPN2 LOSS-OF-FUNCTION VARIANTS REDUCE PTPN2 ACTIVITY AND ARE ASSOCIATED WITH MORE SEVERE DISEASE IN IBD PATIENTS. WHILE WE AND OTHERS HAVE UTILIZED PTPN2 KNOCKDOWN AND KNOCKOUT MODELS TO GENERATE PRELIMINARY INSIGHTS INTO THE POTENTIAL CONTRIBUTIONS OF PTPN2 LOSS-OF- FUNCTION IN IBD DEVELOPMENT, THERE IS VERY LITTLE INFORMATION AS TO HOW PTPN2 CLINICAL VARIANTS COMPROMISE INTESTINAL HOMEOSTASIS. A MAJOR CONTRIBUTOR TO THIS KNOWLEDGE GAP LIES IN THE LACK OF SUITABLE MODEL SYSTEMS TO STUDY PTPN2 VARIANTS IN INTESTINAL EPITHELIAL CELLS, THE CRITICAL CELL TYPE THAT COMPRISES THE GUT BARRIER. TO ADDRESS THIS, WE PROPOSE TO UTILIZE IBDGC RESOURCES TO 1) IDENTIFY GENE CLUSTERING, EXPRESSION, AND BIOLOGICAL PATHWAYS ALTERED IN IBD PATIENTS CARRYING THE PTPN2 RS1893217 LOSS-OF- FUNCTION VARIANT; 2) GENERATE NOVEL IN VITRO MODELS THAT WILL ALLOW US TO MECHANISTICALLY PROBE KEY TARGETS, PERFORM CHALLENGE AND RESCUE (USING PHARMACOLOGIC AND GENETIC APPROACHES) EXPERIMENTS; AND 3) GENERATE NOVEL GUT-ON-CHIP MODELS TO INTEGRATE THESE FINDINGS INTO A MORE PHYSIOLOGICALLY RELEVANT EXPERIMENTAL SYSTEM. OUTCOMES \u0026 IMPACT: THIS PROPOSAL WILL CAPITALIZE ON OUR EXPERTISE IN STUDYING ROLES OF PTPN2 IN MULTIPLE FACETS OF IBD PATHOPHYSIOLOGY BY UTILIZING THE UNIQUE RESOURCES OF IBDGC TO DEVELOP CUTTING- EDGE MODELS FOR A GREATER TRANSLATIONAL UNDERSTANDING OF HOW PTPN2 VARIANTS CONTRIBUTE TO IBD. THESE MODELS WILL ALSO REPRESENT A SIGNIFICANT ADVANCE TO THE FIELD FOR DISCOVERY BIOLOGY AND FOR FUTURE ‘PERSONALIZED’ DRUG DEVELOPMENT STUDIES.",
+    "total_obligation": 865703,
+    "subaward_count": 1,
+    "total_subaward_amount": 26094,
+    "date_signed": "2024-02-23",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 218122.3,
+    "total_account_obligation": 865703,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 218122.3
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 865703
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Diabetes and Digestive and Kidney Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2024-03-01",
+      "end_date": "2028-02-28",
+      "last_modified_date": "2025-06-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R",
+      "recipient_name": "REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE",
+      "recipient_uei": "MR5QC5FCAVH5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Minority Serving)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "RIVERSIDE",
+        "county_code": "065",
+        "county_name": "RIVERSIDE",
+        "address_line1": "200 UNIVERSTY OFC BUILDING",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "39",
+        "zip4": "0001",
+        "zip5": "92521",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "RIVERSIDE",
+      "county_code": "065",
+      "county_name": "RIVERSIDE",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "39",
+      "zip4": "9800",
+      "zip5": "92521",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 218122.3
+  }
+}

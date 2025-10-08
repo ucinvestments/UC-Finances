@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717598,
+    "Award ID": "S10OD030505",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "Award Amount": 600000,
+    "Total Outlays": 600000,
+    "Description": "ELYRA 7 MICROSCOPE WITH LATTICE SIM2 - PROJECT SUMMARY / ABSTRACT THE UCSD SCHOOL OF MEDICINE MICROSCOPY CORE IS THE LARGEST LIGHT MICROSCOPY CORE FACILITY ON CAMPUS AND HAS BEEN SERVING UCSD RESEARCHERS FOR 18 YEARS. IT IS ACCESSIBLE BY ALL UCSD RESEARCHERS REGARDLESS OF DEPARTMENT AFFILIATION AND CURRENTLY HAS OVER 200 REGISTERED USER LABS ACROSS THE CAMPUS. THE CORE ENJOYS STRONG SUPPORT FROM THE FACULTY AND OUR INSTITUTIONAL LEADERSHIP. THE CURRENT ARRAY OF 12 INSTRUMENTS AT THE CORE INCLUDES MULTIPLE CONFOCAL SYSTEMS, MULTIPHOTON, LIGHT SHEET, GATAN 3VIEW SERIAL BLOCK FACE SCANNING EM, SLIDE SCANNING, AS WELL AS OTHERS. A CRITICAL NEED EXISTS IN THE REALM OF CUTTING-EDGE SUPER-RESOLUTION LIVE CELL IMAGING, WHICH IS CURRENTLY LACKING LOCALLY. AT THE MOMENT, OUR ONLY SUPER-RESOLUTION SYSTEMS ARE POINT SCANNING CONFOCAL PLATFORMS WHICH ARE SLOW AND HEAVILY PHOTO-BLEACH SAMPLES. HERE WE SEEK FUNDING TO ACQUIRE AN ELYRA 7 SYSTEM WITH LATTICE SIM2 FROM ZEISS AS OUR PRIMARY SUPER-RESOLUTION LIVE CELL IMAGING SYSTEM. THIS SYSTEM CAN ALSO BE USED TO IMAGE DEVELOPING MODEL ORGANISMS AND THICK FIXED SPECIMENS. THE GROUNDBREAKING 2-FOLD INCREASE IN SAMPLING EFFICIENCY OVER CLASSIC SIM (STRUCTURED ILLUMINATION MICROSCOPY) ENABLES FAST, GENTLE 3D SUPER-RESOLUTION IMAGING AT PENETRATING DEPTHS ON PAR WITH POINT SCANNING CONFOCAL MICROSCOPY. OUR ON-SITE INSTRUMENT DEMONSTRATION VALIDATED THE INITIAL ELYRA 7 SYSTEM WITH LATTICE SIM (VERSION 1) AS A PRACTICAL SOLUTION FOR SUPER-RESOLUTION LIVE CELL IMAGING, WHICH ALSO COMES WITH SOME INNOVATIVE PROCESSING MODALITIES THAT FURTHER ENHANCE SPEED AND VERSATILITY. WITH THE RECENT INTRODUCTION OF THE DUAL ITERATIVE RECONSTRUCTION ALGORITHM, THE NEWLY UPGRADED ELYRA 7 LATTICE SIM2 HAS SUBSTANTIALLY IMPROVED THE RESOLUTION OF THE SYSTEM FROM 120 NM XY AND 300 NM Z TO A REMARKABLE 60 NM XY AND 200 NM Z. THE UPGRADED SIM2 SYSTEM IS ALSO MORE FLEXIBLE REQUIRING FEWER PHASE SHIFTS FOR IMAGE RECONSTRUCTION. OUR PROPOSED USER LABS ILLUSTRATE A CRITICAL NEED AMONG THE LOCAL INVESTIGATORS FOR THE PROPOSED SYSTEM IN ADVANCING THEIR NIH-FUNDED RESEARCH. THEY COME FROM ALL CORNERS OF THE CAMPUS, AND THEIR RESEARCH PROGRAMS COLLECTIVELY COVER A RANGE OF BIOMEDICAL RESEARCH FIELDS WITH MANY DISEASE AREAS REPRESENTED, INCLUDING CANCER, DIABETES, CARDIOVASCULAR, PULMONARY, METABOLIC, INFECTIOUS, INFLAMMATORY, NEUROLOGICAL AND PSYCHIATRIC DISEASES AMONG OTHERS. IF FUNDED, THE ELYRA 7 LATTICE SIM2 TECHNOLOGY PLATFORM WILL BE EXTENSIVELY UTILIZED BY PROPOSED USERS AND ADDITIONALLY WILL REACH A POTENTIALLY MUCH LARGER USER BASE AS OUR CORE HAS PROVEN CAPABLE OF DISSEMINATING CUTTING-EDGE MICROSCOPY TECHNOLOGIES TO THE WIDE LOCAL RESEARCH COMMUNITY. ADEQUATE SPACE AND INFRASTRUCTURE, CAPABLE STAFF, ROBUST FACULTY OVERSIGHT, AND STRONG INSTITUTIONAL COMMITMENT ALONG WITH A TRACK RECORD OF PROGRAM-LEADING CORE GRANT CITATIONS WILL ENSURE THE EFFECTIVE AND EFFICIENT USE OF THE PROPOSED INSTRUMENT FOR YEARS TO COME. THE ELYRA 7 LATTICE SIM2 SYSTEM WILL FILL A CURRENT VOID IN OUR INSTRUMENTATION PORTFOLIO AND GENERATE A SUSTAINED, POWERFUL INFLUENCE ON THE BIOMEDICAL RESEARCH PORTFOLIO AT UC SAN DIEGO.",
+    "Contract Award Type": "",
+    "Recipient UEI": "UYTTZT6G9DT1",
+    "Recipient Location": {
+      "address_line1": "9500 GILMAN DR",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0021",
+      "zip5": "92093"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LA JOLLA",
+      "congressional_code": "50",
+      "country_name": "UNITED STATES",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "920930691",
+      "zip5": "92093"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-07-01",
+    "End Date": "2023-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "ce42d274-7283-659b-de1c-e11666794c48-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD030505_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717598,
+    "generated_unique_award_id": "ASST_NON_S10OD030505_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ELYRA 7 MICROSCOPE WITH LATTICE SIM2 - PROJECT SUMMARY / ABSTRACT THE UCSD SCHOOL OF MEDICINE MICROSCOPY CORE IS THE LARGEST LIGHT MICROSCOPY CORE FACILITY ON CAMPUS AND HAS BEEN SERVING UCSD RESEARCHERS FOR 18 YEARS. IT IS ACCESSIBLE BY ALL UCSD RESEARCHERS REGARDLESS OF DEPARTMENT AFFILIATION AND CURRENTLY HAS OVER 200 REGISTERED USER LABS ACROSS THE CAMPUS. THE CORE ENJOYS STRONG SUPPORT FROM THE FACULTY AND OUR INSTITUTIONAL LEADERSHIP. THE CURRENT ARRAY OF 12 INSTRUMENTS AT THE CORE INCLUDES MULTIPLE CONFOCAL SYSTEMS, MULTIPHOTON, LIGHT SHEET, GATAN 3VIEW SERIAL BLOCK FACE SCANNING EM, SLIDE SCANNING, AS WELL AS OTHERS. A CRITICAL NEED EXISTS IN THE REALM OF CUTTING-EDGE SUPER-RESOLUTION LIVE CELL IMAGING, WHICH IS CURRENTLY LACKING LOCALLY. AT THE MOMENT, OUR ONLY SUPER-RESOLUTION SYSTEMS ARE POINT SCANNING CONFOCAL PLATFORMS WHICH ARE SLOW AND HEAVILY PHOTO-BLEACH SAMPLES. HERE WE SEEK FUNDING TO ACQUIRE AN ELYRA 7 SYSTEM WITH LATTICE SIM2 FROM ZEISS AS OUR PRIMARY SUPER-RESOLUTION LIVE CELL IMAGING SYSTEM. THIS SYSTEM CAN ALSO BE USED TO IMAGE DEVELOPING MODEL ORGANISMS AND THICK FIXED SPECIMENS. THE GROUNDBREAKING 2-FOLD INCREASE IN SAMPLING EFFICIENCY OVER CLASSIC SIM (STRUCTURED ILLUMINATION MICROSCOPY) ENABLES FAST, GENTLE 3D SUPER-RESOLUTION IMAGING AT PENETRATING DEPTHS ON PAR WITH POINT SCANNING CONFOCAL MICROSCOPY. OUR ON-SITE INSTRUMENT DEMONSTRATION VALIDATED THE INITIAL ELYRA 7 SYSTEM WITH LATTICE SIM (VERSION 1) AS A PRACTICAL SOLUTION FOR SUPER-RESOLUTION LIVE CELL IMAGING, WHICH ALSO COMES WITH SOME INNOVATIVE PROCESSING MODALITIES THAT FURTHER ENHANCE SPEED AND VERSATILITY. WITH THE RECENT INTRODUCTION OF THE DUAL ITERATIVE RECONSTRUCTION ALGORITHM, THE NEWLY UPGRADED ELYRA 7 LATTICE SIM2 HAS SUBSTANTIALLY IMPROVED THE RESOLUTION OF THE SYSTEM FROM 120 NM XY AND 300 NM Z TO A REMARKABLE 60 NM XY AND 200 NM Z. THE UPGRADED SIM2 SYSTEM IS ALSO MORE FLEXIBLE REQUIRING FEWER PHASE SHIFTS FOR IMAGE RECONSTRUCTION. OUR PROPOSED USER LABS ILLUSTRATE A CRITICAL NEED AMONG THE LOCAL INVESTIGATORS FOR THE PROPOSED SYSTEM IN ADVANCING THEIR NIH-FUNDED RESEARCH. THEY COME FROM ALL CORNERS OF THE CAMPUS, AND THEIR RESEARCH PROGRAMS COLLECTIVELY COVER A RANGE OF BIOMEDICAL RESEARCH FIELDS WITH MANY DISEASE AREAS REPRESENTED, INCLUDING CANCER, DIABETES, CARDIOVASCULAR, PULMONARY, METABOLIC, INFECTIOUS, INFLAMMATORY, NEUROLOGICAL AND PSYCHIATRIC DISEASES AMONG OTHERS. IF FUNDED, THE ELYRA 7 LATTICE SIM2 TECHNOLOGY PLATFORM WILL BE EXTENSIVELY UTILIZED BY PROPOSED USERS AND ADDITIONALLY WILL REACH A POTENTIALLY MUCH LARGER USER BASE AS OUR CORE HAS PROVEN CAPABLE OF DISSEMINATING CUTTING-EDGE MICROSCOPY TECHNOLOGIES TO THE WIDE LOCAL RESEARCH COMMUNITY. ADEQUATE SPACE AND INFRASTRUCTURE, CAPABLE STAFF, ROBUST FACULTY OVERSIGHT, AND STRONG INSTITUTIONAL COMMITMENT ALONG WITH A TRACK RECORD OF PROGRAM-LEADING CORE GRANT CITATIONS WILL ENSURE THE EFFECTIVE AND EFFICIENT USE OF THE PROPOSED INSTRUMENT FOR YEARS TO COME. THE ELYRA 7 LATTICE SIM2 SYSTEM WILL FILL A CURRENT VOID IN OUR INSTRUMENTATION PORTFOLIO AND GENERATE A SUSTAINED, POWERFUL INFLUENCE ON THE BIOMEDICAL RESEARCH PORTFOLIO AT UC SAN DIEGO.",
+    "total_obligation": 600000,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-06-27",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 600000,
+    "total_account_obligation": 600000,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 600000
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 600000
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2022-07-01",
+      "end_date": "2023-06-30",
+      "last_modified_date": "2024-10-04",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "ce42d274-7283-659b-de1c-e11666794c48-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+      "recipient_uei": "UYTTZT6G9DT1",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LA JOLLA",
+        "county_code": "073",
+        "county_name": "SAN DIEGO",
+        "address_line1": "9500 GILMAN DR",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "50",
+        "zip4": "0021",
+        "zip5": "92093",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LA JOLLA",
+      "county_code": "073",
+      "county_name": "SAN DIEGO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "50",
+      "zip4": "0691",
+      "zip5": "92093",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 600000
+  }
+}

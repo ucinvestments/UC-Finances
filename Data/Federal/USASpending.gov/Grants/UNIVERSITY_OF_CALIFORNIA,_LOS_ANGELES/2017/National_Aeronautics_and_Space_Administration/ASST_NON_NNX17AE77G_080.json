@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 89967407,
+    "Award ID": "NNX17AE77G",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+    "Award Amount": 1089990.33,
+    "Total Outlays": 177160.27,
+    "Description": "WE PROPOSE TO CONDUCT A SERIES OF INVESTIGATIONS OF THE MINERALOGIC COMPONENTS OF CHONDRITIC METEORITES THAT ARE THOUGHT TO HAVE FORMED ON PLANETESIMALS WITH THE GOAL OF DEVELOPING IMPROVED CHRONOLOGICAL CONSTRAINTS ON THEIR FORMATION AND ON THE OVERALL AQUEOUS EVOLUTION ON ASTEROIDS. OUR ANALYSES ARE DIRECTED TOWARD DEVELOPING A BETTER UNDERSTAND OF THE SEQUENCE AND TIMING OF MAJOR EVENTSIN PLANETARY ACCRETION AND DIFFERENTIATION  WHICH IS DIRECTLY RELEVANT TO THE GOALS OF THE EMERGING WORLDS SOLICITATION TO UNDERSTAND THE FORMATION AND EARLY EVOLUTION OF THE SOLAR SYSTEM AND THE STRATEGIC QUESTION OF LEARNING HOW DID THE SUNS FAMILY OF PLANETS  SATELLITES  AND MINOR BODIES FORM AND EVOLVE?WE WILL UTILIZE CHRONOLOGICAL TOOLS THAT WE AND OTHERS HAVE PREVIOUSLY DEVELOPED IN A COORDINATED APPROACH UTILIZING PETROGRAPHY  CHEMISTRY AND IN SITU ISOTOPIC ANALYSES. TIMESCALES OF EARLY GEOLOGIC ACTIVITY ON ASTEROIDAL PARENT BODIES OF METEORITES WILL BE ADDRESSED BY COUPLED ANALYSES OF THE MN-CR  O-ISOTOPE  AND C-ISOTOPE SYSTEMS IN CARBONATES AND OTHER SECONDARY MINERALS OF CARBONACEOUS CHONDRITES. PREVIOUS DATA SHOW THAT DIFFERENT CARBONATE MINERALOGIES IN CI CHONDRITES HAVE DISTINCT OXYGEN AND CARBON ISOTOPIC COMPOSITIONS SUGGESTING AN EVOLUTION OF FLUID COMPOSITIONS ON THE CI PARENT BODY. WE HAVE DEVELOPED A METHOD TO IMPROVE THE ACCURACY OF MN-CR DATING OF CARBONATES AND WE PROPOSE TO USE THE NEWEST GENERATION ION MICROPROBE AT UCLA TO DELINEATE THE FULL RANGE AND TIMING OF FLUID EVOLUTION ON THE PARENT ASTEROIDS OF CI AND OTHER SELECT CARBONACEOUS CHONDRITES. WE ALSO PROPOSE TO FOLLOW UP INTRIGUING HINTS OF 60FE ACTIVITY IN EARLY-FORMED CARBONATES VIA SIMS ANALYSES AND RESONANT IONIZATION MASS SPECTROMETRY (RIMS) ANALYSES WITH OUR COLLABORATOR ANDY DAVIS AT THE UNIVERSITY OF CHICAGO. AL-MG AND FE-NI SYSTEMATICS WILL BE MEASURED IN SELECT CHONDRULES FROM UNEQUILIBRATED CHONDRITES BY BOTH SIMS AND RIMS TO BETTER UNDERSTAND THE ABUNDANCE AND DISTRIBUTION OF 60FE IN THE EARLY SOLAR SYSTEM.A PLANETARY MAJOR EQUIPMENT REQUEST IS MADE FOR PURCHASE OF A MULTI-SAMPLE INTRODUCTION SYSTEM FOR OUR NEW CAMECA IMS 1290 ION MICROPROBE. THE IMS 1290 IS THE PRIMARY INSTRUMENT FOR THE RESEARCH PROPOSED HERE AND IT SERVES OTHER FUNDED AND PROPOSED NASA PROJECTS  AS WELL PROJECTS BROUGHT TO THE NSF NATIONAL ION MICROPROBE FACILITY. THE INSTRUMENT WAS PURCHASED WITH SUBSTANTIAL ($4M) SUPPORT FROM THE NSF MAJOR RESEARCH INSTRUMENTATION PROGRAM  NEVERTHELESS WE COULD ONLY AFFORD TO OUTFIT WITH THE MOST BASIC SINGLE-SAMPLE INTRODUCTION SYSTEM. THE NEW SYSTEM WILL ALLOW THE STORAGE OF UP TO SIX SAMPLES IN THE VACUUM ANTECHAMBER ADJACENTTO THE ANALYSIS CHAMBER. THIS WILL ENABLE IMPROVEMENTS IN BACKGROUND LEVELS OF VOLATILE ELEMENTS AND WILL THEREFORE LEAD TO HIGHER RELIABILITY AND HIGHER EFFICIENCY OF ANALYSES  INCLUDING THE OXYGEN AND CARBON ISOTOPE MEASUREMENTS PROPOSED HERE.",
+    "Contract Award Type": "",
+    "Recipient UEI": "RN64EPNH8JC6",
+    "Recipient Location": {
+      "address_line1": "10889 WILSHIRE BLVD STE 700",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "LOS ANGELES",
+      "congressional_code": "33",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "0001",
+      "zip5": "90095"
+    },
+    "Primary Place of Performance": {
+      "city_name": "LOS ANGELES",
+      "congressional_code": "33",
+      "country_name": "UNITED STATES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "90095-1301",
+      "zip5": "90095"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Aeronautics and Space Administration",
+    "Awarding Sub Agency": "National Aeronautics and Space Administration",
+    "Start Date": "2017-01-25",
+    "End Date": "2021-12-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_NNX17AE77G_080",
+    "awarding_agency_id": 862,
+    "agency_slug": "national-aeronautics-and-space-administration",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 89967407,
+    "generated_unique_award_id": "ASST_NON_NNX17AE77G_080",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "WE PROPOSE TO CONDUCT A SERIES OF INVESTIGATIONS OF THE MINERALOGIC COMPONENTS OF CHONDRITIC METEORITES THAT ARE THOUGHT TO HAVE FORMED ON PLANETESIMALS WITH THE GOAL OF DEVELOPING IMPROVED CHRONOLOGICAL CONSTRAINTS ON THEIR FORMATION AND ON THE OVERALL AQUEOUS EVOLUTION ON ASTEROIDS. OUR ANALYSES ARE DIRECTED TOWARD DEVELOPING A BETTER UNDERSTAND OF THE SEQUENCE AND TIMING OF MAJOR EVENTSIN PLANETARY ACCRETION AND DIFFERENTIATION  WHICH IS DIRECTLY RELEVANT TO THE GOALS OF THE EMERGING WORLDS SOLICITATION TO UNDERSTAND THE FORMATION AND EARLY EVOLUTION OF THE SOLAR SYSTEM AND THE STRATEGIC QUESTION OF LEARNING HOW DID THE SUNS FAMILY OF PLANETS  SATELLITES  AND MINOR BODIES FORM AND EVOLVE?WE WILL UTILIZE CHRONOLOGICAL TOOLS THAT WE AND OTHERS HAVE PREVIOUSLY DEVELOPED IN A COORDINATED APPROACH UTILIZING PETROGRAPHY  CHEMISTRY AND IN SITU ISOTOPIC ANALYSES. TIMESCALES OF EARLY GEOLOGIC ACTIVITY ON ASTEROIDAL PARENT BODIES OF METEORITES WILL BE ADDRESSED BY COUPLED ANALYSES OF THE MN-CR  O-ISOTOPE  AND C-ISOTOPE SYSTEMS IN CARBONATES AND OTHER SECONDARY MINERALS OF CARBONACEOUS CHONDRITES. PREVIOUS DATA SHOW THAT DIFFERENT CARBONATE MINERALOGIES IN CI CHONDRITES HAVE DISTINCT OXYGEN AND CARBON ISOTOPIC COMPOSITIONS SUGGESTING AN EVOLUTION OF FLUID COMPOSITIONS ON THE CI PARENT BODY. WE HAVE DEVELOPED A METHOD TO IMPROVE THE ACCURACY OF MN-CR DATING OF CARBONATES AND WE PROPOSE TO USE THE NEWEST GENERATION ION MICROPROBE AT UCLA TO DELINEATE THE FULL RANGE AND TIMING OF FLUID EVOLUTION ON THE PARENT ASTEROIDS OF CI AND OTHER SELECT CARBONACEOUS CHONDRITES. WE ALSO PROPOSE TO FOLLOW UP INTRIGUING HINTS OF 60FE ACTIVITY IN EARLY-FORMED CARBONATES VIA SIMS ANALYSES AND RESONANT IONIZATION MASS SPECTROMETRY (RIMS) ANALYSES WITH OUR COLLABORATOR ANDY DAVIS AT THE UNIVERSITY OF CHICAGO. AL-MG AND FE-NI SYSTEMATICS WILL BE MEASURED IN SELECT CHONDRULES FROM UNEQUILIBRATED CHONDRITES BY BOTH SIMS AND RIMS TO BETTER UNDERSTAND THE ABUNDANCE AND DISTRIBUTION OF 60FE IN THE EARLY SOLAR SYSTEM.A PLANETARY MAJOR EQUIPMENT REQUEST IS MADE FOR PURCHASE OF A MULTI-SAMPLE INTRODUCTION SYSTEM FOR OUR NEW CAMECA IMS 1290 ION MICROPROBE. THE IMS 1290 IS THE PRIMARY INSTRUMENT FOR THE RESEARCH PROPOSED HERE AND IT SERVES OTHER FUNDED AND PROPOSED NASA PROJECTS  AS WELL PROJECTS BROUGHT TO THE NSF NATIONAL ION MICROPROBE FACILITY. THE INSTRUMENT WAS PURCHASED WITH SUBSTANTIAL ($4M) SUPPORT FROM THE NSF MAJOR RESEARCH INSTRUMENTATION PROGRAM  NEVERTHELESS WE COULD ONLY AFFORD TO OUTFIT WITH THE MOST BASIC SINGLE-SAMPLE INTRODUCTION SYSTEM. THE NEW SYSTEM WILL ALLOW THE STORAGE OF UP TO SIX SAMPLES IN THE VACUUM ANTECHAMBER ADJACENTTO THE ANALYSIS CHAMBER. THIS WILL ENABLE IMPROVEMENTS IN BACKGROUND LEVELS OF VOLATILE ELEMENTS AND WILL THEREFORE LEAD TO HIGHER RELIABILITY AND HIGHER EFFICIENCY OF ANALYSES  INCLUDING THE OXYGEN AND CARBON ISOTOPE MEASUREMENTS PROPOSED HERE.",
+    "total_obligation": 1089990.33,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2017-02-28",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 177160.27,
+    "total_account_obligation": -17.67,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 177160.27
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": -17.67
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "awarding_agency": {
+      "id": 862,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "080",
+        "abbreviation": "NASA",
+        "slug": "national-aeronautics-and-space-administration"
+      },
+      "subtier_agency": {
+        "name": "National Aeronautics and Space Administration",
+        "code": "8000",
+        "abbreviation": "NASA"
+      },
+      "office_agency_name": "NASA SHARED SERVICES CENTER"
+    },
+    "period_of_performance": {
+      "start_date": "2017-01-25",
+      "end_date": "2021-12-31",
+      "last_modified_date": "2022-09-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "3231cda5-201a-6da0-de9e-e9810a848983-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES",
+      "recipient_uei": "RN64EPNH8JC6",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Government",
+        "U.S. Regional/State Government"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "LOS ANGELES",
+        "county_code": "037",
+        "county_name": "LOS ANGELES",
+        "address_line1": "10889 WILSHIRE BLVD STE 700",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "36",
+        "zip4": "0001",
+        "zip5": "90095",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "LOS ANGELES",
+      "county_code": "037",
+      "county_name": "LOS ANGELES",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "36",
+      "zip4": "1301",
+      "zip5": "90095",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 177160.27
+  }
+}

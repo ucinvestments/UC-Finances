@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91136023,
+    "Award ID": "R01AI183645",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 811009,
+    "Total Outlays": 266985.69,
+    "Description": "ASSESSING FUNCTIONAL IMMUNITY TO INFLUENZA INFECTION BY QUANTIFYING BCR BINDING AVIDITIES - PROJECT SUMMARY ACTIVATION, CLONAL EXPANSION, AND AFFINITY MATURATION OF ANTIGEN-SPECIFIC B CELLS ARE CONSIDERED THE HALLMARKS OF ADAPTIVE IMMUNITY; HENCE, THE ASSESSMENT OF B CELL RESPONSES IS THOUGHT TO PROVIDE CORRELATES OF IMMUNE PROTECTION. ANTIGEN-SPECIFIC B CELL RESPONSES HAVE TRADITIONALLY BEEN OBSERVED INDIRECTLY, BY EXAMINING THE SERUM ANTIBODY POOL USING ELISA, OR IN THE CASE OF INFLUENZA THE HEMAGGLUTININ INHIBITION ASSAY (HIA). DIRECT MEASUREMENTS OF ANTIBODY-SECRETING CELLS HAVE ALSO BEEN DONE USING ELISPOT, OR MORE RECENTLY BY FLOW CYTOMETRY. HOWEVER, THERE ARE CURRENTLY NO TOOLS TO ASSESS THE FUNCTIONALITY OF THE NON-ANTIBODY (AB) SECRETING MEMORY B CELL (BMEM) POOL. THIS IS AN IMPORTANT LIMITATION AS BMEM, MORE THAN THE CIRCULATING AB POOL, CONTAIN CROSS-REACTIVE AND CROSS-PROTECTIVE CELLS THAT COULD RESPOND TO A CHALLENGE INFECTION WITH A MUTATED PATHOGEN VARIANT, SUCH AS OCCURS DURING THE SEASONAL YEARLY INFLUENZA SURGES. KNOWING THE EXTENT TO WHICH BMEM CELLS EXIST AND CAN BIND TO THE ORIGINAL OR EMERGING VARIANTS OF A PATHOGEN WOULD GREATLY HELP, FOR EXAMPLE, WITH DECISIONS ABOUT WHEN TO UPDATE VACCINES TO THE CIRCULATING SEASONAL INFLUENZA OR SARS-COV-2 STRAINS. THE PRIMARY OBJECTIVE OF THIS PROPOSAL IS TO GENERATE SUCH A TOOL. OUR RECENT WORK DEMONSTRATES THE PROOF-OF- CONCEPT THAT A SIMPLE MICROFLUIDIC PLATFORM CAN CAPTURE THE FULL AVIDITY SPECTRUM OF ANTIGEN-SPECIFIC B CELLS, AND THAT THE EQUILIBRIUM BINDING AVIDITY OF THE BCR CORRELATES STRONGLY WITH THE BINDING AFFINITY OF THE SECRETED ANTIBODY. WE HAVE DUBBED THIS APPROACH AND TECHNOLOGY THE SHEAR-FORCE AVIDITY-BASED CELL SELECTOR (SACS). THESE FINDINGS PROVIDE THE FOUNDATION OF OUR CENTRAL HYPOTHESIS: CAPTURE, SEPARATION, AND QUANTIFICATION OF PERIPHERAL B CELLS BASED ON THE FORCE-DEPENDENT BCR BINDING AVIDITY CAN BE USED AS A MEASURE OF FUNCTIONAL IMMUNE STATUS. TO TEST OUR HYPOTHESIS, AND FULLY DEVELOP THE SACS TECHNOLOGY, THE SPECIFIC AIMS OF THIS PROJECT ARE TO: 1) ENHANCE THE DESIGN AND OPTIMIZE A MICROFLUIDIC DEVICE WITH THE CAPACITY TO CAPTURE AND SEPARATE A COMPLEX POOL OF B CELLS BASED ON BCR BINDING AVIDITY TO A DEFINED ANTIGEN; AND 2) CHARACTERIZE THE RELATIONSHIP BETWEEN BINDING AVIDITY DYNAMICS OF INFLUENZA-SPECIFIC PERIPHERAL B CELLS AND IMMUNE STATUS FOLLOWING INFLUENZA VIRUS INFECTION. OUR PLATFORM WILL DEMONSTRATE THE FUNCTIONALITY OF A RAPID AND EASILY ADAPTABLE SYSTEM TO EVALUATE THE DYNAMICS OF THE B CELL RESPONSE TO INFLUENZA, BUT IS COMPLETELY ADAPTABLE TO HOST OF OTHER PATHOGENS SUCH AS SARS-COV-2. EXPECTED RESULTS WOULD PROVIDE A NEW MEASUREMENT PLATFORM (SACS) THAT WOULD ALLOW FOR THE FIRST TIME THE RAPID ASSESSMENT OF THE RANGE OF FUNCTIONAL BCR-ANTIGEN INTERACTION STRENGTHS OF INDIVIDUAL B CELLS WITHIN THE COMPLEX POOLS OF PERIPHERAL B CELLS AND B CELL SUBSETS TO PREDICT FUNCTIONAL IMMUNITY.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-11-13",
+    "End Date": "2029-10-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AI183645_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91136023,
+    "generated_unique_award_id": "ASST_NON_R01AI183645_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "ASSESSING FUNCTIONAL IMMUNITY TO INFLUENZA INFECTION BY QUANTIFYING BCR BINDING AVIDITIES - PROJECT SUMMARY ACTIVATION, CLONAL EXPANSION, AND AFFINITY MATURATION OF ANTIGEN-SPECIFIC B CELLS ARE CONSIDERED THE HALLMARKS OF ADAPTIVE IMMUNITY; HENCE, THE ASSESSMENT OF B CELL RESPONSES IS THOUGHT TO PROVIDE CORRELATES OF IMMUNE PROTECTION. ANTIGEN-SPECIFIC B CELL RESPONSES HAVE TRADITIONALLY BEEN OBSERVED INDIRECTLY, BY EXAMINING THE SERUM ANTIBODY POOL USING ELISA, OR IN THE CASE OF INFLUENZA THE HEMAGGLUTININ INHIBITION ASSAY (HIA). DIRECT MEASUREMENTS OF ANTIBODY-SECRETING CELLS HAVE ALSO BEEN DONE USING ELISPOT, OR MORE RECENTLY BY FLOW CYTOMETRY. HOWEVER, THERE ARE CURRENTLY NO TOOLS TO ASSESS THE FUNCTIONALITY OF THE NON-ANTIBODY (AB) SECRETING MEMORY B CELL (BMEM) POOL. THIS IS AN IMPORTANT LIMITATION AS BMEM, MORE THAN THE CIRCULATING AB POOL, CONTAIN CROSS-REACTIVE AND CROSS-PROTECTIVE CELLS THAT COULD RESPOND TO A CHALLENGE INFECTION WITH A MUTATED PATHOGEN VARIANT, SUCH AS OCCURS DURING THE SEASONAL YEARLY INFLUENZA SURGES. KNOWING THE EXTENT TO WHICH BMEM CELLS EXIST AND CAN BIND TO THE ORIGINAL OR EMERGING VARIANTS OF A PATHOGEN WOULD GREATLY HELP, FOR EXAMPLE, WITH DECISIONS ABOUT WHEN TO UPDATE VACCINES TO THE CIRCULATING SEASONAL INFLUENZA OR SARS-COV-2 STRAINS. THE PRIMARY OBJECTIVE OF THIS PROPOSAL IS TO GENERATE SUCH A TOOL. OUR RECENT WORK DEMONSTRATES THE PROOF-OF- CONCEPT THAT A SIMPLE MICROFLUIDIC PLATFORM CAN CAPTURE THE FULL AVIDITY SPECTRUM OF ANTIGEN-SPECIFIC B CELLS, AND THAT THE EQUILIBRIUM BINDING AVIDITY OF THE BCR CORRELATES STRONGLY WITH THE BINDING AFFINITY OF THE SECRETED ANTIBODY. WE HAVE DUBBED THIS APPROACH AND TECHNOLOGY THE SHEAR-FORCE AVIDITY-BASED CELL SELECTOR (SACS). THESE FINDINGS PROVIDE THE FOUNDATION OF OUR CENTRAL HYPOTHESIS: CAPTURE, SEPARATION, AND QUANTIFICATION OF PERIPHERAL B CELLS BASED ON THE FORCE-DEPENDENT BCR BINDING AVIDITY CAN BE USED AS A MEASURE OF FUNCTIONAL IMMUNE STATUS. TO TEST OUR HYPOTHESIS, AND FULLY DEVELOP THE SACS TECHNOLOGY, THE SPECIFIC AIMS OF THIS PROJECT ARE TO: 1) ENHANCE THE DESIGN AND OPTIMIZE A MICROFLUIDIC DEVICE WITH THE CAPACITY TO CAPTURE AND SEPARATE A COMPLEX POOL OF B CELLS BASED ON BCR BINDING AVIDITY TO A DEFINED ANTIGEN; AND 2) CHARACTERIZE THE RELATIONSHIP BETWEEN BINDING AVIDITY DYNAMICS OF INFLUENZA-SPECIFIC PERIPHERAL B CELLS AND IMMUNE STATUS FOLLOWING INFLUENZA VIRUS INFECTION. OUR PLATFORM WILL DEMONSTRATE THE FUNCTIONALITY OF A RAPID AND EASILY ADAPTABLE SYSTEM TO EVALUATE THE DYNAMICS OF THE B CELL RESPONSE TO INFLUENZA, BUT IS COMPLETELY ADAPTABLE TO HOST OF OTHER PATHOGENS SUCH AS SARS-COV-2. EXPECTED RESULTS WOULD PROVIDE A NEW MEASUREMENT PLATFORM (SACS) THAT WOULD ALLOW FOR THE FIRST TIME THE RAPID ASSESSMENT OF THE RANGE OF FUNCTIONAL BCR-ANTIGEN INTERACTION STRENGTHS OF INDIVIDUAL B CELLS WITHIN THE COMPLEX POOLS OF PERIPHERAL B CELLS AND B CELL SUBSETS TO PREDICT FUNCTIONAL IMMUNITY.",
+    "total_obligation": 811009,
+    "subaward_count": 1,
+    "total_subaward_amount": 263806,
+    "date_signed": "2024-11-13",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 266985.69,
+    "total_account_obligation": 811009,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 266985.69
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 811009
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Allergy and Infectious Diseases"
+    },
+    "period_of_performance": {
+      "start_date": "2024-11-13",
+      "end_date": "2029-10-31",
+      "last_modified_date": "2024-11-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 266985.69
+  }
+}

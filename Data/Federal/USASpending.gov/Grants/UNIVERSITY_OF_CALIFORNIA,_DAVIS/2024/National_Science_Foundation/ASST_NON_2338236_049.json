@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 57276836,
+    "Award ID": "2338236",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 637551,
+    "Total Outlays": 91926.15,
+    "Description": "CAREER: MECHANISMS AND CONSEQUENCES OF EPIGENOME-RECRUITED DNA REPAIR SYSTEMS IN PLANTS -MUTATIONS PROVIDE THE NECESSARY FUEL FOR EVOLUTION AND CROP BREEDING BUT ALSO CAUSE DISEASES LIKE CANCER. PREVENTING HARMFUL MUTATIONS IS THUS A CHALLENGE THAT ALL LIFE MUST OVERCOME. DISCOVERING HOW ORGANISMS ACHIEVE THIS BY PROMOTING DNA REPAIR IN SPECIFIC REGIONS OF THEIR GENOME HAS EMERGED AT THE FOREFRONT OF ADVANCES IN HUMAN HEALTH, AGRICULTURE, AND BIOTECHNOLOGY. THIS NSF CAREER AWARD PROJECT WILL STUDY NEWLY DISCOVERED DNA REPAIR MECHANISMS IN PLANTS THAT COULD HELP THEM PROTECT CRITICAL DNA REGIONS FROM MUTATIONS. THIS RESEARCH WILL FOSTER A NEW UNDERSTANDING OF HOW ORGANISMS CAN USE THEIR EPIGENOME?-IN THIS CASE, CHEMICAL CHANGES TO THE HISTONE PROTEINS AROUND WHICH DNA WINDS--TO RECRUIT DNA REPAIR PROTEINS, VALUABLE FOR ADDRESSING MULTIPLE CHALLENGES ACROSS THE LIFE SCIENCES. RESEARCHERS WILL APPLY STATE-OF-THE-ART EXPERIMENTAL TOOLS TO DISSECT HOW THESE GENETIC MECHANISMS FUNCTION AND THEIR CONSEQUENCES ON MUTATION. THE ANTICIPATED RESULTS WILL ALSO DIRECTLY INFORM THE DEVELOPMENT OF NEXT-GENERATION GENOME ENGINEERING TOOLS FOR CROP IMPROVEMENT. THE PROJECT'S INTEGRATION OF RESEARCH AND EDUCATIONAL OUTREACH THROUGH THE ENVIRONMENTORS PROGRAM IS SET TO ENRICH THE LEARNING EXPERIENCE OF UNDERSERVED HIGH SCHOOL STUDENTS, FOSTERING FUTURE GENERATIONS OF SCIENTISTS. EPIGENOME-RECRUITED DNA REPAIR SYSTEMS--FUSIONS BETWEEN DNA REPAIR PROTEINS AND HISTONE READER DOMAINS--SERVE AS MECHANISMS TO HELP REDUCE MUTATION RATES IN CERTAIN GENOME REGIONS. HOWEVER, OUR UNDERSTANDING OF SUCH SYSTEMS BEYOND THOSE DESCRIBED IN HUMANS REMAINS A SIGNIFICANT KNOWLEDGE GAP. THIS NSF CAREER AWARD PROJECT WILL SPEARHEAD THE STUDY OF RECENTLY DISCOVERED PLANT-SPECIFIC MECHANISMS, FOCUSING ON PDS5 AND MSH6 PROTEINS, WHICH HAVE TUDOR HISTONE READER DOMAINS AND BIND TO H3K4ME1 MODIFICATIONS. LEVERAGING MUTANT AND TRANSGENIC LINES, RESEARCHERS WILL CONSTRUCT A COMPREHENSIVE MODEL OF THESE SYSTEMS. THEIR ROLE IN AFFECTING MUTATION RATES AT MOLECULAR AND PHENOTYPIC SCALES WILL BE MEASURED THROUGH LARGE-SCALE MUTATION ACCUMULATION EXPERIMENTS. THIS MECHANISTIC MODEL WILL BE FURTHER EVALUATED AND APPLIED THROUGH TESTS OF IMPROVED PLANT GENOME EDITING METHODS. INTEGRATING RESEARCH WITH EDUCATION THROUGH THE ENVIRONMENTORS PROGRAM WILL EXPLORE THE CONSEQUENCES OF THESE MECHANISMS ON TOLERANCE TO ENVIRONMENTAL STRESS. THIS RESEARCH WILL ADDRESS CRITICAL QUESTIONS ABOUT THE FUNCTION AND ADAPTIVE VALUE OF EPIGENOME-RECRUITED DNA REPAIR MECHANISMS IN PLANTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95618-6153",
+      "zip5": "95618"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2024-02-01",
+    "End Date": "2029-01-31",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2338236_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 57276836,
+    "generated_unique_award_id": "ASST_NON_2338236_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "CAREER: MECHANISMS AND CONSEQUENCES OF EPIGENOME-RECRUITED DNA REPAIR SYSTEMS IN PLANTS -MUTATIONS PROVIDE THE NECESSARY FUEL FOR EVOLUTION AND CROP BREEDING BUT ALSO CAUSE DISEASES LIKE CANCER. PREVENTING HARMFUL MUTATIONS IS THUS A CHALLENGE THAT ALL LIFE MUST OVERCOME. DISCOVERING HOW ORGANISMS ACHIEVE THIS BY PROMOTING DNA REPAIR IN SPECIFIC REGIONS OF THEIR GENOME HAS EMERGED AT THE FOREFRONT OF ADVANCES IN HUMAN HEALTH, AGRICULTURE, AND BIOTECHNOLOGY. THIS NSF CAREER AWARD PROJECT WILL STUDY NEWLY DISCOVERED DNA REPAIR MECHANISMS IN PLANTS THAT COULD HELP THEM PROTECT CRITICAL DNA REGIONS FROM MUTATIONS. THIS RESEARCH WILL FOSTER A NEW UNDERSTANDING OF HOW ORGANISMS CAN USE THEIR EPIGENOME?-IN THIS CASE, CHEMICAL CHANGES TO THE HISTONE PROTEINS AROUND WHICH DNA WINDS--TO RECRUIT DNA REPAIR PROTEINS, VALUABLE FOR ADDRESSING MULTIPLE CHALLENGES ACROSS THE LIFE SCIENCES. RESEARCHERS WILL APPLY STATE-OF-THE-ART EXPERIMENTAL TOOLS TO DISSECT HOW THESE GENETIC MECHANISMS FUNCTION AND THEIR CONSEQUENCES ON MUTATION. THE ANTICIPATED RESULTS WILL ALSO DIRECTLY INFORM THE DEVELOPMENT OF NEXT-GENERATION GENOME ENGINEERING TOOLS FOR CROP IMPROVEMENT. THE PROJECT'S INTEGRATION OF RESEARCH AND EDUCATIONAL OUTREACH THROUGH THE ENVIRONMENTORS PROGRAM IS SET TO ENRICH THE LEARNING EXPERIENCE OF UNDERSERVED HIGH SCHOOL STUDENTS, FOSTERING FUTURE GENERATIONS OF SCIENTISTS. EPIGENOME-RECRUITED DNA REPAIR SYSTEMS--FUSIONS BETWEEN DNA REPAIR PROTEINS AND HISTONE READER DOMAINS--SERVE AS MECHANISMS TO HELP REDUCE MUTATION RATES IN CERTAIN GENOME REGIONS. HOWEVER, OUR UNDERSTANDING OF SUCH SYSTEMS BEYOND THOSE DESCRIBED IN HUMANS REMAINS A SIGNIFICANT KNOWLEDGE GAP. THIS NSF CAREER AWARD PROJECT WILL SPEARHEAD THE STUDY OF RECENTLY DISCOVERED PLANT-SPECIFIC MECHANISMS, FOCUSING ON PDS5 AND MSH6 PROTEINS, WHICH HAVE TUDOR HISTONE READER DOMAINS AND BIND TO H3K4ME1 MODIFICATIONS. LEVERAGING MUTANT AND TRANSGENIC LINES, RESEARCHERS WILL CONSTRUCT A COMPREHENSIVE MODEL OF THESE SYSTEMS. THEIR ROLE IN AFFECTING MUTATION RATES AT MOLECULAR AND PHENOTYPIC SCALES WILL BE MEASURED THROUGH LARGE-SCALE MUTATION ACCUMULATION EXPERIMENTS. THIS MECHANISTIC MODEL WILL BE FURTHER EVALUATED AND APPLIED THROUGH TESTS OF IMPROVED PLANT GENOME EDITING METHODS. INTEGRATING RESEARCH WITH EDUCATION THROUGH THE ENVIRONMENTORS PROGRAM WILL EXPLORE THE CONSEQUENCES OF THESE MECHANISMS ON TOLERANCE TO ENVIRONMENTAL STRESS. THIS RESEARCH WILL ADDRESS CRITICAL QUESTIONS ABOUT THE FUNCTION AND ADAPTIVE VALUE OF EPIGENOME-RECRUITED DNA REPAIR MECHANISMS IN PLANTS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.- SUBAWARDS ARE NOT PLANNED FOR THIS AWARD.",
+    "total_obligation": 637551,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2024-01-17",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 95379.66,
+    "total_account_obligation": 637551,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 95379.66
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 637551
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MOLECULAR AND"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF MOLECULAR AND"
+    },
+    "period_of_performance": {
+      "start_date": "2024-02-01",
+      "end_date": "2029-01-31",
+      "last_modified_date": "2025-08-12",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "6153",
+      "zip5": "95618",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 95379.66
+  }
+}

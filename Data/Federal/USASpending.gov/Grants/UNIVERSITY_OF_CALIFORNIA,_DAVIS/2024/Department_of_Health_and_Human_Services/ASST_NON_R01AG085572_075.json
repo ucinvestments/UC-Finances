@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91124629,
+    "Award ID": "R01AG085572",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2556565,
+    "Total Outlays": 1436689.33,
+    "Description": "NEUROPATHOLOGY AND INFLAMMATION IN A NONHUMAN PRIMATE MODEL OF INSULIN RESISTANCE/METABOLIC SYNDROME - ABSTRACT EPIDEMIOLOGICAL EVIDENCE INDICATES INDIVIDUALS WITH INSULIN RESISTANCE (IR), DYSLIPIDEMIA CHARACTERISTIC OF METABOLIC SYNDROME (METS) AND TYPE-2 DIABETES MELLITUS (T2DM) ARE AT HEIGHTENED RISK FOR DEVELOPING ALZHEIMER’S DISEASE (AD) AND ALZHEIMER’S DISEASE RELATED DEMENTIAS (ADRD). TO EXAMINE MECHANISMS WHEREBY METS/IR/T2DM CONTRIBUTE TO DEMENTIA RISK AND VICE VERSA, WE WILL EMPLOY A VALIDATED NONHUMAN PRIMATE (NHP) MODEL THAT EMPLOYS A HIGH SUGAR DIET (HSD) THAT ACCELERATES THE PROGRESSION METS/IR/T2DM, INCLUDING RAPID INDUCTION OF IR, SYSTEMIC INFLAMMATION AND DYSLIPIDEMIA. WE PROPOSE A LONGITUDINAL INVESTIGATION OF THE RELATIONSHIPS BETWEEN METABOLIC DYSFUNCTION, DIABETES, AND DEMENTIA OVER THE COURSE OF ONE YEAR WITH NHPS ON HSD. A COMPREHENSIVE, INTEGRATED ANALYSIS OF CENTRAL AND PERIPHERAL ENDPOINTS IS PROPOSED, SPECIFICALLY SYNAPTIC THROUGH BIOCHEMICAL, IMMUNOCHEMICAL, TRANSCRIPTOMIC, AND PROTEOMIC ASSESSMENTS OF THE HIPPOCAMPUS, CORTICAL REGIONS COMPRISING THE DEFAULT NETWORK MODE (DMN), AND MEDIOBASAL HYPOTHALAMUS (MBH) VIA ADVANCED IMAGING (MRI AND PET), AND MOLECULAR/CELLULAR STUDIES LINKING NEUROPATHOLOGY, INFLAMMATION, MITOCHONDRIAL AND VASCULAR DYSFUNCTION, AND BEHAVIOR IN METS/IR/T2DM WITH AD AND ADRD. WE WILL EMPLOY THIS HIGHLY TRANSLATABLE NHP MODEL TO INVESTIGATE THE MECHANISMS UNDERLYING HOW METS/IR/T2DM DRIVES AD/ADRD AND VASCULAR PATHOLOGY, AND WHY AD/ADRD/VASCULAR DEMENTIA AGGRAVATE METS/IR/T2DM IN A VICIOUS CYCLE. WE WILL ASSESS VULNERABLE CIRCUITS AND REGIONS COMPRISING MEMORY (HIPPOCAMPUS), EXECUTIVE FUNCTION (DMN), MBH WITH PARALLEL ASSESSMENTS OF BIOBEHAVIOR, CEREBROVASCULAR FUNCTION, BLOOD-BRAIN-BARRIER (BBB), AND PERIPHERAL PATHWAYS, ESPECIALLY TARGETING INFLAMMATION. SYNAPTIC, AND CIRCUIT LEVEL DYSFUNCTION WILL BE QUANTIFIED IN THE CONTEXT OF BIOBEHAVIORAL AND PERIPHERAL METABOLIC OUTCOMES AND ADVANCED IMAGING, INCLUDING REGIONAL BRAIN BLOOD FLOW AND GLUCOSE UTILIZATION. AIM 1 TESTS THE HYPOTHESIS HSD IN NHPS INITIATES AD/ADRD- LIKE PATHOLOGY AND VASCULAR IMPAIRMENT WITHIN VULNERABLE REGIONS UNDERLYING MEMORY AND EXECUTIVE FUNCTION, PROVIDING A MECHANISTIC LINK BETWEEN METS/IR AND PATHOLOGICAL CASCADES IN DEMENTIA. AIM 2 TESTS THE HYPOTHESIS THAT HSD PRODUCES FUNCTIONAL DEFICITS IN THE BRAIN AND PERIPHERY IN MACAQUES WITH METS/IR/T2DM TO INCREASE RISK OF AD, ADRD, AND/OR VASCULAR PATHOLOGY AND BEHAVIORAL DEFICITS. MECHANISTIC INVESTIGATION WILL BE EXECUTED BY EVALUATING NEUROPATHOLOGY, BIOBEHAVIORAL PARAMETERS, VASCULAR/BBB PERTURBATIONS, NEUROINFLAMMATION, IMPAIRMENTS OF INSULIN SIGNALING AND MITOCHONDRIAL MASS/FUNCTION WITH CHANGES IN PERIPHERAL TISSUES (E.G., LIVER) BY COORDINATED IMMUNOCHEMICAL, PROTEOMIC, TRANSCRIPTOMIC, AND ADVANCED IMAGING ASSESSMENTS IN THE SAME ANIMALS. WE PROPOSE RIGOROUS ASSESSMENTS OF THE PATHOLOGICAL EFFECTS OF SYSTEMIC METS/IR/T2DM ON THE BRAIN AND CEREBROVASCULATURE AND MOLECULAR AND CELLULAR ARCHITECTURE IN A VALIDATED NHP MODEL TO RECAPITULATE THESE PREVALENT, INTERRELATED DISORDERS. RESULTS FROM NHPS ARE HIGHLY TRANSLATIONAL, AND WILL CONTRIBUTE TO INNOVATIVE APPROACHES FOR MANAGING AND AMELIORATING DELETERIOUS EFFECTS OF METS/IR ON AD/ADRD PATHOLOGY AND DEMENTIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2024-02-15",
+    "End Date": "2028-11-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01AG085572_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91124629,
+    "generated_unique_award_id": "ASST_NON_R01AG085572_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NEUROPATHOLOGY AND INFLAMMATION IN A NONHUMAN PRIMATE MODEL OF INSULIN RESISTANCE/METABOLIC SYNDROME - ABSTRACT EPIDEMIOLOGICAL EVIDENCE INDICATES INDIVIDUALS WITH INSULIN RESISTANCE (IR), DYSLIPIDEMIA CHARACTERISTIC OF METABOLIC SYNDROME (METS) AND TYPE-2 DIABETES MELLITUS (T2DM) ARE AT HEIGHTENED RISK FOR DEVELOPING ALZHEIMER’S DISEASE (AD) AND ALZHEIMER’S DISEASE RELATED DEMENTIAS (ADRD). TO EXAMINE MECHANISMS WHEREBY METS/IR/T2DM CONTRIBUTE TO DEMENTIA RISK AND VICE VERSA, WE WILL EMPLOY A VALIDATED NONHUMAN PRIMATE (NHP) MODEL THAT EMPLOYS A HIGH SUGAR DIET (HSD) THAT ACCELERATES THE PROGRESSION METS/IR/T2DM, INCLUDING RAPID INDUCTION OF IR, SYSTEMIC INFLAMMATION AND DYSLIPIDEMIA. WE PROPOSE A LONGITUDINAL INVESTIGATION OF THE RELATIONSHIPS BETWEEN METABOLIC DYSFUNCTION, DIABETES, AND DEMENTIA OVER THE COURSE OF ONE YEAR WITH NHPS ON HSD. A COMPREHENSIVE, INTEGRATED ANALYSIS OF CENTRAL AND PERIPHERAL ENDPOINTS IS PROPOSED, SPECIFICALLY SYNAPTIC THROUGH BIOCHEMICAL, IMMUNOCHEMICAL, TRANSCRIPTOMIC, AND PROTEOMIC ASSESSMENTS OF THE HIPPOCAMPUS, CORTICAL REGIONS COMPRISING THE DEFAULT NETWORK MODE (DMN), AND MEDIOBASAL HYPOTHALAMUS (MBH) VIA ADVANCED IMAGING (MRI AND PET), AND MOLECULAR/CELLULAR STUDIES LINKING NEUROPATHOLOGY, INFLAMMATION, MITOCHONDRIAL AND VASCULAR DYSFUNCTION, AND BEHAVIOR IN METS/IR/T2DM WITH AD AND ADRD. WE WILL EMPLOY THIS HIGHLY TRANSLATABLE NHP MODEL TO INVESTIGATE THE MECHANISMS UNDERLYING HOW METS/IR/T2DM DRIVES AD/ADRD AND VASCULAR PATHOLOGY, AND WHY AD/ADRD/VASCULAR DEMENTIA AGGRAVATE METS/IR/T2DM IN A VICIOUS CYCLE. WE WILL ASSESS VULNERABLE CIRCUITS AND REGIONS COMPRISING MEMORY (HIPPOCAMPUS), EXECUTIVE FUNCTION (DMN), MBH WITH PARALLEL ASSESSMENTS OF BIOBEHAVIOR, CEREBROVASCULAR FUNCTION, BLOOD-BRAIN-BARRIER (BBB), AND PERIPHERAL PATHWAYS, ESPECIALLY TARGETING INFLAMMATION. SYNAPTIC, AND CIRCUIT LEVEL DYSFUNCTION WILL BE QUANTIFIED IN THE CONTEXT OF BIOBEHAVIORAL AND PERIPHERAL METABOLIC OUTCOMES AND ADVANCED IMAGING, INCLUDING REGIONAL BRAIN BLOOD FLOW AND GLUCOSE UTILIZATION. AIM 1 TESTS THE HYPOTHESIS HSD IN NHPS INITIATES AD/ADRD- LIKE PATHOLOGY AND VASCULAR IMPAIRMENT WITHIN VULNERABLE REGIONS UNDERLYING MEMORY AND EXECUTIVE FUNCTION, PROVIDING A MECHANISTIC LINK BETWEEN METS/IR AND PATHOLOGICAL CASCADES IN DEMENTIA. AIM 2 TESTS THE HYPOTHESIS THAT HSD PRODUCES FUNCTIONAL DEFICITS IN THE BRAIN AND PERIPHERY IN MACAQUES WITH METS/IR/T2DM TO INCREASE RISK OF AD, ADRD, AND/OR VASCULAR PATHOLOGY AND BEHAVIORAL DEFICITS. MECHANISTIC INVESTIGATION WILL BE EXECUTED BY EVALUATING NEUROPATHOLOGY, BIOBEHAVIORAL PARAMETERS, VASCULAR/BBB PERTURBATIONS, NEUROINFLAMMATION, IMPAIRMENTS OF INSULIN SIGNALING AND MITOCHONDRIAL MASS/FUNCTION WITH CHANGES IN PERIPHERAL TISSUES (E.G., LIVER) BY COORDINATED IMMUNOCHEMICAL, PROTEOMIC, TRANSCRIPTOMIC, AND ADVANCED IMAGING ASSESSMENTS IN THE SAME ANIMALS. WE PROPOSE RIGOROUS ASSESSMENTS OF THE PATHOLOGICAL EFFECTS OF SYSTEMIC METS/IR/T2DM ON THE BRAIN AND CEREBROVASCULATURE AND MOLECULAR AND CELLULAR ARCHITECTURE IN A VALIDATED NHP MODEL TO RECAPITULATE THESE PREVALENT, INTERRELATED DISORDERS. RESULTS FROM NHPS ARE HIGHLY TRANSLATIONAL, AND WILL CONTRIBUTE TO INNOVATIVE APPROACHES FOR MANAGING AND AMELIORATING DELETERIOUS EFFECTS OF METS/IR ON AD/ADRD PATHOLOGY AND DEMENTIA.",
+    "total_obligation": 2556565,
+    "subaward_count": 4,
+    "total_subaward_amount": 514984,
+    "date_signed": "2024-02-06",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1436689.33,
+    "total_account_obligation": 2556565,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1436689.33
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2556565
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Insitute on Aging"
+    },
+    "period_of_performance": {
+      "start_date": "2024-02-15",
+      "end_date": "2028-11-30",
+      "last_modified_date": "2025-07-21",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "095",
+      "county_name": "SOLANO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1436689.33
+  }
+}

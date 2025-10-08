@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 56664358,
+    "Award ID": "2152260",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 2999999,
+    "Total Outlays": 1108304.97,
+    "Description": "NEURALSTORM: TAKING NEUROENGINEERING BY STORM -NEUROENGINEERING HAS THE POTENTIAL TO TRANSFORM SOCIETY AT ALL LEVELS BY RESTORING FUNCTION FOR PEOPLE WITH NEURAL DEFICITS, DISEASE, OR INJURY WHILE ALSO PROVIDING UNPRECEDENTED INSIGHTS INTO BRAIN FUNCTION. HOWEVER, IT IS BECOMING INCREASINGLY CLEAR THAT THE ANALYSIS OF LARGE DATASETS (E.G., FROM BRAIN IMAGING OR OTHER OBSERVATIONS OF BRAIN SIGNALS) ON WHICH THE DEVELOPMENT OF EXCITING NEURAL TECHNOLOGIES ARE BASED WILL NEED TARGETED DESIGN OF DATA PROCESSING, MACHINE LEARNING TOOLS, AND ARTIFICIAL INTELLIGENCE APPROACHES. THEREFORE, THERE IS A NEED FOR A CONVERGENT SCIENCE CURRICULUM THAT LEVERAGES THE LATEST ADVANCES IN TEAM-BASED SCIENCE TO CREATE A WORKFORCE CAPABLE OF OPTIMIZING ADVANCES MADE IN NEUROENGINEERING TO MAXIMIZE THE IMPACT OF THIS FIELD FOR THE BROADEST POSSIBLE SEGMENTS OF SOCIETY. THIS NSF RESEARCH TRAINEESHIP (NRT) PROJECT, NEURALSTORM, IS ADDRESSING SEVERAL OF NSF?S RESEARCH CHALLENGES, INCLUDING HARNESSING THE DATA REVOLUTION, GROWING CONVERGENCE RESEARCH, AND THE FUTURE OF WORK AT THE HUMAN-TECHNOLOGY FRONTIER, BY DEVELOPING A GRADUATE CURRICULUM THAT ALLOWS STUDENTS TO GAIN EXPERTISE WITHIN A SPECIFIC AREA (E.G., COMPUTER SCIENCE, ENGINEERING, MEDICINE) WHILE ALSO CONTRIBUTING TO CROSS-DISCIPLINARY PROBLEM-SOLVING IN NEUROENGINEERING. THE PROJECT ANTICIPATES TRAINING 70 PH.D. AND 20 MASTERS? STUDENTS, INCLUDING 30 FUNDED TRAINEES, FROM COMPUTER SCIENCE, ENGINEERING, NEUROSCIENCE, AND PSYCHOLOGY. THE NEURALSTORM PROJECT WILL BRING TOGETHER TRAINEES FROM BROAD ACADEMIC BACKGROUNDS WITH THREE OBJECTIVES. FIRST IS TO ENSURE THEY ARE GROUNDED IN THE COMPLEX NEUROETHICAL ISSUES ASSOCIATED WITH INTERFACING THE NERVOUS SYSTEM. SECOND IS TO EQUIP THE STUDENTS WITH INTELLIGENT COMMUNICATION SKILLS THAT ALLOW THEM TO WORK EFFECTIVELY ACROSS FIELDS. THIRD IS TO PREPARE THEM TO NAVIGATE THE EXPECTED RAPID ADVANCES IN TECHNOLOGY THROUGHOUT THEIR CAREERS IN A WAY THAT ENSURES THE RESULTING NEUROTECHNOLOGY HAS THE GREATEST, POSITIVE IMPACT FOR SOCIETY. NEURALSTORM HAS THE POTENTIAL TO REVOLUTIONIZE THE WAY NEUROENGINEERS WORK BY ENHANCING COLLABORATION IN MULTI-DISCIPLINARY TEAMS, EVALUATING USER PERFORMANCE AND QUALITY OF LIFE CHANGES, AND ASSESSING THE BEST WAYS TO BRING PRODUCTS TO MARKET AT A REASONABLE COST TO IMPACT BROAD AND DIVERSE SEGMENTS OF SOCIETY POSITIVELY. THIS CURRICULUM WILL TRAIN STUDENTS TO KNOW AND UNDERSTAND THE VARIOUS RESOURCES AVAILABLE TO THEM, HAVE INTELLIGENT CONVERSATIONS ABOUT IMPACT ACROSS A BROAD AND DIVERSE SEGMENT OF SOCIETY, UNDERSTAND HOW TO EVALUATE AND USE NEW ADVANCES, AND CREATE A RESERVOIR OF INFORMATION THAT WILL BE MADE AVAILABLE ON A WEBSITE AND THROUGH PUBLICATIONS, SEMINARS, AND WORKSHOPS. FINALLY, THE LEADERSHIP TEAM WILL WORK TO PACKAGE THE CONVERGENT IDEALS OF THIS PROGRAM FOR OTHER FIELDS BEYOND NEUROENGINEERING. THESE TRAINING ELEMENTS WILL CONNECT EVIDENCE-BASED EDUCATIONAL ACTIVITIES TO PROGRAM GOALS AND USE RIGOROUS ASSESSMENT AND ADAPTIVE LEARNING TO ENSURE SUCCESS. THE NSF RESEARCH TRAINEESHIP (NRT) PROGRAM IS DESIGNED TO ENCOURAGE THE DEVELOPMENT AND IMPLEMENTATION OF BOLD, NEW POTENTIALLY TRANSFORMATIVE MODELS FOR STEM GRADUATE EDUCATION TRAINING. THE PROGRAM IS DEDICATED TO EFFECTIVE TRAINING OF STEM GRADUATE STUDENTS IN HIGH PRIORITY INTERDISCIPLINARY OR CONVERGENT RESEARCH AREAS THROUGH COMPREHENSIVE TRAINEESHIP MODELS THAT ARE INNOVATIVE, EVIDENCE-BASED, AND ALIGNED WITH CHANGING WORKFORCE AND RESEARCH NEEDS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR, STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "DAVIS",
+      "congressional_code": "03",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "95616-5270",
+      "zip5": "95616"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "National Science Foundation",
+    "Awarding Sub Agency": "National Science Foundation",
+    "Start Date": "2022-07-01",
+    "End Date": "2027-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_2152260_049",
+    "awarding_agency_id": 655,
+    "agency_slug": "national-science-foundation",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 56664358,
+    "generated_unique_award_id": "ASST_NON_2152260_049",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "NEURALSTORM: TAKING NEUROENGINEERING BY STORM -NEUROENGINEERING HAS THE POTENTIAL TO TRANSFORM SOCIETY AT ALL LEVELS BY RESTORING FUNCTION FOR PEOPLE WITH NEURAL DEFICITS, DISEASE, OR INJURY WHILE ALSO PROVIDING UNPRECEDENTED INSIGHTS INTO BRAIN FUNCTION. HOWEVER, IT IS BECOMING INCREASINGLY CLEAR THAT THE ANALYSIS OF LARGE DATASETS (E.G., FROM BRAIN IMAGING OR OTHER OBSERVATIONS OF BRAIN SIGNALS) ON WHICH THE DEVELOPMENT OF EXCITING NEURAL TECHNOLOGIES ARE BASED WILL NEED TARGETED DESIGN OF DATA PROCESSING, MACHINE LEARNING TOOLS, AND ARTIFICIAL INTELLIGENCE APPROACHES. THEREFORE, THERE IS A NEED FOR A CONVERGENT SCIENCE CURRICULUM THAT LEVERAGES THE LATEST ADVANCES IN TEAM-BASED SCIENCE TO CREATE A WORKFORCE CAPABLE OF OPTIMIZING ADVANCES MADE IN NEUROENGINEERING TO MAXIMIZE THE IMPACT OF THIS FIELD FOR THE BROADEST POSSIBLE SEGMENTS OF SOCIETY. THIS NSF RESEARCH TRAINEESHIP (NRT) PROJECT, NEURALSTORM, IS ADDRESSING SEVERAL OF NSF?S RESEARCH CHALLENGES, INCLUDING HARNESSING THE DATA REVOLUTION, GROWING CONVERGENCE RESEARCH, AND THE FUTURE OF WORK AT THE HUMAN-TECHNOLOGY FRONTIER, BY DEVELOPING A GRADUATE CURRICULUM THAT ALLOWS STUDENTS TO GAIN EXPERTISE WITHIN A SPECIFIC AREA (E.G., COMPUTER SCIENCE, ENGINEERING, MEDICINE) WHILE ALSO CONTRIBUTING TO CROSS-DISCIPLINARY PROBLEM-SOLVING IN NEUROENGINEERING. THE PROJECT ANTICIPATES TRAINING 70 PH.D. AND 20 MASTERS? STUDENTS, INCLUDING 30 FUNDED TRAINEES, FROM COMPUTER SCIENCE, ENGINEERING, NEUROSCIENCE, AND PSYCHOLOGY. THE NEURALSTORM PROJECT WILL BRING TOGETHER TRAINEES FROM BROAD ACADEMIC BACKGROUNDS WITH THREE OBJECTIVES. FIRST IS TO ENSURE THEY ARE GROUNDED IN THE COMPLEX NEUROETHICAL ISSUES ASSOCIATED WITH INTERFACING THE NERVOUS SYSTEM. SECOND IS TO EQUIP THE STUDENTS WITH INTELLIGENT COMMUNICATION SKILLS THAT ALLOW THEM TO WORK EFFECTIVELY ACROSS FIELDS. THIRD IS TO PREPARE THEM TO NAVIGATE THE EXPECTED RAPID ADVANCES IN TECHNOLOGY THROUGHOUT THEIR CAREERS IN A WAY THAT ENSURES THE RESULTING NEUROTECHNOLOGY HAS THE GREATEST, POSITIVE IMPACT FOR SOCIETY. NEURALSTORM HAS THE POTENTIAL TO REVOLUTIONIZE THE WAY NEUROENGINEERS WORK BY ENHANCING COLLABORATION IN MULTI-DISCIPLINARY TEAMS, EVALUATING USER PERFORMANCE AND QUALITY OF LIFE CHANGES, AND ASSESSING THE BEST WAYS TO BRING PRODUCTS TO MARKET AT A REASONABLE COST TO IMPACT BROAD AND DIVERSE SEGMENTS OF SOCIETY POSITIVELY. THIS CURRICULUM WILL TRAIN STUDENTS TO KNOW AND UNDERSTAND THE VARIOUS RESOURCES AVAILABLE TO THEM, HAVE INTELLIGENT CONVERSATIONS ABOUT IMPACT ACROSS A BROAD AND DIVERSE SEGMENT OF SOCIETY, UNDERSTAND HOW TO EVALUATE AND USE NEW ADVANCES, AND CREATE A RESERVOIR OF INFORMATION THAT WILL BE MADE AVAILABLE ON A WEBSITE AND THROUGH PUBLICATIONS, SEMINARS, AND WORKSHOPS. FINALLY, THE LEADERSHIP TEAM WILL WORK TO PACKAGE THE CONVERGENT IDEALS OF THIS PROGRAM FOR OTHER FIELDS BEYOND NEUROENGINEERING. THESE TRAINING ELEMENTS WILL CONNECT EVIDENCE-BASED EDUCATIONAL ACTIVITIES TO PROGRAM GOALS AND USE RIGOROUS ASSESSMENT AND ADAPTIVE LEARNING TO ENSURE SUCCESS. THE NSF RESEARCH TRAINEESHIP (NRT) PROGRAM IS DESIGNED TO ENCOURAGE THE DEVELOPMENT AND IMPLEMENTATION OF BOLD, NEW POTENTIALLY TRANSFORMATIVE MODELS FOR STEM GRADUATE EDUCATION TRAINING. THE PROGRAM IS DEDICATED TO EFFECTIVE TRAINING OF STEM GRADUATE STUDENTS IN HIGH PRIORITY INTERDISCIPLINARY OR CONVERGENT RESEARCH AREAS THROUGH COMPREHENSIVE TRAINEESHIP MODELS THAT ARE INNOVATIVE, EVIDENCE-BASED, AND ALIGNED WITH CHANGING WORKFORCE AND RESEARCH NEEDS. THIS AWARD REFLECTS NSF'S STATUTORY MISSION AND HAS BEEN DEEMED WORTHY OF SUPPORT THROUGH EVALUATION USING THE FOUNDATION'S INTELLECTUAL MERIT AND BROADER IMPACTS REVIEW CRITERIA.",
+    "total_obligation": 2999999,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-06-24",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 1181104.95,
+    "total_account_obligation": 2999999,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 1181104.95
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 2999999
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF GRADUATE EDUCATION"
+    },
+    "awarding_agency": {
+      "id": 655,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "National Science Foundation",
+        "code": "049",
+        "abbreviation": "NSF",
+        "slug": "national-science-foundation"
+      },
+      "subtier_agency": {
+        "name": "National Science Foundation",
+        "code": "4900",
+        "abbreviation": "NSF"
+      },
+      "office_agency_name": "DIVISION OF GRADUATE EDUCATION"
+    },
+    "period_of_performance": {
+      "start_date": "2022-07-01",
+      "end_date": "2027-06-30",
+      "last_modified_date": "2022-07-06",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "54cbc48e-bfef-fc4b-dbd1-8317743c8191-P",
+      "parent_recipient_name": "STATE OF CALIFORNIA CONTROLLERS OFFICE",
+      "parent_recipient_uei": "NUDGYLBB4S99",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR, STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "DAVIS",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "04",
+      "zip4": "5270",
+      "zip5": "95616",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 1181104.95
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 91717727,
+    "Award ID": "S10OD032406",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 599752,
+    "Total Outlays": 599752,
+    "Description": "STRATEDIGM S100EON HIGH-PARAMETER FLOW CYTOMETER TO SUPPORT MULTI-INSTITUTIONAL RESEARCH PROGRAMS - TITLE: STRATEDIGM S100EON HIGH-PARAMETER FLOW CYTOMETER TO SUPPORT MULTI-INSTITUTIONAL RESEARCH PROGRAMS ABSTRACT: THE IMMUNE MODELING, ANALYSIS, AND DIAGNOSTIC SHARED RESOURCE (IMAD) IS A CLIA- CERTIFIED CORE FACILITY THAT PERFORMS HIGHLY VALIDATED FLOW CYTOMETRY FOR VARIOUS LARGE MULTI- INSTITUTIONAL NIH-FUNDED RESEARCH PROGRAMS. IT IS THE DESIGNATED IMMUNOLOGY CORE FACILITY FOR THE CALIFORNIA CANCER CONSORTIUM, THE UC DAVIS ALPHA CLINIC, AND THE UC DAVIS COMPREHENSIVE CANCER CENTER. THE CALIFORNIA CANCER CONSORTIUM IS AN NCI-FUNDED CONSORTIUM WHICH INCLUDES INVESTIGATORS FROM THE CITY OF HOPE, UNIVERSITY OF SOUTHERN CALIFORNIA, UNIVERSITY OF CALIFORNIA DAVIS, AND STANFORD. THE UC DAVIS ALPHA CLINIC RUNS LOCAL AND MULTI-INSTITUTIONAL CIRM AND NIH-SPONSORED CLINICAL STUDIES. ITS PARTNERS INCLUDE THE UNIVERSITY OF CALIFORNIA SAN DIEGO, UNIVERSITY OF CALIFORNIA SAN FRANCISCO, AND THE MEMORIAL SLOAN KETTERING CANCER CENTER. THE GOAL OF THE CURRENT NIH S10 APPLICATION IS TO SUPPORT THE PURCHASE OF THE STRATEDIGM S100EON, WHICH IS A HIGH-PARAMETER FLOW CYTOMETER. THE EXTREMELY LOW OPERATING COST OF THIS INSTRUMENT AND ITS ABILITY TO FULLY AUTOMATE THE FLOW CYTOMETRY WORK FLOW (I.E. STAINING, CENTRIFUGATION, INCUBATION, LOADING, ETC.) MAKE THIS INSTRUMENT ESPECIALLY SUITED FOR THE IMAD AND SEPARATE IT FROM OTHER THE OTHER FLOW CYTOMETERS CURRENTLY AVAILABLE. THESE UNIQUE FEATURES WILL DRAMATICALLY LOWER THE PER SAMPLE ACQUISITION COST AND INCREASE THE NUMBER OF SAMPLES THAT CAN PROCESSED WITH IMAD'S EXISTING RESOURCES. BOTH LOWERING THE PER SAMPLE COST AND INCREASING THE THROUGHPUT CAPACITY ARE ESSENTIAL, IF THE IMAD IS TO MEET THEIR CURRENT DEMAND, WHICH IS EVIDENT BY THEIR LARGE BACKLOG OF FROZEN SPECIMENS. AS IT STANDS, THE IMAD IS POSSIBLY THE ONLY IMMUNOLOGY CORE IN THE UNIVERSITY OF CALIFORNIA SYSTEM WITHOUT A DEDICATED FLOW CYTOMETER. ALSO, EVEN IF THE IMAD INVESTIGATORS ARE WILLING TO TRAVEL, THERE ARE NO HIGH-PARAMETER FLOW ANALYZERS AVAILABLE IN SACRAMENTO FOR THEM TO USE. THE ABSENCE OF A FLOW CYTOMETER IS THE MAJOR BOTTLENECK THAT PREVENTS THE IMAD FROM PROVIDING EXCEPTIONAL PRICING AND TURNAROUND TIME FOR ITS USERS. THE IMAD IS FOCUSED ON PROVIDING HIGH THROUGHPUT, HIGHLY VALIDATED FLOW-BASED ASSAYS TO INVESTIGATORS ACROSS THE COUNTRY. FINALLY, IMAD HIGHLY VALIDATED SAMPLE PREPARATION AND ACQUISITION SERVICES DO NOT OVERLAP WITH CURRENT UC DAVIS CORE FACILITIES.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": "SACRAMENTO",
+      "congressional_code": "07",
+      "country_name": "UNITED STATES",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "958172305",
+      "zip5": "95817"
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2022-09-01",
+    "End Date": "2024-06-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_S10OD032406_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 91717727,
+    "generated_unique_award_id": "ASST_NON_S10OD032406_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "STRATEDIGM S100EON HIGH-PARAMETER FLOW CYTOMETER TO SUPPORT MULTI-INSTITUTIONAL RESEARCH PROGRAMS - TITLE: STRATEDIGM S100EON HIGH-PARAMETER FLOW CYTOMETER TO SUPPORT MULTI-INSTITUTIONAL RESEARCH PROGRAMS ABSTRACT: THE IMMUNE MODELING, ANALYSIS, AND DIAGNOSTIC SHARED RESOURCE (IMAD) IS A CLIA- CERTIFIED CORE FACILITY THAT PERFORMS HIGHLY VALIDATED FLOW CYTOMETRY FOR VARIOUS LARGE MULTI- INSTITUTIONAL NIH-FUNDED RESEARCH PROGRAMS. IT IS THE DESIGNATED IMMUNOLOGY CORE FACILITY FOR THE CALIFORNIA CANCER CONSORTIUM, THE UC DAVIS ALPHA CLINIC, AND THE UC DAVIS COMPREHENSIVE CANCER CENTER. THE CALIFORNIA CANCER CONSORTIUM IS AN NCI-FUNDED CONSORTIUM WHICH INCLUDES INVESTIGATORS FROM THE CITY OF HOPE, UNIVERSITY OF SOUTHERN CALIFORNIA, UNIVERSITY OF CALIFORNIA DAVIS, AND STANFORD. THE UC DAVIS ALPHA CLINIC RUNS LOCAL AND MULTI-INSTITUTIONAL CIRM AND NIH-SPONSORED CLINICAL STUDIES. ITS PARTNERS INCLUDE THE UNIVERSITY OF CALIFORNIA SAN DIEGO, UNIVERSITY OF CALIFORNIA SAN FRANCISCO, AND THE MEMORIAL SLOAN KETTERING CANCER CENTER. THE GOAL OF THE CURRENT NIH S10 APPLICATION IS TO SUPPORT THE PURCHASE OF THE STRATEDIGM S100EON, WHICH IS A HIGH-PARAMETER FLOW CYTOMETER. THE EXTREMELY LOW OPERATING COST OF THIS INSTRUMENT AND ITS ABILITY TO FULLY AUTOMATE THE FLOW CYTOMETRY WORK FLOW (I.E. STAINING, CENTRIFUGATION, INCUBATION, LOADING, ETC.) MAKE THIS INSTRUMENT ESPECIALLY SUITED FOR THE IMAD AND SEPARATE IT FROM OTHER THE OTHER FLOW CYTOMETERS CURRENTLY AVAILABLE. THESE UNIQUE FEATURES WILL DRAMATICALLY LOWER THE PER SAMPLE ACQUISITION COST AND INCREASE THE NUMBER OF SAMPLES THAT CAN PROCESSED WITH IMAD'S EXISTING RESOURCES. BOTH LOWERING THE PER SAMPLE COST AND INCREASING THE THROUGHPUT CAPACITY ARE ESSENTIAL, IF THE IMAD IS TO MEET THEIR CURRENT DEMAND, WHICH IS EVIDENT BY THEIR LARGE BACKLOG OF FROZEN SPECIMENS. AS IT STANDS, THE IMAD IS POSSIBLY THE ONLY IMMUNOLOGY CORE IN THE UNIVERSITY OF CALIFORNIA SYSTEM WITHOUT A DEDICATED FLOW CYTOMETER. ALSO, EVEN IF THE IMAD INVESTIGATORS ARE WILLING TO TRAVEL, THERE ARE NO HIGH-PARAMETER FLOW ANALYZERS AVAILABLE IN SACRAMENTO FOR THEM TO USE. THE ABSENCE OF A FLOW CYTOMETER IS THE MAJOR BOTTLENECK THAT PREVENTS THE IMAD FROM PROVIDING EXCEPTIONAL PRICING AND TURNAROUND TIME FOR ITS USERS. THE IMAD IS FOCUSED ON PROVIDING HIGH THROUGHPUT, HIGHLY VALIDATED FLOW-BASED ASSAYS TO INVESTIGATORS ACROSS THE COUNTRY. FINALLY, IMAD HIGHLY VALIDATED SAMPLE PREPARATION AND ACQUISITION SERVICES DO NOT OVERLAP WITH CURRENT UC DAVIS CORE FACILITIES.",
+    "total_obligation": 599752,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2022-08-26",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 599752,
+    "total_account_obligation": 599752,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 599752
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 599752
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH OFFICE OF THE DIRECTOR"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH AGGREGATE FINANCIAL ASSISTANCE DATA AWARDING OFFICE"
+    },
+    "period_of_performance": {
+      "start_date": "2022-09-01",
+      "end_date": "2024-06-30",
+      "last_modified_date": "2024-11-20",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "SACRAMENTO",
+      "county_code": "067",
+      "county_name": "SACRAMENTO",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "07",
+      "zip4": "2305",
+      "zip5": "95817",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 599752
+  }
+}

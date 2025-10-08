@@ -1,0 +1,241 @@
+{
+  "basic_data": {
+    "internal_id": 170338021,
+    "Award ID": "R01MH137613",
+    "Recipient Name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+    "Award Amount": 794931,
+    "Total Outlays": 3307.15,
+    "Description": "EARLY DYADIC SYNCHRONY AND MIDDLE CHILDHOOD OUTCOMES AMONG INFANTS AT GENETIC RISK FOR ADHD OR AUTISM - PROJECT SUMMARY/ABSTRACT ADHD AND AUTISM SPECTRUM DISORDER (ASD) ARE TWO PREVALENT, HERITABLE NEURODEVELOPMENTAL CONDITIONS THAT FREQUENTLY CO-OCCUR. EVIDENCE OF OVERLAPPING GENETIC RISK SUGGESTS THEY MAY ALSO SHARE DEVELOPMENTAL PATHWAYS AND BROADER PHENOTYPES. PROSPECTIVE, GENETICALLY-INFORMED, TRANSDIAGNOSTIC FAMILIAL RISK DESIGNS PROVIDE AN OPPORTUNITY TO INVESTIGATE THE INTERPLAY BETWEEN GENETIC RISK AND EARLY LIFE EXPERIENCES THAT MAY MITIGATE OR EXACERBATE SUCH RISK. PARENT-INFANT SYNCHRONY DURING DYADIC INTERACTION ACROSS A RANGE OF BEHAVIORAL AND BIOLOGICAL TARGETS IS LINKED TO THE DEVELOPMENT OF PROCESSES KNOWN TO BE DISRUPTED IN ADHD AND ASD. DESPITE THESE LINKS, STUDIES IN ASD HAVE LARGELY EXAMINED INDIVIDUAL BEHAVIOR DURING INTERACTIONS, WITH ONLY A HANDFUL REPORTING ON DYADIC ASPECTS. THIS IS A CRITICAL GAP, SINCE THE TEMPORAL STRUCTURE OF THE SYNCHRONOUS COMPONENT OF AN INTERACTION MAY REPRESENT AN EMERGENT PROPERTY DISTINCT FROM EACH INDIVIDUAL’S CONTRIBUTIONS. NO STUDIES HAVE EXAMINED THESE QUESTIONS IN INFANTS AT RISK FOR ADHD, BUT RESEARCH IN OLDER YOUTH HAS DOCUMENTED REDUCED SYNCHRONY. MOREOVER, DESPITE SHARED RISKS, NOTHING IS KNOWN ABOUT SHARED VS. DISTINCT INFLUENCES OF EARLY DYADIC SYNCHRONY ON ADHD VS. ASD SYMPTOM DEVELOPMENT, NOR THE INFLUENCE ON OUTCOMES BEYOND THE PRESCHOOL PERIOD. MIDDLE CHILDHOOD REPRESENTS A KEY TRANSITION PERIOD CHARACTERIZED BY THE EMERGENCE OF RELEVANT CLINICAL PHENOTYPES LIKE ADHD AND DRAMATIC CHANGES IN DOMAINS INFLUENCED BY PARENT-INFANT SYNCHRONY, INCLUDING SOCIAL COMPETENCE AND SELF-REGULATION, MAKING LONGER-TERM FOLLOW-UP OF THESE SAMPLES CRITICAL NOT ONLY FOR THE INFANTS WHO DEVELOP ADHD OR ASD, BUT ALSO FOR THE LARGE NUMBER OF AT-RISK INFANTS WHO DO NOT, BUT WHO EXPERIENCE SUBTHRESHOLD SYMPTOMS AND OTHER CHALLENGES AS THEY AGE. THIS PROJECT WILL LEVERAGE 3 PROSPECTIVE LONGITUDINAL COHORTS OF INFANTS (N=326) RECRUITED THROUGH THE PI’S PRIOR NIMH-FUNDED STUDIES, PREVIOUSLY SEEN AT 6/9, 12, 18, 24, AND 36 MONTHS OF AGE, EXTENDING FOLLOW-UP TO AGES 6-10 YEARS. THESE SAMPLES ARE ENRICHED FOR A RANGE OF PHENOTYPIC VARIATION, HAVING OVER-ENROLLED INFANTS WITH A FAMILY HISTORY OF ADHD OR ASD, AND INFANTS AT LOW RISK. MIDDLE CHILDHOOD OUTCOMES WILL BE CAREFULLY CHARACTERIZED ACROSS KEY CLINICAL, SOCIAL, AND SELF-REGULATORY DOMAINS (AIM 1). PREVIOUSLY COLLECTED VIDEOS OF NATURALISTIC PARENT-INFANT PLAY WILL BE SUBJECTED TO NOVEL AUTOMATED METHODS TO DETECT BEHAVIORS RELEVANT TO RDOC CONSTRUCTS OF COGNITIVE SYSTEMS, NEGATIVE/POSITIVE VALENCE SYSTEMS, AND SOCIAL PROCESSES, ALLOWING EXAMINATION OF THE INFLUENCE OF EARLY-LIFE DYADIC SYNCHRONY ON MIDDLE CHILDHOOD OUTCOMES (AIM 2). AIM 3 EXPLORES MODERATORS AND MEDIATORS OF THESE ASSOCIATIONS, INCLUDING CAPITALIZING ON THE GENETICALLY-INFORMED DESIGN TO TEST THE DEGREE TO WHICH EARLY-LIFE DYADIC SYNCHRONY MODERATES GENETIC RISK FOR ADHD AND ASD. RESULTS COULD HELP TO UNDERSTAND ETIOLOGICAL LINKS BETWEEN ADHD AND ASD, ELUCIDATE PROTECTIVE AND MODIFIABLE RISK FACTORS, AND IDENTIFY TARGETS FOR CAREGIVER-MEDIATED, TRANSDIAGNOSTIC PREVENTION AND EARLY INTERVENTIONS THAT HAVE BROAD EFFECTS ACROSS THE LIFESPAN.",
+    "Contract Award Type": "",
+    "Recipient UEI": "TX2DAGQPENZ5",
+    "Recipient Location": {
+      "address_line1": "1850 RESEARCH PARK DR STE 300",
+      "address_line2": null,
+      "address_line3": null,
+      "city_name": "DAVIS",
+      "congressional_code": "04",
+      "country_name": "UNITED STATES",
+      "county_code": "113",
+      "county_name": "YOLO",
+      "foreign_postal_code": null,
+      "foreign_province": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": "6153",
+      "zip5": "95618"
+    },
+    "Primary Place of Performance": {
+      "city_name": null,
+      "congressional_code": "90",
+      "country_name": "UNITED STATES",
+      "county_code": null,
+      "county_name": null,
+      "location_country_code": "USA",
+      "state_code": "CA",
+      "state_name": "California",
+      "zip4": null,
+      "zip5": null
+    },
+    "def_codes": [
+      "Q"
+    ],
+    "COVID-19 Obligations": 0,
+    "COVID-19 Outlays": 0,
+    "Infrastructure Obligations": 0,
+    "Infrastructure Outlays": 0,
+    "Awarding Agency": "Department of Health and Human Services",
+    "Awarding Sub Agency": "National Institutes of Health",
+    "Start Date": "2025-05-01",
+    "End Date": "2030-04-30",
+    "NAICS": null,
+    "PSC": null,
+    "recipient_id": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-C",
+    "prime_award_recipient_id": "",
+    "generated_internal_id": "ASST_NON_R01MH137613_075",
+    "awarding_agency_id": 806,
+    "agency_slug": "department-of-health-and-human-services",
+    "Loan Value": null,
+    "Subsidy Cost": null,
+    "Issued Date": "",
+    "Funding Agency": "",
+    "recipient_location_city_name": "",
+    "recipient_location_state_code": "",
+    "recipient_location_country_name": "",
+    "recipient_location_address_line1": "",
+    "pop_city_name": "",
+    "pop_state_code": "",
+    "pop_country_name": ""
+  },
+  "detailed_data": {
+    "id": 170338021,
+    "generated_unique_award_id": "ASST_NON_R01MH137613_075",
+    "piid": "",
+    "category": "grant",
+    "type": "04",
+    "type_description": "PROJECT GRANT (B)",
+    "description": "EARLY DYADIC SYNCHRONY AND MIDDLE CHILDHOOD OUTCOMES AMONG INFANTS AT GENETIC RISK FOR ADHD OR AUTISM - PROJECT SUMMARY/ABSTRACT ADHD AND AUTISM SPECTRUM DISORDER (ASD) ARE TWO PREVALENT, HERITABLE NEURODEVELOPMENTAL CONDITIONS THAT FREQUENTLY CO-OCCUR. EVIDENCE OF OVERLAPPING GENETIC RISK SUGGESTS THEY MAY ALSO SHARE DEVELOPMENTAL PATHWAYS AND BROADER PHENOTYPES. PROSPECTIVE, GENETICALLY-INFORMED, TRANSDIAGNOSTIC FAMILIAL RISK DESIGNS PROVIDE AN OPPORTUNITY TO INVESTIGATE THE INTERPLAY BETWEEN GENETIC RISK AND EARLY LIFE EXPERIENCES THAT MAY MITIGATE OR EXACERBATE SUCH RISK. PARENT-INFANT SYNCHRONY DURING DYADIC INTERACTION ACROSS A RANGE OF BEHAVIORAL AND BIOLOGICAL TARGETS IS LINKED TO THE DEVELOPMENT OF PROCESSES KNOWN TO BE DISRUPTED IN ADHD AND ASD. DESPITE THESE LINKS, STUDIES IN ASD HAVE LARGELY EXAMINED INDIVIDUAL BEHAVIOR DURING INTERACTIONS, WITH ONLY A HANDFUL REPORTING ON DYADIC ASPECTS. THIS IS A CRITICAL GAP, SINCE THE TEMPORAL STRUCTURE OF THE SYNCHRONOUS COMPONENT OF AN INTERACTION MAY REPRESENT AN EMERGENT PROPERTY DISTINCT FROM EACH INDIVIDUAL’S CONTRIBUTIONS. NO STUDIES HAVE EXAMINED THESE QUESTIONS IN INFANTS AT RISK FOR ADHD, BUT RESEARCH IN OLDER YOUTH HAS DOCUMENTED REDUCED SYNCHRONY. MOREOVER, DESPITE SHARED RISKS, NOTHING IS KNOWN ABOUT SHARED VS. DISTINCT INFLUENCES OF EARLY DYADIC SYNCHRONY ON ADHD VS. ASD SYMPTOM DEVELOPMENT, NOR THE INFLUENCE ON OUTCOMES BEYOND THE PRESCHOOL PERIOD. MIDDLE CHILDHOOD REPRESENTS A KEY TRANSITION PERIOD CHARACTERIZED BY THE EMERGENCE OF RELEVANT CLINICAL PHENOTYPES LIKE ADHD AND DRAMATIC CHANGES IN DOMAINS INFLUENCED BY PARENT-INFANT SYNCHRONY, INCLUDING SOCIAL COMPETENCE AND SELF-REGULATION, MAKING LONGER-TERM FOLLOW-UP OF THESE SAMPLES CRITICAL NOT ONLY FOR THE INFANTS WHO DEVELOP ADHD OR ASD, BUT ALSO FOR THE LARGE NUMBER OF AT-RISK INFANTS WHO DO NOT, BUT WHO EXPERIENCE SUBTHRESHOLD SYMPTOMS AND OTHER CHALLENGES AS THEY AGE. THIS PROJECT WILL LEVERAGE 3 PROSPECTIVE LONGITUDINAL COHORTS OF INFANTS (N=326) RECRUITED THROUGH THE PI’S PRIOR NIMH-FUNDED STUDIES, PREVIOUSLY SEEN AT 6/9, 12, 18, 24, AND 36 MONTHS OF AGE, EXTENDING FOLLOW-UP TO AGES 6-10 YEARS. THESE SAMPLES ARE ENRICHED FOR A RANGE OF PHENOTYPIC VARIATION, HAVING OVER-ENROLLED INFANTS WITH A FAMILY HISTORY OF ADHD OR ASD, AND INFANTS AT LOW RISK. MIDDLE CHILDHOOD OUTCOMES WILL BE CAREFULLY CHARACTERIZED ACROSS KEY CLINICAL, SOCIAL, AND SELF-REGULATORY DOMAINS (AIM 1). PREVIOUSLY COLLECTED VIDEOS OF NATURALISTIC PARENT-INFANT PLAY WILL BE SUBJECTED TO NOVEL AUTOMATED METHODS TO DETECT BEHAVIORS RELEVANT TO RDOC CONSTRUCTS OF COGNITIVE SYSTEMS, NEGATIVE/POSITIVE VALENCE SYSTEMS, AND SOCIAL PROCESSES, ALLOWING EXAMINATION OF THE INFLUENCE OF EARLY-LIFE DYADIC SYNCHRONY ON MIDDLE CHILDHOOD OUTCOMES (AIM 2). AIM 3 EXPLORES MODERATORS AND MEDIATORS OF THESE ASSOCIATIONS, INCLUDING CAPITALIZING ON THE GENETICALLY-INFORMED DESIGN TO TEST THE DEGREE TO WHICH EARLY-LIFE DYADIC SYNCHRONY MODERATES GENETIC RISK FOR ADHD AND ASD. RESULTS COULD HELP TO UNDERSTAND ETIOLOGICAL LINKS BETWEEN ADHD AND ASD, ELUCIDATE PROTECTIVE AND MODIFIABLE RISK FACTORS, AND IDENTIFY TARGETS FOR CAREGIVER-MEDIATED, TRANSDIAGNOSTIC PREVENTION AND EARLY INTERVENTIONS THAT HAVE BROAD EFFECTS ACROSS THE LIFESPAN.",
+    "total_obligation": 794931,
+    "subaward_count": 0,
+    "total_subaward_amount": null,
+    "date_signed": "2025-05-01",
+    "base_exercised_options": 0,
+    "base_and_all_options": 0,
+    "total_account_outlay": 3307.15,
+    "total_account_obligation": 794931,
+    "account_outlays_by_defc": [
+      {
+        "code": "Q",
+        "amount": 3307.15
+      }
+    ],
+    "account_obligations_by_defc": [
+      {
+        "code": "Q",
+        "amount": 794931
+      }
+    ],
+    "parent_award": null,
+    "latest_transaction_contract_data": null,
+    "funding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "awarding_agency": {
+      "id": 830,
+      "has_agency_page": true,
+      "toptier_agency": {
+        "name": "Department of Health and Human Services",
+        "code": "075",
+        "abbreviation": "HHS",
+        "slug": "department-of-health-and-human-services"
+      },
+      "subtier_agency": {
+        "name": "National Institutes of Health",
+        "code": "7529",
+        "abbreviation": "NIH"
+      },
+      "office_agency_name": "NIH National Institute of Mental Health"
+    },
+    "period_of_performance": {
+      "start_date": "2025-05-01",
+      "end_date": "2030-04-30",
+      "last_modified_date": "2025-05-05",
+      "potential_end_date": ""
+    },
+    "recipient": {
+      "recipient_hash": "1e2f11d9-030b-5288-d89f-1f6fd7f111f3-R",
+      "recipient_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+      "recipient_uei": "TX2DAGQPENZ5",
+      "recipient_unique_id": null,
+      "parent_recipient_hash": "",
+      "parent_recipient_name": "",
+      "parent_recipient_uei": "",
+      "parent_recipient_unique_id": null,
+      "business_categories": [
+        "Higher Education",
+        "Higher Education (Public)"
+      ],
+      "location": {
+        "location_country_code": "USA",
+        "country_name": "UNITED STATES",
+        "state_code": "CA",
+        "state_name": "CALIFORNIA",
+        "city_name": "DAVIS",
+        "county_code": "113",
+        "county_name": "YOLO",
+        "address_line1": "1850 RESEARCH PARK DR STE 300",
+        "address_line2": null,
+        "address_line3": null,
+        "congressional_code": "04",
+        "zip4": "6153",
+        "zip5": "95618",
+        "foreign_postal_code": null,
+        "foreign_province": null
+      }
+    },
+    "executive_details": {
+      "officers": [
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        },
+        {
+          "name": null,
+          "amount": null
+        }
+      ]
+    },
+    "place_of_performance": {
+      "location_country_code": "USA",
+      "country_name": "UNITED STATES",
+      "state_code": "CA",
+      "state_name": "CALIFORNIA",
+      "city_name": "",
+      "county_code": "",
+      "county_name": "",
+      "address_line1": "",
+      "address_line2": null,
+      "address_line3": null,
+      "congressional_code": "",
+      "zip4": "",
+      "zip5": "",
+      "foreign_postal_code": null,
+      "foreign_province": null
+    },
+    "psc_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "subtier_code": null,
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "naics_hierarchy": {
+      "toptier_code": {
+        "code": "",
+        "description": ""
+      },
+      "midtier_code": {
+        "code": "",
+        "description": ""
+      },
+      "base_code": {
+        "code": "",
+        "description": ""
+      }
+    },
+    "total_outlay": 3307.15
+  }
+}
