@@ -8,9 +8,15 @@
   import ChartFrame from "$lib/components/charts/ChartFrame.svelte";
   import AllocationTreemap from "$lib/components/charts/AllocationTreemap.svelte";
   import CampusBarChart from "$lib/components/charts/CampusBarChart.svelte";
-  import MultiLineChart from "$lib/components/charts/MultiLineChart.svelte";
-  import { buildAllocationTree, isTotalRow } from "$lib/utils/ucopHierarchy";
-  import { fmtUSDShort, CHART_COLORS } from "$lib/utils/chart";
+  import StackedAreaChart from "$lib/components/charts/StackedAreaChart.svelte";
+  import Legend from "$lib/components/charts/Legend.svelte";
+  import {
+    buildAllocationTree,
+    isTotalRow,
+    categoryTotalsForReport,
+    CANONICAL_CATEGORIES,
+  } from "$lib/utils/ucopHierarchy";
+  import { fmtUSDShort, CHART_COLORS, paletteFor } from "$lib/utils/chart";
   import {
     CAMPUS_KEYS,
     type CampusKey,
@@ -66,47 +72,20 @@
     });
   });
 
-  // Top-level category totals across all fiscal years (multi-line chart)
-  const categoryTrendSeries = $derived.by<Series[]>(() => {
-    // Collect set of top-level category names across all reports
-    const allCats = new Set<string>();
-    const perYearTotals = new Map<string, Map<string, number>>(); // fy -> (category -> total system_total)
-    for (const rep of data.reports) {
-      const perCat = new Map<string, number>();
-      // Walk rows; maintain current top-level context.
-      let currentTop: string | null = null;
-      let topIndent = -Infinity;
-      for (const row of rep.rows) {
-        if (row.indent <= 42) {
-          currentTop = isTotalRow(row.label) ? null : row.label;
-          topIndent = row.indent;
-          continue;
-        }
-        if (!currentTop) continue;
-        if (row.indent <= topIndent) {
-          currentTop = null;
-          continue;
-        }
-        if (isTotalRow(row.label)) continue;
-        const v = row.amounts?.system_total;
-        if (typeof v === "number")
-          perCat.set(currentTop, (perCat.get(currentTop) ?? 0) + v);
-      }
-      perYearTotals.set(rep.fiscal_year, perCat);
-      perCat.forEach((_, k) => allCats.add(k));
-    }
-
-    const cats = [...allCats].slice(0, 10);
-    return cats.map((cat, i) => ({
-      id: cat,
-      label: cat,
-      color: CHART_COLORS[i % CHART_COLORS.length],
-      values: data.reports.map((rep) => ({
-        year: fyStartYear(rep.fiscal_year),
-        value: perYearTotals.get(rep.fiscal_year)?.get(cat) ?? 0,
+  // Canonical top-level category totals across all fiscal years
+  // (fuzzy-matched to absorb "Set-asides"/"Earmarks" and unicode-hyphen variation)
+  const categoryTrendSeries = $derived<Series[]>(
+    paletteFor(
+      CANONICAL_CATEGORIES.map((cat) => ({
+        id: cat,
+        label: cat,
+        values: data.reports.map((rep) => ({
+          year: fyStartYear(rep.fiscal_year),
+          value: categoryTotalsForReport(rep)[cat] ?? 0,
+        })),
       })),
-    }));
-  });
+    ),
+  );
 
   function fyStartYear(fy: string): number {
     return Number(fy.split("-")[0]);
@@ -124,6 +103,21 @@
   function fmtCell(v: number | undefined | null): string {
     if (typeof v !== "number") return "";
     return fmtUSDShort(v);
+  }
+
+  // Map the report's raw indent range to a bounded pixel indent so absurd
+  // indent values (e.g. 171 in 2019-20) don't push labels off the screen.
+  const indentRange = $derived.by(() => {
+    const vals = selectedReport.rows.map((r) => r.indent);
+    const min = Math.min(...vals);
+    const max = Math.max(...vals);
+    return { min, max };
+  });
+  function indentPad(indent: number): number {
+    const { min, max } = indentRange;
+    const span = Math.max(1, max - min);
+    const depth = (indent - min) / span; // 0..1
+    return Math.round(depth * 32) / 16; // 0..2rem
   }
 </script>
 
@@ -186,16 +180,26 @@
 
     <Section title="Ten-year trend by category" icon="mdi:chart-line">
       <p class="desc">
-        System-wide totals for each top-level allocation category across every fiscal
-        year in the archive.
+        Stacked system totals for each canonical budget category across all ten fiscal
+        years. (FY 2021-22 appears as a gap — that year's PDF is published in a flat
+        layout that lacks the category breakdown.)
       </p>
       <ChartFrame
         title="Category totals {fyStartYear(data.reports[0].fiscal_year)}–{fyStartYear(
           data.reports[data.reports.length - 1].fiscal_year,
         )}"
-        subtitle="One line per top-level category"
+        subtitle="Stacked — hover a year for breakdown"
       >
-        <MultiLineChart series={categoryTrendSeries} />
+        {#snippet legend()}
+          <Legend
+            items={categoryTrendSeries.map((s) => ({
+              id: s.id,
+              label: s.label,
+              color: s.color!,
+            }))}
+          />
+        {/snippet}
+        <StackedAreaChart series={categoryTrendSeries} />
       </ChartFrame>
     </Section>
 
@@ -211,7 +215,7 @@
         <table>
           <thead>
             <tr>
-              <th>Label</th>
+              <th class="sticky-left">Label</th>
               <th class="num">Berkeley</th>
               <th class="num">Davis</th>
               <th class="num">Irvine</th>
@@ -222,13 +226,13 @@
               <th class="num">UCSF</th>
               <th class="num">S.Barbara</th>
               <th class="num">S.Cruz</th>
-              <th class="num">System total</th>
+              <th class="num sticky-right">System total</th>
             </tr>
           </thead>
           <tbody>
             {#each filteredRows as row}
               <tr class:header={!row.amounts || Object.keys(row.amounts).length === 0}>
-                <td class="lbl" style="padding-left: {Math.max(0, (row.indent - 40) * 0.5)}rem;">
+                <td class="lbl sticky-left" style="padding-left: {indentPad(row.indent)}rem;">
                   {row.label}
                 </td>
                 <td class="num">{fmtCell(row.amounts?.berkeley)}</td>
@@ -241,7 +245,7 @@
                 <td class="num">{fmtCell(row.amounts?.san_francisco)}</td>
                 <td class="num">{fmtCell(row.amounts?.santa_barbara)}</td>
                 <td class="num">{fmtCell(row.amounts?.santa_cruz)}</td>
-                <td class="num strong">{fmtCell(row.amounts?.system_total)}</td>
+                <td class="num strong sticky-right">{fmtCell(row.amounts?.system_total)}</td>
               </tr>
             {/each}
           </tbody>
@@ -316,10 +320,11 @@
     color: #475569;
   }
   td.lbl {
-    max-width: 320px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    min-width: 240px;
+    max-width: 420px;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
   }
   td.num,
   th.num {
@@ -336,5 +341,30 @@
     background: rgba(0, 50, 98, 0.03);
     font-weight: 600;
     color: var(--pri);
+  }
+  th.sticky-left,
+  td.sticky-left {
+    position: sticky;
+    left: 0;
+    background: white;
+    z-index: 2;
+    box-shadow: 1px 0 0 rgba(15, 23, 42, 0.06);
+  }
+  th.sticky-right,
+  td.sticky-right {
+    position: sticky;
+    right: 0;
+    background: white;
+    z-index: 2;
+    box-shadow: -1px 0 0 rgba(15, 23, 42, 0.06);
+  }
+  thead th.sticky-left,
+  thead th.sticky-right {
+    background: #f5f7f9;
+    z-index: 3;
+  }
+  tr.header td.sticky-left,
+  tr.header td.sticky-right {
+    background: #f7f9fa;
   }
 </style>

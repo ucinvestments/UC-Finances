@@ -8,6 +8,7 @@
   import StackedAreaChart from "$lib/components/charts/StackedAreaChart.svelte";
   import MultiLineChart from "$lib/components/charts/MultiLineChart.svelte";
   import MedCenterDonut from "$lib/components/charts/MedCenterDonut.svelte";
+  import Legend from "$lib/components/charts/Legend.svelte";
   import {
     systemRevExp,
     perCampusRevExp,
@@ -15,7 +16,7 @@
     toSeries,
     type RevExpKind,
   } from "$lib/utils/retrendsMerge";
-  import { RETRENDS_UNIT } from "$lib/utils/chart";
+  import { RETRENDS_UNIT, paletteFor } from "$lib/utils/chart";
   import { getCampusTheme } from "$lib/utils/campusColors";
   import type { Series } from "$lib/types/ucop";
 
@@ -28,8 +29,8 @@
   const years = $derived(data.merged.years);
 
   // System rev/exp stacked areas
-  const systemRev = $derived(toSeries(systemRevExp(data.merged, "revenue")));
-  const systemExp = $derived(toSeries(systemRevExp(data.merged, "expense")));
+  const systemRev = $derived(paletteFor(toSeries(systemRevExp(data.merged, "revenue"))));
+  const systemExp = $derived(paletteFor(toSeries(systemRevExp(data.merged, "expense"))));
 
   // Per-campus totals — one line per campus
   const CAMPUS_LABELS = [
@@ -147,12 +148,18 @@
         title="Revenues by source"
         subtitle="Hover any year to see the breakdown"
       >
+        {#snippet legend()}
+          <Legend items={systemRev.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+        {/snippet}
         <StackedAreaChart series={systemRev} stackOffset={stackMode} />
       </ChartFrame>
       <ChartFrame
         title="Expenses by function"
         subtitle="Hover any year to see the breakdown"
       >
+        {#snippet legend()}
+          <Legend items={systemExp.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+        {/snippet}
         <StackedAreaChart series={systemExp} stackOffset={stackMode} />
       </ChartFrame>
     </Section>
@@ -166,12 +173,18 @@
         title="Total campus revenue"
         subtitle="One line per campus, all years"
       >
+        {#snippet legend()}
+          <Legend items={campusRevSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+        {/snippet}
         <MultiLineChart series={campusRevSeries} yLabel="Total revenue" />
       </ChartFrame>
       <ChartFrame
         title="Total campus expense"
         subtitle="One line per campus, all years"
       >
+        {#snippet legend()}
+          <Legend items={campusExpSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+        {/snippet}
         <MultiLineChart series={campusExpSeries} yLabel="Total expense" />
       </ChartFrame>
     </Section>
@@ -226,6 +239,9 @@
           subtitle="Lines coloured by centre"
           minHeight={480}
         >
+          {#snippet legend()}
+            <Legend items={medCenterSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+          {/snippet}
           <MultiLineChart series={medCenterSeries} />
         </ChartFrame>
       </div>

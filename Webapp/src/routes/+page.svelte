@@ -10,8 +10,9 @@
   import AllocationTreemap from "$lib/components/charts/AllocationTreemap.svelte";
   import StackedAreaChart from "$lib/components/charts/StackedAreaChart.svelte";
   import CampusBarChart from "$lib/components/charts/CampusBarChart.svelte";
+  import Legend from "$lib/components/charts/Legend.svelte";
   import { buildAllocationTree } from "$lib/utils/ucopHierarchy";
-  import { RETRENDS_UNIT, fmtUSDShort } from "$lib/utils/chart";
+  import { RETRENDS_UNIT, fmtUSDShort, paletteFor } from "$lib/utils/chart";
   import { CAMPUS_KEYS, type CampusKey, type Series } from "$lib/types/ucop";
 
   let { data }: { data: PageData } = $props();
@@ -56,22 +57,44 @@
 
   const revYears = $derived(data.latestRetrends.year_columns.map(Number));
   const revenueSeries = $derived<Series[]>(
-    data.latestRetrends.rows
-      .filter(
-        (r) =>
-          r.page_title.includes("Revenues by Source and Expenses by Function") &&
-          /^REVENUES/i.test(r.section) &&
-          r.indent < 60 &&
-          !/^Total/i.test(r.label),
-      )
-      .map((row) => ({
-        id: row.label,
-        label: row.label.replace(/\d+$/, "").trim(),
-        values: revYears.map((y) => ({
-          year: y,
-          value: (row.amounts?.[String(y)] ?? 0) * RETRENDS_UNIT,
+    paletteFor(
+      data.latestRetrends.rows
+        .filter(
+          (r) =>
+            r.page_title.includes("Revenues by Source and Expenses by Function") &&
+            /^REVENUES/i.test(r.section) &&
+            r.indent < 60 &&
+            !/^Total/i.test(r.label),
+        )
+        .map((row) => ({
+          id: row.label,
+          label: row.label.replace(/\d+$/, "").trim(),
+          values: revYears.map((y) => ({
+            year: y,
+            value: (row.amounts?.[String(y)] ?? 0) * RETRENDS_UNIT,
+          })),
         })),
-      })),
+    ),
+  );
+  const expenseSeries = $derived<Series[]>(
+    paletteFor(
+      data.latestRetrends.rows
+        .filter(
+          (r) =>
+            r.page_title.includes("Revenues by Source and Expenses by Function") &&
+            /^EXPEN/i.test(r.section) &&
+            r.indent < 60 &&
+            !/^Total/i.test(r.label),
+        )
+        .map((row) => ({
+          id: row.label,
+          label: row.label.replace(/\d+$/, "").trim(),
+          values: revYears.map((y) => ({
+            year: y,
+            value: (row.amounts?.[String(y)] ?? 0) * RETRENDS_UNIT,
+          })),
+        })),
+    ),
   );
 
   const campusTotalSegment = $derived([
@@ -127,6 +150,43 @@
   </Hero>
 
   <Container>
+    <Section title="Revenues at system scale" icon="mdi:chart-areaspline">
+      <p class="section-desc">
+        UC system-wide revenues by source, {revYears[0]}–{revYears[revYears.length - 1]},
+        drawn from the most recent Revenue and Expense Trends report.
+      </p>
+      <ChartFrame
+        title="UC system revenues by source"
+        subtitle="Stacked, in billions — hover to inspect"
+      >
+        {#snippet legend()}
+          <Legend items={revenueSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+        {/snippet}
+        <StackedAreaChart series={revenueSeries} />
+      </ChartFrame>
+    </Section>
+
+    <Section title="Expenses at system scale" icon="mdi:chart-areaspline-variant">
+      <p class="section-desc">
+        UC system-wide expenses by function, {revYears[0]}–{revYears[revYears.length - 1]},
+        drawn from the most recent Revenue and Expense Trends report.
+      </p>
+      <ChartFrame
+        title="UC system expenses by function"
+        subtitle="Stacked, in billions — hover to inspect"
+      >
+        {#snippet legend()}
+          <Legend items={expenseSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+        {/snippet}
+        <StackedAreaChart series={expenseSeries} />
+      </ChartFrame>
+      <div class="cta">
+        <Button href="/revenue-expenses" variant="primary" icon="mdi:arrow-right">
+          Revenue and expense trends
+        </Button>
+      </div>
+    </Section>
+
     <Section title="Where the money goes" icon="mdi:chart-tree">
       <p class="section-desc">
         State General Fund allocation to each campus and programme in fiscal year
@@ -143,24 +203,6 @@
       <div class="cta">
         <Button href="/fund-allocations" variant="primary" icon="mdi:arrow-right">
           Explore fund allocations
-        </Button>
-      </div>
-    </Section>
-
-    <Section title="Revenues at system scale" icon="mdi:chart-areaspline">
-      <p class="section-desc">
-        UC system-wide revenues by source, {revYears[0]}–{revYears[revYears.length - 1]},
-        drawn from the most recent Revenue and Expense Trends report.
-      </p>
-      <ChartFrame
-        title="UC system revenues by source"
-        subtitle="Stacked, in billions — hover to inspect"
-      >
-        <StackedAreaChart series={revenueSeries} />
-      </ChartFrame>
-      <div class="cta">
-        <Button href="/revenue-expenses" variant="primary" icon="mdi:arrow-right">
-          Revenue and expense trends
         </Button>
       </div>
     </Section>

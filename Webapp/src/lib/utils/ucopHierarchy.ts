@@ -20,9 +20,15 @@ interface HierarchyOptions {
 }
 
 const TOTAL_RE = /^(grand\s+total|total|subtotal|sub-total|sub total)\b/i;
+// "2025-26 State General Fund Support (Permanent + One-Time)" is the grand total
+// in each report — it sums every other top-level row and must be excluded from
+// hierarchy sums or it doubles the root value.
+const GRAND_TOTAL_RE =
+  /(State General Fund Support.*Permanent.*One.?Time|Permanent.*\+.*One.?Time)/i;
 
 export function isTotalRow(label: string): boolean {
-  return TOTAL_RE.test(label.trim());
+  const t = label.trim();
+  return TOTAL_RE.test(t) || GRAND_TOTAL_RE.test(t);
 }
 
 export function buildAllocationTree(
@@ -136,4 +142,76 @@ export interface AllocationRowSlim {
   label: string;
   indent: number;
   amounts: Partial<Record<AllocationColumn, number>>;
+}
+
+/**
+ * Normalize a category label for year-over-year matching:
+ *   - lower-cased
+ *   - unicode hyphens (U+2010, U+2013, U+2014) collapsed to ASCII "-"
+ *   - trailing footnote digits removed
+ *   - "set-asides" renamed to "earmarks" (UCOP changed terminology in FY23-24)
+ */
+export function normalizeCategoryLabel(label: string): string {
+  return label
+    .replace(/[\u2010\u2011\u2012\u2013\u2014]/g, "-")
+    .replace(/\d+$/, "")
+    .trim()
+    .toLowerCase()
+    .replace(/\bset-asides?\b/g, "earmarks");
+}
+
+/** Canonical top-level categories used for the 10-year trend chart. */
+export const CANONICAL_CATEGORIES = [
+  "Earmarks subject to cost adjustments",
+  "Earmarks not subject to cost adjustments",
+  "Systemwide commitments",
+  "Campus-Specific Allocations (Corridors)",
+  "Funding Provided on Per-Student Basis",
+  "One-Time Allocations",
+] as const;
+
+/**
+ * For a single AllocationReport, sum system_total of every descendant row
+ * beneath each top-level category. Works across years with different indent
+ * scales by using the report's own minimum indent as the top-level threshold.
+ *
+ * Returns a map: canonical category name -> summed system_total.
+ */
+export function categoryTotalsForReport(
+  report: AllocationReport,
+): Record<string, number> {
+  if (report.rows.length === 0) return {};
+  const minIndent = Math.min(...report.rows.map((r) => r.indent));
+  const topThreshold = minIndent + 0.5;
+
+  const result: Record<string, number> = {};
+  for (const c of CANONICAL_CATEGORIES) result[c] = 0;
+
+  const normToCanonical = new Map<string, string>();
+  for (const c of CANONICAL_CATEGORIES) normToCanonical.set(normalizeCategoryLabel(c), c);
+
+  let currentCanonical: string | null = null;
+  let currentTopIndent = Infinity;
+  for (const row of report.rows) {
+    if (row.indent <= topThreshold) {
+      // Candidate top-level row.
+      if (isTotalRow(row.label)) {
+        currentCanonical = null;
+        continue;
+      }
+      const norm = normalizeCategoryLabel(row.label);
+      currentCanonical = normToCanonical.get(norm) ?? null;
+      currentTopIndent = row.indent;
+      continue;
+    }
+    if (!currentCanonical) continue;
+    if (row.indent <= currentTopIndent) {
+      currentCanonical = null;
+      continue;
+    }
+    if (isTotalRow(row.label)) continue;
+    const v = row.amounts?.system_total;
+    if (typeof v === "number") result[currentCanonical] += v;
+  }
+  return result;
 }

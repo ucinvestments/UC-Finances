@@ -57,9 +57,13 @@
   function draw() {
     if (!el || !tip) return;
     d3.select(el).selectAll("*").remove();
-    const containerWidth = el.clientWidth || 800;
-    const m = { ...DEFAULT_MARGIN, bottom: 72 };
-    const w = Math.max(300, containerWidth) - m.left - m.right;
+    const containerWidth = Math.max(280, el.clientWidth || 800);
+    const m = {
+      ...DEFAULT_MARGIN,
+      bottom: 72,
+      left: el.clientWidth < 420 ? 56 : DEFAULT_MARGIN.left,
+    };
+    const w = containerWidth - m.left - m.right;
     const h = height - m.top - m.bottom;
 
     const totalsByCampus = new Map<CampusKey, number>();
@@ -83,8 +87,11 @@
     const svg = d3
       .select(el)
       .append("svg")
-      .attr("width", containerWidth)
-      .attr("height", height);
+      .attr("viewBox", `0 0 ${containerWidth} ${height}`)
+      .attr("preserveAspectRatio", "xMidYMid meet")
+      .style("width", "100%")
+      .style("height", "auto")
+      .style("max-width", "100%");
     const g = svg.append("g").attr("transform", `translate(${m.left},${m.top})`);
 
     const x = d3.scaleBand().domain(orderedCampuses).range([0, w]).padding(0.2);

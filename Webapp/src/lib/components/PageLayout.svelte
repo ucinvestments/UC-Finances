@@ -10,6 +10,8 @@
   .page-layout {
     min-height: 100vh;
     background: var(--bg);
+    overflow-x: clip;
+    max-width: 100vw;
   }
 
   .page-layout.gradient {

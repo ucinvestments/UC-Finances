@@ -46,8 +46,8 @@
   function draw() {
     if (!el || !tip) return;
     d3.select(el).selectAll("*").remove();
-    const containerWidth = el.clientWidth || 800;
-    const w = Math.max(320, containerWidth);
+    const containerWidth = Math.max(280, el.clientWidth || 800);
+    const w = containerWidth;
     const h = height;
     const r = Math.min(w, h) / 2 - 16;
     const innerR = r * 0.58;
@@ -58,8 +58,11 @@
     const svg = d3
       .select(el)
       .append("svg")
-      .attr("width", w)
-      .attr("height", h);
+      .attr("viewBox", `0 0 ${w} ${h}`)
+      .attr("preserveAspectRatio", "xMidYMid meet")
+      .style("width", "100%")
+      .style("height", "auto")
+      .style("max-width", "100%");
     const g = svg.append("g").attr("transform", `translate(${w / 2},${h / 2})`);
 
     const pie = d3.pie<Slice>().value((d) => d.value).sort(null);

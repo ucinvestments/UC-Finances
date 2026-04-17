@@ -54,16 +54,29 @@ export function createTooltip(): Tooltip {
     .style("transition", "opacity 0.15s")
     .style("z-index", "500")
     .style("max-width", "320px");
+  function place(evt: MouseEvent) {
+    const el = node.node() as HTMLDivElement | null;
+    const vw = typeof window !== "undefined" ? window.innerWidth : 1600;
+    const vh = typeof window !== "undefined" ? window.innerHeight : 1200;
+    const rect = el?.getBoundingClientRect();
+    const tw = rect?.width ?? 200;
+    const th = rect?.height ?? 80;
+    // Default: right of cursor, above. Flip if near right/bottom edge.
+    let left = evt.pageX + 14;
+    let top = evt.pageY - 10;
+    if (left + tw > window.scrollX + vw - 8) left = evt.pageX - tw - 14;
+    if (top + th > window.scrollY + vh - 8) top = evt.pageY - th - 14;
+    if (left < window.scrollX + 8) left = window.scrollX + 8;
+    if (top < window.scrollY + 8) top = window.scrollY + 8;
+    node.style("left", left + "px").style("top", top + "px");
+  }
   return {
     show(html, evt) {
-      node
-        .html(html)
-        .style("opacity", "1")
-        .style("left", evt.pageX + 12 + "px")
-        .style("top", evt.pageY - 8 + "px");
+      node.html(html).style("opacity", "1");
+      place(evt);
     },
     move(evt) {
-      node.style("left", evt.pageX + 12 + "px").style("top", evt.pageY - 8 + "px");
+      place(evt);
     },
     hide() {
       node.style("opacity", "0");
@@ -98,6 +111,13 @@ export const CHART_COLORS = [
   "#46535e",
   "#cfdd45",
 ];
+
+export function paletteFor<T extends { id: string }>(items: T[]): Array<T & { color: string }> {
+  return items.map((item, i) => ({
+    ...item,
+    color: CHART_COLORS[i % CHART_COLORS.length],
+  }));
+}
 
 // Rough CPI multipliers to base year 2025 (US all-items CPI-U, annual average)
 // Values only used when the user opts into inflation adjustment.
