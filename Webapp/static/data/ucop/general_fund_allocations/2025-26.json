@@ -1,0 +1,1351 @@
+{
+  "fiscal_year": "2025-26",
+  "title": "2025-26 Summary of State General Fund Allocations",
+  "source_url": "",
+  "source_filename": "2025-26.pdf",
+  "retrieved_at": "2026-04-17T02:54:36+00:00",
+  "columns": [
+    "berkeley",
+    "davis",
+    "irvine",
+    "los_angeles",
+    "merced",
+    "riverside",
+    "san_diego",
+    "san_francisco",
+    "santa_barbara",
+    "santa_cruz",
+    "campus_total",
+    "ucop_to_be_allocated",
+    "capital_debt_service",
+    "off_campus_programs",
+    "system_total"
+  ],
+  "rows": [
+    {
+      "page": 1,
+      "label": "Earmarks subject to cost adjustments",
+      "indent": 41.16,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "Budgeted Levels in 2012-13",
+      "indent": 48.72,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "Agricultural Exp. Stations",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 19299840.0,
+        "davis": 43686497.0,
+        "merced": 1500000.0,
+        "riverside": 23350798.0,
+        "santa_cruz": 2000000.0,
+        "campus_total": 89837135.0,
+        "system_total": 89837135.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Scripps Institute",
+      "indent": 63.84,
+      "amounts": {
+        "san_diego": 22224935.0,
+        "campus_total": 22224935.0,
+        "system_total": 22224935.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "SAPEP",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 1202000.0,
+        "davis": 759000.0,
+        "irvine": 684000.0,
+        "los_angeles": 930000.0,
+        "merced": 714000.0,
+        "riverside": 453000.0,
+        "san_diego": 588000.0,
+        "san_francisco": 239000.0,
+        "santa_barbara": 665000.0,
+        "santa_cruz": 1763000.0,
+        "campus_total": 7997000.0,
+        "system_total": 7997000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Neuropsychiatric Institutes",
+      "indent": 63.84,
+      "amounts": {
+        "los_angeles": 19601173.0,
+        "san_francisco": 8534482.0,
+        "campus_total": 28135655.0,
+        "system_total": 28135655.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Mental Health Teaching Support",
+      "indent": 63.84,
+      "amounts": {
+        "los_angeles": 10106955.0,
+        "san_francisco": 1550000.0,
+        "campus_total": 11656955.0,
+        "system_total": 11656955.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "MIND",
+      "indent": 63.84,
+      "amounts": {
+        "davis": 3232758.0,
+        "campus_total": 3232758.0,
+        "system_total": 3232758.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "California Digital Library",
+      "indent": 63.84,
+      "amounts": {
+        "ucop_to_be_allocated": 15307086.0,
+        "system_total": 15307086.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Cost-Adjustments 2013-14 to 2025-26",
+      "indent": 48.72,
+      "amounts": {
+        "berkeley": 13116380.0,
+        "davis": 30465408.0,
+        "irvine": 449464.0,
+        "los_angeles": 19585272.0,
+        "merced": 503899.0,
+        "riverside": 15211494.0,
+        "san_diego": 14581131.0,
+        "san_francisco": 6597865.0,
+        "santa_barbara": 436976.0,
+        "santa_cruz": 1204783.0,
+        "campus_total": 102152672.0,
+        "ucop_to_be_allocated": 371383.0,
+        "system_total": 102524055.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Subtotal -- earmarks subject to cost adjustment",
+      "indent": 48.72,
+      "amounts": {
+        "berkeley": 33618220.0,
+        "davis": 78143663.0,
+        "irvine": 1133464.0,
+        "los_angeles": 50223400.0,
+        "merced": 2717899.0,
+        "riverside": 39015292.0,
+        "san_diego": 37394066.0,
+        "san_francisco": 16921347.0,
+        "santa_barbara": 1101976.0,
+        "santa_cruz": 4967783.0,
+        "campus_total": 265237110.0,
+        "ucop_to_be_allocated": 15678469.0,
+        "system_total": 280915579.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Earmarks not subject to cost adjustments",
+      "indent": 41.16,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "Research",
+      "indent": 48.72,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "AIDS Research",
+      "indent": 63.84,
+      "amounts": {
+        "ucop_to_be_allocated": 8753000.0,
+        "system_total": 8753000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "San Diego Supercomputer Ctr.",
+      "indent": 63.84,
+      "amounts": {
+        "san_diego": 2550000.0,
+        "campus_total": 2550000.0,
+        "system_total": 2550000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Cal-ISIs",
+      "indent": 63.84,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "CITRIS",
+      "indent": 78.96,
+      "amounts": {
+        "berkeley": 1200000.0,
+        "campus_total": 1200000.0,
+        "system_total": 1200000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "QB3",
+      "indent": 78.96,
+      "amounts": {
+        "berkeley": 1140000.0,
+        "santa_cruz": 60000.0,
+        "campus_total": 1200000.0,
+        "system_total": 1200000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Cal IT2",
+      "indent": 78.96,
+      "amounts": {
+        "irvine": 360000.0,
+        "san_diego": 840000.0,
+        "campus_total": 1200000.0,
+        "system_total": 1200000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "CNSI",
+      "indent": 78.96,
+      "amounts": {
+        "los_angeles": 600000.0,
+        "santa_barbara": 600000.0,
+        "campus_total": 1200000.0,
+        "system_total": 1200000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Labor Centers",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 6000000.0,
+        "davis": 500000.0,
+        "irvine": 500000.0,
+        "los_angeles": 6000000.0,
+        "merced": 3000000.0,
+        "riverside": 500000.0,
+        "san_diego": 500000.0,
+        "santa_barbara": 500000.0,
+        "santa_cruz": 500000.0,
+        "campus_total": 18000000.0,
+        "system_total": 18000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Labor Occupational Safety & Health Programs",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 500000.0,
+        "los_angeles": 500000.0,
+        "campus_total": 1000000.0,
+        "system_total": 1000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Inst. On Global Conflict and Cooperation",
+      "indent": 63.84,
+      "amounts": {
+        "san_diego": 1000000.0,
+        "campus_total": 1000000.0,
+        "system_total": 1000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "California Veterinary Emergency Team",
+      "indent": 63.84,
+      "amounts": {
+        "davis": 3000000.0,
+        "campus_total": 3000000.0,
+        "system_total": 3000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "UCLA Latino Policy and Politics Center",
+      "indent": 63.84,
+      "amounts": {
+        "los_angeles": 3000000.0,
+        "campus_total": 3000000.0,
+        "system_total": 3000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Firearms Violence Research",
+      "indent": 63.84,
+      "amounts": {
+        "davis": 3000000.0,
+        "campus_total": 3000000.0,
+        "system_total": 3000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "California Vectorborne Disease Surveillance Gateway",
+      "indent": 63.84,
+      "amounts": {
+        "davis": 1000000.0,
+        "campus_total": 1000000.0,
+        "system_total": 1000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "UCLA Anderson Climate Impacts",
+      "indent": 63.84,
+      "amounts": {
+        "los_angeles": 75000.0,
+        "campus_total": 75000.0,
+        "system_total": 75000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "UCLA Ralph J. Bunche Center",
+      "indent": 63.84,
+      "amounts": {
+        "los_angeles": 3000000.0,
+        "campus_total": 3000000.0,
+        "system_total": 3000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "California Newspaper Projects",
+      "indent": 63.84,
+      "amounts": {
+        "riverside": 430000.0,
+        "campus_total": 430000.0,
+        "system_total": 430000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Public Service",
+      "indent": 48.72,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "Agriculture & Natural Resources (ANR)",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 0.0,
+        "davis": 0.0,
+        "irvine": 0.0,
+        "los_angeles": 0.0,
+        "merced": 0.0,
+        "riverside": 0.0,
+        "san_diego": 0.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 0.0,
+        "santa_cruz": 0.0,
+        "ucop_to_be_allocated": 119779000.0,
+        "system_total": 119779000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "California Subject Matter Project",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 0.0,
+        "davis": 0.0,
+        "irvine": 0.0,
+        "los_angeles": 0.0,
+        "merced": 0.0,
+        "riverside": 0.0,
+        "san_diego": 0.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 0.0,
+        "santa_cruz": 0.0,
+        "ucop_to_be_allocated": 5000000.0,
+        "system_total": 5000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Drew Medical School",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 0.0,
+        "davis": 0.0,
+        "irvine": 0.0,
+        "los_angeles": 8776000.0,
+        "merced": 0.0,
+        "riverside": 0.0,
+        "san_diego": 0.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 0.0,
+        "santa_cruz": 0.0,
+        "campus_total": 8776000.0,
+        "system_total": 8776000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Statewide Database",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 1500000.0,
+        "campus_total": 1500000.0,
+        "system_total": 1500000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Alianza UCMX",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 0.0,
+        "davis": 0.0,
+        "irvine": 0.0,
+        "los_angeles": 0.0,
+        "merced": 0.0,
+        "riverside": 4302734.0,
+        "san_diego": 0.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 0.0,
+        "santa_cruz": 0.0,
+        "campus_total": 4302734.0,
+        "system_total": 4302734.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Hayes Bautista",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 0.0,
+        "davis": 0.0,
+        "irvine": 0.0,
+        "los_angeles": 556602.0,
+        "merced": 0.0,
+        "riverside": 0.0,
+        "san_diego": 0.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 0.0,
+        "santa_cruz": 0.0,
+        "campus_total": 556602.0,
+        "system_total": 556602.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Mathematics Diagnostic Testing Project",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 0.0,
+        "davis": 0.0,
+        "irvine": 0.0,
+        "merced": 0.0,
+        "riverside": 0.0,
+        "san_diego": 59082.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 0.0,
+        "santa_cruz": 0.0,
+        "campus_total": 59082.0,
+        "system_total": 59082.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "SAPEP",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 2145000.0,
+        "davis": 1750430.0,
+        "irvine": 1662880.0,
+        "los_angeles": 1922490.0,
+        "merced": 1152630.0,
+        "riverside": 1551670.0,
+        "san_diego": 1347180.0,
+        "san_francisco": 1109340.0,
+        "santa_barbara": 1518240.0,
+        "santa_cruz": 1968140.0,
+        "campus_total": 16128000.0,
+        "ucop_to_be_allocated": 8372000.0,
+        "system_total": 24500000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Immigrant Legal Services",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 0.0,
+        "davis": 1823000.0,
+        "irvine": 0.0,
+        "los_angeles": 0.0,
+        "merced": 0.0,
+        "riverside": 0.0,
+        "san_diego": 0.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 0.0,
+        "santa_cruz": 0.0,
+        "campus_total": 1823000.0,
+        "system_total": 1823000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Financial Aid / Basic Needs",
+      "indent": 48.72,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "University Student Aid Program (USAP)",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 13330000.0,
+        "irvine": 542000.0,
+        "merced": 12841000.0,
+        "riverside": 12872000.0,
+        "san_diego": 7493000.0,
+        "santa_barbara": 5822000.0,
+        "santa_cruz": 11450000.0,
+        "campus_total": 64350000.0,
+        "system_total": 64350000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Dream Loan Program",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 116000.0,
+        "davis": 365000.0,
+        "irvine": 293000.0,
+        "los_angeles": 212000.0,
+        "merced": 264000.0,
+        "riverside": 509000.0,
+        "san_diego": 253000.0,
+        "san_francisco": 20000.0,
+        "santa_barbara": 259000.0,
+        "santa_cruz": 209000.0,
+        "campus_total": 2500000.0,
+        "system_total": 2500000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Student Basic Needs",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 1589000.0,
+        "davis": 1675000.0,
+        "irvine": 1641000.0,
+        "los_angeles": 1540000.0,
+        "merced": 944000.0,
+        "riverside": 1422000.0,
+        "san_diego": 1596000.0,
+        "san_francisco": 685000.0,
+        "santa_barbara": 1446000.0,
+        "santa_cruz": 2759000.0,
+        "campus_total": 15297000.0,
+        "ucop_to_be_allocated": 450000.0,
+        "off_campus_programs": 53000.0,
+        "system_total": 15800000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Student Rapid Rehousing",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 499000.0,
+        "davis": 374000.0,
+        "irvine": 420000.0,
+        "los_angeles": 429000.0,
+        "merced": 215000.0,
+        "riverside": 325000.0,
+        "san_diego": 429000.0,
+        "san_francisco": 178000.0,
+        "santa_barbara": 439000.0,
+        "santa_cruz": 392000.0,
+        "campus_total": 3700000.0,
+        "system_total": 3700000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Student Mental Health Programs",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 2610000.0,
+        "davis": 2606000.0,
+        "irvine": 2539000.0,
+        "los_angeles": 2758000.0,
+        "merced": 1258000.0,
+        "riverside": 2221000.0,
+        "san_diego": 2507000.0,
+        "san_francisco": 642000.0,
+        "santa_barbara": 2015000.0,
+        "santa_cruz": 1644000.0,
+        "campus_total": 20800000.0,
+        "ucop_to_be_allocated": 450000.0,
+        "off_campus_programs": 50000.0,
+        "system_total": 21300000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Summer Financial Aid",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 391000.0,
+        "davis": 500000.0,
+        "irvine": 585000.0,
+        "los_angeles": 480000.0,
+        "merced": 285000.0,
+        "riverside": 595000.0,
+        "san_diego": 482000.0,
+        "santa_barbara": 401000.0,
+        "santa_cruz": 281000.0,
+        "campus_total": 4000000.0,
+        "system_total": 4000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Support for Former Foster Youth Students",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 651000.0,
+        "davis": 708000.0,
+        "irvine": 566000.0,
+        "los_angeles": 854000.0,
+        "merced": 485000.0,
+        "riverside": 734000.0,
+        "san_diego": 666000.0,
+        "san_francisco": 250000.0,
+        "santa_barbara": 590000.0,
+        "santa_cruz": 496000.0,
+        "campus_total": 6000000.0,
+        "system_total": 6000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Carceral System Impacted",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 492000.0,
+        "davis": 490000.0,
+        "irvine": 474000.0,
+        "los_angeles": 494000.0,
+        "merced": 313000.0,
+        "riverside": 424000.0,
+        "san_diego": 502000.0,
+        "santa_barbara": 425000.0,
+        "santa_cruz": 386000.0,
+        "campus_total": 4000000.0,
+        "system_total": 4000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Undocumented Student Services",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 535000.0,
+        "davis": 623000.0,
+        "irvine": 560000.0,
+        "los_angeles": 547000.0,
+        "merced": 592000.0,
+        "riverside": 594000.0,
+        "san_diego": 410000.0,
+        "san_francisco": 266000.0,
+        "santa_barbara": 453000.0,
+        "santa_cruz": 420000.0,
+        "campus_total": 5000000.0,
+        "system_total": 5000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Support for Students with Disabilities",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 150000.0,
+        "davis": 150000.0,
+        "irvine": 150000.0,
+        "los_angeles": 150000.0,
+        "merced": 150000.0,
+        "riverside": 150000.0,
+        "san_diego": 150000.0,
+        "san_francisco": 150000.0,
+        "santa_barbara": 150000.0,
+        "santa_cruz": 150000.0,
+        "campus_total": 1500000.0,
+        "system_total": 1500000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "UC Health",
+      "indent": 48.72,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "Riverside School of Medicine",
+      "indent": 63.84,
+      "amounts": {
+        "riverside": 42000000.0,
+        "campus_total": 42000000.0,
+        "system_total": 42000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "UCSF-Fresno Branch Campus",
+      "indent": 63.84,
+      "amounts": {
+        "san_francisco": 15000000.0,
+        "campus_total": 15000000.0,
+        "system_total": 15000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Other Earmarks -- Not Cost Adjusted",
+      "indent": 48.72,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "Online Education",
+      "indent": 63.84,
+      "amounts": {
+        "ucop_to_be_allocated": 8151659.0,
+        "system_total": 8151659.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Common Learning Management System",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 142000.0,
+        "davis": 139000.0,
+        "irvine": 121000.0,
+        "los_angeles": 142000.0,
+        "merced": 36000.0,
+        "riverside": 97000.0,
+        "san_diego": 147000.0,
+        "santa_barbara": 99000.0,
+        "santa_cruz": 77000.0,
+        "campus_total": 1000000.0,
+        "system_total": 1000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Off-Campus Programs",
+      "indent": 63.84,
+      "amounts": {}
+    },
+    {
+      "page": 1,
+      "label": "Education Abroad Program",
+      "indent": 78.96,
+      "amounts": {
+        "santa_barbara": 203000.0,
+        "campus_total": 203000.0,
+        "system_total": 203000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "UCDC",
+      "indent": 78.96,
+      "amounts": {
+        "off_campus_programs": 60000.0,
+        "system_total": 60000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "UC Sacramento",
+      "indent": 78.96,
+      "amounts": {
+        "davis": 636703.0,
+        "campus_total": 636703.0,
+        "off_campus_programs": 4000.0,
+        "system_total": 640703.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "President's Postdoctoral Fellowship Program (PPFP)",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 862941.0,
+        "campus_total": 862941.0,
+        "system_total": 862941.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Summer Institute for Emerging Leaders",
+      "indent": 63.84,
+      "amounts": {
+        "ucop_to_be_allocated": 300000.0,
+        "system_total": 300000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Additional Faculty Diversity Initiatives",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 2000000.0,
+        "campus_total": 2000000.0,
+        "ucop_to_be_allocated": 5131000.0,
+        "system_total": 7131000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Faculty Hiring Incentive Program (FHIP)",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 935000.0,
+        "davis": 1190000.0,
+        "irvine": 2380000.0,
+        "los_angeles": 1870000.0,
+        "merced": 595000.0,
+        "riverside": 1955000.0,
+        "san_diego": 765000.0,
+        "san_francisco": 255000.0,
+        "santa_barbara": 2465000.0,
+        "santa_cruz": 1615000.0,
+        "campus_total": 14025000.0,
+        "system_total": 14025000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Funding to Improve Graduation Rates",
+      "indent": 63.84,
+      "amounts": {
+        "merced": 1600000.0,
+        "riverside": 1600000.0,
+        "santa_barbara": 1600000.0,
+        "santa_cruz": 1600000.0,
+        "campus_total": 6400000.0,
+        "system_total": 6400000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Additional Funding for Unweighted Budgeted Enrollment",
+      "indent": 63.84,
+      "amounts": {
+        "riverside": 22945794.0,
+        "santa_barbara": 15938170.0,
+        "santa_cruz": 17715081.0,
+        "campus_total": 56599044.0,
+        "system_total": 56599044.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Reduction of Nonresidents at BK, LA, SD",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 20351900.0,
+        "los_angeles": 19561900.0,
+        "san_diego": 21507346.0,
+        "campus_total": 61421146.0,
+        "system_total": 61421146.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "AICCU ASSIST",
+      "indent": 63.84,
+      "amounts": {
+        "ucop_to_be_allocated": 650000.0,
+        "system_total": 650000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Cradle-to-career",
+      "indent": 63.84,
+      "amounts": {
+        "ucop_to_be_allocated": 150000.0,
+        "system_total": 150000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Prop",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 56.0,
+        "ucop_to_be_allocated": 338000.0,
+        "system_total": 338000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Fixed Cost Earmark",
+      "indent": 63.84,
+      "amounts": {
+        "berkeley": 15000000.0,
+        "davis": 15000000.0,
+        "irvine": 15000000.0,
+        "los_angeles": 15000000.0,
+        "riverside": 15000000.0,
+        "san_diego": 15000000.0,
+        "santa_barbara": 15000000.0,
+        "santa_cruz": 15000000.0,
+        "campus_total": 120000000.0,
+        "system_total": 120000000.0
+      }
+    },
+    {
+      "page": 1,
+      "label": "Subtotal -- earmarks not subject to cost adjustment",
+      "indent": 48.72,
+      "amounts": {
+        "berkeley": 72139841.0,
+        "davis": 35530133.0,
+        "irvine": 27793880.0,
+        "los_angeles": 68467992.0,
+        "merced": 23730630.0,
+        "riverside": 110228198.0,
+        "san_diego": 58203608.0,
+        "san_francisco": 18555340.0,
+        "santa_barbara": 49923410.0,
+        "santa_cruz": 56722221.0,
+        "campus_total": 521295252.0,
+        "ucop_to_be_allocated": 157524659.0,
+        "off_campus_programs": 167000.0,
+        "system_total": 678986911.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Systemwide commitments",
+      "indent": 41.16,
+      "amounts": {}
+    },
+    {
+      "page": 2,
+      "label": "General Obligation Bonds",
+      "indent": 48.72,
+      "amounts": {
+        "capital_debt_service": 200385000.0,
+        "system_total": 200385000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Lease Revenue Bonds",
+      "indent": 48.72,
+      "amounts": {
+        "capital_debt_service": 221399000.0,
+        "system_total": 221399000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Capital Program1",
+      "indent": 46.43,
+      "amounts": {
+        "capital_debt_service": 228901000.0,
+        "system_total": 228901000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Campus-Specific Allocations (Corridors)",
+      "indent": 41.16,
+      "amounts": {}
+    },
+    {
+      "page": 2,
+      "label": "Merced",
+      "indent": 48.72,
+      "amounts": {
+        "merced": 168483100.0,
+        "campus_total": 168483100.0,
+        "system_total": 168483100.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "San Francisco",
+      "indent": 48.72,
+      "amounts": {
+        "san_francisco": 218786793.0,
+        "campus_total": 218786793.0,
+        "system_total": 218786793.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Funding Provided on Per-Student Basis",
+      "indent": 41.16,
+      "amounts": {}
+    },
+    {
+      "page": 2,
+      "label": "Funding Provided",
+      "indent": 48.72,
+      "amounts": {
+        "berkeley": 419017153.0,
+        "davis": 407957903.0,
+        "irvine": 367712122.0,
+        "los_angeles": 516113970.0,
+        "merced": 12935560.0,
+        "riverside": 263702132.0,
+        "san_diego": 419799381.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 240718215.0,
+        "santa_cruz": 212408180.0,
+        "campus_total": 2860364617.0,
+        "system_total": 2860364617.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Less Lottery Funds for Enrollment",
+      "indent": 56.28,
+      "amounts": {
+        "berkeley": 935000.0,
+        "campus_total": 935000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Less Local Redirect for Enrollment",
+      "indent": 56.28,
+      "amounts": {
+        "berkeley": 110000.0,
+        "davis": 43000.0,
+        "irvine": 240000.0,
+        "los_angeles": 328000.0,
+        "merced": 0.0,
+        "riverside": 765000.0,
+        "san_diego": 795000.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 188000.0,
+        "santa_cruz": 531000.0,
+        "campus_total": 3000000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Net State Funds for Enrollment",
+      "indent": 48.72,
+      "amounts": {
+        "berkeley": 417972153.0,
+        "davis": 407914903.0,
+        "irvine": 367472122.0,
+        "los_angeles": 515785970.0,
+        "merced": 12935560.0,
+        "riverside": 262937132.0,
+        "san_diego": 419004381.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 240530215.0,
+        "santa_cruz": 211877180.0,
+        "campus_total": 2856429617.0,
+        "system_total": 2856429617.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Weighted Enrollment for Allocations",
+      "indent": 48.73,
+      "amounts": {
+        "berkeley": 46905.0,
+        "davis": 45667.0,
+        "irvine": 41162.0,
+        "los_angeles": 57774.0,
+        "merced": 1448.0,
+        "riverside": 29519.0,
+        "san_diego": 46993.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 26947.0,
+        "santa_cruz": 23776.0,
+        "campus_total": 320191.0,
+        "system_total": 320191.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "",
+      "indent": 48.73,
+      "amounts": {
+        "berkeley": 8933.0,
+        "davis": 8933.0,
+        "irvine": 8933.0,
+        "los_angeles": 8933.0,
+        "merced": 8933.0,
+        "riverside": 8933.0,
+        "san_diego": 8933.0,
+        "san_francisco": 0.0,
+        "santa_barbara": 8933.0,
+        "santa_cruz": 8934.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Total Permanent State General Funds",
+      "indent": 41.16,
+      "amounts": {
+        "berkeley": 523730214.0,
+        "davis": 521588699.0,
+        "irvine": 396399466.0,
+        "los_angeles": 634477362.0,
+        "merced": 207867189.0,
+        "riverside": 412180622.0,
+        "san_diego": 514602055.0,
+        "san_francisco": 254263480.0,
+        "santa_barbara": 291555601.0,
+        "santa_cruz": 273567184.0,
+        "campus_total": 4030231872.0,
+        "ucop_to_be_allocated": 173203128.0,
+        "capital_debt_service": 650685000.0,
+        "off_campus_programs": 167000.0,
+        "system_total": 4854287000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "One-Time Allocations",
+      "indent": 41.16,
+      "amounts": {}
+    },
+    {
+      "page": 2,
+      "label": "Journalism Fellowship Program at UC Berkeley",
+      "indent": 58.08,
+      "amounts": {
+        "berkeley": 15000000.0,
+        "campus_total": 15000000.0,
+        "system_total": 15000000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Cal Bridge Initiative (housed at Irvine)",
+      "indent": 58.08,
+      "amounts": {
+        "irvine": 5000000.0,
+        "campus_total": 5000000.0,
+        "system_total": 5000000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Nutrition Policy Institute (ANR)",
+      "indent": 58.08,
+      "amounts": {
+        "ucop_to_be_allocated": 1300000.0,
+        "system_total": 1300000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "South San Diego Public Health BA Program",
+      "indent": 58.08,
+      "amounts": {
+        "san_diego": 5000000.0,
+        "campus_total": 5000000.0,
+        "system_total": 5000000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Campus Climate and Antidiscrimination Efforts",
+      "indent": 58.08,
+      "amounts": {
+        "ucop_to_be_allocated": 3600000.0,
+        "system_total": 3600000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Menopause Programs",
+      "indent": 58.08,
+      "amounts": {
+        "davis": 500000.0,
+        "irvine": 500000.0,
+        "los_angeles": 500000.0,
+        "riverside": 500000.0,
+        "san_diego": 500000.0,
+        "san_francisco": 500000.0,
+        "campus_total": 3000000.0,
+        "system_total": 3000000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "UCSD ALERT California Program",
+      "indent": 58.08,
+      "amounts": {
+        "san_diego": 2500000.0,
+        "campus_total": 2500000.0,
+        "system_total": 2500000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "DDS ASPIRE PRIME Program (UCSF)",
+      "indent": 58.08,
+      "amounts": {
+        "san_francisco": 1800000.0,
+        "campus_total": 1800000.0,
+        "system_total": 1800000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "First Star Program (UCLA and at least one additional TBD cohort)",
+      "indent": 58.08,
+      "amounts": {
+        "los_angeles": 600000.0,
+        "campus_total": 600000.0,
+        "ucop_to_be_allocated": 1200000.0,
+        "system_total": 1800000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "UCLA Social Media Research",
+      "indent": 58.08,
+      "amounts": {
+        "los_angeles": 750000.0,
+        "campus_total": 750000.0,
+        "system_total": 750000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "UC Davis Firearm Violence Research Center",
+      "indent": 58.08,
+      "amounts": {
+        "davis": 1000000.0,
+        "campus_total": 1000000.0,
+        "system_total": 1000000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "PRIME Central Coast (at Davis, in collaboration with UCSC)",
+      "indent": 58.08,
+      "amounts": {
+        "santa_cruz": 1500000.0,
+        "campus_total": 1500000.0,
+        "system_total": 1500000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "UCLA Center for Reproductive Health, Law, and Policy",
+      "indent": 58.08,
+      "amounts": {
+        "los_angeles": 1000000.0,
+        "campus_total": 1000000.0,
+        "system_total": 1000000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "City of Chula Vista (to establish the South County Higher Education Planning Task Force)",
+      "indent": 58.08,
+      "amounts": {
+        "san_diego": 250000.0,
+        "campus_total": 250000.0,
+        "system_total": 250000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "Total One-Time Allocations",
+      "indent": 41.16,
+      "amounts": {
+        "berkeley": 15250000.0,
+        "davis": 1750000.0,
+        "irvine": 5750000.0,
+        "los_angeles": 3100000.0,
+        "merced": 0.0,
+        "riverside": 500000.0,
+        "san_diego": 8250000.0,
+        "san_francisco": 2300000.0,
+        "santa_barbara": 0.0,
+        "santa_cruz": 1500000.0,
+        "campus_total": 38400000.0,
+        "ucop_to_be_allocated": 9600000.0,
+        "capital_debt_service": 0.0,
+        "off_campus_programs": 0.0,
+        "system_total": 48000000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "2025-26 State General Fund Support (Permanent + One-Time)",
+      "indent": 41.16,
+      "amounts": {
+        "berkeley": 538980214.0,
+        "davis": 523338699.0,
+        "irvine": 402149466.0,
+        "los_angeles": 637577362.0,
+        "merced": 207867189.0,
+        "riverside": 412680622.0,
+        "san_diego": 522852055.0,
+        "san_francisco": 256563480.0,
+        "santa_barbara": 291555601.0,
+        "santa_cruz": 275067184.0,
+        "campus_total": 4068631872.0,
+        "ucop_to_be_allocated": 182803128.0,
+        "capital_debt_service": 650685000.0,
+        "off_campus_programs": 167000.0,
+        "system_total": 4902287000.0
+      }
+    },
+    {
+      "page": 2,
+      "label": "1The University's capital program includes $124.9 million for the AB",
+      "indent": 41.16,
+      "amounts": {
+        "berkeley": 94.0
+      }
+    }
+  ]
+}

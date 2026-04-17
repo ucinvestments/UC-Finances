@@ -9,6 +9,16 @@
 
   const navLinks = [
     { href: "/", label: "Explorer", icon: "mdi:home" },
+    {
+      href: "/fund-allocations",
+      label: "Fund Allocations",
+      icon: "mdi:file-tree",
+    },
+    {
+      href: "/revenue-expenses",
+      label: "Revenue & Expenses",
+      icon: "mdi:chart-areaspline",
+    },
     { href: "/about", label: "About", icon: "mdi:information" },
     {
       href: "https://github.com/ucinvestments/UC-Finances",
