@@ -2,21 +2,57 @@
   import Icon from "@iconify/svelte";
   import { page } from "$app/stores";
 
-  export let appName: string = "UC Data";
-  export let logoIcon: string = "mdi:chart-donut";
-  export let links: Array<{href: string, label: string, icon: string, external?: boolean}> = [];
+  interface NavLink {
+    href: string;
+    label: string;
+    icon: string;
+    external?: boolean;
+  }
+
+  let {
+    appName = "UC Data",
+    logoIcon = "mdi:chart-donut",
+    subtitle = "",
+    links = [] as NavLink[],
+  }: {
+    appName?: string;
+    logoIcon?: string;
+    subtitle?: string;
+    links?: NavLink[];
+  } = $props();
+
+  let mobileOpen = $state(false);
+
+  $effect(() => {
+    if ($page.url) mobileOpen = false;
+  });
+
+  function toggle() {
+    mobileOpen = !mobileOpen;
+  }
+
+  function close() {
+    mobileOpen = false;
+  }
 </script>
 
 <nav class="navbar">
   <div class="nav-container">
-    <a href="/" class="logo-link">
+    <a href="/" class="logo-link" onclick={close}>
       <div class="logo">
         <Icon icon={logoIcon} class="logo-icon" />
-        <span class="logo-text">{appName}</span>
+        <span class="logo-text">
+          <strong>{appName}</strong>
+          {#if subtitle}<small class="small-subtitle">{subtitle}</small>{/if}
+        </span>
       </div>
     </a>
 
-    <div class="nav-links">
+    <button class="burger-btn" onclick={toggle} aria-label="Toggle menu">
+      <Icon icon={mobileOpen ? "mdi:close" : "mdi:menu"} class="burger-icon" />
+    </button>
+
+    <div class="nav-links" class:mobile-open={mobileOpen}>
       {#each links as link}
         <a
           href={link.href}
@@ -25,6 +61,7 @@
           class:external={link.external}
           target={link.external ? "_blank" : undefined}
           rel={link.external ? "noopener noreferrer" : undefined}
+          onclick={close}
         >
           <Icon icon={link.icon} class="nav-icon" />
           {link.label}
@@ -44,6 +81,7 @@
     z-index: 100;
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     border-bottom: 1px solid var(--border);
     box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
   }
@@ -51,7 +89,7 @@
   .nav-container {
     max-width: 1400px;
     margin: 0 auto;
-    padding: 1rem 2rem;
+    padding: 0.5rem 2rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -80,9 +118,14 @@
   .logo-text {
     font-family: "Space Grotesk", sans-serif;
     font-size: 1.25rem;
-    font-weight: 700;
+    font-weight: 900;
     color: var(--pri);
     letter-spacing: -0.01em;
+  }
+
+  .small-subtitle {
+    font-weight: 400;
+    font-size: 0.9rem;
   }
 
   .nav-links {
@@ -95,7 +138,7 @@
     display: flex;
     align-items: center;
     gap: 0.375rem;
-    padding: 0.625rem 1.25rem;
+    padding: 0.5rem 1rem;
     color: var(--text-secondary);
     text-decoration: none;
     font-weight: 500;
@@ -128,21 +171,61 @@
     margin-left: -0.125rem;
   }
 
+  .burger-btn {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    transition: background 0.2s ease;
+  }
+
+  .burger-btn:hover {
+    background: var(--bg-secondary);
+  }
+
+  :global(.burger-icon) {
+    font-size: 1.5rem;
+    color: var(--pri);
+  }
+
   @media (max-width: 768px) {
-    .nav-container {
-      flex-direction: column;
-      gap: 1rem;
-      padding: 1rem;
+    .burger-btn {
+      display: block;
     }
 
     .nav-links {
-      width: 100%;
-      justify-content: center;
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: rgba(255, 255, 255, 0.98);
+      backdrop-filter: blur(20px);
+      flex-direction: column;
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid var(--border);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      z-index: 99;
+    }
+
+    .nav-links.mobile-open {
+      display: flex;
+    }
+
+    .nav-container {
+      position: relative;
+      flex-direction: row;
+      padding: 0.75rem 1rem;
     }
 
     .nav-link {
-      padding: 0.5rem 1rem;
-      font-size: 0.875rem;
+      padding: 0.75rem 1rem;
+      font-size: 0.925rem;
+      width: 100%;
+      justify-content: flex-start;
+      border-radius: 0.5rem;
     }
 
     :global(.nav-icon) {
@@ -151,18 +234,6 @@
 
     .logo-text {
       font-size: 1.125rem;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .nav-links {
-      flex-direction: column;
-      width: 100%;
-    }
-
-    .nav-link {
-      width: 100%;
-      justify-content: center;
     }
   }
 </style>

@@ -1,0 +1,80 @@
+/* Design Tokens - UC Berkeley Color System */
+/* Portable CSS variables for consistent theming */
+
+:root {
+  /* Primary Colors */
+  --bg: #ffffff;
+  --bg-secondary: #f8fafc;
+  --pri: #003262; /* Berkeley Blue */
+  --sec: #fdb515; /* California Gold */
+
+  /* UC Berkeley Extended Palette */
+  --founder: #3b7ea1; /* Founder's Rock */
+  --medalist: #c4820e; /* Medalist */
+  --wellman: #d9661f; /* Wellman Tile */
+  --bay-fog: #ddd5c7; /* Bay Fog */
+  --sather-gate: #b9d3b6; /* Sather Gate */
+  --rose-garden: #ee1f60; /* Rose Garden */
+  --lawrence: #00b0da; /* Lawrence */
+  --ion: #cfdd45; /* Ion */
+  --golden-gate: #ed4e33; /* Golden Gate */
+  --lap-lane: #00a598; /* Lap Lane */
+  --soybean: #859438; /* Soybean */
+  --south-hall: #6c3302; /* South Hall */
+  --pacific: #46535e; /* Pacific */
+  --stone-pine: #584f29; /* Stone Pine */
+
+  /* System Colors */
+  --black: #000000;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --border: #e2e8f0;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg:
+    0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+
+  /* Spacing Scale */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 4rem;
+
+  /* Border Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+  --radius-full: 9999px;
+
+  /* Font Sizes */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+
+  /* Font Weights */
+  --font-light: 300;
+  --font-normal: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+
+  /* Z-Index Scale */
+  --z-base: 0;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-overlay: 300;
+  --z-modal: 400;
+  --z-tooltip: 500;
+}

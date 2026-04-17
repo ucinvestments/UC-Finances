@@ -1,0 +1,237 @@
+{
+  "retrieved_at": "2026-04-17T03:16:18+00:00",
+  "base_url": "https://reportingtransparency.universityofcalifornia.edu",
+  "documents": [
+    {
+      "series": "debtcapital",
+      "year_key": "2008",
+      "label": "Annual Debt Capital Report 2008",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2008.pdf",
+      "filename": "2008.pdf"
+    },
+    {
+      "series": "debtcapital",
+      "year_key": "2009",
+      "label": "Annual Debt Capital Report 2009",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2009.pdf",
+      "filename": "2009.pdf"
+    },
+    {
+      "series": "debtcapital",
+      "year_key": "2010",
+      "label": "Annual Debt Capital Report 2010",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2010.pdf",
+      "filename": "2010.pdf"
+    },
+    {
+      "series": "debtcapital",
+      "year_key": "2011",
+      "label": "Annual Debt Capital Report 2011",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2011.pdf",
+      "filename": "2011.pdf"
+    },
+    {
+      "series": "debtcapital",
+      "year_key": "2012",
+      "label": "Annual Debt Capital Report 2012",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2012.pdf",
+      "filename": "2012.pdf"
+    },
+    {
+      "series": "debtcapital",
+      "year_key": "2013",
+      "label": "Annual Debt Capital Report 2013",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2013.pdf",
+      "filename": "2013.pdf"
+    },
+    {
+      "series": "debtcapital",
+      "year_key": "2014",
+      "label": "Annual Debt Capital Report 2014",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2014.pdf",
+      "filename": "2014.pdf"
+    },
+    {
+      "series": "debtcapital",
+      "year_key": "2015",
+      "label": "Annual Debt Capital Report 2015",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2015.pdf",
+      "filename": "2015.pdf"
+    },
+    {
+      "series": "debtcapital",
+      "year_key": "2016",
+      "label": "Annual Debt Capital Report 2016",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2016.pdf",
+      "filename": "2016.pdf"
+    },
+    {
+      "series": "debtcapital",
+      "year_key": "2017",
+      "label": "Annual Debt Capital Report 2017",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/debtcapital/debtcapital_2017.pdf",
+      "filename": "2017.pdf"
+    },
+    {
+      "series": "endowment",
+      "year_key": "06",
+      "label": "Endowment Report 06",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/endowment/endowment_06.pdf",
+      "filename": "06.pdf"
+    },
+    {
+      "series": "endowment",
+      "year_key": "07",
+      "label": "Endowment Report 07",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/endowment/endowment_07.pdf",
+      "filename": "07.pdf"
+    },
+    {
+      "series": "endowment",
+      "year_key": "08",
+      "label": "Endowment Report 08",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/endowment/endowment_08.pdf",
+      "filename": "08.pdf"
+    },
+    {
+      "series": "endowment",
+      "year_key": "09",
+      "label": "Endowment Report 09",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/endowment/endowment_09.pdf",
+      "filename": "09.pdf"
+    },
+    {
+      "series": "endowment",
+      "year_key": "10",
+      "label": "Endowment Report 10",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/endowment/endowment_10.pdf",
+      "filename": "10.pdf"
+    },
+    {
+      "series": "endowment",
+      "year_key": "11",
+      "label": "Endowment Report 11",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/endowment/endowment_11.pdf",
+      "filename": "11.pdf"
+    },
+    {
+      "series": "mppbond",
+      "year_key": "2005",
+      "label": "UC Revenue Bonds / Multiple Purpose Project 2005",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/mppbond/mppbond_2005.pdf",
+      "filename": "2005.pdf"
+    },
+    {
+      "series": "mppbond",
+      "year_key": "2006",
+      "label": "UC Revenue Bonds / Multiple Purpose Project 2006",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/mppbond/mppbond_2006.pdf",
+      "filename": "2006.pdf"
+    },
+    {
+      "series": "mppbond",
+      "year_key": "2007",
+      "label": "UC Revenue Bonds / Multiple Purpose Project 2007",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/mppbond/mppbond_2007.pdf",
+      "filename": "2007.pdf"
+    },
+    {
+      "series": "mppbond",
+      "year_key": "2008",
+      "label": "UC Revenue Bonds / Multiple Purpose Project 2008",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/mppbond/mppbond_2008.pdf",
+      "filename": "2008.pdf"
+    },
+    {
+      "series": "mppbond",
+      "year_key": "2009",
+      "label": "UC Revenue Bonds / Multiple Purpose Project 2009",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/mppbond/mppbond_2009.pdf",
+      "filename": "2009.pdf"
+    },
+    {
+      "series": "mppbond",
+      "year_key": "2010",
+      "label": "UC Revenue Bonds / Multiple Purpose Project 2010",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/mppbond/mppbond_2010.pdf",
+      "filename": "2010.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2015",
+      "label": "Revenue and Expense Trends 2015",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2015.pdf",
+      "filename": "2015.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2016",
+      "label": "Revenue and Expense Trends 2016",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2016.pdf",
+      "filename": "2016.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2017",
+      "label": "Revenue and Expense Trends 2017",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2017.pdf",
+      "filename": "2017.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2018",
+      "label": "Revenue and Expense Trends 2018",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2018.pdf",
+      "filename": "2018.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2019",
+      "label": "Revenue and Expense Trends 2019",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2019.pdf",
+      "filename": "2019.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2020",
+      "label": "Revenue and Expense Trends 2020",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2020.pdf",
+      "filename": "2020.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2021",
+      "label": "Revenue and Expense Trends 2021",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2021.pdf",
+      "filename": "2021.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2022",
+      "label": "Revenue and Expense Trends 2022",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2022.pdf",
+      "filename": "2022.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2023",
+      "label": "Revenue and Expense Trends 2023",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2023.pdf",
+      "filename": "2023.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2024",
+      "label": "Revenue and Expense Trends 2024",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2024.pdf",
+      "filename": "2024.pdf"
+    },
+    {
+      "series": "retrends",
+      "year_key": "2025",
+      "label": "Revenue and Expense Trends 2025",
+      "url": "https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/retrends_2025.pdf",
+      "filename": "2025.pdf"
+    }
+  ]
+}

@@ -60,7 +60,9 @@
   .search-input:focus {
     outline: none;
     border-color: var(--founder);
-    box-shadow: 0 0 0 3px rgba(59, 126, 161, 0.1), var(--shadow-md);
+    box-shadow:
+      0 0 0 3px rgba(59, 126, 161, 0.1),
+      var(--shadow-md);
     transform: translateY(-1px);
   }
 

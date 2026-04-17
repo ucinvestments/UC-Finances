@@ -1,8 +1,6 @@
 <script lang="ts">
-  import Icon from "@iconify/svelte";
   import { fade } from "svelte/transition";
 
-  export let icon: string;
   export let title: string;
   export let subtitle: string = "";
   export let pattern: boolean = true;
@@ -13,7 +11,6 @@
     <div class="hero-pattern" />
   {/if}
   <div class="hero-content">
-    <Icon {icon} class="hero-icon" />
     <h1 class="hero-title">{title}</h1>
     {#if subtitle}
       <p class="hero-subtitle">{subtitle}</p>
@@ -25,7 +22,7 @@
 <style>
   .hero {
     background: linear-gradient(135deg, var(--pri) 0%, var(--founder) 100%);
-    padding: 3rem 2rem;
+    padding: 1.5rem 2rem;
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -47,45 +44,39 @@
     z-index: 1;
   }
 
-  :global(.hero-icon) {
-    font-size: 3rem;
-    color: var(--sec);
-    margin-bottom: 1rem;
-  }
-
   .hero-title {
     font-family: "Space Grotesk", sans-serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 700;
     color: white;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     letter-spacing: -0.02em;
   }
 
   .hero-subtitle {
-    font-size: 1.125rem;
+    font-size: 1rem;
     color: rgba(255, 255, 255, 0.95);
-    line-height: 1.6;
+    line-height: 1.5;
     margin: 0;
   }
 
   @media (max-width: 768px) {
     .hero {
-      padding: 2rem 1rem;
+      padding: 1.25rem 1rem;
     }
 
     .hero-title {
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
 
     .hero-subtitle {
-      font-size: 1rem;
+      font-size: 0.9375rem;
     }
   }
 
   @media (max-width: 480px) {
     .hero-title {
-      font-size: 1.75rem;
+      font-size: 1.375rem;
     }
   }
 </style>

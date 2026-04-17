@@ -1,34 +1,55 @@
 <script lang="ts">
   import Icon from "@iconify/svelte";
-  import { onMount } from "svelte";
 
-  export let appName: string = "UC Data";
-  export let description: string = "University of California data transparency tool.";
-  export let links: Array<{href: string, label: string, external?: boolean}> = [];
-  export let contactEmail: string = "contact@example.com";
-  export let lastUpdated: string = "2024";
-  export let dataAccuracy: string = "Varies";
-
-  function toggleDonationInfo() {
-    const donationInfo = document.getElementById('donationInfo');
-    if (donationInfo) {
-      donationInfo.style.display = donationInfo.style.display === 'none' ? 'block' : 'none';
-    }
+  interface FooterLink {
+    href: string;
+    label: string;
+    external?: boolean;
   }
 
-  onMount(() => {
-    // Make toggle function globally available for the donation button
-    window.toggleDonationInfo = toggleDonationInfo;
-  });
+  interface CryptoAddress {
+    label: string;
+    address: string;
+  }
+
+  let {
+    appName = "UC Data",
+    description = "University of California data transparency tool.",
+    links = [] as FooterLink[],
+    contactEmail = "contact@example.com",
+    dataSources = "",
+    cryptoAddresses = [] as CryptoAddress[],
+    altContactEmail = "",
+    copyrightHolder = "",
+    affiliationDisclaimer = "",
+  }: {
+    appName?: string;
+    description?: string;
+    links?: FooterLink[];
+    contactEmail?: string;
+    dataSources?: string;
+    cryptoAddresses?: CryptoAddress[];
+    altContactEmail?: string;
+    copyrightHolder?: string;
+    affiliationDisclaimer?: string;
+  } = $props();
+
+  let donateOpen = $state(false);
+
+  function toggleDonate() {
+    donateOpen = !donateOpen;
+  }
+
+  const emailDomain = $derived(contactEmail.split("@")[1] ?? "");
+  const holder = $derived(copyrightHolder || appName);
+  const year = new Date().getFullYear();
 </script>
 
 <footer class="footer">
   <div class="footer-content">
     <div class="footer-section">
       <h4 class="footer-title">{appName}</h4>
-      <p class="footer-text">
-        {description}
-      </p>
+      <p class="footer-text">{description}</p>
     </div>
 
     <div class="footer-section">
@@ -54,48 +75,58 @@
       <h4 class="footer-title">Contact</h4>
       <div class="footer-links">
         <a href="mailto:{contactEmail}" class="footer-link">Contact Us</a>
-        <a href="mailto:press@{contactEmail.split('@')[1]}" class="footer-link">Submit Research</a>
-        <a href="mailto:dev@{contactEmail.split('@')[1]}" class="footer-link">Development</a>
+        {#if emailDomain}
+          <a href="mailto:press@{emailDomain}" class="footer-link">Submit Research</a>
+          <a href="mailto:dev@{emailDomain}" class="footer-link">Development</a>
+        {/if}
       </div>
     </div>
 
-    <div class="footer-section">
-      <h4 class="footer-title">Support This Project</h4>
-      <p class="footer-text">
-        This project is self-funded by Stephen. Donations help cover hosting and API costs.
-      </p>
-      <div class="donation-links">
-        <button class="donate-button" on:click={toggleDonationInfo}>
-          <Icon icon="mdi:heart" class="donate-icon" />
-          Donate
-        </button>
-        <div class="donation-info" id="donationInfo" style="display: none;">
-          <div class="crypto-address">
-            <strong>ETH:</strong>
-            <code class="address">0x623c7559ddC51BAf15Cc81bf5bc13c0B0EA14c01</code>
-          </div>
-          <div class="crypto-address">
-            <strong>XMR:</strong>
-            <code class="address">44bvXALNkxUgSkGChKQPnj79v6JwkeYEkGijgKyp2zRq3EiuL6oewAv5u2c7FN7jbN1z7uj1rrPfL77bbsJ3cC8U2ADFoTj</code>
-          </div>
-          <p class="alt-contact">
-            Or contact <a href="mailto:sdokita@berkeley.edu">Stephen</a> for alternatives.
-          </p>
+    {#if cryptoAddresses.length > 0}
+      <div class="footer-section">
+        <h4 class="footer-title">Support This Project</h4>
+        <p class="footer-text">
+          Self-funded. Donations help cover hosting and API costs.
+        </p>
+        <div class="donation-links">
+          <button class="donate-button" onclick={toggleDonate}>
+            <Icon icon="mdi:heart" class="donate-icon" />
+            Donate
+          </button>
+          {#if donateOpen}
+            <div class="donation-info">
+              {#each cryptoAddresses as crypto}
+                <div class="crypto-address">
+                  <strong>{crypto.label}:</strong>
+                  <code class="address">{crypto.address}</code>
+                </div>
+              {/each}
+              {#if altContactEmail}
+                <p class="alt-contact">
+                  Or contact <a href="mailto:{altContactEmail}">us</a> for alternatives.
+                </p>
+              {/if}
+            </div>
+          {/if}
         </div>
       </div>
-    </div>
+    {/if}
 
-    <div class="footer-section">
-      <h4 class="footer-title">Data Sources</h4>
-      <p class="footer-text">
-        Last updated: {lastUpdated}<br />
-        Data accuracy: {dataAccuracy}
-      </p>
-    </div>
+    {#if dataSources}
+      <div class="footer-section">
+        <h4 class="footer-title">Data Sources</h4>
+        <p class="footer-text">{@html dataSources}</p>
+      </div>
+    {/if}
   </div>
 
   <div class="footer-bottom">
-    <p>&copy; 2024 {appName}. Educational purposes only.</p>
+    <p>
+      &copy; {year} {holder}. Educational purposes only.
+      {#if affiliationDisclaimer}
+        <br />{affiliationDisclaimer}
+      {/if}
+    </p>
   </div>
 </footer>
 
@@ -178,7 +209,6 @@
     margin: 0;
   }
 
-  /* Donation Styles */
   .donation-links {
     margin-top: 1rem;
   }

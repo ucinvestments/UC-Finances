@@ -1,0 +1,5 @@
+pdfs/
+parsed/
+*.pyc
+__pycache__/
+.venv/
