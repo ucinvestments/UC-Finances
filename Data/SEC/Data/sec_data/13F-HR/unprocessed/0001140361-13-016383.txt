@@ -1,0 +1,228 @@
+<SEC-DOCUMENT>0001140361-13-016383.txt : 20130415
+<SEC-HEADER>0001140361-13-016383.hdr.sgml : 20130415
+<ACCEPTANCE-DATETIME>20130412173406
+ACCESSION NUMBER:		0001140361-13-016383
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20130331
+FILED AS OF DATE:		20130415
+DATE AS OF CHANGE:		20130412
+EFFECTIVENESS DATE:		20130415
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-00224
+		FILM NUMBER:		13759496
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		14TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+		BUSINESS PHONE:		510-987-9676
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		14TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13fhr.txt
+<DESCRIPTION>NONE
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: 3/31/2013
+Check here if Amendment []; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+
+Name:      Regents of the University of California
+
+Address:   1111 Broadway, Suite 1400
+           Oakland, CA 94607
+
+
+Form 13F File Number:
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this submission.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Marie Berggren
+Title:  Treasurer
+Phone:  (510) 987-9600
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Marie Berggren                 Oakland, CA                        4/12/2013
+---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    0
+
+Form 13F Information Table Entry Total:              62
+
+Form 13F Information Table Value Total:  $47,440,215.00
+                                         --------------
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+NONE
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+          COLUMN 1                      COLUMN 2           COLUMN 3  COLUMN 4     COLUMN 5       COLUMN 6  COLUMN 7     COLUMN 8
+----------------------------- ---------------------------- --------- -------- ----------------- ---------- -------- ----------------
+                                                                              SHRS OR  SH/ PUT/ INVESTMENT  OTHER   VOTING AUTHORITY
+       NAME OF ISSUER                TITLE OF CLASS          CUSIP    VALUE   PRN AMT  PRN CALL DISCRETION MANAGERS SOLE SHARED NONE
+----------------------------- ---------------------------- --------- -------- -------- --- ---- ---------- -------- ---- ------ ----
+<S>                           <C>                          <C>       <C>      <C>      <C> <C>  <C>        <C>      <C>  <C>    <C>
+AON PLC                       COMMON STOCK USD.01          G0408V102   499626     8124          SOLE                   0      0    0
+COVIDIEN PLC                  COMMON STOCK USD.2           G2554F113   677043     9980          SOLE                   0      0    0
+AT+T INC                      COMMON STOCK USD1.           00206R102   695276    18950          SOLE                   0      0    0
+ACCELRYS INC                  COMMON STOCK USD.0001        00430U103   102158    10467          SOLE                   0      0    0
+ADOBE SYSTEMS INC             COMMON STOCK USD.0001        00724F101   518987    11928          SOLE                   0      0    0
+AIR PRODUCTS + CHEMICALS INC  COMMON STOCK USD1.           9158106     888624    10200          SOLE                   0      0    0
+ALEXION PHARMACEUTICALS INC   COMMON STOCK USD.0001        15351109    383579     4163          SOLE                   0      0    0
+ALLERGAN INC                  COMMON STOCK USD.01          18490102   1370928    12281          SOLE                   0      0    0
+ALTERA CORP                   COMMON STOCK USD.001         21441100    346223     9761          SOLE                   0      0    0
+AMAZON.COM INC                COMMON STOCK USD.01          23135106    759230     2849          SOLE                   0      0    0
+ANADARKO PETROLEUM CORP       COMMON STOCK USD.1           32511107    402445     4602          SOLE                   0      0    0
+BMC SOFTWARE INC              COMMON STOCK USD.01          55921100    491191    10602          SOLE                   0      0    0
+CELGENE CORP                  COMMON STOCK USD.01          151020104   447992     3865          SOLE                   0      0    0
+CERNER CORP                   COMMON STOCK USD.01          156782104   545760     5760          SOLE                   0      0    0
+COCA COLA CO/THE              COMMON STOCK USD.25          191216100   727920    18000          SOLE                   0      0    0
+CROWN CASTLE INTL CORP        COMMON STOCK USD.01          228227104   620144     8905          SOLE                   0      0    0
+WALT DISNEY CO/THE            COMMON STOCK USD.01          254687106   340800     6000          SOLE                   0      0    0
+EOG RESOURCES INC             COMMON STOCK USD.01          26875P101   640478     5001          SOLE                   0      0    0
+ECOLAB INC                    COMMON STOCK USD1.           278865100   481561     6006          SOLE                   0      0    0
+EXXON MOBIL CORP              COMMON STOCK NPV             30231G102  3027696    33600          SOLE                   0      0    0
+FMC TECHNOLOGIES INC          COMMON STOCK USD.01          30249U101   377575     6942          SOLE                   0      0    0
+FACEBOOK INC A                COMMON STOCK USD.000006      30303M102  6465243   252746          SOLE                   0      0    0
+F5 NETWORKS INC               COMMON STOCK NPV             315616102   376808     4230          SOLE                   0      0    0
+GANNETT CO                    COMMON STOCK USD1.           364730101   201204     9200          SOLE                   0      0    0
+GENERAL ELECTRIC CO           COMMON STOCK USD.06          369604103   926534    40075          SOLE                   0      0    0
+GOOGLE INC CL A               COMMON STOCK USD.001         38259P508   911546     1148          SOLE                   0      0    0
+GREEN DOT CORP CLASS A        COMMON STOCK USD.001         39304D102  1517352    90805          SOLE                   0      0    0
+HANSEN MEDICAL INC            COMMON STOCK USD.0001        411307101    71281    35463          SOLE                   0      0    0
+HONEYWELL INTERNATIONAL INC   COMMON STOCK USD1.           438516106   316470     4200          SOLE                   0      0    0
+INFOBLOX INC                  COMMON STOCK USD.0001        45672H104  1173796    54092          SOLE                   0      0    0
+INFOSYS LTD SP ADR            ADR                          456788108   381198     7071          SOLE                   0      0    0
+INTERCONTINENTALEXCHANGE INC  COMMON STOCK USD.01          45865V100   538783     3304          SOLE                   0      0    0
+INTUITIVE SURGICAL INC        COMMON STOCK USD.001         46120E602   323203      658          SOLE                   0      0    0
+INTUIT INC                    COMMON STOCK USD.01          461202103   529599     8067          SOLE                   0      0    0
+KINDER MORGAN INC             COMMON STOCK USD.01          49456B101   486362    12574          SOLE                   0      0    0
+KYTHERA BIOPHARMACEUTICALS I  COMMON STOCK USD.00001       501570105   422792    17356          SOLE                   0      0    0
+LAS VEGAS SANDS CORP          COMMON STOCK USD.001         517834107   396310     7033          SOLE                   0      0    0
+ESTEE LAUDER COMPANIES CL A   COMMON STOCK USD.01          518439104  2138602    33400          SOLE                   0      0    0
+LIBERTY GLOBAL INC SERIES C   COMMON STOCK USD.01          530555309   694604    10121          SOLE                   0      0    0
+LIBERTY INTERACTIVE CORP A    COMMON STOCK USD.01          53071M104   518422    24248          SOLE                   0      0    0
+MASTERCARD INC CLASS A        COMMON STOCK USD.0001        57636Q104   384202      710          SOLE                   0      0    0
+MCGRAW HILL COMPANIES INC     COMMON STOCK USD1.           580645109   312480     6000          SOLE                   0      0    0
+MERCK + CO. INC.              COMMON STOCK USD.5           58933Y105   955368    21600          SOLE                   0      0    0
+MORGAN STANLEY                COMMON STOCK USD.01          617446448   489539    22272          SOLE                   0      0    0
+NIKE INC  CL B                COMMON STOCK NPV             654106103   454436     7701          SOLE                   0      0    0
+NUANCE COMMUNICATIONS INC     COMMON STOCK USD.001         67020Y100  1205755    59750          SOLE                   0      0    0
+PFIZER INC                    COMMON STOCK USD.05          717081103   797835    27645          SOLE                   0      0    0
+PRAXAIR INC                   COMMON STOCK USD.01          74005P104   458987     4115          SOLE                   0      0    0
+PRICELINE.COM INC             COMMON STOCK USD.008         741503403  1086929     1580          SOLE                   0      0    0
+PROGRESSIVE CORP              COMMON STOCK USD1.           743315103   407782    16137          SOLE                   0      0    0
+QUALCOMM INC                  COMMON STOCK USD.0001        747525103   315736     4716          SOLE                   0      0    0
+SPDR S+P MIDCAP 400 ETF TRUST SPDR S+P MIDCAP 400 ETF TRST 78467Y107  1174432     5600          SOLE                   0      0    0
+SALESFORCE.COM INC            COMMON STOCK USD.001         79466L302  1096943     6134          SOLE                   0      0    0
+SOUTHWESTERN ENERGY CO        COMMON STOCK USD.01          845467109   320063     8590          SOLE                   0      0    0
+TEARLAB CORP                  COMMON STOCK USD.001         878193101   444146    64369          SOLE                   0      0    0
+TERADATA CORP                 COMMON STOCK USD.01          88076W103   509447     8707          SOLE                   0      0    0
+TEXAS INSTRUMENTS INC         COMMON STOCK USD1.           882508104   230620     6500          SOLE                   0      0    0
+VERIZON COMMUNICATIONS INC    COMMON STOCK USD.1           92343V104   871675    17735          SOLE                   0      0    0
+VIRGIN MEDIA INC              COMMON STOCK USD.01          92769L101   345728     7060          SOLE                   0      0    0
+VISA INC CLASS A SHARES       COMMON STOCK USD.0001        92826C839  1766506    10401          SOLE                   0      0    0
+</TABLE>
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+          COLUMN 1                      COLUMN 2           COLUMN 3  COLUMN 4     COLUMN 5       COLUMN 6  COLUMN 7     COLUMN 8
+----------------------------- ---------------------------- --------- -------- ----------------- ---------- -------- ----------------
+                                                                              SHRS OR  SH/ PUT/ INVESTMENT  OTHER   VOTING AUTHORITY
+       NAME OF ISSUER                TITLE OF CLASS          CUSIP    VALUE   PRN AMT  PRN CALL DISCRETION MANAGERS SOLE SHARED NONE
+----------------------------- ---------------------------- --------- -------- -------- --- ---- ---------- -------- ---- ------ ----
+<S>                           <C>                          <C>       <C>      <C>      <C> <C>  <C>        <C>      <C>  <C>    <C>
+WALGREEN CO                   COMMON STOCK USD.078125      931422109   406520     8526          SOLE                   0      0    0
+WELLS FARGO + CO              COMMON STOCK USD1.666        949746101   669741    18106          SOLE                   0      0    0
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

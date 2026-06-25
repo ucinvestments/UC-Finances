@@ -1,0 +1,235 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MjVhawskrI7d8OQUBHYwd4Pn7Es+UimLqPifCD8+fcyjjCKkFF4FFM9m2/W0eRWL
+ HInr//aUTXVXsxXecftaHQ==
+
+<SEC-DOCUMENT>0000315054-99-000018.txt : 19990816
+<SEC-HEADER>0000315054-99-000018.hdr.sgml : 19990816
+ACCESSION NUMBER:		0000315054-99-000018
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19990630
+FILED AS OF DATE:		19990813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		
+		SEC FILE NUMBER:	028-00224
+		FILM NUMBER:		99687839
+
+	BUSINESS ADDRESS:	
+		STREET 1:		.
+		STREET 2:		2200 UNIVERSITY AVENUE
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94720
+		BUSINESS PHONE:		4156423251
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<TEXT>
+
+United States
+Securities and Exchange Commission
+Washington, DC 20549
+
+Form 13F
+
+Form 13F Cover Page
+
+Report for the Calendar Year or Quarter Ended:06/30/99
+
+Check here if Amendment: [  ]      Amendment number:   [  ]
+This Amendment (check only one):
+[  ] is a restatement.
+[  ] adds new holdings entries.
+
+Institutional Investment Manager filing this Report:
+Name:The Regents Of The University Of California
+Address: P.O. Box 24000
+Oakland, CA 94623-1000
+
+13F File Number:    28-224
+
+The institutional  investment  manager filing this report and the person by
+whom it is  signed  hereby  represent  that the  person  signing  the  report is
+authorized to submit it, that all information  contained herein is true, correct
+and complete,  and that it is understood  that all required  items,  statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Patricia A. Small
+Title:    Treasurer
+Phone:    (510) 987-9600
+
+Signature, Place, and Date of Signing:
+
+/s/ Patricia A. Small
+Oakland, CA 94623-1000
+August 12,, 1999
+
+Report Type (Check only one):
+
+[  X ] 13F  HOLDINGS  REPORT.  (Check here if all  holdings of this  reporting
+manager are reported in this report.)
+[    ] 13F NOTICE.  (Check here if no holdings reported are in this report,  and
+all holdings are reported by other reporting manager(s).)
+[    ] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+reporting manager are reported in this report and a portion are reported by
+other reporting manager(s).)
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934.
+<PAGE>
+Form 13F Summary Page
+Report Summary:
+Number of Other Included Manage          0
+Form 13F Information Table Entr        112
+Form 13F Information Table Valu          0
+
+<PAGE>
+<TABLE>
+<CAPTION>
+Column 1                         Column 2   Column 3    Column 4    Column 5   Column 6  Column 8
+- -                              -------------------------------------------------------------------
+Name of                          Title of     Cusip    Fair Market   Shrs or  Investment  Voting
+Issuer                             Class                   Value     prn amt  Discretion Authority
+- -                              -------------------------------------------------------------------
+<S>                            <C>         <C>        <C>          <C>        <C>        <C>
+ADVENT SOFTWARE                   COMMON       0797410   4,519,753     67,459 SOLE       SOLE
+AIR PRODS & CHEMS                 COMMON       0915810 364,463,106  9,054,984 SOLE       SOLE
+ALLEGHENY ENERGY                  COMMON       1736110  38,069,618  1,187,338 SOLE       SOLE
+ALLIEDSIGNAL                      COMMON       1951210 280,318,500  4,449,500 SOLE       SOLE
+AMAZON                            COMMON       2313510  21,359,338    170,704 SOLE       SOLE
+AMB PROPERTY CORP                 COMMON       163T109  47,000,000  2,000,000 SOLE       SOLE
+AT & T CORP                       COMMON       1957109 734,910,478 13,167,371 SOLE       SOLE
+AMERICA ONLINE INC                COMMON       2364J10   2,649,570     24,087 SOLE       SOLE
+AMERICAN HOME PRODS CORP          COMMON       2660910*************19,514,789 SOLE       SOLE
+AMERITECH                         COMMON       2680410 320,450,739  4,359,874 SOLE       SOLE
+AMERICAN INTL GROUP               COMMON       2687410 515,155,463  4,393,650 SOLE       SOLE
+ANSWERTHINK CONSULTING            COMMON       3691610     262,903     10,412 SOLE       SOLE
+ARTHROCARE                        COMMON       4313610   2,334,376    113,872 SOLE       SOLE
+ASTRAZENECA PLC                   COMMON       4635310 425,484,180 10,857,512 SOLE       SOLE
+ASPECT DEV                        COMMON       4523410   4,542,120    245,520 SOLE       SOLE
+AT HOME                           COMMON       4591910  60,308,509  1,118,108 SOLE       SOLE
+AUTOMATIC DATA PROCESSING         COMMON       5301510 755,620,800 17,173,200 SOLE       SOLE
+AVANT                             COMMON       5348710   1,440,399    114,091 SOLE       SOLE
+BP AMOCO                          COMMON       5562210 561,394,299  5,174,141 SOLE       SOLE
+BAXTER INTL INC                   COMMON       7181310 262,530,136  4,330,394 SOLE       SOLE
+BELL ATLANTIC CORP                COMMON       7785310 173,191,581  2,649,202 SOLE       SOLE
+BERKSHIRE HATHAWAY CL 'A'         COMMON       8467010 730,064,400     10,596 SOLE       SOLE
+BROADVISION                       COMMON      11141210   8,701,836    117,991 SOLE       SOLE
+CSG SYS INTL                      COMMON      12634910   3,251,135    124,146 SOLE       SOLE
+CAROLINA PWR & LT CO              COMMON      14414110  55,742,526  1,302,000 SOLE       SOLE
+CENTENNIAL HEALTHCARE             COMMON      15093710     366,528     69,405 SOLE       SOLE
+CHECKFREE                         COMMON      16281210   3,397,884    123,277 SOLE       SOLE
+CIENA                             COMMON      17177910  49,091,846  1,626,204 SOLE       SOLE
+CISCO SYSTEMS                     COMMON      17275R10 557,424,399  8,650,554 SOLE       SOLE
+CITRIX SYSTEMS                    COMMON      17737610  39,918,267    706,518 SOLE       SOLE
+CLARIFY                           COMMON      18049210   1,182,225     28,660 SOLE       SOLE
+COCA COLA CO                      COMMON      19121610 414,785,890  6,690,095 SOLE       SOLE
+COLGATE-PALMOLIVE                 COMMON      19416210 107,714,675  2,187,100 SOLE       SOLE
+CONCENTRA MANAGED CARE I          COMMON      20589T10   2,313,331    156,169 SOLE       SOLE
+CONCENTRIC NETWORK                COMMON      20589R10   4,485,867    112,852 SOLE       SOLE
+CONSTELLATION ENERGY GRP          COMMON      21037110  53,298,545  1,799,107 SOLE       SOLE
+DISNEY WALT CO DEL                COMMON      25468710 370,441,589 12,022,250 SOLE       SOLE
+DOCUMENTUM                        COMMON      25615910   2,302,132    176,233 SOLE       SOLE
+EG & G INC                        COMMON      26845710 119,122,198  3,343,781 SOLE       SOLE
+EASTMAN CHEMICAL                  COMMON      27743210 170,669,792  3,297,967 SOLE       SOLE
+ELECTRONIC DATA                   COMMON      28566110 399,702,059  7,058,756 SOLE       SOLE
+EMERSON ELEC CO                   COMMON      29101110 438,776,673  6,971,570 SOLE       SOLE
+EQUITY RESIDENTIAL  PPTYS         COMMON      29476L10  47,050,278  1,044,100 SOLE       SOLE
+ERICSSON L M TEL ADR              COMMON      29482140 852,546,112 25,883,360 SOLE       SOLE
+EXXON CORP                        COMMON      30229010*************13,652,219 SOLE       SOLE
+FPL GROUP INC                     COMMON      30257110  63,332,881  1,159,412 SOLE       SOLE
+FLEXTRONICS INTL                  COMMON      Y2573F10  15,072,468    271,576 SOLE       SOLE
+FOSTER WHEELER                    COMMON      35024410  48,778,219  3,468,550 SOLE       SOLE
+FRONTIER                          COMMON      35906P10   3,506,127     59,806 SOLE       SOLE
+GANNETT CO                        COMMON      36473010 738,524,263 10,347,100 SOLE       SOLE
+GENERAL ELEC CO                   COMMON      36960410*************10,824,898 SOLE       SOLE
+GENUINE PARTS CO                  COMMON      37246010 297,232,005  8,492,343 SOLE       SOLE
+GTE CORP                          COMMON      36232010 272,499,961  3,609,271 SOLE       SOLE
+HALLIBURTON                       COMMON      40621610 303,776,825  6,713,300 SOLE       SOLE
+HEWLETT PACKARD CO                COMMON      42823610*************13,630,178 SOLE       SOLE
+HISPANIC BROADCASTING             COMMON      43357B10   2,863,219     37,736 SOLE       SOLE
+ILLINOIS TOOL WORKS               COMMON      45230810 490,810,650  6,003,800 SOLE       SOLE
+INTERNATIONAL NETWORK SV          COMMON      46005310  15,737,125    389,774 SOLE       SOLE
+INTUIT                            COMMON      46120210   7,641,158     84,784 SOLE       SOLE
+ISS GROUP                         COMMON      45030610     307,021      8,133 SOLE       SOLE
+JOHNSON & JOHNSON                 COMMON      47816010   3,361,498     34,301 SOLE       SOLE
+KELLOGG                           COMMON      48783610 200,187,537  6,066,289 SOLE       SOLE
+LASON                             COMMON      51808R10   4,354,792     87,754 SOLE       SOLE
+LUCENT TECHNOLOGIES               COMMON      54946310 688,335,215 10,206,934 SOLE       SOLE
+MCI WORLDCOM                      COMMON      55268B10 683,607,446  7,943,105 SOLE       SOLE
+MMC NETWORKS                      COMMON      55308N10   3,030,202     67,714 SOLE       SOLE
+MARSH & MCLENNAN COS INC          COMMON      57174810 797,144,048 10,531,974 SOLE       SOLE
+MASCO CORP                        COMMON      57459910   9,803,063    339,500 SOLE       SOLE
+MCGRAW HILL                       COMMON      58064510 207,461,729  3,846,300 SOLE       SOLE
+MEDIAONE GROUP                    COMMON      58440J10 291,751,036  3,922,703 SOLE       SOLE
+MEDPARTNERS INC NEW               COMMON      58503X10  44,019,158  5,869,221 SOLE       SOLE
+MERCK & CO INC                    COMMON      58933110*************15,911,744 SOLE       SOLE
+MICROSOFT                         COMMON      59491810 716,703,293  7,946,770 SOLE       SOLE
+MINNESOTA MNG & MFG               COMMON      60405910 405,171,941  4,660,470 SOLE       SOLE
+MOLEX CL A                        COMMON      60855420 182,398,167  5,790,418 SOLE       SOLE
+MONSANTO                          COMMON      61166210 101,599,762  2,568,050 SOLE       SOLE
+NETOPIA                           COMMON      64114K10   2,353,478     98,575 SOLE       SOLE
+NETWORK APPLIANCE                 COMMON      64121L10   9,140,703    163,592 SOLE       SOLE
+NOKIA                             COMMON      65490220 279,276,306  3,050,100 SOLE       SOLE
+NORTEL NETWORKS                   COMMON      65656910   3,901,289     44,939 SOLE       SOLE
+NORTHN STS PWR CO MINN            COMMON      66577210  63,374,011  2,620,060 SOLE       SOLE
+OFFICE DEPOT                      COMMON      67622010 244,116,064 11,064,500 SOLE       SOLE
+PACIFICORP                        COMMON      69511410  70,335,825  3,827,800 SOLE       SOLE
+PAGING NETWORK                    COMMON      69554210  11,814,538  2,454,714 SOLE       SOLE
+PALL CORP                         COMMON      69642930 122,238,130  5,509,200 SOLE       SOLE
+PEOPLESOFT                        COMMON      71271310  98,119,190  5,688,069 SOLE       SOLE
+PEPSICO                           COMMON      71344810 336,251,297  8,691,359 SOLE       SOLE
+POLICY MGMT SYSTEMS               COMMON      73110810  81,192,000  2,706,400 SOLE       SOLE
+PREVIEW TRAVEL                    COMMON      74137R10   1,801,154     82,102 SOLE       SOLE
+PROCTER & GAMBLE CO               COMMON      74271810 532,909,073  5,970,970 SOLE       SOLE
+PROGRESSIVE CORP                  COMMON      74331510 193,836,000  1,336,800 SOLE       SOLE
+PROLOGIS TR                       COMMON      74341010  45,218,250  2,233,000 SOLE       SOLE
+RAMBUS                            COMMON      75091710   9,086,602     98,566 SOLE       SOLE
+RELIANT ENERGY                    COMMON      75952J10  95,775,405  3,466,983 SOLE       SOLE
+SANGSTAT MED                      COMMON      80100310     917,976     53,216 SOLE       SOLE
+SCANA                             COMMON      80589810  63,463,125  2,715,000 SOLE       SOLE
+SCHWAB (CHARLES)                  COMMON      80851310 160,339,000  1,471,000 SOLE       SOLE
+SEALED AIR CORP NEW               COMMON      81211K10 166,508,175  2,566,600 SOLE       SOLE
+SONAT                             COMMON      83541510 119,833,000  3,617,600 SOLE       SOLE
+SBC COMMUNICATIONS                COMMON      84533310 256,669,604  4,425,338 SOLE       SOLE
+SPORTSLINE USA                    COMMON      84893410   3,098,344     86,365 SOLE       SOLE
+SYSCO CORP                        COMMON      87182910 410,364,020 13,764,600 SOLE       SOLE
+TECO ENERGY INC                   COMMON      87237510  47,720,309  2,097,596 SOLE       SOLE
+TEXAS INSTRUMENTS                 COMMON      88250810 461,703,744  3,206,276 SOLE       SOLE
+TIME WARNER                       COMMON      88731510*************14,823,980 SOLE       SOLE
+TYCO INTL LTD                     COMMON      90212410 388,531,376  4,100,595 SOLE       SOLE
+UNION PACIFIC                     COMMON      90781810 165,077,980  2,830,895 SOLE       SOLE
+UNION PACIFIC RESOURCES           COMMON      90783410 100,835,694  6,181,309 SOLE       SOLE
+VERISIGN                          COMMON      92343E10   4,247,813     49,250 SOLE       SOLE
+WACHOVIA                          COMMON      92977110 564,116,859  6,593,000 SOLE       SOLE
+WESTERN RESOURCES                 COMMON      95942510  67,643,475  2,540,600 SOLE       SOLE
+YAHOO                             COMMON      98433210  69,243,294    401,993 SOLE       SOLE
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

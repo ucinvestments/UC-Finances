@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001140361-24-045919.txt : 20241112
+<SEC-HEADER>0001140361-24-045919.hdr.sgml : 20241112
+<ACCEPTANCE-DATETIME>20241108193312
+ACCESSION NUMBER:		0001140361-24-045919
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241112
+DATE AS OF CHANGE:		20241108
+EFFECTIVENESS DATE:		20241112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-00224
+		FILM NUMBER:		241442519
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 FRANKLIN STREET
+		STREET 2:		6TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607
+		BUSINESS PHONE:		510-987-9600
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 FRANKLIN STREET
+		STREET 2:		6TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns:com="http://www.sec.gov/edgar/common" xmlns="http://www.sec.gov/edgar/thirteenffiler">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer>
+        <credentials>
+          <cik>0000315054</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>09-30-2024</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2024</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>REGENTS OF THE UNIVERSITY OF CALIFORNIA</name>
+        <address>
+          <com:street1>1111 FRANKLIN STREET</com:street1>
+          <com:street2>6TH FLOOR</com:street2>
+          <com:city>OAKLAND</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94607</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-00224</form13FFileNumber>
+      <provideInfoForInstruction5>Y</provideInfoForInstruction5>
+      <additionalInformation>The reporting person reported the securities below on prior Form 13F filings. However, the reporting person did not exercise discretionary authority over such securities and, accordingly, has removed the following securities from this filing:
+Berkshire Hathaway Inc CL B,
+Erasca Inc,
+Intellia Therapeutics Inc,
+Verizon Communications Inc</additionalInformation>
+    </coverPage>
+    <signatureBlock>
+      <name>Jagdeep Bachher</name>
+      <title>Chief Investment Officer</title>
+      <phone>510-987-9600</phone>
+      <signature>/s/ Jagdeep Bachher</signature>
+      <city>Oakland</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>11-08-2024</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>2</tableEntryTotal>
+      <tableValueTotal>156232042</tableValueTotal>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>informationtable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="us-ascii"?>
+<informationTable xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+    <infoTable>
+        <nameOfIssuer>BLUE OWL CAPITAL INC</nameOfIssuer>
+        <titleOfClass>COMMON STOCK</titleOfClass>
+        <cusip>09581B103</cusip>
+        <value>154662529</value>
+        <shrsOrPrnAmt>
+            <sshPrnamt>7988767</sshPrnamt>
+            <sshPrnamtType>SH</sshPrnamtType>
+        </shrsOrPrnAmt>
+        <investmentDiscretion>SOLE</investmentDiscretion>
+        <votingAuthority>
+            <Sole>7988767</Sole>
+            <Shared>0</Shared>
+            <None>0</None>
+        </votingAuthority>
+    </infoTable>
+    <infoTable>
+        <nameOfIssuer>SURROZEN INC</nameOfIssuer>
+        <titleOfClass>WARRANTS</titleOfClass>
+        <cusip>86889P117</cusip>
+        <value>1569513</value>
+        <shrsOrPrnAmt>
+            <sshPrnamt>216540</sshPrnamt>
+            <sshPrnamtType>SH</sshPrnamtType>
+        </shrsOrPrnAmt>
+        <investmentDiscretion>SOLE</investmentDiscretion>
+        <votingAuthority>
+            <Sole>216540</Sole>
+            <Shared>0</Shared>
+            <None>0</None>
+        </votingAuthority>
+    </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
