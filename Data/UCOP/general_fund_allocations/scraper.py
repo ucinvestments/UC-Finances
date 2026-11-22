@@ -423,14 +423,14 @@ def _cluster_rows(words: list[dict]) -> list[list[dict]]:
 
 
 def _parse_amount(text: str) -> Optional[float]:
-    t = text.strip()
+    t = text.replace("$", "").strip()
     if not t or t in {"-", "\u2010", "\u2013", "\u2014"}:
         return 0.0
     neg = False
     if t.startswith("(") and t.endswith(")"):
         neg = True
         t = t[1:-1]
-    t = t.replace("$", "").replace(",", "").strip()
+    t = t.replace(",", "").strip()
     if not t or t == "-":
         return 0.0
     try:
@@ -441,7 +441,7 @@ def _parse_amount(text: str) -> Optional[float]:
 
 
 def _group_row_cells(
-    row_words: list[dict], columns: dict[str, float]
+    row_words: list[dict], columns: dict[str, float], amount_start: float
 ) -> tuple[str, dict[str, float]]:
     """Split a row into (label, {column: amount})."""
     row_words = sorted(row_words, key=lambda w: w["x0"])
@@ -452,7 +452,9 @@ def _group_row_cells(
     amount_tokens: list[dict] = []
     for w in row_words:
         text = w["text"]
-        looks_amount = bool(AMOUNT_TOKEN_RE.match(text))
+        looks_amount = w["x1"] >= amount_start and bool(
+            AMOUNT_TOKEN_RE.match(text) or NUMERIC_TOKEN_RE.match(text)
+        )
         if not amount_tokens and not looks_amount:
             label_tokens.append(text)
         else:
@@ -483,27 +485,38 @@ def _extract_cells(amount_tokens: list[dict]) -> list[tuple[float, str]]:
     """Convert raw amount tokens into (x_right, text) cells.
 
     Each numeric token (or dash) becomes its own cell keyed by its right edge
-    ``x1`` — columns are right-aligned, so ``x1`` is the stable column axis. A
-    leading ``$`` attaches to the next numeric token.
+    ``x1`` — columns are right-aligned, so ``x1`` is the stable column axis.
     """
     cells: list[tuple[float, str]] = []
-    pending_prefix = ""
+    pending_negative = False
     for w in amount_tokens:
         text = w["text"]
         x1 = w["x1"]
-        if text == "$":
-            pending_prefix = "$"
+        if text == "(":
+            pending_negative = True
             continue
         if text in {"-", "\u2010", "\u2013", "\u2014"}:
             cells.append((x1, "-"))
-            pending_prefix = ""
-            continue
-        if NUMERIC_TOKEN_RE.match(text):
-            cells.append((x1, pending_prefix + text))
-            pending_prefix = ""
-            continue
-        pending_prefix = ""
+        elif NUMERIC_TOKEN_RE.match(text):
+            digits = text.strip("()")
+            negative = pending_negative or digits != text
+            cells.append((x1, f"({digits})" if negative else digits))
+        pending_negative = False
     return cells
+
+
+def _campus_header(words: list[dict]) -> Optional[dict]:
+    for word in words:
+        if word["text"].upper() != "BERKELEY":
+            continue
+        nearby = {
+            candidate["text"].upper()
+            for candidate in words
+            if abs(candidate["top"] - word["top"]) < 10
+        }
+        if {"DAVIS", "IRVINE"} <= nearby:
+            return word
+    return None
 
 
 def parse_pdf(pdf_path: Path) -> list[dict]:
@@ -517,19 +530,20 @@ def parse_pdf(pdf_path: Path) -> list[dict]:
         if not cols:
             log.warning("%s: no column headers detected", pdf_path.name)
             return out_rows
+        edges = sorted(cols.values())
+        amount_start = edges[0] - (edges[1] - edges[0]) if len(edges) > 1 else edges[0] - 60
 
         for page_idx, page in enumerate(pdf.pages, start=1):
             words = page.extract_words(use_text_flow=False, keep_blank_chars=False)
-            anchor = next((w for w in words if w["text"].upper() == "BERKELEY"), None)
-            if not anchor:
-                continue
-            body_top = anchor["bottom"] + 12
+            anchor = _campus_header(words)
+            # A continuation page may omit the campus headers entirely.
+            body_top = anchor["bottom"] + 12 if anchor else float("-inf")
             body_words = [w for w in words if w["top"] > body_top]
             body_words = _merge_number_fragments(body_words)
             rows = _cluster_rows(body_words)
 
             for row_words in rows:
-                label, amounts = _group_row_cells(row_words, cols)
+                label, amounts = _group_row_cells(row_words, cols, amount_start)
                 if not label and not amounts:
                     continue
                 if _looks_like_footer(label):
@@ -552,7 +566,7 @@ def find_column_positions_multipage(pages) -> dict[str, float]:
     seen_labels: set[str] = set()
     for page in pages:
         words = page.extract_words(use_text_flow=False, keep_blank_chars=False)
-        anchor = next((w for w in words if w["text"].upper() == "BERKELEY"), None)
+        anchor = _campus_header(words)
         if not anchor:
             continue
         y_top, y_bot = anchor["top"] - 40, anchor["bottom"] + 40

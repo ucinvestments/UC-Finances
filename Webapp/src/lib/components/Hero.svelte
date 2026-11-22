@@ -1,14 +1,12 @@
 <script lang="ts">
-  import { fade } from "svelte/transition";
-
   export let title: string;
   export let subtitle: string = "";
   export let pattern: boolean = true;
 </script>
 
-<div class="hero" in:fade={{ duration: 800 }}>
+<div class="hero">
   {#if pattern}
-    <div class="hero-pattern" />
+    <div class="hero-pattern"></div>
   {/if}
   <div class="hero-content">
     <h1 class="hero-title">{title}</h1>

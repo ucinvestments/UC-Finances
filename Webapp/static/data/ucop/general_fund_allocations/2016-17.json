@@ -1,7 +1,7 @@
 {
   "fiscal_year": "2016-17",
   "title": "2016-17 Summary of State General Fund Allocations",
-  "source_url": "",
+  "source_url": "https://www.ucop.edu/operating-budget/_files/bap/2016-17_summary_of_state_general_fund_allocations.pdf",
   "source_filename": "2016-17.pdf",
   "retrieved_at": "2026-04-17T02:54:32+00:00",
   "columns": [
@@ -589,7 +589,8 @@
         "san_francisco": 4419000.0,
         "santa_barbara": 6980000.0,
         "santa_cruz": 5602000.0,
-        "campus_total": 92000000.0
+        "campus_total": 92000000.0,
+        "capital_debt_service": -92000000.0
       }
     },
     {
@@ -686,10 +687,9 @@
     },
     {
       "page": 1,
-      "label": "Wildlife Health Center",
+      "label": "Wildlife Health Center \u2010 Marine Mammal Stranding Networks",
       "indent": 57.72,
       "amounts": {
-        "berkeley": 0.0,
         "davis": 2000000.0,
         "campus_total": 2000000.0,
         "system_total": 2000000.0
@@ -707,10 +707,9 @@
     },
     {
       "page": 1,
-      "label": "Wildlife Health Center",
+      "label": "Wildlife Health Center \u2010 Whale Disentanglement",
       "indent": 57.72,
       "amounts": {
-        "berkeley": 0.0,
         "davis": 100000.0,
         "campus_total": 100000.0,
         "system_total": 100000.0
@@ -729,7 +728,10 @@
       "page": 1,
       "label": "Reallocation from Capital Program",
       "indent": 57.72,
-      "amounts": {}
+      "amounts": {
+        "capital_debt_service": -20415000.0,
+        "system_total": -20415000.0
+      }
     },
     {
       "page": 1,
@@ -748,6 +750,7 @@
         "santa_cruz": 10611000.0,
         "campus_total": 171542000.0,
         "ucop_to_be_allocated": 11058000.0,
+        "capital_debt_service": -92000000.0,
         "off_campus_programs": 0.0,
         "system_total": 90600000.0
       }

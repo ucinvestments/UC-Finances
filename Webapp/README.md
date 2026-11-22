@@ -1,38 +1,35 @@
-# sv
+# UC Finances Explorer
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+The explorer shows University of California State General Fund allocations and
+revenue and expense trends. It uses SvelteKit and deploys to Vercel with the
+project root set to `Webapp`.
 
-## Creating a project
+## Local development
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Run from this directory with Bun installed.
 
 ```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+bun install --frozen-lockfile
+bun run dev
+bun run check
+bun run build
 ```
 
-## Building
+## Refresh the financial reports
 
-To create a production version of your app:
+Run from the repository root. Install the dependencies from each scraper's
+`requirements.txt` before fetching or parsing reports.
 
 ```sh
-npm run build
+python3 Data/UCOP/general_fund_allocations/scraper.py --out Data/UCOP/general_fund_allocations
+python3 Data/UCOP/reporting_transparency/scraper.py --series retrends --out Data/UCOP/reporting_transparency
+python3 Data/UCOP/refresh_webapp.py
+python3 Data/UCOP/refresh_webapp.py --check
 ```
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+For the reports already in the repository, start with `refresh_webapp.py`.
+It validates both parsed series before writing, fills missing source URLs
+from the UCOP catalogs, and writes the data and manifest under
+`Webapp/static/data/ucop`. Review changes to report numbers and coverage
+against the source PDFs before committing updated data. The refresh checks
+report structure and coverage. Financial reconciliation is a separate review.

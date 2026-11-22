@@ -68,7 +68,7 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 1,68.28,"Reduction of Nonresidents at BK, LA, SD",20351900.0,,,19561900.0,,,21507346.0,,,,61421146.0,,,,61421146.0
 1,68.28,AICCU ASSIST,,,,,,,,,,,,650000.0,,,650000.0
 1,68.28,Cradle-to-career,,,,,,,,,,,,150000.0,,,150000.0
-1,68.28,Prop,56.0,,,,,,,,,,,338000.0,,,338000.0
+1,68.28,Prop 56 GME Adjustments,,,,,,,,,,,,338000.0,,,338000.0
 1,68.28,Fixed Cost Earmark,15000000.0,15000000.0,15000000.0,15000000.0,,15000000.0,15000000.0,,15000000.0,15000000.0,120000000.0,,,,120000000.0
 1,53.16,Subtotal -- earmarks not subject to cost adjustment,69713816.0,35145278.0,31879983.0,68477227.0,24188217.0,109298878.0,59007745.0,18594750.0,47052753.0,56322606.0,519681252.0,157654659.0,,167000.0,677502911.0
 2,45.6,Systemwide commitments,,,,,,,,,,,,,,,
@@ -84,12 +84,12 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 2,60.72,Less Local Redirect for Enrollment,110000.0,43000.0,240000.0,328000.0,0.0,765000.0,795000.0,0.0,188000.0,531000.0,3000000.0,,,,
 2,53.16,Net State Funds for Enrollment,420790060.0,409821796.0,370187664.0,515657812.0,13431149.0,261665084.0,420354107.0,0.0,241817302.0,207863577.0,2861588552.0,,,,2861588552.0
 2,53.16,Weighted Enrollment for Allocations,46864.0,45535.0,41153.0,57323.0,1492.0,29155.0,46789.0,0.0,26886.0,23152.0,318349.0,,,,318349.0
-2,53.16,,9001.0,9001.0,9001.0,9001.0,9002.0,9001.0,9001.0,0.0,9001.0,9001.0,,,,,
+2,53.16,"$ per Weighted Budgeted Enrollment, Inc. Lottery Funds",9001.0,9001.0,9001.0,9001.0,9002.0,9001.0,9001.0,0.0,9001.0,9001.0,,,,,
 2,45.6,Total Permanent State General Funds,524158752.0,523195942.0,403202347.0,634413201.0,208999141.0,410021795.0,516796691.0,254443388.0,289973233.0,269159383.0,4034363874.0,173333128.0,651685000.0,167000.0,4859549000.0
 2,45.6,One-Time Allocations,,,,,,,,,,,,,,,
 2,53.16,UC Nutrition Policy Institute,,,,,,,,,,,,2400000.0,,,2400000.0
-2,53.16,Equal Opportunity Practices,,,,,,,,,,,,,,,
+2,53.16,Equal Opportunity Practices,,,,,,,,,,,,-5000000.0,,,-5000000.0
 2,53.16,LA Fires Emergency Response,,,,948000.0,,,,,,,948000.0,,,,948000.0
-2,45.6,Total One-Time Allocations,0.0,0.0,0.0,948000.0,0.0,0.0,0.0,0.0,0.0,0.0,948000.0,,0.0,0.0,
+2,45.6,Total One-Time Allocations,0.0,0.0,0.0,948000.0,0.0,0.0,0.0,0.0,0.0,0.0,948000.0,-2600000.0,0.0,0.0,-1652000.0
 2,45.6,2024-25 State General Fund Support (Permanent + One-Time),524158752.0,523195942.0,403202347.0,635361201.0,208999141.0,410021795.0,516796691.0,254443388.0,289973233.0,269159383.0,4035311874.0,170733128.0,651685000.0,167000.0,4857897000.0
-2,45.6,1The University's capital program includes $124.9 million for the AB,94.0,,,,,,,,,,,,,,
+2,45.6,"1The University's capital program includes $124.9 million for the AB 94 program, as well as $6.5 million, $50.7 million, $33.3 million, and $14.5 million in ongoing funding provided by the State to cover debt service for the Riverside Medical School Building, Student Housing Grants, Berkeley Clean Energy / Merced & Riverside expansion projects, and the Merced Medical Building, respectively.",,,,,,,,,,,,,,,

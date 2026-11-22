@@ -67,7 +67,7 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 1,67.8,"Reduction of Nonresidents at BK, LA, SD",13235000.0,,,12445000.0,,,14343000.0,,,,40023000.0,,,,40023000.0
 1,67.8,AICCU ASSIST,,,,,,,,,,,,650000.0,,,650000.0
 1,67.8,Cradle-to-career,,,,,,,,,,,,150000.0,,,150000.0
-1,67.8,Prop,56.0,,,,,,,,,,,13832000.0,,,13832000.0
+1,67.8,Prop 56 GME Adjustments,,,,,,,,,,,,13832000.0,,,13832000.0
 1,67.8,Fixed Cost Earmark,15000000.0,15000000.0,15000000.0,15000000.0,,15000000.0,15000000.0,,15000000.0,15000000.0,120000000.0,,,,120000000.0
 1,52.68,Subtotal -- earmarks not subject to cost adjustment,63877166.0,34926528.0,34410417.0,58390577.0,23813483.0,104160678.0,50300465.0,18614750.0,46265087.0,56323956.0,491083106.0,184527745.0,,167000.0,675777851.0
 2,45.12,Systemwide commitments,,,,,,,,,,,,,,,
@@ -83,7 +83,7 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 2,60.24,Less Local Redirect for Enrollment,110000.0,43000.0,240000.0,328000.0,0.0,765000.0,795000.0,0.0,188000.0,531000.0,3000000.0,,,,
 2,52.68,Net State Funds for Enrollment,409413268.0,398579855.0,352589955.0,511817027.0,10330016.0,252193955.0,397428050.0,0.0,235762170.0,200255074.0,2768369371.0,,,,2768369371.0
 2,52.68,Weighted Enrollment for Allocations,46375.0,45039.0,39864.0,57864.0,1167.0,28581.0,44994.0,0.0,26659.0,22686.0,313229.0,,,,313229.0
-2,52.68,,8851.0,8851.0,8851.0,8851.0,8852.0,8851.0,8851.0,0.0,8851.0,8851.0,,,,,
+2,52.68,"$ per Weighted Budgeted Enrollment, Inc. Lottery Funds",8851.0,8851.0,8851.0,8851.0,8852.0,8851.0,8851.0,0.0,8851.0,8851.0,,,,,
 2,45.12,Total Permanent State General Funds,506148112.0,509882209.0,388108194.0,619294805.0,201708773.0,394487286.0,484276618.0,251387526.0,283104304.0,261434429.0,3899832256.0,184527745.0,637185000.0,167000.0,4721712000.0
 2,45.12,One-Time Allocations,,,,,,,,,,,,,,,
 2,52.68,UCLA Institute for Immunology and Immunotherapy,,,,100000000.0,,,,,,,100000000.0,,,,100000000.0
@@ -96,8 +96,8 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 2,52.68,UC Global Entrepreneurship Program,,,,,,,,,,,,2000000.0,,,2000000.0
 2,52.68,UC Fire Advisors,,,,,,,,,,,,2000000.0,,,2000000.0
 2,52.68,UC Nutrition Policy Institute,,,,,,,,,,,,1300000.0,,,1300000.0
-2,52.68,Scripps Institution,0.0,,,,,,3000000.0,,,,3000000.0,,,,3000000.0
-2,52.68,Scripps Institution,0.0,,,,,,2000000.0,,,,2000000.0,,,,2000000.0
+2,52.68,Scripps Institution - Coastal Ocean Pollution Pathogen Predictions Model,,,,,,,3000000.0,,,,3000000.0,,,,3000000.0
+2,52.68,Scripps Institution - California Coastal Mapping Program,,,,,,,2000000.0,,,,2000000.0,,,,2000000.0
 2,52.68,"UCLA Center of Reproductive Health, Law, and Policy",,,,2000000.0,,,,,,,2000000.0,,,,2000000.0
 2,52.68,UCB Race Education and Community Healing (REACH) Network,1000000.0,,,,,,,,,,1000000.0,,,,1000000.0
 2,52.68,"UCI Inclusive, Diverse, Equitable, and Able Leaders for Water Program",,,1000000.0,,,,,,,,1000000.0,,,,1000000.0

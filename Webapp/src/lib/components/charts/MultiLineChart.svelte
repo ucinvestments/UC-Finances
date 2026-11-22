@@ -2,6 +2,7 @@
   import * as d3 from "d3";
   import { onMount, onDestroy, untrack } from "svelte";
   import type { Series } from "$lib/types/ucop";
+  import ChartSeriesTable from "./ChartSeriesTable.svelte";
   import {
     createTooltip,
     fmtUSDShort,
@@ -213,7 +214,8 @@
   }
 </script>
 
-<div class="ml-chart" bind:this={el} style="min-height: {height}px;"></div>
+<div class="ml-chart" aria-hidden="true" bind:this={el} style="min-height: {height}px;"></div>
+<ChartSeriesTable {series} caption={yLabel ? `${yLabel} (USD)` : "Chart data (USD)"} />
 
 <style>
   .ml-chart {

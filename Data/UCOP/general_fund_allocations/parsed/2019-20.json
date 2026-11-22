@@ -718,7 +718,7 @@
     },
     {
       "page": 1,
-      "label": "",
+      "label": "$ per Weighted Budgeted Enrollment, Inc. Lottery Funds",
       "indent": 179.02,
       "amounts": {
         "berkeley": 7948.0,
@@ -776,7 +776,8 @@
         "san_francisco": 4458000.0,
         "santa_barbara": 6986000.0,
         "santa_cruz": 5788000.0,
-        "campus_total": 93826000.0
+        "campus_total": 93826000.0,
+        "capital_debt_service": -93826000.0
       }
     },
     {
@@ -794,7 +795,8 @@
         "san_francisco": 470000.0,
         "santa_barbara": 737000.0,
         "santa_cruz": 610000.0,
-        "campus_total": 9898000.0
+        "campus_total": 9898000.0,
+        "capital_debt_service": -9898000.0
       }
     },
     {
@@ -857,10 +859,9 @@
     },
     {
       "page": 1,
-      "label": "UCSF",
+      "label": "UCSF - Dyslexia Center Pilot Programs",
       "indent": 179.04,
       "amounts": {
-        "berkeley": 0.0,
         "san_francisco": 3500000.0,
         "campus_total": 3500000.0,
         "system_total": 3500000.0
@@ -878,7 +879,7 @@
     },
     {
       "page": 1,
-      "label": "UC Berkeley",
+      "label": "UC Berkeley - Underground Scholars",
       "indent": 179.04,
       "amounts": {
         "berkeley": 250000.0,
@@ -888,7 +889,7 @@
     },
     {
       "page": 1,
-      "label": "UC Berkeley",
+      "label": "UC Berkeley - Center for Labor Research and Education",
       "indent": 179.04,
       "amounts": {
         "berkeley": 1500000.0,
@@ -898,17 +899,16 @@
     },
     {
       "page": 1,
-      "label": "Statewide Grant Program (Prop",
+      "label": "Statewide Grant Program (Prop 56 replacement)",
       "indent": 179.04,
       "amounts": {
-        "berkeley": 56.0,
         "ucop_to_be_allocated": 1299000.0,
         "system_total": 1299000.0
       }
     },
     {
       "page": 1,
-      "label": "UC Berkeley",
+      "label": "UC Berkeley - Statewide Database",
       "indent": 179.04,
       "amounts": {
         "berkeley": 1915000.0,
@@ -918,7 +918,7 @@
     },
     {
       "page": 1,
-      "label": "UC Berkeley",
+      "label": "UC Berkeley - Graduate School of Education",
       "indent": 179.04,
       "amounts": {
         "berkeley": 1200000.0,
@@ -928,10 +928,9 @@
     },
     {
       "page": 1,
-      "label": "UCLA",
+      "label": "UCLA - Latino Policy and Politics Initiative",
       "indent": 179.04,
       "amounts": {
-        "berkeley": 0.0,
         "los_angeles": 2500000.0,
         "campus_total": 2500000.0,
         "system_total": 2500000.0
@@ -939,10 +938,9 @@
     },
     {
       "page": 1,
-      "label": "UCLA",
+      "label": "UCLA - Ralph J. Bunche Center",
       "indent": 179.04,
       "amounts": {
-        "berkeley": 0.0,
         "los_angeles": 3500000.0,
         "campus_total": 3500000.0,
         "system_total": 3500000.0
@@ -950,10 +948,9 @@
     },
     {
       "page": 1,
-      "label": "UCLA",
+      "label": "UCLA - Charles Drew Medical School",
       "indent": 179.04,
       "amounts": {
-        "berkeley": 0.0,
         "los_angeles": 7500000.0,
         "campus_total": 7500000.0,
         "system_total": 7500000.0
@@ -961,10 +958,9 @@
     },
     {
       "page": 1,
-      "label": "UC Davis",
+      "label": "UC Davis - Firearms Violence Prevention Training",
       "indent": 179.04,
       "amounts": {
-        "berkeley": 0.0,
         "davis": 3850000.0,
         "campus_total": 3850000.0,
         "system_total": 3850000.0
@@ -983,10 +979,9 @@
     },
     {
       "page": 1,
-      "label": "UC Davis",
+      "label": "UC Davis - Marine Mammal Center",
       "indent": 179.04,
       "amounts": {
-        "berkeley": 0.0,
         "davis": 2000000.0,
         "campus_total": 2000000.0,
         "system_total": 2000000.0
@@ -994,10 +989,9 @@
     },
     {
       "page": 1,
-      "label": "UC Davis",
+      "label": "UC Davis - Bulosan Filipino Studies Center",
       "indent": 179.04,
       "amounts": {
-        "berkeley": 0.0,
         "davis": 1000000.0,
         "campus_total": 1000000.0,
         "system_total": 1000000.0
@@ -1005,7 +999,7 @@
     },
     {
       "page": 1,
-      "label": "UC Berkeley",
+      "label": "UC Berkeley - Asian American and Asian Diaspora Studies",
       "indent": 179.04,
       "amounts": {
         "berkeley": 2000000.0,
@@ -1015,10 +1009,9 @@
     },
     {
       "page": 1,
-      "label": "UC Davis",
+      "label": "UC Davis - School of Veterinary Medicine",
       "indent": 179.04,
       "amounts": {
-        "berkeley": 0.0,
         "davis": 160000.0,
         "campus_total": 160000.0,
         "system_total": 160000.0
@@ -1050,6 +1043,7 @@
         "santa_cruz": 14222000.0,
         "campus_total": 281046000.0,
         "ucop_to_be_allocated": 44588000.0,
+        "capital_debt_service": -103724000.0,
         "off_campus_programs": 0.0,
         "system_total": 221910000.0
       }
@@ -1065,6 +1059,17 @@
       "label": "Direct Allocation of State General Funds to UCOP/ANR",
       "indent": 179.04,
       "amounts": {
+        "berkeley": -25204577.0,
+        "davis": -43357810.0,
+        "irvine": -31091193.0,
+        "los_angeles": -61352256.0,
+        "merced": -5270533.0,
+        "riverside": -14796879.0,
+        "san_diego": -43036233.0,
+        "san_francisco": -36318753.0,
+        "santa_barbara": -15267108.0,
+        "santa_cruz": -12153658.0,
+        "campus_total": -287849000.0,
         "ucop_to_be_allocated": 287849000.0
       }
     },
@@ -1073,6 +1078,17 @@
       "label": "Direct Allocation of State General Funds to UCPath",
       "indent": 179.04,
       "amounts": {
+        "berkeley": -6163705.0,
+        "davis": -7557005.0,
+        "irvine": -5060626.0,
+        "los_angeles": -11706701.0,
+        "merced": -839590.0,
+        "riverside": -2328877.0,
+        "san_diego": -7860417.0,
+        "san_francisco": -5675434.0,
+        "santa_barbara": -2953406.0,
+        "santa_cruz": -2254239.0,
+        "campus_total": -52400000.0,
         "ucop_to_be_allocated": 52400000.0
       }
     },
@@ -1081,6 +1097,17 @@
       "label": "Total Other Adjustments",
       "indent": 179.04,
       "amounts": {
+        "berkeley": -31368282.0,
+        "davis": -50914815.0,
+        "irvine": -36151819.0,
+        "los_angeles": -73058957.0,
+        "merced": -6110123.0,
+        "riverside": -17125756.0,
+        "san_diego": -50896650.0,
+        "san_francisco": -41994187.0,
+        "santa_barbara": -18220514.0,
+        "santa_cruz": -14407897.0,
+        "campus_total": -340249000.0,
         "ucop_to_be_allocated": 340249000.0,
         "capital_debt_service": 0.0,
         "off_campus_programs": 0.0,

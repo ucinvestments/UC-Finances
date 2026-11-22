@@ -33,14 +33,16 @@ type Filters struct {
 }
 
 type APIRequest struct {
-	Filters       Filters  `json:"filters"`
-	Page          int      `json:"page"`
-	Limit         int      `json:"limit"`
-	Sort          string   `json:"sort"`
-	Order         string   `json:"order"`
-	AuditTrail    string   `json:"auditTrail"`
-	Fields        []string `json:"fields"`
-	SpendingLevel string   `json:"spending_level"`
+	Filters             Filters  `json:"filters"`
+	Page                int      `json:"page"`
+	Limit               int      `json:"limit"`
+	Sort                string   `json:"sort"`
+	Order               string   `json:"order"`
+	AuditTrail          string   `json:"auditTrail"`
+	Fields              []string `json:"fields"`
+	SpendingLevel       string   `json:"spending_level"`
+	LastRecordUniqueID  int      `json:"last_record_unique_id,omitempty"`
+	LastRecordSortValue string   `json:"last_record_sort_value,omitempty"`
 }
 
 // API Response Structures
@@ -506,7 +508,8 @@ func (s *Scraper) fetchDetailedAward(ctx context.Context, generatedInternalID st
 
 func (s *Scraper) scrapeGroupData(ctx context.Context, groupName string, awardTypeCodes []string) ([]Award, error) {
 	var groupAwards []Award
-	page := 1
+	seen := make(map[string]struct{})
+	request := s.createRequest(groupName, awardTypeCodes)
 
 	log.Printf("Starting to scrape %s data (codes: %v)...", groupName, awardTypeCodes)
 
@@ -517,28 +520,40 @@ func (s *Scraper) scrapeGroupData(ctx context.Context, groupName string, awardTy
 		default:
 		}
 
-		log.Printf("[%s] Fetching page %d...", groupName, page)
-
-		request := s.createRequest(groupName, awardTypeCodes)
-		request.Page = page
+		log.Printf("[%s] Fetching page %d...", groupName, request.Page)
 
 		response, err := s.makeRequest(ctx, request)
 		if err != nil {
-			return nil, fmt.Errorf("error fetching %s page %d: %w", groupName, page, err)
+			return nil, fmt.Errorf("error fetching %s page %d: %w", groupName, request.Page, err)
 		}
 
-		groupAwards = append(groupAwards, response.Results...)
+		for _, award := range response.Results {
+			id := award.GeneratedInternalID
+			if id == "" {
+				return nil, fmt.Errorf("%s page %d contains an award without a generated ID", groupName, request.Page)
+			}
+			if _, duplicate := seen[id]; duplicate {
+				return nil, fmt.Errorf("%s page %d repeats award %s", groupName, request.Page, id)
+			}
+			seen[id] = struct{}{}
+			groupAwards = append(groupAwards, award)
+		}
 
 		log.Printf("[%s] Page %d: got %d awards, total so far: %d",
-			groupName, page, len(response.Results), len(groupAwards))
+			groupName, request.Page, len(response.Results), len(groupAwards))
 
-		// Check if there are more pages
-		if !response.PageMetadata.HasNext || len(response.Results) == 0 {
+		next := response.PageMetadata
+		if !next.HasNext {
 			log.Printf("[%s] No more pages. Total awards collected: %d", groupName, len(groupAwards))
 			break
 		}
-
-		page++
+		if len(response.Results) == 0 || next.LastRecordUniqueID == 0 || next.LastRecordSortValue == "" ||
+			(next.LastRecordUniqueID == request.LastRecordUniqueID && next.LastRecordSortValue == request.LastRecordSortValue) {
+			return nil, fmt.Errorf("%s page %d returned an invalid continuation cursor", groupName, request.Page)
+		}
+		request.LastRecordUniqueID = next.LastRecordUniqueID
+		request.LastRecordSortValue = next.LastRecordSortValue
+		request.Page++
 
 		// Be respectful to the API
 		time.Sleep(s.delay)

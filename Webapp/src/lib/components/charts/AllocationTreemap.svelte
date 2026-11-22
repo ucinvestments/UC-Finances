@@ -80,6 +80,7 @@
       .select(el)
       .append("svg")
       .attr("viewBox", `0 0 ${w} ${h}`)
+      .attr("aria-hidden", "true")
       .attr("preserveAspectRatio", "xMidYMid meet")
       .style("width", "100%")
       .style("height", "auto")
@@ -90,7 +91,7 @@
     const totalVal = root.value ?? 1;
 
     // draw top-level headers first (so leaves sit on top)
-    (root.children ?? []).forEach((top) => {
+    (root.children ?? []).filter((top) => top.children?.length).forEach((top) => {
       svg
         .append("rect")
         .attr("x", top.x0)
@@ -136,7 +137,6 @@
       .attr("fill-opacity", (d) => 0.55 + Math.min(0.4, (d.depth - 1) * 0.1))
       .attr("stroke", "white")
       .attr("stroke-width", 1)
-      .style("cursor", "pointer")
       .on("mouseenter", (e, d) => {
         const path = d
           .ancestors()
@@ -147,9 +147,9 @@
         const pct = ((d.value ?? 0) / totalVal) * 100;
         tip!.show(
           `<div style="font-weight:600;margin-bottom:4px;">${d.data.name}</div>` +
-            `<div style="opacity:0.8;font-size:12px;margin-bottom:4px;">${path}</div>` +
+            (d.depth > 1 ? `<div style="opacity:0.8;font-size:12px;margin-bottom:4px;">${path}</div>` : "") +
             `<div>${fmtUSD(d.value ?? 0)}</div>` +
-            `<div style="opacity:0.8;">(${pct.toFixed(2)}% of total)</div>`,
+            `<div style="opacity:0.8;">${pct.toFixed(2)}% of positive allocations shown</div>`,
           e,
         );
         d3.select(e.currentTarget as SVGRectElement).attr("fill-opacity", 0.95);

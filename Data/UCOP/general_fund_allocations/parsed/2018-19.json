@@ -455,7 +455,11 @@
       "page": 1,
       "label": "Redirect from Campus Assessment Budget to Enrollment",
       "indent": 162.7,
-      "amounts": {}
+      "amounts": {
+        "berkeley": -935000.0,
+        "campus_total": -935000.0,
+        "system_total": -935000.0
+      }
     },
     {
       "page": 1,
@@ -590,7 +594,7 @@
     },
     {
       "page": 1,
-      "label": "",
+      "label": "$ per Weighted Budgeted Enrollment Inc. Lottery Funds",
       "indent": 155.86,
       "amounts": {
         "berkeley": 7623.0,
@@ -678,7 +682,8 @@
         "san_francisco": 4139000.0,
         "santa_barbara": 7293000.0,
         "santa_cruz": 6004000.0,
-        "campus_total": 93400000.0
+        "campus_total": 93400000.0,
+        "capital_debt_service": -93400000.0
       }
     },
     {
@@ -696,7 +701,8 @@
         "san_francisco": 710000.0,
         "santa_barbara": 1250000.0,
         "santa_cruz": 1029000.0,
-        "campus_total": 16015000.0
+        "campus_total": 16015000.0,
+        "capital_debt_service": -16015000.0
       }
     },
     {
@@ -899,6 +905,7 @@
         "santa_cruz": 14888000.0,
         "campus_total": 277015000.0,
         "ucop_to_be_allocated": 6200000.0,
+        "capital_debt_service": -109415000.0,
         "off_campus_programs": 0.0,
         "system_total": 173800000.0
       }
@@ -914,6 +921,17 @@
       "label": "A. Direct Allocation of State General Funds to UCOP/ANR",
       "indent": 160.99,
       "amounts": {
+        "berkeley": -27057461.0,
+        "davis": -44927946.0,
+        "irvine": -31801512.0,
+        "los_angeles": -64257000.0,
+        "merced": -5164887.0,
+        "riverside": -15292829.0,
+        "san_diego": -43468843.0,
+        "san_francisco": -36581153.0,
+        "santa_barbara": -15685087.0,
+        "santa_cruz": -12163282.0,
+        "campus_total": -296400000.0,
         "ucop_to_be_allocated": 296400000.0
       }
     },
@@ -930,7 +948,8 @@
         "san_diego": 1143623.0,
         "santa_barbara": 758446.0,
         "santa_cruz": 619584.0,
-        "campus_total": 8551000.0
+        "campus_total": 8551000.0,
+        "ucop_to_be_allocated": -8551000.0
       }
     },
     {
@@ -938,6 +957,17 @@
       "label": "C. Assessment Net of Enrollment Redirection",
       "indent": 160.99,
       "amounts": {
+        "berkeley": -25774626.0,
+        "davis": -43673029.0,
+        "irvine": -30696433.0,
+        "los_angeles": -62616354.0,
+        "merced": -5164887.0,
+        "riverside": -14546959.0,
+        "san_diego": -42325220.0,
+        "san_francisco": -36581153.0,
+        "santa_barbara": -14926641.0,
+        "santa_cruz": -11543698.0,
+        "campus_total": -287849000.0,
         "ucop_to_be_allocated": 287849000.0
       }
     },
@@ -946,24 +976,40 @@
       "label": "D. Direct Allocation of State General Funds to UCPath",
       "indent": 160.99,
       "amounts": {
+        "berkeley": -6235847.0,
+        "davis": -7640306.0,
+        "irvine": -5022897.0,
+        "los_angeles": -11688974.0,
+        "merced": -801711.0,
+        "riverside": -2396082.0,
+        "san_diego": -7779989.0,
+        "san_francisco": -5574883.0,
+        "santa_barbara": -3045864.0,
+        "santa_cruz": -2213447.0,
+        "campus_total": -52400000.0,
         "ucop_to_be_allocated": 52400000.0,
         "system_total": 0.0
       }
     },
     {
       "page": 1,
-      "label": "E. Reduction Due to Prop",
+      "label": "E. Reduction Due to Prop 56 GME Funds (from 2017\u201018)",
       "indent": 160.99,
       "amounts": {
-        "berkeley": 56.0
+        "davis": -8000000.0,
+        "irvine": -7000000.0,
+        "los_angeles": -12000000.0,
+        "san_diego": -7000000.0,
+        "san_francisco": -16000000.0,
+        "campus_total": -50000000.0,
+        "system_total": -50000000.0
       }
     },
     {
       "page": 1,
-      "label": "F. Restoration of Prop",
+      "label": "F. Restoration of Prop 56 GME Funds in 2018\u201019",
       "indent": 160.99,
       "amounts": {
-        "berkeley": 56.0,
         "davis": 8000000.0,
         "irvine": 7000000.0,
         "los_angeles": 12000000.0,
@@ -978,6 +1024,17 @@
       "label": "Total Other Adjustments",
       "indent": 155.86,
       "amounts": {
+        "berkeley": -32010473.0,
+        "davis": -51313335.0,
+        "irvine": -35719330.0,
+        "los_angeles": -74305328.0,
+        "merced": -5966598.0,
+        "riverside": -16943041.0,
+        "san_diego": -50105209.0,
+        "san_francisco": -42156036.0,
+        "santa_barbara": -17972505.0,
+        "santa_cruz": -13757145.0,
+        "campus_total": -340249000.0,
         "ucop_to_be_allocated": 340249000.0,
         "capital_debt_service": 0.0,
         "off_campus_programs": 0.0,

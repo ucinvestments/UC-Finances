@@ -911,10 +911,9 @@
     },
     {
       "page": 1,
-      "label": "Prop",
+      "label": "Prop 56 GME Adjustments",
       "indent": 63.84,
       "amounts": {
-        "berkeley": 56.0,
         "ucop_to_be_allocated": 338000.0,
         "system_total": 338000.0
       }
@@ -1108,7 +1107,7 @@
     },
     {
       "page": 2,
-      "label": "",
+      "label": "$ per Weighted Budgeted Enrollment, Inc. Lottery Funds",
       "indent": 48.73,
       "amounts": {
         "berkeley": 8933.0,
@@ -1341,11 +1340,9 @@
     },
     {
       "page": 2,
-      "label": "1The University's capital program includes $124.9 million for the AB",
+      "label": "1The University's capital program includes $124.9 million for the AB 94 program, as well as $6.5 million, $49.7 million, $33.3 million, and $14.5 million in ongoing funding provided by the State to cover debt service for the Riverside Medical School Building, Student Housing Grants, Berkeley Clean Energy / Merced & Riverside expansion projects, and the Merced Medical Building, respectively.",
       "indent": 41.16,
-      "amounts": {
-        "berkeley": 94.0
-      }
+      "amounts": {}
     }
   ]
 }

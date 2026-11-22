@@ -69,7 +69,7 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 1,63.84,"Reduction of Nonresidents at BK, LA, SD",20351900.0,,,19561900.0,,,21507346.0,,,,61421146.0,,,,61421146.0
 1,63.84,AICCU ASSIST,,,,,,,,,,,,650000.0,,,650000.0
 1,63.84,Cradle-to-career,,,,,,,,,,,,150000.0,,,150000.0
-1,63.84,Prop,56.0,,,,,,,,,,,338000.0,,,338000.0
+1,63.84,Prop 56 GME Adjustments,,,,,,,,,,,,338000.0,,,338000.0
 1,63.84,Fixed Cost Earmark,15000000.0,15000000.0,15000000.0,15000000.0,,15000000.0,15000000.0,,15000000.0,15000000.0,120000000.0,,,,120000000.0
 1,48.72,Subtotal -- earmarks not subject to cost adjustment,72139841.0,35530133.0,27793880.0,68467992.0,23730630.0,110228198.0,58203608.0,18555340.0,49923410.0,56722221.0,521295252.0,157524659.0,,167000.0,678986911.0
 2,41.16,Systemwide commitments,,,,,,,,,,,,,,,
@@ -85,7 +85,7 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 2,56.28,Less Local Redirect for Enrollment,110000.0,43000.0,240000.0,328000.0,0.0,765000.0,795000.0,0.0,188000.0,531000.0,3000000.0,,,,
 2,48.72,Net State Funds for Enrollment,417972153.0,407914903.0,367472122.0,515785970.0,12935560.0,262937132.0,419004381.0,0.0,240530215.0,211877180.0,2856429617.0,,,,2856429617.0
 2,48.73,Weighted Enrollment for Allocations,46905.0,45667.0,41162.0,57774.0,1448.0,29519.0,46993.0,0.0,26947.0,23776.0,320191.0,,,,320191.0
-2,48.73,,8933.0,8933.0,8933.0,8933.0,8933.0,8933.0,8933.0,0.0,8933.0,8934.0,,,,,
+2,48.73,"$ per Weighted Budgeted Enrollment, Inc. Lottery Funds",8933.0,8933.0,8933.0,8933.0,8933.0,8933.0,8933.0,0.0,8933.0,8934.0,,,,,
 2,41.16,Total Permanent State General Funds,523730214.0,521588699.0,396399466.0,634477362.0,207867189.0,412180622.0,514602055.0,254263480.0,291555601.0,273567184.0,4030231872.0,173203128.0,650685000.0,167000.0,4854287000.0
 2,41.16,One-Time Allocations,,,,,,,,,,,,,,,
 2,58.08,Journalism Fellowship Program at UC Berkeley,15000000.0,,,,,,,,,,15000000.0,,,,15000000.0
@@ -104,4 +104,4 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 2,58.08,City of Chula Vista (to establish the South County Higher Education Planning Task Force),,,,,,,250000.0,,,,250000.0,,,,250000.0
 2,41.16,Total One-Time Allocations,15250000.0,1750000.0,5750000.0,3100000.0,0.0,500000.0,8250000.0,2300000.0,0.0,1500000.0,38400000.0,9600000.0,0.0,0.0,48000000.0
 2,41.16,2025-26 State General Fund Support (Permanent + One-Time),538980214.0,523338699.0,402149466.0,637577362.0,207867189.0,412680622.0,522852055.0,256563480.0,291555601.0,275067184.0,4068631872.0,182803128.0,650685000.0,167000.0,4902287000.0
-2,41.16,1The University's capital program includes $124.9 million for the AB,94.0,,,,,,,,,,,,,,
+2,41.16,"1The University's capital program includes $124.9 million for the AB 94 program, as well as $6.5 million, $49.7 million, $33.3 million, and $14.5 million in ongoing funding provided by the State to cover debt service for the Riverside Medical School Building, Student Housing Grants, Berkeley Clean Energy / Merced & Riverside expansion projects, and the Merced Medical Building, respectively.",,,,,,,,,,,,,,,
