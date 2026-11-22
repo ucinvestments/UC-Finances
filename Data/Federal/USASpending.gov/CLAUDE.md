@@ -14,7 +14,7 @@ This directory contains a Go application for scraping federal spending data rela
 cd Scraping/
 
 # Build the enhanced scraper
-go build -o usaspending-enhanced-scraper main.go
+go build -o usaspending-enhanced-scraper .
 
 # Run the enhanced scraper
 ./usaspending-enhanced-scraper

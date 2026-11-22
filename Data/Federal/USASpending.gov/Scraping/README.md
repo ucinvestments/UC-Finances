@@ -27,7 +27,7 @@ The enhanced scraper combines two API endpoints:
 
 ```bash
 # Build the enhanced scraper
-go build -o usaspending-enhanced-scraper main.go
+go build -o usaspending-enhanced-scraper .
 
 # Run the enhanced scraper
 ./usaspending-enhanced-scraper

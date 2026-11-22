@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"context"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"log"
@@ -25,11 +26,12 @@ type PlaceOfPerformance struct {
 }
 
 type Filters struct {
-	Keywords                    []string             `json:"keywords"`
+	Keywords                    []string             `json:"keywords,omitempty"`
+	RecipientSearchText         []string             `json:"recipient_search_text,omitempty"`
 	TimePeriod                  []TimePeriod         `json:"time_period"`
-	AwardTypeCodes              []string             `json:"award_type_codes"`
-	RecipientTypeNames          []string             `json:"recipient_type_names"`
-	PlaceOfPerformanceLocations []PlaceOfPerformance `json:"place_of_performance_locations"`
+	AwardTypeCodes              []string             `json:"award_type_codes,omitempty"`
+	RecipientTypeNames          []string             `json:"recipient_type_names,omitempty"`
+	PlaceOfPerformanceLocations []PlaceOfPerformance `json:"place_of_performance_locations,omitempty"`
 }
 
 type APIRequest struct {
@@ -85,6 +87,7 @@ type Award struct {
 	Description               string      `json:"Description"`
 	ContractAwardType         string      `json:"Contract Award Type"`
 	RecipientUEI              string      `json:"Recipient UEI"`
+	RecipientDUNS             string      `json:"Recipient DUNS Number,omitempty"`
 	RecipientLocation         interface{} `json:"Recipient Location"`           // Can be Location object or string fields
 	PrimaryPlaceOfPerformance interface{} `json:"Primary Place of Performance"` // Can be Location object or string fields
 	DefCodes                  []string    `json:"def_codes"`
@@ -444,14 +447,20 @@ func (s *Scraper) createRequest(groupName string, awardTypeCodes []string) APIRe
 }
 
 func (s *Scraper) makeRequest(ctx context.Context, request APIRequest) (*APIResponse, error) {
+	var response APIResponse
+	err := s.postJSON(ctx, s.baseURL, request, &response)
+	return &response, err
+}
+
+func (s *Scraper) postJSON(ctx context.Context, endpoint string, request, response any) error {
 	jsonData, err := json.Marshal(request)
 	if err != nil {
-		return nil, fmt.Errorf("error marshaling request: %w", err)
+		return fmt.Errorf("error marshaling request: %w", err)
 	}
 
-	req, err := http.NewRequestWithContext(ctx, "POST", s.baseURL, bytes.NewBuffer(jsonData))
+	req, err := http.NewRequestWithContext(ctx, "POST", endpoint, bytes.NewBuffer(jsonData))
 	if err != nil {
-		return nil, fmt.Errorf("error creating request: %w", err)
+		return fmt.Errorf("error creating request: %w", err)
 	}
 
 	req.Header.Set("Content-Type", "application/json")
@@ -459,21 +468,22 @@ func (s *Scraper) makeRequest(ctx context.Context, request APIRequest) (*APIResp
 
 	resp, err := s.client.Do(req)
 	if err != nil {
-		return nil, fmt.Errorf("error making request: %w", err)
+		return fmt.Errorf("error making request: %w", err)
 	}
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
 		body, _ := io.ReadAll(resp.Body)
-		return nil, fmt.Errorf("API returned status %d: %s", resp.StatusCode, string(body))
+		return fmt.Errorf("API returned status %d: %s", resp.StatusCode, string(body))
 	}
 
-	var apiResponse APIResponse
-	if err := json.NewDecoder(resp.Body).Decode(&apiResponse); err != nil {
-		return nil, fmt.Errorf("error decoding response: %w", err)
+	decoder := json.NewDecoder(resp.Body)
+	decoder.UseNumber()
+	if err := decoder.Decode(response); err != nil {
+		return fmt.Errorf("error decoding response: %w", err)
 	}
 
-	return &apiResponse, nil
+	return nil
 }
 
 func (s *Scraper) fetchDetailedAward(ctx context.Context, generatedInternalID string) (*DetailedAwardResponse, error) {
@@ -507,11 +517,14 @@ func (s *Scraper) fetchDetailedAward(ctx context.Context, generatedInternalID st
 }
 
 func (s *Scraper) scrapeGroupData(ctx context.Context, groupName string, awardTypeCodes []string) ([]Award, error) {
+	return s.scrapeAwards(ctx, groupName, s.createRequest(groupName, awardTypeCodes))
+}
+
+func (s *Scraper) scrapeAwards(ctx context.Context, groupName string, request APIRequest) ([]Award, error) {
 	var groupAwards []Award
 	seen := make(map[string]struct{})
-	request := s.createRequest(groupName, awardTypeCodes)
 
-	log.Printf("Starting to scrape %s data (codes: %v)...", groupName, awardTypeCodes)
+	log.Printf("Starting to scrape %s data (codes: %v)...", groupName, request.Filters.AwardTypeCodes)
 
 	for {
 		select {
@@ -773,8 +786,21 @@ func saveToJSON(data []Award, filename string) error {
 
 func main() {
 	ctx := context.Background()
-
 	scraper := NewScraper()
+	verifiedOutput := flag.String("verified-output", "", "write a new archive of awards matched to UCOP's published recipient IDs")
+	startDate := flag.String("start", "2007-10-01", "verified search start date")
+	endDate := flag.String("end", "2025-09-30", "verified search end date")
+	flag.Parse()
+	if flag.NArg() != 0 || (*verifiedOutput == "" && flag.NFlag() != 0) {
+		flag.Usage()
+		os.Exit(2)
+	}
+	if *verifiedOutput != "" {
+		if err := scraper.writeVerifiedAwards(ctx, *verifiedOutput, TimePeriod{StartDate: *startDate, EndDate: *endDate}); err != nil {
+			log.Fatal(err)
+		}
+		return
+	}
 
 	log.Printf("Starting USASpending.gov Enhanced Scraper")
 	log.Printf("This will collect basic award data and detailed information for each award")
