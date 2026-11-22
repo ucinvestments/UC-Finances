@@ -9,14 +9,13 @@
   import MultiLineChart from "$lib/components/charts/MultiLineChart.svelte";
   import MedCenterDonut from "$lib/components/charts/MedCenterDonut.svelte";
   import Legend from "$lib/components/charts/Legend.svelte";
+  import ChartDataTable from "$lib/components/charts/ChartDataTable.svelte";
   import {
-    systemRevExp,
-    perCampusRevExp,
-    medCenterRevExp,
     toSeries,
     type RevExpKind,
+    type RetrendsSource,
   } from "$lib/utils/retrendsMerge";
-  import { RETRENDS_UNIT, paletteFor } from "$lib/utils/chart";
+  import { fmtUSD, paletteFor } from "$lib/utils/chart";
   import { getCampusTheme } from "$lib/utils/campusColors";
   import type { Series } from "$lib/types/ucop";
 
@@ -27,111 +26,94 @@
   let donutYear = $state<number>(0);
 
   const years = $derived(data.merged.years);
+  const tables = $derived(data.merged.tables);
 
-  // System rev/exp stacked areas
-  const systemRev = $derived(paletteFor(toSeries(systemRevExp(data.merged, "revenue"))));
-  const systemExp = $derived(paletteFor(toSeries(systemRevExp(data.merged, "expense"))));
+  const sourceColumns = [
+    { scope: "system", kind: "revenue", label: "System revenue" },
+    { scope: "system", kind: "expense", label: "System expenses" },
+    { scope: "campus", kind: "revenue", label: "Campus revenue" },
+    { scope: "campus", kind: "expense", label: "Campus expenses" },
+    { scope: "medical", kind: "revenue", label: "Medical center revenue" },
+    { scope: "medical", kind: "expense", label: "Medical center expenses" },
+  ] as const;
 
-  // Per-campus totals — one line per campus
-  const CAMPUS_LABELS = [
-    "Berkeley",
-    "Davis",
-    "Irvine",
-    "Los Angeles",
-    "Merced",
-    "Riverside",
-    "San Diego",
-    "San Francisco",
-    "Santa Barbara",
-    "Santa Cruz",
-  ];
-  const campusRevSeries = $derived.by<Series[]>(() => {
-    const raw = perCampusRevExp(data.merged, "revenue").filter((s) =>
-      CAMPUS_LABELS.includes(s.label_norm),
-    );
-    return raw.map((s) => ({
-      id: s.label_norm,
-      label: s.label_norm,
-      color: getCampusTheme(s.label_norm).primary,
-      values: Object.entries(s.amounts)
-        .map(([y, v]) => ({ year: Number(y), value: v * RETRENDS_UNIT }))
-        .sort((a, b) => a.year - b.year),
+  const coverage = $derived(
+    years.length === 1 ? `FY ${years[0]}` : `FY ${years[0]}–${years.at(-1)}`,
+  );
+  const systemRev = $derived(paletteFor(toSeries(tables.system.revenue)));
+  const systemExp = $derived(paletteFor(toSeries(tables.system.expense)));
+  const campusRevSeries = $derived(
+    withCampusColors(toSeries(tables.campus.revenue)),
+  );
+  const campusExpSeries = $derived(
+    withCampusColors(toSeries(tables.campus.expense)),
+  );
+  const medCenterSeries = $derived(
+    withCampusColors(toSeries(tables.medical[donutKind])),
+  );
+  const medicalYears = $derived(
+    Object.keys(tables.medical[donutKind].sources).map(Number),
+  );
+  const activeDonutYear = $derived(
+    medicalYears.includes(donutYear) ? donutYear : medicalYears.at(-1),
+  );
+  const donutValues = $derived(
+    medCenterSeries.map(({ label, values }) => ({
+      label,
+      value: values.find((point) => point.year === activeDonutYear)?.value,
+    })),
+  );
+  const donutSlices = $derived(
+    donutValues.flatMap(({ label, value }) =>
+      value !== undefined && value > 0
+        ? [{ label, value, themeKey: label }]
+        : [],
+    ),
+  );
+  const donutTotal = $derived(
+    donutSlices.reduce((sum, slice) => sum + slice.value, 0),
+  );
+
+  function withCampusColors(series: Series[]): Series[] {
+    return series.map((item) => ({
+      ...item,
+      color: getCampusTheme(item.label).primary,
     }));
-  });
-  const campusExpSeries = $derived.by<Series[]>(() => {
-    const raw = perCampusRevExp(data.merged, "expense").filter((s) =>
-      CAMPUS_LABELS.includes(s.label_norm),
-    );
-    return raw.map((s) => ({
-      id: s.label_norm,
-      label: s.label_norm,
-      color: getCampusTheme(s.label_norm).primary,
-      values: Object.entries(s.amounts)
-        .map(([y, v]) => ({ year: Number(y), value: v * RETRENDS_UNIT }))
-        .sort((a, b) => a.year - b.year),
-    }));
-  });
+  }
 
-  // Medical centers (series over years, one per center)
-  const MED_LABELS = ["Davis", "Irvine", "Los Angeles", "San Diego", "San Francisco"];
-  const medCenterSeries = $derived.by<Series[]>(() => {
-    const raw = medCenterRevExp(data.merged, donutKind).filter((s) =>
-      MED_LABELS.includes(s.label_norm),
-    );
-    return raw.map((s) => ({
-      id: s.label_norm,
-      label: s.label_norm,
-      color: getCampusTheme(s.label_norm).primary,
-      values: Object.entries(s.amounts)
-        .map(([y, v]) => ({ year: Number(y), value: v * RETRENDS_UNIT }))
-        .sort((a, b) => a.year - b.year),
-    }));
-  });
-
-  // Donut slices for a single year
-  const donutSlices = $derived.by(() => {
-    const year = donutYear || (years.length ? years[years.length - 1] : 0);
-    const raw = medCenterRevExp(data.merged, donutKind).filter((s) =>
-      MED_LABELS.includes(s.label_norm),
-    );
-    return raw
-      .map((s) => ({
-        label: s.label_norm,
-        value: (s.amounts[year] ?? 0) * RETRENDS_UNIT,
-        themeKey: s.label_norm,
-      }))
-      .filter((s) => s.value > 0);
-  });
-
-  const activeDonutYear = $derived(donutYear || years[years.length - 1]);
+  function pageLink(source: RetrendsSource): string {
+    return `${source.url.split("#")[0]}#page=${source.page}`;
+  }
 </script>
 
 <svelte:head>
   <title>Revenue &amp; Expenses · UC Finances</title>
   <meta
     name="description"
-    content="University of California system-wide and per-campus revenues and expenses since 2015, from UC's Revenue and Expense Trends reports."
+    content={`University of California system, campus, and medical center revenues and expenses for ${coverage}.`}
   />
 </svelte:head>
 
 <PageLayout>
   <Hero
     title="Revenue and Expense Trends"
-    subtitle="Eleven years of UC system-wide, per-campus, and medical-centre revenues and expenses — merged from UC's annual Revenue &amp; Expense Trends reports."
+    subtitle={`University of California system, campus, and medical center finances for ${coverage}.`}
   />
 
   <Container>
     <Section title="System revenues and expenses" icon="mdi:chart-areaspline">
       <p class="desc">
-        UC system-wide revenues by source and expenses by function, with overlapping
-        years reconciled by keeping the value from the most recent report (capturing
-        restatements).
+        Each fiscal year uses the newest UC report whose extracted breakdown
+        reconciles to the published total. <a href="#source-reports"
+          >See source reports.</a
+        >
       </p>
       <div class="toggle-row">
-        <span class="toggle-label">Stack mode:</span>
+        <span class="toggle-label">Chart scale</span>
         <button
           class="toggle"
           class:active={stackMode === "none"}
+          aria-pressed={stackMode === "none"}
           onclick={() => (stackMode = "none")}
         >
           Dollars
@@ -139,26 +121,33 @@
         <button
           class="toggle"
           class:active={stackMode === "expand"}
+          aria-pressed={stackMode === "expand"}
           onclick={() => (stackMode = "expand")}
         >
           100%
         </button>
       </div>
-      <ChartFrame
-        title="Revenues by source"
-        subtitle="Hover any year to see the breakdown"
-      >
+      <ChartFrame title="Revenues by source">
         {#snippet legend()}
-          <Legend items={systemRev.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+          <Legend
+            items={systemRev.map((s) => ({
+              id: s.id,
+              label: s.label,
+              color: s.color!,
+            }))}
+          />
         {/snippet}
         <StackedAreaChart series={systemRev} stackOffset={stackMode} />
       </ChartFrame>
-      <ChartFrame
-        title="Expenses by function"
-        subtitle="Hover any year to see the breakdown"
-      >
+      <ChartFrame title="Expenses by function">
         {#snippet legend()}
-          <Legend items={systemExp.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+          <Legend
+            items={systemExp.map((s) => ({
+              id: s.id,
+              label: s.label,
+              color: s.color!,
+            }))}
+          />
         {/snippet}
         <StackedAreaChart series={systemExp} stackOffset={stackMode} />
       </ChartFrame>
@@ -166,40 +155,47 @@
 
     <Section title="Campus revenue and expense over time" icon="mdi:school">
       <p class="desc">
-        Total revenue and total expense for each campus, covering the full archive. Each
-        campus uses its own brand colour.
+        Campus totals are shown as reported by UC. The system totals also
+        include the Department of Energy laboratories and systemwide activities.
       </p>
-      <ChartFrame
-        title="Total campus revenue"
-        subtitle="One line per campus, all years"
-      >
+      <ChartFrame title="Total campus revenue">
         {#snippet legend()}
-          <Legend items={campusRevSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+          <Legend
+            items={campusRevSeries.map((s) => ({
+              id: s.id,
+              label: s.label,
+              color: s.color!,
+            }))}
+          />
         {/snippet}
         <MultiLineChart series={campusRevSeries} yLabel="Total revenue" />
       </ChartFrame>
-      <ChartFrame
-        title="Total campus expense"
-        subtitle="One line per campus, all years"
-      >
+      <ChartFrame title="Total campus expense">
         {#snippet legend()}
-          <Legend items={campusExpSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+          <Legend
+            items={campusExpSeries.map((s) => ({
+              id: s.id,
+              label: s.label,
+              color: s.color!,
+            }))}
+          />
         {/snippet}
         <MultiLineChart series={campusExpSeries} yLabel="Total expense" />
       </ChartFrame>
     </Section>
 
-    <Section title="Medical centres" icon="mdi:hospital-building">
+    <Section title="Medical centers" icon="mdi:hospital-building">
       <p class="desc">
-        UC operates medical centres at Davis, Irvine, Los Angeles, San Diego and San
-        Francisco. Medical-centre revenue is now one of the largest components of total
-        UC revenue.
+        UC operates medical centers at Davis, Irvine, Los Angeles, San Diego and
+        San Francisco. Medical center revenue is now one of the largest
+        components of total UC revenue.
       </p>
       <div class="toggle-row">
-        <span class="toggle-label">Show:</span>
+        <span class="toggle-label">Measure</span>
         <button
           class="toggle"
           class:active={donutKind === "revenue"}
+          aria-pressed={donutKind === "revenue"}
           onclick={() => (donutKind = "revenue")}
         >
           Revenue
@@ -207,51 +203,133 @@
         <button
           class="toggle"
           class:active={donutKind === "expense"}
+          aria-pressed={donutKind === "expense"}
           onclick={() => (donutKind = "expense")}
         >
           Expense
         </button>
-        <span class="toggle-label" style="margin-left:1.25rem;">Year:</span>
-        <select
-          bind:value={donutYear}
-          class="year-select"
-          aria-label="Select year for donut chart"
+        <label class="toggle-label year-label" for="medical-year"
+          >Fiscal year</label
         >
-          <option value={0}>Latest ({years.at(-1) ?? ""})</option>
-          {#each years.slice().reverse() as y}
-            <option value={y}>{y}</option>
+        <select
+          id="medical-year"
+          value={activeDonutYear}
+          onchange={(event) => (donutYear = Number(event.currentTarget.value))}
+          class="year-select"
+          disabled={!medicalYears.length}
+        >
+          {#each medicalYears.slice().reverse() as year (year)}
+            <option value={year}>{year}</option>
           {/each}
         </select>
       </div>
       <div class="med-grid">
         <ChartFrame
-          title="Medical centre {donutKind} share — {activeDonutYear}"
-          subtitle="Click a slice to inspect"
+          title={`Medical center ${donutKind} share${activeDonutYear ? ` · FY ${activeDonutYear}` : ""}`}
           minHeight={480}
         >
-          <MedCenterDonut
-            slices={donutSlices}
-            centerLabel="Total {donutKind}"
-          />
+          {#if donutSlices.length}
+            <MedCenterDonut
+              slices={donutSlices}
+              centerLabel="Total {donutKind}"
+            />
+            <ChartDataTable
+              caption={`Medical center ${donutKind}, FY ${activeDonutYear}`}
+              rowHeading="Medical center"
+              columns={["Amount", "Share"]}
+              rows={donutValues.map(({ label, value }) => ({
+                label,
+                values:
+                  value === undefined
+                    ? [undefined, undefined]
+                    : [
+                        fmtUSD(value),
+                        `${((value / donutTotal) * 100).toFixed(1)}%`,
+                      ],
+              }))}
+            />
+          {:else}
+            <p>No validated figures for this period.</p>
+          {/if}
         </ChartFrame>
         <ChartFrame
-          title="Medical centre {donutKind} over time"
-          subtitle="Lines coloured by centre"
+          title="Medical center {donutKind} over time"
           minHeight={480}
         >
           {#snippet legend()}
-            <Legend items={medCenterSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
+            <Legend
+              items={medCenterSeries.map((s) => ({
+                id: s.id,
+                label: s.label,
+                color: s.color!,
+              }))}
+            />
           {/snippet}
           <MultiLineChart series={medCenterSeries} />
         </ChartFrame>
       </div>
     </Section>
+    <div id="source-reports">
+      <Section title="Source reports" icon="mdi:file-document-outline">
+        <p class="desc">
+          UC's annual reports cover five fiscal years at a time. If a newer
+          extraction fails to reconcile, the explorer uses an earlier validated
+          report. Campus and medical center breakdowns can use different reports
+          for the same year.
+        </p>
+        <details>
+          <summary>View reports by fiscal year</summary>
+          <!-- svelte-ignore a11y_no_noninteractive_tabindex (Keyboard users need to scroll wide tables.) -->
+          <div
+            class="reports-scroll"
+            role="region"
+            aria-label="Reports by fiscal year"
+            tabindex="0"
+          >
+            <table class="reports-table">
+              <caption
+                >Report edition and PDF page used for each breakdown</caption
+              >
+              <thead>
+                <tr>
+                  <th scope="col">Fiscal year</th>
+                  {#each sourceColumns as { label }}
+                    <th scope="col">{label}</th>
+                  {/each}
+                </tr>
+              </thead>
+              <tbody>
+                {#each years.slice().reverse() as year (year)}
+                  <tr>
+                    <th scope="row">{year}</th>
+                    {#each sourceColumns as { scope, kind }}
+                      {@const source = tables[scope][kind].sources[year]}
+                      <td>
+                        {#if source?.url}
+                          <a href={pageLink(source)}
+                            >{source.reportYear} · p. {source.page}</a
+                          >
+                        {:else if source}
+                          {source.reportYear} · p. {source.page}
+                        {:else}
+                          Unavailable
+                        {/if}
+                      </td>
+                    {/each}
+                  </tr>
+                {/each}
+              </tbody>
+            </table>
+          </div>
+        </details>
+      </Section>
+    </div>
   </Container>
 </PageLayout>
 
 <style>
   .desc {
-    color: #475569;
+    color: var(--text-secondary);
     font-size: 1rem;
     line-height: 1.55;
     margin: 0 0 1.25rem;
@@ -290,6 +368,9 @@
     color: white;
     border-color: transparent;
   }
+  .year-label {
+    margin-inline-start: 0.75rem;
+  }
   .year-select {
     padding: 0.45rem 0.75rem;
     border-radius: 0.55rem;
@@ -302,12 +383,41 @@
   }
   .med-grid {
     display: grid;
-    grid-template-columns: minmax(320px, 1fr) minmax(320px, 1.25fr);
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr);
     gap: 1.5rem;
+  }
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+  }
+  .reports-scroll {
+    overflow-x: auto;
+    margin-top: 1rem;
+  }
+  .reports-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+  .reports-table caption {
+    text-align: left;
+    padding: 0.5rem;
+  }
+  .reports-table th,
+  .reports-table td {
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 0.5rem;
+  }
+  .reports-table td a {
+    white-space: nowrap;
+  }
+  a {
+    text-decoration: underline;
   }
   @media (max-width: 900px) {
     .med-grid {
-      grid-template-columns: 1fr;
+      grid-template-columns: minmax(0, 1fr);
     }
   }
 </style>

@@ -22,6 +22,7 @@
   } = $props();
 
   let mobileOpen = $state(false);
+  let menuButton: HTMLButtonElement;
 
   $effect(() => {
     if ($page.url) mobileOpen = false;
@@ -34,9 +35,18 @@
   function close() {
     mobileOpen = false;
   }
+
+  function closeOnEscape(event: KeyboardEvent) {
+    if (event.key === "Escape" && mobileOpen) {
+      close();
+      menuButton.focus();
+    }
+  }
 </script>
 
-<nav class="navbar">
+<svelte:window onkeydown={closeOnEscape} />
+
+<nav class="navbar" aria-label="Main navigation">
   <div class="nav-container">
     <a href="/" class="logo-link" onclick={close}>
       <div class="logo">
@@ -48,16 +58,25 @@
       </div>
     </a>
 
-    <button class="burger-btn" onclick={toggle} aria-label="Toggle menu">
+    <button
+      class="burger-btn"
+      type="button"
+      bind:this={menuButton}
+      onclick={toggle}
+      aria-label="Menu"
+      aria-expanded={mobileOpen}
+      aria-controls="primary-nav-links"
+    >
       <Icon icon={mobileOpen ? "mdi:close" : "mdi:menu"} class="burger-icon" />
     </button>
 
-    <div class="nav-links" class:mobile-open={mobileOpen}>
+    <div class="nav-links" id="primary-nav-links" class:mobile-open={mobileOpen}>
       {#each links as link}
         <a
           href={link.href}
           class="nav-link"
           class:active={$page.url.pathname === link.href}
+          aria-current={$page.url.pathname === link.href ? "page" : undefined}
           class:external={link.external}
           target={link.external ? "_blank" : undefined}
           rel={link.external ? "noopener noreferrer" : undefined}
@@ -139,6 +158,7 @@
     align-items: center;
     gap: 0.375rem;
     padding: 0.5rem 1rem;
+    min-height: 2.75rem;
     color: var(--text-secondary);
     text-decoration: none;
     font-weight: 500;
@@ -177,6 +197,8 @@
     border: none;
     cursor: pointer;
     padding: 0.5rem;
+    min-height: 2.75rem;
+    min-width: 2.75rem;
     border-radius: 0.5rem;
     transition: background 0.2s ease;
   }
@@ -190,7 +212,7 @@
     color: var(--pri);
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 860px) {
     .burger-btn {
       display: block;
     }

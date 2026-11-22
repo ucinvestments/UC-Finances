@@ -1,7 +1,7 @@
 {
   "fiscal_year": "2024-25",
   "title": "2024-25 Summary of State General Fund Allocations",
-  "source_url": "",
+  "source_url": "https://www.ucop.edu/operating-budget/budgets-and-reports/other-resources/2024-25-summary-of-state-general-fund-allocations.pdf",
   "source_filename": "2024-25.pdf",
   "retrieved_at": "2026-04-17T02:54:36+00:00",
   "columns": [
@@ -901,10 +901,9 @@
     },
     {
       "page": 1,
-      "label": "Prop",
+      "label": "Prop 56 GME Adjustments",
       "indent": 68.28,
       "amounts": {
-        "berkeley": 56.0,
         "ucop_to_be_allocated": 338000.0,
         "system_total": 338000.0
       }
@@ -1098,7 +1097,7 @@
     },
     {
       "page": 2,
-      "label": "",
+      "label": "$ per Weighted Budgeted Enrollment, Inc. Lottery Funds",
       "indent": 53.16,
       "amounts": {
         "berkeley": 9001.0,
@@ -1154,7 +1153,10 @@
       "page": 2,
       "label": "Equal Opportunity Practices",
       "indent": 53.16,
-      "amounts": {}
+      "amounts": {
+        "ucop_to_be_allocated": -5000000.0,
+        "system_total": -5000000.0
+      }
     },
     {
       "page": 2,
@@ -1182,8 +1184,10 @@
         "santa_barbara": 0.0,
         "santa_cruz": 0.0,
         "campus_total": 948000.0,
+        "ucop_to_be_allocated": -2600000.0,
         "capital_debt_service": 0.0,
-        "off_campus_programs": 0.0
+        "off_campus_programs": 0.0,
+        "system_total": -1652000.0
       }
     },
     {
@@ -1210,11 +1214,9 @@
     },
     {
       "page": 2,
-      "label": "1The University's capital program includes $124.9 million for the AB",
+      "label": "1The University's capital program includes $124.9 million for the AB 94 program, as well as $6.5 million, $50.7 million, $33.3 million, and $14.5 million in ongoing funding provided by the State to cover debt service for the Riverside Medical School Building, Student Housing Grants, Berkeley Clean Energy / Merced & Riverside expansion projects, and the Merced Medical Building, respectively.",
       "indent": 45.6,
-      "amounts": {
-        "berkeley": 94.0
-      }
+      "amounts": {}
     }
   ]
 }

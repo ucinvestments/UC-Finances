@@ -68,6 +68,30 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 1,60.89,Ca mpus‐Specific Allocations (Corridors),,,,,,,,,,,,,,,
 1,66.53,Merced,,,,,152250893.0,,,,,,152250893.0,,,,152250893.0
 1,66.52,San Francisco,,,,,,,,202527179.0,,,202527179.0,,,,202527179.0
+2,60.84,Funding Provided on Per‐Student Basis1,,,,,,,,,,,,,,,
+2,66.6,Funding Provided,356588240.0,352968964.0,311640006.0,458552695.0,0.0,211086778.0,331388332.0,0.0,210633303.0,172157439.0,2405015757.0,,,,2405015757.0
+2,72.38,Less Lottery Funds for Enrollment,110000.0,43000.0,240000.0,328000.0,0.0,765000.0,795000.0,0.0,188000.0,531000.0,3000000.0,,,,
+2,72.39,Less Local Redirect for Enrollment,935000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,935000.0,,,,
+2,66.62,Net State Funds for Enrollment,355543240.0,352925964.0,311400006.0,458224695.0,0.0,210321778.0,330593332.0,0.0,210445303.0,171626439.0,2401080757.0,,,,2401080757.0
+2,66.64,Weighted Enrollment for Allocations,44537.0,44086.0,38923.0,57272.0,0.0,26365.0,41391.0,0.0,26308.0,21502.0,300384.0,,,,300384.0
+2,66.65,"$ per Weighted Budgeted Enrollment, Inc. Lottery Funds",8007.0,8006.0,8007.0,8007.0,0.0,8006.0,8006.0,0.0,8006.0,8007.0,,,,,
+2,60.9,Total Permanent State General Funds,423552519.0,455141135.0,347282241.0,540534664.0,165048043.0,318401303.0,394237110.0,236661491.0,242338724.0,214164110.0,3337361341.0,139948659.0,530989000.0,64000.0,4008363000.0
+2,60.83,One‐Time Allocations,,,,,,,,,,,,,,,
+2,66.59,Lease Revenue Bond Restructuring,14465000.0,15566000.0,11856000.0,18796000.0,6047000.0,9094000.0,13614000.0,5380000.0,8024000.0,6614000.0,109456000.0,,-109456000.0,,
+2,66.61,GO Bond Restructuring,42000.0,45000.0,35000.0,55000.0,9018000.0,27000.0,40000.0,16000.0,23000.0,19000.0,9320000.0,,-9320000.0,,
+2,66.64,California Institutes for Science and Innovation (Cal ISIs),,,,,,,,,,,,20000000.0,,,20000000.0
+2,66.64,CSMP Ethnic Studies Training for Teachers,,,,,,,,,,,,2000000.0,,,2000000.0
+2,66.64,CSMP Learning Loss Training for Teachers,,,,,,,,,,,,5000000.0,,,5000000.0
+2,66.64,Culturally Competent Faculty Training,497475.0,135000.0,,,,496570.0,498600.0,,665164.0,,2292809.0,2707191.0,,,5000000.0
+2,66.64,Deferred Maintenance,50079000.0,43749000.0,14676000.0,52846000.0,5266000.0,20564000.0,61063000.0,10562000.0,31663000.0,29340000.0,319808000.0,5192000.0,,,325000000.0
+2,66.67,Emergency Financial Aid,1526000.0,2030000.0,2131000.0,1768000.0,1002000.0,2114000.0,1969000.0,,1407000.0,1053000.0,15000000.0,,,,15000000.0
+2,66.62,Hematologic Malignancies Consortium Pilot,,1802508.0,651900.0,314400.0,,,341592.0,1389600.0,,,4500000.0,,,,4500000.0
+2,66.64,Institute for Transportation Studies,250000.0,250000.0,250000.0,250000.0,,,,,,,1000000.0,9000000.0,,,10000000.0
+2,66.65,SAPEP,,,,,,,,,,,,22500000.0,,,22500000.0
+2,66.65,Cradle‐to‐Career System,,,,,,,,,,,,150000.0,,,150000.0
+2,66.65,UC Berkeley Alternative Meats Lab,1000000.0,,,,,,,,,,1000000.0,,,,1000000.0
+2,66.64,UC Berkeley Food Institute,1000000.0,,,,,,,,,,1000000.0,,,,1000000.0
+2,66.65,UC Berkeley Statewide Database Program,543000.0,,,,,,,,,,543000.0,,,,543000.0
 2,66.66,UC Berkeley Labor Center,1500000.0,,,,,,,,,,1500000.0,,,,1500000.0
 2,66.66,UC Berkeley / ANR ‐UC Nutrition Policy Institute,750000.0,,,,,,,,,,750000.0,,,,750000.0
 2,66.67,UC Davis Animal Shelters,,45000000.0,,,,,,,,,45000000.0,,,,45000000.0
@@ -91,11 +115,11 @@ page,indent,label,berkeley,davis,irvine,los_angeles,merced,riverside,san_diego,s
 2,66.64,UCSD Scripps Reserve Vessel,,,,,,,35000000.0,,,,35000000.0,,,,35000000.0
 2,66.64,UCSF Dyslexia Center,,,,,,,,15200000.0,,,15200000.0,,,,15200000.0
 2,66.64,UCSF Health Modeling Consortium (COVID‐19),,,,,,,,1250000.0,,,1250000.0,,,,1250000.0
-2,66.65,Total One‐Time Allocations,71652475.0,129577508.0,29599900.0,159279400.0,31708000.0,92295570.0,162926192.0,37297600.0,41782164.0,37026000.0,793144809.0,66549191.0,,0.0,740918000.0
+2,66.65,Total One‐Time Allocations,71652475.0,129577508.0,29599900.0,159279400.0,31708000.0,92295570.0,162926192.0,37297600.0,41782164.0,37026000.0,793144809.0,66549191.0,-118776000.0,0.0,740918000.0
 2,60.81,Other Adjustments,,,,,,,,,,,,,,,
-2,66.57,Redirection to Support the UC Education Abroad Program (UCEAP),,,,,,,,,,,,,,13250000.0,
-2,66.57,Redirection to Cover NAGPRA/CalNAGPRA Implementation Costs,,,,,,,,,,,,225410.0,,,
-2,66.57,Total Other Adjustments,,,,,0.0,,,0.0,,,,225410.0,0.0,13250000.0,0.0
+2,66.57,Redirection to Support the UC Education Abroad Program (UCEAP),-1964536.0,-1944643.0,-1716902.0,-2526280.0,,-1162966.0,-1825766.0,,-1160451.0,-948458.0,-13250000.0,,,13250000.0,
+2,66.57,Redirection to Cover NAGPRA/CalNAGPRA Implementation Costs,-33421.0,-33082.0,-29208.0,-42977.0,,-19784.0,-31060.0,,-19742.0,-16135.0,-225410.0,225410.0,,,
+2,66.57,Total Other Adjustments,-1997957.0,-1977725.0,-1746110.0,-2569257.0,0.0,-1182750.0,-1856826.0,0.0,-1180193.0,-964593.0,-13475410.0,225410.0,0.0,13250000.0,0.0
 2,60.78,2021‐22 State General Fund Support (Permanent + One‐Time + Other),493207037.0,582740918.0,375136031.0,697244807.0,196756043.0,409514123.0,555306476.0,273959091.0,282940695.0,250225517.0,4117030740.0,206723260.0,412213000.0,13314000.0,4749281000.0
 2,60.84,"1Provides equivalent funding per student based on budgeted enrollment at each campus, where enrollment is weighted by student type:",,1.0,,,,,,2.5,,5.0,,,,,
 2,60.84,"allocations are determined, see the Systemwide Budget Manual at http://www.ucop.edu/operating‐budget/budgets‐and‐reports/other‐resources/index.html.",,,,,,,,,,,,,,,

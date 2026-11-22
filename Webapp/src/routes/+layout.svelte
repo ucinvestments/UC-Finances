@@ -1,14 +1,13 @@
 <script lang="ts">
   import "../app.css";
   import favicon from "$lib/assets/favicon.svg";
-  import { fade } from "svelte/transition";
   import Navbar from "$lib/components/Navbar.svelte";
   import Footer from "$lib/components/Footer.svelte";
 
   let { children } = $props();
 
   const navLinks = [
-    { href: "/", label: "Explorer", icon: "mdi:home" },
+    { href: "/", label: "Overview", icon: "mdi:home" },
     {
       href: "/revenue-expenses",
       label: "Revenue & Expenses",
@@ -19,19 +18,18 @@
       label: "Fund Allocations",
       icon: "mdi:file-tree",
     },
-    { href: "/about", label: "About", icon: "mdi:information" },
-    {
-      href: "https://github.com/ucinvestments/UC-Finances",
-      label: "GitHub",
-      icon: "mdi:github",
-      external: true,
-    },
+    { href: "/about", label: "Sources & Methods", icon: "mdi:information" },
   ];
 
   const footerLinks = [
-    { href: "/", label: "Explorer" },
-    { href: "/about", label: "About" },
-    { href: "https://sec.gov/", label: "SEC Website", external: true },
+    { href: "/revenue-expenses", label: "Revenue & Expenses" },
+    { href: "/fund-allocations", label: "Fund Allocations" },
+    { href: "/about", label: "Sources & Methods" },
+    {
+      href: "https://github.com/ucinvestments/UC-Finances",
+      label: "Source code",
+      external: true,
+    },
   ];
 
   const cryptoAddresses = [
@@ -48,29 +46,47 @@
   <link rel="icon" href={favicon} />
 </svelte:head>
 
+<a class="skip-link" href="#main-content">Skip to main content</a>
 <Navbar appName="UC Finances" logoIcon="mdi:briefcase" links={navLinks} />
 
-<main in:fade={{ duration: 300 }}>
+<main id="main-content" tabindex="-1">
   {@render children?.()}
 </main>
 
 <Footer
   appName="UC Finances"
-  description="Transparency in institutional holdings and financial data."
+  description="University of California revenues, expenses, and state General Fund allocations."
   links={footerLinks}
   contactEmail="admin@ucinvestments.info"
   altContactEmail="sdokita@berkeley.edu"
   {cryptoAddresses}
-  dataSources={"SEC 13F-HR filings<br />Source: data.sec.gov"}
+  dataSources="UC Office of the President budget and financial reports."
   affiliationDisclaimer="Not affiliated with or authorized by the University of California."
 />
 
 <style>
-  :global(html) {
-    scroll-behavior: smooth;
+  .skip-link {
+    position: fixed;
+    z-index: var(--z-overlay);
+    inset-block-start: 0.75rem;
+    inset-inline-start: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: var(--bg);
+    color: var(--pri);
+    transform: translateY(calc(-100% - 1rem));
+  }
+
+  .skip-link:focus {
+    transform: none;
+  }
+
+  :global(:focus-visible) {
+    outline: 2px solid var(--pri);
+    outline-offset: 2px;
   }
 
   main {
     min-height: calc(100vh - 400px);
+    scroll-margin-top: 5rem;
   }
 </style>

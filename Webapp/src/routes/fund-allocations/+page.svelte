@@ -1,370 +1,348 @@
 <script lang="ts">
+  import { page } from "$app/state";
   import type { PageData } from "./$types";
-  import Hero from "$lib/components/Hero.svelte";
   import Container from "$lib/components/Container.svelte";
   import Section from "$lib/components/Section.svelte";
-  import PageLayout from "$lib/components/PageLayout.svelte";
   import SearchInput from "$lib/components/SearchInput.svelte";
   import ChartFrame from "$lib/components/charts/ChartFrame.svelte";
+  import ChartDataTable from "$lib/components/charts/ChartDataTable.svelte";
   import AllocationTreemap from "$lib/components/charts/AllocationTreemap.svelte";
   import CampusBarChart from "$lib/components/charts/CampusBarChart.svelte";
-  import StackedAreaChart from "$lib/components/charts/StackedAreaChart.svelte";
-  import Legend from "$lib/components/charts/Legend.svelte";
+  import MultiLineChart from "$lib/components/charts/MultiLineChart.svelte";
   import {
-    buildAllocationTree,
-    isTotalRow,
-    categoryTotalsForReport,
+    allocationTree,
     CANONICAL_CATEGORIES,
+    summarizeAllocations,
+    type AllocationSummary,
   } from "$lib/utils/ucopHierarchy";
-  import { fmtUSDShort, CHART_COLORS, paletteFor } from "$lib/utils/chart";
-  import {
-    CAMPUS_KEYS,
-    type CampusKey,
-    type Series,
-    type AllocationRow,
-  } from "$lib/types/ucop";
-  import { untrack } from "svelte";
+  import { fmtNumber, fmtUSD } from "$lib/utils/chart";
+  import { campusDisplayName } from "$lib/utils/campusColors";
+  import { CAMPUS_KEYS, type AllocationColumn, type Series } from "$lib/types/ucop";
 
   let { data }: { data: PageData } = $props();
-
-  let selected = $state(untrack(() => data.selectedFy));
   let searchQuery = $state("");
 
-  const selectedReport = $derived(
-    data.reports.find((r) => r.fiscal_year === selected) ?? data.reports[0],
-  );
-  const tree = $derived(buildAllocationTree(selectedReport));
-
-  // Top-level category segments across campuses (for stacked bar)
-  const topLevelSegments = $derived.by(() => {
-    const topLevels = (tree.children ?? []).filter(
-      (c) => (c.value ?? 0) > 0,
-    );
-    return topLevels.slice(0, 8).map((top, i) => {
-      // Sum per-campus contribution of this top-level category.
-      // Walk the rows that descend from this top-level (by label + indent hint).
-      const topIndent = top.indent ?? 0;
-      const topLabel = top.name;
-      let collecting = false;
-      const values: Partial<Record<CampusKey, number>> = {};
-      for (const row of selectedReport.rows) {
-        if (row.indent === topIndent) {
-          collecting = row.label === topLabel;
-          continue;
-        }
-        if (!collecting) continue;
-        if (row.indent <= topIndent) {
-          collecting = false;
-          continue;
-        }
-        if (isTotalRow(row.label)) continue;
-        for (const c of CAMPUS_KEYS) {
-          const v = row.amounts?.[c];
-          if (typeof v === "number") values[c] = (values[c] ?? 0) + v;
-        }
-      }
-      return {
-        id: top.name,
-        label: top.name,
-        color: CHART_COLORS[i % CHART_COLORS.length],
-        values,
-      };
-    });
+  const selectedIndex = $derived.by(() => {
+    const index = data.fiscalYears.indexOf(page.url.searchParams.get("fy") ?? "");
+    return index === -1 ? data.fiscalYears.length - 1 : index;
   });
+  const selected = $derived(data.fiscalYears[selectedIndex]);
+  const selectedReport = $derived(data.reports[selectedIndex]);
+  const summaries = $derived(data.reports.map(summarizeAllocations));
+  const allocation = $derived(summaries[selectedIndex]);
+  const tree = $derived(allocationTree(allocation));
+  const campusTotal = $derived([
+    { id: "reported", label: "Reported allocation", values: allocation.reported },
+  ]);
+  const trend = $derived<Series[]>([
+    {
+      id: "reported-total",
+      label: "Reported system total",
+      values: summaries.flatMap(({ fiscalYear, reported }) =>
+        reported.system_total === undefined
+          ? []
+          : [{ year: Number(fiscalYear.slice(0, 4)), value: reported.system_total }],
+      ),
+    },
+  ]);
 
-  // Canonical top-level category totals across all fiscal years
-  // (fuzzy-matched to absorb "Set-asides"/"Earmarks" and unicode-hyphen variation)
-  const categoryTrendSeries = $derived<Series[]>(
-    paletteFor(
-      CANONICAL_CATEGORIES.map((cat) => ({
-        id: cat,
-        label: cat,
-        values: data.reports.map((rep) => ({
-          year: fyStartYear(rep.fiscal_year),
-          value: categoryTotalsForReport(rep)[cat] ?? 0,
-        })),
-      })),
+  const allColumns: { key: AllocationColumn; label: string }[] = [
+    ...CAMPUS_KEYS.map((key) => ({ key, label: campusDisplayName(key) })),
+    { key: "campus_total", label: "Campus total" },
+    { key: "ucop_to_be_allocated", label: "UCOP to be allocated" },
+    { key: "capital_debt_service", label: "Capital debt service" },
+    { key: "off_campus_programs", label: "Off-campus programs" },
+    { key: "system_total", label: "System total" },
+  ];
+  const visibleColumns = $derived(
+    allColumns.filter(({ key }) => selectedReport.columns.includes(key)),
+  );
+
+  const filteredRows = $derived(
+    selectedReport.rows.filter((row) =>
+      row.label.toLowerCase().includes(searchQuery.trim().toLowerCase()),
     ),
   );
 
-  function fyStartYear(fy: string): number {
-    return Number(fy.split("-")[0]);
+  function formatAllocation(value: number | undefined) {
+    return value === undefined ? "—" : fmtUSD(value);
   }
 
-  // Filtered raw table
-  const filteredRows = $derived.by<AllocationRow[]>(() => {
-    const q = searchQuery.trim().toLowerCase();
-    if (!q) return selectedReport.rows;
-    return selectedReport.rows.filter((r) =>
-      r.label.toLowerCase().includes(q),
-    );
-  });
-
-  function fmtCell(v: number | undefined | null): string {
-    if (typeof v !== "number") return "";
-    return fmtUSDShort(v);
+  function tableEntries(summary: AllocationSummary) {
+    return [
+      ...summary.categories,
+      { label: "Difference from reported total", amounts: summary.difference },
+      { label: "Reported total", amounts: summary.reported },
+    ];
   }
 
-  // Map the report's raw indent range to a bounded pixel indent so absurd
-  // indent values (e.g. 171 in 2019-20) don't push labels off the screen.
-  const indentRange = $derived.by(() => {
-    const vals = selectedReport.rows.map((r) => r.indent);
-    const min = Math.min(...vals);
-    const max = Math.max(...vals);
-    return { min, max };
-  });
-  function indentPad(indent: number): number {
-    const { min, max } = indentRange;
-    const span = Math.max(1, max - min);
-    const depth = (indent - min) / span; // 0..1
-    return Math.round(depth * 32) / 16; // 0..2rem
-  }
+  const historicalRows = $derived([
+    ...CANONICAL_CATEGORIES.map((label, index) => ({
+      label,
+      values: summaries.map((summary) =>
+        formatAllocation(summary.categories[index].amounts.system_total),
+      ),
+    })),
+    {
+      label: "Difference from reported total",
+      values: summaries.map((summary) => formatAllocation(summary.difference.system_total)),
+    },
+    {
+      label: "Reported total",
+      values: summaries.map((summary) => formatAllocation(summary.reported.system_total)),
+    },
+  ]);
 </script>
 
 <svelte:head>
-  <title>Fund Allocations · UC Finances</title>
+  <title>State General Fund allocations · UC Finances</title>
   <meta
     name="description"
-    content="Ten years of state General Fund allocations to University of California campuses."
+    content="Explore California state General Fund allocations to the University of California."
   />
 </svelte:head>
 
-<PageLayout>
-  <Hero
-    title="State General Fund Allocations"
-    subtitle="Ten years of annual allocations from the California state General Fund to UC campuses and system-level programmes."
-  />
+<Container>
+  <header class="introduction">
+    <h1>State General Fund allocations</h1>
+    <p>Annual California state support for UC campuses and systemwide programs.</p>
+  </header>
 
-  <Container>
-    <Section title="Select fiscal year" icon="mdi:calendar">
-      <div class="year-picker">
-        {#each data.manifest.general_fund_allocations.fiscal_years as fy}
-          <button
-            class="year-btn"
-            class:active={selected === fy}
-            onclick={() => (selected = fy)}
-          >
-            FY {fy}
-          </button>
-        {/each}
-      </div>
-    </Section>
-
-    <Section title="Allocation breakdown" icon="mdi:file-tree">
-      <p class="desc">
-        Every state General Fund line item in FY {selected}, grouped by top-level budget
-        category. Larger rectangles = larger allocations.
-      </p>
-      <ChartFrame
-        title="Treemap — FY {selected}"
-        subtitle="Hover for breadcrumb path and share of system total"
-        minHeight={560}
+  <Section title="Fiscal year">
+    <nav class="year-picker" aria-label="Fiscal year">
+      {#each data.fiscalYears as fy}
+        <a class="year-btn" aria-current={selected === fy ? "true" : undefined} href="?fy={fy}">
+          {fy}
+        </a>
+      {/each}
+    </nav>
+    <div class="report-summary">
+      <p><strong>{formatAllocation(allocation.reported.system_total)}</strong> reported system total for FY {selected}</p>
+      <a
+        href={selectedReport.source_url || "https://www.ucop.edu/operating-budget/budgets-and-reports/other-resources/"}
       >
-        <AllocationTreemap {tree} />
-      </ChartFrame>
-    </Section>
+        {selectedReport.source_url ? `UCOP allocation report for FY ${selected} (PDF)` : "UCOP allocation reports"}
+      </a>
+    </div>
+  </Section>
 
-    <Section title="Campus composition" icon="mdi:school">
-      <p class="desc">
-        Each campus's allocation, broken down by top-level category. Stacked so total
-        column height = the campus's total state General Fund receipt.
-      </p>
-      <ChartFrame
-        title="Per-campus stacked by category — FY {selected}"
-        subtitle="Hover a segment for dollar amount and share"
-        minHeight={480}
-      >
-        <CampusBarChart segments={topLevelSegments} sortBy="desc" />
-      </ChartFrame>
-    </Section>
-
-    <Section title="Ten-year trend by category" icon="mdi:chart-line">
-      <p class="desc">
-        Stacked system totals for each canonical budget category across all ten fiscal
-        years. (FY 2021-22 appears as a gap — that year's PDF is published in a flat
-        layout that lacks the category breakdown.)
-      </p>
-      <ChartFrame
-        title="Category totals {fyStartYear(data.reports[0].fiscal_year)}–{fyStartYear(
-          data.reports[data.reports.length - 1].fiscal_year,
-        )}"
-        subtitle="Stacked — hover a year for breakdown"
-      >
-        {#snippet legend()}
-          <Legend
-            items={categoryTrendSeries.map((s) => ({
-              id: s.id,
-              label: s.label,
-              color: s.color!,
-            }))}
-          />
-        {/snippet}
-        <StackedAreaChart series={categoryTrendSeries} />
-      </ChartFrame>
-    </Section>
-
-    <Section title="Raw data" icon="mdi:table">
-      <p class="desc">Search the underlying rows for FY {selected}.</p>
-      <div class="search-wrap">
-        <SearchInput
-          bind:value={searchQuery}
-          placeholder="Filter labels (e.g. 'Agricultural', 'Labor Center')"
+  <Section title="System allocation by category">
+    <p class="desc">
+      The treemap shows positive category amounts. The table includes reductions and
+      any difference between category amounts and UCOP’s reported total.
+    </p>
+    {#if tree.children?.length}
+      <ChartFrame title="System allocations for FY {selected}">
+        <AllocationTreemap {tree} height={320} />
+        <ChartDataTable
+          caption="System allocations for FY {selected}"
+          rowHeading="Category"
+          toggleLabel="View system category breakdown"
+          columns={["System total"]}
+          rows={tableEntries(allocation).map(({ label, amounts }) => ({
+            label,
+            values: [formatAllocation(amounts.system_total)],
+          }))}
         />
-      </div>
-      <div class="table-wrap">
-        <table>
+      </ChartFrame>
+    {:else}
+      <p>Category values are unavailable for this fiscal year.</p>
+    {/if}
+  </Section>
+
+  <Section title="Allocations by campus">
+    <p class="desc">
+      Bars show the final allocation reported for each campus.
+      The category table includes campus-level adjustments.
+    </p>
+    {#if selected === "2017-18" || selected === "2018-19"}
+      <p class="desc">
+        UCOP’s published campus totals exclude the listed one-time amounts in FY {selected}.
+        The table shows the resulting difference. The published system total includes those amounts.
+      </p>
+    {/if}
+    <ChartFrame title="Reported campus totals for FY {selected}">
+      <CampusBarChart segments={campusTotal} sortBy="desc" />
+    </ChartFrame>
+    <ChartDataTable
+      caption="Allocations by category and campus for FY {selected}"
+      rowHeading="Category"
+      toggleLabel="View campus category breakdown"
+      columns={CAMPUS_KEYS.map(campusDisplayName)}
+      rows={tableEntries(allocation).map(({ label, amounts }) => ({
+        label,
+        values: CAMPUS_KEYS.map((campus) => formatAllocation(amounts[campus])),
+      }))}
+    />
+  </Section>
+
+  <Section title="Allocations over time">
+    <p class="desc">
+      The chart shows total state General Fund support reported by UCOP for each fiscal year.
+      Year labels show the start of the fiscal year.
+    </p>
+    <ChartFrame title="Reported system total by fiscal year">
+      <MultiLineChart series={trend} animate={false} />
+    </ChartFrame>
+    <ChartDataTable
+      caption="System allocations by category and fiscal year"
+      rowHeading="Category"
+      toggleLabel="View category history"
+      columns={data.fiscalYears}
+      rows={historicalRows}
+    />
+  </Section>
+
+  <Section title="Source table">
+    <p class="desc" id="allocation-source-description">
+      Values are shown as extracted from the FY {selected} report.
+      The table also contains enrollment counts and per-student figures.
+    </p>
+    <div class="search-wrap">
+      <SearchInput bind:value={searchQuery} placeholder="Filter allocation line items" />
+    </div>
+    {#if filteredRows.length}
+      <!-- svelte-ignore a11y_no_noninteractive_tabindex (Keyboard users need to scroll wide tables.) -->
+      <div class="table-wrap" role="region" aria-label="Allocation report rows" tabindex="0">
+        <table aria-describedby="allocation-source-description">
           <thead>
             <tr>
-              <th class="sticky-left">Label</th>
-              <th class="num">Berkeley</th>
-              <th class="num">Davis</th>
-              <th class="num">Irvine</th>
-              <th class="num">UCLA</th>
-              <th class="num">Merced</th>
-              <th class="num">Riverside</th>
-              <th class="num">San Diego</th>
-              <th class="num">UCSF</th>
-              <th class="num">S.Barbara</th>
-              <th class="num">S.Cruz</th>
-              <th class="num sticky-right">System total</th>
+              <th scope="col" class="sticky-left">Line item</th>
+              {#each visibleColumns as { label }}
+                <th scope="col" class="num">{label}</th>
+              {/each}
             </tr>
           </thead>
           <tbody>
             {#each filteredRows as row}
-              <tr class:header={!row.amounts || Object.keys(row.amounts).length === 0}>
-                <td class="lbl sticky-left" style="padding-left: {indentPad(row.indent)}rem;">
-                  {row.label}
-                </td>
-                <td class="num">{fmtCell(row.amounts?.berkeley)}</td>
-                <td class="num">{fmtCell(row.amounts?.davis)}</td>
-                <td class="num">{fmtCell(row.amounts?.irvine)}</td>
-                <td class="num">{fmtCell(row.amounts?.los_angeles)}</td>
-                <td class="num">{fmtCell(row.amounts?.merced)}</td>
-                <td class="num">{fmtCell(row.amounts?.riverside)}</td>
-                <td class="num">{fmtCell(row.amounts?.san_diego)}</td>
-                <td class="num">{fmtCell(row.amounts?.san_francisco)}</td>
-                <td class="num">{fmtCell(row.amounts?.santa_barbara)}</td>
-                <td class="num">{fmtCell(row.amounts?.santa_cruz)}</td>
-                <td class="num strong sticky-right">{fmtCell(row.amounts?.system_total)}</td>
+              <tr class:header={Object.keys(row.amounts).length === 0}>
+                <th scope="row" class="lbl sticky-left">{row.label || "Unlabelled in extract"}</th>
+                {#each visibleColumns as { key }}
+                  {@const value = row.amounts[key]}
+                  <td class="num">{value === undefined ? "—" : fmtNumber(value)}</td>
+                {/each}
               </tr>
             {/each}
           </tbody>
         </table>
       </div>
-    </Section>
-  </Container>
-</PageLayout>
+    {:else}
+      <p>No line items match “{searchQuery}”.</p>
+    {/if}
+  </Section>
+</Container>
 
 <style>
-  .desc {
-    color: #475569;
-    font-size: 1rem;
-    line-height: 1.55;
-    margin: 0 0 1.5rem;
-    max-width: 820px;
+  .introduction {
+    border-inline-start: 0.25rem solid var(--sec);
+    padding-inline-start: clamp(1rem, 3vw, 2rem);
+    margin-block: clamp(0.5rem, 3vw, 2rem) clamp(2rem, 5vw, 4rem);
   }
+
+  h1 {
+    color: var(--pri);
+    font-family: "Space Grotesk", "Inter", sans-serif;
+    font-size: clamp(2rem, 5.5vw, 4rem);
+    line-height: 1.06;
+    letter-spacing: -0.045em;
+    margin-block-end: 0.75rem;
+  }
+
+  p {
+    color: var(--text-secondary);
+  }
+
+  .desc {
+    max-width: 75ch;
+    margin-block-end: 1rem;
+  }
+
   .year-picker {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
+    margin-block-end: 1rem;
   }
+
   .year-btn {
-    padding: 0.55rem 1rem;
-    border-radius: 0.6rem;
+    min-height: 2.75rem;
+    padding: 0.55rem 0.8rem;
+    border-radius: 0.4rem;
     border: 1px solid var(--border);
-    background: white;
-    color: var(--text-secondary);
+    color: var(--pri);
     font-weight: 500;
-    cursor: pointer;
-    transition: all 0.15s ease;
-    font-family: inherit;
-    font-size: 0.95rem;
   }
+
   .year-btn:hover {
     background: var(--bg-secondary);
-    color: var(--pri);
-    transform: translateY(-1px);
   }
-  .year-btn.active {
-    background: linear-gradient(135deg, var(--founder), var(--pri));
+
+  .year-btn[aria-current] {
+    background: var(--pri);
     color: white;
-    border-color: transparent;
+    border-color: var(--pri);
   }
+
+  .report-summary {
+    line-height: 1.6;
+  }
+
+  .report-summary strong,
+  .report-summary a {
+    color: var(--pri);
+  }
+
+  .report-summary a {
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+
   .search-wrap {
-    max-width: 520px;
-    margin-bottom: 1rem;
+    max-width: 32rem;
+    margin-block-end: 1rem;
   }
+
   .table-wrap {
     overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: 0.5rem;
     background: white;
-    border-radius: 12px;
-    box-shadow: 0 10px 25px -15px rgba(0, 50, 98, 0.25);
-    border: 1px solid rgba(0, 50, 98, 0.06);
   }
+
   table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
   }
-  thead tr {
-    background: rgba(0, 50, 98, 0.04);
-  }
+
   th,
   td {
     padding: 0.5rem 0.75rem;
-    text-align: left;
-    border-bottom: 1px solid rgba(15, 23, 42, 0.05);
+    text-align: start;
+    border-block-end: 1px solid var(--border);
   }
-  th {
-    font-weight: 600;
-    color: #475569;
+
+  thead th,
+  .header .sticky-left {
+    background: var(--bg-secondary);
   }
-  td.lbl {
-    min-width: 240px;
-    max-width: 420px;
-    white-space: normal;
-    word-break: break-word;
-    line-height: 1.35;
+
+  .lbl {
+    width: 24rem;
+    min-width: 11rem;
+    font-weight: 500;
   }
-  td.num,
-  th.num {
-    text-align: right;
+
+  .num {
+    text-align: end;
     font-variant-numeric: tabular-nums;
-    color: #0f172a;
     white-space: nowrap;
   }
-  td.num.strong {
-    font-weight: 600;
-    color: var(--pri);
-  }
-  tr.header td {
-    background: rgba(0, 50, 98, 0.03);
-    font-weight: 600;
-    color: var(--pri);
-  }
-  th.sticky-left,
-  td.sticky-left {
+
+  .sticky-left {
     position: sticky;
-    left: 0;
+    inset-inline-start: 0;
     background: white;
-    z-index: 2;
-    box-shadow: 1px 0 0 rgba(15, 23, 42, 0.06);
-  }
-  th.sticky-right,
-  td.sticky-right {
-    position: sticky;
-    right: 0;
-    background: white;
-    z-index: 2;
-    box-shadow: -1px 0 0 rgba(15, 23, 42, 0.06);
-  }
-  thead th.sticky-left,
-  thead th.sticky-right {
-    background: #f5f7f9;
-    z-index: 3;
-  }
-  tr.header td.sticky-left,
-  tr.header td.sticky-right {
-    background: #f7f9fa;
+    border-inline-end: 1px solid var(--border);
   }
 </style>

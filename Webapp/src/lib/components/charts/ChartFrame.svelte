@@ -31,7 +31,7 @@
     background: #ffffff;
     border-radius: 16px;
     box-shadow: 0 10px 25px -15px rgba(0, 50, 98, 0.25);
-    padding: 1.75rem;
+    padding: clamp(0.875rem, 3vw, 1.75rem);
     margin: 0 0 2rem;
     border: 1px solid rgba(0, 50, 98, 0.06);
   }

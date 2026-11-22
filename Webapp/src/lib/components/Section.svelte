@@ -1,13 +1,11 @@
 <script lang="ts">
   import Icon from "@iconify/svelte";
-  import { fly } from "svelte/transition";
 
   export let title: string;
   export let icon: string = "";
-  export let delay: number = 0;
 </script>
 
-<section class="section" in:fly={{ y: 30, duration: 600, delay }}>
+<section class="section">
   {#if title}
     <div class="section-header">
       {#if icon}

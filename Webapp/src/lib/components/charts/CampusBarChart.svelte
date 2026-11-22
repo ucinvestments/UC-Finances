@@ -2,6 +2,7 @@
   import * as d3 from "d3";
   import { onMount, onDestroy, untrack } from "svelte";
   import { CAMPUS_KEYS, type CampusKey } from "$lib/types/ucop";
+  import ChartDataTable from "./ChartDataTable.svelte";
   import {
     createTooltip,
     fmtUSD,
@@ -25,7 +26,34 @@
     sortBy?: "desc" | "asc" | "campus";
     title?: string;
   }
-  let { segments, height = 440, sortBy = "desc" }: Props = $props();
+  let { segments, height = 440, sortBy = "desc", title = "Campus chart data (USD)" }: Props =
+    $props();
+
+  const campusTotals = $derived(
+    new Map(
+      CAMPUS_KEYS.map((campus) => [
+        campus,
+        segments.reduce((total, segment) => total + (segment.values[campus] ?? 0), 0),
+      ]),
+    ),
+  );
+  const orderedCampuses = $derived.by(() => {
+    const campuses = [...CAMPUS_KEYS];
+    if (sortBy === "campus") return campuses;
+    return campuses.sort((left, right) => {
+      const difference = (campusTotals.get(left) ?? 0) - (campusTotals.get(right) ?? 0);
+      return sortBy === "asc" ? difference : -difference;
+    });
+  });
+  const tableRows = $derived(
+    orderedCampuses.map((campus) => ({
+      label: campusDisplayName(campus),
+      values: segments.map((segment) => {
+        const value = segment.values[campus];
+        return value === undefined ? undefined : fmtUSD(value);
+      }),
+    })),
+  );
 
   let el: HTMLDivElement | undefined = $state();
   let tip: Tooltip | undefined;
@@ -66,24 +94,6 @@
     const w = containerWidth - m.left - m.right;
     const h = height - m.top - m.bottom;
 
-    const totalsByCampus = new Map<CampusKey, number>();
-    CAMPUS_KEYS.forEach((c) => {
-      let t = 0;
-      for (const seg of segments) t += seg.values[c] ?? 0;
-      totalsByCampus.set(c, t);
-    });
-
-    let orderedCampuses = [...CAMPUS_KEYS];
-    if (sortBy === "desc") {
-      orderedCampuses.sort(
-        (a, b) => (totalsByCampus.get(b) ?? 0) - (totalsByCampus.get(a) ?? 0),
-      );
-    } else if (sortBy === "asc") {
-      orderedCampuses.sort(
-        (a, b) => (totalsByCampus.get(a) ?? 0) - (totalsByCampus.get(b) ?? 0),
-      );
-    }
-
     const svg = d3
       .select(el)
       .append("svg")
@@ -95,7 +105,7 @@
     const g = svg.append("g").attr("transform", `translate(${m.left},${m.top})`);
 
     const x = d3.scaleBand().domain(orderedCampuses).range([0, w]).padding(0.2);
-    const yMax = d3.max(orderedCampuses, (c) => totalsByCampus.get(c) ?? 0) ?? 0;
+    const yMax = d3.max(orderedCampuses, (c) => campusTotals.get(c) ?? 0) ?? 0;
     const y = d3.scaleLinear().domain([0, yMax]).range([h, 0]).nice();
 
     const color = d3
@@ -157,7 +167,7 @@
           .style("cursor", "pointer");
         rect
           .on("mouseenter", (e) => {
-            const total = totalsByCampus.get(campus) ?? 0;
+            const total = campusTotals.get(campus) ?? 0;
             const pct = total > 0 ? ((v / total) * 100).toFixed(1) : "0";
             const theme = getCampusTheme(campus);
             tip!.show(
@@ -187,7 +197,13 @@
   }
 </script>
 
-<div class="bar-chart" bind:this={el} style="min-height: {height}px;"></div>
+<div class="bar-chart" aria-hidden="true" bind:this={el} style="min-height: {height}px;"></div>
+<ChartDataTable
+  caption={title}
+  rowHeading="Campus"
+  columns={segments.map((segment) => segment.label)}
+  rows={tableRows}
+/>
 
 <style>
   .bar-chart {

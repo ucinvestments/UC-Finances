@@ -23,30 +23,30 @@
           <h3>State General Fund Allocations</h3>
           <p>
             Ten fiscal years (2016-17 through 2025-26) of state General Fund
-            allocations to each UC campus and system-level programme. Parsed from
+            allocations to each UC campus and system-level program. Parsed from
             the official UCOP summary PDFs published at
             <a
               href="https://www.ucop.edu/operating-budget/budgets-and-reports/other-resources/"
               target="_blank"
-              rel="noopener noreferrer"
-              >ucop.edu/operating-budget</a
+              rel="noopener noreferrer">ucop.edu/operating-budget</a
             >.
           </p>
         </Card>
         <Card>
           <h3>Revenue and Expense Trends</h3>
           <p>
-            Eleven annual Revenue and Expense Trends reports (2015 through 2025)
-            from UC's reporting-transparency portal. Each report covers a rolling
-            five-year window; overlapping years are reconciled by keeping the
-            value from the most recent report, so restatements carry through.
-            Source:
+            UC's annual Revenue and Expense Trends reports cover overlapping
+            five-year periods. For each fiscal year and breakdown, the explorer
+            uses the newest report whose extracted figures reconcile to the
+            published total. The
             <a
-              href="https://reportingtransparency.universityofcalifornia.edu/documents/finreports/retrends/"
+              href="https://reportingtransparency.universityofcalifornia.edu/"
               target="_blank"
-              rel="noopener noreferrer"
-              >reportingtransparency.universityofcalifornia.edu</a
-            >.
+              rel="noopener noreferrer">UC Reporting Transparency portal</a
+            >
+            publishes the reports. The
+            <a href="/revenue-expenses#source-reports">source table</a>
+            shows the report and page used for each year.
           </p>
         </Card>
       </div>
@@ -57,9 +57,8 @@
         <p>
           UCOP reports dollar figures in thousands for the Revenue and Expense
           Trends series and in whole dollars for the General Fund Allocations;
-          both are normalised to actual dollars before display. Values labelled
-          "Total" or "Subtotal" in the source PDFs are excluded from the treemap
-          sums to avoid double-counting.
+          both are shown in dollars. The explorer groups General Fund line items
+          so subtotals appear once in each breakdown.
         </p>
         <p style="margin-top: 1rem;">
           This site is not affiliated with the University of California.
@@ -72,7 +71,7 @@
 <style>
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
     gap: 1.5rem;
   }
   h3 {

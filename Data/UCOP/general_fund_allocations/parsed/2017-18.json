@@ -623,7 +623,8 @@
         "san_francisco": 4449000.0,
         "santa_barbara": 6941000.0,
         "santa_cruz": 5629000.0,
-        "campus_total": 92000000.0
+        "campus_total": 92000000.0,
+        "capital_debt_service": -92000000.0
       }
     },
     {
@@ -641,7 +642,8 @@
         "san_francisco": 1101000.0,
         "santa_barbara": 2657000.0,
         "santa_cruz": 2155000.0,
-        "campus_total": 34585000.0
+        "campus_total": 34585000.0,
+        "capital_debt_service": -34585000.0
       }
     },
     {
@@ -679,10 +681,9 @@
     },
     {
       "page": 1,
-      "label": "Wildlife Health Center",
+      "label": "Wildlife Health Center \u2010 Marine Mammal Networks",
       "indent": 57.12,
       "amounts": {
-        "berkeley": 0.0,
         "davis": 2000000.0,
         "campus_total": 2000000.0,
         "system_total": 2000000.0
@@ -690,10 +691,9 @@
     },
     {
       "page": 1,
-      "label": "Wildlife Health Center",
+      "label": "Wildlife Health Center \u2010 Whale Entanglement",
       "indent": 57.12,
       "amounts": {
-        "berkeley": 0.0,
         "davis": 100000.0,
         "campus_total": 100000.0,
         "system_total": 100000.0
@@ -716,6 +716,7 @@
         "santa_cruz": 8034000.0,
         "campus_total": 133085000.0,
         "ucop_to_be_allocated": 100000.0,
+        "capital_debt_service": -126585000.0,
         "off_campus_programs": 0.0,
         "system_total": 6600000.0
       }
@@ -728,10 +729,16 @@
     },
     {
       "page": 1,
-      "label": "Reduction Due to Prop",
+      "label": "Reduction Due to Prop 56 GME Funds",
       "indent": 57.12,
       "amounts": {
-        "berkeley": 56.0
+        "davis": -8000000.0,
+        "irvine": -7000000.0,
+        "los_angeles": -12000000.0,
+        "san_diego": -7000000.0,
+        "san_francisco": -16000000.0,
+        "campus_total": -50000000.0,
+        "system_total": -50000000.0
       }
     },
     {
@@ -739,6 +746,17 @@
       "label": "Direct Allocation of State General Funds to UCOP",
       "indent": 57.12,
       "amounts": {
+        "berkeley": -27406992.0,
+        "davis": -45498489.0,
+        "irvine": -31864494.0,
+        "los_angeles": -64222426.0,
+        "merced": -5076515.0,
+        "riverside": -15114681.0,
+        "san_diego": -42563009.0,
+        "san_francisco": -36451104.0,
+        "santa_barbara": -15846046.0,
+        "santa_cruz": -12356244.0,
+        "campus_total": -296400000.0,
         "ucop_to_be_allocated": 296400000.0
       }
     },
@@ -747,6 +765,17 @@
       "label": "Direct Allocation of State General Funds to UCPath",
       "indent": 57.12,
       "amounts": {
+        "berkeley": -6468590.0,
+        "davis": -7628548.0,
+        "irvine": -5087395.0,
+        "los_angeles": -11577533.0,
+        "merced": -764262.0,
+        "riverside": -2396113.0,
+        "san_diego": -7634633.0,
+        "san_francisco": -5557760.0,
+        "santa_barbara": -3052110.0,
+        "santa_cruz": -2233056.0,
+        "campus_total": -52400000.0,
         "ucop_to_be_allocated": 52400000.0
       }
     },
@@ -755,9 +784,21 @@
       "label": "Total Other Adjustments",
       "indent": 57.12,
       "amounts": {
+        "berkeley": -33875582.0,
+        "davis": -61127037.0,
+        "irvine": -43951889.0,
+        "los_angeles": -87799959.0,
+        "merced": -5840777.0,
+        "riverside": -17510794.0,
+        "san_diego": -57197642.0,
+        "san_francisco": -58008864.0,
+        "santa_barbara": -18898156.0,
+        "santa_cruz": -14589300.0,
+        "campus_total": -398800000.0,
         "ucop_to_be_allocated": 348800000.0,
         "capital_debt_service": 0.0,
-        "off_campus_programs": 0.0
+        "off_campus_programs": 0.0,
+        "system_total": -50000000.0
       }
     },
     {

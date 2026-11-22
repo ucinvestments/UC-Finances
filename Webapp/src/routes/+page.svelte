@@ -1,245 +1,159 @@
 <script lang="ts">
   import type { PageData } from "./$types";
-  import Hero from "$lib/components/Hero.svelte";
-  import StatCard from "$lib/components/StatCard.svelte";
   import Container from "$lib/components/Container.svelte";
-  import Section from "$lib/components/Section.svelte";
-  import Button from "$lib/components/Button.svelte";
-  import PageLayout from "$lib/components/PageLayout.svelte";
-  import ChartFrame from "$lib/components/charts/ChartFrame.svelte";
-  import AllocationTreemap from "$lib/components/charts/AllocationTreemap.svelte";
-  import StackedAreaChart from "$lib/components/charts/StackedAreaChart.svelte";
-  import CampusBarChart from "$lib/components/charts/CampusBarChart.svelte";
-  import Legend from "$lib/components/charts/Legend.svelte";
-  import { buildAllocationTree } from "$lib/utils/ucopHierarchy";
-  import { RETRENDS_UNIT, fmtUSDShort, paletteFor } from "$lib/utils/chart";
-  import { CAMPUS_KEYS, type CampusKey, type Series } from "$lib/types/ucop";
+  import { fmtUSDShort } from "$lib/utils/chart";
+  import { reportedSystemTotal } from "$lib/utils/retrendsMerge";
+  import { summarizeAllocations } from "$lib/utils/ucopHierarchy";
 
   let { data }: { data: PageData } = $props();
 
-  const tree = $derived(buildAllocationTree(data.latestAlloc));
+  const allocation = $derived(summarizeAllocations(data.latestAlloc).reported.system_total);
+  const revenue = $derived(reportedSystemTotal(data.latestRetrends, "revenue"));
+  const expense = $derived(reportedSystemTotal(data.latestRetrends, "expense"));
 
-  const grandTotalRow = $derived(
-    data.latestAlloc.rows.find((r) =>
-      /State General Fund Support.*Permanent.*One.?Time/i.test(r.label),
-    ),
-  );
-  const permRow = $derived(
-    data.latestAlloc.rows.find((r) => /^Total Permanent State General Funds/i.test(r.label)),
-  );
-  const oneTimeRow = $derived(
-    data.latestAlloc.rows.find((r) => /^Total One-Time Allocations/i.test(r.label)),
-  );
-  const totalGFAllocation = $derived(
-    grandTotalRow?.amounts?.system_total ??
-      (permRow?.amounts?.system_total ?? 0) + (oneTimeRow?.amounts?.system_total ?? 0),
-  );
-
-  const latestRetrendsYear = $derived(Number(data.latestRetrends.year_key));
-  const sysTotals = $derived(
-    data.latestRetrends.rows.filter(
-      (r) =>
-        r.page_title.includes("Revenues by Source and Expenses by Function") &&
-        r.indent > 60 &&
-        /^Total\s+(Revenues|Expenditures|Expenses)/i.test(r.label),
-    ),
-  );
-  const totalRev = $derived(
-    (sysTotals.find((r) => /Revenue/i.test(r.label))?.amounts?.[
-      String(latestRetrendsYear)
-    ] ?? 0) * RETRENDS_UNIT,
-  );
-  const totalExp = $derived(
-    (sysTotals.find((r) => /Expenditure|Expense/i.test(r.label))?.amounts?.[
-      String(latestRetrendsYear)
-    ] ?? 0) * RETRENDS_UNIT,
-  );
-
-  const revYears = $derived(data.latestRetrends.year_columns.map(Number));
-  const revenueSeries = $derived<Series[]>(
-    paletteFor(
-      data.latestRetrends.rows
-        .filter(
-          (r) =>
-            r.page_title.includes("Revenues by Source and Expenses by Function") &&
-            /^REVENUES/i.test(r.section) &&
-            r.indent < 60 &&
-            !/^Total/i.test(r.label),
-        )
-        .map((row) => ({
-          id: row.label,
-          label: row.label.replace(/\d+$/, "").trim(),
-          values: revYears.map((y) => ({
-            year: y,
-            value: (row.amounts?.[String(y)] ?? 0) * RETRENDS_UNIT,
-          })),
-        })),
-    ),
-  );
-  const expenseSeries = $derived<Series[]>(
-    paletteFor(
-      data.latestRetrends.rows
-        .filter(
-          (r) =>
-            r.page_title.includes("Revenues by Source and Expenses by Function") &&
-            /^EXPEN/i.test(r.section) &&
-            r.indent < 60 &&
-            !/^Total/i.test(r.label),
-        )
-        .map((row) => ({
-          id: row.label,
-          label: row.label.replace(/\d+$/, "").trim(),
-          values: revYears.map((y) => ({
-            year: y,
-            value: (row.amounts?.[String(y)] ?? 0) * RETRENDS_UNIT,
-          })),
-        })),
-    ),
-  );
-
-  const campusTotalSegment = $derived([
-    {
-      id: "total",
-      label: `FY ${data.latestAlloc.fiscal_year} allocation`,
-      values: CAMPUS_KEYS.reduce<Partial<Record<CampusKey, number>>>((acc, c) => {
-        const fromGrand = grandTotalRow?.amounts?.[c];
-        if (typeof fromGrand === "number") {
-          acc[c] = fromGrand;
-        } else {
-          acc[c] = (permRow?.amounts?.[c] ?? 0) + (oneTimeRow?.amounts?.[c] ?? 0);
-        }
-        return acc;
-      }, {}),
-    },
-  ]);
+  function formatTotal(value: number | undefined): string {
+    return value === undefined ? "Unavailable" : fmtUSDShort(value);
+  }
 </script>
 
 <svelte:head>
   <title>UC Finances Explorer</title>
   <meta
     name="description"
-    content="Visualise University of California general-fund allocations and system-wide revenue and expense trends."
+    content="Explore University of California revenues, expenses, and state General Fund allocations."
   />
 </svelte:head>
 
-<PageLayout>
-  <Hero
-    title="UC Finances Explorer"
-    subtitle="State general-fund allocations, revenues and expenses across the University of California."
-  >
-    <div class="hero-stats">
-      <StatCard
-        icon="mdi:cash-multiple"
-        value={fmtUSDShort(totalGFAllocation)}
-        label="State GF FY {data.latestAlloc.fiscal_year}"
-        delay={100}
-      />
-      <StatCard
-        icon="mdi:chart-line"
-        value={fmtUSDShort(totalRev)}
-        label="System revenues {latestRetrendsYear}"
-        delay={200}
-      />
-      <StatCard
-        icon="mdi:chart-line-variant"
-        value={fmtUSDShort(totalExp)}
-        label="System expenses {latestRetrendsYear}"
-        delay={300}
-      />
-    </div>
-  </Hero>
+<Container>
+  <header class="introduction">
+    <h1>UC Finances Explorer</h1>
+    <p>
+      Follow what the University of California brings in, what it spends, and how
+      state General Fund support is allocated.
+    </p>
+  </header>
 
-  <Container>
-    <Section title="Revenues at system scale" icon="mdi:chart-areaspline">
-      <p class="section-desc">
-        UC system-wide revenues by source, {revYears[0]}–{revYears[revYears.length - 1]},
-        drawn from the most recent Revenue and Expense Trends report.
-      </p>
-      <ChartFrame
-        title="UC system revenues by source"
-        subtitle="Stacked, in billions — hover to inspect"
-      >
-        {#snippet legend()}
-          <Legend items={revenueSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
-        {/snippet}
-        <StackedAreaChart series={revenueSeries} />
-      </ChartFrame>
-    </Section>
-
-    <Section title="Expenses at system scale" icon="mdi:chart-areaspline-variant">
-      <p class="section-desc">
-        UC system-wide expenses by function, {revYears[0]}–{revYears[revYears.length - 1]},
-        drawn from the most recent Revenue and Expense Trends report.
-      </p>
-      <ChartFrame
-        title="UC system expenses by function"
-        subtitle="Stacked, in billions — hover to inspect"
-      >
-        {#snippet legend()}
-          <Legend items={expenseSeries.map((s) => ({ id: s.id, label: s.label, color: s.color! }))} />
-        {/snippet}
-        <StackedAreaChart series={expenseSeries} />
-      </ChartFrame>
-      <div class="cta">
-        <Button href="/revenue-expenses" variant="primary" icon="mdi:arrow-right">
-          Revenue and expense trends
-        </Button>
+  <section class="overview" aria-label="Financial reports">
+    <article>
+      <div>
+        <h2><a href="/revenue-expenses">Revenue and expense trends</a></h2>
+        <p>Compare the UC system, individual campuses, and medical centers.</p>
       </div>
-    </Section>
+      <dl aria-label="System totals for fiscal year {data.latestRetrends.year_key}">
+        <div>
+          <dt>FY {data.latestRetrends.year_key} revenue</dt>
+          <dd>{formatTotal(revenue)}</dd>
+        </div>
+        <div>
+          <dt>FY {data.latestRetrends.year_key} expenses</dt>
+          <dd>{formatTotal(expense)}</dd>
+        </div>
+      </dl>
+    </article>
 
-    <Section title="Where the money goes" icon="mdi:chart-tree">
-      <p class="section-desc">
-        State General Fund allocation to each campus and programme in fiscal year
-        {data.latestAlloc.fiscal_year}. Larger rectangles indicate larger allocations;
-        rectangles are grouped by top-level budget category.
-      </p>
-      <ChartFrame
-        title="FY {data.latestAlloc.fiscal_year} state General Fund allocations"
-        subtitle="System total — click through to explore ten years of history"
-        minHeight={560}
-      >
-        <AllocationTreemap {tree} />
-      </ChartFrame>
-      <div class="cta">
-        <Button href="/fund-allocations" variant="primary" icon="mdi:arrow-right">
-          Explore fund allocations
-        </Button>
+    <article>
+      <div>
+        <h2><a href="/fund-allocations">State General Fund allocations</a></h2>
+        <p>See how state support is distributed by campus and budget category.</p>
       </div>
-    </Section>
-
-    <Section title="Campus snapshot" icon="mdi:school">
-      <p class="section-desc">
-        Total state General Fund allocation received by each campus in FY
-        {data.latestAlloc.fiscal_year}. Sum of all allocation line items reaching the
-        campus.
-      </p>
-      <ChartFrame
-        title="Campus total — FY {data.latestAlloc.fiscal_year}"
-        subtitle="Sorted largest to smallest"
-      >
-        <CampusBarChart segments={campusTotalSegment} sortBy="desc" />
-      </ChartFrame>
-    </Section>
-  </Container>
-</PageLayout>
+      <dl>
+        <div>
+          <dt>FY {data.latestAlloc.fiscal_year} system total</dt>
+          <dd>{formatTotal(allocation)}</dd>
+        </div>
+      </dl>
+    </article>
+  </section>
+  <p class="methodology"><a href="/about">Data sources and methodology</a></p>
+</Container>
 
 <style>
-  .hero-stats {
+  .introduction {
+    border-inline-start: 0.25rem solid var(--sec);
+    padding-inline-start: clamp(1rem, 3vw, 2rem);
+    margin-block: clamp(0.5rem, 3vw, 2rem) clamp(2rem, 5vw, 4rem);
+  }
+
+  h1 {
+    color: var(--pri);
+    font-family: "Space Grotesk", "Inter", sans-serif;
+    font-size: clamp(2rem, 5.5vw, 4rem);
+    line-height: 1.06;
+    letter-spacing: -0.045em;
+    margin-block-end: 0.75rem;
+  }
+
+  p {
+    max-width: 58ch;
+    color: var(--text-secondary);
+  }
+
+  .introduction p {
+    font-size: clamp(1rem, 2vw, 1.25rem);
+  }
+
+  article {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-template-columns: minmax(0, 1.33fr) minmax(0, 1fr);
+    align-items: center;
+    gap: 1.5rem;
+    padding-block: 1.5rem;
+    border-block-start: 1px solid var(--border);
+  }
+
+  article:last-child {
+    border-block-end: 1px solid var(--border);
+  }
+
+  h2 {
+    font-family: "Space Grotesk", "Inter", sans-serif;
+    font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+    line-height: 1.2;
+    margin-block-end: 0.375rem;
+  }
+
+  a {
+    color: var(--pri);
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+
+  a:hover {
+    text-decoration-thickness: 0.14em;
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1rem;
-    margin-top: 1.5rem;
+    margin: 0;
   }
-  .section-desc {
-    color: #475569;
-    font-size: 1rem;
-    line-height: 1.55;
-    margin: 0 0 1.5rem;
-    max-width: 760px;
+
+  dt {
+    color: var(--text-secondary);
+    font-size: var(--text-sm);
   }
-  .cta {
-    display: flex;
-    justify-content: center;
-    margin-top: 1rem;
+
+  dd {
+    color: var(--pri);
+    font-size: clamp(1.125rem, 3vw, 1.625rem);
+    font-weight: var(--font-bold);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .methodology {
+    margin-block-start: 1.5rem;
+  }
+
+  @media (max-width: 700px) {
+    article {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 0.875rem;
+    }
+
+    dl {
+      grid-template-columns: repeat(2, minmax(0, max-content));
+      column-gap: 1.5rem;
+    }
   }
 </style>

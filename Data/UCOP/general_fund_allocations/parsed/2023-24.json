@@ -890,10 +890,9 @@
     },
     {
       "page": 1,
-      "label": "Prop",
+      "label": "Prop 56 GME Adjustments",
       "indent": 67.8,
       "amounts": {
-        "berkeley": 56.0,
         "ucop_to_be_allocated": 13832000.0,
         "system_total": 13832000.0
       }
@@ -1087,7 +1086,7 @@
     },
     {
       "page": 2,
-      "label": "",
+      "label": "$ per Weighted Budgeted Enrollment, Inc. Lottery Funds",
       "indent": 52.68,
       "amounts": {
         "berkeley": 8851.0,
@@ -1227,10 +1226,9 @@
     },
     {
       "page": 2,
-      "label": "Scripps Institution",
+      "label": "Scripps Institution - Coastal Ocean Pollution Pathogen Predictions Model",
       "indent": 52.68,
       "amounts": {
-        "berkeley": 0.0,
         "san_diego": 3000000.0,
         "campus_total": 3000000.0,
         "system_total": 3000000.0
@@ -1238,10 +1236,9 @@
     },
     {
       "page": 2,
-      "label": "Scripps Institution",
+      "label": "Scripps Institution - California Coastal Mapping Program",
       "indent": 52.68,
       "amounts": {
-        "berkeley": 0.0,
         "san_diego": 2000000.0,
         "campus_total": 2000000.0,
         "system_total": 2000000.0

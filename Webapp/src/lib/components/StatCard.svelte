@@ -35,11 +35,6 @@
     font-family: "Space Grotesk", sans-serif;
   }
 
-  .stat-divider {
-    color: rgba(255, 255, 255, 0.4);
-    font-size: 1.25rem;
-  }
-
   .stat-label {
     font-size: 0.925rem;
     color: rgba(255, 255, 255, 0.95);
