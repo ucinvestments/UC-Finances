@@ -29,6 +29,19 @@ coverage of the listed recipients.
 [UCOP recipient identifiers](https://www.ucop.edu/research-policy-analysis-coordination/resources-tools/contract-and-grant-manual/chapter10/index.html#10-530)
 · [USAspending award categories](https://github.com/fedspendingtransparency/usaspending-api/blob/master/usaspending_api/awards/v2/lookups/lookups.py)
 
+### Additional UC recipient coverage
+
+Two separately registered UC units have identifiers published by their
+sponsored-projects offices. Both fall outside the default roster.
+
+| Unit | UEI | Legacy DUNS | Source |
+| --- | --- | --- | --- |
+| Scripps Institution of Oceanography, non-NIH proposals | `QJ8HMDK7MRM3` | `175104595` | [UC San Diego institutional information](https://blink.ucsd.edu/research/spo/preparing-proposals/institutional-information-codes.html) |
+| UC Agriculture and Natural Resources | `K5KAMCPRVED6` | `604591925` | [UC ANR institutional information](https://ucanr.edu/dept/office-contracts-and-grants/institutional-information) |
+
+Check the recorded recipient and reporting entity before expanding the
+roster to health systems, laboratory contractors, or affiliated entities.
+
 ## Historical keyword snapshot
 
 The September 2025 collection used the keyword “University of California” and
