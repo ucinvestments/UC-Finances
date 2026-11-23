@@ -1,0 +1,307 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ L1uMV6IMKwipw8k/dcjwK1wAOZDxHMu1RI1mIO/akitIRiP+d0Bp6ZvyfVs+s/sV
+ Dw44PdWA+WG+OfBaxSnfiw==
+
+<SEC-DOCUMENT>0001015402-02-003022.txt : 20020828
+<SEC-HEADER>0001015402-02-003022.hdr.sgml : 20020828
+<ACCEPTANCE-DATETIME>20020828163213
+ACCESSION NUMBER:		0001015402-02-003022
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020630
+FILED AS OF DATE:		20020828
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-00224
+		FILM NUMBER:		02751378
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		14TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+		BUSINESS PHONE:		510-987-9676
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		14TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>doc1.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+
+                               Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: June 30, 2002
+
+Check here if Amendment [ ]; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [ ]is  a  restatement.
+                                                [ ]adds  new  holdings
+                                                   entries.
+Institutional  Investment  Manager  Filing  this  Report:
+
+Name:      The Regents of the University of California
+           -----------------------------------------------------
+Address:   Address: P.O. Box 24000
+           Oakland, CA 94623-1000
+           -----------------------------------------------------
+
+Form  13F  File  Number:  28-224
+                          ------
+
+The  institutional  investment manager filing this report and the person by whom
+it  is  signed hereby represent that the person signing the report is authorized
+to  submit  it,  that  all  information  contained  herein  is true, correct and
+complete,  and  that  it  is  understood  that  all  required items, statements,
+schedules,  lists,  and  tables,  are  considered  integral  parts of this form.
+
+Person  Signing this Report on Behalf of Reporting Manager:
+
+Name:   /s/ David Russ
+        -------------------------
+Title:  Treasurer
+        -------------------------
+Phone:  (510) 987-9600
+        -------------------------
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ David Russ                      Oakland, CA                       8/28/2002
+- --------------                      -----------                       ----------
+  [Signature]                      [City, State]                        [Date]
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT.  (Check  here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE.  (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+
+13F File Number  Name
+
+28-____________   ________________________________________
+
+         [Repeat as necessary.]
+
+
+
+                              Form 13F SUMMARY PAGE
+
+Report  Summary:0
+Number of Other Included Managers:                          0
+                                              ---------------
+
+Form  13F  Information  Table  Entry  Total:              136
+                                              ---------------
+
+Form  13F  Information  Table  Value  Total:  $15,791,667,943
+                                              ---------------
+
+
+List of Other Included Managers:
+
+Provide  a  numbered  list  of  the  name(s)  and  13F  file  number(s)  of  all
+institutional  investment  managers  with respect to which this report is filed,
+other  than  the  manager  filing  this  report.
+
+[If there are no entries in this list, state "NONE" and omit the column headings
+and  list  entries.]
+
+NONE
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                               FORM 13F INFORMATION TABLE
+                                                            VALUE    SHARES/ SH/ PUT/ INVSTMT  OTHER   VOTING AUTHORITY
+        NAME OF ISSUER          TITLE OF CLASS    CUSIP              PRN AMT PRN CALL DSCRETN MANAGERS SOLE SHARED NONE
+- ------------------------------ ---------------- --------- --------- -------- --- ---- ------- -------- ---- ------ ----
+<S>                            <C>              <C>       <C>       <C>      <C> <C>  <C>     <C>      <C>  <C>    <C>
+ACCENTURE LTD BERMUDA          CL A             G1150G111  77843000  4097000          Sole                0      0    0
+ELAN CORP PLC                  CONTINGENT VALUE G29539148       146    20909          Sole                0      0    0
+                               RT
+AMB PPTY CORP                  COM              00163T109  54522800  1758800          Sole                0      0    0
+AOL TIME WARNER INC            COM              00184A105 198891189 13520815          Sole                0      0    0
+AT + T CORP                    COM              1957109   105747918  9882983          Sole                0      0    0
+AT + T WIRELESS SVCS INC       COM              00209A106  55171397  9431008          Sole                0      0    0
+AGERE SYS INC                  CL A             00845V100   4200000  3000000          Sole                0      0    0
+AGILENT TECHNOLOGIES INC       COM              00846U101  88862132  3757384          Sole                0      0    0
+AIR PRODS + CHEMS INC          COM              9158106   178139215  3529606          Sole                0      0    0
+AMERICAN ELEC PWR INC          COM              25537101   48540258  1212900          Sole                0      0    0
+AMERICAN INTL GROUP INC        COM              26874107  507054452  7431547          Sole                0      0    0
+AMGEN INC                      COM              31162100  131287937  3134860          Sole                0      0    0
+ANADARKO PETE CORP             COM              32511107   40887941   829370          Sole                0      0    0
+ANALOG DEVICES INC             COM              32654105   44606430  1501900          Sole                0      0    0
+APPLE COMPUTER                 COM NPV          37833100   71903862  4057780          Sole                0      0    0
+APPLIED MICRO CIRCUITS CORP    CDT COM          03822W109   9029655  1909018          Sole                0      0    0
+APPLIED MATERIALS INC          COM              38222105   46607026  2450422          Sole                0      0    0
+ARCHSTONE SMITH TR             COM              39583109   21928710   821300          Sole                0      0    0
+AUTOMATIC DATA PROCESSING INC  COM              53015103  359327131  8250910          Sole                0      0    0
+AVANEX CORP                    COM              05348W109    280109   144386          Sole                0      0    0
+BP PLC                         SPONSORED ADR    55622104  214470463  4247781          Sole                0      0    0
+BAXTER INTL INC                COM              71813109  325524597  7323388          Sole                0      0    0
+BIO TECHNOLOGY GEN CORP        COM              90578105      85216    14179          Sole                0      0    0
+BIOTIME INC                    COM              09066L105     86000    40000          Sole                0      0    0
+BRISTOL MYERS SQUIBB CO        COM              110122108  82507280  3210400          Sole                0      0    0
+CENDANT CORP                   COM              151313103 104894546  6605450          Sole                0      0    0
+CHARTERED SEMICONDUCTOR MFG    ADR              16133R106  38883432  1943200          Sole                0      0    0
+CIENA CORP                     COM              171779101  17318690  4133339          Sole                0      0    0
+CISCO SYS INC                  COM              17275R102 158972749 11395896          Sole                0      0    0
+CIRRUS LOGIC INC               COM              172755100    192527    26123          Sole                0      0    0
+CINTAS CORP                    COM              172908105   2619790    53000          Sole                0      0    0
+CITIGROUP INC                  COM              172967101 176003856  4542035          Sole                0      0    0
+CLEAR CHANNEL COMMUNICATIONS   COM              184502102  61949094  1934700          Sole                0      0    0
+COCA COLA CO                   COM              191216100 189554008  3384893          Sole                0      0    0
+COLGATE PALMOLIVE CO           COM              194162103 165986621  3316416          Sole                0      0    0
+CONCORD EFS INC                COM              206197105   9042000   300000          Sole                0      0    0
+CONVERGYS CORP                 COM              212485106  33501704  1719800          Sole                0      0    0
+COSTCO WHSL CORP NEW           COM              22160K105 112655312  2917020          Sole                0      0    0
+CYPRESS SEMICONDUCTOR CORP     COM              232806109    386027    25430          Sole                0      0    0
+CYTYC CORP                     COM              232946103    146936    19283          Sole                0      0    0
+DANAHER CORP                   COM              235851102  53080000   800000          Sole                0      0    0
+DISNEY WALT CO                 DISNEY COM       254687106 232915927 12323594          Sole                0      0    0
+DUKE ENERGY CO                 COM STK NPV      264399106  94015300  3023000          Sole                0      0    0
+EMC CORP                       COM              268648102  21819500  2890000          Sole                0      0    0
+E PIPHANY INC                  COM              26881V100    324434    73903          Sole                0      0    0
+EBAY INC                       COM              278642103    436023     7076          Sole                0      0    0
+EL PASO CORP                   COM              28336L109  52044063  2525185          Sole                0      0    0
+ELECTRONIC DATA SYS CORP NEW   COM              285661104 211707039  5698709          Sole                0      0    0
+EMERSON ELEC CO                COM              291011104 132693937  2479797          Sole                0      0    0
+ENTERGY CORP                   COM              29364G103  44073940  1038500          Sole                0      0    0
+EQUITY OFFICE PPTYS TR         COM              294741103  68823199  2286485          Sole                0      0    0
+EQUITY RESIDENTIAL             SH BEN INT       29476L107  56992390  1982344          Sole                0      0    0
+ERICSSON L M TEL CO            ADR CL B SEK 10  294821400  23161473 16084356          Sole                0      0    0
+EXELON CORP                    COM              30161N101  48492560   927200          Sole                0      0    0
+EXXON MOBIL CORP               COM              30231G102 441065713 10778732          Sole                0      0    0
+FAMILY DLR STORES INC          COM              307000109 174533889  4951316          Sole                0      0    0
+FEDERAL HOME LN MTG CORP       COM              313400301  60526800   989000          Sole                0      0    0
+FEDERAL NATL MTG ASSN          COM              313586109  70040375   949700          Sole                0      0    0
+FEDEX CORP                     COM              31428X106   1335000    25000          Sole                0      0    0
+FIFTH THIRD BANCORP            COM STK          316773100 144898033  2174014          Sole                0      0    0
+FISERV INC                                      337738108  70152773  1910999          Sole                0      0    0
+FOREST LABS INC                COM              345838106  72598320  1025400          Sole                0      0    0
+GANNETT INC                    COM              364730101 172516829  2272949          Sole                0      0    0
+GATEWAY INC                    COM              367626108  13278695  2990697          Sole                0      0    0
+GENENTECH INC                  COM              368710406 138224350  4126100          Sole                0      0    0
+GENERAL ELEC CO                COM              369604103 509359563 17533892          Sole                0      0    0
+GENERAL GROWTH PPTYS INC       COM              370021107  26775000   525000          Sole                0      0    0
+GOLDMAN SACHS GROUP INC        COM              38141G104  72469800   988000          Sole                0      0    0
+HEWLETT PACKARD CO             COM              428236103 154801863 10131012          Sole                0      0    0
+HOME DEPOT INC                 COM              437076102 166735284  4539485          Sole                0      0    0
+HONEYWELL INTL INC             COM              438516106  51308126  1456376          Sole                0      0    0
+INKTOMI CORP                   COM              457277101     10071    11444          Sole                0      0    0
+INTEL CORP                     COM              458140100 200103618 10952579          Sole                0      0    0
+INTERNATIONAL BUSINESS MACHS   COM              459200101 110736000  1538000          Sole                0      0    0
+ISHARES TR                     RUSSELL 2000     464287655 998908610 11019400          Sole                0      0    0
+                               INDEX FD
+ISHARES TR                     RUSSELL 3000     464287689 307531016  5579300          Sole                0      0    0
+                               INDEX FD
+ISHARES S&P EUROPE 350         IEV              464287861 268341100  4749400          Sole                0      0    0
+J P MORGAN CHASE + CO          COM              46625H100 147654099  4353010          Sole                0      0    0
+JOHNSON + JOHNSON              COM              478160104  96367440  1844000          Sole                0      0    0
+JUNIPER NETWORKS INC           COM              48203R104    443090    78423          Sole                0      0    0
+LAUDER ESTEE COS INC           CL A             518439104  82674240  2348700          Sole                0      0    0
+MARSH + MCLENNAN COS INC       COM              571748102 224740866  2326510          Sole                0      0    0
+MASCO CORP                     COM              574599106 102888550  3795225          Sole                0      0    0
+MCGRAW HILL COS INC            COM              580645109 168369522  2820260          Sole                0      0    0
+MERCK + CO INC                 COM              589331107 224632457  4435870          Sole                0      0    0
+MICROSOFT CORP                 COM              594918104 389571048  7121957          Sole                0      0    0
+MIDCAP SPDR TR                 UNIT SER 1       595635103 748333530  8356600          Sole                0      0    0
+                               STANDARD + POORS
+MOLEX INC                      CL A             608554200 184487213  6725746          Sole                0      0    0
+NOKIA CORP                     SPONSORED ADR    654902204 110425088  7626042          Sole                0      0    0
+NORTEL NETWORKS CORP           COM              656568102   7105000  4900000          Sole                0      0    0
+NORTHERN TRUST CORP            COM              665859104  96746948  2195800          Sole                0      0    0
+NOVELLUS SYS INC               COM              670008101  39338000  1157000          Sole                0      0    0
+OMNICOM GROUP                  COM              681919106  68988540  1506300          Sole                0      0    0
+PMC SIERRA INC                 COM              69344F106  11284714  1217337          Sole                0      0    0
+PAYCHEX INC                    COM              704326107  74986485  2396500          Sole                0      0    0
+PEDIATRIX MED GROUP            COM              705324101   2895000   115800          Sole                0      0    0
+PEOPLESOFT INC                 COM              712713106  54677483  3674562          Sole                0      0    0
+PEPSICO INC                    COM              713448108 328729447  6820113          Sole                0      0    0
+PERKINELMER INC                COM              714046109  51679480  4676876          Sole                0      0    0
+PFIZER INC                     COM              717081103  56423500  1612100          Sole                0      0    0
+PHARMACIA CORP                 COM              71713U102 386129948 10310546          Sole                0      0    0
+PIXELWORKS INC                 COM              72581M107    235155    28028          Sole                0      0    0
+PIVOTAL CORP                   COM              72581R106    188508    48963          Sole                0      0    0
+PROLOGIS                       SH BEN INT       743410102  53703416  2065516          Sole                0      0    0
+RADIO ONE INC                  CL A             75040P108    312671    21027          Sole                0      0    0
+RADIO ONE INC                  NON VTG CL D     75040P405    655321    44070          Sole                0      0    0
+SBC COMMUNICATIONS INC         COM              78387G103 236518381  7754701          Sole                0      0    0
+SAPIENT CORP                   COM              803062108   3323842  3135700          Sole                0      0    0
+SELECT MED CORP                OC COM           816196109   5083847   324639          Sole                0      0    0
+SOLECTRON CORP                 COM              834182107  33313320  5416800          Sole                0      0    0
+SOUTHERN CO                    COM              842587107  37557180  1370700          Sole                0      0    0
+STATE STREET CORPORATION       COM              857477103 165041340  3692200          Sole                0      0    0
+SUN MICROSYSTEMS INC           COM              866810104  25146568  5019275          Sole                0      0    0
+SUNGARD DATA SYS INC           COM              867363103  48098272  1816400          Sole                0      0    0
+SUNTRUST BKS INC               COM              867914103  47993164   708700          Sole                0      0    0
+SYMYX TECHNOLOGIES INC         COM              87155S108   1518672   109100          Sole                0      0    0
+SYSCO CORP                     COM              871829107 455507428 16734292          Sole                0      0    0
+TMP WORLDWIDE INC              COM              872941109  28934700  1345800          Sole                0      0    0
+TAIWAN SEMICNDCTR MFG CO LTD   SPONSORED ADR    874039100  60577660  4659820          Sole                0      0    0
+TEXAS INSTRS INC               COM              882508104 229596215  9687604          Sole                0      0    0
+THOMSON CORP                   COM              884903105  52323200  1660000          Sole                0      0    0
+3M CO                          COM              88579Y101 119161170   968790          Sole                0      0    0
+TIFFANY + CO NEW               COM              886547108  24217600   688000          Sole                0      0    0
+TULARIK INC                    COM              899165104    229250    25000          Sole                0      0    0
+TYCO INTL LTD                  NEW COM          902124106  25696020  1902000          Sole                0      0    0
+UNITED PARCEL SVC INC          CL B             911312106 164283590  2660463          Sole                0      0    0
+UNITED SURGICAL PARTNERS       COM              913016309   5093794   164422          Sole                0      0    0
+VERIZON COMMUNICATIONS                          92343V104 224650572  5595282          Sole                0      0    0
+VERITAS SOFTWARE CORP          COM              923436109  47879926  2419400          Sole                0      0    0
+VIACOM INC                     CL B FORMERLY    925524308 173621230  3913032          Sole                0      0    0
+                               COM NON VTG
+VITESSE SEMICONDUCTOR CORP     COM              928497106    692768   222755          Sole                0      0    0
+WACHOVIA CORP 2ND NEW          COM              929903102 185704618  4863924          Sole                0      0    0
+WELLS FARGO + CO NEW           COM              949746101 281948483  5632211          Sole                0      0    0
+WORLDCOM INC/WORLDCOM GRP      COM              98157D106    894016 12771657          Sole                0      0    0
+WYETH                          COM              983024100 353596314  6906178          Sole                0      0    0
+XILINX INC                     COM              983919101  32355275  1442500          Sole                0      0    0
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

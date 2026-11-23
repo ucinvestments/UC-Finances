@@ -1,0 +1,244 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KgADZ5CsxUCjgK2nJEe2IM3nxOQkwaCCPZWfcI3/MaulNmM+1qAOP/Ohd9DP7yUp
+ f3OuarB4LMGa6n4CyZ5vmA==
+
+<SEC-DOCUMENT>0000315054-99-000022.txt : 19991111
+<SEC-HEADER>0000315054-99-000022.hdr.sgml : 19991111
+ACCESSION NUMBER:		0000315054-99-000022
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19990930
+FILED AS OF DATE:		19991110
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		
+		SEC FILE NUMBER:	028-00224
+		FILM NUMBER:		99745586
+
+	BUSINESS ADDRESS:	
+		STREET 1:		.
+		STREET 2:		2200 UNIVERSITY AVENUE
+		CITY:			BERKELEY
+		STATE:			CA
+		ZIP:			94720
+		BUSINESS PHONE:		4156423251
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<TEXT>
+
+United States
+Securities and Exchange Commission
+Washington, DC 20549
+
+Form 13F
+
+Form 13F Cover Page
+
+Report for the Calendar Year or Quarter End  09/30/99
+
+Check here if Amendment: [  ]      Amendment number:   [  ]
+This Amendment (check only one):
+[  ] is a restatement.
+[  ] adds new holdings entries.
+
+Institutional Investment Manager filing this Report:
+Name:     The Regents Of The University Of California
+Address:  P.O. Box 24000
+Oakland, CA 94623-1000
+
+13F File Number:    28-224
+
+The institutional  investment  manager filing this report and the person by
+whom it is  signed  hereby  represent  that the  person  signing  the  report is
+authorized to submit it, that all information  contained herein is true, correct
+and complete,  and that it is understood  that all required  items,  statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Patricia A. Small
+Title:    Treasurer
+Phone:    (510) 987-9600
+
+Signature, Place, and Date of Signing:
+
+/s/ Patricia A. Small
+Oakland, CA 94623-1000
+November 10, 1999
+
+Report Type (Check only one):
+
+[  X ] 13F  HOLDINGS  REPORT.  (Check here if all  holdings of this  reporting
+manager are reported in this report.)
+[    ] 13F NOTICE.  (Check here if no holdings reported are in this report,  and
+all holdings are reported by other reporting manager(s).)
+[    ] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+reporting manager are reported in this report and a portion are reported by
+other reporting manager(s).)
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934.
+<PAGE>
+Form 13F Summary Page
+Report Summary:
+Number of Other Included Manage          0
+Form 13F Information Table Entr        122
+Form 13F Information Table Valu************
+
+<PAGE>
+<TABLE>
+<CAPTION>
+Column 1                         Column 2   Column 3    Column 4    Column 5   Column 6
+- -                              ----------------------------------------------------------
+Name of                          Title of     Cusip    Fair Market   Shrs or  Investment
+Issuer                             Class                   Value     prn amt  Discretion
+<S>                            <C>         <C>        <C>          <C>        <C>
+<C>                            ----------------------------------------------------------
+ACCREDO HEALTH                    COMMON       0437V10   2,715,993      86222     86,222
+ADVENT SOFTWARE                   COMMON       0797410   6,298,953    101,188    101,188
+AIR PRODS & CHEMS                 COMMON       0915810 264,858,282  9,054,984  9,054,984
+ALLIEDSIGNAL                      COMMON       1951210 333,297,237  5,560,700  5,560,700
+AMAZON                            COMMON       2313510  19,804,160    247,744    247,744
+AMB PROPERTY CORP                 COMMON       163T109  46,613,600  2,200,000  2,200,000
+AT & T CORP                       COMMON       1957109 572,780,639 13,167,371 13,167,371
+AMERICA ONLINE INC                COMMON       2364J10   2,506,565     24,087     24,087
+AMERICAN HOME PRODS CORP          COMMON       2660910 809,864,408 19,514,805 19,514,805
+AMERITECH                         COMMON       2680410 291,041,615  4,360,174  4,360,174
+AMERICAN INTL GROUP               COMMON       2687410 440,520,236  5,067,062  5,067,062
+ANSWERTHINK CONSULTING            COMMON       3691610     697,697     72,488     72,488
+APPLE COMPUTER                    COMMON       3783310 234,574,665  3,705,000  3,705,000
+ARDENT SOFTWARE                   COMMON       3979410     486,985     18,078     18,078
+ARTHROCARE                        COMMON       4313610   8,492,330    155,466    155,466
+ASTRAZENECA PLC                   COMMON       4635310 458,729,882 10,857,512 10,857,512
+ASPECT DEV                        COMMON       4523410   6,214,848    245,520    245,520
+AT HOME                           COMMON       4591910  53,707,792  1,296,100  1,296,100
+AUTOMATIC DATA PROCESSING         COMMON       5301510 802,558,313 17,984,500 17,984,500
+AVANT                             COMMON       5348710   2,035,840    114,091    114,091
+BP AMOCO                          COMMON       5562210 573,373,168  5,174,241  5,174,241
+BAXTER INTL INC                   COMMON       7181310 260,906,239  4,330,394  4,330,394
+BELL ATLANTIC CORP                COMMON       7785310 178,325,734  2,649,202  2,649,202
+BERKSHIRE HATHAWAY CL 'A'         COMMON       8467010 582,780,000     10,596     10,596
+BROADVISION                       COMMON      11141210  15,700,236    117,991    117,991
+CSG SYS INTL                      COMMON      12634910   3,402,345    124,146    124,146
+CV THERAPEUTICS                   COMMON      12666710     396,952     27,142     27,142
+CAREMARK RX                       COMMON      14170510  33,748,021  5,869,221  5,869,221
+CAROLINA PWR & LT CO              COMMON      14414110  46,058,250  1,302,000  1,302,000
+CHECKFREE                         COMMON      16281210   5,069,767    123,277    123,277
+CIENA                             COMMON      17177910  63,170,514  1,730,699  1,730,699
+CISCO SYSTEMS                     COMMON      17275R10 593,107,934  8,650,554  8,650,554
+CITRIX SYSTEMS                    COMMON      17737610  43,760,312    706,518    706,518
+CLARIFY                           COMMON      18049210   1,441,971     28,660     28,660
+COCA COLA CO                      COMMON      19121610 322,797,084  6,690,095  6,690,095
+COLGATE-PALMOLIVE                 COMMON      19416210 200,119,650  4,374,200  4,374,200
+CONCENTRIC NETWORK                COMMON      20589R10   2,600,023    127,998    127,998
+CONCUR TECHNOLOGIES               COMMON      20670810     700,445     24,577     24,577
+CONSTELLATION ENERGY GRP          COMMON      21037110  50,599,884  1,799,107  1,799,107
+CYPRESS SEMICONDUCTOR             COMMON      23280610   3,649,948    169,765    169,765
+DISNEY WALT CO DEL                COMMON      25468710 312,578,500 12,022,250 12,022,250
+DOCUMENTUM                        COMMON      25615910   3,811,039    176,233    176,233
+EG & G INC                        COMMON      26845710 132,915,295  3,343,781  3,343,781
+EASTMAN CHEMICAL                  COMMON      27743210 131,506,434  3,297,967  3,297,967
+ELECTRONIC DATA                   COMMON      28566110 373,676,425  7,058,756  7,058,756
+EMERSON ELEC CO                   COMMON      29101110 440,519,565  6,971,570  6,971,570
+EQUITY OFFICE PROPERTIES          COMMON      29474110  47,767,125  2,054,500  2,054,500
+EQUITY RESIDENTIAL  PPTYS         COMMON      29476L10  51,049,163  1,204,700  1,204,700
+ERICSSON L M TEL ADR              COMMON      29482140 808,855,000 25,883,360 25,883,360
+EXODUS COMMUNICATIONS             COMMON      30208810   2,381,394     33,046     33,046
+EXTREME NETWORKS                  COMMON      30226D10     680,805     10,753     10,753
+EXXON CORP                        COMMON      30229010*************13,652,819 13,652,819
+FAMILY DOLLAR STORES              COMMON      30700010 148,622,825  7,035,400  7,035,400
+FPL GROUP INC                     COMMON      30257110  58,405,380  1,159,412  1,159,412
+FLEXTRONICS INTL                  COMMON      Y2573F10  15,802,464    271,576    271,576
+FOSTER WHEELER                    COMMON      35024410  41,841,119  3,468,550  3,468,550
+GANNETT CO                        COMMON      36473010 731,116,515 10,567,100 10,567,100
+GATEWAY                           COMMON      36762610  72,292,000  1,643,000  1,643,000
+GENERAL ELEC CO                   COMMON      36960410*************10,824,898 10,824,898
+GENUINE PARTS CO                  COMMON      37246010 225,582,107  8,492,343  8,492,343
+GTE CORP                          COMMON      36232010 277,462,708  3,609,271  3,609,271
+HALLIBURTON                       COMMON      40621610 275,245,300  6,713,300  6,713,300
+HEWLETT PACKARD CO                COMMON      42823610*************13,630,178 13,630,178
+HISPANIC BROADCASTING             COMMON      43357B10   2,872,653     37,736     37,736
+ILLINOIS TOOL WORKS               COMMON      45230810 316,512,479  4,244,900  4,244,900
+INTERNATIONAL NETWORK SV          COMMON      46005310  23,921,248    439,931    439,931
+INTUIT                            COMMON      46120210   2,477,304     84,784     84,784
+ISS GROUP                         COMMON      45030610     221,624      8,133      8,133
+JOHNSON & JOHNSON                 COMMON      47816010   3,151,404     34,301     34,301
+KELLOGG                           COMMON      48783610 227,109,728  6,066,289  6,066,289
+LASON                             COMMON      51808R10   3,907,773     87,754     87,754
+LUCENT TECHNOLOGIES               COMMON      54946310 662,174,843 10,206,934 10,206,934
+MCI WORLDCOM                      COMMON      55268B10 570,910,672  7,943,105  7,943,105
+MMC NETWORKS                      COMMON      55308N10   4,223,728    135,428    135,428
+MARSH & MCLENNAN COS INC          COMMON      57174810 721,440,219 10,531,974 10,531,974
+MASCO CORP                        COMMON      57459910 153,865,400  4,963,400  4,963,400
+MCGRAW HILL                       COMMON      58064510 186,064,763  3,846,300  3,846,300
+MEDIAONE GROUP                    COMMON      58440J10 267,971,610  3,922,703  3,922,703
+MERCK & CO INC                    COMMON      58933110 843,770,892 13,018,544 13,018,544
+MICROSOFT                         COMMON      59491810 719,749,986  7,947,506  7,947,506
+MINNESOTA MNG & MFG               COMMON      60405910 300,607,064  3,129,270  3,129,270
+MOLEX CL A                        COMMON      60855420 187,464,783  5,790,418  5,790,418
+MONSANTO                          COMMON      61166210  91,648,568  2,568,050  2,568,050
+NETOPIA                           COMMON      64114K10   3,930,678     98,575     98,575
+NETWORK APPLIANCE                 COMMON      64121L10  11,717,277    163,592    163,592
+NOKIA                             COMMON      65490220 274,127,738  3,050,100  3,050,100
+NORTEL NETWORKS                   COMMON      65656910  11,018,550    216,050    216,050
+NORTHN STS PWR CO MINN            COMMON      66577210  56,496,354  2,620,060  2,620,060
+NVIDIA CORP                       COMMON      67066G10   3,149,685    163,620    163,620
+OFFICE DEPOT                      COMMON      67622010 116,177,250 11,064,500 11,064,500
+PACIFICORP                        COMMON      69511410  77,038,701  3,828,010  3,828,010
+PAGING NETWORK                    COMMON      69554210   2,530,810  2,454,714  2,454,714
+PALL CORP                         COMMON      69642930 127,747,330  5,509,200  5,509,200
+PEOPLESOFT                        COMMON      71271310  96,926,079  5,722,404  5,722,404
+PEPSICO                           COMMON      71344810 265,089,500  8,691,459  8,691,459
+PHARMACIA & UPJOHN                COMMON      71694110 245,762,850  4,952,400  4,952,400
+POLICY MGMT SYSTEMS               COMMON      73110810  85,589,900  2,706,400  2,706,400
+PROCTER & GAMBLE CO               COMMON      74271810 559,778,438  5,970,970  5,970,970
+PROGRESSIVE CORP                  COMMON      74331510 157,469,958  1,927,700  1,927,700
+PROLOGIS TR                       COMMON      74341010  50,851,138  2,694,100  2,694,100
+RAMBUS                            COMMON      75091710   6,529,998     98,566     98,566
+REDBACK NETWORKS                  COMMON      75720910  12,392,460    114,745    114,745
+RELIANT ENERGY                    COMMON      75952J10  93,826,961  3,466,983  3,466,983
+SANGSTAT MED                      COMMON      80100310   1,137,492     53,216     53,216
+SCANA                             COMMON      80589810  65,670,420  2,715,000  2,715,000
+SCHWAB (CHARLES)                  COMMON      80851310  98,374,596  2,942,000  2,942,000
+SEALED AIR CORP NEW               COMMON      81211K10 146,837,281  2,861,600  2,861,600
+SONAT                             COMMON      83541510 143,575,309  3,617,600  3,617,600
+SBC COMMUNICATIONS                COMMON      84533310 225,972,362  4,425,364  4,425,364
+SPIEKER PROPERTIES                COMMON      84849710  45,954,662  1,324,800  1,324,800
+SPORTSLINE USA                    COMMON      84893410   3,269,017    110,578    110,578
+SUN MICROSYSTEMS                  COMMON      86681010     211,575      2,275      2,275
+SYSCO CORP                        COMMON      87182910 482,628,170 13,764,600 13,764,600
+TEXAS INSTRUMENTS                 COMMON      88250810 527,432,402  6,412,552  6,412,552
+TIME WARNER                       COMMON      88731510 797,129,910 13,121,480 13,121,480
+TYCO INTL LTD                     COMMON      90212410 440,422,684  4,265,595  4,265,595
+UNION PACIFIC                     COMMON      90781810 136,061,306  2,830,895  2,830,895
+UNION PACIFIC RESOURCES           COMMON      90783410 100,446,271  6,181,309  6,181,309
+VERISIGN                          COMMON      92343E10   5,245,125     49,250     49,250
+VIGNETTE                          COMMON      92673410     739,385      8,170      8,170
+WACHOVIA                          COMMON      92977110 518,374,625  6,593,000  6,593,000
+WESTERN RESOURCES                 COMMON      95942510  31,049,325  1,452,600  1,452,600
+YAHOO                             COMMON      98433210  57,725,944    321,593    321,593
+                               Grand Totals           ************************
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

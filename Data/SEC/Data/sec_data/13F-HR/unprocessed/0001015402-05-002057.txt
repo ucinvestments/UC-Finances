@@ -1,0 +1,204 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MeiyCDiy//HFIJ7iJ/zaXjuMt8lBThY+W4KtMq2YMYDfpIlM6V+xoC56crqybNzB
+ fQecRQQvgoWDjwXoBJzrew==
+
+<SEC-DOCUMENT>0001015402-05-002057.txt : 20050425
+<SEC-HEADER>0001015402-05-002057.hdr.sgml : 20050425
+<ACCEPTANCE-DATETIME>20050425165701
+ACCESSION NUMBER:		0001015402-05-002057
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050331
+FILED AS OF DATE:		20050425
+DATE AS OF CHANGE:		20050425
+EFFECTIVENESS DATE:		20050425
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-00224
+		FILM NUMBER:		05770621
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		14TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+		BUSINESS PHONE:		510-987-9676
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		14TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>body.txt
+<DESCRIPTION>REGENTS OF THE UNIVERSITY OF CALIFORNIA 13-F
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+
+                               Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2005
+
+Check here if Amendment [ ]; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [ ] is a restatement.
+                                                [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:      The Regents of the University of California
+           -----------------------------------------------------
+Address:   Address: P.O. Box 24000
+           Oakland, CA 94623-1000
+           -----------------------------------------------------
+
+Form 13F File Number: 28-224
+                      ------
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   /s/ David Russ
+        -------------------------
+Title:  Treasurer
+        -------------------------
+Phone:  (510) 987-9600
+        -------------------------
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ David Russ                      Oakland, CA                       4/25/2005
+- --------------                      -----------                       ----------
+ [Signature]                       [City, State]                        [Date]
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+
+13F File Number  Name
+
+28-____________   ________________________________________
+         [Repeat as necessary.]
+
+
+
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+Number of Other Included Managers:                 0
+                                         -----------
+Form 13F Information Table Entry Total:           33
+                                         -----------
+Form 13F Information Table Value Total:  $20,936,014
+                                         -----------
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+
+[If there are no entries in this list, state "NONE" and omit the column headings
+and list entries.]
+
+NONE
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                              FORM 13F INFORMATION TABLE
+
+                                                                  SHARES/ SH/ PUT/ INVSTMT  OTHER   VOTING AUTHORITY
+        NAME OF ISSUER          TITLE OF CLASS    CUSIP    VALUE   PRN AMT PRN CALL DSCRETN MANAGERS SOLE SHARED NONE
+- ------------------------------ ---------------- --------- -------- ------- --- ---- ------- -------- ---- ------ ----
+<S>                            <C>              <C>       <C>      <C>     <C> <C>  <C>     <C>      <C>  <C>    <C>
+AIR PRODS + CHEMS INC          COM              9158106     645558   10200          SOLE                X      0    0
+AIRSPAN NETWORKS INC           COM              00950H102  1279667  250424          SOLE                X      0    0
+ALCATEL ALSTHOM                SPONSORED ADR    13904305    985190   81623          SOLE                X      0    0
+                               REPSTG 1/5 SH
+ALIGN TECHNOLOGY INC           COM              16255101    306047   49046          SOLE                X      0    0
+AMERICAN INTL GROUP INC        COM              26874107   1038938   18750          SOLE                X      0    0
+ARGONAUT TECHNOLOGIES INC      OC COM           40175101    176888  198750          SOLE                X      0    0
+BIOENVISION INC                COM              09059N100   192165   33420          SOLE                X      0    0
+BROCADE COMMUNICATIONS SYS INC COM              111621108   154423   26085          SOLE                X      0    0
+COCA COLA CO                   COM              191216100   375030    9000          SOLE                X      0    0
+CYTYC CORP                     COM              232946103   297036   12909          SOLE                X      0    0
+EON COMMUNICATIONS CORP        COM              268763109   266254  143921          SOLE                X      0    0
+E PIPHANY INC                  COM              26881V100   309691   87237          SOLE                X      0    0
+EQUITY OFFICE PPTYS TR         COM              294741103  2135313   70870          SOLE                X      0    0
+EQUITY RESIDENTIAL             SH BEN INT       29476L107   644200   20000          SOLE                X      0    0
+EXXON MOBIL CORP               COM              30231G102  2002560   33600          SOLE                X      0    0
+FISHER SCIENTIFIC INTL INC     COM NEW          338032204   407971    7167          SOLE                X      0    0
+GANNETT INC                    COM              364730101   727536    9200          SOLE                X      0    0
+GENERAL ELEC CO                COM              369604103  1427976   39600          SOLE                X      0    0
+LAUDER ESTEE COS INC           CL A             518439104   751166   16700          SOLE                X      0    0
+MCGRAW HILL COS INC            COM              580645109   261750    3000          SOLE                X      0    0
+MERCK + CO INC                 COM              589331107   699192   21600          SOLE                X      0    0
+MIDCAP SPDR TR                 UNIT SER 1       595635103   674240    5600          SOLE                X      0    0
+                               STANDARD +
+                               POORS
+QUICKLOGIC CORP                CDT COM          74837P108   201058   58789          SOLE                X      0    0
+RENOVIS INC                    COM              759885106   202751   25124          SOLE                X      0    0
+SBC COMMUNICATIONS INC         COM              78387G103   922370   38935          SOLE                X      0    0
+SYMYX TECHNOLOGIES INC         COM              87155S108   295845   13417          SOLE                X      0    0
+TUMBLEWEED COMMUNICATIONS CORP COM              899690101   220634   79940          SOLE                X      0    0
+VA SOFTWARE CORP               COM              91819B105   244284  148051          SOLE                X      0    0
+VERIZON COMMUNICATIONS                          92343V104   629593   17735          SOLE                X      0    0
+VOLTERRA SEMICONDUCTOR CORP    COM              928708106   541364   40101          SOLE                X      0    0
+WACHOVIA CORP 2ND NEW          COM              929903102   224004    4400          SOLE                X      0    0
+WELLS FARGO + CO NEW           COM              949746101   514280    8600          SOLE                X      0    0
+WYETH                          COM              983024100  1181040   28000          SOLE                X      0    0
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

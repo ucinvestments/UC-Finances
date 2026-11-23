@@ -1,0 +1,183 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T6d8t4vqkF+iZXGFk+pC9IBW5fwtNOX0mJD0zui3Hli6YwFvBUVUWhb0Nsyqerq5
+ 3/uN/Y5HJz0eXTfbPQ5Vug==
+
+<SEC-DOCUMENT>0001140361-10-042216.txt : 20101026
+<SEC-HEADER>0001140361-10-042216.hdr.sgml : 20101026
+<ACCEPTANCE-DATETIME>20101026131705
+ACCESSION NUMBER:		0001140361-10-042216
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100930
+FILED AS OF DATE:		20101026
+DATE AS OF CHANGE:		20101026
+EFFECTIVENESS DATE:		20101026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-00224
+		FILM NUMBER:		101141581
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		14TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+		BUSINESS PHONE:		510-987-9676
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		14TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>form13fhr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+                               Form 13F COVER PAGE
+Report for the Calendar Year or Quarter Ended: 9/30/2010
+Check here if Amendment []; Amendment Number:
+                                               -------
+This Amendment (Check only one.):               [] is a restatement.
+                                                [] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+
+Name:      The Regents of the University of California
+
+Address:   1111 Broadway, Suite 1400
+           Oakland, CA 94607
+
+
+Form 13F File Number: 28-00224
+
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Persons Signing this Report on Behalf of Reporting Manager:
+
+Name:   Marie Berggren
+Title:  Treasurer
+Phone:  (510) 987-9600
+
+Signature,  Place,  and  Date  of  Signing:
+
+/s/ Marie Berggren                 Oakland, CA                        10/25/2010
+- ---------------------------------  ---------------------------------  ----------
+[Signature]                        [City, State]                      [Date]
+
+
+
+Report  Type  (Check  only  one):
+
+[X]     13F HOLDINGS REPORT. (Check here if all holdings of this reporting
+        manager are reported in this report.)
+
+[ ]     13F NOTICE. (Check here if no holdings reported are in this report,
+        and all holdings are reported by other reporting manager(s).)
+
+[ ]     13F COMBINATION REPORT. (Check here if a portion of the holdings for
+        this reporting manager are reported in this report and a portion are
+        reported by other reporting manager(s).)
+
+List of Other Managers Reporting for this Manager:
+
+
+
+<PAGE>
+                              Form 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                    0
+
+Form 13F Information Table Entry Total:              20
+
+Form 13F Information Table Value Total:  $14,050,441.00
+                                         --------------
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and 13F file number(s) of all
+institutional investment managers with respect to which this report is filed,
+other than the manager filing this report.
+NONE
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  FORM 13F INFORMATION TABLE
+
+          COLUMN 1                    COLUMN 2         COLUMN 3  COLUMN 4        COLUMN 5        COLUMN 6  COLUMN 7     COLUMN 8
+- ----------------------------- ------------------------ --------- --------- -------------------- ---------- -------- ----------------
+                                                                             SHRS OR   SH/ PUT/ INVESTMENT  OTHER   VOTING AUTHORITY
+       NAME OF ISSUER              TITLE OF CLASS        CUSIP     VALUE     PRN AMT   PRN CALL DISCRETION MANAGERS SOLE SHARED NONE
+- ----------------------------- ------------------------ --------- --------- ----------- --- ---- ---------- -------- ---- ------ ----
+<S>                           <C>                      <C>       <C>       <C>         <C> <C>  <C>        <C>      <C>  <C>    <C>
+AT+T INC                      COMMON STOCK USD1.       00206R102   541,970  18,950.000          SOLE                   X      0    0
+ACCELRYS INC                  COMMON STOCK USD.0001    00430U103    72,850  10,467.000          SOLE                   X      0    0
+AIR PRODUCTS + CHEMICALS INC  COMMON STOCK USD1.       009158106   844,764  10,200.000          SOLE                   X      0    0
+ANADARKO PETROLEUM CORP       COMMON STOCK USD.1       032511107   262,544   4,602.000          SOLE                   X      0    0
+ATHERSYS INC                  COMMON STOCK USD.001     04744L106   209,122  68,118.000          SOLE                   X      0    0
+BERKSHIRE HATHAWAY INC CL B   COMMON STOCK USD.0033    084670702   299,302   3,620.000          SOLE                   X      0    0
+BIOTIME INC                   COMMON STOCK NPV         09066L105   189,896  39,978.000          SOLE                   X      0    0
+COCA COLA CO/THE              COMMON STOCK USD.25      191216100   526,680   9,000.000          SOLE                   X      0    0
+EXXON MOBIL CORP              COMMON STOCK NPV         30231G102 2,076,144  33,600.000          SOLE                   X      0    0
+GENERAL ELECTRIC CO           COMMON STOCK USD.06      369604103   643,500  39,600.000          SOLE                   X      0    0
+HANSEN MEDICAL INC            COMMON STOCK USD.0001    411307101    75,022  52,463.000          SOLE                   X      0    0
+ESTEE LAUDER COMPANIES CL A   COMMON STOCK USD.01      518439104 1,055,941  16,700.000          SOLE                   X      0    0
+MAP PHARMACEUTICALS INC       COMMON STOCK USD.01      56509R108   204,194  13,346.000          SOLE                   X      0    0
+MERCK + CO. INC.              COMMON STOCK USD.01      58933Y105   795,096  21,600.000          SOLE                   X      0    0
+PFIZER INC                    COMMON STOCK USD.05      717081103   474,665  27,645.000          SOLE                   X      0    0
+SPDR S+P MIDCAP 400 ETF TRUST SPDR S+P MIDCAP 400 ETF  78467Y107   815,304   5,600.000          SOLE                   X      0    0
+                              TRUS
+SOLARWINDS INC                COMMON STOCK USD.001     83416B109 3,744,626 216,954.000          SOLE                   X      0    0
+VERIZON COMMUNICATIONS INC    COMMON STOCK USD.1       92343V104   577,984  17,735.000          SOLE                   X      0    0
+WELLS FARGO + CO              COMMON STOCK USD1.666    949746101   454,250  18,076.000          SOLE                   X      0    0
+ZIPREALTY INC                 COMMON STOCK USD.001     98974V107   186,587  64,563.000          SOLE                   X      0    0
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
