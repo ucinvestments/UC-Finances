@@ -26,6 +26,11 @@ awards. Departmental identifiers, distinct affiliates and laboratories,
 and subawards require separate scope and verification. Treat the output as
 coverage of the listed recipients.
 
+The full historical run reconciled all six award categories against
+USAspending. Of 56,724 search matches, 56,722 had a verified recipient ID.
+The two remaining contracts used an alternate UC San Francisco registration
+and are listed in the export under `unmatched_award_ids`.
+
 [UCOP recipient identifiers](https://www.ucop.edu/research-policy-analysis-coordination/resources-tools/contract-and-grant-manual/chapter10/index.html#10-530)
 · [USAspending award categories](https://github.com/fedspendingtransparency/usaspending-api/blob/master/usaspending_api/awards/v2/lookups/lookups.py)
 
@@ -41,6 +46,9 @@ sponsored-projects offices. Both fall outside the default roster.
 
 Check the recorded recipient and reporting entity before expanding the
 roster to health systems, laboratory contractors, or affiliated entities.
+
+[First UCSF contract](https://www.usaspending.gov/award/CONT_AWD_FA486118PB060_9700_-NONE-_-NONE-)
+· [Second UCSF contract](https://www.usaspending.gov/award/CONT_AWD_VA26117P3176_3600_-NONE-_-NONE-)
 
 ## Historical keyword snapshot
 
